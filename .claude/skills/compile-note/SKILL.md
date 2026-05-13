@@ -1,15 +1,15 @@
 ---
 name: compile-note
-description: 将翻译、排版文章和语法笔记整合为一份全面的综合学习笔记，遵循AI实战参考模板格式，包含背景、原文、翻译、语法、心得、延伸、思考题等完整章节。用户指定输出路径。
+description: 将翻译、排版文章、语法笔记和长难句分析整合为一份全面的综合学习笔记，遵循AI实战参考模板格式，包含背景、原文、翻译、长难句分析、语法、心得、延伸、思考题等完整章节。用户指定输出路径。
 ---
 
 # 笔记整合技能 (compile-note)
 
-接收技能 1-3 的三个中间文件，整合为一份自包含的综合考研英语学习笔记。输出遵循 `C:\办公\Study-Notes\AI实战` 的笔记模板标准。
+接收技能 1-3、6 的四个中间文件，整合为一份自包含的综合考研英语学习笔记。输出遵循 `C:\办公\Study-Notes\AI实战` 的笔记模板标准。
 
 ## 前置条件
 
-- 技能 1-3 必须已执行完毕，三个中间文件已存在于 `intermediate/<topic>/` 下
+- 技能 1-3、6 必须已执行完毕，四个中间文件已存在于 `intermediate/<topic>/` 下
 - 用户需已决定最终笔记的存放位置
 - 输出格式参考 `obsidian-markdown` 技能及其 reference 文件
 
@@ -17,29 +17,32 @@ description: 将翻译、排版文章和语法笔记整合为一份全面的综�
 
 用户提供两项：
 
-1. **主题名（topic）** — 与技能 1-3 使用的 topic 一致
+1. **主题名（topic）** — 与技能 1-3、6 使用的 topic 一致
 2. **输出路径** — 完整文件路径，如 `C:\办公\Study-Notes\英语阅读\2024-text1-精读笔记.md`
 
 技能自动从 `c:\code\english-reading\intermediate\<topic>\` 读取：
 - `translation.md`
 - `formatted-article.md`
 - `grammar-notes.md`
+- `sentence-analysis.md`（如不存在则跳过该章节）
 
 ## 工作流
 
 ### 步骤 1：验证输入
 
-检查三个中间文件是否存在：
+检查四个中间文件是否存在：
 ```
 c:\code\english-reading\intermediate\<topic>\translation.md
 c:\code\english-reading\intermediate\<topic>\formatted-article.md
 c:\code\english-reading\intermediate\<topic>\grammar-notes.md
+c:\code\english-reading\intermediate\<topic>\sentence-analysis.md
 ```
-若任一文件缺失，向用户报告并提示先执行对应的技能。
+若 translation、formatted-article、grammar-notes 任一缺失，报告并提示先执行对应技能。
+若 sentence-analysis.md 缺失，在笔记中保留占位提示，不阻断整合。
 
 ### 步骤 2：提取并合并元数据
 
-从三个源文件中读取 YAML frontmatter，提取：
+从四个源文件中读取 YAML frontmatter，提取：
 - 标题、主题、标签、来源
 - 统一构建合并后的 frontmatter
 
@@ -64,6 +67,7 @@ related:
   - "[[translation]]"
   - "[[formatted-article]]"
   - "[[grammar-notes]]"
+  - "[[sentence-analysis]]"
 ---
 ```
 
@@ -86,30 +90,35 @@ related:
 4. **`## 翻译对照`** — 中英对照翻译（来自 Skill 1）：
    - 同样用 `![[translation]]` 嵌入或直接包含
 
-5. **`## 语法要点`** — 结构化语法笔记（来自 Skill 3）：
+5. **`## 长难句分析`** — 句子结构分析（来自 Skill 6）：
+   - 用 `![[sentence-analysis]]` 嵌入或直接包含
+   - 若 sentence-analysis.md 不存在，输出占位提示：
+     `> [!note] 提示：使用 /analyze-sentence 添加长难句分析内容`
+
+6. **`## 语法要点`** — 结构化语法笔记（来自 Skill 3）：
    - 用 `![[grammar-notes]]` 嵌入或直接包含
 
-6. **`<!-- VOCABULARY_SLOT -->`** — 生词表占位符：
+7. **`<!-- VOCABULARY_SLOT -->`** — 生词表占位符：
    - 必须是 HTML 注释格式，供 Skill 5 定位和替换
    - 不要在这行前后添加任何其他内容
 
-7. **`## 心得`** — 学习心得：
+8. **`## 心得`** — 学习心得：
    - AI 根据文章内容和考研命题特点生成初步心得
    - 可用 `> [!tip]` 标记解题技巧
    - 可用 `> [!warning]` 标记易错点
    - 可用 `> [!question]` 提出反思问题
 
-8. **`## 延伸`** — 拓展内容：
+9. **`## 延伸`** — 拓展内容：
    - 相关主题推荐
    - 后续文章建议
    - 补充学习资源
    - 用 `[[wikilinks]]` 链接到其他笔记
 
-9. **`## 思考题`** — 考研风格练习题：
-   - 3-5 道基于文章的理解/分析题
-   - 模拟考研命题风格（主旨题、细节题、推断题、词义题）
+10. **`## 思考题`** — 考研风格练习题：
+    - 3-5 道基于文章的理解/分析题
+    - 模拟考研命题风格（主旨题、细节题、推断题、词义题）
 
-10. **`## 相关笔记`** — 笔记库内的关联链接：
+11. **`## 相关笔记`** — 笔记库内的关联链接：
     - 用 `[[wikilinks]]` 指向相关笔记
 
 ### 步骤 5：应用格式美化
@@ -145,9 +154,10 @@ related:
 
 ## 约束
 
-- 不得删除或修改三个中间文件——它们作为独立参考保留
+- 不得删除或修改四个中间文件——它们作为独立参考保留
 - 笔记中的源内容通过 `![[wikilink]]` 引用或直接包含，二选一；默认选嵌入
 - `<!-- VOCABULARY_SLOT -->` 占位符必须精确放置，供 Skill 5 替换
+- 若 `sentence-analysis.md` 不存在，不阻断整合，但在 `## 长难句分析` 章节给出占位提示
 
 ## 相关技能
 
@@ -155,6 +165,7 @@ related:
 - `translate` — 产出翻译文件（前置）
 - `format-article` — 产出排版文件（前置）
 - `organize-grammar` — 产出语法文件（前置）
+- `analyze-sentence` — 产出长难句分析文件（前置）
 - `extract-vocabulary` — 从本笔记提取生词（后续）
 
 ## 输出格式参考

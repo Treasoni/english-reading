@@ -16,6 +16,7 @@ related:
   - "[[translation]]"
   - "[[formatted-article]]"
   - "[[grammar-notes]]"
+  - "[[sentence-analysis]]"
 ---
 
 # The Future of AI 精读笔记
@@ -42,6 +43,12 @@ related:
 ## 翻译对照
 
 ![[translation]]
+
+---
+
+## 长难句分析
+
+![[sentence-analysis]]
 
 ---
 
