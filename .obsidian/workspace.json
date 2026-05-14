@@ -11,10 +11,14 @@
             "id": "e15422d1eff7bd73",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "intermediate/2000-passage1-america/formatted-article.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "formatted-article"
             }
           }
         ]
@@ -172,12 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "intermediate/2000-passage1-america/formatted-article.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "formatted-article 的大纲"
             }
           },
           {
@@ -249,7 +254,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "492bea91a8795ff6",
+  "active": "e15422d1eff7bd73",
   "lastOpenFiles": [
     "intermediate/2000-passage1-america/formatted-article.md",
     "intermediate/2000-passage1-america",
