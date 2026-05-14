@@ -4,20 +4,20 @@
   "title": "看起来你想使用 `/format-article` 技能来排版一篇英文文章。我需要以下信息才能...",
   "titleGenerationStatus": "success",
   "createdAt": 1778741678479,
-  "updatedAt": 1778741874699,
-  "lastResponseAt": 1778741874699,
+  "updatedAt": 1778742248821,
+  "lastResponseAt": 1778742248821,
   "sessionId": "aaed163f-2487-40c4-a003-8f9d469f3d3d",
   "providerState": {
     "providerSessionId": "aaed163f-2487-40c4-a003-8f9d469f3d3d"
   },
   "usage": {
     "model": "deepseek-v4-flash",
-    "inputTokens": 128,
+    "inputTokens": 91,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 28160,
+    "cacheReadInputTokens": 35584,
     "contextWindow": 200000,
-    "contextTokens": 28288,
-    "percentage": 14,
+    "contextTokens": 35675,
+    "percentage": 18,
     "contextWindowIsAuthoritative": true
   }
 }
