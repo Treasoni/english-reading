@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778741678465-ax2k76x5q",
+  "providerId": "claude",
+  "title": "看起来你想使用 `/format-article` 技能来排版一篇英文文章。我需要以下信息才能...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778741678479,
+  "updatedAt": 1778741717814,
+  "lastResponseAt": 1778741717814,
+  "sessionId": "aaed163f-2487-40c4-a003-8f9d469f3d3d",
+  "providerState": {
+    "providerSessionId": "aaed163f-2487-40c4-a003-8f9d469f3d3d"
+  },
+  "usage": {
+    "model": "deepseek-v4-flash",
+    "inputTokens": 746,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20096,
+    "contextWindow": 200000,
+    "contextTokens": 20842,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

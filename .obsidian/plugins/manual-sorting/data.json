@@ -1,0 +1,13 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "README.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "alphabetical",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
