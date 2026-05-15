@@ -2,7 +2,22 @@
   "customOrder": {
     "/": {
       "children": [
+        "intermediate",
         "README.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "intermediate": {
+      "children": [
+        "intermediate/2000-passage1-america"
+      ],
+      "sortOrder": "custom"
+    },
+    "intermediate/2000-passage1-america": {
+      "children": [
+        "intermediate/2000-passage1-america/formatted-article.md",
+        "intermediate/2000-passage1-america/grammar-notes.md",
+        "intermediate/2000-passage1-america/translation.md"
       ],
       "sortOrder": "custom"
     }
