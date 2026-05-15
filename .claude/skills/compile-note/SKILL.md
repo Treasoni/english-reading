@@ -9,7 +9,7 @@ description: 将翻译、排版文章、语法笔记和长难句分析整合为�
 
 ## 前置条件
 
-- 技能 1-3、6 必须已执行完毕，四个中间文件已存在于 `intermediate/<topic>/` 下
+- 用户需准备好 `intermediate/` 下的一个文件夹路径，内含已完成的前置技能产出文件
 - 用户需已决定最终笔记的存放位置
 - 输出格式参考 `obsidian-markdown` 技能及其 reference 文件
 
@@ -17,28 +17,27 @@ description: 将翻译、排版文章、语法笔记和长难句分析整合为�
 
 用户提供两项：
 
-1. **主题名（topic）** — 与技能 1-3、6 使用的 topic 一致
+1. **资料文件夹路径** — `intermediate/` 下的文件夹路径（如 `intermediate/2000-passage1-america/`），技能自动从该文件夹读取以下文件：
+   - `formatted-article.md`
+   - `translation.md`
+   - `grammar-notes.md`
+   - `sentence-analysis.md`
 2. **输出路径** — 完整文件路径，如 `C:\办公\Study-Notes\英语阅读\2024-text1-精读笔记.md`
-
-技能自动从 `c:\code\english-reading\intermediate\<topic>\` 读取：
-- `translation.md`
-- `formatted-article.md`
-- `grammar-notes.md`
-- `sentence-analysis.md`（如不存在则跳过该章节）
 
 ## 工作流
 
-### 步骤 1：验证输入
+### 步骤 1：收集源文件
 
-检查四个中间文件是否存在：
-```
-c:\code\english-reading\intermediate\<topic>\translation.md
-c:\code\english-reading\intermediate\<topic>\formatted-article.md
-c:\code\english-reading\intermediate\<topic>\grammar-notes.md
-c:\code\english-reading\intermediate\<topic>\sentence-analysis.md
-```
-若 translation、formatted-article、grammar-notes 任一缺失，报告并提示先执行对应技能。
-若 sentence-analysis.md 缺失，在笔记中保留占位提示，不阻断整合。
+- 向用户询问："请提供 intermediate 下的资料文件夹路径（如 `intermediate/2000-passage1-america/`）："
+- 用户提供路径后，用 Bash `ls` 列出该文件夹内容
+- 用 Read 工具依次读取四个文件：
+  - `intermediate/<folder>/formatted-article.md`
+  - `intermediate/<folder>/translation.md`
+  - `intermediate/<folder>/grammar-notes.md`
+  - `intermediate/<folder>/sentence-analysis.md`
+- 若 formatted-article、translation、grammar-notes 任一缺失，报告并提示先执行对应技能
+- 若 sentence-analysis.md 缺失，在笔记中保留占位提示，不阻断整合
+- 向用户确认已读取的文件列表
 
 ### 步骤 2：提取并合并元数据
 
@@ -63,11 +62,6 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 sources:
   - "[从源文件合并]"
-related:
-  - "[[translation]]"
-  - "[[formatted-article]]"
-  - "[[grammar-notes]]"
-  - "[[sentence-analysis]]"
 ---
 ```
 
@@ -82,21 +76,24 @@ related:
    - 为什么选择这篇文章
    - 文章来源和难度说明
 
-3. **`## 文章原文`** — 格式化后的英文原文（来自 Skill 2）：
-   - 用 `![[wikilink]]` 嵌入（如 `![[formatted-article]]`）
-   - 或直接包含内容（若用户偏好自包含笔记）
-   - 默认使用嵌入方式保持 Obsidian 链接实时性
+3. **`## 文章原文`** — 格式化后的英文原文（来自 format-article）：
+   - 从 formatted-article.md 中读取正文内容，**直接插入到当前笔记中**
+   - 去除源文件的 YAML frontmatter（第一个 `---` 到第二个 `---` 之间），只保留正文
+   - 保留原文的所有格式（标题、粗体、高亮、引用等）
 
-4. **`## 翻译对照`** — 中英对照翻译（来自 Skill 1）：
-   - 同样用 `![[translation]]` 嵌入或直接包含
+4. **`## 翻译对照`** — 中英对照翻译（来自 translate）：
+   - 从 translation.md 中读取内容，去 frontmatter 后直接插入
+   - 保留中英对照格式和 `> [!note]` 翻译说明
+   - 若文件中包含行内 `> [!abstract]- 长难句分析` callout（由 analyze-sentence 技能插入），保留在原位
 
-5. **`## 长难句分析`** — 句子结构分析（来自 Skill 6）：
-   - 用 `![[sentence-analysis]]` 嵌入或直接包含
-   - 若 sentence-analysis.md 不存在，输出占位提示：
-     `> [!note] 提示：使用 /analyze-sentence 添加长难句分析内容`
+5. **`## 长难句分析`** — 句子结构分析：
+   - 若 sentence-analysis.md 存在：读取内容，去 frontmatter 后直接插入
+   - 若不存在但文章原文/翻译中包含 `> [!abstract]- 长难句分析` callout：在此章节汇总列出所有 callout，原文中的 callout 可保留或去除重复
+   - 若以上均不存在：输出占位提示 `> [!note] 提示：使用 /analyze-sentence 添加长难句分析内容`
 
-6. **`## 语法要点`** — 结构化语法笔记（来自 Skill 3）：
-   - 用 `![[grammar-notes]]` 嵌入或直接包含
+6. **`## 语法要点`** — 结构化语法笔记（来自 organize-grammar）：
+   - 从 grammar-notes.md 中读取内容，去 frontmatter 后直接插入
+   - 保留所有 callout、表格和分类结构
 
 7. **`<!-- VOCABULARY_SLOT -->`** — 生词表占位符：
    - 必须是 HTML 注释格式，供 Skill 5 定位和替换
@@ -135,16 +132,16 @@ related:
 
 - 写入用户指定的输出路径
 - 自动创建父目录（如不存在）
-- 验证：总字数、章节数、嵌入数
+- 验证：总字数、章节数
 - 向用户报告完整路径
 
 ### 步骤 7：自我学习（可选）
 
-检查 `c:\code\english-reading\.learnings\` 目录。若存在且有值得记录的整合问题或改进，追加到 `LEARNINGS.md`。
+检查 `.learnings/` 目录。若存在且有值得记录的整合问题或改进，追加到 `LEARNINGS.md`。
 
 ## 关键设计决策
 
-- **嵌入 vs 包含**：默认使用 `![[wikilink]]` 嵌入源文件。若用户希望笔记自包含（不依赖外部文件），改为直接包含内容。
+- **直接包含源内容**：所有源文件内容直接嵌入到最终笔记中，不使用 `![[wikilink]]`。笔记完全自包含，不依赖外部文件的 Obsidian 链接解析。读取源文件后去除 YAML frontmatter，仅保留正文。
 - **`<!-- VOCABULARY_SLOT -->`**：HTML 注释不会被 Obsidian 显示，但 Skill 5 可以准确定位插入位置。
 - **遵循格式参考**：章节命名和结构对标 `C:\办公\Study-Notes\AI实战` 下的笔记标准（背景、心得、延伸、思考题）。
 
@@ -154,8 +151,9 @@ related:
 
 ## 约束
 
-- 不得删除或修改四个中间文件——它们作为独立参考保留
-- 笔记中的源内容通过 `![[wikilink]]` 引用或直接包含，二选一；默认选嵌入
+- 不得删除或修改源文件——它们作为独立参考保留
+- 笔记中的源内容直接包含，不依赖 Obsidian wikilink 嵌入机制
+- 读取源文件时去除 YAML frontmatter，只取正文内容
 - `<!-- VOCABULARY_SLOT -->` 占位符必须精确放置，供 Skill 5 替换
 - 若 `sentence-analysis.md` 不存在，不阻断整合，但在 `## 长难句分析` 章节给出占位提示
 
