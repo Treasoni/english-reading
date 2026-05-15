@@ -1,6 +1,5 @@
 [
   "obsidian-custom-attachment-location",
-  "obsidian-git",
   "manual-sorting",
   "obsidian-language-learner",
   "obsidian42-brat",
@@ -10,5 +9,6 @@
   "terminal",
   "notebook-navigator",
   "obsidian-enhancing-export",
-  "custom-sort"
+  "custom-sort",
+  "obsidian-git"
 ]

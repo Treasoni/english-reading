@@ -8,7 +8,7 @@ tags:
   - bilingual
 difficulty: intermediate
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-15
 ---
 
 # America's Economic Journey: From Post-War Dominance to Resurgence 美国经济之旅：从战后主导到复兴
@@ -46,3 +46,39 @@ updated: 2026-05-14
 
 > [!note] 翻译说明
 > **"gone on a diet"** 本义为"节食减肥"，此处为比喻用法，指美国工业进行了精简瘦身、削减成本，以提升效率。译为"进行了精简"以传达其隐喻含义。
+
+---
+
+## 阅读理解 Questions
+
+**51.** The U.S. achieved its predominance after World War II because
+**51.** 美国在二战后获得优势地位的原因是
+
+- [A] it had made painstaking efforts towards this goal / 它为此目标付出了艰苦努力
+- [B] its domestic market was eight times larger than before / 其国内市场比以前大了八倍
+- [C] the war had destroyed the economies of most potential competitors / 战争摧毁了大多数潜在竞争对手的经济
+- [D] the unparalleled size of its workforce had given an impetus to its economy / 其无与伦比的劳动力规模推动了经济增长
+
+**52.** The loss of U.S. predominance in the world economy in the 1980s is manifested in the fact that the American
+**52.** 20世纪80年代美国在世界经济中优势地位的丧失体现在美国
+
+- [A] TV industry had withdrawn to its domestic market / 电视产业已退缩到国内市场
+- [B] semiconductor industry had been taken over by foreign enterprises / 半导体产业已被外国企业接管
+- [C] machine-tool industry had collapsed after suicidal actions / 机床产业在自杀性行为后崩溃
+- [D] auto industry had lost part of its domestic market / 汽车产业失去了部分国内市场
+
+**53.** What can be inferred from the passage?
+**53.** 从文章中可以推断出什么？
+
+- [A] It is human nature to shift between self-doubt and blind pride. / 在自我怀疑和盲目骄傲之间转换是人的天性
+- [B] Intense competition may contribute to economic progress. / 激烈的竞争可能促进经济进步
+- [C] The revival of the economy depends on international cooperation. / 经济复苏依赖于国际合作
+- [D] A long history of success may pave the way for further development. / 长期的成功可能为进一步发展铺平道路
+
+**54.** The author seems to believe the revival of the U.S. economy in the 1990s can be attributed to the
+**54.** 作者似乎认为美国20世纪90年代的经济复苏归因于
+
+- [A] turning of the business cycle / 商业周期的转变
+- [B] restructuring of industry / 产业结构重组
+- [C] improved business management / 企业管理的改善
+- [D] success in education / 教育的成功

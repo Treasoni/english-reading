@@ -1,7 +1,7 @@
 {
   "userName": "",
   "permissionMode": "yolo",
-  "model": "deepseek-v4-flash",
+  "model": "deepseek-v4-pro[1m]",
   "thinkingBudget": "low",
   "effortLevel": "high",
   "serviceTier": "default",
@@ -59,9 +59,9 @@
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
-      "installationMethod": "native-windows",
-      "installationMethodsByHost": {},
-      "wslDistroOverride": "",
+      "installationMethodsByHost": {
+        "zhqzncdeMacBook-Air.local": "native-windows"
+      },
       "wslDistroOverridesByHost": {}
     },
     "opencode": {
@@ -78,7 +78,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "deepseek-v4-flash"
+    "claude": "deepseek-v4-pro[1m]"
   },
   "savedProviderEffort": {
     "claude": "high"
@@ -90,7 +90,7 @@
   "savedProviderPermissionMode": {
     "claude": "yolo"
   },
-  "lastCustomModel": "deepseek-v4-flash",
+  "lastCustomModel": "deepseek-v4-pro[1m]",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,

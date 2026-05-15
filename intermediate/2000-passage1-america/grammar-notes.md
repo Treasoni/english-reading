@@ -8,11 +8,16 @@ tags:
   - reference
 difficulty: intermediate
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-15
 concepts:
   - 状语从句
   - 定语从句
+  - 宾语从句
   - 非谓语动词
+  - 形式主语It
+  - As的用法
+  - 复杂宾语结构
+  - 固定搭配
   - A of B结构核心词判定
 ---
 
@@ -157,3 +162,154 @@ concepts:
 > "A of B"结构作主语时：
 > - **一般规则**（A是核心词）：谓语单复数由 A 决定 → The **development** of these technologies **is** fast.
 > - **例外规则**（A是数量词，B是核心词）：谓语单复数由 B 决定 → A number of **students are** reading.
+
+---
+
+### 从句：宾语从句 (Object Clauses)
+
+宾语从句是在主谓宾结构中充当"宾语"的完整句子，通常紧跟在及物动词（如 believe, think, know, find, show 等）后面。
+
+> [!note] 核心本质
+> 宾语从句 = 一个完整的句子充当动词的宾语，而非简单的名词或代词。
+
+#### 结构对比
+
+| 类型 | 结构 | 例句 |
+|------|------|------|
+| **简单句**（名词作宾语） | 主语 + 及物动词 + 名词 | I like **this apple**. |
+| **复合句**（句子作宾语） | 主语 + 及物动词 + (that) + 从句 | I believe **(that) you like this apple**. |
+
+#### 引导词 that 的省略规则
+
+> [!warning] 核心考点 ⚠️
+> 宾语从句的 **that** 仅起连接作用，在从句中不充当任何成分，也没有实际含义。因此在绝大多数情况下可以**省略**。
+>
+> **阅读实战**：看到"主语 + 动词 + 另一个主语 + 动词"紧挨在一起时（如 I think he is right），中间往往就是省略了 that 的宾语从句。
+
+#### 其他宾语从句引导词
+
+| 引导词类型 | 示例 | 注意 |
+|-----------|------|------|
+| **疑问词** (what, who, where, when, why, how) | I don't know **what** he wants. | **不能省略**，在从句中充当成分 |
+| **if / whether**（表"是否"） | I wonder **if/whether** it will rain tomorrow. | 引导从句时二选一 |
+
+---
+
+### 补充要点：形式主语 (Formal Subject "It")
+
+当真正的主语太长（不定式短语或从句）时，将其移到句末，并在句首用 **It** 占位，避免句子"头重脚轻"。
+
+> [!note] It 的含义
+> 形式主语的 **It 没有任何实际意义**，不要翻译成"它"，它只是一个"没有感情的占位符"。
+
+#### 两种常见结构
+
+| 结构 | 通用句型 | 例句 |
+|------|---------|------|
+| **It 代替不定式短语** | It is + adj. + (for sb.) + **to do sth.** | **It** is important **to learn math**. |
+| **It 代替主语从句** | It is + adj./n. + **that + 完整从句** | **It** is useful **that I learn math**. |
+
+> [!tip] 考研长难句翻译技巧
+> 遇到 It is... to do... 或 It is... that... 时：
+> 1. **视而不见**：自动屏蔽 It，绝不翻译成"它是……"
+> 2. **直奔主题**：往后找 to do 或 that，这才是真正的主语
+> 3. **调整语序**：按中文习惯将真正主语提前翻译
+>    - ~~它是重要的去学数学。~~ ❌
+>    - **学习数学很重要。** ✅
+
+---
+
+### 介词与连词：As 的核心用法 (The Multi-functional "As")
+
+在长难句中看到 as，先看它后面紧跟什么成分来判定词性。
+
+> [!tip] 核心判定法则
+> - as + **名词/名词短语** → 介词，译为"作为"
+> - as + **完整句子（有主谓）** → 连词，灵活翻译
+
+#### As 作介词 (Preposition)
+
+| 结构 | 含义 | 例句 |
+|------|------|------|
+| as + 名词/代词 | **作为，当作** | **As a person**, I should learn things. |
+
+> [!note] 考研高频搭配
+> "regard/view/see/treat A **as** B" → 把 A 当作 B
+
+#### As 作连词 (Conjunction)
+
+| 含义 | 用法说明 | 例句 |
+|------|---------|------|
+| **正如，照……方式** | 表方式/比较 | **As** someone pointed out, ... |
+| **因为，由于** | 表原因（语气比 because 弱） | **As** I am a student, I should learn things. |
+| **当……时，随着……** | 表时间，常与变化类动词搭配 | **As** time goes by, we grow older. |
+
+> [!tip] 翻译小贴士
+> 当 as 后面的句子出现表示"变化"的词（如 increase, go by, grow）时，往往翻译为"**随着**"。
+
+---
+
+### 固定搭配：Make/Find A + B (Complex Object Structure)
+
+**A** = 宾语（动作的承受者），**B** = 宾语补足语（补充说明 A 的特征或状态）。
+
+#### Make A B 的四种类型
+
+| B 的类型 | 结构 | 例句 |
+|---------|------|------|
+| **形容词 (adj.)** | Make + n. + **adj.** | The news made him **happy**. |
+| **动词原形 (do)** | Make + n. + **do**（不加 to） | The boss made them **work** day and night. |
+| **名词 (n.)** | Make + n. + **n.** | We made him **our monitor**. |
+| **介词短语 (prep.)** | Make + n. + **介词短语** | Make yourself **at home**. |
+
+#### Find A B 的常见类型
+
+| B 的类型 | 例句 |
+|---------|------|
+| **形容词 (adj.)** | I found the book **interesting**. |
+| **名词 (n.)** | They found him **a genius**. |
+
+> [!tip] 考研长难句断句技巧
+> 看到 Make/Find 后跟一长串词时，主动寻找 B（补足语）的位置：
+>
+> The internet has made **the spread of information** [A] **much faster and easier than before** [B].
+>
+> → 互联网使得信息的传播比以前更快更容易。
+
+---
+
+### 固定搭配：take sth for granted (视……为理所当然)
+
+**基本释义**：把某事/某人视作理所当然；因习以为常而不懂得珍惜。
+
+> [!note] 情感色彩（阅读重点）
+> 在考研文章中通常带有**轻微的批判色彩**，作者常用它来指出大众的普遍误解或忽视的事实。
+
+| 结构 | 例句 |
+|------|------|
+| take + 名词/代词 + **for granted** | We often take **our health** for granted until we get sick. |
+
+---
+
+### 固定搭配：attribute A to B (把 A 归因于 B)
+
+| 语态 | 结构 | 例句 |
+|------|------|------|
+| **主动** | 主语 + **attribute** + A(结果) + **to** + B(原因) | He attributed **his success** to **hard work**. |
+| **被动**（考研极高频） | A(结果) + **is attributed to** + B(原因) | **The warming of the earth** is attributed to **greenhouse gases**. |
+
+> [!tip] 被动语态翻译技巧
+> 考研阅读中被动形式极常见，可按中文习惯调整语序翻译因果关系：
+> - 直译：全球变暖被归因于温室气体。
+> - 通顺：**温室气体导致了全球变暖。**
+
+---
+
+### 固定搭配：yield to (屈服于 / 对……让步)
+
+> [!warning] 阅读高频考点 ⚠️
+> **yield** 后紧跟介词 **to** 时，意思发生 180 度大转弯，表示弱势一方的妥协。
+
+| 结构 | 含义 | 常接宾语 | 例句 |
+|------|------|---------|------|
+| yield **to** sb./sth. | 屈服于，对……让步 | pressure, temptation, demand | The government refused to yield to **public pressure**. |

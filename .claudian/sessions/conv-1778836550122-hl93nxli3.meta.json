@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778836550122-hl93nxli3",
+  "providerId": "claude",
+  "title": "此对话的标题生成如下：\n\n**考研英语阅读综合笔记编译**",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778836550123,
+  "updatedAt": 1778837472662,
+  "lastResponseAt": 1778837472662,
+  "sessionId": "5a6d1b70-08d5-4877-b434-cf283ea9b0fb",
+  "providerState": {
+    "providerSessionId": "5a6d1b70-08d5-4877-b434-cf283ea9b0fb"
+  },
+  "usage": {
+    "model": "deepseek-v4-pro[1m]",
+    "inputTokens": 1829,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 57472,
+    "contextWindow": 1000000,
+    "contextTokens": 59301,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}
