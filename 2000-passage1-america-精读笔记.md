@@ -149,7 +149,75 @@ sources:
 >
 > **考点提示**：`It was inevitable that...` 为形式主语结构，It 无实义，翻译时把真正主语提前。`should have narrowed` 不是虚拟语气，此处 should 表"必然/理应"，描述既成事实。`Just as inevitably` 是 `It was just as inevitable that...` 的省略，与句1形成递进，共同构成文章论点框架。
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - 主句: `It` (无人称主语) + `looked` (V)
+> - 表从内部: `the making of semiconductors` (S) + `was going to be` (V) + `the next casualty` (C)
+>
+> **修饰成分**：
+> | 类型 | 引导词/成分 | 修饰对象 |
+> |------|------------|----------|
+> | 状语 | `For a while` | `looked` (时间状语) |
+> | 表语从句 | `as though ... was going to be...` | `looked` 后的真正内容 |
+> | 介短 | `of semiconductors` | `the making` (内容定语) |
+> | 非限定定从 | `, which America had invented` | `semiconductors` (补充说明) |
+> | 非限定定从 | `, and which sat at the heart of the new computer age` | `semiconductors` (并列补充) |
+>
+> **结构图解**：
+> ```
+> 主句: It looked  (S无人称 + V)
+>   ├── 状: (For a while) → 时间状语
+>   └── 表从: (as though the making... was going to be the next casualty)
+>       ├── S: the making
+>       │     └── 介短: (of semiconductors) → 修饰 making
+>       │           ├── 定从: , which America had invented → 修饰 semiconductors
+>       │           └── 定从: , and which sat at the heart of the new computer age
+>       ├── V: was going to be
+>       └── C: the next casualty
+> ```
+>
+> **参考译文**：曾有一段时间，半导体制造业——这一由美国发明、处于新计算机时代核心位置的产业——似乎将成为下一个牺牲品。
+>
+> **考点提示**：两个并列的非限定性定从插入在主语和谓语之间，造成主谓分隔——阅读时需跳过插入修饰找到谓语 `was going to be`。`as though` 引导表语从句，表示"似乎"。`was going to be` 为过去将来时。
+
 **(1)** All of this caused a **crisis of confidence**. (2) Americans stopped taking prosperity for granted. (3) They began to believe that their way of doing business was failing, and that their incomes would therefore shortly begin to fall as well. (4) The mid-1980s brought one inquiry after another into the causes of America's industrial decline. (5) Their sometimes **sensational findings** were filled with warnings about the growing competition from overseas.
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - `They` (S) + `began` (V) + `to believe...` (O)
+>
+> **修饰成分**：
+> | 类型 | 引导词/成分 | 修饰对象 |
+> |------|------------|----------|
+> | 不定式 | `to believe...` | `began` (宾语) |
+> | 宾语从句 | `that their way of doing business was failing` | `believe` (宾从1) |
+> | 介短 | `of doing business` | `way` (内容定语) |
+> | 宾语从句 | `that their incomes would therefore shortly begin to fall` | `believe` (宾从2，and 并列) |
+> | 副词 | `therefore` | `would begin` (因果状语) |
+> | 副词 | `shortly` | `would begin` (时间状语) |
+> | 副词 | `as well` | `would begin` (也) |
+>
+> **结构图解**：
+> ```
+> 主句: They began to believe  (S+V+O)
+>   └── O: to believe
+>       ├── 宾从1: that their way ... was failing (原因)
+>       │     ├── S: their way
+>       │     │     └── 介短: (of doing business) → 修饰 way
+>       │     └── V: was failing
+>       └── and (并列)
+>           └── 宾从2: that their incomes would begin to fall (结果)
+>                 ├── S: their incomes
+>                 ├── 状: therefore → 因果
+>                 ├── 状: shortly → 时间
+>                 ├── V: would begin
+>                 ├── O: to fall
+>                 └── 状: as well → 也
+> ```
+>
+> **参考译文**：他们开始认为自己的经营方式正在失败，因此他们的收入很快也会开始下降。
+>
+> **考点提示**：两个 that 宾语从句由 `and` 并列，都充当 `believe` 的宾语——长宾语并列导致阅读障碍。宾从1 是原因（经营方式失败），宾从2 是结果（收入下降），`therefore` 标记因果逻辑，是推断题的关键定位点。
 
 **(1)** ==How things have changed!== (2) In 1995 the United States can look back on five years of **solid growth** while Japan has been struggling. (3) Few Americans attribute this solely to such obvious causes as a **devalued dollar** or the turning of the business cycle. (4) **Self-doubt** has yielded to **blind pride**. (5) "American industry has changed its structure, has gone on a diet, has learnt to be more quick-witted," according to Richard Cavanaugh, executive dean of Harvard's Kennedy School of Government. (6) "It makes me proud to be an American just to see how our businesses are improving their **productivity**," says Stephen Moore of the Cato Institute, a think-tank in Washington, DC. (7) And William Sahlman of the Harvard Business School believes that people will look back on this period as "==a golden age of business management in the United States==."
 
@@ -271,6 +339,8 @@ sources:
 2. **Para 1b**: *When the United States entered just such a glowing period after the end of the Second World War, it had a market...* — 时间状从 + 非谓语结果状语 + 倍数表达法
 3. **Para 1c**: *America and Americans were prosperous beyond the dreams of the Europeans and Asians whose economies the war had destroyed.* — 系表结构 + whose 定从 + 过去完成时
 4. **Para 2**: *It was inevitable that this primacy should have narrowed... Just as inevitably, the retreat from predominance proved painful.* — 形式主语 It + should 情态 + 省略递进
+   - **Para 2 句(8)**: *For a while it looked as though the making of semiconductors...* — as though 表从 + 双定从插入分隔
+5. **Para 3**: *They began to believe that their way of doing business was failing, and that their incomes would therefore shortly begin to fall as well.* — 并列宾从 + 因果逻辑
 
 ---
 
