@@ -62,6 +62,63 @@ sources:
 
 **(1)** When the United States entered just such a **glowing** period after the end of the Second World War, it had a market eight times larger than any competitor, giving its industries **unparalleled economies of scale**. (2) Its scientists were the world's best; its workers the most skilled. (3) America and Americans were **prosperous** beyond the dreams of the Europeans and Asians whose economies the war had destroyed.
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - 状从: `the United States` (S) + `entered` (V) + `just such a glowing period` (O)
+> - 主句: `it` (S) + `had` (V) + `a market` (O)
+>
+> **修饰成分**：
+> 
+> | 类型 | 引导词/成分 | 修饰对象 |
+> |------|------------|----------|
+> | 状语从句 | `When` (时间状语从句) | 整个主句 `it had a market` |
+> | 介词短语 | `after the end of the Second World War` | `period` (从句内部后置定语) |
+> | 形容词短语 | `eight times larger than any competitor` | `a market` (后置定语) |
+> | 非谓语 | `giving its industries unparalleled economies of scale` | 整个主句 (结果状语) |
+>
+> **结构图解**：
+> ```
+> 状从: When the United States entered just such a glowing period
+>   └── 介短: (after the end of the Second World War) → 修饰 period
+> 主句: it had a market  (S+V+O)
+>   ├── 形容词短语: (eight times larger than any competitor) → 修饰 market
+>   └── 非谓语: giving its industries unparalleled economies of scale → 结果状语
+>       ├── 宾语: its industries
+>       └── 宾补: unparalleled economies of scale
+> ```
+>
+> **参考译文**：二战结束后，美国进入了这样一个辉煌时期，它拥有的市场规模是任何竞争对手的八倍，这为其产业带来了无与伦比的规模经济。
+>
+> **考点提示**：非谓语动词 `giving...` 的逻辑主语并非主句主语 `it`，而是整个主句描述的事实，属结果状语用法。倍数表达 `eight times larger than` 为考研翻译高频考点。
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - `America and Americans` (S) + `were` (V) + `prosperous` (C)
+>
+> **修饰成分**：
+> 
+> | 类型 | 引导词/成分 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | `beyond the dreams` | `prosperous` (程度状语) |
+> | 介词短语 | `of the Europeans and Asians` | `dreams` (所属定语) |
+> | 定语从句 | `whose economies the war had destroyed` | `the Europeans and Asians` |
+>
+> **结构图解**：
+> ```
+> 主句: America and Americans were prosperous  (S+V+C)
+>   └── 介短: (beyond the dreams) → 程度状语，修饰 prosperous
+>       └── 介短: (of the Europeans and Asians) → 所属，修饰 dreams
+>           └── 定从: (whose economies the war had destroyed) → 修饰 the Europeans and Asians
+>               ├── whose (= their) → 修饰 economies
+>               ├── S: the war
+>               ├── V: had destroyed
+>               └── O: whose economies
+> ```
+>
+> **参考译文**：美国和美国人民繁荣富裕的程度，超出了那些经济被战争摧毁的欧洲人和亚洲人的梦想。
+>
+> **考点提示**：`whose` 指代人表所属关系 (n.1 + whose + n.2)，译为"……的"。`had destroyed` 过去完成时表示动作在 `were prosperous` 之前发生，时序层次是完形填空常见考点。`beyond + 名词` 作程度状语，翻译时需调整中文语序。
+
 **(1)** It was **inevitable** that this **primacy** should have narrowed as other countries grew richer. (2) Just as inevitably, the **retreat from predominance** proved painful. (3) By the mid-1980s Americans had found themselves at a loss over their **fading industrial competitiveness**. (4) Some huge American industries, such as consumer electronics, had shrunk or vanished in the face of foreign competition. (5) By 1987 there was only one American television maker left, Zenith. (6) (Now there is none: Zenith was bought by South Korea's LG Electronics in July.) (7) Foreign-made cars and textiles were sweeping into the domestic market. America's machine-tool industry was on the ropes. (8) For a while it looked as though the making of semiconductors, which America had invented and which sat at the heart of the new computer age, was going to be the next **casualty**.
 
 **(1)** All of this caused a **crisis of confidence**. (2) Americans stopped taking prosperity for granted. (3) They began to believe that their way of doing business was failing, and that their incomes would therefore shortly begin to fall as well. (4) The mid-1980s brought one inquiry after another into the causes of America's industrial decline. (5) Their sometimes **sensational findings** were filled with warnings about the growing competition from overseas.
@@ -182,7 +239,9 @@ sources:
 
 已分析句子（详见 `## 文章原文` 中对应段落后的 `> [!abstract]- 长难句分析` callout）：
 
-1. **Para 1**: *A history of long and effortless success can be a dreadful handicap, but, if properly handled, it may become a driving force.* — 并列句 + 状语从句省略
+1. **Para 1a**: *A history of long and effortless success can be a dreadful handicap, but, if properly handled, it may become a driving force.* — 并列句 + 状语从句省略
+2. **Para 1b**: *When the United States entered just such a glowing period after the end of the Second World War, it had a market...* — 时间状从 + 非谓语结果状语 + 倍数表达法
+3. **Para 1c**: *America and Americans were prosperous beyond the dreams of the Europeans and Asians whose economies the war had destroyed.* — 系表结构 + whose 定从 + 过去完成时
 
 ---
 
