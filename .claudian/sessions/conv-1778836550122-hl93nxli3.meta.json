@@ -4,19 +4,19 @@
   "title": "此对话的标题生成如下：\n\n**考研英语阅读综合笔记编译**",
   "titleGenerationStatus": "success",
   "createdAt": 1778836550123,
-  "updatedAt": 1778851373012,
-  "lastResponseAt": 1778851373012,
+  "updatedAt": 1778851466153,
+  "lastResponseAt": 1778851466153,
   "sessionId": "5a6d1b70-08d5-4877-b434-cf283ea9b0fb",
   "providerState": {
     "providerSessionId": "5a6d1b70-08d5-4877-b434-cf283ea9b0fb"
   },
   "usage": {
     "model": "deepseek-v4-pro[1m]",
-    "inputTokens": 88,
+    "inputTokens": 265,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 67200,
+    "cacheReadInputTokens": 74112,
     "contextWindow": 1000000,
-    "contextTokens": 67288,
+    "contextTokens": 74377,
     "percentage": 7,
     "contextWindowIsAuthoritative": true
   }

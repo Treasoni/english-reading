@@ -121,6 +121,34 @@ sources:
 
 **(1)** It was **inevitable** that this **primacy** should have narrowed as other countries grew richer. (2) Just as inevitably, the **retreat from predominance** proved painful. (3) By the mid-1980s Americans had found themselves at a loss over their **fading industrial competitiveness**. (4) Some huge American industries, such as consumer electronics, had shrunk or vanished in the face of foreign competition. (5) By 1987 there was only one American television maker left, Zenith. (6) (Now there is none: Zenith was bought by South Korea's LG Electronics in July.) (7) Foreign-made cars and textiles were sweeping into the domestic market. America's machine-tool industry was on the ropes. (8) For a while it looked as though the making of semiconductors, which America had invented and which sat at the heart of the new computer age, was going to be the next **casualty**.
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - 句1: `It` (形式主语) + `was` (V系) + `inevitable` (C)；真正主语：`that this primacy should have narrowed...`
+> - 真主内部: `this primacy` (S) + `should have narrowed` (V)
+> - 句2: `the retreat` (S) + `proved` (V系) + `painful` (C)
+>
+> **修饰成分**：
+> | 类型 | 引导词/成分 | 修饰对象 |
+> |------|------------|----------|
+> | 名词从句 | `that this primacy should have narrowed...` | It 的真正主语 |
+> | 状语从句 | `as other countries grew richer` | `should have narrowed` (时间状语) |
+> | 介词短语 | `from predominance` | `the retreat` (后置定语) |
+> | 副词短语 | `Just as inevitably` | 句2 `proved painful` (方式状语) |
+>
+> **结构图解**：
+> ```
+> 句1: It was inevitable  (S形式 + V系 + C)
+>   └── 名从: (that this primacy should have narrowed) → 真正主语
+>       └── 状从: (as other countries grew richer) → 时间状语，修饰 narrowed
+> 句2: the retreat ... proved painful  (S+V系+C)
+>   ├── 介短: (from predominance) → 修饰 retreat
+>   └── 副词: (Just as inevitably) → 方式状语
+> ```
+>
+> **参考译文**：随着其他国家日益富裕，这种优势地位不可避免地缩小了。同样不可避免的是，从主导地位上的退却令人痛苦。
+>
+> **考点提示**：`It was inevitable that...` 为形式主语结构，It 无实义，翻译时把真正主语提前。`should have narrowed` 不是虚拟语气，此处 should 表"必然/理应"，描述既成事实。`Just as inevitably` 是 `It was just as inevitable that...` 的省略，与句1形成递进，共同构成文章论点框架。
+
 **(1)** All of this caused a **crisis of confidence**. (2) Americans stopped taking prosperity for granted. (3) They began to believe that their way of doing business was failing, and that their incomes would therefore shortly begin to fall as well. (4) The mid-1980s brought one inquiry after another into the causes of America's industrial decline. (5) Their sometimes **sensational findings** were filled with warnings about the growing competition from overseas.
 
 **(1)** ==How things have changed!== (2) In 1995 the United States can look back on five years of **solid growth** while Japan has been struggling. (3) Few Americans attribute this solely to such obvious causes as a **devalued dollar** or the turning of the business cycle. (4) **Self-doubt** has yielded to **blind pride**. (5) "American industry has changed its structure, has gone on a diet, has learnt to be more quick-witted," according to Richard Cavanaugh, executive dean of Harvard's Kennedy School of Government. (6) "It makes me proud to be an American just to see how our businesses are improving their **productivity**," says Stephen Moore of the Cato Institute, a think-tank in Washington, DC. (7) And William Sahlman of the Harvard Business School believes that people will look back on this period as "==a golden age of business management in the United States==."
@@ -242,6 +270,7 @@ sources:
 1. **Para 1a**: *A history of long and effortless success can be a dreadful handicap, but, if properly handled, it may become a driving force.* — 并列句 + 状语从句省略
 2. **Para 1b**: *When the United States entered just such a glowing period after the end of the Second World War, it had a market...* — 时间状从 + 非谓语结果状语 + 倍数表达法
 3. **Para 1c**: *America and Americans were prosperous beyond the dreams of the Europeans and Asians whose economies the war had destroyed.* — 系表结构 + whose 定从 + 过去完成时
+4. **Para 2**: *It was inevitable that this primacy should have narrowed... Just as inevitably, the retreat from predominance proved painful.* — 形式主语 It + should 情态 + 省略递进
 
 ---
 
