@@ -644,7 +644,32 @@ sources:
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **blind pride** | n. | 盲目骄傲；狂妄自大 | "**Self-doubt** has yielded to **blind pride**." |
+| **casualty** | n. | 受害者；牺牲品 | "...was going to be the next **casualty**." |
+| **crisis of confidence** | n. | 信心危机 | "All of this caused a **crisis of confidence**." |
+| **devalued dollar** | n. | 贬值的美元 | "Few Americans attribute this solely to such obvious causes as a **devalued dollar** or the turning of the business cycle." |
+| **dreadful handicap** | n. | 可怕的障碍；严重的不利条件 | "A history of long and **effortless success** can be a **dreadful handicap**" |
+| **driving force** | n. | 驱动力；推动力 | "but, if properly handled, it may become a **driving force**." |
+| **effortless success** | n. | 轻而易举的成功；不费力的成功 | "A history of long and **effortless success** can be a **dreadful handicap**" |
+| **fading industrial competitiveness** | n. | 日益衰退的工业竞争力 | "By the mid-1980s Americans had found themselves at a loss over their **fading industrial competitiveness**." |
+| **glowing** | adj. | 辉煌的；光彩照人的 | "When the United States entered just such a **glowing** period after the end of the Second World War" |
+| **inevitable** | adj. | 不可避免的；必然的 | "It was **inevitable** that this **primacy** should have **narrowed** as other countries grew richer." |
+| **narrowed** | v. | 缩小；变窄 | "It was **inevitable** that this **primacy** should have **narrowed** as other countries grew richer." |
+| **one inquiry after another** | n. | 接二连三的调查 | "The mid-1980s brought **one inquiry after another** into the causes of America's industrial decline." |
+| **on the ropes** | idiom | 岌岌可危；濒临失败（源自拳击术语） | "America's machine-tool industry was **on the ropes**." |
+| **primacy** | n. | 首要地位；优势地位 | "It was **inevitable** that this **primacy** should have **narrowed** as other countries grew richer." |
+| **productivity** | n. | 生产率；生产力 | "how our businesses are improving their **productivity**" |
+| **prosperity** | n. | 繁荣；兴旺 | "Americans stopped taking **prosperity** for granted." |
+| **prosperous** | adj. | 繁荣的；富裕的 | "America and Americans were **prosperous** beyond the dreams of the Europeans and Asians" |
+| **retreat from predominance** | n. | 从主导地位的退却 | "Just as inevitably, the **retreat from predominance** proved painful." |
+| **Self-doubt** | n. | 自我怀疑 | "**Self-doubt** has yielded to **blind pride**." |
+| **sensational findings** | n. | 耸人听闻的调查结果/发现 | "Their sometimes **sensational findings** were filled with warnings about the growing competition from overseas." |
+| **solid growth** | n. | 稳健增长 | "the United States can look back on five years of **solid growth** while Japan has been struggling." |
+| **unparalleled economies of scale** | n. | 无与伦比的规模经济 | "giving its industries **unparalleled economies of scale**" |
 
 ---
 
