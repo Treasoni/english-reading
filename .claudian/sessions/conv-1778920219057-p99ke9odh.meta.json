@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778920219057-p99ke9odh",
+  "providerId": "claude",
+  "title": "/format-article",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778920219057,
+  "updatedAt": 1778920234445,
+  "lastResponseAt": 1778920219783,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "0b7f9578-e946-47f1-9cd2-b11a8a8ea635"
+  },
+  "usage": {
+    "model": "MiniMax-M2.7-highspeed",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": false
+  }
+}

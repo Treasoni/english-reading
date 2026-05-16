@@ -4,9 +4,9 @@
   "title": "需要处理哪个笔记文件？请提供文件路径或名称，我会扫描其中的加粗生词，生成词汇表并替换 `<!-...",
   "titleGenerationStatus": "success",
   "createdAt": 1778896995492,
-  "updatedAt": 1778897176890,
+  "updatedAt": 1778920206380,
   "lastResponseAt": 1778897176889,
-  "sessionId": "c1aaaebd-b6fc-452e-98b5-8c27119a5654",
+  "sessionId": null,
   "providerState": {
     "providerSessionId": "c1aaaebd-b6fc-452e-98b5-8c27119a5654"
   },
