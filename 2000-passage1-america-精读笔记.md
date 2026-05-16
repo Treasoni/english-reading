@@ -182,13 +182,14 @@ sources:
 >
 > **考点提示**：两个并列的非限定性定从插入在主语和谓语之间，造成主谓分隔——阅读时需跳过插入修饰找到谓语 `was going to be`。`as though` 引导表语从句，表示"似乎"。`was going to be` 为过去将来时。
 
-**(1)** All of this caused a **crisis of confidence**. (2) Americans stopped taking prosperity for granted. (3) They began to believe that their way of doing business was failing, and that their incomes would therefore shortly begin to fall as well. (4) The mid-1980s brought one inquiry after another into the causes of America's industrial decline. (5) Their sometimes **sensational findings** were filled with warnings about the growing competition from overseas.
+**(1)** All of this caused a **crisis of confidence**. (2) Americans stopped taking **prosperity** for granted. (3) They began to believe that their way of doing business was failing, and that their incomes would therefore shortly begin to fall as well. (4) The mid-1980s brought **one inquiry after another** into the causes of America's industrial decline. (5) Their sometimes **sensational findings** were filled with warnings about the growing competition from overseas.
 
 > [!abstract]- 长难句分析
 > **主干提取**：
 > - `They` (S) + `began` (V) + `to believe...` (O)
 >
 > **修饰成分**：
+> 
 > | 类型 | 引导词/成分 | 修饰对象 |
 > |------|------------|----------|
 > | 不定式 | `to believe...` | `began` (宾语) |
