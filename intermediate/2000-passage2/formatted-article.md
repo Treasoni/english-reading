@@ -13,7 +13,7 @@ sources:
 
 ## 正文
 
-Being a man has always been dangerous. There are about 105 males born for every 100 females, but this ratio drops to near balance at the age of maturity, and among 70-year-olds there are only about 100 males for every 100 females. As a result, men die younger and are more vulnerable to physical injuries throughout life. This higher male mortality is a persistent pattern across human societies.
+Being a man has always been dangerous. There are about 105 males born for every 100 females, but this ratio drops to near balance at the age of maturity, and among 70-year-olds there are twice as many women as men. But the great universal of male mortality is being changed. Now, boy babies survive almost as well as girls do. This means that, for the first time, there will be an excess of boys in those crucial years when they are searching for a mate. More important, another chance for natural selection has been removed. Fifty years ago, the chance of a baby (particularly a boy baby) surviving depended on its weight. A kilogram too light or too heavy meant almost certain death. Today it makes almost no difference. Since much of the variation is due to genes, one more agent of evolution has gone.
 
 There is another way to commit evolutionary suicide: stay alive, but have fewer children. Few people are as fertile as in the past. Except in some religious communities, very few women have 15 children. Nowadays the number of births, like the age of death, has become average. Most of us have roughly the same number of offspring. Again, differences between people and the opportunity for natural selection to take advantage of it have diminished. India shows what is happening. The country offers wealth for a few in the great cities and poverty for the remaining tribal peoples. The grand mediocrity of today—everyone being the same in survival and number of offspring—means that natural selection has lost 80% of its power in upper-middle-class India compared to the tribes.
 
@@ -21,7 +21,7 @@ For us, this means that evolution is over; the biological Utopia has arrived. St
 
 ## 题目
 
-55. What used to be the danger in being a man according to the first paragraph?
+1. What used to be the danger in being a man according to the first paragraph?
 
 [A] A lack of mates.
 
