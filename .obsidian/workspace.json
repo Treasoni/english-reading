@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000-passage1-america-精读笔记.md",
+                "file": "intermediate/2000-passage2/formatted-article.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2000-passage1-america-精读笔记"
+              "title": "formatted-article"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2000-passage1-america-精读笔记.md",
+                "file": "intermediate/2000-passage2/formatted-article.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2000-passage1-america-精读笔记 的大纲"
+              "title": "formatted-article 的大纲"
             }
           },
           {
@@ -244,12 +244,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "492bea91a8795ff6",
+  "active": "5f410b0a2349d2df",
   "lastOpenFiles": [
+    "2000-passage1-america-精读笔记.md",
     "intermediate/2000-passage2/formatted-article.md",
     "intermediate/2000-passage2",
     "intermediate/2000-passage1-america/grammar-notes.md",
-    "2000-passage1-america-精读笔记.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "intermediate/2000-passage1-america/sentence-analysis.md",
