@@ -119,7 +119,7 @@ sources:
 >
 > **考点提示**：`whose` 指代人表所属关系 (n.1 + whose + n.2)，译为"……的"。`had destroyed` 过去完成时表示动作在 `were prosperous` 之前发生，时序层次是完形填空常见考点。`beyond + 名词` 作程度状语，翻译时需调整中文语序。
 
-**(1)** It was **inevitable** that this **primacy** should have narrowed as other countries grew richer. (2) Just as inevitably, the **retreat from predominance** proved painful. (3) By the mid-1980s Americans had found themselves at a loss over their **fading industrial competitiveness**. (4) Some huge American industries, such as consumer electronics, had shrunk or vanished in the face of foreign competition. (5) By 1987 there was only one American television maker left, Zenith. (6) (Now there is none: Zenith was bought by South Korea's LG Electronics in July.) (7) Foreign-made cars and textiles were sweeping into the domestic market. America's machine-tool industry was on the ropes. (8) For a while it looked as though the making of semiconductors, which America had invented and which sat at the heart of the new computer age, was going to be the next **casualty**.
+**(1)** It was **inevitable** that this **primacy** should have **narrowed** as other countries grew richer. (2) Just as inevitably, the **retreat from predominance** proved painful. (3) By the mid-1980s Americans had found themselves at a loss over their **fading industrial competitiveness**. (4) Some huge American industries, such as consumer electronics, had shrunk or vanished in the face of foreign competition. (5) By 1987 there was only one American television maker left, Zenith. (6) (Now there is none: Zenith was bought by South Korea's LG Electronics in July.) (7) Foreign-made cars and textiles were sweeping into the domestic market. America's machine-tool industry was on the ropes. (8) For a while it looked as though the making of semiconductors, which America had invented and which sat at the heart of the new computer age, was going to be the next **casualty**.
 
 > [!abstract]- 长难句分析
 > **主干提取**：
@@ -128,6 +128,7 @@ sources:
 > - 句2: `the retreat` (S) + `proved` (V系) + `painful` (C)
 >
 > **修饰成分**：
+> 
 > | 类型 | 引导词/成分 | 修饰对象 |
 > |------|------------|----------|
 > | 名词从句 | `that this primacy should have narrowed...` | It 的真正主语 |
