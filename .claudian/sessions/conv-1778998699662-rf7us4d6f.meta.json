@@ -4,20 +4,20 @@
   "title": "<tool_call>\n<function=skill>\n<parameter=skill_n...",
   "titleGenerationStatus": "success",
   "createdAt": 1778998699662,
-  "updatedAt": 1778998817089,
-  "lastResponseAt": 1778998817088,
+  "updatedAt": 1778998897471,
+  "lastResponseAt": 1778998897471,
   "sessionId": "3e8c3dc9-6e35-4107-aaa9-841ac70c5553",
   "providerState": {
     "providerSessionId": "3e8c3dc9-6e35-4107-aaa9-841ac70c5553"
   },
   "usage": {
     "model": "mimo-v2.5-pro",
-    "inputTokens": 4687,
+    "inputTokens": 1094,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 29248,
+    "cacheReadInputTokens": 44480,
     "contextWindow": 200000,
-    "contextTokens": 33935,
-    "percentage": 17,
+    "contextTokens": 45574,
+    "percentage": 23,
     "contextWindowIsAuthoritative": true
   }
 }
