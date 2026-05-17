@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778998699662-rf7us4d6f",
+  "providerId": "claude",
+  "title": "<tool_call>\n<function=skill>\n<parameter=skill_n...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778998699662,
+  "updatedAt": 1778998817089,
+  "lastResponseAt": 1778998817088,
+  "sessionId": "3e8c3dc9-6e35-4107-aaa9-841ac70c5553",
+  "providerState": {
+    "providerSessionId": "3e8c3dc9-6e35-4107-aaa9-841ac70c5553"
+  },
+  "usage": {
+    "model": "mimo-v2.5-pro",
+    "inputTokens": 4687,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29248,
+    "contextWindow": 200000,
+    "contextTokens": 33935,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

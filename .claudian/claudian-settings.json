@@ -1,7 +1,7 @@
 {
   "userName": "",
   "permissionMode": "yolo",
-  "model": "MiniMax-M2.7-highspeed",
+  "model": "mimo-v2.5-pro",
   "thinkingBudget": "medium",
   "effortLevel": "high",
   "serviceTier": "default",
@@ -26,6 +26,13 @@
       "description": "",
       "envVars": "export ANTHROPIC_AUTH_TOKEN=\"sk-8Wmgss6ObLqm3QkqqhnShB01wfD53DGIlgdlqOvoEVb2AHbD\"\nexport ANTHROPIC_BASE_URL=\"https://minimax.a7m.com.cn\"\nexport CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=1\nexport ANTHROPIC_DEFAULT_HAIKU_MODEL=\"MiniMax-M2.7-highspeed\"\nexport ANTHROPIC_DEFAULT_SONNET_MODEL=\"MiniMax-M2.7-highspeed\"\nexport ANTHROPIC_DEFAULT_OPUS_MODEL=\"MiniMax-M2.7-highspeed\"",
       "scope": "provider:claude"
+    },
+    {
+      "id": "snippet-1778998686408",
+      "name": "mimo",
+      "description": "",
+      "envVars": "export ANTHROPIC_AUTH_TOKEN=\"tp-cr1zo27rc2pqs5simt3gu30ye7xrsg2h9trtkhlkmbysl3bt\"\nexport ANTHROPIC_BASE_URL=\"https://token-plan-cn.xiaomimimo.com/anthropic\"\nexport CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=1\nexport ANTHROPIC_DEFAULT_HAIKU_MODEL=\"mimo-v2.5-pro\"\nexport ANTHROPIC_DEFAULT_SONNET_MODEL=\"mimo-v2.5-pro\"\nexport ANTHROPIC_DEFAULT_OPUS_MODEL=\"mimo-v2.5-pro\"",
+      "scope": "provider:claude"
     }
   ],
   "customContextLimits": {},
@@ -47,8 +54,8 @@
       "enableSonnet1M": false,
       "customModels": "",
       "lastModel": "haiku",
-      "environmentVariables": "export ANTHROPIC_AUTH_TOKEN=\"sk-8Wmgss6ObLqm3QkqqhnShB01wfD53DGIlgdlqOvoEVb2AHbD\"\nexport ANTHROPIC_BASE_URL=\"https://minimax.a7m.com.cn\"\nexport CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=1\nexport ANTHROPIC_DEFAULT_HAIKU_MODEL=\"MiniMax-M2.7-highspeed\"\nexport ANTHROPIC_DEFAULT_SONNET_MODEL=\"MiniMax-M2.7-highspeed\"\nexport ANTHROPIC_DEFAULT_OPUS_MODEL=\"MiniMax-M2.7-highspeed\"",
-      "environmentHash": "ANTHROPIC_BASE_URL=https://minimax.a7m.com.cn|ANTHROPIC_DEFAULT_HAIKU_MODEL=MiniMax-M2.7-highspeed|ANTHROPIC_DEFAULT_OPUS_MODEL=MiniMax-M2.7-highspeed|ANTHROPIC_DEFAULT_SONNET_MODEL=MiniMax-M2.7-highspeed"
+      "environmentVariables": "export ANTHROPIC_AUTH_TOKEN=\"tp-cr1zo27rc2pqs5simt3gu30ye7xrsg2h9trtkhlkmbysl3bt\"\nexport ANTHROPIC_BASE_URL=\"https://token-plan-cn.xiaomimimo.com/anthropic\"\nexport CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=1\nexport ANTHROPIC_DEFAULT_HAIKU_MODEL=\"mimo-v2.5-pro\"\nexport ANTHROPIC_DEFAULT_SONNET_MODEL=\"mimo-v2.5-pro\"\nexport ANTHROPIC_DEFAULT_OPUS_MODEL=\"mimo-v2.5-pro\"",
+      "environmentHash": "ANTHROPIC_BASE_URL=https://token-plan-cn.xiaomimimo.com/anthropic|ANTHROPIC_DEFAULT_HAIKU_MODEL=mimo-v2.5-pro|ANTHROPIC_DEFAULT_OPUS_MODEL=mimo-v2.5-pro|ANTHROPIC_DEFAULT_SONNET_MODEL=mimo-v2.5-pro"
     },
     "codex": {
       "enabled": false,
@@ -78,7 +85,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "MiniMax-M2.7-highspeed"
+    "claude": "mimo-v2.5-pro"
   },
   "savedProviderEffort": {
     "claude": "high"

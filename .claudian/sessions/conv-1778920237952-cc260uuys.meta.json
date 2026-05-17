@@ -4,19 +4,19 @@
   "title": "**format-article** - 英文文章排版美化",
   "titleGenerationStatus": "success",
   "createdAt": 1778920237952,
-  "updatedAt": 1778998581910,
-  "lastResponseAt": 1778998581910,
-  "sessionId": "a9df58e0-65d8-4ab0-b412-fc49cfb10d2d",
+  "updatedAt": 1778998658008,
+  "lastResponseAt": 1778998651601,
+  "sessionId": null,
   "providerState": {
     "providerSessionId": "a9df58e0-65d8-4ab0-b412-fc49cfb10d2d"
   },
   "usage": {
     "model": "MiniMax-M2.7-highspeed",
-    "inputTokens": 39665,
+    "inputTokens": 46786,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 39665,
-    "percentage": 20
+    "contextTokens": 46786,
+    "percentage": 23
   }
 }
