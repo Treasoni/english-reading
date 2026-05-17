@@ -33,11 +33,58 @@ sources:
 
 ## 文章原文
 
-Being a man has always been dangerous. There are about 105 males born for every 100 females, but this ratio drops to near balance at the age of maturity, and among 70-year-olds there are twice as many women as men. But the great universal of male mortality is being changed. Now, boy babies survive almost as well as girls do. This means that, for the first time, there will be an excess of boys in those crucial years when they are searching for a mate. More important, another chance for natural selection has been removed. Fifty years ago, the chance of a baby (particularly a boy baby) surviving depended on its weight. A kilogram too light or too heavy meant almost certain death. Today it makes almost no difference. Since much of the variation is due to genes, one more agent of evolution has gone.
+Being a man has always been dangerous. There are about 105 males born for every 100 females, but this ratio drops to near balance at the age of **maturity**, and among 70-year-olds there are twice as many women as men. But the great **universal** of male **mortality** is being changed. Now, boy babies survive almost as well as girls do. This means that, for the first time, there will be an **excess** of boys in those **crucia**l years when they are searching for a mate. More important, another chance for natural selection has been removed. Fifty years ago, the chance of a baby (particularly a boy baby) surviving depended on its weight. A kilogram too light or too heavy meant almost certain death. Today it makes almost no difference. Since much of the **variation** is due to genes, one more agent of evolution has gone.
 
-There is another way to commit evolutionary suicide: stay alive, but have fewer children. Few people are as fertile as in the past. Except in some religious communities, very few women have 15 children. Nowadays the number of births, like the age of death, has become average. Most of us have roughly the same number of offspring. Again, differences between people and the opportunity for natural selection to take advantage of it have diminished. India shows what is happening. The country offers wealth for a few in the great cities and poverty for the remaining tribal peoples. The grand mediocrity of today—everyone being the same in survival and number of offspring—means that natural selection has lost 80% of its power in upper-middle-class India compared to the tribes.
+> [!abstract]- 长难句分析
+> **原句**：There are about 105 males born for every 100 females, but this ratio drops to near balance at the age of maturity, and among 70-year-olds there are twice as many women as men.
+>
+> **主干提取**：并列句（but + and 连接三个分句）
+> - 分句①：There are about 105 males（出生时男女比例约 105:100）
+> - 分句②：this ratio drops（比例下降）
+> - 分句③：there are twice as many women as men（女性是男性的两倍）
+>
+> **修饰成分**：
+> 
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 过去分词短语 | born (V-ed) | males |
+> | 介词短语 | for every | 105 males |
+> | 介词短语 | to near balance | drops |
+> | 介词短语 | at the age of maturity | drops |
+> | 介词短语 | among 70-year-olds | there are |
+> | 比较结构 | as...as | women |
+>
+> **结构图解**：
+> ```
+> 并列句 (but + and 连接三个分句):
+> ├── 分句①: There are about 105 males [born for every 100 females]
+> │     ├── There be: 存在句型
+> │     ├── about: 副词，修饰数字 105
+> │     └── born for every 100 females: 过去分词短语作后置定语 → 修饰 males
+> │
+> ├── 分句②: but this ratio drops to near balance [at the age of maturity]
+> │     ├── but: 并列连词，表转折
+> │     ├── to near balance: 介词短语 → 表结果
+> │     └── at the age of maturity: 介词短语 → 时间状语
+> │
+> └── 分句③: and [among 70-year-olds] there are twice as many women as men
+>       ├── and: 并列连词
+>       ├── among 70-year-olds: 介词短语 → 范围状语
+>       ├── there be: 存在句型
+>       └── twice as many women as men: as...as 比较结构
+>             └── twice: 倍数修饰语
+> ```
+>
+> **参考译文**：出生时每 100 名女性对应约 105 名男性，但这一比例在成年时趋于平衡，而在 70 岁人群中，女性人数是男性的两倍。
+>
+> **考点提示**：
+> - **There be 句型**：本句两次使用 There be 表示"存在"，注意主语在 be 动词之后
+> - **as...as + 倍数**：twice as many women as men 是考研高频考点：倍数 + as + adj. + as + 比较对象
+> - **并列连词层次**：but 和 and 连接三个分句，形成"转折→递进"逻辑
 
-For us, this means that evolution is over; the biological Utopia has arrived. Strangely, it has involved little physical change. No other species fills so many places in nature. But in the past 100, 000 years—even the past 100 years—our lives have been transformed but our bodies have not. We did not evolve, because machines and society did it for us. Darwin had a phrase to describe those ignorant of evolution: they "look at an organic being as a savage looks at a ship, as at something wholly beyond his comprehension." No doubt we will remember a 20th century way of life beyond comprehension for its ugliness. But however amazed our descendants may be at how far from Utopia we were, they will look just like us.
+There is another way to commit evolutionary **suicide**: stay alive, but have fewer children. Few people are as **fertile** as in the past. **Except** in some religious communities, very few women have 15 children. Nowadays the number of births, like the age of death, has become average. Most of us have roughly the same number of offspring. Again, differences between people and the opportunity for natural selection to take advantage of it have diminished. India shows what is happening. The country offers wealth for a few in the great cities and poverty for the remaining tribal peoples. The **grand mediocrity** of today—everyone being the same in survival and number of offspring—means that natural selection has lost 80% of its power in **upper-middle-class** India compared to the **tribes**.
+
+For us, this means that evolution is over; the biological Utopia has arrived. Strangely, it has involved little physical change. No other species fills so many places in nature. But in the past 100, 000 years—even the past 100 years—our lives have been **transformed** but our bodies have not. We did not evolve, because machines and society did it for us. Darwin had a phrase to describe those ignorant of evolution: they "look at an organic being as a savage looks at a ship, as at something wholly beyond his comprehension." No doubt we will remember a 20th century way of life beyond comprehension for its ugliness. But however amazed our descendants may be at how far from Utopia we were, they will look just like us.
 
 ---
 
@@ -229,7 +276,22 @@ For us, this means that evolution is over; the biological Utopia has arrived. St
 1. 先不看 as...as，把主干句子完整翻译出来
 2. 加上第二个 as 引出的比较对象
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **crucial** | adj. | 关键的，决定性的 | "...in those **crucial** years when they are searching for a mate." |
+| **excess** | n. | 过剩，过多 | "...there will be an **excess** of boys in those crucial years..." |
+| **fertile** | adj. | 肥沃的；多产的 | "Few people are as **fertile** as in the past." |
+| **grand mediocrity** | n. | 大平等（全员趋同） | "The **grand mediocrity** of today—everyone being the same in survival and number of offspring..." |
+| **maturity** | n. | 成熟，成年 | "...this ratio drops to near balance at the age of **maturity**..." |
+| **mortality** | n. | 死亡率 | "But the great **universal** of male **mortality** is being changed." |
+| **suicide** | n. | 自杀 | "There is another way to commit evolutionary **suicide**..." |
+| **transformed** | v. | 转变，改变 | "...our lives have been **transformed** but our bodies have not." |
+| **tribes** | n. | 部落 | "...natural selection has lost 80% of its power in upper-middle-class India compared to the **tribes**." |
+| **universal** | n. | 普遍现象 | "But the great **universal** of male mortality is being changed." |
+| **upper-middle-class** | n./adj. | 中上层阶级 | "...natural selection has lost 80% of its power in **upper-middle-class** India..." |
+| **variation** | n. | 变异，变化 | "Since much of the **variation** is due to genes, one more agent of evolution has gone." |
 
 ---
 
