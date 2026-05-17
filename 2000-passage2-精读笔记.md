@@ -284,6 +284,7 @@ For us, this means that evolution is over; the biological Utopia has arrived. St
 | **excess** | n. | 过剩，过多 | "...there will be an **excess** of boys in those crucial years..." |
 | **fertile** | adj. | 肥沃的；多产的 | "Few people are as **fertile** as in the past." |
 | **grand mediocrity** | n. | 大平等（全员趋同） | "The **grand mediocrity** of today—everyone being the same in survival and number of offspring..." |
+| **mediocrity** | n. | 平庸，平庸状态 | "The grand **mediocrity** of today—everyone being the same..." |
 | **maturity** | n. | 成熟，成年 | "...this ratio drops to near balance at the age of **maturity**..." |
 | **mortality** | n. | 死亡率 | "But the great **universal** of male **mortality** is being changed." |
 | **suicide** | n. | 自杀 | "There is another way to commit evolutionary **suicide**..." |
