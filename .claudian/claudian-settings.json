@@ -2,7 +2,7 @@
   "userName": "",
   "permissionMode": "yolo",
   "model": "MiniMax-M2.7-highspeed",
-  "thinkingBudget": "low",
+  "thinkingBudget": "medium",
   "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
@@ -85,12 +85,12 @@
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {
-    "claude": "low"
+    "claude": "medium"
   },
   "savedProviderPermissionMode": {
     "claude": "yolo"
   },
-  "lastCustomModel": "deepseek-v4-pro[1m]",
+  "lastCustomModel": "MiniMax-M2.7-highspeed",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
