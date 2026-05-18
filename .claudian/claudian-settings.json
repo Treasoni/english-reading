@@ -1,7 +1,7 @@
 {
   "userName": "",
   "permissionMode": "yolo",
-  "model": "mimo-v2.5-pro",
+  "model": "mimo-v2.5",
   "thinkingBudget": "medium",
   "effortLevel": "high",
   "serviceTier": "default",
@@ -41,6 +41,7 @@
     "scrollDownKey": "s",
     "focusInputKey": "i"
   },
+  "requireCommandOrControlEnterToSend": false,
   "locale": "en",
   "providerConfigs": {
     "claude": {
@@ -54,8 +55,8 @@
       "enableSonnet1M": false,
       "customModels": "",
       "lastModel": "haiku",
-      "environmentVariables": "export ANTHROPIC_AUTH_TOKEN=\"tp-cr1zo27rc2pqs5simt3gu30ye7xrsg2h9trtkhlkmbysl3bt\"\nexport ANTHROPIC_BASE_URL=\"https://token-plan-cn.xiaomimimo.com/anthropic\"\nexport CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=1\nexport ANTHROPIC_DEFAULT_HAIKU_MODEL=\"mimo-v2.5-pro\"\nexport ANTHROPIC_DEFAULT_SONNET_MODEL=\"mimo-v2.5-pro\"\nexport ANTHROPIC_DEFAULT_OPUS_MODEL=\"mimo-v2.5-pro\"",
-      "environmentHash": "ANTHROPIC_BASE_URL=https://token-plan-cn.xiaomimimo.com/anthropic|ANTHROPIC_DEFAULT_HAIKU_MODEL=mimo-v2.5-pro|ANTHROPIC_DEFAULT_OPUS_MODEL=mimo-v2.5-pro|ANTHROPIC_DEFAULT_SONNET_MODEL=mimo-v2.5-pro"
+      "environmentVariables": "export ANTHROPIC_AUTH_TOKEN=\"tp-cr1zo27rc2pqs5simt3gu30ye7xrsg2h9trtkhlkmbysl3bt\"\nexport ANTHROPIC_BASE_URL=\"https://token-plan-cn.xiaomimimo.com/anthropic\"\nexport CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=1\nexport ANTHROPIC_DEFAULT_HAIKU_MODEL=\"mimo-v2.5\"\nexport ANTHROPIC_DEFAULT_SONNET_MODEL=\"mimo-v2.5\"\nexport ANTHROPIC_DEFAULT_OPUS_MODEL=\"mimo-v2.5\"",
+      "environmentHash": "ANTHROPIC_BASE_URL=https://token-plan-cn.xiaomimimo.com/anthropic|ANTHROPIC_DEFAULT_HAIKU_MODEL=mimo-v2.5|ANTHROPIC_DEFAULT_OPUS_MODEL=mimo-v2.5|ANTHROPIC_DEFAULT_SONNET_MODEL=mimo-v2.5"
     },
     "codex": {
       "enabled": false,
@@ -67,7 +68,7 @@
       "environmentVariables": "",
       "environmentHash": "",
       "installationMethodsByHost": {
-        "zhqzncdeMacBook-Air.local": "native-windows"
+        "device:cc2a892a-4a83-4245-bdc9-7fdfdd400143": "native-windows"
       },
       "wslDistroOverridesByHost": {}
     },
@@ -85,7 +86,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "mimo-v2.5-pro"
+    "claude": "mimo-v2.5"
   },
   "savedProviderEffort": {
     "claude": "high"
@@ -97,7 +98,7 @@
   "savedProviderPermissionMode": {
     "claude": "yolo"
   },
-  "lastCustomModel": "MiniMax-M2.7-highspeed",
+  "lastCustomModel": "mimo-v2.5-pro",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,

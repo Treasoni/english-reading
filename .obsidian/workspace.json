@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intermediate/2000-passage1-america/grammar-notes.md",
+                "file": "intermediate/2000-passage3-futurist/translation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "grammar-notes"
+              "title": "translation"
             }
           }
         ]
@@ -244,8 +244,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c39f5e5a7dec4dce",
+  "active": "5f410b0a2349d2df",
   "lastOpenFiles": [
+    "intermediate/2000-passage3-futurist/formatted-article.md",
+    "intermediate/2000-passage3-futurist/translation.md",
+    "intermediate/2000-passage1-america/grammar-notes.md",
+    "intermediate/2000-passage3-futurist",
     "intermediate/2000-passage2/grammar-notes.md",
     "2000-passage2-精读笔记.md",
     "2000-passage1-america-精读笔记.md",
@@ -253,7 +257,6 @@
     "intermediate/2000-passage2/translation.md",
     "intermediate/2000-passage2/formatted-article.md",
     "intermediate/2000-passage2",
-    "intermediate/2000-passage1-america/grammar-notes.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "intermediate/2000-passage1-america/sentence-analysis.md",
@@ -273,8 +276,6 @@
     "考研计划/每日计划/2026-05-13-每日计划.md",
     "线性代数/第一章：行列式/错题题目.md",
     "线性代数/第一章：行列式/错题本.md",
-    "线性代数/第一章：行列式/1.4-特殊行列式的计算/1.4.5-递推型行列式.md",
-    "考研数学/高数-一元函数积分学/一元函数积分学的计算/4-变限积分的计算/求导公式.md",
     "考研专业课/数字电子技术/6-时序逻辑电路/assets/05-寄存器和移位寄存器/截屏2026-05-11 20.58.41.png",
     "考研专业课/数字电子技术/6-时序逻辑电路/assets/05-寄存器和移位寄存器/file-20260511203832116.png",
     "考研专业课/数字电子技术/6-时序逻辑电路/assets/05-寄存器和移位寄存器",
@@ -288,7 +289,6 @@
     "考研专业课/数字电子技术/6-时序逻辑电路/assets/03-同步时序电路设计",
     "考研/湖南大学2026年硕士研究生招生专业目录.pdf",
     "考研计划/未命名",
-    "考研专业课/数字电子技术/6-时序逻辑电路/assets/04-异步时序电路分析",
     "考研专业课/数字电子技术/6-时序逻辑电路/assets/01-时序逻辑电路基本概念/截屏2026-05-02 19.35.51.png",
     "考研专业课/数字电子技术/6-时序逻辑电路/assets/01-时序逻辑电路基本概念/截屏2026-05-02 19.24.55.png",
     "考研专业课/数字电子技术/6-时序逻辑电路/assets/01-时序逻辑电路基本概念/87214a68df4af60232db714e727a1031.png",

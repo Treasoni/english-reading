@@ -301,7 +301,9 @@ __export(env_exports, {
   formatContextLimit: () => formatContextLimit,
   getEnhancedPath: () => getEnhancedPath,
   getHostnameKey: () => getHostnameKey,
+  getLegacyHostnameKey: () => getLegacyHostnameKey,
   getMissingNodeError: () => getMissingNodeError,
+  migrateLegacyHostnameKeyedMap: () => migrateLegacyHostnameKeyedMap,
   parseContextLimit: () => parseContextLimit,
   parseEnvironmentVariables: () => parseEnvironmentVariables
 });
@@ -571,8 +573,69 @@ function parseEnvironmentVariables(input) {
   }
   return result;
 }
+function getDeviceSettingsStorage() {
+  try {
+    return typeof window === "undefined" ? null : window.localStorage;
+  } catch (e2) {
+    return null;
+  }
+}
+function createOpaqueDeviceSettingsKey() {
+  var _a3;
+  const cryptoApi = typeof window === "undefined" ? null : window.crypto;
+  const randomUUID2 = (_a3 = cryptoApi == null ? void 0 : cryptoApi.randomUUID) == null ? void 0 : _a3.call(cryptoApi);
+  if (randomUUID2) {
+    return `device:${randomUUID2}`;
+  }
+  if (cryptoApi == null ? void 0 : cryptoApi.getRandomValues) {
+    const randomBytes = new Uint8Array(16);
+    cryptoApi.getRandomValues(randomBytes);
+    const entropy2 = Array.from(randomBytes, (byte) => byte.toString(16).padStart(2, "0")).join("");
+    return `device:${Date.now().toString(36)}:${entropy2}`;
+  }
+  const entropy = Math.random().toString(36).slice(2);
+  return `device:${Date.now().toString(36)}:${entropy}`;
+}
 function getHostnameKey() {
-  return os4.hostname();
+  var _a3;
+  if (cachedDeviceSettingsKey) {
+    return cachedDeviceSettingsKey;
+  }
+  const storage = getDeviceSettingsStorage();
+  const stored = (_a3 = storage == null ? void 0 : storage.getItem(DEVICE_SETTINGS_STORAGE_KEY)) == null ? void 0 : _a3.trim();
+  if (stored) {
+    cachedDeviceSettingsKey = stored;
+    return cachedDeviceSettingsKey;
+  }
+  cachedDeviceSettingsKey = createOpaqueDeviceSettingsKey();
+  try {
+    storage == null ? void 0 : storage.setItem(DEVICE_SETTINGS_STORAGE_KEY, cachedDeviceSettingsKey);
+  } catch (e2) {
+  }
+  return cachedDeviceSettingsKey;
+}
+function getLegacyHostnameKey() {
+  try {
+    return os4.hostname();
+  } catch (e2) {
+    return "";
+  }
+}
+function migrateLegacyHostnameKeyedMap(entries, currentKey, legacyHostnameKey) {
+  if (!currentKey || !legacyHostnameKey || currentKey === legacyHostnameKey) {
+    return entries;
+  }
+  const hasCurrentEntry = Object.prototype.hasOwnProperty.call(entries, currentKey);
+  const hasLegacyEntry = Object.prototype.hasOwnProperty.call(entries, legacyHostnameKey);
+  if (!hasLegacyEntry) {
+    return entries;
+  }
+  const migrated = { ...entries };
+  if (!hasCurrentEntry) {
+    migrated[currentKey] = entries[legacyHostnameKey];
+  }
+  delete migrated[legacyHostnameKey];
+  return migrated;
 }
 function parseContextLimit(input) {
   var _a3;
@@ -598,7 +661,7 @@ function formatContextLimit(tokens) {
   }
   return tokens.toLocaleString();
 }
-var fs4, os4, path4, isWindows, PATH_SEPARATOR, NODE_EXECUTABLE, MIN_CONTEXT_LIMIT, MAX_CONTEXT_LIMIT;
+var fs4, os4, path4, isWindows, PATH_SEPARATOR, NODE_EXECUTABLE, DEVICE_SETTINGS_STORAGE_KEY, cachedDeviceSettingsKey, MIN_CONTEXT_LIMIT, MAX_CONTEXT_LIMIT;
 var init_env = __esm({
   "src/utils/env.ts"() {
     fs4 = __toESM(require("fs"));
@@ -608,6 +671,8 @@ var init_env = __esm({
     isWindows = process.platform === "win32";
     PATH_SEPARATOR = isWindows ? ";" : ":";
     NODE_EXECUTABLE = isWindows ? "node.exe" : "node";
+    DEVICE_SETTINGS_STORAGE_KEY = "claudian.deviceSettingsKey";
+    cachedDeviceSettingsKey = null;
     MIN_CONTEXT_LIMIT = 1e3;
     MAX_CONTEXT_LIMIT = 1e7;
   }
@@ -24787,8 +24852,20 @@ var ProviderRegistry = class {
     const providerId = (_a3 = options.providerId) != null ? _a3 : DEFAULT_CHAT_PROVIDER_ID;
     return this.getProviderRegistration(providerId).createRuntime(options);
   }
-  static createTitleGenerationService(plugin, providerId = DEFAULT_CHAT_PROVIDER_ID) {
+  static createTitleGenerationService(plugin, providerId) {
+    if (!providerId) {
+      return new RoutedTitleGenerationService(plugin);
+    }
     return this.getProviderRegistration(providerId).createTitleGenerationService(plugin);
+  }
+  static resolveTitleGenerationProviderId(settings11) {
+    const titleModel = typeof settings11.titleGenerationModel === "string" ? settings11.titleGenerationModel.trim() : "";
+    if (!titleModel) {
+      return DEFAULT_CHAT_PROVIDER_ID;
+    }
+    return this.resolveProviderForModel(titleModel, settings11, {
+      fallbackProviderId: DEFAULT_CHAT_PROVIDER_ID
+    });
   }
   static createInstructionRefineService(plugin, providerId = DEFAULT_CHAT_PROVIDER_ID) {
     return this.getProviderRegistration(providerId).createInstructionRefineService(plugin);
@@ -24869,6 +24946,43 @@ var ProviderRegistry = class {
   }
 };
 ProviderRegistry.registrations = {};
+var RoutedTitleGenerationService = class {
+  constructor(plugin) {
+    this.plugin = plugin;
+    this.activeGenerations = /* @__PURE__ */ new Map();
+  }
+  async generateTitle(conversationId, userMessage, callback) {
+    const providerId = ProviderRegistry.resolveTitleGenerationProviderId(
+      this.plugin.settings
+    );
+    const service = ProviderRegistry.createTitleGenerationService(this.plugin, providerId);
+    const generation = { service };
+    const previous = this.activeGenerations.get(conversationId);
+    this.activeGenerations.set(conversationId, generation);
+    previous == null ? void 0 : previous.service.cancel();
+    try {
+      await service.generateTitle(conversationId, userMessage, async (convId, result) => {
+        if (this.activeGenerations.get(conversationId) !== generation) {
+          return;
+        }
+        await callback(convId, result);
+      });
+    } finally {
+      if (this.activeGenerations.get(conversationId) === generation) {
+        this.activeGenerations.delete(conversationId);
+      }
+    }
+  }
+  cancel() {
+    const services = new Set(
+      [...this.activeGenerations.values()].map((generation) => generation.service)
+    );
+    this.activeGenerations.clear();
+    for (const service of services) {
+      service.cancel();
+    }
+  }
+};
 
 // src/core/storage/HomeFileAdapter.ts
 var fs = __toESM(require("fs"));
@@ -42003,6 +42117,7 @@ function getEnvironmentScopeUpdates(envText, fallbackScope) {
 }
 
 // src/providers/claude/settings.ts
+init_env();
 var CLAUDE_SAFE_MODES = ["acceptEdits", "auto", "default"];
 var DEFAULT_CLAUDE_PROVIDER_SETTINGS = Object.freeze({
   safeMode: "acceptEdits",
@@ -42036,10 +42151,18 @@ function normalizeClaudeSafeMode(value) {
 function getClaudeProviderSettings(settings11) {
   var _a3, _b2, _c, _d2, _e, _f, _g, _h, _i, _j2, _k, _l, _m, _n, _o, _p2, _q, _r, _s, _t, _u, _v;
   const config2 = getProviderConfig(settings11, "claude");
+  const normalizedCliPathsByHost = normalizeHostnameCliPaths(
+    (_a3 = config2.cliPathsByHost) != null ? _a3 : settings11.claudeCliPathsByHost
+  );
+  const cliPathsByHost = Object.keys(normalizedCliPathsByHost).length > 0 ? migrateLegacyHostnameKeyedMap(
+    normalizedCliPathsByHost,
+    getHostnameKey(),
+    getLegacyHostnameKey()
+  ) : normalizedCliPathsByHost;
   return {
-    safeMode: (_b2 = (_a3 = normalizeClaudeSafeMode(config2.safeMode)) != null ? _a3 : normalizeClaudeSafeMode(settings11.claudeSafeMode)) != null ? _b2 : DEFAULT_CLAUDE_PROVIDER_SETTINGS.safeMode,
-    cliPath: (_d2 = (_c = config2.cliPath) != null ? _c : settings11.claudeCliPath) != null ? _d2 : DEFAULT_CLAUDE_PROVIDER_SETTINGS.cliPath,
-    cliPathsByHost: normalizeHostnameCliPaths((_e = config2.cliPathsByHost) != null ? _e : settings11.claudeCliPathsByHost),
+    safeMode: (_c = (_b2 = normalizeClaudeSafeMode(config2.safeMode)) != null ? _b2 : normalizeClaudeSafeMode(settings11.claudeSafeMode)) != null ? _c : DEFAULT_CLAUDE_PROVIDER_SETTINGS.safeMode,
+    cliPath: (_e = (_d2 = config2.cliPath) != null ? _d2 : settings11.claudeCliPath) != null ? _e : DEFAULT_CLAUDE_PROVIDER_SETTINGS.cliPath,
+    cliPathsByHost,
     loadUserSettings: (_g = (_f = config2.loadUserSettings) != null ? _f : settings11.loadUserClaudeSettings) != null ? _g : DEFAULT_CLAUDE_PROVIDER_SETTINGS.loadUserSettings,
     enableChrome: (_i = (_h = config2.enableChrome) != null ? _h : settings11.enableChrome) != null ? _i : DEFAULT_CLAUDE_PROVIDER_SETTINGS.enableChrome,
     enableBangBash: (_k = (_j2 = config2.enableBangBash) != null ? _j2 : settings11.enableBangBash) != null ? _k : DEFAULT_CLAUDE_PROVIDER_SETTINGS.enableBangBash,
@@ -42494,7 +42617,7 @@ var ClaudeCliResolver = class {
     this.cachedHostname = getHostnameKey();
   }
   /**
-   * Resolves CLI path with priority: hostname-specific -> legacy -> auto-detect.
+   * Resolves CLI path with priority: device-specific -> legacy -> auto-detect.
    * @param settings Full app settings bag
    */
   resolveFromSettings(settings11) {
@@ -42716,17 +42839,23 @@ function getCodexProviderSettings(settings11) {
   var _a3, _b2, _c, _d2, _e, _f, _g, _h, _i, _j2, _k, _l, _m, _n, _o, _p2;
   const config2 = getProviderConfig(settings11, "codex");
   const hostnameKey = getHostnameKey();
-  const installationMethodsByHost = normalizeInstallationMethodsByHost(config2.installationMethodsByHost);
-  const wslDistroOverridesByHost = normalizeHostnameCliPaths2(config2.wslDistroOverridesByHost);
+  const normalizedCliPathsByHost = normalizeHostnameCliPaths2((_a3 = config2.cliPathsByHost) != null ? _a3 : settings11.codexCliPathsByHost);
+  const normalizedInstallationMethodsByHost = normalizeInstallationMethodsByHost(config2.installationMethodsByHost);
+  const normalizedWslDistroOverridesByHost = normalizeHostnameCliPaths2(config2.wslDistroOverridesByHost);
+  const hasLegacyHostnameKeyedSettings = Object.keys(normalizedCliPathsByHost).length > 0 || Object.keys(normalizedInstallationMethodsByHost).length > 0 || Object.keys(normalizedWslDistroOverridesByHost).length > 0;
+  const legacyHostnameKey = hasLegacyHostnameKeyedSettings ? getLegacyHostnameKey() : "";
+  const cliPathsByHost = hasLegacyHostnameKeyedSettings ? migrateLegacyHostnameKeyedMap(normalizedCliPathsByHost, hostnameKey, legacyHostnameKey) : normalizedCliPathsByHost;
+  const installationMethodsByHost = hasLegacyHostnameKeyedSettings ? migrateLegacyHostnameKeyedMap(normalizedInstallationMethodsByHost, hostnameKey, legacyHostnameKey) : normalizedInstallationMethodsByHost;
+  const wslDistroOverridesByHost = hasLegacyHostnameKeyedSettings ? migrateLegacyHostnameKeyedMap(normalizedWslDistroOverridesByHost, hostnameKey, legacyHostnameKey) : normalizedWslDistroOverridesByHost;
   const hasHostScopedInstallationMethods = Object.keys(installationMethodsByHost).length > 0;
   const hasHostScopedWslDistroOverrides = Object.keys(wslDistroOverridesByHost).length > 0;
   const legacyInstallationMethod = normalizeCodexInstallationMethod(config2.installationMethod);
   const legacyWslDistroOverride = normalizeOptionalString(config2.wslDistroOverride);
   return {
-    enabled: (_b2 = (_a3 = config2.enabled) != null ? _a3 : settings11.codexEnabled) != null ? _b2 : DEFAULT_CODEX_PROVIDER_SETTINGS.enabled,
-    safeMode: (_d2 = (_c = config2.safeMode) != null ? _c : settings11.codexSafeMode) != null ? _d2 : DEFAULT_CODEX_PROVIDER_SETTINGS.safeMode,
-    cliPath: (_f = (_e = config2.cliPath) != null ? _e : settings11.codexCliPath) != null ? _f : DEFAULT_CODEX_PROVIDER_SETTINGS.cliPath,
-    cliPathsByHost: normalizeHostnameCliPaths2((_g = config2.cliPathsByHost) != null ? _g : settings11.codexCliPathsByHost),
+    enabled: (_c = (_b2 = config2.enabled) != null ? _b2 : settings11.codexEnabled) != null ? _c : DEFAULT_CODEX_PROVIDER_SETTINGS.enabled,
+    safeMode: (_e = (_d2 = config2.safeMode) != null ? _d2 : settings11.codexSafeMode) != null ? _e : DEFAULT_CODEX_PROVIDER_SETTINGS.safeMode,
+    cliPath: (_g = (_f = config2.cliPath) != null ? _f : settings11.codexCliPath) != null ? _g : DEFAULT_CODEX_PROVIDER_SETTINGS.cliPath,
+    cliPathsByHost,
     customModels: (_h = config2.customModels) != null ? _h : DEFAULT_CODEX_PROVIDER_SETTINGS.customModels,
     reasoningSummary: (_j2 = (_i = config2.reasoningSummary) != null ? _i : settings11.codexReasoningSummary) != null ? _j2 : DEFAULT_CODEX_PROVIDER_SETTINGS.reasoningSummary,
     environmentVariables: (_l = (_k = config2.environmentVariables) != null ? _k : getProviderEnvironmentVariables(settings11, "codex")) != null ? _l : DEFAULT_CODEX_PROVIDER_SETTINGS.environmentVariables,
@@ -43275,6 +43404,12 @@ function normalizeOpencodePreferredThinkingByModel(value, discoveredModels = [])
 function getOpencodeProviderSettings(settings11) {
   var _a3, _b2, _c, _d2, _e;
   const config2 = getProviderConfig(settings11, "opencode");
+  const normalizedCliPathsByHost = normalizeHostnameCliPaths3(config2.cliPathsByHost);
+  const cliPathsByHost = Object.keys(normalizedCliPathsByHost).length > 0 ? migrateLegacyHostnameKeyedMap(
+    normalizedCliPathsByHost,
+    getHostnameKey(),
+    getLegacyHostnameKey()
+  ) : normalizedCliPathsByHost;
   seedOpencodeDiscoveryStateFromLegacyConfig(settings11, config2);
   const discoveryState = getOpencodeDiscoveryState(settings11);
   const availableModes = discoveryState.availableModes;
@@ -43282,7 +43417,7 @@ function getOpencodeProviderSettings(settings11) {
   return {
     availableModes,
     cliPath: (_a3 = config2.cliPath) != null ? _a3 : DEFAULT_OPENCODE_PROVIDER_SETTINGS.cliPath,
-    cliPathsByHost: normalizeHostnameCliPaths3(config2.cliPathsByHost),
+    cliPathsByHost,
     discoveredModels,
     enabled: (_b2 = config2.enabled) != null ? _b2 : DEFAULT_OPENCODE_PROVIDER_SETTINGS.enabled,
     environmentHash: (_c = config2.environmentHash) != null ? _c : DEFAULT_OPENCODE_PROVIDER_SETTINGS.environmentHash,
@@ -43325,8 +43460,8 @@ function updateOpencodeProviderSettings(settings11, updates) {
     nextVisibleModels
   );
   const nextCliPathsByHost = "cliPathsByHost" in updates ? normalizeHostnameCliPaths3(updates.cliPathsByHost) : { ...current.cliPathsByHost };
-  let nextCliPath = "cliPathsByHost" in updates ? DEFAULT_OPENCODE_PROVIDER_SETTINGS.cliPath : current.cliPath.trim();
-  if ("cliPath" in updates) {
+  let nextCliPath = "cliPathsByHost" in updates ? typeof updates.cliPath === "string" ? updates.cliPath.trim() : DEFAULT_OPENCODE_PROVIDER_SETTINGS.cliPath : current.cliPath.trim();
+  if ("cliPath" in updates && !("cliPathsByHost" in updates)) {
     const trimmedCliPath = typeof updates.cliPath === "string" ? updates.cliPath.trim() : "";
     if (trimmedCliPath) {
       nextCliPathsByHost[hostnameKey] = trimmedCliPath;
@@ -43538,6 +43673,30 @@ function normalizeProviderConfigs(value) {
   }
   return result;
 }
+var HOST_SCOPED_PROVIDER_CONFIG_FIELDS = {
+  claude: ["cliPathsByHost"],
+  codex: ["cliPathsByHost", "installationMethodsByHost", "wslDistroOverridesByHost"],
+  opencode: ["cliPathsByHost"]
+};
+function hasHostScopedProviderConfigNormalization(original, normalized) {
+  if (!normalized || typeof normalized !== "object" || Array.isArray(normalized)) {
+    return false;
+  }
+  const normalizedConfigs = normalized;
+  for (const [providerId, fields] of Object.entries(HOST_SCOPED_PROVIDER_CONFIG_FIELDS)) {
+    const originalConfig = original[providerId];
+    const normalizedConfig = normalizedConfigs[providerId];
+    if (!originalConfig || !normalizedConfig) {
+      continue;
+    }
+    for (const field of fields) {
+      if (field in originalConfig && JSON.stringify(originalConfig[field]) !== JSON.stringify(normalizedConfig[field])) {
+        return true;
+      }
+    }
+  }
+  return false;
+}
 function isEnvironmentScope(value) {
   return value === "shared" || typeof value === "string" && value.startsWith("provider:");
 }
@@ -43643,7 +43802,15 @@ var ClaudianSettingsStorage = class {
       merged,
       getCodexProviderSettings(legacyProviderSettings)
     );
-    if (settingsPath !== CLAUDIAN_SETTINGS_PATH || (hasLegacyTopLevelProviderFields(stored) || "show1MModel" in stored || "slashCommands" in stored || "hiddenSlashCommands" in stored || "activeConversationId" in stored || "allowExternalAccess" in stored || "allowedExportPaths" in stored || "enableBlocklist" in stored || "blockedCommands" in stored || shouldPersistChatViewPlacementMigration(stored, chatViewPlacement) || JSON.stringify(envSnippets) !== JSON.stringify((_a3 = stored.envSnippets) != null ? _a3 : []))) {
+    updateOpencodeProviderSettings(
+      merged,
+      getOpencodeProviderSettings(legacyProviderSettings)
+    );
+    const didNormalizeHostScopedProviderConfigs = hasHostScopedProviderConfigNormalization(
+      providerConfigs,
+      merged.providerConfigs
+    );
+    if (settingsPath !== CLAUDIAN_SETTINGS_PATH || (hasLegacyTopLevelProviderFields(stored) || "show1MModel" in stored || "slashCommands" in stored || "hiddenSlashCommands" in stored || "activeConversationId" in stored || "allowExternalAccess" in stored || "allowedExportPaths" in stored || "enableBlocklist" in stored || "blockedCommands" in stored || shouldPersistChatViewPlacementMigration(stored, chatViewPlacement) || JSON.stringify(envSnippets) !== JSON.stringify((_a3 = stored.envSnippets) != null ? _a3 : []) || didNormalizeHostScopedProviderConfigs)) {
       await this.save(merged);
     }
     return merged;
@@ -57668,7 +57835,7 @@ var claudeSettingsTabRenderer = {
     const hostnameKey = getHostnameKey();
     const platformDesc = process.platform === "win32" ? t("settings.cliPath.descWindows") : t("settings.cliPath.descUnix");
     const cliPathDescription = `${t("settings.cliPath.desc")} ${platformDesc}`;
-    const cliPathSetting = new import_obsidian13.Setting(container).setName(`${t("settings.cliPath.name")} (${hostnameKey})`).setDesc(cliPathDescription);
+    const cliPathSetting = new import_obsidian13.Setting(container).setName(t("settings.cliPath.name")).setDesc(cliPathDescription);
     const validationEl = container.createDiv({
       cls: "claudian-cli-path-validation claudian-setting-validation claudian-setting-validation-error claudian-hidden"
     });
@@ -58768,7 +58935,14 @@ Generate a title for this conversation:`;
     const envVars = parseEnvironmentVariables(
       this.plugin.getActiveEnvironmentVariables("claude")
     );
-    return this.plugin.settings.titleGenerationModel || envVars.ANTHROPIC_DEFAULT_HAIKU_MODEL || "claude-haiku-4-5";
+    const titleModel = this.plugin.settings.titleGenerationModel;
+    if (titleModel && claudeChatUIConfig.ownsModel(
+      titleModel,
+      this.plugin.settings
+    )) {
+      return titleModel;
+    }
+    return envVars.ANTHROPIC_DEFAULT_HAIKU_MODEL || "claude-haiku-4-5";
   }
   truncateText(text, maxLength) {
     if (text.length <= maxLength) return text;
@@ -66926,7 +67100,7 @@ var codexSettingsTabRenderer = {
       };
     };
     const shouldValidateCliPathAsFile = () => !isWindowsHost || installationMethod !== "wsl";
-    const cliPathSetting = new import_obsidian17.Setting(container).setName(`Codex CLI path (${hostnameKey})`).setDesc(getCliPathCopy().desc);
+    const cliPathSetting = new import_obsidian17.Setting(container).setName("Codex CLI path").setDesc(getCliPathCopy().desc);
     const validationEl = container.createDiv({
       cls: "claudian-cli-path-validation claudian-setting-validation claudian-setting-validation-error claudian-hidden"
     });
@@ -72356,7 +72530,7 @@ var opencodeSettingsTabRenderer = {
         context.refreshModelSelectors();
       })
     );
-    const cliPathSetting = new import_obsidian19.Setting(container).setName(`CLI Path (${hostnameKey})`).setDesc("Optional absolute path to the OpenCode CLI for this computer. Leave empty to use `opencode` from PATH.");
+    const cliPathSetting = new import_obsidian19.Setting(container).setName("CLI path").setDesc("Optional absolute path to the OpenCode CLI for this computer. Leave empty to use `opencode` from PATH.");
     const validationEl = container.createDiv({
       cls: "claudian-cli-path-validation claudian-setting-validation claudian-setting-validation-error claudian-hidden"
     });
@@ -90346,16 +90520,19 @@ function applyProviderUIGating(tab, plugin) {
   (_h = tab.ui.contextUsageMeter) == null ? void 0 : _h.update(tab.state.usage);
 }
 function syncTabProviderServices(tab, plugin) {
-  var _a3, _b2, _c, _d2, _e;
+  var _a3, _b2, _c, _d2;
   (_a3 = tab.services.instructionRefineService) == null ? void 0 : _a3.cancel();
   (_b2 = tab.services.instructionRefineService) == null ? void 0 : _b2.resetConversation();
-  (_c = tab.services.titleGenerationService) == null ? void 0 : _c.cancel();
   tab.services.instructionRefineService = ProviderRegistry.createInstructionRefineService(plugin, tab.providerId);
-  tab.services.titleGenerationService = ProviderRegistry.createTitleGenerationService(plugin, tab.providerId);
-  (_e = (_d2 = tab.services.subagentManager).setTaskResultInterpreter) == null ? void 0 : _e.call(
-    _d2,
+  (_d2 = (_c = tab.services.subagentManager).setTaskResultInterpreter) == null ? void 0 : _d2.call(
+    _c,
     ProviderRegistry.getTaskResultInterpreter(tab.providerId)
   );
+}
+function ensureTitleGenerationService(tab, plugin) {
+  if (!tab.services.titleGenerationService) {
+    tab.services.titleGenerationService = ProviderRegistry.createTitleGenerationService(plugin);
+  }
 }
 function cleanupTabRuntime(tab) {
   if (tab.service && typeof tab.service.cleanup === "function") {
@@ -90628,6 +90805,7 @@ function initializeSlashCommands(tab, getHiddenCommands, catalogInfo) {
 function initializeInstructionAndTodo(tab, plugin) {
   const { dom } = tab;
   syncTabProviderServices(tab, plugin);
+  ensureTitleGenerationService(tab, plugin);
   tab.ui.instructionModeManager = new InstructionModeManager(
     dom.inputEl,
     {
@@ -92360,6 +92538,7 @@ var ClaudianView = class extends import_obsidian44.ItemView {
     this.titleTextEl = null;
     this.headerActionsEl = null;
     this.headerActionsContent = null;
+    this.newTabButtonEl = null;
     // Header elements
     this.historyDropdown = null;
     // Event refs for cleanup
@@ -92547,10 +92726,10 @@ var ClaudianView = class extends import_obsidian44.ItemView {
     fragment.appendChild(this.tabBarContainerEl);
     this.headerActionsContent = activeDocument.createElement("div");
     this.headerActionsContent.className = "claudian-header-actions";
-    const newTabBtn = this.headerActionsContent.createDiv({ cls: "claudian-header-btn claudian-new-tab-btn" });
-    (0, import_obsidian44.setIcon)(newTabBtn, "square-plus");
-    newTabBtn.setAttribute("aria-label", "New tab");
-    newTabBtn.addEventListener("click", () => {
+    this.newTabButtonEl = this.headerActionsContent.createDiv({ cls: "claudian-header-btn claudian-new-tab-btn" });
+    (0, import_obsidian44.setIcon)(this.newTabButtonEl, "square-plus");
+    this.newTabButtonEl.setAttribute("aria-label", "New tab");
+    this.newTabButtonEl.addEventListener("click", () => {
       void this.createNewTab().catch(() => new import_obsidian44.Notice("Failed to create tab"));
     });
     const newBtn = this.headerActionsContent.createDiv({ cls: "claudian-header-btn" });
@@ -92574,7 +92753,7 @@ var ClaudianView = class extends import_obsidian44.ItemView {
     });
     fragment.appendChild(this.headerActionsContent);
     const wrapper = activeDocument.createElement("div");
-    wrapper.className = "claudian-visible-contents";
+    wrapper.className = "claudian-input-nav-content";
     wrapper.appendChild(fragment);
     return wrapper;
   }
@@ -92618,6 +92797,10 @@ var ClaudianView = class extends import_obsidian44.ItemView {
     this.updateNavRowLocation();
     this.updateTabBarVisibility();
   }
+  /** Refreshes tab controls after settings that affect tab availability change. */
+  refreshTabControls() {
+    this.updateTabBarVisibility();
+  }
   // ============================================
   // Tab Management
   // ============================================
@@ -92645,6 +92828,7 @@ var ClaudianView = class extends import_obsidian44.ItemView {
     if (!tab) {
       const maxTabs = (_b2 = this.plugin.settings.maxTabs) != null ? _b2 : 3;
       new import_obsidian44.Notice(`Maximum ${maxTabs} tabs allowed`);
+      this.updateTabBarVisibility();
       return;
     }
     this.updateTabBarVisibility();
@@ -92676,6 +92860,19 @@ var ClaudianView = class extends import_obsidian44.ItemView {
     if (this.titleTextEl) {
       this.titleTextEl.toggleClass("claudian-hidden", hideBranding);
     }
+    this.updateNewTabButtonVisibility();
+  }
+  updateNewTabButtonVisibility() {
+    if (!this.newTabButtonEl || !this.tabManager) return;
+    const canCreateTab = this.tabManager.canCreateTab();
+    this.newTabButtonEl.toggleClass("claudian-hidden", !canCreateTab);
+    if (canCreateTab) {
+      this.newTabButtonEl.removeAttribute("aria-disabled");
+      this.newTabButtonEl.removeAttribute("aria-hidden");
+      return;
+    }
+    this.newTabButtonEl.setAttribute("aria-disabled", "true");
+    this.newTabButtonEl.setAttribute("aria-hidden", "true");
   }
   /** Sets `data-provider` on the root container so CSS brand color follows the active provider. */
   syncProviderBrandColor() {
@@ -92946,21 +93143,33 @@ var InputWidget = class extends import_view2.WidgetType {
     return true;
   }
 };
+function buildInlineEditInputDecorations(options) {
+  var _a3;
+  const isInbetween = (_a3 = options.isInbetween) != null ? _a3 : false;
+  const lineStart = options.doc.lineAt(options.inputPos).from;
+  return import_view2.Decoration.set([
+    import_view2.Decoration.line({
+      class: "claudian-inline-input-line"
+    }).range(lineStart),
+    import_view2.Decoration.widget({
+      widget: options.widget,
+      block: !isInbetween,
+      side: isInbetween ? 1 : -1
+    }).range(options.inputPos)
+  ], true);
+}
 var inlineEditField = import_state2.StateField.define({
   create: () => import_view2.Decoration.none,
   update: (deco, tr) => {
-    var _a3;
     deco = deco.map(tr.changes);
     for (const e2 of tr.effects) {
       if (e2.is(showInlineEdit)) {
-        const builder = new import_state2.RangeSetBuilder();
-        const isInbetween = (_a3 = e2.value.isInbetween) != null ? _a3 : false;
-        builder.add(e2.value.inputPos, e2.value.inputPos, import_view2.Decoration.widget({
-          widget: new InputWidget(e2.value.widget),
-          block: !isInbetween,
-          side: isInbetween ? 1 : -1
-        }));
-        deco = builder.finish();
+        deco = buildInlineEditInputDecorations({
+          doc: tr.state.doc,
+          inputPos: e2.value.inputPos,
+          isInbetween: e2.value.isInbetween,
+          widget: new InputWidget(e2.value.widget)
+        });
       } else if (e2.is(showDiff)) {
         const builder = new import_state2.RangeSetBuilder();
         builder.add(e2.value.from, e2.value.to, import_view2.Decoration.replace({
@@ -93724,6 +93933,9 @@ var ClaudianSettingTab = class extends import_obsidian46.PluginSettingTab {
         this.plugin.settings.maxTabs = value;
         await this.plugin.saveSettings();
         updateMaxTabsWarning(value);
+        for (const view of this.plugin.getAllViews()) {
+          view.refreshTabControls();
+        }
       });
       updateMaxTabsWarning((_b2 = this.plugin.settings.maxTabs) != null ? _b2 : 3);
     });
