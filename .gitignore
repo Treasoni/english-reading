@@ -1,1 +1,5 @@
 .claude/settings.local.json
+.claudian/
+.obsidian/
+.learnings/
+.DS_Store
