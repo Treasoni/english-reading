@@ -31,7 +31,7 @@
       "id": "snippet-1778998686408",
       "name": "mimo",
       "description": "",
-      "envVars": "export ANTHROPIC_AUTH_TOKEN=\"tp-cr1zo27rc2pqs5simt3gu30ye7xrsg2h9trtkhlkmbysl3bt\"\nexport ANTHROPIC_BASE_URL=\"https://token-plan-cn.xiaomimimo.com/anthropic\"\nexport CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=1\nexport ANTHROPIC_DEFAULT_HAIKU_MODEL=\"mimo-v2.5-pro\"\nexport ANTHROPIC_DEFAULT_SONNET_MODEL=\"mimo-v2.5-pro\"\nexport ANTHROPIC_DEFAULT_OPUS_MODEL=\"mimo-v2.5-pro\"",
+      "envVars": "export ANTHROPIC_AUTH_TOKEN=\"tp-cr1zo27rc2pqs5simt3gu30ye7xrsg2h9trtkhlkmbysl3bt\"\nexport ANTHROPIC_BASE_URL=\"https://token-plan-cn.xiaomimimo.com/anthropic\"\nexport CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=1\nexport ANTHROPIC_DEFAULT_HAIKU_MODEL=\"mimo-v2.5\"\nexport ANTHROPIC_DEFAULT_SONNET_MODEL=\"mimo-v2.5\"\nexport ANTHROPIC_DEFAULT_OPUS_MODEL=\"mimo-v2.5\"",
       "scope": "provider:claude"
     }
   ],

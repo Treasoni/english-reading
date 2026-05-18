@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000-passage2-精读笔记.md",
+                "file": "intermediate/2000-passage1-america/grammar-notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2000-passage2-精读笔记"
+              "title": "grammar-notes"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2000-passage2-精读笔记.md",
+                "file": "intermediate/2000-passage1-america/grammar-notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2000-passage2-精读笔记 的大纲"
+              "title": "grammar-notes 的大纲"
             }
           },
           {
@@ -206,7 +206,7 @@
             }
           },
           {
-            "id": "492bea91a8795ff6",
+            "id": "c39f5e5a7dec4dce",
             "type": "leaf",
             "state": {
               "type": "claudian-view",
@@ -244,14 +244,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "492bea91a8795ff6",
+  "active": "c39f5e5a7dec4dce",
   "lastOpenFiles": [
-    "CLAUDE.md",
     "intermediate/2000-passage2/grammar-notes.md",
     "2000-passage2-精读笔记.md",
+    "2000-passage1-america-精读笔记.md",
+    "CLAUDE.md",
     "intermediate/2000-passage2/translation.md",
     "intermediate/2000-passage2/formatted-article.md",
-    "2000-passage1-america-精读笔记.md",
     "intermediate/2000-passage2",
     "intermediate/2000-passage1-america/grammar-notes.md",
     "README.md",

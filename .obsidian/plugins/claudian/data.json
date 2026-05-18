@@ -7,8 +7,9 @@
         "conversationId": null
       },
       {
+        "draftModel": "mimo-v2.5-pro",
         "tabId": "tab-1778492346086-rk6c0kv",
-        "conversationId": "conv-1778998699662-rf7us4d6f"
+        "conversationId": null
       },
       {
         "draftModel": "mimo-v2.5-pro",

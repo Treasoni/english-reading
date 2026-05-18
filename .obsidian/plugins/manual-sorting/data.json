@@ -2,6 +2,8 @@
   "customOrder": {
     "/": {
       "children": [
+        "2000-passage2-精读笔记.md",
+        "CLAUDE.md",
         "2000-passage1-america-精读笔记.md",
         "intermediate",
         "README.md"
@@ -10,6 +12,7 @@
     },
     "intermediate": {
       "children": [
+        "intermediate/2000-passage2",
         "intermediate/2000-passage1-america"
       ],
       "sortOrder": "custom"
@@ -19,6 +22,14 @@
         "intermediate/2000-passage1-america/formatted-article.md",
         "intermediate/2000-passage1-america/grammar-notes.md",
         "intermediate/2000-passage1-america/translation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "intermediate/2000-passage2": {
+      "children": [
+        "intermediate/2000-passage2/formatted-article.md",
+        "intermediate/2000-passage2/grammar-notes.md",
+        "intermediate/2000-passage2/translation.md"
       ],
       "sortOrder": "custom"
     }
