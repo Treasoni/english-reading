@@ -8,7 +8,7 @@ tags:
   - reference
 difficulty: intermediate
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-19
 sources:
   - "passage_2_语法.md"
 concepts:
@@ -20,6 +20,7 @@ concepts:
   - "however 让步状语"
   - "used to 区分"
   - "between and 并列"
+  - "插入语"
 ---
 
 ## 非谓语动词 (Non-finite Verbs)
@@ -169,4 +170,27 @@ concepts:
 **翻译技巧**：
 1. 先不看 as...as，把主干句子完整翻译出来
 2. 加上第二个 as 引出的比较对象
+
+---
+
+## 补充要点 (Additional Notes)
+
+### 插入语 (Parenthesis)
+
+> [!tip] 照妖镜：删减法
+> 插入语在语法上是完全独立的。把插入语从句子里抠掉，剩下的主干结构依然完整无缺。
+
+> [!warning] 识别标志
+> - 双逗号：`主语 , 插入语 , 谓语`（最常见！）
+> - 双破折号：`主语 - 插入语 - 谓语`
+> - 括号：`主语 (插入语) 谓语`
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| 主语 , 插入语 , 谓语 | 插入语表达态度/补充说明/连接 | Your method, **strictly speaking**, is wrong. |
+| 主语 - 插入语 - 谓语 | 插入语用破折号隔离 | The result — **as expected** — was a failure. |
+
+**考研实战技巧：跳读法**
+1. 看到双逗号或双破折号中间的内容，先括起来跳过，直接连接主语和谓语找主干
+2. 翻译题中遇到插入语，拎出来放到句子最开头翻译
 
