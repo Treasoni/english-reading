@@ -185,6 +185,51 @@ There is another way to commit evolutionary **suicide**: stay alive, but have fe
 > - **`very few` 的否定含义**：`few`（不加冠词）表否定"几乎没有"，`very` 加强语气。与 `a few`（肯定"有一些"）区分。
 > - **`Except` 的搭配**：`except` 后可接介词短语（`except in...`）、名词短语（`except John`）或从句（`except that...`）。
 
+> [!abstract]- 长难句分析
+> **原句**：Again, differences between people and the opportunity for natural selection to take advantage of it have diminished.
+>
+> **主干提取**：
+> 
+> | 成分 | 内容 |
+> |------|------|
+> | **S（并列主语①）** | differences between people |
+> | **S（并列主语②）** | the opportunity for natural selection to take advantage of it |
+> | **V（谓语动词）** | have diminished |
+> | **A（状语）** | Again |
+>
+> **简化主干**：differences...and the opportunity...have diminished.
+>
+> **修饰成分**：
+> 
+> | 成分 | 内部修饰 | 修饰对象 |
+> |-----|---------|----------|
+> | 主语①: differences | 介短 between people | 修饰 differences |
+> | 主语②: the opportunity | 介短 for natural selection | 修饰 opportunity |
+> | 主语②续 | to take advantage of it | 与 for...构成不定式复合结构 |
+> | 主语②续 | 介短 of it | 修饰 advantage |
+>
+> **结构图解**：
+> ```
+> 主句: [differences...] and [the opportunity...] have diminished
+>   ├── 并列主语①: differences [between people]
+>   ├── and: 并列连词
+>   ├── 并列主语②: the opportunity [for natural selection to take advantage of it]
+>   │     └── 不定式复合: for natural selection to take advantage of it
+>   │           ├── for natural selection: 逻辑主语
+>   │           ├── to take advantage: 不定式动词
+>   │           └── of it → 修饰 advantage
+>   ├── 谓语: have diminished
+>   └── 状语: Again
+> ```
+>
+> **参考译文**：人与人之间的差异以及自然选择利用这一差异的机会再次减少了。
+>
+> **考点提示**：
+> - **`and` 并列层次判断**：本句难点是 `and` 的连接对象。`between...and...` 是常见搭配陷阱，此处 `and` 连接的是两个主语，而非与 `between` 配对。根据语义对等性判断并列层次是考研高频考点。
+> - **`for...to` 不定式复合结构**：`for natural selection to take advantage of it` 中 `for natural selection` 是 `to take advantage` 的逻辑主语。
+> - **`Again` 的篇章功能**：此处 `Again` = "此外/再者"，引出新论据，非"再一次"。
+
+
 For us, this means that evolution is over; the biological Utopia has arrived. Strangely, it has involved little physical change. No other species fills so many places in nature. But in the past 100, 000 years—even the past 100 years—our lives have been **transformed** but our bodies have not. We did not evolve, because machines and society did it for us. Darwin had a phrase to describe those ignorant of evolution: they "look at an organic being as a savage looks at a ship, as at something wholly beyond his comprehension." No doubt we will remember a 20th century way of life beyond comprehension for its ugliness. But however amazed our descendants may be at how far from Utopia we were, they will look just like us.
 
 ---
