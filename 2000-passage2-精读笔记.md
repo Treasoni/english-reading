@@ -123,6 +123,7 @@ Being a man has always been dangerous. There are about 105 males born for every 
 > **原句**：Since much of the **variation** is due to genes, one more agent of evolution has gone.
 >
 > **主干提取**：
+> 
 > | 成分 | 内容 |
 > |------|------|
 > | **S（主语）** | one more agent of evolution |
@@ -131,6 +132,7 @@ Being a man has always been dangerous. There are about 105 males born for every 
 > **简化主干**：one more agent of evolution has gone.
 >
 > **修饰成分**：
+> 
 > | 类型 | 引导词 | 修饰对象 |
 > |------|--------|----------|
 > | 原因状语从句 | Since | 修饰主干，说明原因 |
