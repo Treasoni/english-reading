@@ -9,7 +9,7 @@ tags:
   - exam-prep
 difficulty: intermediate
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-05-19
 sources:
   - "2000年阅读真题"
 ---
@@ -81,6 +81,43 @@ Being a man has always been dangerous. There are about 105 males born for every 
 > - **There be 句型**：本句两次使用 There be 表示"存在"，注意主语在 be 动词之后
 > - **as...as + 倍数**：twice as many women as men 是考研高频考点：倍数 + as + adj. + as + 比较对象
 > - **并列连词层次**：but 和 and 连接三个分句，形成"转折→递进"逻辑
+
+> [!abstract]- 长难句分析
+> **原句**：This means that, for the first time, there will be an **excess** of boys in those **crucial** years when they are searching for a mate.
+>
+> **主干提取**：
+> 
+> | 成分 | 内容 |
+> |------|------|
+> | **S（主语）** | This |
+> | **V（谓语动词）** | means |
+> | **O（宾语从句）** | that there will be an excess of boys |
+>
+> **简化主干**：This means that there will be an excess of boys.
+>
+> **修饰成分**：
+> 
+> | 类型 | 引导词/成分 | 修饰对象 |
+> |------|-------------|----------|
+> | 插入状语 | for the first time | 修饰整个宾语从句 |
+> | 介词短语 | in those crucial years | 修饰 excess of boys（限定范围） |
+> | 定语从句 | when they are searching for a mate | 修饰 years（限定时间） |
+>
+> **结构图解**：
+> ```
+> 主句: This means that ...
+>   └── 宾语从句: that there will be an excess of boys
+>         ├── 插入语: (for the first time) → 时间状语
+>         ├── 介短: (in those crucial years) → 修饰 excess
+>         └── 定从: (when they are searching for a mate) → 修饰 years
+> ```
+>
+> **参考译文**：这意味着，在他们寻找配偶的关键年龄段中，男孩数量将首次出现过剩。
+>
+> **考点提示**：
+> - **宾语从句嵌套修饰**：`that` 引导的宾语从句内嵌套插入语、介词短语和定语从句，需跳过 `for the first time` 快速定位从句主干 `there will be an excess of boys`
+> - **`when` 定语从句 vs. 状语从句**：此处 `when` 修饰先行词 `years`（时间名词），是定语从句而非状语从句。判断标准：`when` 前有明确的时间先行词
+> - **插入语干扰**：`for the first time` 插入 `that` 和从句主干之间，是考研阅读中典型的打断连贯阅读的干扰手法
 
 There is another way to commit evolutionary **suicide**: stay alive, but have fewer children. Few people are as **fertile** as in the past. **Except** in some religious communities, very few women have 15 children. Nowadays the number of births, like the age of death, has become average. Most of us have roughly the same number of offspring. Again, differences between people and the opportunity for natural selection to take advantage of it have diminished. India shows what is happening. The country offers wealth for a few in the great cities and poverty for the remaining tribal peoples. The **grand mediocrity** of today—everyone being the same in survival and number of offspring—means that natural selection has lost 80% of its power in **upper-middle-class** India compared to the **tribes**.
 
