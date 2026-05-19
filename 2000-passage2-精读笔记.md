@@ -232,6 +232,49 @@ There is another way to commit evolutionary **suicide**: stay alive, but have fe
 
 For us, this means that evolution is over; the biological Utopia has arrived. Strangely, it has involved little physical change. No other species fills so many places in nature. But in the past 100, 000 years—even the past 100 years—our lives have been **transformed** but our bodies have not. We did not evolve, because machines and society did it for us. Darwin had a phrase to describe those ignorant of evolution: they "look at an organic being as a savage looks at a ship, as at something wholly beyond his comprehension." No doubt we will remember a 20th century way of life beyond comprehension for its ugliness. But however amazed our descendants may be at how far from Utopia we were, they will look just like us.
 
+> [!abstract]- 长难句分析
+> **原句**：Darwin had a phrase to describe those ignorant of evolution: they "look at an organic being as a savage looks at a ship, as at something wholly beyond his comprehension."
+>
+> **主干提取**：
+> 
+> | 成分 | 内容 |
+> |------|------|
+> | **S（主语）** | Darwin |
+> | **V（谓语动词）** | had |
+> | **O（宾语）** | a phrase |
+>
+> **简化主干**：Darwin had a phrase.
+>
+> **修饰成分**：
+> 
+> | 类型 | 引导词/成分 | 修饰对象 |
+> |-----|-------------|----------|
+> | 非谓语(不定式) | to describe those... | 后置定语，修饰 phrase |
+> | 形容词短语 | ignorant of evolution | 后置定语，修饰 those |
+> | 冒号引语 | : they "look at..." | 补充说明 phrase 内容 |
+> | 方式状从 | as a savage looks at a ship | 修饰 look at 的方式 |
+> | 省略状从 | as at something... | 与上并列，省略 a savage looks |
+>
+> **结构图解**：
+> ```
+> 主句: Darwin had a phrase
+>   ├── 非谓语: to describe [those ignorant of evolution]
+>   │     ├── those (= those people)
+>   │     └── 形短: ignorant of evolution → 修饰 those
+>   └── 冒号引语: : they "look at..."
+>         主句: they look at an organic being
+>           ├── 状从: as a savage looks at a ship → 方式比较
+>           └── 省略状从: as [a savage looks] at sth beyond his comprehension
+> ```
+>
+> **参考译文**：达尔文有一句话描述那些不懂进化论的人：他们"看待有机生物就像野蛮人看待一艘船一样，将其视为完全超出自己理解范围的东西。"
+>
+> **考点提示**：
+> - **`those + 形容词短语`**：`those ignorant of evolution` = "不懂进化论的人"。`those` 后接形容词短语作定语的用法是考研阅读常见省略结构。
+> - **双 `as` 省略**：第二个 `as at something...` 省略了 `a savage looks`，需补全才能准确理解。
+> - **冒号解释功能**：冒号后的引语具体说明 `phrase`，考研阅读中冒号表"即/也就是说"。
+> - **引用题思路**：达尔文原话常考对其含义的理解，而非背景知识。
+
 ---
 
 ## 翻译对照
