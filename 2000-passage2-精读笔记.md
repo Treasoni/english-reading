@@ -408,10 +408,15 @@ For us, this means that evolution is over; the biological Utopia has arrived. St
 > [!tip] 识别方法
 > 看 however 后面紧挨着的是什么词：
 
-| 面孔 | 形式 | 翻译 | 例句 |
-|------|------|------|------|
-| 面孔一 | However, + 句子 | 然而/但是 | However, we still have a problem. |
-| 面孔二 | However + adj./adv. + 主语 + 谓语 | 无论多么... | However hard he tried, he failed. |
+| 面孔  | 形式                            | 词性       | 翻译      | 例句                                |
+|------| ----------------------------- | -------- | ------- | --------------------------------- |
+| 面孔一 | However, + 句子                 | **连接副词** | 然而/但是   | However, we still have a problem. |
+| 面孔二 | However + adj./adv. + 主语 + 谓语 | **连词/让步** | 无论多么... | However hard he tried, he failed. |
+
+> [!tip] 秒辨技巧
+> - **面孔一**（连接副词）：作文里想写"但是"但不想再用 but 时，就用 However，后加逗号。
+> - **面孔二**（让步连词）：`However + adj./adv.` 开头的句子是"倒装的让步状语从句"，相当于 `No matter how + adj./adv. + 主语 + 谓语`。
+> - 删掉面孔一的 However，句子依然完整成立；删掉面孔二的 However，从句就碎了。这是最直接的检验方法。
 
 ---
 
