@@ -153,6 +153,38 @@ Being a man has always been dangerous. There are about 105 males born for every 
 
 There is another way to commit evolutionary **suicide**: stay alive, but have fewer children. Few people are as **fertile** as in the past. **Except** in some religious communities, very few women have 15 children. Nowadays the number of births, like the age of death, has become average. Most of us have roughly the same number of offspring. Again, differences between people and the opportunity for natural selection to take advantage of it have diminished. India shows what is happening. The country offers wealth for a few in the great cities and poverty for the remaining tribal peoples. The **grand mediocrity** of today—everyone being the same in survival and number of offspring—means that natural selection has lost 80% of its power in **upper-middle-class** India compared to the **tribes**.
 
+> [!abstract]- 长难句分析
+> **原句**：Except in some religious communities, very few women have 15 children.
+>
+> **主干提取**：
+> 
+> | 成分 | 内容 |
+> |------|------|
+> | **S（主语）** | very few women |
+> | **V（谓语动词）** | have |
+> | **O（宾语）** | 15 children |
+>
+> **简化主干**：very few women have 15 children.
+>
+> **修饰成分**：
+> 
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介词短语（排除状语） | Except in... | 修饰整句，限定范围 |
+>
+> **结构图解**：
+> ```
+> 主句: very few women have 15 children
+>   └── 介短: (Except in some religious communities) → 排除/条件状语
+> ```
+>
+> **参考译文**：除了在一些宗教社区，很少有妇女会生 15 个孩子。
+>
+> **考点提示**：
+> - **句首介词短语作状语**：`Except in...` 位于句首修饰整句，表示排除范围。考研阅读中句首状语往往限定整句的适用范围。
+> - **`very few` 的否定含义**：`few`（不加冠词）表否定"几乎没有"，`very` 加强语气。与 `a few`（肯定"有一些"）区分。
+> - **`Except` 的搭配**：`except` 后可接介词短语（`except in...`）、名词短语（`except John`）或从句（`except that...`）。
+
 For us, this means that evolution is over; the biological Utopia has arrived. Strangely, it has involved little physical change. No other species fills so many places in nature. But in the past 100, 000 years—even the past 100 years—our lives have been **transformed** but our bodies have not. We did not evolve, because machines and society did it for us. Darwin had a phrase to describe those ignorant of evolution: they "look at an organic being as a savage looks at a ship, as at something wholly beyond his comprehension." No doubt we will remember a 20th century way of life beyond comprehension for its ugliness. But however amazed our descendants may be at how far from Utopia we were, they will look just like us.
 
 ---
