@@ -268,7 +268,15 @@ For us, this means that evolution is over; the biological Utopia has arrived. St
 
 ## 长难句分析
 
-> [!note] 提示：使用 /analyze-sentence 添加长难句分析内容
+本文中共有 **5 处**长难句分析，已内联嵌入到[文章原文](#文章原文)相应位置。以下是分析覆盖的句子概览：
+
+| # | 句子（主干概要） | 核心考点 |
+|---|-----------------|----------|
+| 1 | There are about 105 males born..., but this ratio drops..., and among 70-year-olds there are twice as many women as men. | There be 句型、as...as 比较结构、并列连词层次 |
+| 2 | This means that there will be an excess of boys in those crucial years when they are searching for a mate. | 宾语从句嵌套、插入语干扰、when 定语从句 |
+| 3 | Since much of the variation is due to genes, one more agent of evolution has gone. | Since 原因状语从句、be due to 短语 |
+| 4 | Except in some religious communities, very few women have 15 children. | 句首介词短语作排除状语、very few 否定含义 |
+| 5 | differences between people and the opportunity...have diminished. | and 并列层次判断、for...to 不定式复合结构 |
 
 ---
 
@@ -422,23 +430,30 @@ For us, this means that evolution is over; the biological Utopia has arrived. St
 1. 先不看 as...as，把主干句子完整翻译出来
 2. 加上第二个 as 引出的比较对象
 
-## 生词表
+---
 
-| 词汇 | 词性 | 含义 | 原文例句 |
-|------|------|------|----------|
-| **crucial** | adj. | 关键的，决定性的 | "...in those **crucial** years when they are searching for a mate." |
-| **excess** | n. | 过剩，过多 | "...there will be an **excess** of boys in those crucial years..." |
-| **fertile** | adj. | 肥沃的；多产的 | "Few people are as **fertile** as in the past." |
-| **grand mediocrity** | n. | 大平等（全员趋同） | "The **grand mediocrity** of today—everyone being the same in survival and number of offspring..." |
-| **mediocrity** | n. | 平庸，平庸状态 | "The grand **mediocrity** of today—everyone being the same..." |
-| **maturity** | n. | 成熟，成年 | "...this ratio drops to near balance at the age of **maturity**..." |
-| **mortality** | n. | 死亡率 | "But the great **universal** of male **mortality** is being changed." |
-| **suicide** | n. | 自杀 | "There is another way to commit evolutionary **suicide**..." |
-| **transformed** | v. | 转变，改变 | "...our lives have been **transformed** but our bodies have not." |
-| **tribes** | n. | 部落 | "...natural selection has lost 80% of its power in upper-middle-class India compared to the **tribes**." |
-| **universal** | n. | 普遍现象 | "But the great **universal** of male mortality is being changed." |
-| **upper-middle-class** | n./adj. | 中上层阶级 | "...natural selection has lost 80% of its power in **upper-middle-class** India..." |
-| **variation** | n. | 变异，变化 | "Since much of the **variation** is due to genes, one more agent of evolution has gone." |
+### 补充要点 (Additional Notes)
+
+#### 插入语 (Parenthesis)
+
+> [!tip] 照妖镜：删减法
+> 插入语在语法上是完全独立的。把插入语从句子里抠掉，剩下的主干结构依然完整无缺。
+
+> [!warning] 识别标志
+> - 双逗号：`主语 , 插入语 , 谓语`（最常见！）
+> - 双破折号：`主语 - 插入语 - 谓语`
+> - 括号：`主语 (插入语) 谓语`
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| 主语 , 插入语 , 谓语 | 插入语表达态度/补充说明/连接 | Your method, **strictly speaking**, is wrong. |
+| 主语 - 插入语 - 谓语 | 插入语用破折号隔离 | The result — **as expected** — was a failure. |
+
+**考研实战技巧：跳读法**
+1. 看到双逗号或双破折号中间的内容，先括起来跳过，直接连接主语和谓语找主干
+2. 翻译题中遇到插入语，拎出来放到句子最开头翻译
+
+<!-- VOCABULARY_SLOT -->
 
 ---
 
