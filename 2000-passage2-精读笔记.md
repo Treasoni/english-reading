@@ -119,6 +119,36 @@ Being a man has always been dangerous. There are about 105 males born for every 
 > - **`when` 定语从句 vs. 状语从句**：此处 `when` 修饰先行词 `years`（时间名词），是定语从句而非状语从句。判断标准：`when` 前有明确的时间先行词
 > - **插入语干扰**：`for the first time` 插入 `that` 和从句主干之间，是考研阅读中典型的打断连贯阅读的干扰手法
 
+> [!abstract]- 长难句分析
+> **原句**：Since much of the **variation** is due to genes, one more agent of evolution has gone.
+>
+> **主干提取**：
+> | 成分 | 内容 |
+> |------|------|
+> | **S（主语）** | one more agent of evolution |
+> | **V（谓语动词）** | has gone |
+>
+> **简化主干**：one more agent of evolution has gone.
+>
+> **修饰成分**：
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 原因状语从句 | Since | 修饰主干，说明原因 |
+>
+> **结构图解**：
+> ```
+> 主句: one more agent of evolution has gone
+>   └── 状从: (Since ... is due to genes) → 原因状语
+>         └── 介短: (to genes) → 修饰 is due
+> ```
+>
+> **参考译文**：由于大部分变异是由基因决定的，又一个进化因素消失了。
+>
+> **考点提示**：
+> - **`Since` 原因状语从句**：此处 `since` 意为"因为/由于"，而非"自从"。判断依据：后接完整句子且表因果逻辑，而非时间点。
+> - **因果逻辑识别**：从句 `Since...genes` 为因，主句 `one more agent...gone` 为果。考研阅读常考因果关系的识别。
+> - **`be due to` 短语**：意为"由于"，后接名词性成分，不可接句子。
+
 There is another way to commit evolutionary **suicide**: stay alive, but have fewer children. Few people are as **fertile** as in the past. **Except** in some religious communities, very few women have 15 children. Nowadays the number of births, like the age of death, has become average. Most of us have roughly the same number of offspring. Again, differences between people and the opportunity for natural selection to take advantage of it have diminished. India shows what is happening. The country offers wealth for a few in the great cities and poverty for the remaining tribal peoples. The **grand mediocrity** of today—everyone being the same in survival and number of offspring—means that natural selection has lost 80% of its power in **upper-middle-class** India compared to the **tribes**.
 
 For us, this means that evolution is over; the biological Utopia has arrived. Strangely, it has involved little physical change. No other species fills so many places in nature. But in the past 100, 000 years—even the past 100 years—our lives have been **transformed** but our bodies have not. We did not evolve, because machines and society did it for us. Darwin had a phrase to describe those ignorant of evolution: they "look at an organic being as a savage looks at a ship, as at something wholly beyond his comprehension." No doubt we will remember a 20th century way of life beyond comprehension for its ugliness. But however amazed our descendants may be at how far from Utopia we were, they will look just like us.
