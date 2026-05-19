@@ -8,7 +8,7 @@ tags:
   - reference
 difficulty: intermediate
 created: 2026-05-14
-updated: 2026-05-15
+updated: 2026-05-19
 concepts:
   - 状语从句
   - 定语从句
@@ -19,6 +19,7 @@ concepts:
   - 复杂宾语结构
   - 固定搭配
   - A of B结构核心词判定
+  - 介词与介词短语
 ---
 
 ### 从句：状语从句 (Adverbial Clauses)
@@ -313,3 +314,39 @@ concepts:
 | 结构 | 含义 | 常接宾语 | 例句 |
 |------|------|---------|------|
 | yield **to** sb./sth. | 屈服于，对……让步 | pressure, temptation, demand | The government refused to yield to **public pressure**. |
+
+---
+
+### 介词与介词短语 (Prepositions & Prepositional Phrases)
+
+介词本身不能单独充当句子成分，必须后接名词或相当于名词的词，构成介词短语后才能表示该名词与句子其他成分之间的关系（时间、地点、方式、原因等）。
+
+> [!note] 黄金定律
+> 介词后面永远不能跟动词原形。如果非要跟动词，动词必须变为 **V-ing** 形式（动名词）。
+
+#### 介词短语公式
+
+| 结构 | 示例 |
+|------|------|
+| 介词 + **名词** | He is studying **in the library**. |
+| 介词 + **代词** | She smiled **at me**. |
+| 介词 + **V-ing** | He makes a living **by writing books**. |
+| 介词 + **宾语从句** | Pay attention to **what he says**. |
+
+#### 介词短语的三大功能
+
+| 功能 | 说明 | 例句 |
+|------|------|------|
+| **作定语** | 修饰名词，译为"……的"，后置 | The book **on the desk** is mine. |
+| **作状语** | 修饰动词/形容词/整句，位置灵活 | **In recent years**, global warming has become serious. |
+| **作表语** | 跟在 be 动词后，说明主语状态 | The meeting is **at 3 PM**. |
+
+> [!warning] 考研阅读陷阱：介词短语叠加（"俄罗斯套娃"）⚠️
+> 出题人制造长难句的常用手段是将多个介词短语层层嵌套。
+>
+> **实战例句**：
+> The development **of the internet** **in recent years** has had a huge impact **on the way** **of communication** **between people**.
+>
+> **破解技巧（切块法）**：看到介词就用括号将短语独立出来，主干瞬间显露——
+> **主干**：The development has had a huge impact.（发展产生了巨大影响。）
+> **还原翻译**：近年来互联网的发展，对人与人之间沟通的方式产生了巨大影响。
