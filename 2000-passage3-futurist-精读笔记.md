@@ -117,6 +117,7 @@ When a new movement in art attains a certain fashion, it is advisable to find ou
 > **简化版**：The case is rather difficult, for it can hardly be classed as Literature.
 >
 > **修饰成分**：
+> 
 > | 类型 | 引导词 | 修饰对象 |
 > |------|--------|----------|
 > | 介词短语 | With regard to | 方面状语，修饰第一分句 |
