@@ -8,7 +8,7 @@ tags:
   - reference
 difficulty: intermediate
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-20
 sources:
   - "用户提供的语法笔记"
 concepts:
@@ -22,6 +22,9 @@ concepts:
   - "因果连词"
   - "Instead of"
   - "Rather than"
+  - "表语从句"
+  - "系动词"
+  - "That's why vs That's because"
 ---
 
 # 2000-passage3-futurist 语法要点整理
@@ -248,3 +251,49 @@ concepts:
 > - ✅ `He walked home **instead of taking** a bus.` (V-ing)
 > - ❌ `He walked home **instead of take** a bus.` (动词原形 ✗)
 > - 如需接动词原形，用 `rather than`：`He walked home **rather than take** a bus.`
+
+---
+
+### 表语从句 (Predicative Clause)
+
+**概述**：表语从句是在系动词后面充当表语的完整句子，用来说明主语"是什么"或"怎么样"。系动词 + 表语从句 = 主系表结构。
+
+| 成分 | 说明 | 示例 |
+|------|------|------|
+| 主语 | 句子的主题 | The truth / This / The question |
+| 系动词 | 连接主语和表语 | is / seems / remains / becomes |
+| 表语从句 | 完整句子充当表语 | that he passed / what he wants |
+
+> [!note] 考研高频系动词
+> - **be 动词系列**：am / is / are / was / were（最常见）
+> - **"似乎"系列**：seem / appear / look
+> - **"保持"系列**：remain / keep（长难句极爱用 remain）
+> - **"变成"系列**：become / turn
+
+#### 引导词对比
+
+| 引导词 | 在从句中的角色 | 翻译策略 | 例句 |
+|--------|---------------|----------|------|
+| **that** | 纯连接符号，不充当成分，无实际意义 | 不翻译 | The truth **is that** he passed the exam. |
+| **what** | 必须充当主语或宾语，有实质意义 | "……的东西/事情" | This **is what** he wants. |
+| **whether** | 表示"是否" | 是否 | The question **is whether** we should go on. |
+| **as if / as though** | 表示"仿佛/好像" | 好像 | It seems **as if** it is going to rain. |
+
+> [!warning] Whether 不能用 If 替代
+> 在表语从句中，表示"是否"**只能用 whether**，绝对不能用 if。这是考研英语的固定考点。
+
+> [!warning] The reason is that... 而非 because
+> ❌ `The reason is because the internet is developing.`（中式英语）\
+> ✅ `The reason is that the internet is developing.`
+>
+> 牢记公式：`The reason is that...`（……的原因是……）
+
+#### That's why vs. That's because 对比
+
+| 句型 | 逻辑方向 | 示例 |
+|------|---------|------|
+| **That's why** + **结果** | 前因后果 | He studied hard. **That's why** he passed. |
+| **That's because** + **原因** | 前果后因 | He passed. **That's because** he studied hard. |
+
+> [!tip] 因果方向判断技巧
+> 阅读中遇到这两个句型时：`That's why` 后面跟的是**结果**，`That's because` 后面跟的是**原因**，二者逻辑方向完全相反，注意不要混淆。
