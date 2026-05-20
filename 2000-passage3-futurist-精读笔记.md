@@ -220,6 +220,42 @@ This, in brief, is what the Futurist says: for a century, past conditions of lif
 > 3. **till 引导时间状语从句**：`till now we live...` 表示"直到现在，我们生活在……"，描绘时间演进的结果状态。
 > 4. **冒号的解释说明功能**：冒号后的内容是对 `what the Futurist says` 的具体展开。考研阅读中冒号是重要的逻辑信号——冒号前是概括，冒号后是细节。
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - S (主语): We
+> - V (谓语): must pour out
+> - O (宾语): a large stream of essential words
+>
+> **简化版**：We must pour out a stream of words.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 形容词短语(后置定语) | unhampered (过去分词转化) | 修饰 essential words |
+> | 介词短语 | by stops, or qualifying adjectives, or finite verbs | 修饰 unhampered |
+>
+> **结构图解**：
+> ```
+> Sentence (主谓宾)
+> ├── 主句: We must pour out a large stream of essential words
+> │   ├── S: We
+> │   ├── V: must pour out
+> │   └── O: a large stream of essential words
+> │
+> └── 后置定语(形容词短语): unhampered by stops, or qualifying adjectives, or finite verbs
+>     ├── Adj: unhampered
+>     └── 介短(动作发出者): by stops, or qualifying adjectives, or finite verbs
+>                           (三个并列名词短语)
+> ```
+>
+> **参考译文**：我们必须倾泻出大量精炼的词语，不受标点符号、修饰性形容词或限定动词的束缚。
+>
+> **考点提示**：
+> 1. **过去分词作后置定语**：`unhampered` 是过去分词转化来的形容词，修饰前面的 `words`，相当于省略的定语从句 `which are unhampered`。考研阅读中过去分词短语后置修饰名词极为常见。
+> 2. **并列结构的介词省略**：`by stops, or qualifying adjectives, or finite verbs` 中，`by` 仅在第一个并列项前出现，后两项共享。并列结构中共享介词的省略模式是考研长难句常见压缩手段。
+> 3. **词汇考点**：`stops` 在此意为"标点符号"(=punctuation marks)，非"停止"；`qualifying adjectives` = 修饰性形容词；`finite verbs` = 限定动词(有形态变化的动词形式)。专业术语需结合上下文判断。
+
 Certainly their descriptions of battles are confused. But it is a little upsetting to read in the explanatory notes that a certain line describes a fight between a Turkish and a Bulgarian officer on a bridge off which they both fall into the river —and then to find that the line consists of the noise of their falling and the weights of the officers: "Pluff! Pluff! A hundred and eighty-five kilograms."
 
 This, though it fulfills the laws and requirements of Futurist poetry, can hardly be classed as Literature. All the same, no thinking man can refuse to accept their first proposition: that a great change in our emotional life calls for a change of expression. The whole question is really this: have we essentially changed?
