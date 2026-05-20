@@ -313,6 +313,44 @@ Certainly their descriptions of battles are confused. But it is a little upsetti
 
 This, though it fulfills the laws and requirements of Futurist poetry, can hardly be classed as Literature. All the same, no thinking man can refuse to accept their first proposition: that a great change in our emotional life calls for a change of expression. The whole question is really this: have we essentially changed?
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - S (主语): This
+> - V (谓语): can be classed (被动语态)
+> - C (主语补足语): as Literature
+> - A (半否定副词): hardly
+>
+> **简化版**：This can hardly be classed as Literature.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 让步状语从句(插入语) | though | 修饰主句谓语，表让步 |
+>
+> **结构图解**：
+> ```
+> Sentence (主谓补)
+> ├── 主句框架: This ... can hardly be classed as Literature.
+> │   ├── S: This
+> │   ├── A(半否定): hardly
+> │   ├── V: can be classed (被动)
+> │   └── C: as Literature
+> │
+> └── 状从(让步, 插在主谓之间): though it fulfills the laws and requirements
+>     ├── 连词: though
+>     ├── S: it (= This / Futurist poetry)
+>     ├── V: fulfills
+>     └── O: the laws and requirements of Futurist poetry
+> ```
+>
+> **参考译文**：这虽然符合未来主义诗歌的法则和要求，却很难被归类为文学。
+>
+> **考点提示**：
+> 1. **让步状语从句插入主谓之间**：`though` 从句用逗号隔开，插入在主语 `This` 和谓语 `can be classed` 之间，形成"主语 + 插入语 + 谓语"的隔离结构。考研阅读中可将插入语整体跳过，先提取主干。
+> 2. **though 与 although 的区别**：`though` 可引导倒装（`Child though he is`），`although` 不能；`though` 可用于句末作副词（`He said so, though.`）。考研中 though 的灵活用法是常考知识点。
+> 3. **can hardly be classed as...**：半否定词 `hardly` + 被动语态 + `as` 补足语，用于表达委婉否定，比直接说 "is not Literature" 更具讽刺效果——符合前文提到的未来主义诗歌"满足了法则却仍不配叫文学"的反讽语气。
+
 ### 题目
 
 59. This passage is mainly
