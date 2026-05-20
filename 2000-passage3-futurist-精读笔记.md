@@ -152,7 +152,7 @@ When a new movement in art attains a certain fashion, it is advisable to find ou
 > 3. **介词 + 关系代词引导定语从句**：`on which it is based` = `the theory that it is based on`，"it"指代 Futurist poetry。介词前置是定语从句的正式用法，考研翻译时需将介词还原到从句末尾。
 > 4. **can hardly be classed as...**：`hardly` 表否定（"几乎不"），与 `can` 连用形成半否定结构。这种"半否定词 + 谓语"是考研阅读中表达委婉否定的常见手段。
 
-This, in brief, is what the Futurist says: for a century, past conditions of life have been conditionally speeding up, till now we live in a world of noise and violence and speed. Consequently, our feelings, thoughts and emotions have undergone a corresponding change. This speeding up of life, says the Futurist, requires a new form of expression. We must speed up our literature too, if we want to interpret modern stress. We must pour out a large stream of essential words, unhampered by stops, or qualifying adjectives, or finite verbs. Instead of describing sounds we must make up words that imitate them; we must use many sizes of type and different colored inks on the same page, and shorten or lengthen words at will.
+This, in brief, is what the Futurist says: for a century, past conditions of life have been conditionally speeding up, till now we live in a world of noise and violence and speed. Consequently, our feelings, thoughts and emotions have undergone a **corresponding** change. This speeding up of life, says the Futurist, requires a new form of expression. We must speed up our literature too, if we want to interpret modern stress. We must pour out a large stream of essential words, **unhampered** by stops, or qualifying adjectives, or finite verbs. Instead of describing sounds we must make up words that imitate them; we must use many sizes of type and different colored inks on the same page, and shorten or lengthen words at will.
 
 > [!abstract]- 长难句分析
 > **主干提取**：
@@ -257,6 +257,59 @@ This, in brief, is what the Futurist says: for a century, past conditions of lif
 > 3. **词汇考点**：`stops` 在此意为"标点符号"(=punctuation marks)，非"停止"；`qualifying adjectives` = 修饰性形容词；`finite verbs` = 限定动词(有形态变化的动词形式)。专业术语需结合上下文判断。
 
 Certainly their descriptions of battles are confused. But it is a little upsetting to read in the explanatory notes that a certain line describes a fight between a Turkish and a Bulgarian officer on a bridge off which they both fall into the river —and then to find that the line consists of the noise of their falling and the weights of the officers: "Pluff! Pluff! A hundred and eighty-five kilograms."
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - S (形式主语): It
+> - V (系动词): is
+> - C (表语): a little upsetting
+> - S (真正主语/并列不定式): to read [that...] and then to find [that...]
+>
+> **简化版**：It is upsetting to read that [a line describes a fight] and then to find that [the line consists of noises and weights].
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介词短语 | in the explanatory notes | 修饰 to read，表地点 |
+> | 宾语从句 | that...describes... | 作 to read 的宾语 |
+> | 介词短语 | between...officer | 修饰 fight |
+> | 介词短语 | on a bridge | 修饰 officer |
+> | 定语从句 | off which | 修饰 bridge |
+> | 介词短语 | into the river | 修饰 fall |
+> | 宾语从句 | that...consists of... | 作 to find 的宾语 |
+> | 同位语(冒号后) | "Pluff! Pluff!..." | 说明 the line 的内容 |
+>
+> **结构图解**：
+> ```
+> Sentence (形式主语句)
+> ├── 主句框架: it is a little upsetting [to do A and then to do B]
+> │   ├── S(形式): It
+> │   ├── V: is
+> │   └── C: a little upsetting
+> │
+> ├── 真正主语A(不定式): to read in the explanatory notes that...
+> │   ├── 介短: in the explanatory notes
+> │   └── 宾从: that a certain line describes a fight
+> │       ├── 介短: between a Turkish and a Bulgarian officer
+> │       ├── 介短: on a bridge
+> │       └── 定从: (off which they both fall into the river) → 修饰 bridge
+> │             └── 介短: into the river
+> │
+> └── 真正主语B(不定式): to find that the line consists of...
+>     └── 宾从: that the line consists of the noise and the weights
+>         ├── 介短: of their falling → 修饰 noise
+>         ├── 介短: of the officers → 修饰 weights
+>         └── 同位: "Pluff! Pluff! A hundred and eighty-five kilograms."
+> ```
+>
+> **参考译文**：但令人有些不适的是，在注释中读到某一行描述了一位土耳其军官和一位保加利亚军官在一座桥上搏斗，两人都从桥上掉进了河里——然后发现这一行字只是他们落水的声音和军官的体重："扑通！扑通！一百八十五公斤。"
+>
+> **考点提示**：
+> 1. **形式主语 it**：`it is + adj. + to do...` 结构，真正主语是并列不定式 `to read...and then to find...`。and 连接两个复杂不定式，增加了句子长度，考研中需先识别形式主语再定位真正主语。
+> 2. **定语从句介词前置**：`off which they both fall` 中 `off` 前置到关系代词之前，还原为 `they both fall off the bridge`。考研翻译题中定语从句介词前置是常规考点——需将介词还原到从句动词后。
+> 3. **并列宾语从句的 that 不可省略**：`to read that...and then to find that...`，第二个 `that` 不可省略，否则 `the line` 可能被误读为 `find` 的宾语而非从句引导词。
+> 4. **冒号的例证功能**：冒号后的 `"Pluff! Pluff!"` 是前文 `the line consists of...` 的具体实例。考研阅读中冒号提示"概括 → 实例"的逻辑关系，对细节题定位有帮助。
 
 This, though it fulfills the laws and requirements of Futurist poetry, can hardly be classed as Literature. All the same, no thinking man can refuse to accept their first proposition: that a great change in our emotional life calls for a change of expression. The whole question is really this: have we essentially changed?
 
