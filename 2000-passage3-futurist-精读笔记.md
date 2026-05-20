@@ -41,7 +41,7 @@ related:
 
 ## 文章原文
 
-When a new movement in art attains a certain fashion, it is advisable to find out what its advocates are aiming at, for, however farfetched and unreasonable their principles may seem today, it is possible that in years to come they may be regarded as normal. With regard to **Futurist poetry**, however, the case is rather difficult, for whatever Futurist poetry may be—even admitting that the theory on which it is based may be right—it can hardly be classed as Literature.
+When a new movement in art attains a certain fashion, it is advisable to find out what its advocates are aiming at, for, however **farfetched** and unreasonable their principles may seem today, it is possible that in years to come they may be regarded as normal. With regard to **Futurist poetry**, however, the case is rather difficult, for whatever Futurist poetry may be—even admitting that the theory on which it is based may be right—it can hardly be classed as Literature.
 
 > [!abstract]- 长难句分析
 > **主干提取**：
