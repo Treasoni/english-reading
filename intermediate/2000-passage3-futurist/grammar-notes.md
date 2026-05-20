@@ -25,6 +25,8 @@ concepts:
   - "表语从句"
   - "系动词"
   - "That's why vs That's because"
+  - "双重否定"
+  - "间接肯定法"
 ---
 
 # 2000-passage3-futurist 语法要点整理
@@ -297,3 +299,32 @@ concepts:
 
 > [!tip] 因果方向判断技巧
 > 阅读中遇到这两个句型时：`That's why` 后面跟的是**结果**，`That's because` 后面跟的是**原因**，二者逻辑方向完全相反，注意不要混淆。
+
+---
+
+### 补充要点：双重否定 (Double Negation / Litotes)
+
+**概述**：英语中双重否定（两个否定词同时使用）并不等于否定，而是通过"否定之否定"来**强调肯定**。这种修辞手法称为间接肯定法（litotes），在考研阅读中用于表达强烈的肯定态度，语气比直接肯定更委婉但更有力。
+
+| 结构 | 含义 | 实际等于 | 例句 |
+|------|------|---------|------|
+| `no...refuse to...` | 没有人拒绝…… | 所有人都接受 | **No** thinking man **can refuse to** accept their proposition. |
+| `not...without...` | 没有……就不能 | 必须有……才能 | You can**not** succeed **without** hard work. |
+| `not...un-adj.` | 并非不…… | 很…… | It is **not** **un**common. (并非不常见 = 很常见) |
+| `no...deny that...` | 无人否认…… | 所有人都承认 | **No** one can **deny that** the situation has improved. |
+
+> [!tip] 双重否定的阅读技巧
+> 遇到 `no/not + 否定含义动词/否定前缀` 的结构时，快速做"负负得正"运算：
+> 1. 圈出第一个否定词（no / not / never）
+> 2. 圈出第二个否定词（refuse / deny / without / un- / dis-）
+> 3. 两者抵消 → 提取肯定含义
+>
+> 例：`No thinking man can **refuse** to accept` → "拒绝" + "没有" = 肯定 → "所有人都会接受"
+
+> [!warning] 考研翻译陷阱
+> 双重否定在翻译时**必须译出肯定意味**，不要机械地译为"没有……不……"。机械翻译虽然字面正确，但不符合中文表达习惯。如需保留双重否定的语气，可用"并非不……"或"没有人会不……"。
+
+> [!note] Litotes 的语篇功能
+> 作者使用双重否定（间接肯定法）通常是为了：
+> - **委婉表示强烈观点**：直接说"everyone accepts"太绝对，用"no thinking man can refuse to accept"更显客观
+> - **为后续转折铺垫**：先通过反向强调肯定对方部分观点，再提出异议——本文中作者先肯定"情感变化需要新表达"这一前提，再质疑未来主义诗歌是否算文学

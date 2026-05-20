@@ -389,7 +389,7 @@ This, though it fulfills the laws and requirements of Futurist poetry, can hardl
 > **参考译文**：尽管如此，任何有思想的人都不会拒绝接受他们的第一个命题：我们情感生活的巨大变化需要表达方式的改变。
 >
 > **考点提示**：
-> 1. **双重否定表肯定**：`no thinking man can refuse to accept` = "没有有思想的人会拒绝" → 实际等于"所有人都认可"。`no` + `refuse` 构成双重否定，是考研阅读中表达强烈肯定态度的修辞手段（间接肯定法 / litotes）。
+> 1. **双重否定表肯定**：`no thinking man can refuse to accept` = "没有有思想的人会拒绝" → 实际等于"所有人都认可"。`no` + `refuse` 构成双重否定，是考研阅读中表达强烈肯定态度的修辞手段（间接肯定法 / litotes）。（参见 [[intermediate/2000-passage3-futurist/grammar-notes#补充要点双重否定 Double Negation / Litotes|语法笔记：双重否定]]）
 > 2. **All the same 的语篇功能**：表让步转折 = "尽管如此"，承上启下——前文否定未来主义诗歌作为文学的价值，此句转而承认其理论前提的合理性。考研阅读中这类连接性状语是把握作者态度转折的关键信号。
 > 3. **冒号引出同位语**：`that` 从句作 `proposition` 的同位语，具体说明其内容。考研中抽象名词（proposition / idea / fact / theory）+ 冒号或 that 从句的同位语结构是高频考点。
 
