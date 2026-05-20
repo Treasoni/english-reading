@@ -351,6 +351,48 @@ This, though it fulfills the laws and requirements of Futurist poetry, can hardl
 > 2. **though 与 although 的区别**：`though` 可引导倒装（`Child though he is`），`although` 不能；`though` 可用于句末作副词（`He said so, though.`）。考研中 though 的灵活用法是常考知识点。
 > 3. **can hardly be classed as...**：半否定词 `hardly` + 被动语态 + `as` 补足语，用于表达委婉否定，比直接说 "is not Literature" 更具讽刺效果——符合前文提到的未来主义诗歌"满足了法则却仍不配叫文学"的反讽语气。
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - A (连接性状语): All the same
+> - S (主语): no thinking man
+> - V (谓语): can refuse to accept
+> - O (宾语): their first proposition
+> - 同位语(冒号后): that a great change...calls for a change of expression
+>
+> **简化版**：No man can refuse to accept their proposition.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 连接性状语 | All the same | 修饰整个句子，表让步转折 |
+> | 同位语从句(冒号后) | that | 说明 proposition 的具体内容 |
+> | 介词短语 | in our emotional life | 修饰 change |
+>
+> **结构图解**：
+> ```
+> Sentence (主谓宾 + 同位语)
+> ├── A(让步转折): All the same
+> │
+> ├── 主句: no thinking man can refuse to accept their first proposition
+> │   ├── S: no thinking man (否定①)
+> │   ├── V: can refuse to accept (否定②: refuse)
+> │   └── O: their first proposition
+> │
+> └── 同位语(冒号后): that a great change...calls for a change of expression
+>     ├── S: a great change in our emotional life
+>     │     └── 介短: in our emotional life
+>     ├── V: calls for
+>     └── O: a change of expression
+> ```
+>
+> **参考译文**：尽管如此，任何有思想的人都不会拒绝接受他们的第一个命题：我们情感生活的巨大变化需要表达方式的改变。
+>
+> **考点提示**：
+> 1. **双重否定表肯定**：`no thinking man can refuse to accept` = "没有有思想的人会拒绝" → 实际等于"所有人都认可"。`no` + `refuse` 构成双重否定，是考研阅读中表达强烈肯定态度的修辞手段（间接肯定法 / litotes）。
+> 2. **All the same 的语篇功能**：表让步转折 = "尽管如此"，承上启下——前文否定未来主义诗歌作为文学的价值，此句转而承认其理论前提的合理性。考研阅读中这类连接性状语是把握作者态度转折的关键信号。
+> 3. **冒号引出同位语**：`that` 从句作 `proposition` 的同位语，具体说明其内容。考研中抽象名词（proposition / idea / fact / theory）+ 冒号或 that 从句的同位语结构是高频考点。
+
 ### 题目
 
 59. This passage is mainly
