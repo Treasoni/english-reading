@@ -402,15 +402,21 @@ This, though it fulfills the laws and requirements of Futurist poetry, can hardl
 | 主句 + **instead of + n.** | Many youngsters prefer to communicate online **instead of** face-to-face interaction. | 放在句末，接名词 |
 | **Instead of + n.**, 主句... | **Instead of** a letter, he sent me an email. | 放在句首，接名词 |
 
-#### Instead of vs. Instead
+#### Instead of vs. Instead 对比
 
-| 词 | 词性 | 后接成分 | 例句 |
-|------|------|------|------|
-| **instead of** | 介词短语 | 名词/代词/动名词 | He chose tea **instead of** coffee. |
-| **instead** | 副词 | 不接任何东西，独立使用 | He didn't reply. **Instead,** he turned around and left. |
+| | **instead of** (介词短语) | **instead** (副词) |
+|---|---|---|
+| 后接 | 名词/代词/V-ing（必接） | 不接任何东西，独立使用 |
+| 逻辑 | 一句话内：肯定A + **否定B** | 两句话：否定前句 + **转折肯定** |
+| 位置 | 句首/句中，后接宾语 | 句首(逗号)或句末 |
+| 例句 | He chose tea **instead of** coffee. | He didn't reply. **Instead,** he left. |
 
-> [!tip] 阅读实战
-> 在阅读里看到 `instead of`，立刻给后面的内容画"×"，给主句画"√"，极速理清作者的真正态度！
+**核心区别记忆**：看到 `instead` 后紧跟名词/V-ing → 是 `instead of`；后跟逗号/句号或出现在句末 → 是 `instead`。
+
+> [!warning] Instead of 后不能接动词原形
+> - ✅ `He walked home **instead of taking** a bus.` (V-ing)
+> - ❌ `He walked home **instead of take** a bus.` (动词原形 ✗)
+> - 如需接动词原形，用 `rather than`：`He walked home **rather than take** a bus.`
 
 ---
 
