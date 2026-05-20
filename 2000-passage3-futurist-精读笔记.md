@@ -97,6 +97,60 @@ When a new movement in art attains a certain fashion, it is advisable to find ou
 > 3. **however 引导让步状语从句**：`however + adj. + 主语 + 谓语` 相当于 `no matter how...`。需注意 however 在句中作连接词而非转折副词。
 > 4. **多层嵌套的从句结构**：第一分句中主句的补语不定式内嵌了宾语从句；第二分句中让步从句嵌套在主句之前，形成"状语 + 主句"的隔离结构，是考研长难句的典型模式。
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+> 本句同样是由 `for` 连接的并列复合句，共两个并列分句：
+>
+> **第一分句主干**：
+> - S (主语): the case
+> - V (系动词): is
+> - C (表语): rather difficult
+> - A (方面状语): With regard to Futurist poetry
+> - A (转折副词): however
+>
+> **第二分句主干**：
+> - S (主语): it (指 Futurist poetry)
+> - V (谓语): can be classed (被动语态)
+> - C (主语补足语): as Literature
+> - A (程度副词): hardly
+>
+> **简化版**：The case is rather difficult, for it can hardly be classed as Literature.
+>
+> **修饰成分**：
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介词短语 | With regard to | 方面状语，修饰第一分句 |
+> | 并列连词 | for | 连接两个并列主句，表原因 |
+> | 让步状语从句 | whatever | 修饰第二分句，表让步 |
+> | 非谓语(分词短语) | even admitting | 插入语，表进一步让步 |
+> | 名词性从句 | that | 作 admitting 的宾语 |
+> | 定语从句 | on which | 修饰 the theory |
+>
+> **结构图解**：
+> ```
+> Sentence (并列复合句)
+> ├── 第一分句:
+> │   ├── 介短(方面状语): With regard to Futurist poetry
+> │   ├── 连接副词: however (表转折)
+> │   └── 主句: the case is rather difficult
+> │
+> └── 第二分句(由for连接，表原因):
+>     ├── 状从(让步): whatever Futurist poetry may be
+>     ├── 插入语(破折号内):
+>     │     └── 非谓语(现在分词，表让步): even admitting...
+>     │           └── 名从(作admitting的宾语): that the theory...may be right
+>     │                 └── 定从: (on which it is based) → 修饰 the theory
+>     └── 主句: it can hardly be classed as Literature
+> ```
+>
+> **参考译文**：然而，关于未来主义诗歌，情况就比较困难了，因为无论未来主义诗歌是什么——即使承认其赖以存在的理论可能是正确的——它也几乎不能被归类为文学。
+>
+> **考点提示**：
+> 1. **whatever 引导让步状语从句**：`whatever = no matter what`，意为"无论什么"。考研中类似结构还有 wherever, however, whoever 等。
+> 2. **破折号插入语**：破折号之间的 `even admitting that...` 是插入的现在分词短语，打断主句的连贯性。考研阅读中遇到破折号可先跳过，读完主句再回头看插入内容。
+> 3. **介词 + 关系代词引导定语从句**：`on which it is based` = `the theory that it is based on`，"it"指代 Futurist poetry。介词前置是定语从句的正式用法，考研翻译时需将介词还原到从句末尾。
+> 4. **can hardly be classed as...**：`hardly` 表否定（"几乎不"），与 `can` 连用形成半否定结构。这种"半否定词 + 谓语"是考研阅读中表达委婉否定的常见手段。
+
 This, in brief, is what the Futurist says: for a century, past conditions of life have been conditionally speeding up, till now we live in a world of noise and violence and speed. Consequently, our feelings, thoughts and emotions have undergone a corresponding change. This speeding up of life, says the Futurist, requires a new form of expression. We must speed up our literature too, if we want to interpret modern stress. We must pour out a large stream of essential words, unhampered by stops, or qualifying adjectives, or finite verbs. Instead of describing sounds we must make up words that imitate them; we must use many sizes of type and different colored inks on the same page, and shorten or lengthen words at will.
 
 Certainly their descriptions of battles are confused. But it is a little upsetting to read in the explanatory notes that a certain line describes a fight between a Turkish and a Bulgarian officer on a bridge off which they both fall into the river —and then to find that the line consists of the noise of their falling and the weights of the officers: "Pluff! Pluff! A hundred and eighty-five kilograms."
