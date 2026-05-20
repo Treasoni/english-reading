@@ -9,7 +9,7 @@ tags:
   - exam-prep
 difficulty: intermediate
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-20
 sources:
   - "2000年考研英语阅读 passage 3"
   - "用户提供的语法笔记"
@@ -42,6 +42,60 @@ related:
 ## 文章原文
 
 When a new movement in art attains a certain fashion, it is advisable to find out what its advocates are aiming at, for, however farfetched and unreasonable their principles may seem today, it is possible that in years to come they may be regarded as normal. With regard to **Futurist poetry**, however, the case is rather difficult, for whatever Futurist poetry may be—even admitting that the theory on which it is based may be right—it can hardly be classed as Literature.
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> 本句是由 `for` 连接的并列复合句，包含两个并列主句：
+>
+> **第一分句主干**：
+> - S (形式主语): It
+> - V (系动词): is
+> - C (表语): advisable
+> - S (真正主语): to find out what its advocates are aiming at (不定式短语)
+>
+> **第二分句主干**：
+> - S (形式主语): It
+> - V (系动词): is
+> - C (表语): possible
+> - S (真正主语): that in years to come they may be regarded as normal (主语从句)
+>
+> **简化版**：It is advisable to find out [what...], for it is possible that [they may be regarded as normal].
+>
+> **修饰成分**：
+> 
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 时间状语从句 | When | 修饰第一分句主句 |
+> | 介词短语 | in | 修饰 movement |
+> | 宾语从句 | what | 作 find out 的宾语 |
+> | 并列连词 | for | 连接两个并列主句，表原因 |
+> | 让步状语从句 | however | 修饰第二分句，表让步 |
+> | 主语从句 | that | 作第二分句的真正主语 |
+> | 介词短语 | in years to come | 修饰主语从句中的谓语 |
+>
+> **结构图解**：
+> ```
+> Sentence (并列复合句)
+> ├── 第一分句:
+> │   ├── 状从(时间): When a new movement in art attains a certain fashion
+> │   │     └── 介短: in art → 修饰 movement
+> │   ├── 主句: it is advisable to find out ...
+> │   └── 宾从(作find out的宾语): what its advocates are aiming at
+> │
+> └── 第二分句(由for连接，表原因):
+>     ├── 状从(让步): however farfetched and unreasonable their principles may seem today
+>     ├── 主句: it is possible ...
+>     └── 主从(作真实主语): that in years to come they may be regarded as normal
+>           └── 介短: in years → 修饰 may be regarded
+> ```
+>
+> **参考译文**：当一场新的艺术运动形成某种时尚时，明智之举是弄清其倡导者的目标所在，因为无论他们的原则在今天看来多么牵强附会、不合情理，很可能未来某一天它们会被视为常态。
+>
+> **考点提示**：
+> 1. **形式主语 it**：句中两次出现 `it is + adj. + to do/that...` 结构，it 作形式主语，真正主语后置。考研翻译中需识别这一结构，避免将 it 误译为"它"。
+> 2. **for 作并列连词**：for 在此表原因（"因为"），连接并列句而非从句。语气弱于 because，考研中常考 for 与 because/since/as 的区别。
+> 3. **however 引导让步状语从句**：`however + adj. + 主语 + 谓语` 相当于 `no matter how...`。需注意 however 在句中作连接词而非转折副词。
+> 4. **多层嵌套的从句结构**：第一分句中主句的补语不定式内嵌了宾语从句；第二分句中让步从句嵌套在主句之前，形成"状语 + 主句"的隔离结构，是考研长难句的典型模式。
 
 This, in brief, is what the Futurist says: for a century, past conditions of life have been conditionally speeding up, till now we live in a world of noise and violence and speed. Consequently, our feelings, thoughts and emotions have undergone a corresponding change. This speeding up of life, says the Futurist, requires a new form of expression. We must speed up our literature too, if we want to interpret modern stress. We must pour out a large stream of essential words, unhampered by stops, or qualifying adjectives, or finite verbs. Instead of describing sounds we must make up words that imitate them; we must use many sizes of type and different colored inks on the same page, and shorten or lengthen words at will.
 
