@@ -154,6 +154,72 @@ When a new movement in art attains a certain fashion, it is advisable to find ou
 
 This, in brief, is what the Futurist says: for a century, past conditions of life have been conditionally speeding up, till now we live in a world of noise and violence and speed. Consequently, our feelings, thoughts and emotions have undergone a corresponding change. This speeding up of life, says the Futurist, requires a new form of expression. We must speed up our literature too, if we want to interpret modern stress. We must pour out a large stream of essential words, unhampered by stops, or qualifying adjectives, or finite verbs. Instead of describing sounds we must make up words that imitate them; we must use many sizes of type and different colored inks on the same page, and shorten or lengthen words at will.
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+> 本句为主系表结构，冒号后为对表语从句的具体说明：
+>
+> - S (主语): This
+> - V (系动词): is
+> - C (表语从句): what the Futurist says
+> - A (插入语): in brief
+>
+> **冒号后内容（对表语的展开说明）**：
+> 由 `till` 连接的两个并列分句：
+>
+> **分句1**：
+> - S: past conditions of life
+> - V: have been speeding up (现在完成进行时)
+> - A: for a century (时间状语)
+> - A: conditionally (方式状语)
+>
+> **分句2**：
+> - S: we
+> - V: live
+> - A: in a world of noise and violence and speed (地点状语)
+>
+> **简化版**：This is [what the Futurist says]: conditions have been speeding up, till we live in a world of noise.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 插入语 | in brief | 修饰整个主句 |
+> | 表语从句 | what | 作 is 的表语 |
+> | 介词短语 | for a century | 分句1的时间状语 |
+> | 副词 | conditionally | 修饰分句1的 speeding up |
+> | 时间连词 | till | 连接分句1和分句2，表时间终点 |
+> | 介词短语 | in a world of... | 分句2的地点状语 |
+>
+> **结构图解**：
+> ```
+> Sentence (主系表)
+> ├── 主句: This is [what the Futurist says]
+> │   ├── S: This
+> │   ├── V: is
+> │   ├── A(插入): in brief
+> │   └── C: [表语从句] what the Futurist says
+> │
+> └── 冒号后的具体说明(two并列分句):
+>     ├── 分句1: for a century, past conditions of life have been conditionally speeding up
+>     │     ├── 介短(时间): for a century
+>     │     ├── S: past conditions of life
+>     │     ├── V: have been speeding up (现在完成进行时)
+>     │     └── A(方式): conditionally
+>     │
+>     └── 分句2(由till连接): till now we live in a world of noise and violence and speed
+>           ├── S: we
+>           ├── V: live
+>           └── A(地点): in a world of noise and violence and speed
+> ```
+>
+> **参考译文**：简言之，未来主义者是这样说的：一个世纪以来，过去的生活条件一直在不断加速，直到现在我们生活在一个充满噪音、暴力和速度的世界里。
+>
+> **考点提示**：
+> 1. **表语从句**：`what the Futurist says` 跟在系动词 `is` 后作表语。`what` 在从句中作 `says` 的宾语，不能省略。考研翻译中表语从句通常顺译即可，无需调整语序。
+> 2. **现在完成进行时 `have been speeding up`**：强调动作从过去持续到现在并仍在进行。考研中常与现在完成时对比考查（"一直在加速"vs"已经加速了"）。
+> 3. **till 引导时间状语从句**：`till now we live...` 表示"直到现在，我们生活在……"，描绘时间演进的结果状态。
+> 4. **冒号的解释说明功能**：冒号后的内容是对 `what the Futurist says` 的具体展开。考研阅读中冒号是重要的逻辑信号——冒号前是概括，冒号后是细节。
+
 Certainly their descriptions of battles are confused. But it is a little upsetting to read in the explanatory notes that a certain line describes a fight between a Turkish and a Bulgarian officer on a bridge off which they both fall into the river —and then to find that the line consists of the noise of their falling and the weights of the officers: "Pluff! Pluff! A hundred and eighty-five kilograms."
 
 This, though it fulfills the laws and requirements of Futurist poetry, can hardly be classed as Literature. All the same, no thinking man can refuse to accept their first proposition: that a great change in our emotional life calls for a change of expression. The whole question is really this: have we essentially changed?
