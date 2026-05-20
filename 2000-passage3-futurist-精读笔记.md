@@ -810,7 +810,13 @@ This, though it fulfills the laws and requirements of Futurist poetry, can hardl
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **farfetched** | adj. | 牵强的，不切实际的 | "...however **farfetched** and unreasonable their principles may seem today, it is possible that in years to come they may be regarded as normal." |
+| **corresponding** | adj. | 相应的，对应的 | "Consequently, our feelings, thoughts and emotions have undergone a **corresponding** change." |
+| **unhampered** | adj. | 不受束缚的，不受阻碍的 | "We must pour out a large stream of essential words, **unhampered** by stops, or qualifying adjectives, or finite verbs." |
 
 ## 心得
 
