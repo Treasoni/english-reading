@@ -860,7 +860,7 @@ This, though it fulfills the laws and requirements of Futurist poetry, can hardl
 ### 推荐后续阅读
 
 - [[2000-passage1-america-精读笔记]] — 同一年真题，练习相似年代的文章风格
-- [[2000-passage2-mediocrity-精读笔记]] — 2000 年 Passage 2，逐步形成年份做题感
+- [[2000-passage2-精读笔记]] — 2000 年 Passage 2，逐步形成年份做题感
 - 考研英语《阅读的逻辑》— 态度题和主旨题专题
 
 ### 补充资源
