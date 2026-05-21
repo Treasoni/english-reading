@@ -103,6 +103,50 @@ related:
 > 2. 语篇衔接：But 与前句形成转折，标志文章主旨句的引入——前句讲成就，本句转问题
 > 3. decline 为考研高频抽象名词，注意其搭配 see a decline of...
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+>
+> | 分句 | 成分 | 内容 | 说明 |
+> |------|------|------|------|
+> | 分句1 | S | young people | 主语 |
+> | | V1 + C | were hardworking | 系表结构 |
+> | | V2 + O | saw their jobs | 谓语 + 宾语 |
+> | | C | as their primary reason for being | 宾语补足语（see...as...） |
+> | | A | Ten years ago | 时间状语 |
+> | 分句2 | S | Japan | 主语 |
+> | | V | has fulfilled | 现在完成时 |
+> | | O | its economic needs | 宾语 |
+> | | A | largely / now | 程度状语 + 时间状语 |
+> | 分句3 | S | young people | 主语 |
+> | | V | don't know | 谓语 |
+> | | O | where they should go next | 宾语从句 |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|---------|------|
+> | 宾从 | where | don't know | 疑问副词 where 引导的名词性从句作宾语，语序为陈述语序 |
+> | 介短 | as... | their jobs | 与 saw 构成 see...as... 搭配，作宾语补足语 |
+> | 时间状语 | Ten years ago | 分句1 | 指明分句1的时间参照 |
+>
+> **结构图解**：
+>
+> ```
+> 并列句 (but + and 连接三重并列):
+> ├── 分句1: (Ten years ago) + [young people] + [were hardworking] + [and saw] + [their jobs]
+> │     └── 介短: (as their primary reason for being) → 与 saw 搭配
+> ├── [but] ── 分句2: (now) + [Japan] + [has largely fulfilled] + [its economic needs]
+> └── [and] ── 分句3: [young people] + [don't know]
+>       └── 宾从: (where they should go next) → 作 don't know 的宾语
+> ```
+>
+> **参考译文**：十年前，年轻人勤奋工作，将工作视为人生的首要意义；但现在日本已基本满足了经济需求，年轻人却不知下一步该往何处去。
+>
+> **考点提示**：
+> 1. 三重并列时间对比：but 连接十年前与现在形成对比，and 连接满足需求与不知去向形成因果，是细节题/推断题常见命题点
+> 2. see...as... 固定搭配：as 为介词，不可省略，后接名词短语作宾补
+> 3. where 宾语从句陈述语序：where they should go next 为 S+V 结构，非疑问倒装语序，语法改错高频考点
+
 The coming of age of the postwar **baby boom** and an entry of women into the **male-dominated** job market have limited the opportunities of teen-agers who are already questioning the heavy personal sacrifices involved in climbing Japan's **rigid social ladder** to good schools and jobs. In a recent survey, it was found that only 24.5 percent of Japanese students were fully satisfied with school life, compared with 67.2 percent of students in the United States. In addition, far more Japanese workers expressed dissatisfaction with their jobs than did their counterparts in the 10 other countries surveyed.
 
 While often praised by foreigners for its emphasis on the basics, Japanese education tends to stress test taking and **mechanical learning** over **creativity** and **self-expression**. "Those things that do not show up in the test scores—personality, ability, courage or humanity—are completely ignored," says Toshiki Kaifu, chairman of the ruling Liberal Democratic Party's education committee. "Frustration against this kind of thing leads kids to drop out and run wild." Last year Japan experienced 2,125 incidents of school violence, including 929 assaults on teachers. Amid the outcry, many conservative leaders are seeking a return to the prewar emphasis on **moral education**. Last year Mitsuo Setoyama, who was then education minister, raised eyebrows when he argued that liberal reforms introduced by the American occupation authorities after World War II had weakened the "Japanese morality of respect for parents."
