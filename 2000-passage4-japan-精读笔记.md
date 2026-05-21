@@ -204,6 +204,100 @@ The coming of age of the postwar **baby boom** and an entry of women into the **
 
 While often praised by foreigners for its emphasis on the basics, Japanese education tends to stress test taking and **mechanical learning** over **creativity** and **self-expression**. "Those things that do not show up in the test scores—personality, ability, courage or humanity—are completely ignored," says Toshiki Kaifu, chairman of the ruling Liberal Democratic Party's education committee. "Frustration against this kind of thing leads kids to drop out and run wild." Last year Japan experienced 2,125 incidents of school violence, including 929 assaults on teachers. Amid the outcry, many conservative leaders are seeking a return to the prewar emphasis on **moral education**. Last year Mitsuo Setoyama, who was then education minister, raised eyebrows when he argued that liberal reforms introduced by the American occupation authorities after World War II had weakened the "Japanese morality of respect for parents."
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+>
+> | 成分 | 内容 | 说明 |
+> |------|------|------|
+> | S | Japanese education | 主语 |
+> | V | tends to stress | tend to do 固定搭配 |
+> | O | test taking and mechanical learning | 并列宾语 |
+> | A | over creativity and self-expression | 比较状语 |
+>
+> **While 从句（省略结构）**：
+>
+> > While (it is) often praised by foreigners for its emphasis on the basics
+>
+> | 成分 | 内容 |
+> |------|------|
+> | 连词 | While 让步 |
+> | 省略 | (it is) — 主语+be 动词 |
+> | V | praised (过去分词) |
+> | A | by foreigners (动作发出者) |
+> | A | for its emphasis on the basics (原因) |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|---------|------|
+> | 状从(省略) | While | 主句 | 让步状语，"虽然……但是……" |
+> | 介短 | by foreigners | praised | 被动动作发出者 |
+> | 介短 | for its emphasis | praised | 表原因 |
+> | 介短 | on the basics | emphasis | 修饰 emphasis |
+> | 介短 | over creativity... | stress | 比较取舍 |
+>
+> **结构图解**：
+>
+> ```
+> 主句: [Japanese education] + [tends to stress] + [test taking and mechanical learning]
+>   │
+>   ├── 状从(省略): (While often praised by foreigners for its emphasis on the basics) → 让步
+>   │     ├── 介短: (by foreigners) → 动作发出者
+>   │     └── 介短: (for its emphasis on the basics) → 原因
+>   │           └── 介短: (on the basics) → 修饰 [emphasis]
+>   │
+>   └── 介短: (over creativity and self-expression) → 比较状语，修饰 [stress]
+> ```
+>
+> **参考译文**：尽管日本教育因注重基础知识而常受到外国人称赞，但它往往强调应试和机械学习，而非创造力和自我表达。
+>
+> **考点提示**：
+> 1. While 让步状语从句省略：While (it is) praised...，省略条件为主从句主语一致且从句含 be 动词
+> 2. stress A over B：over 表比较取舍，与 prefer A over B 同类，考研高频结构
+> 3. 过去分词逻辑主语：While 从句省略的主语还原为 Japanese education
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+>
+> | 成分 | 内容 | 说明 |
+> |------|------|------|
+> | S | Those things | 主语 |
+> | V | are ignored | 被动语态谓语 |
+> | A | completely | 程度副词状语 |
+>
+> **定从内部**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S | that |
+> | V | do not show up |
+> | A | in the test scores |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|---------|------|
+> | 定从 | that | Those things | that 在从句中作主语，不可省略 |
+> | 介短 | in the test scores | show up | 地点/范围状语 |
+> | 同位 | —personality...humanity— | Those things | 破折号插入的同位语，主谓分隔 |
+>
+> **结构图解**：
+>
+> ```
+> 主句: [Those things] + [are completely ignored]
+>   ├── 定从: (that do not show up in the test scores) → 修饰 [Those things]
+>   │     └── 介短: (in the test scores) → 修饰 [show up]
+>   └── 同位: (—personality, ability, courage or humanity—) → 解释 [Those things]
+>         (插入主谓之间，形成主谓分隔)
+> ```
+>
+> **参考译文**：那些无法在考试成绩中体现的东西——个性、能力、勇气或人性——完全被忽视了。
+>
+> **考点提示**：
+> 1. 定从中 that 作主语不可省略，区别于作宾语时可省略
+> 2. 破折号同位语插入主谓之间造成主谓分隔，阅读时需跳过插入成分直接找谓语
+> 3. show up 为不及物短语动词，in the test scores 为地点状语
+
 ==But that may have more to do with Japanese life-styles.== "In Japan," says educator Yoko Muro, "it's never a question of whether you enjoy your job and your life, but only how much you can **endure**." With economic growth has come **centralization**; fully 76 percent of Japan's 119 million citizens live in cities where community and the **extended family** have been abandoned in favor of isolated, **two-generation households**. Urban Japanese have long endured **lengthy commutes** (travels to and from work) and crowded living conditions, but as the old group and family values weaken, the discomfort is beginning to tell. In the past decade, the Japanese **divorce rate**, while still well below that of the United States, has increased by more than 50 percent, and suicides have increased by nearly one-quarter.
 
 63. In the Westerners' eyes, the postwar Japan was.
