@@ -429,6 +429,68 @@ While often praised by foreigners for its emphasis on the basics, Japanese educa
 
 ==But that may have more to do with Japanese life-styles.== "In Japan," says educator Yoko Muro, "it's never a question of whether you enjoy your job and your life, but only how much you can **endure**." With economic growth has come **centralization**; fully 76 percent of Japan's 119 million citizens live in cities where community and the **extended family** have been abandoned in favor of isolated, **two-generation households**. Urban Japanese have long endured **lengthy commutes** (travels to and from work) and crowded living conditions, but as the old group and family values weaken, the discomfort is beginning to tell. In the past decade, the Japanese **divorce rate**, while still well below that of the United States, has increased by more than 50 percent, and suicides have increased by nearly one-quarter.
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+>
+> **分句 1（完全倒装）**：
+>
+> | 成分 | 内容 | 说明 |
+> |------|------|------|
+> | V | has come | 谓语（倒装后提前） |
+> | S | centralization | 主语（倒装后置） |
+> | A | With economic growth | 介短状语引发倒装 |
+>
+> > 还原正常语序：Centralization has come with economic growth.
+>
+> **分句 2**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S | 76 percent of Japan's 119 million citizens |
+> | V | live |
+> | A | in cities |
+>
+> **where 定从内部**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S | community and the extended family |
+> | V | have been abandoned |
+> | A | in favor of isolated, two-generation households |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|---------|------|
+> | 介短 | With economic growth | has come | 伴随状语引发完全倒装 |
+> | 介短 | of Japan's 119M citizens | 76 percent | 修饰 76% |
+> | 介短 | in cities | live | 地点状语 |
+> | 定从 | where | cities | where = in which |
+> | 介短 | in favor of... | have been abandoned | 方面状语 |
+>
+> **结构图解**：
+>
+> ```
+> 并列句 (分号连接):
+> │
+> ├── 分句1: (With economic growth) + [has come] + [centralization]  ← 完全倒装
+> │     └── 介短 (With economic growth) → 提前引发倒装
+> │
+> └── 分句2: [76 percent of 119M citizens] + [live] + (in cities)
+>       └── 定从: (where community and extended family have been abandoned in favor of...)
+>             → 修饰 [cities]
+>             └── 介短: (in favor of isolated, two-generation households)
+> ```
+>
+> **参考译文**：随着经济增长而来的是集中化：日本1.19亿人口中足有76%居住在城市，在那里，社区和大家庭已被抛弃，取而代之的是孤立的、两代人构成的家庭。
+>
+> **考点提示**：
+> 1. 完全倒装：介短状语提前引起主谓完全倒装，需还原为正常语序理解
+> 2. 分号并列：前句结果（集中化）→ 后句具体表现（76%住城市）
+> 3. where 定从：先行词 cities，where = in which
+> 4. in favor of：此处表"取而代之"，非"支持"
+> 5. two-generation households：核心家庭 vs extended family 大家庭
+
 63. In the Westerners' eyes, the postwar Japan was.
 
   [A] under aimless development
