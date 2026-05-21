@@ -530,6 +530,61 @@ While often praised by foreigners for its emphasis on the basics, Japanese educa
 > 2. as 时间状语："随着……"，表同步变化
 > 3. but 转折：长期忍受 → 开始显现，量变到质变
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+>
+> | 分句 | 成分 | 内容 | 说明 |
+> |------|------|------|------|
+> | 分句1 | S | the Japanese divorce rate | 主语 |
+> | | V | has increased | 现在完成时，不及物动词 |
+> | | A | In the past decade | 时间状语 |
+> | | A | by more than 50 percent | 程度状语 |
+> | 分句2 | S | suicides | 主语 |
+> | | V | have increased | 现在完成时，不及物动词 |
+> | | A | by nearly one-quarter | 程度状语 |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|---------|------|
+> | 状从(省略) | while | divorce rate | 让步状语，省略 it is |
+> | 介短 | of the United States | that | 比较对象 |
+> | 介短 | In the past decade | has increased | 时间状语 |
+> | 介短 | by more than 50 percent | has increased | 程度状语 |
+> | 介短 | by nearly one-quarter | have increased | 程度状语 |
+>
+> **While 从句（省略结构）**：
+>
+> > while (it is) still well below that of the United States
+>
+> | 成分 | 内容 |
+> |------|------|
+> | 连词 | While 让步 |
+> | 省略 | (it is) — 主语+be 动词 |
+> | C | well below that of the United States |
+> | 介短 | of the United States → 修饰 that（替代 the divorce rate） |
+>
+> **结构图解**：
+>
+> ```
+> 并列句 (and 连接):
+> │
+> ├── 分句1: (In the past decade) + [the Japanese divorce rate] + [has increased] + (by more than 50 percent)
+> │     └── 状从(省略): [while (it is) still well below that of the United States]
+> │           → 让步状语，修饰 divorce rate
+> │           └── 介短: (of the United States) → 修饰 [that]
+> │
+> └── 分句2: [suicides] + [have increased] + (by nearly one-quarter)
+> ```
+>
+> **参考译文**：过去十年间，日本的离婚率虽然仍远低于美国，但已上升了50%以上，自杀率也上升了近四分之一。
+>
+> **考点提示**：
+> 1. while 状语从句省略：while (it is) still well below...，省略条件为主从句主语一致且从句含 be 动词
+> 2. that 指代：that = the divorce rate，考研阅读中的指代关系题常考
+> 3. 并列分句共享对比逻辑：and 连接的第二个分句 suicides have increased 隐含与前文的对比关系，是推断题命题基础
+> 4. by + 百分比/分数：表净增减幅度，by more than 50% = 净增50%以上，与 increase to（增加到）区分
+
 63. In the Westerners' eyes, the postwar Japan was.
 
   [A] under aimless development
