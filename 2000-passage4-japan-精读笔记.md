@@ -147,7 +147,7 @@ related:
 > 2. see...as... 固定搭配：as 为介词，不可省略，后接名词短语作宾补
 > 3. where 宾语从句陈述语序：where they should go next 为 S+V 结构，非疑问倒装语序，语法改错高频考点
 
-The coming of age of the postwar **baby boom** and an entry of women into the **male-dominated** job market have limited the opportunities of teen-agers who are already questioning the heavy personal sacrifices **involved** in climbing Japan's **rigid social ladder** to good schools and jobs. In a recent survey, it was found that only 24.5 percent of Japanese students were fully satisfied with school life, compared with 67.2 percent of students in the United States. In addition, far more Japanese workers expressed dissatisfaction with their jobs than did their counterparts in the 10 other countries surveyed.
+The coming of age of the postwar **baby boom** and an entry of women into the **male-dominated** job market have limited the opportunities of teen-agers who are already questioning the heavy personal sacrifices **involved** in climbing Japan's **rigid social ladder** to good schools and jobs. In a recent survey, it was found that only 24.5 percent of Japanese students were fully satisfied with school life, compared with 67.2 percent of students in the United States. In addition, far more Japanese workers expressed dissatisfaction with their jobs than did their **counterparts** in the 10 other countries surveyed.
 
 > [!abstract]- 长难句分析
 > **主干提取**：
