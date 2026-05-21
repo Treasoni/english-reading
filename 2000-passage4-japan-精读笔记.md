@@ -804,7 +804,36 @@ While 在考研英语中身兼三种语法角色，是阅读理解中的高频�
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **against** | prep. | 反对；针对；对于 | "Frustration **against** this kind of thing leads kids to drop out and run wild." |
+| **Aimlessness** | n. | 漫无目的；无目标 | "**Aimlessness** has hardly been typical of the postwar Japan..." |
+| **assaults** | n. | 攻击；袭击 | "...including 929 **assaults** on teachers." |
+| **baby boom** | n. | 婴儿潮 | "The coming of age of the postwar **baby boom**..." |
+| **centralization** | n. | 集中化 | "With economic growth has come **centralization**..." |
+| **counterparts** | n. | 对应的人（或物） | "...far more Japanese workers expressed dissatisfaction with their jobs than did their **counterparts** in the 10 other countries surveyed." |
+| **creativity** | n. | 创造力 | "...Japanese education tends to stress test taking and mechanical learning over **creativity** and self-expression." |
+| **decline** | n. | 衰退；下降 | "...the Japanese are seeing a **decline** of the traditional work-moral values." |
+| **divorce rate** | n. | 离婚率 | "...the Japanese **divorce rate**, while still well below that of the United States, has increased by more than 50 percent..." |
+| **drop out** | v. | 辍学；退出 | "...leads kids to **drop out** and run wild." |
+| **endure** | v. | 忍受；忍耐 | "...but only how much you can **endure**." |
+| **extended family** | n. | 大家庭（几代同堂） | "...community and the **extended family** have been abandoned in favor of isolated, two-generation households." |
+| **Frustration** | n. | 挫败感；沮丧 | "**Frustration** against this kind of thing leads kids to drop out and run wild." |
+| **in favor of** | prep. | 支持；取而代之 | "...have been abandoned **in favor of** isolated, two-generation households." |
+| **involved** | adj. | 涉及的；参与的 | "...the heavy personal sacrifices **involved** in climbing Japan's rigid social ladder to good schools and jobs." |
+| **lengthy commutes** | n. | 漫长的通勤 | "Urban Japanese have long endured **lengthy commutes** and crowded living conditions..." |
+| **male-dominated** | adj. | 男性主导的 | "...an entry of women into the **male-dominated** job market..." |
+| **mechanical learning** | n. | 机械学习 | "...Japanese education tends to stress test taking and **mechanical learning** over creativity and self-expression." |
+| **moral education** | n. | 道德教育 | "...many conservative leaders are seeking a return to the prewar emphasis on **moral education**." |
+| **postwar** | adj. | 战后的 | "...typical of the **postwar** Japan whose productivity and social harmony are the envy of the United States and Europe." |
+| **productivity** | n. | 生产力；生产率 | "...whose **productivity** and social harmony are the envy of the United States and Europe." |
+| **rigid social ladder** | n. | 森严的社会阶梯 | "...climbing Japan's **rigid social ladder** to good schools and jobs." |
+| **self-expression** | n. | 自我表达 | "...over creativity and **self-expression**." |
+| **social harmony** | n. | 社会和谐 | "...whose productivity and **social harmony** are the envy of the United States and Europe." |
+| **two-generation households** | n. | 两代人构成的家庭（核心家庭） | "...in favor of isolated, **two-generation households**." |
+| **work-moral values** | n. | 工作道德价值观 | "...the Japanese are seeing a decline of the traditional **work-moral values**." |
 
 ## 心得
 
