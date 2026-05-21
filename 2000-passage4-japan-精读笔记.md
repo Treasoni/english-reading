@@ -9,7 +9,7 @@ tags:
   - exam-prep
 difficulty: intermediate
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-05-21
 sources:
   - "考研英语真题"
 related:
@@ -36,7 +36,72 @@ related:
 
 ## 文章原文
 
-**Aimlessness** has hardly been typical of the **postwar** Japan whose **productivity** and **social harmony** are the envy of the United States and Europe. But increasingly the Japanese are seeing a decline of the traditional **work-moral values**. Ten years ago young people were hardworking and saw their jobs as their primary reason for being, but now Japan has largely fulfilled its economic needs, and young people don't know where they should go next.
+**Aimlessness** has hardly been typical of the **postwar** Japan whose **productivity** and **social harmony** are the envy of the United States and Europe. But increasingly the Japanese are seeing a **decline** of the traditional **work-moral values**. Ten years ago young people were hardworking and saw their jobs as their primary reason for being, but now Japan has largely fulfilled its economic needs, and young people don't know where they should go next.
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+>
+> | 成分 | 内容 | 说明 |
+> |------|------|------|
+> | S | Aimlessness | 抽象名词"漫无目的" |
+> | V | has been | 现在完成时，系动词 |
+> | C | typical | 形容词表语 |
+> | A | hardly | 程度副词，表否定 |
+> | A | of the postwar Japan | 介短表范围（be typical of 搭配） |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|---------|------|
+> | 定从 | whose | the postwar Japan | whose 在从句中作定语，修饰 productivity and social harmony |
+> | 介短 | of the U.S. and Europe | the envy | 说明"令谁羡慕的对象" |
+>
+> **结构图解**：
+>
+> ```
+> 主句: [Aimlessness] + [has hardly been] + [typical of the postwar Japan]
+>   └── 定从: (whose productivity and social harmony are the envy of the United States and Europe)
+>         → 修饰 [postwar Japan]
+>         └── 介短: (of the United States and Europe) → 修饰 [the envy]
+> ```
+>
+> **参考译文**：战后日本的生产力和社会和谐令美国和欧洲羡慕不已，漫无目的并非其典型特征。
+>
+> **考点提示**：
+> 1. 双重否定表肯定：hardly typical 并非单纯的否定，而是反向肯定战后日本的积极面，是考研阅读中常见的修辞手法
+> 2. whose定语从句：whose 在从句中作定语，表示所属关系（Japan's productivity and social harmony），需准确识别先行词
+> 3. envy 的名词用法：the envy of... = "令……羡慕的对象"（envy 为不可数名词），翻译时需进行词性转换
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+>
+> | 成分 | 内容 | 说明 |
+> |------|------|------|
+> | S | the Japanese | 定冠词 + 形容词，指代全体日本人 |
+> | V | are seeing | 现在进行时，表渐进变化过程 |
+> | O | a decline | 抽象名词"衰退" |
+> | A | increasingly | 程度副词状语，修饰整个谓语 |
+> | A | of the traditional work-moral values | 介短修饰 decline，说明衰退的内容 |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|---------|------|
+> | 介短 | of the traditional work-moral values | a decline | 说明衰退的具体内容 |
+>
+> **结构图解**：
+>
+> ```
+> 主句: [the Japanese] + (increasingly) + [are seeing] + [a decline]
+>   └── 介短: (of the traditional work-moral values) → 修饰 [decline]
+> ```
+>
+> **参考译文**：但日本人正逐渐感受到传统工作道德价值观的衰退。
+>
+> **考点提示**：
+> 1. 进行时表渐进：are seeing 译为"逐渐感受到"而非"正在看"，与 increasingly 呼应，表达渐变趋势
+> 2. 语篇衔接：But 与前句形成转折，标志文章主旨句的引入——前句讲成就，本句转问题
+> 3. decline 为考研高频抽象名词，注意其搭配 see a decline of...
 
 The coming of age of the postwar **baby boom** and an entry of women into the **male-dominated** job market have limited the opportunities of teen-agers who are already questioning the heavy personal sacrifices involved in climbing Japan's **rigid social ladder** to good schools and jobs. In a recent survey, it was found that only 24.5 percent of Japanese students were fully satisfied with school life, compared with 67.2 percent of students in the United States. In addition, far more Japanese workers expressed dissatisfaction with their jobs than did their counterparts in the 10 other countries surveyed.
 
