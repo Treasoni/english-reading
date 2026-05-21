@@ -491,6 +491,45 @@ While often praised by foreigners for its emphasis on the basics, Japanese educa
 > 4. in favor of：此处表"取而代之"，非"支持"
 > 5. two-generation households：核心家庭 vs extended family 大家庭
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+>
+> | 分句 | 成分 | 内容 | 说明 |
+> |------|------|------|------|
+> | 分句1 | S | Urban Japanese | 主语 |
+> | | V | have endured | 现在完成时 |
+> | | O | lengthy commutes + crowded living conditions | 并列宾语 |
+> | | A | long | 时间副词 |
+> | 分句2 | S | the discomfort | 主语 |
+> | | V | is beginning to tell | 谓语（tell 为不及物动词） |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|---------|------|
+> | 插入语 | (travels to and from work) | commutes | 括号解释 |
+> | 状从 | as | is beginning to tell | 时间状语，"随着……" |
+>
+> **结构图解**：
+>
+> ```
+> 并列句 (but 连接):
+> │
+> ├── 分句1: [Urban Japanese] + (long) + [have endured] + [commutes and conditions]
+> │     └── 插入: (travels to and from work) → 解释 [commutes]
+> │
+> └── 分句2: (as old group and family values weaken)
+>       └── [the discomfort] + [is beginning to tell]
+>             └── 状从: (as ... weaken) → 时间状语
+> ```
+>
+> **参考译文**：日本城市居民长期以来忍受着漫长的通勤（上下班的往返路程）和拥挤的居住条件，但随着旧的群体和家庭价值观的弱化，这种不适开始显现。
+>
+> **考点提示**：
+> 1. tell 熟词僻义：不及物动词，意为"显现/产生影响"，非"告诉"
+> 2. as 时间状语："随着……"，表同步变化
+> 3. but 转折：长期忍受 → 开始显现，量变到质变
+
 63. In the Westerners' eyes, the postwar Japan was.
 
   [A] under aimless development
