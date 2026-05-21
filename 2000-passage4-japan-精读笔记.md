@@ -330,6 +330,40 @@ While often praised by foreigners for its emphasis on the basics, Japanese educa
 > 2. drop out（辍学）和 run wild（失控）均为动词短语，共享一个 to
 > 3. against 在此表"针对/对于"，而非字面"反对"
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+>
+> | 成分 | 内容 | 说明 |
+> |------|------|------|
+> | S | many conservative leaders | 主语 |
+> | V | are seeking | 现在进行时谓语 |
+> | O | a return | 宾语 |
+> | A | Amid the outcry | 介短状语，表背景 |
+> | A | to the prewar emphasis on moral education | 介短修饰 return |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|---------|------|
+> | 介短 | Amid the outcry | 主句 | 背景状语，"在……之中" |
+> | 介短 | to the prewar emphasis | return | 回归的目标 |
+> | 介短 | on moral education | emphasis | 固定搭配 |
+>
+> **结构图解**：
+>
+> ```
+> 主句: (Amid the outcry) + [many conservative leaders] + [are seeking] + [a return]
+>   └── 介短: (to the prewar emphasis on moral education) → 修饰 [return]
+>         └── 介短: (on moral education) → 修饰 [emphasis]
+> ```
+>
+> **参考译文**：在一片抗议声中，许多保守派领导人正寻求回归战前对道德教育的重视。
+>
+> **考点提示**：
+> 1. Amid 句首状语表背景，为下文提供情境铺垫
+> 2. return to... 为固定搭配，to 为介词
+> 3. emphasis on... 固定搭配，后接 on 而非 of
+
 ==But that may have more to do with Japanese life-styles.== "In Japan," says educator Yoko Muro, "it's never a question of whether you enjoy your job and your life, but only how much you can **endure**." With economic growth has come **centralization**; fully 76 percent of Japan's 119 million citizens live in cities where community and the **extended family** have been abandoned in favor of isolated, **two-generation households**. Urban Japanese have long endured **lengthy commutes** (travels to and from work) and crowded living conditions, but as the old group and family values weaken, the discomfort is beginning to tell. In the past decade, the Japanese **divorce rate**, while still well below that of the United States, has increased by more than 50 percent, and suicides have increased by nearly one-quarter.
 
 63. In the Westerners' eyes, the postwar Japan was.
