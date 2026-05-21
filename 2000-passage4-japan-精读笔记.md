@@ -36,7 +36,7 @@ related:
 
 ## 文章原文
 
-Aimlessness has hardly been typical of the postwar Japan whose **productivity** and **social harmony** are the envy of the United States and Europe. But increasingly the Japanese are seeing a decline of the traditional **work-moral values**. Ten years ago young people were hardworking and saw their jobs as their primary reason for being, but now Japan has largely fulfilled its economic needs, and young people don't know where they should go next.
+**Aimlessness** has hardly been typical of the **postwar** Japan whose **productivity** and **social harmony** are the envy of the United States and Europe. But increasingly the Japanese are seeing a decline of the traditional **work-moral values**. Ten years ago young people were hardworking and saw their jobs as their primary reason for being, but now Japan has largely fulfilled its economic needs, and young people don't know where they should go next.
 
 The coming of age of the postwar **baby boom** and an entry of women into the **male-dominated** job market have limited the opportunities of teen-agers who are already questioning the heavy personal sacrifices involved in climbing Japan's **rigid social ladder** to good schools and jobs. In a recent survey, it was found that only 24.5 percent of Japanese students were fully satisfied with school life, compared with 67.2 percent of students in the United States. In addition, far more Japanese workers expressed dissatisfaction with their jobs than did their counterparts in the 10 other countries surveyed.
 
