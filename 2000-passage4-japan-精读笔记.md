@@ -147,7 +147,60 @@ related:
 > 2. see...as... 固定搭配：as 为介词，不可省略，后接名词短语作宾补
 > 3. where 宾语从句陈述语序：where they should go next 为 S+V 结构，非疑问倒装语序，语法改错高频考点
 
-The coming of age of the postwar **baby boom** and an entry of women into the **male-dominated** job market have limited the opportunities of teen-agers who are already questioning the heavy personal sacrifices involved in climbing Japan's **rigid social ladder** to good schools and jobs. In a recent survey, it was found that only 24.5 percent of Japanese students were fully satisfied with school life, compared with 67.2 percent of students in the United States. In addition, far more Japanese workers expressed dissatisfaction with their jobs than did their counterparts in the 10 other countries surveyed.
+The coming of age of the postwar **baby boom** and an entry of women into the **male-dominated** job market have limited the opportunities of teen-agers who are already questioning the heavy personal sacrifices **involved** in climbing Japan's **rigid social ladder** to good schools and jobs. In a recent survey, it was found that only 24.5 percent of Japanese students were fully satisfied with school life, compared with 67.2 percent of students in the United States. In addition, far more Japanese workers expressed dissatisfaction with their jobs than did their counterparts in the 10 other countries surveyed.
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+>
+> | 成分 | 内容 | 说明 |
+> |------|------|------|
+> | S | The coming of age... + an entry of women... | 并列主语（A and B） |
+> | V | have limited | 现在完成时，复数 |
+> | O | the opportunities of teen-agers | 宾语 + 介短修饰 |
+>
+> **并列主语拆解**：
+>
+> | 主语部分 | 核心名词 | 修饰成分 |
+> |---------|---------|---------|
+> | The coming of age of the postwar baby boom | the coming of age | of the postwar baby boom |
+> | an entry of women into the male-dominated job market | an entry | of women + into the job market |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|---------|------|
+> | 介短 | of the postwar baby boom | the coming of age | 说明"婴儿潮一代的"成年 |
+> | 介短 | of women | an entry | 说明"女性的"进入 |
+> | 介短 | into the job market | an entry | 说明进入的领域 |
+> | 定从 | who | teen-agers | who 在从句中作主语 |
+> | 过去分词 | involved | sacrifices | 后置定语 = which are involved |
+> | 介短 | in climbing... | involved | be involved in 搭配 |
+> | 介短 | to good schools and jobs | social ladder | 表阶梯通往的目标 |
+>
+> **结构图解**：
+>
+> ```
+> 主句: [S: coming of age + entry of women] + [V: have limited] + [O: opportunities of teen-agers]
+>   ├── S1: The coming of age
+>   │     └── 介短: (of the postwar baby boom) → 修饰 [coming of age]
+>   ├── S2: an entry of women
+>   │     ├── 介短: (of women) → 修饰 [entry]
+>   │     └── 介短: (into the male-dominated job market) → 修饰 [entry]
+>   └── O: the opportunities
+>         └── 定从: (who are already questioning the heavy personal sacrifices)
+>               → 修饰 [teen-agers]
+>               └── 过去分词: (involved in climbing Japan's rigid social ladder to good schools and jobs)
+>                     → 修饰 [sacrifices]（后置定语）
+>                     └── 介短: (to good schools and jobs) → 修饰 [climbing]，表目的
+> ```
+>
+> **参考译文**：战后婴儿潮一代的成年以及女性进入由男性主导的就业市场，限制了青少年的发展机会——他们本就在质疑：为了爬上日本那通往好学校和好工作的森严社会阶梯，个人所付出的沉重代价是否值得。
+>
+> **考点提示**：
+> 1. 并列主语主谓一致：A and B 结构谓语用复数 have limited，警惕单数名词干扰
+> 2. 多重介短嵌套：主语中三个介短需分别找到各自修饰的核心名词，避免翻译时误读
+> 3. who 定从先行词识别：teen-agers 与 who 之间有 of 介短阻隔，需跳过修饰找先行词
+> 4. involved 非谓语判断：句中已有 are questioning 作谓语，故 involved 只能是过去分词后置定语
 
 While often praised by foreigners for its emphasis on the basics, Japanese education tends to stress test taking and **mechanical learning** over **creativity** and **self-expression**. "Those things that do not show up in the test scores—personality, ability, courage or humanity—are completely ignored," says Toshiki Kaifu, chairman of the ruling Liberal Democratic Party's education committee. "Frustration against this kind of thing leads kids to drop out and run wild." Last year Japan experienced 2,125 incidents of school violence, including 929 assaults on teachers. Amid the outcry, many conservative leaders are seeking a return to the prewar emphasis on **moral education**. Last year Mitsuo Setoyama, who was then education minister, raised eyebrows when he argued that liberal reforms introduced by the American occupation authorities after World War II had weakened the "Japanese morality of respect for parents."
 
