@@ -364,6 +364,69 @@ While often praised by foreigners for its emphasis on the basics, Japanese educa
 > 2. return to... 为固定搭配，to 为介词
 > 3. emphasis on... 固定搭配，后接 on 而非 of
 
+> [!abstract]- 长难句分析
+> **主干提取**：
+>
+> **主句**：
+>
+> | 成分 | 内容 | 说明 |
+> |------|------|------|
+> | S | Mitsuo Setoyama | 主语（人名） |
+> | V | raised | 谓语动词 |
+> | O | eyebrows | 宾语（习语） |
+> | A | Last year | 时间状语 |
+>
+> **when 状从 + that 宾从**：
+>
+> | 从句 | 引导词 | 内容 |
+> |------|--------|------|
+> | 状从 | when | he argued...（时间） |
+> | 宾从 | that | reforms had weakened morality（argued 的宾语） |
+>
+> **that 宾从内部**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S | liberal reforms |
+> | V | had weakened |
+> | O | the "Japanese morality of respect for parents" |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|---------|------|
+> | 定从 | who | Setoyama | 非限制性，补充身份 |
+> | 状从 | when | raised | 时间状语 |
+> | 宾从 | that | argued | 名词性从句作宾语 |
+> | 过去分词 | introduced | liberal reforms | 后置定语 = which were introduced |
+> | 介短 | by the occupation authorities | introduced | 被动动作发出者 |
+> | 介短 | after WWII | introduced | 时间状语 |
+> | 介短 | of respect for parents | morality | 修饰 morality |
+>
+> **结构图解**：
+>
+> ```
+> 主句: (Last year) + [Mitsuo Setoyama] + [raised eyebrows]
+>   │
+>   ├── 定从: (who was then education minister) → 非限制性修饰 [Setoyama]
+>   │
+>   └── 状从: (when he argued that...)
+>         └── 宾从: (that liberal reforms...had weakened the "Japanese morality...")
+>               ├── 过去分词: (introduced by the American occupation authorities after WWII)
+>               │     → 修饰 [liberal reforms]
+>               │     ├── 介短: (by the authorities) → 动作发出者
+>               │     └── 介短: (after WWII) → 时间状语
+>               └── 介短: (of respect for parents) → 修饰 [morality]
+> ```
+>
+> **参考译文**：时任文部大臣的濑户山光雄去年曾提出，二战后美国占领当局推行的自由主义改革削弱了"日本人尊敬父母的道德观"，此言令人侧目。
+>
+> **考点提示**：
+> 1. raised eyebrows 习语：熟词僻义典型，意为"引起惊讶/不满"而非字面义
+> 2. 非限制性定从 who：逗号隔开，补充说明身份
+> 3. 多层嵌套：主句 → when 状从 → that 宾从 → 过去分词，考研典型长难句结构
+> 4. introduced 非谓语判断：句中已有 had weakened 作谓语，introduced 只能为过去分词后置定语
+
 ==But that may have more to do with Japanese life-styles.== "In Japan," says educator Yoko Muro, "it's never a question of whether you enjoy your job and your life, but only how much you can **endure**." With economic growth has come **centralization**; fully 76 percent of Japan's 119 million citizens live in cities where community and the **extended family** have been abandoned in favor of isolated, **two-generation households**. Urban Japanese have long endured **lengthy commutes** (travels to and from work) and crowded living conditions, but as the old group and family values weaken, the discomfort is beginning to tell. In the past decade, the Japanese **divorce rate**, while still well below that of the United States, has increased by more than 50 percent, and suicides have increased by nearly one-quarter.
 
 63. In the Westerners' eyes, the postwar Japan was.
