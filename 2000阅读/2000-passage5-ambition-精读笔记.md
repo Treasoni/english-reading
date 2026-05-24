@@ -121,6 +121,49 @@ sources:
 > 3. **"not least" 固定搭配**：意为"尤其是"、"特别是"，表示强调，是考研高频考点
 > 4. **同位语分隔**：`the educated not least among them` 是对 `people` 的补充说明，用逗号隔开，阅读时需识别其解释功能
 
+> [!abstract]- 长难句分析 (Sentence 3)
+> **主干提取**：
+> 本句为**强调句型**：It is + 被强调部分 + who + 句子剩余部分
+>
+> - **被强调部分**：the educated（受教育者）
+> - **还原主干**：the educated have claimed to have given up on ambition as an ideal
+>   - **S (主语)**：the educated
+>   - **V (谓语)**：have claimed（声称）
+>   - **O (宾语)**：to have given up on ambition as an ideal（不定式短语）
+>
+> **简化主干**：The educated have claimed to have given up on ambition.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 方式状语 | In an odd way | 修饰整个句子 |
+> | 转折副词 | however | 修饰整个句子 |
+> | 强调句型 | It is ... who | 强调主语 the educated |
+> | 不定式短语 | to have given up | 作 claimed 的宾语 |
+> | 介词短语 | on ambition | 修饰 given up |
+> | 介词短语 | as an ideal | 说明 ambition 的身份 |
+>
+> **结构图解**：
+> ```
+> 状语: In an odd way, however
+>   │
+> 强调句: it is the educated who have claimed to have given up on ambition as an ideal
+>   ├── 强调部分: the educated → 被强调的主语
+>   └── 还原: the educated have claimed to have given up on ambition as an ideal
+>        └── 不定式: to have given up on ambition as an ideal → claimed 的宾语
+>             ├── 介短: on ambition → 修饰 given up
+>             └── 介短: as an ideal → 说明 ambition 的身份
+> ```
+>
+> **参考译文**：然而，奇怪的是，正是受教育者声称已经放弃了将雄心作为一种理想。
+>
+> **考点提示**：
+> 1. **强调句型 "It is ... who ..."**：去掉 It is 和 who，剩余部分可还原为完整句子。被强调的是主语 the educated
+> 2. **"give up on" 固定搭配**：放弃（某事物），后接名词
+> 3. **"as an ideal"**：作为理想，说明 ambition 被视为一种理想
+> 4. **"however" 插入语**：转折副词用逗号隔开，表示与上文的转折关系
+
 (1) Certainly people do not seem less interested in success and its signs now than formerly. (2) Summer homes, European travel, BMWs—the locations, place names and name brands may change, but such items do not seem less in demand today than a decade or two years ago. (3) What has happened is that people cannot confess fully to their dreams, as easily and openly as once they could, lest they be thought **pushing**, **acquisitive** and **vulgar**. (4) Instead, we are treated to fine **hypocritical spectacles**, which now more than ever seem in ample supply: the critic of American materialism with a Southampton summer home; the publisher of radical books who takes his meals in three-star restaurants; the journalist advocating **participatory democracy** in all phases of life, whose own children are **enrolled** in private schools. (5) For such people and many more perhaps not so exceptional, the proper formulation is, == "Succeed at all costs but avoid appearing ambitious." ==
 
 (1) The attacks on ambition are many and come from various angles; its public defenders are few and unimpressive, where they are not extremely unattractive. (2) As a result, the support for ambition as a healthy **impulse**, a quality to be admired and fixed in the mind of the young, is probably lower than it has ever been in the United States. (3) This does not mean that ambition is at an end, that people no longer feel its **stirrings and promptings**, but only that, no longer openly honored, it is less openly **professed**. (4) Consequences follow from this, of course, some of which are that ambition is **driven underground**, or made **sly**. (5) Such, then, is the way things stand: on the left angry critics, on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life.
