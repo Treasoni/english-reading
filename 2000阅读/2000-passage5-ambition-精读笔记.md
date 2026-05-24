@@ -487,6 +487,54 @@ sources:
 
 (1) The attacks on ambition are many and come from various angles; its public **defenders** are few and unimpressive, where they are not extremely unattractive. (2) As a result, the support for ambition as a healthy **impulse**, a quality to be admired and fixed in the mind of the young, is probably lower than it has ever been in the United States. (3) This does not mean that ambition is at an end, that people no longer feel its **stirrings and promptings**, but only that, no longer openly honored, it is less openly **professed**. (4) Consequences follow from this, of course, some of which are that ambition is **driven underground**, or made **sly**. (5) Such, then, is the way things stand: on the left angry critics, on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life.
 
+> [!abstract]- 长难句分析 (Para 3, Sentence 5)
+> **主干提取**：
+> 本句为主系表结构，含冒号引出的同位语（三个并列成分）：
+>
+> - **S (主语)**：Such（如此/这样）
+> - **V (系动词)**：is
+> - **C (表语)**：the way things stand（事态的方式/现状）
+>
+> **简化主干**：Such is the way things stand.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 插入副词 | then | 修饰整个句子，表承接 |
+> | 同位语 | 冒号 : | 解释 the way things stand（三个并列场景） |
+> | 介词短语 | on the left / on the right / in the middle | 分别修饰三个并列成分的位置 |
+> | 同位语 | 逗号 | as usual 作插入语 |
+> | 现在分词短语 | trying | 修饰 people（后置定语） |
+> | 介词短语 | in life | 修饰 get on |
+>
+> **结构图解**：
+> ```
+> 插入语: Such, then,
+>   │
+> 主句: is the way things stand
+>   ├── 省略: Such (= the situation) → 前置主语
+>   └── 同位语: 冒号后三个并列场景 → 解释 the way things stand
+>        ├── 场景1: on the left angry critics
+>        │     └── 介短: on the left → 位置状语
+>        ├── 场景2: on the right stupid supporters
+>        │     └── 介短: on the right → 位置状语
+>        └── 场景3: in the middle, as usual, the majority of earnest people trying to get on in life
+>              ├── 介短: in the middle → 位置状语
+>              ├── 插入语: as usual → 修饰整个场景
+>              └── 分词: trying to get on in life → 修饰 people
+>                   └── 介短: in life → 修饰 get on
+> ```
+>
+> **参考译文**：于是，现状便是如此：左边是愤怒的批评者，右边是愚蠢的支持者，而中间，则一如既往，是大多数认真努力想在生活中出人头地的普通人。
+>
+> **考点提示**：
+> 1. **"Such is the way things stand" 倒装**：正常语序为 The way things stand is such，此处 Such 前置构成倒装，强调"如此这般"的状态
+> 2. **冒号引出同位语**：冒号后三个并列场景（on the left / on the right / in the middle）具体解释"现状"的内容
+> 3. **省略与并列**：三个场景共享结构 `on the [位置] + 名词短语`，第二个和第三个省略了系动词
+> 4. **"get on in life" 固定搭配**：意为"出人头地"、"在生活中取得成功"，是考研高频短语
+> 5. **"as usual" 插入语**：用逗号隔开，强调中间派"一如既往"的状态，暗示作者对这种骑墙态度的批评
+
 ### Questions
 
 1. It is generally believed that ambition may be well regarded if.
