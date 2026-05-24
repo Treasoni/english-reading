@@ -244,7 +244,40 @@ sources:
 > 3. **谚语的反讽改写**：`closing the barn door after the horses have escaped` 是英语谚语"亡羊补牢"，但作者改写为"受教育者骑在马上"，形成反讽
 > 4. **with 复合结构**：`with + 名词 + doing` 表示伴随状态，此处强调受教育者本身就是受益者
 
-(1) Certainly people do not seem less interested in success and its signs now than formerly. (2) Summer homes, European travel, BMWs—the locations, place names and name brands may change, but such items do not seem less in demand today than a decade or two years ago. (3) What has happened is that people cannot confess fully to their dreams, as easily and openly as once they could, lest they be thought **pushing**, **acquisitive** and **vulgar**. (4) Instead, we are treated to fine **hypocritical spectacles**, which now more than ever seem in ample supply: the critic of American materialism with a Southampton summer home; the publisher of radical books who takes his meals in three-star restaurants; the journalist advocating **participatory democracy** in all phases of life, whose own children are **enrolled** in private schools. (5) For such people and many more perhaps not so exceptional, the proper formulation is, == "Succeed at all costs but avoid appearing ambitious." ==
+(1) Certainly people do not seem less interested in success and its signs now than formerly. (2) Summer homes, European travel, BMWs—the locations, place names and name brands may change, but such items do not seem less in demand today than a decade or two years ago. (3) What has happened is that people cannot **confess** fully to their dreams, as easily and openly as once they could, lest they be thought **pushing**, **acquisitive** and **vulgar**. (4) Instead, we are treated to fine **hypocritical spectacles**, which now more than ever seem in ample supply: the critic of American materialism with a Southampton summer home; the publisher of radical books who takes his meals in three-star restaurants; the journalist advocating **participatory democracy** in all phases of life, whose own children are **enrolled** in private schools. (5) For such people and many more perhaps not so exceptional, the proper formulation is, == "Succeed at all costs but avoid appearing ambitious." ==
+
+> [!abstract]- 长难句分析 (Para 2, Sentence 1)
+> **主干提取**：
+> - **S (主语)**：people（人们）
+> - **V (谓语)**：do not seem（似乎不）
+> - **C (表语)**：less interested in success and its signs（对成功及其标志兴趣更少）
+> - **A (状语)**：now than formerly（现在比起过去）
+>
+> **简化主干**：People do not seem less interested in success now than formerly.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 副词 | Certainly | 修饰整个句子，表肯定语气 |
+> | 介词短语 | in success and its signs | 修饰 interested |
+> | 比较结构 | less ... than | now 与 formerly 的时间比较 |
+>
+> **结构图解**：
+> ```
+> 状语: Certainly
+>   │
+> 主句: people do not seem less interested in success and its signs now than formerly
+>   ├── 介短: in success and its signs → 修饰 interested
+>   └── 比较结构: now than formerly → 时间比较
+> ```
+>
+> **参考译文**：当然，人们现在对成功及其标志的兴趣似乎并不比过去减少。
+>
+> **考点提示**：
+> 1. **"not seem less interested" 双重否定**：not + less 表示肯定，意为"似乎仍然很感兴趣"，阅读时需识别这种委婉表达
+> 2. **"now than formerly" 时间比较**：比较现在与过去，考查时间状语的理解
+> 3. **"its signs" 指代**：its 指代 success，意为"成功的标志/象征"
 
 (1) The attacks on ambition are many and come from various angles; its public defenders are few and unimpressive, where they are not extremely unattractive. (2) As a result, the support for ambition as a healthy **impulse**, a quality to be admired and fixed in the mind of the young, is probably lower than it has ever been in the United States. (3) This does not mean that ambition is at an end, that people no longer feel its **stirrings and promptings**, but only that, no longer openly honored, it is less openly **professed**. (4) Consequences follow from this, of course, some of which are that ambition is **driven underground**, or made **sly**. (5) Such, then, is the way things stand: on the left angry critics, on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life.
 
