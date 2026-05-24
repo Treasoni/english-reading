@@ -850,7 +850,37 @@ sources:
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **acquisitive** | adj. | 贪得无厌的；渴望获得的 | "...lest they be thought pushing, **acquisitive** and vulgar." |
+| **ambition** | n. | 雄心；野心；抱负 | "If **ambition** is to be well regarded, the rewards of ambition..." |
+| **barn** | n. | 谷仓；畜棚 | "...a case of closing the **barn** door after the horses have escaped..." |
+| **confess** | v. | 承认；坦白；忏悔 | "...people cannot **confess** fully to their dreams..." |
+| **contemptible** | adj. | 可鄙的；卑劣的 | "they do not want to appear greedy and **contemptible**" |
+| **customary** | adj. | 习惯的；通常的；合乎习俗的 | "it is **customary** of the educated to discard ambition in words" |
+| **defenders** | n. | 捍卫者；辩护者 | "its public **defenders** are few and unimpressive..." |
+| **destiny** | n. | 命运；天数 | "...control over one's **destiny**..." |
+| **distinction** | n. | 声望；卓越；区别 | "...wealth, **distinction**, control over one's destiny..." |
+| **driven** | v. | 驱使；迫使（drive 的过去分词） | "...ambition is **driven** underground, or made sly." |
+| **enrolled** | v. | 入学；注册（enroll 的过去分词） | "...whose own children are **enrolled** in private schools." |
+| **hypocrisy** | n. | 虚伪；伪善 | "There is a heavy note of **hypocrisy** in this..." |
+| **hypocritical** | adj. | 虚伪的；伪善的 | "...we are treated to fine **hypocritical** spectacles..." |
+| **impulse** | n. | 冲动；推动力；脉冲 | "...support for ambition as a healthy **impulse**..." |
+| **participatory** | adj. | 参与式的 | "...advocating **participatory** democracy in all phases of life..." |
+| **professed** | v. | 声称；宣称；公开承认 | "...it is less openly **professed**." |
+| **promptings** | n. | 激励；敦促；驱使 | "...people no longer feel its stirrings and **promptings**..." |
+| **pushing** | adj. | 急功近利的；有进取心的 | "...lest they be thought **pushing**, acquisitive and vulgar." |
+| **regarded** | v. | 尊重；认为；看待 | "If ambition is to be well **regarded**..." |
+| **rewards** | n. | 回报；报酬；奖赏 | "...the **rewards** of ambition..." |
+| **sacrifices** | n. | 牺牲；献祭 | "...must be deemed worthy of the **sacrifices** made on ambition's behalf." |
+| **sly** | adj. | 偷偷摸摸的；狡猾的 | "...ambition is driven underground, or made **sly**." |
+| **spectacles** | n. | 景象；场面（非"眼镜"义） | "...we are treated to fine hypocritical **spectacles**..." |
+| **stirrings** | n. | 涌动；骚动；萌动 | "...people no longer feel its **stirrings** and promptings..." |
+| **vitality** | n. | 生命力；活力 | "If the tradition of ambition is to have **vitality**..." |
+| **vulgar** | adj. | 庸俗的；粗俗的 | "...lest they be thought pushing, acquisitive and **vulgar**." |
+| **wealth** | n. | 财富；财产 | "...wealth, distinction, control over one's destiny..." |
 
 ## 心得
 
