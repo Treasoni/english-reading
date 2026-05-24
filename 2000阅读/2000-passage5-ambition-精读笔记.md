@@ -9,7 +9,7 @@ tags:
   - exam-prep
 difficulty: intermediate
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-05-24
 sources:
   - "考研英语真题"
 ---
@@ -196,9 +196,44 @@ sources:
 
 ## 长难句分析
 
-> [!note] 提示：使用 `/analyze-sentence` 添加长难句分析内容
-> 本笔记尚未进行长难句结构分析。建议使用 analyze-sentence 技能对以下句子进行拆解：
-> - Para 1, Sentence (1): If ambition is to be well regarded, the rewards of ambition—wealth, distinction, control over one's destiny—must be deemed worthy of the sacrifices made on ambition's behalf.
+> [!abstract]- 长难句分析 (Para 1, Sentence 1)
+> **主干提取**：
+> - **S (主语)**：the rewards of ambition（雄心的回报）
+> - **V (谓语)**：must be deemed（必须被认为）
+> - **C (补语)**：worthy of the sacrifices（值得那些牺牲）
+>
+> **简化主干**：The rewards must be deemed worthy of the sacrifices.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 条件状语从句 | If | 整个主句 |
+> | 同位语 | 破折号 — | 解释 the rewards（wealth, distinction, control over one's destiny） |
+> | 介词短语 | of ambition | 修饰 rewards |
+> | 过去分词短语 | made | 修饰 the sacrifices（后置定语） |
+> | 介词短语 | on ambition's behalf | 修饰 made（说明牺牲的对象） |
+>
+> **结构图解**：
+> ```
+> 条件状从: If ambition is to be well regarded
+>   │
+> 主句: the rewards of ambition ─[同位语]─ must be deemed worthy of the sacrifices made on ambition's behalf
+>   ├── 同位语: —wealth, distinction, control over one's destiny— → 解释 the rewards
+>   ├── 介短: of ambition → 修饰 rewards
+>   └── 过去分词短语: made on ambition's behalf → 修饰 the sacrifices
+>        └── 介短: on ambition's behalf → 修饰 made
+> ```
+>
+> **参考译文**：如果雄心壮志要被人看重，那么它的回报——财富、声望、对命运的掌控——就必须被认为值得为其付出的牺牲。
+>
+> **考点提示**：
+> 1. **"be to do" 结构**：表示条件/假设，"如果要...的话"，考研阅读中常用于提出前提条件
+> 2. **破折号同位语**：用破折号引出对前面名词的解释说明，阅读时可暂时跳过，先抓主干
+> 3. **"be deemed worthy of"**：被动语态 + 形容词短语，"被认为值得..."
+> 4. **过去分词作后置定语**：`made on ambition's behalf` 修饰 `the sacrifices`，相当于定语从句 `which were made on ambition's behalf`
+
+> [!note] 待分析句子
 > - Para 2, Sentence (4): Instead, we are treated to fine hypocritical spectacles... (包含大量同位语和定语从句)
 > - Para 3, Sentence (3): This does not mean that... but only that... (平行宾语从句结构)
 
