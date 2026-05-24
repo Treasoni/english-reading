@@ -203,6 +203,47 @@ sources:
 > 3. **省略结构**：`if not always their own` 省略了 `ambition`，完整形式为 `if not always their own ambition`
 > 4. **"that" 指代**：`that of their parents` 中的 `that` 指代 `ambition`，避免重复
 
+> [!abstract]- 长难句分析 (Sentence 5)
+> **主干提取**：
+> 本句为 **There be 存在句型**：
+>
+> - **S (主语)**：a heavy note of hypocrisy（浓厚的虚伪意味）
+> - **V (谓语)**：is
+> - **A (状语)**：in this（这其中）
+>
+> **简化主干**：There is a heavy note of hypocrisy in this.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 同位语 | 逗号 | 解释 this（a case of...） |
+> | 介词短语 | of hypocrisy | 修饰 note |
+> | 介词短语 | of closing | 修饰 case |
+> | 时间状语从句 | after | 修饰 closing 的时间 |
+> | with 复合结构 | with | 伴随状语，说明 educated 的动作 |
+>
+> **结构图解**：
+> ```
+> 主句: There is a heavy note of hypocrisy in this
+>   ├── 介短: of hypocrisy → 修饰 note
+>   ├── 介短: in this → 地点状语
+>   └── 同位语: a case of closing the barn door after the horses have escaped
+>        ├── 介短: of closing → 修饰 case
+>        └── 状从: after the horses have escaped → 时间状语
+>             └── with 复合结构: with the educated themselves riding on them
+>                  ├── 介短: with → 引导伴随状语
+>                  └── 分词: riding → 说明 educated 的动作
+> ```
+>
+> **参考译文**：这其中有着浓厚的虚伪意味——就像是马跑掉之后才关上马厩门，而受教育者自己却正骑在那些马上。
+>
+> **考点提示**：
+> 1. **There be 存在句型**：表示"存在..."，主语在 be 动词之后
+> 2. **同位语解释功能**：`a case of...` 是对 `this` 的具体说明，用逗号隔开
+> 3. **谚语的反讽改写**：`closing the barn door after the horses have escaped` 是英语谚语"亡羊补牢"，但作者改写为"受教育者骑在马上"，形成反讽
+> 4. **with 复合结构**：`with + 名词 + doing` 表示伴随状态，此处强调受教育者本身就是受益者
+
 (1) Certainly people do not seem less interested in success and its signs now than formerly. (2) Summer homes, European travel, BMWs—the locations, place names and name brands may change, but such items do not seem less in demand today than a decade or two years ago. (3) What has happened is that people cannot confess fully to their dreams, as easily and openly as once they could, lest they be thought **pushing**, **acquisitive** and **vulgar**. (4) Instead, we are treated to fine **hypocritical spectacles**, which now more than ever seem in ample supply: the critic of American materialism with a Southampton summer home; the publisher of radical books who takes his meals in three-star restaurants; the journalist advocating **participatory democracy** in all phases of life, whose own children are **enrolled** in private schools. (5) For such people and many more perhaps not so exceptional, the proper formulation is, == "Succeed at all costs but avoid appearing ambitious." ==
 
 (1) The attacks on ambition are many and come from various angles; its public defenders are few and unimpressive, where they are not extremely unattractive. (2) As a result, the support for ambition as a healthy **impulse**, a quality to be admired and fixed in the mind of the young, is probably lower than it has ever been in the United States. (3) This does not mean that ambition is at an end, that people no longer feel its **stirrings and promptings**, but only that, no longer openly honored, it is less openly **professed**. (4) Consequences follow from this, of course, some of which are that ambition is **driven underground**, or made **sly**. (5) Such, then, is the way things stand: on the left angry critics, on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life.
