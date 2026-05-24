@@ -915,7 +915,6 @@ sources:
 
 - [[2000-passage1-america-精读笔记]] — 美国历史与价值观
 - [[2000-passage3-futurist-精读笔记]] — 社会文化批评类文章
-- [[1999-passage1-精读笔记]] — 类似社会现象分析文
 
 ### 补充资源
 
@@ -956,14 +955,3 @@ sources:
    - B. critical concern
    - C. complete indifference
    - D. blind optimism
-
----
-
-## 相关笔记
-
-- [[英语阅读技巧总结]]
-- [[长难句分析方法]]
-- [[考研英语词汇分类]]
-- [[议论文常见结构]]
-- [[强调句与主语从句辨析]]
-- [[代词指代原则]]
