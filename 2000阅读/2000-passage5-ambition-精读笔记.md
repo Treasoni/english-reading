@@ -164,6 +164,45 @@ sources:
 > 3. **"as an ideal"**：作为理想，说明 ambition 被视为一种理想
 > 4. **"however" 插入语**：转折副词用逗号隔开，表示与上文的转折关系
 
+> [!abstract]- 长难句分析 (Sentence 4)
+> **主干提取**：
+> 本句为主系表结构，含主语从句和表语从句：
+>
+> - **S (主语从句)**：What is odd（奇怪的是）
+> - **V (系动词)**：is
+> - **C (表语从句)**：that they have perhaps most benefited from ambition
+>
+> **简化主干**：What is odd is that they have benefited from ambition.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 主语从句 | What | 作主语 |
+> | 表语从句 | that | 作表语 |
+> | 条件短语 | if not ... then ... | 补充说明 ambition 的来源 |
+> | 省略结构 | — | 省略了 ambition（their own 后省略） |
+>
+> **结构图解**：
+> ```
+> 主语从句: What is odd
+>   │
+> 系动词: is
+>   │
+> 表语从句: that they have perhaps most benefited from ambition
+>   └── 条件短语: if not always their own then that of their parents and grandparents
+>        ├── 省略: their own (ambition) → 自己的雄心
+>        └── 指代: that = ambition → 父母和祖父母的雄心
+> ```
+>
+> **参考译文**：奇怪之处在于，他们或许是从雄心中获益最多的人——即便不总是源于他们自己的雄心，也是源于他们父母和祖父母的雄心。
+>
+> **考点提示**：
+> 1. **"What is odd" 主语从句**：what 引导的名词性从句作主语，意为"奇怪的是..."
+> 2. **"that" 表语从句**：that 引导表语从句，说明主语的具体内容
+> 3. **省略结构**：`if not always their own` 省略了 `ambition`，完整形式为 `if not always their own ambition`
+> 4. **"that" 指代**：`that of their parents` 中的 `that` 指代 `ambition`，避免重复
+
 (1) Certainly people do not seem less interested in success and its signs now than formerly. (2) Summer homes, European travel, BMWs—the locations, place names and name brands may change, but such items do not seem less in demand today than a decade or two years ago. (3) What has happened is that people cannot confess fully to their dreams, as easily and openly as once they could, lest they be thought **pushing**, **acquisitive** and **vulgar**. (4) Instead, we are treated to fine **hypocritical spectacles**, which now more than ever seem in ample supply: the critic of American materialism with a Southampton summer home; the publisher of radical books who takes his meals in three-star restaurants; the journalist advocating **participatory democracy** in all phases of life, whose own children are **enrolled** in private schools. (5) For such people and many more perhaps not so exceptional, the proper formulation is, == "Succeed at all costs but avoid appearing ambitious." ==
 
 (1) The attacks on ambition are many and come from various angles; its public defenders are few and unimpressive, where they are not extremely unattractive. (2) As a result, the support for ambition as a healthy **impulse**, a quality to be admired and fixed in the mind of the young, is probably lower than it has ever been in the United States. (3) This does not mean that ambition is at an end, that people no longer feel its **stirrings and promptings**, but only that, no longer openly honored, it is less openly **professed**. (4) Consequences follow from this, of course, some of which are that ambition is **driven underground**, or made **sly**. (5) Such, then, is the way things stand: on the left angry critics, on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life.
