@@ -34,7 +34,7 @@ sources:
 
 ### The Ambition Paradox
 
-(1) If **ambition** is to be well regarded, the **rewards** of ambition—**wealth**, **distinction**, control over one's **destiny**—must be deemed worthy of the **sacrifices** made on ambition's behalf. (2) If the tradition of ambition is to have **vitality**, it must be widely shared; and it especially must be highly regarded by people who are themselves admired, the educated not least among them. (3) In an odd way, however, it is the educated who have claimed to have given up on ambition as an ideal. (4) What is odd is that they have perhaps most benefited from ambition—if not always their own then that of their parents and grandparents. (5) There is a heavy note of **hypocrisy** in this, ==a case of closing the **barn** door after the horses have escaped—with the educated themselves riding on them==.
+(1) If **ambition** is to be well **regarded**, the **rewards** of ambition—**wealth**, **distinction**, control over one's **destiny**—must be deemed worthy of the **sacrifices** made on ambition's behalf. (2) If the tradition of ambition is to have **vitality**, it must be widely shared; and it especially must be highly regarded by people who are themselves admired, the educated not least among them. (3) In an odd way, however, it is the educated who have claimed to have given up on ambition as an ideal. (4) What is odd is that they have perhaps most benefited from ambition—if not always their own then that of their parents and grandparents. (5) There is a heavy note of **hypocrisy** in this, ==a case of closing the **barn** door after the horses have escaped—with the educated themselves riding on them==.
 
 > [!abstract]- 长难句分析 (Sentence 1)
 > **主干提取**：
@@ -544,7 +544,7 @@ sources:
    - [D] it is shared by the rich and the famous
 
 2. The last sentence of the first paragraph most probably implies that it is.
-   - [A] customary of the educated to discard ambition in words
+   - [A] **customary** of the educated to discard ambition in words
    - [B] too late to check ambition once it has been let out
    - [C] dishonest to deny ambition after the fulfillment of the goal
    - [D] impractical for the educated to enjoy benefits from ambition
@@ -553,7 +553,7 @@ sources:
    - [A] they think of it as immoral
    - [B] their pursuits are not fame or wealth
    - [C] ambition is not closely related to material benefits
-   - [D] they do not want to appear greedy and contemptible
+   - [D] they do not want to appear greedy and **contemptible**
 
 4. From the last paragraph the conclusion can be drawn that ambition should be maintained.
    - [A] secretly and vigorously
