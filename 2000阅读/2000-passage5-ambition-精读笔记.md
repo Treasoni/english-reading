@@ -396,6 +396,52 @@ sources:
 > 4. **"avoid appearing" 结构**：avoid + doing，"避免显得..."
 > 5. **反讽手法**：作者用引号标注这个"恰当表述"，暗示这是一种社会共识，但实际上是讽刺
 
+> [!abstract]- 长难句分析 (Para 3, Sentence 1)
+> **主干提取**：
+> 本句为并列复合句，由分号连接两个独立分句：
+>
+> **分句一**：
+> - **S (主语)**：The attacks on ambition（对雄心的攻击）
+> - **V (谓语)**：are many and come from various angles（很多且来自各个角度）
+>
+> **分句二**：
+> - **S (主语)**：its public defenders（其公开捍卫者）
+> - **V (系动词)**：are
+> - **C (表语)**：few and unimpressive（寥寥无几且平淡无奇）
+>
+> **简化主干**：The attacks are many; its defenders are few.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介词短语 | on ambition | 修饰 attacks |
+> | 介词短语 | from various angles | 修饰 come |
+> | 代词 | its | 指代 ambition |
+> | 并列结构 | ; | 连接两个分句 |
+> | 让步状语从句 | where | 补充说明 defenders（即使不是） |
+>
+> **结构图解**：
+> ```
+> 分句一: The attacks on ambition are many and come from various angles
+>   ├── 介短: on ambition → 修饰 attacks
+>   └── 并列谓语: are many and come from various angles
+>       │
+>       └── 分号: ; → 连接两个并列分句
+>           │
+>           分句二: its public defenders are few and unimpressive
+>             ├── 代词: its → 指代 ambition
+>             └── 让步从句: where they are not extremely unattractive
+> ```
+>
+> **参考译文**：对雄心的攻击很多，且来自各个角度；其公开捍卫者寥寥无几且平淡无奇，即便不是极其缺乏吸引力。
+>
+> **考点提示**：
+> 1. **分号连接并列分句**：分号连接两个语义紧密相关的独立分句，表示对比关系
+> 2. **"where" 让步用法**：此处 where 不表地点，而表让步/条件，意为"即使不是"、"如果不算"，是考研阅读中的难点
+> 3. **"its" 指代**：its 指代 ambition，需根据上下文判断
+> 4. **对比结构**：attacks are many vs. defenders are few，形成鲜明对比，强调雄心被攻击多、被捍卫少
+
 (1) The attacks on ambition are many and come from various angles; its public **defenders** are few and unimpressive, where they are not extremely unattractive. (2) As a result, the support for ambition as a healthy **impulse**, a quality to be admired and fixed in the mind of the young, is probably lower than it has ever been in the United States. (3) This does not mean that ambition is at an end, that people no longer feel its **stirrings and promptings**, but only that, no longer openly honored, it is less openly **professed**. (4) Consequences follow from this, of course, some of which are that ambition is **driven underground**, or made **sly**. (5) Such, then, is the way things stand: on the left angry critics, on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life.
 
 ### Questions
