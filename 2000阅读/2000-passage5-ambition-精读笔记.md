@@ -1,0 +1,446 @@
+---
+title: "2000-passage5-ambition 英语精读笔记"
+type: study-note
+topic: "2000-passage5-ambition"
+tags:
+  - english-reading
+  - intensive-reading
+  - study-note
+  - exam-prep
+difficulty: intermediate
+created: 2026-05-22
+updated: 2026-05-22
+sources:
+  - "考研英语真题"
+---
+
+# The Ambition Paradox 精读笔记
+
+## 背景
+
+本文选自考研英语阅读理解真题，主题为**雄心的悖论**——一篇探讨美国人对待雄心的矛盾态度的经典议论文。文章揭露了一种社会现象：人们（尤其是受教育者）从雄心中获益，却在口头上否认雄心的价值，呈现出浓厚的虚伪色彩。
+
+> [!abstract] 文章概要
+> 文章采用"现象→例证→分析→结论"的经典论述结构。开篇指出受教育者否认雄心的虚伪性，随后列举社会各阶层在物质追求上的言行不一，最后分析雄心被压抑的后果——转入地下、变得偷偷摸摸。
+
+- **难度**：intermediate
+- **体裁**：议论文 (argumentation)
+- **题源**：考研英语真题（2000 年 Passage 5）
+- **核心主题**：ambition（雄心）、hypocrisy（虚伪）、success（成功）
+
+---
+
+## 文章原文
+
+### The Ambition Paradox
+
+(1) If **ambition** is to be well regarded, the **rewards** of ambition—**wealth**, **distinction**, control over one's **destiny**—must be deemed worthy of the **sacrifices** made on ambition's behalf. (2) If the tradition of ambition is to have **vitality**, it must be widely shared; and it especially must be highly regarded by people who are themselves admired, the educated not least among them. (3) In an odd way, however, it is the educated who have claimed to have given up on ambition as an ideal. (4) What is odd is that they have perhaps most benefited from ambition—if not always their own then that of their parents and grandparents. (5) There is a heavy note of **hypocrisy** in this, ==a case of closing the barn door after the horses have escaped—with the educated themselves riding on them==.
+
+(1) Certainly people do not seem less interested in success and its signs now than formerly. (2) Summer homes, European travel, BMWs—the locations, place names and name brands may change, but such items do not seem less in demand today than a decade or two years ago. (3) What has happened is that people cannot confess fully to their dreams, as easily and openly as once they could, lest they be thought **pushing**, **acquisitive** and **vulgar**. (4) Instead, we are treated to fine **hypocritical spectacles**, which now more than ever seem in ample supply: the critic of American materialism with a Southampton summer home; the publisher of radical books who takes his meals in three-star restaurants; the journalist advocating **participatory democracy** in all phases of life, whose own children are **enrolled** in private schools. (5) For such people and many more perhaps not so exceptional, the proper formulation is, == "Succeed at all costs but avoid appearing ambitious." ==
+
+(1) The attacks on ambition are many and come from various angles; its public defenders are few and unimpressive, where they are not extremely unattractive. (2) As a result, the support for ambition as a healthy **impulse**, a quality to be admired and fixed in the mind of the young, is probably lower than it has ever been in the United States. (3) This does not mean that ambition is at an end, that people no longer feel its **stirrings and promptings**, but only that, no longer openly honored, it is less openly **professed**. (4) Consequences follow from this, of course, some of which are that ambition is **driven underground**, or made **sly**. (5) Such, then, is the way things stand: on the left angry critics, on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life.
+
+### Questions
+
+1. It is generally believed that ambition may be well regarded if.
+   - [A] its returns well compensate for the sacrifices
+   - [B] it is rewarded with money, fame and power
+   - [C] its goals are spiritual rather than material
+   - [D] it is shared by the rich and the famous
+
+2. The last sentence of the first paragraph most probably implies that it is.
+   - [A] customary of the educated to discard ambition in words
+   - [B] too late to check ambition once it has been let out
+   - [C] dishonest to deny ambition after the fulfillment of the goal
+   - [D] impractical for the educated to enjoy benefits from ambition
+
+3. Some people do not openly admit they have ambition because.
+   - [A] they think of it as immoral
+   - [B] their pursuits are not fame or wealth
+   - [C] ambition is not closely related to material benefits
+   - [D] they do not want to appear greedy and contemptible
+
+4. From the last paragraph the conclusion can be drawn that ambition should be maintained.
+   - [A] secretly and vigorously
+   - [B] openly and enthusiastically
+   - [C] easily and momentarily
+   - [D] verbally and spiritually
+
+---
+
+## 翻译对照
+
+### The Ambition Paradox 雄心的悖论 中英对照
+
+(1) If **ambition** is to be well regarded, the **rewards** of ambition—**wealth**, **distinction**, control over one's **destiny**—must be deemed worthy of the **sacrifices** made on ambition's behalf.
+
+(1) 如果**雄心**要得到尊重，雄心带来的**回报**——**财富**、**声望**、对自己**命运**的控制——必须被认为值得为之付出的**牺牲**。
+
+(2) If the tradition of ambition is to have **vitality**, it must be widely shared; and it especially must be highly regarded by people who are themselves admired, the educated not least among them.
+
+(2) 如果雄心的传统要具有**生命力**，它就必须得到广泛认同；尤其是必须受到那些本身受人敬仰的人们的高度重视，其中受教育者尤为如此。
+
+(3) In an odd way, however, it is the educated who have claimed to have given up on ambition as an ideal.
+
+(3) 然而，奇怪的是，正是受教育者声称已经放弃了将雄心作为一种理想。
+
+(4) What is odd is that they have perhaps most benefited from ambition—if not always their own then that of their parents and grandparents.
+
+(4) 奇怪之处在于，他们或许是从雄心中获益最多的人——即便不总是源于他们自己的雄心，也是源于他们父母和祖父母的雄心。
+
+(5) There is a heavy note of **hypocrisy** in this, ==a case of closing the barn door after the horses have escaped—with the educated themselves riding on them==.
+
+(5) 这其中有着浓厚的**虚伪**意味——==就像是马跑掉之后才关上马厩门，而受教育者自己却正骑在那些马上==。
+
+> [!note] 翻译说明
+> "closing the barn door after the horses have escaped" 是英语谚语，意为"亡羊补牢"（事后补救）。但此处作者进行了反讽化的改写——受教育者正是在马跑掉之后才关门，而他们自己却骑在马上（即他们是受益者），因此保留直译意象更能传达原文的讽刺效果。
+
+---
+
+(1) Certainly people do not seem less interested in success and its signs now than formerly.
+
+(1) 当然，人们现在对成功及其标志的兴趣似乎并不比过去减少。
+
+(2) Summer homes, European travel, BMWs—the locations, place names and name brands may change, but such items do not seem less in demand today than a decade or two years ago.
+
+(2) 避暑别墅、欧洲旅行、宝马车——地点、地名和品牌名称可能会变，但这类物品的需求似乎并不比十年或两年前更少。
+
+(3) What has happened is that people cannot confess fully to their dreams, as easily and openly as once they could, lest they be thought **pushing**, **acquisitive** and **vulgar**.
+
+(3) 实际情况是，人们不能像过去那样轻松、公开地完全坦露自己的梦想，唯恐被认为**急功近利**、**贪得无厌**和**庸俗不堪**。
+
+(4) Instead, we are treated to fine **hypocritical spectacles**, which now more than ever seem in ample supply: the critic of American materialism with a Southampton summer home; the publisher of radical books who takes his meals in three-star restaurants; the journalist advocating **participatory democracy** in all phases of life, whose own children are **enrolled** in private schools.
+
+(4) 相反，我们欣赏到种种精妙的**虚伪景象**，其数量之多前所未有：批评美国物质主义的评论家却在南安普顿拥有避暑别墅；出版激进书籍的出版商却在三星级餐厅用餐；鼓吹生活各方面**参与式民主**的记者，自己的孩子却**就读**于私立学校。
+
+(5) For such people and many more perhaps not so exceptional, the proper formulation is, == "Succeed at all costs but avoid appearing ambitious." ==
+
+(5) 对于这样的人以及更多或许不那么突出的人来说，恰当的表述是：=="不惜一切代价去成功，但避免显得雄心勃勃。"==
+
+---
+
+(1) The attacks on ambition are many and come from various angles; its public defenders are few and unimpressive, where they are not extremely unattractive.
+
+(1) 对雄心的攻击很多，且来自各个角度；其公开捍卫者寥寥无几且平淡无奇，即便不是极其缺乏吸引力。
+
+(2) As a result, the support for ambition as a healthy **impulse**, a quality to be admired and fixed in the mind of the young, is probably lower than it has ever been in the United States.
+
+(2) 其结果是，在美国，对于将雄心视为一种健康的**冲动**、一种值得钦佩并应根植于年轻人思想中的品质的支持，可能已降至历史最低点。
+
+(3) This does not mean that ambition is at an end, that people no longer feel its **stirrings and promptings**, but only that, no longer openly honored, it is less openly **professed**.
+
+(3) 这并不意味着雄心已经终结，也不意味着人们不再感受到它的**涌动和激励**，而只是意味着，由于不再被公开颂扬，它也就较少被公开**承认**了。
+
+(4) Consequences follow from this, of course, some of which are that ambition is **driven underground**, or made **sly**.
+
+(4) 当然，这带来了后果，其中一些是：雄心被**转入地下**，或变得**偷偷摸摸**。
+
+(5) Such, then, is the way things stand: on the left angry critics, on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life.
+
+(5) 于是，情况就是这样：左边是愤怒的批评者，右边是愚蠢的支持者，而中间，一如既往，是大多数在人生中努力奋斗的认真的人们。
+
+> [!note] 翻译说明
+> "trying to get on in life" 译为"在人生中努力奋斗"而非字面"在生活中前进"，更准确传达原文中努力向上攀升的含义，符合中文语境。
+
+### Questions 阅读理解题
+
+1. It is generally believed that ambition may be well regarded if.
+   - [A] its returns well compensate for the sacrifices
+   - [B] it is rewarded with money, fame and power
+   - [C] its goals are spiritual rather than material
+   - [D] it is shared by the rich and the famous
+
+   人们普遍认为，雄心可能会被好好看待，如果：
+   - [A] 它的回报充分补偿了牺牲
+   - [B] 它得到了金钱、名声和权力的回报
+   - [C] 它的目标是精神性的而非物质性的
+   - [D] 它被富人和名人所共享
+
+2. The last sentence of the first paragraph most probably implies that it is.
+   - [A] customary of the educated to discard ambition in words
+   - [B] too late to check ambition once it has been let out
+   - [C] dishonest to deny ambition after the fulfillment of the goal
+   - [D] impractical for the educated to enjoy benefits from ambition
+
+   第一段最后一句话最可能暗示这是：
+   - [A] 受教育者习惯在口头上放弃雄心
+   - [B] 一旦雄心被释放，再加以控制为时已晚
+   - [C] 目标实现后否认雄心是不诚实的
+   - [D] 受教育者享受雄心带来的好处是不切实际的
+
+3. Some people do not openly admit they have ambition because.
+   - [A] they think of it as immoral
+   - [B] their pursuits are not fame or wealth
+   - [C] ambition is not closely related to material benefits
+   - [D] they do not want to appear greedy and contemptible
+
+   有些人不公开承认他们有雄心是因为：
+   - [A] 他们认为雄心是不道德的
+   - [B] 他们追求的不是名利
+   - [C] 雄心与物质利益关系不大
+   - [D] 他们不想显得贪婪和可鄙
+
+4. From the last paragraph the conclusion can be drawn that ambition should be maintained.
+   - [A] secretly and vigorously
+   - [B] openly and enthusiastically
+   - [C] easily and momentarily
+   - [D] verbally and spiritually
+
+   从最后一段可以得出的结论是，雄心应该被保持。
+   - [A] 秘密而有力地
+   - [B] 公开而热情地
+   - [C] 轻松而短暂地
+   - [D] 口头上和精神上
+
+---
+
+## 长难句分析
+
+> [!note] 提示：使用 `/analyze-sentence` 添加长难句分析内容
+> 本笔记尚未进行长难句结构分析。建议使用 analyze-sentence 技能对以下句子进行拆解：
+> - Para 1, Sentence (1): If ambition is to be well regarded, the rewards of ambition—wealth, distinction, control over one's destiny—must be deemed worthy of the sacrifices made on ambition's behalf.
+> - Para 2, Sentence (4): Instead, we are treated to fine hypocritical spectacles... (包含大量同位语和定语从句)
+> - Para 3, Sentence (3): This does not mean that... but only that... (平行宾语从句结构)
+
+---
+
+## 语法要点
+
+### 固定搭配 (Fixed Collocations)
+
+> [!note] 本篇涉及多个高频固定搭配
+> 以下三个搭配在考研阅读和翻译中反复出现，需熟练掌握其结构和使用场景。
+
+#### 1. Control over sth — 对……的控制
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| **have control over sth** | 名词用法：对某物有控制权 | Parents should have some **control over** their children's internet use. |
+| **control sth** | 动词用法：及物动词，直接加宾语，不加 over | The government tried to **control** the market. |
+
+> [!warning] 常见错误
+> **混淆词性**：名词用法带 `over`（`have control over sth`），但动词用法**不能**带 `over`。
+>
+> ❌ `The government tried to control over the market.` — control 作动词时及物，over 多余
+>
+> ✅ `The government tried to control the market.`
+
+#### 2. Not least — 尤其是 / 特别是
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| **not least because of + 名词** | 强调原因（后接名词短语） | I like this book **not least because of** its pages. |
+| **not least because + 从句** | 强调原因（后接从句） | The plan is dynamic, **not least because** it integrates AI tools. |
+| **not least + 名词** | 强调某个对象 | The policy affected many people, **not least** students. |
+
+> [!tip] 阅读技巧
+> 在阅读中遇到 `not least because...`，它标志着作者在诸多原因中指出了**最核心**的那个原因。如果题目问 "What is the primary reason?"，定位 `not least` 后面的内容大概率是正确答案的来源。
+
+#### 3. On one's behalf / On behalf of — 代表 / 为了……的利益
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| **on one's behalf** | 代词放中间，用形容词性物主代词 | He signed the contract **on our behalf**. |
+| **on behalf of + 名词** | 名词放后面，更常用 | I am writing this letter **on behalf of** all the students. |
+
+> [!note] 翻译要点
+> `on one's behalf` 不仅表示"代表某人"，还隐含"为了维护某人的利益"的含义，翻译时可根据语境灵活处理为"代表"或"替"。
+
+---
+
+### 倒装与强调 (Inversion & Emphasis)
+
+#### 强调句型：It is/was ... that/who ...
+
+> [!tip] 核心公式
+> `It is / was + [被强调部分] + that / who + [句子剩余部分]`
+>
+> 被强调部分是人时可用 `who`，其余一律用 `that`。
+
+| 强调成分 | 结构 | 例句 |
+|---------|------|------|
+| 强调主语 | It is/was + 主语 + that/who... | **It was I who** met John in the park yesterday. |
+| 强调宾语 | It is/was + 宾语 + that... | **It was John that** I met in the park yesterday. |
+| 强调地点状语 | It is/was + 状语 + that... | **It was in the park that** I met John yesterday. |
+| 强调时间状语 | It is/was + 状语 + that... | **It was yesterday that** I met John in the park. |
+
+> [!warning] 强调句 vs. 主语从句 — 考研致命陷阱
+> 两者都以 `It is ... that ...` 开头，**"拆框还原法"** 是唯一可靠的区分手段：
+>
+> **检验法则**：删掉 `It is/was` 和 `that/who`，剩余部分能否拼回一个完整通顺的句子。
+>
+> | 句子 | 拆框还原 | 判定 |
+> |------|---------|------|
+> | It is **the book** that he is reading. | the book he is reading → He is reading the book. ✅ | **强调句** |
+> | It is **a fact** that he passed the exam. | a fact he passed the exam. ❌ (fact 无处安放) | **主语从句** |
+> | It is **obvious** that we need more time. | obvious we need more time ❌ (obvious 无处安放) | **主语从句** |
+> | It is **the time** that we need most. | the time we need most → We need the time most. ✅ | **强调句** |
+
+> [!tip] 阅读与翻译技巧
+> - **阅读**：遇到 `It is...that...` 可跳过包装直接看被强调部分和剩余内容，提升阅读速度。
+> - **翻译**：在被强调部分前加"正是"或"恰恰是"。如 `It is your method that is wrong.` → "恰恰是你的方法错了。"
+
+---
+
+### 非谓语动词 (Non-finite Verbs)
+
+#### With 复合结构 (高级伴随状语)
+
+> [!note] 核心本质
+> `with + A + B` 是一个"降维打包工具"，将完整句子压缩成短语，交代主干动作发生的背景、条件或伴随状态。位置灵活，可在句首（表背景）或句尾（表伴随）。
+
+| 结构 | A 与 B 的关系 | 例句 |
+|------|-------------|------|
+| **with + 名词 + doing** | A 主动发出动作 / 动作正在进行 | **With the economy growing** rapidly, people have more money. |
+| **with + 名词 + done** | A 被动承受动作 / 动作已完成 | **With the problem solved**, we went home. |
+| **with + 名词 + to do** | 动作尚未发生 / 表将来或目的 | **With so much work to do**, I can't go out. |
+| **with + 名词 + 形容词** | 说明 A 的状态 | He sleeps **with the window open**. |
+| **with + 名词 + 副词** | 说明 A 的状态 | He left the room **with the lights on**. |
+| **with + 名词 + 介词短语** | 说明 A 的位置/伴随 | She walked in **with a book in her hand**. |
+
+> [!warning] 易混淆点
+> 当 B 是动词时，需根据 A 与 B 的**逻辑关系**决定形态：
+> - 主动/进行 → `doing`
+> - 被动/完成 → `done`
+> - 将来/目的 → `to do`
+
+> [!tip] 翻译技巧
+> 在阅读或翻译中，句首的 `With + 名词 + ...` 不要生硬译为"和……"，应译为**"随着……"**或**"由于……"**，使中文逻辑更加通顺。
+
+---
+
+### 从句 (Clauses)
+
+#### 同位语 (Apposition) — 名词短语作同位语
+
+> [!note] 核心逻辑：A = B
+> 同位语的本质是**等价关系**：逗号后的名词短语是对前面名词的解释说明，两者指向同一事物。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| **名词 A, 名词 B** | 基础同位语：B 解释 A | I like **Taobao, a brand** from China. |
+| **名词 A, 名词 B + 定语从句** | 同位语中嵌套定语从句（考研高频） | I like **Taobao, a brand that is from China**. |
+
+> [!warning] 防坑指南
+> 句中出现 `名词 A, 名词 B + that...` 时，`that` 引导的很可能是**定语从句**（修饰名词 B），而不一定是同位语从句！
+>
+> 整个结构是：**名词短语（含内部定语从句）作同位语**，而非同位语从句。
+
+---
+
+### 补充要点
+
+#### 代词指代原则 (Pronoun Reference)
+
+> [!warning] 常见误区
+> 代词不一定指代上一句的主语——它也可能指代宾语，或前文一整件事情。**语法匹配是门槛，逻辑通顺才是判官。**
+
+| 原则 | 说明 | 例句分析 |
+|------|------|---------|
+| **就近原则** | 代词指代对象通常在前半句或前一句话中 | — |
+| **单复数/性别匹配** | 最强排除法：they/those 找复数名词；it 找单数/不可数名词 | **The company** fired **the lazy workers**. **They** were very angry. → `They` 数词匹配 workers（复数），代入逻辑：工人被开除所以生气 ✅ |
+| **动作逻辑检验** | 将候选名词代入代词位置，看能否发出后续动作 | — |
+
+> [!tip] 考研命题人两大高频陷阱
+> - **陷阱一：指代宾语而非主语** — 代词 `They` 可能指代上一句的宾语（如被开除的工人）而非主语（公司）。
+> - **陷阱二：指代整件事情** — `this` / `that` / `it` 可能指代前文一整件事。翻译时译为"这**件事情**"或"这一**举动**"更流畅。
+
+#### 词性辨析 — Control 的名词 vs 动词用法
+
+| 词性 | 结构 | 特点 | 例句 |
+|------|------|------|------|
+| **名词** | **have/take control over/of sth** | 后接 `over` 或 `of` 介词短语 | We need to have **control over** our own destiny. |
+| **动词** | **control sth** | 及物动词，直接加宾语，**不加介词** | You must learn to **control** your temper. |
+
+> [!warning] 致命陷阱
+> 完形填空和写作中，`control` 作动词时**绝对不可加 `over`**，这是名词用法被带入动词的错误。
+
+---
+
+<!-- VOCABULARY_SLOT -->
+
+## 心得
+
+> [!tip] 阅读技巧
+> 本文属于考研英语中典型的**社会现象批判型**议论文。这类文章的高频考点是：
+> 1. **作者态度题** — 本文作者对"受教育者否认雄心"持**讽刺批评**态度，关键词为 `hypocrisy`
+> 2. **例证功能题** — 第二段中三个并列例子（评论家、出版商、记者）的作用是**支撑"虚伪景象"这一观点**
+> 3. **词义推断题** — 如 `pushing`, `acquisitive`, `vulgar` 等词的语境含义
+
+> [!warning] 易错点
+> - **否定转移**：`not least` 是"尤其是"（肯定强调）而非"至少不"（否定）
+> - **破折号功能**：本文破折号多用于**同位解释**（如 `wealth, distinction, control over one's destiny` 解释 `rewards`），而非转折或插入
+> - **谚语理解**：`closing the barn door after the horses have escaped` 不能被简单理解为"亡羊补牢"——作者对其进行了反讽改写
+
+> [!question] 反思
+> 1. 作者认为受教育者对待雄心的态度是什么？这种态度为什么是虚伪的？
+> 2. 第二段中三个例子有什么共同点？它们如何支持作者的中心论点？
+> 3. 文章最后一句 `on the left angry critics, on the right stupid supporters, and in the middle... the majority of earnest people` 体现了作者怎样的立场？
+
+---
+
+## 延伸
+
+### 相关话题
+
+- 美国社会中的成功学文化
+- 物质主义与消费主义批判
+- 公共言行与私人欲望的矛盾（cognitive dissonance）
+- 教育精英与社会价值观
+
+### 推荐后续阅读
+
+- [[2000-passage1-america-精读笔记]] — 美国历史与价值观
+- [[2000-passage3-futurist-精读笔记]] — 社会文化批评类文章
+- [[1999-passage1-精读笔记]] — 类似社会现象分析文
+
+### 补充资源
+
+- 考研英语《阅读的逻辑》中"观点态度题"章节
+- The Economist 文化专栏相关文章
+- 英语谚语积累：`closing the barn door after the horses have escaped`
+
+---
+
+## 思考题
+
+1. **主旨题**：The author's primary purpose in this passage is to.
+   - A. criticize the educated for their hypocrisy regarding ambition
+   - B. defend ambition as a healthy impulse
+   - C. analyze why people are less interested in success
+   - D. propose a new definition of ambition
+
+2. **细节题**：According to Paragraph 2, why do people no longer confess fully to their dreams?
+   - A. They are less interested in material success.
+   - B. They fear being seen as overly ambitious and vulgar.
+   - C. They have already achieved their goals.
+   - D. Society no longer rewards success.
+
+3. **推断题**：The phrase "closing the barn door after the horses have escaped" (Paragraph 1) suggests that the educated.
+   - A. took action too late to stop ambition
+   - B. deny ambition while still enjoying its benefits
+   - C. want to protect their children from ambition
+   - D. have given up on ambition entirely
+
+4. **结构题**：The three examples in Paragraph 2 are used to illustrate.
+   - A. the diversity of American society
+   - B. the contradiction between words and actions
+   - C. the decline of moral standards
+   - D. the difficulty of achieving success
+
+5. **态度题**：The author's attitude toward the current state of ambition can best be described as.
+   - A. enthusiastic support
+   - B. critical concern
+   - C. complete indifference
+   - D. blind optimism
+
+---
+
+## 相关笔记
+
+- [[英语阅读技巧总结]]
+- [[长难句分析方法]]
+- [[考研英语词汇分类]]
+- [[议论文常见结构]]
+- [[强调句与主语从句辨析]]
+- [[代词指代原则]]
