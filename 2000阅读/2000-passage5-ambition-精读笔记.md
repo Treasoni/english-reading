@@ -73,6 +73,54 @@ sources:
 > 3. **"be deemed worthy of"**：被动语态 + 形容词短语，"被认为值得..."
 > 4. **过去分词作后置定语**：`made on ambition's behalf` 修饰 `the sacrifices`，相当于定语从句 `which were made on ambition's behalf`
 
+> [!abstract]- 长难句分析 (Sentence 2)
+> **主干提取**：
+> 本句为并列复合句，由分号 + and 连接两个并列分句：
+>
+> **分句一**：
+> - **S (主语)**：the tradition of ambition（雄心的传统）
+> - **V (谓语)**：must be widely shared（必须被广泛认同）
+>
+> **分句二**：
+> - **S (主语)**：it（指代 the tradition）
+> - **V (谓语)**：must be highly regarded（必须被高度重视）
+> - **A (状语)**：by people（被那些人）
+>
+> **简化主干**：The tradition must be shared; and it must be regarded by people.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 条件状语从句 | If | 两个并列分句 |
+> | 并列结构 | ; and | 连接两个分句 |
+> | 定语从句 | who | 修饰 people |
+> | 同位语 | 逗号 | 解释 people（the educated not least among them） |
+> | 介词短语 | of ambition | 修饰 tradition |
+> | 介词短语 | among them | 修饰 the educated |
+>
+> **结构图解**：
+> ```
+> 条件状从: If the tradition of ambition is to have vitality
+>   │
+> 分句一: the tradition must be widely shared
+>   │
+>   └── 并列: ; and
+>       │
+>       分句二: it especially must be highly regarded by people
+>         ├── 定从: who are themselves admired → 修饰 people
+>         └── 同位语: the educated not least among them → 解释 people
+>              └── 介短: among them → 修饰 the educated
+> ```
+>
+> **参考译文**：如果雄心的传统要具有生命力，它就必须得到广泛认同；尤其是必须受到那些本身受人敬仰的人们的高度重视，其中受教育者尤为如此。
+>
+> **考点提示**：
+> 1. **分号 + and 并列**：分号连接两个语义紧密相关的独立分句，and 进一步强调并列关系
+> 2. **"be to do" 结构**：表示条件/假设，与上一句的 if 呼应，构成"如果要...就必须..."的逻辑
+> 3. **"not least" 固定搭配**：意为"尤其是"、"特别是"，表示强调，是考研高频考点
+> 4. **同位语分隔**：`the educated not least among them` 是对 `people` 的补充说明，用逗号隔开，阅读时需识别其解释功能
+
 (1) Certainly people do not seem less interested in success and its signs now than formerly. (2) Summer homes, European travel, BMWs—the locations, place names and name brands may change, but such items do not seem less in demand today than a decade or two years ago. (3) What has happened is that people cannot confess fully to their dreams, as easily and openly as once they could, lest they be thought **pushing**, **acquisitive** and **vulgar**. (4) Instead, we are treated to fine **hypocritical spectacles**, which now more than ever seem in ample supply: the critic of American materialism with a Southampton summer home; the publisher of radical books who takes his meals in three-star restaurants; the journalist advocating **participatory democracy** in all phases of life, whose own children are **enrolled** in private schools. (5) For such people and many more perhaps not so exceptional, the proper formulation is, == "Succeed at all costs but avoid appearing ambitious." ==
 
 (1) The attacks on ambition are many and come from various angles; its public defenders are few and unimpressive, where they are not extremely unattractive. (2) As a result, the support for ambition as a healthy **impulse**, a quality to be admired and fixed in the mind of the young, is probably lower than it has ever been in the United States. (3) This does not mean that ambition is at an end, that people no longer feel its **stirrings and promptings**, but only that, no longer openly honored, it is less openly **professed**. (4) Consequences follow from this, of course, some of which are that ambition is **driven underground**, or made **sly**. (5) Such, then, is the way things stand: on the left angry critics, on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life.
