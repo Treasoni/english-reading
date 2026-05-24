@@ -442,6 +442,49 @@ sources:
 > 3. **"its" 指代**：its 指代 ambition，需根据上下文判断
 > 4. **对比结构**：attacks are many vs. defenders are few，形成鲜明对比，强调雄心被攻击多、被捍卫少
 
+> [!abstract]- 长难句分析 (Para 3, Sentence 3)
+> **主干提取**：
+> 本句含三个并列的 that 宾语从句：
+>
+> - **S (主语)**：This（这）
+> - **V (谓语)**：does not mean（并不意味着）
+> - **O (宾语)**：三个并列 that 从句
+>
+> **简化主干**：This does not mean that... but only that...
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 宾语从句 | that | 作 mean 的宾语（三个并列） |
+> | 并列结构 | , ... but only | 连接三个 that 从句 |
+> | 过去分词短语 | honored | 修饰 it（插入语） |
+> | 介词短语 | at an end | 修饰 is（终结） |
+> | 介词短语 | of ambition | 修饰 stirrings and promptings |
+>
+> **结构图解**：
+> ```
+> 主句: This does not mean
+>   ├── 名从1: that ambition is at an end
+>   │     └── 介短: at an end → 修饰 is（终结）
+>   │
+>   ├── 名从2: that people no longer feel its stirrings and promptings
+>   │     └── 介短: of ambition → 修饰 stirrings and promptings
+>   │
+>   └── 名从3: but only that, no longer openly honored, it is less openly professed
+>        ├── 插入语: no longer openly honored → 修饰 it（原因/条件）
+>        └── 主干: it is less openly professed
+> ```
+>
+> **参考译文**：这并不意味着雄心已经终结，也不意味着人们不再感受到它的涌动和激励，而只是意味着，由于不再被公开颂扬，它也就较少被公开承认了。
+>
+> **考点提示**：
+> 1. **三个并列 that 从句**：第一个 mean 后接三个并列的宾语从句，阅读时需识别并列关系
+> 2. **"at an end" 固定搭配**：终结/结束，相当于 come to an end
+> 3. **"stirrings and promptings" 抽象名词**：涌动和激励，此处拟人化描述雄心对人的影响
+> 4. **过去分词作插入语**：`no longer openly honored` 插入在 that 从句中，表示原因或条件
+> 5. **"but only that" 转折强调**：前两个被否定，第三个被肯定，形成"不是...而是..."的逻辑
+
 (1) The attacks on ambition are many and come from various angles; its public **defenders** are few and unimpressive, where they are not extremely unattractive. (2) As a result, the support for ambition as a healthy **impulse**, a quality to be admired and fixed in the mind of the young, is probably lower than it has ever been in the United States. (3) This does not mean that ambition is at an end, that people no longer feel its **stirrings and promptings**, but only that, no longer openly honored, it is less openly **professed**. (4) Consequences follow from this, of course, some of which are that ambition is **driven underground**, or made **sly**. (5) Such, then, is the way things stand: on the left angry critics, on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life.
 
 ### Questions
