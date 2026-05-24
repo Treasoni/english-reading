@@ -244,7 +244,7 @@ sources:
 > 3. **谚语的反讽改写**：`closing the barn door after the horses have escaped` 是英语谚语"亡羊补牢"，但作者改写为"受教育者骑在马上"，形成反讽
 > 4. **with 复合结构**：`with + 名词 + doing` 表示伴随状态，此处强调受教育者本身就是受益者
 
-(1) Certainly people do not seem less interested in success and its signs now than formerly. (2) Summer homes, European travel, BMWs—the locations, place names and name brands may change, but such items do not seem less in demand today than a decade or two years ago. (3) What has happened is that people cannot **confess** fully to their dreams, as easily and openly as once they could, lest they be thought **pushing**, **acquisitive** and **vulgar**. (4) Instead, we are treated to fine **hypocritical spectacles**, which now more than ever seem in ample supply: the critic of American materialism with a Southampton summer home; the publisher of radical books who takes his meals in three-star restaurants; the journalist advocating **participatory democracy** in all phases of life, whose own children are **enrolled** in private schools. (5) For such people and many more perhaps not so exceptional, the proper formulation is, == "Succeed at all costs but avoid appearing ambitious." ==
+(1) Certainly people do not seem less interested in success and its signs now than formerly. (2) Summer homes, European travel, BMWs—the locations, place names and name brands may change, but such items do not seem less in demand today than a decade or two years ago. (3) What has happened is that people cannot **confess** fully to their dreams, as easily and openly as once they could, lest they be thought **pushing**, **acquisitive** and **vulgar**. (4) Instead, we are treated to fine **hypocritical spectacles**, which now more than ever seem in ample supply: the critic of American materialism with a Southampton summer home; the publisher of radical books who takes his meals in three-star restaurants; the journalist advocating **participatory democracy** in all phases of life, whose own children are **enrolled** in private schools. (5) For such people and many more perhaps not so exceptional, the proper formulation is,  "Succeed at all costs but avoid appearing ambitious." 
 
 > [!abstract]- 长难句分析 (Para 2, Sentence 1)
 > **主干提取**：
@@ -279,7 +279,124 @@ sources:
 > 2. **"now than formerly" 时间比较**：比较现在与过去，考查时间状语的理解
 > 3. **"its signs" 指代**：its 指代 success，意为"成功的标志/象征"
 
-(1) The attacks on ambition are many and come from various angles; its public defenders are few and unimpressive, where they are not extremely unattractive. (2) As a result, the support for ambition as a healthy **impulse**, a quality to be admired and fixed in the mind of the young, is probably lower than it has ever been in the United States. (3) This does not mean that ambition is at an end, that people no longer feel its **stirrings and promptings**, but only that, no longer openly honored, it is less openly **professed**. (4) Consequences follow from this, of course, some of which are that ambition is **driven underground**, or made **sly**. (5) Such, then, is the way things stand: on the left angry critics, on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life.
+> [!abstract]- 长难句分析 (Para 2, Sentence 3)
+> **主干提取**：
+> 本句为主系表结构，含主语从句和表语从句：
+>
+> - **S (主语从句)**：What has happened（发生的事情是）
+> - **V (系动词)**：is
+> - **C (表语从句)**：that people cannot confess fully to their dreams
+>
+> **简化主干**：What has happened is that people cannot confess to their dreams.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 主语从句 | What | 作主语 |
+> | 表语从句 | that | 作表语 |
+> | 比较结构 | as ... as | 修饰 confess（方式比较） |
+> | 目的状语从句 | lest | 表示"唯恐"，后接虚拟语气 |
+> | 虚拟语气 | (should) be thought | lest 引导的从句用虚拟语气 |
+>
+> **结构图解**：
+> ```
+> 主语从句: What has happened
+>   │
+> 系动词: is
+>   │
+> 表语从句: that people cannot confess fully to their dreams
+>   ├── 比较结构: as easily and openly as once they could → 修饰 confess
+>   └── 目的状语从句: lest they be thought pushing, acquisitive and vulgar
+>        └── 虚拟语气: (should) be thought → lest 引导的虚拟语气
+> ```
+>
+> **参考译文**：实际情况是，人们不能像过去那样轻松、公开地完全坦露自己的梦想，唯恐被认为急功近利、贪得无厌和庸俗不堪。
+>
+> **考点提示**：
+> 1. **"What has happened" 主语从句**：what 引导的名词性从句作主语，意为"发生的事情是..."
+> 2. **"lest" 虚拟语气**：lest 意为"唯恐"、"以免"，后接 `(should) + 动词原形` 的虚拟语气，是考研高频考点
+> 3. **"confess to" 固定搭配**：坦白/承认，后接名词或动名词
+> 4. **三个形容词并列**：`pushing`（急功近利的）、`acquisitive`（贪得无厌的）、`vulgar`（庸俗的），考查词汇理解
+
+> [!abstract]- 长难句分析 (Para 2, Sentence 4)
+> **主干提取**：
+> - **S (主语)**：we（我们）
+> - **V (谓语)**：are treated to（有幸欣赏到）
+> - **O (宾语)**：fine hypocritical spectacles（精妙的虚伪景象）
+>
+> **简化主干**：We are treated to fine hypocritical spectacles.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 转折副词 | Instead | 修饰整个句子 |
+> | 非限制性定语从句 | which | 修饰 spectacles |
+> | 同位语 | 冒号 : | 解释 spectacles（三个并列例子） |
+> | 现在分词短语 | advocating | 修饰 journalist（后置定语） |
+> | 定语从句 | whose | 修饰 journalist |
+> | 过去分词短语 | enrolled | 修饰 children |
+>
+> **结构图解**：
+> ```
+> 状语: Instead
+>   │
+> 主句: we are treated to fine hypocritical spectacles
+>   ├── 定从: which now more than ever seem in ample supply → 修饰 spectacles
+>   └── 同位语: 冒号后三个并列例子 → 解释 spectacles
+>        ├── 例1: the critic of American materialism with a Southampton summer home
+>        ├── 例2: the publisher of radical books who takes his meals in three-star restaurants
+>        │     └── 定从: who takes his meals → 修饰 publisher
+>        └── 例3: the journalist advocating participatory democracy in all phases of life
+>              ├── 分词: advocating → 修饰 journalist
+>              └── 定从: whose own children are enrolled in private schools
+> ```
+>
+> **参考译文**：相反，我们欣赏到种种精妙的虚伪景象，其数量之多前所未有：批评美国物质主义的评论家却在南安普顿拥有避暑别墅；出版激进书籍的出版商却在三星级餐厅用餐；鼓吹生活各方面参与式民主的记者，自己的孩子却就读于私立学校。
+>
+> **考点提示**：
+> 1. **"be treated to" 固定搭配**：被款待/有幸欣赏，此处为讽刺用法
+> 2. **"which" 非限制性定语从句**：对先行词进行补充说明，翻译时可另起一句
+> 3. **冒号引出同位语**：冒号后三个并列例子具体解释"虚伪景象"的内容
+> 4. **三个并列结构**：critic / publisher / journalist 构成排比，是考研阅读中常见的例证方式
+
+> [!abstract]- 长难句分析 (Para 2, Sentence 5)
+> **主干提取**：
+> - **S (主语)**：the proper formulation（恰当的表述）
+> - **V (系动词)**：is（是）
+> - **C (表语)**："Succeed at all costs but avoid appearing ambitious."（引语作表语）
+>
+> **简化主干**：The proper formulation is "Succeed at all costs but avoid appearing ambitious."
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介词短语 | For | 表示对象（对...人来说） |
+> | 形容词短语 | perhaps not so exceptional | 修饰 many more（后置定语） |
+> | 并列结构 | but | 连接两个祈使句 |
+>
+> **结构图解**：
+> ```
+> 状语: For such people and many more perhaps not so exceptional
+>   └── 形容词短语: perhaps not so exceptional → 修饰 many more
+>       │
+> 主句: the proper formulation is, "Succeed at all costs but avoid appearing ambitious."
+>   └── 引语: "Succeed at all costs but avoid appearing ambitious." → 作表语
+>        └── 并列: but → 连接两个祈使句
+> ```
+>
+> **参考译文**：对于这样的人以及更多或许不那么突出的人来说，恰当的表述是："不惜一切代价去成功，但避免显得雄心勃勃。"
+>
+> **考点提示**：
+> 1. **"For such people" 介词短语作状语**：表示对象，"对于...来说"
+> 2. **"perhaps not so exceptional" 后置定语**：修饰 many more，意为"或许不那么突出的"
+> 3. **引语作表语**：直接引语充当表语，说明 formulation 的具体内容
+> 4. **"avoid appearing" 结构**：avoid + doing，"避免显得..."
+> 5. **反讽手法**：作者用引号标注这个"恰当表述"，暗示这是一种社会共识，但实际上是讽刺
+
+(1) The attacks on ambition are many and come from various angles; its public **defenders** are few and unimpressive, where they are not extremely unattractive. (2) As a result, the support for ambition as a healthy **impulse**, a quality to be admired and fixed in the mind of the young, is probably lower than it has ever been in the United States. (3) This does not mean that ambition is at an end, that people no longer feel its **stirrings and promptings**, but only that, no longer openly honored, it is less openly **professed**. (4) Consequences follow from this, of course, some of which are that ambition is **driven underground**, or made **sly**. (5) Such, then, is the way things stand: on the left angry critics, on the right stupid supporters, and in the middle, as usual, the majority of earnest people trying to get on in life.
 
 ### Questions
 
