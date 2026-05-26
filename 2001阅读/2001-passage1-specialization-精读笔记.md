@@ -255,7 +255,7 @@ related:
 > >
 > > **in terms of**：考研高频短语，此处译为"通过……来（加以说明）"，表方式手段。
 
-(1)A comparison of British geological publications over the last century and a half reveals not simply an increasing emphasis on the primacy of research, but also a changing definition of what constitutes an acceptable research paper.
+(1)A comparison of British geological publications over the last century and a half reveals not simply an increasing emphasis on the primacy of research, but also a changing definition of what **constitutes** an acceptable research paper.
 
 > [!abstract]- 长难句分析
 > **主干提取**：
