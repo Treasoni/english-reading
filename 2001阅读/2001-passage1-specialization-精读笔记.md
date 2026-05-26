@@ -297,7 +297,62 @@ related:
 > >
 > > **长主语策略**：主语 "A comparison...century and a half" 长达 10+ 词，谓语 reveals 在句末。阅读时先快速扫过修饰成分定位谓语动词。
 
-(2)Thus, in the nineteenth century, local geological studies **represented** worthwhile research in their own right; but, in the twentieth century, local studies have increasingly become acceptable to professionals only if they incorporate, and reflect on, the wider geological picture. (3)**Amateurs**, on the other hand, have continued to pursue local studies in the old way. (4)The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century. (5)As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership. (6)A rather similar process of differentiation has led to professional geologists coming together nationally within one or two specific societies, whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way.
+(2)Thus, in the nineteenth century, local geological studies **represented** worthwhile research in their own right; but, in the twentieth century, local studies have increasingly become acceptable to professionals only if they incorporate, and reflect on, the wider geological picture.
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> 本句为**并列句**，由分号和 but 连接两个对比分句：
+>
+> **分句 1**（19 世纪的情况）：
+> - **S (主语)**: local geological studies
+> - **V (谓语)**: represented
+> - **O (宾语)**: worthwhile research
+> - **A (状语)**: in their own right
+>
+> **分句 2**（20 世纪的情况）：
+> - **S (主语)**: local studies
+> - **V (谓语)**: have become（系动词）
+> - **C (表语)**: acceptable to professionals
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 副词（句首） | Thus | 修饰整句（承接上文） |
+> | 介短（时间状语） | in the nineteenth century | 修饰分句 1 |
+> | 固定搭配 | in their own right | 修饰分句 1（方式状语） |
+> | 介短（时间状语） | in the twentieth century | 修饰分句 2 |
+> | 条件状语从句 | only if | 修饰分句 2 |
+> | 插入语 | , and reflect on, | 与 incorporate 并列 |
+>
+> **结构图解**：
+> ```
+> Thus（承接上文）
+> 并列句（分号 + but 表对比）:
+> ├── 分句1: [local geological studies + represented + worthwhile research]
+> │     ├── 介短: in the nineteenth century → 时间状语
+> │     └── 介短: in their own right → 方式状语
+> └── but 分句2: [local studies + have become + acceptable to professionals]
+>       ├── 副词: increasingly
+>       ├── 介短: in the twentieth century → 时间状语
+>       └── 条件状语从句: only if they incorporate, and reflect on, the wider geological picture
+>             ├── V1: incorporate
+>             ├── 插入语: , and reflect on,
+>             └── O: the wider geological picture
+> ```
+>
+> **参考译文**：
+> 因此，在 19 世纪，地方地质学研究本身就是有价值的研究；但在 20 世纪，地方研究只有纳入并反思更广阔的地质图景，才越来越为专业人士所接受。
+>
+> **考点提示**：
+> > [!tip] 分号 + but 对比结构 & only if 条件状语 & 逗号插入分隔并列谓语
+> > **分号 + but 对比结构**：分号连接两个独立分句（可独立成句），but 明确转折关系。阅读时抓住两个分句的时间标志（19th c. vs 20th c.）即可快速理解对比逻辑。
+> >
+> > **only if 引导条件状语从句**：强调"只有在……条件下才……"，与 if only（要是……就好了）含义完全不同，考研易混淆考点。
+> >
+> > **逗号分隔并列谓语**：`incorporate, and reflect on,` 中 and reflect on 被逗号隔开，阅读时跳过逗号识别 incorporate 和 reflect on 的并列关系。
+
+(3)**Amateurs**, on the other hand, have continued to pursue local studies **in the old way**. (4)The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century. (5)As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership. (6)A rather similar process of differentiation has led to professional geologists coming together nationally within one or two specific societies, whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way.
 
 (1)Although the process of professionalisation and specialization was already well under way in British geology during the nineteenth century, its full consequences were thus delayed until the twentieth century. (2)In science generally, however, the nineteenth century must be reckoned as the crucial period for this change in the structure of science.
 
