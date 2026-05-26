@@ -479,7 +479,42 @@ related:
 > >
 > > **either...or... 并列不定式**：`either to remain...or to come together...` 两个不定式短语并列作 tend 的宾语。注意形式完全对称（不定式 + 介短），考研写作可模仿。
 
-(1)Although the process of professionalisation and specialization was already well under way in British geology during the nineteenth century, its full consequences were thus delayed until the twentieth century. (2)In science generally, however, the nineteenth century must be reckoned as the crucial period for this change in the structure of science.
+(1)Although the process of professionalisation and specialization was already well under way in British geology during the nineteenth century, its full consequences were thus delayed until the twentieth century.
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - **S (主语)**: its full consequences
+> - **V (谓语)**: were delayed
+> - **A (状语)**: thus；until the twentieth century
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 让步状语从句 | Although | 修饰主句（让步转折） |
+> | 副词 | thus | 修饰 were delayed（结果） |
+> | 介短（时间状语） | until the twentieth century | 修饰 were delayed |
+>
+> **结构图解**：
+> ```
+> 让步状语从句: Although [the process + was + well under way]
+>   ├── 介短: in British geology → 地点
+>   └── 介短: during the nineteenth century → 时间
+> 主句: [its full consequences + were thus delayed + until the twentieth century]
+> ```
+>
+> **参考译文**：
+> 尽管职业化和专业化的进程在 19 世纪的英国地质学中已经充分展开，但其全部后果却因此推迟到 20 世纪才显现。
+>
+> **考点提示**：
+> > [!tip] Although 让步状语从句 & under way 固定搭配 & thus 承接结果
+> > **Although 让步转折**：Although 引导的从句承认"已经充分展开"，但主句说"推迟到20世纪"，形成让步+转折逻辑。考研阅读中 Although 后的主句才是作者真实观点。
+> >
+> > **well under way**：固定搭配，"已在充分进行中"。under way 是介词短语作表语，well 加强程度。
+> >
+> > **thus 承接上文结果**：thus（因此）连接前文的因果关系——正因为"充分展开"，所以"后果推迟"。
+
+(2)In science generally, however, the nineteenth century must be reckoned as the crucial period for this change in the structure of science.
 
 ## Questions
 
