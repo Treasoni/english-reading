@@ -255,7 +255,49 @@ related:
 > >
 > > **in terms of**：考研高频短语，此处译为"通过……来（加以说明）"，表方式手段。
 
-(1)A comparison of British geological publications over the last century and a half reveals not simply an increasing emphasis on the primacy of research, but also a changing definition of what constitutes an acceptable research paper. (2)Thus, in the nineteenth century, local geological studies represented worthwhile research in their own right; but, in the twentieth century, local studies have increasingly become acceptable to professionals only if they incorporate, and reflect on, the wider geological picture. (3)**Amateurs**, on the other hand, have continued to pursue local studies in the old way. (4)The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century. (5)As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership. (6)A rather similar process of differentiation has led to professional geologists coming together nationally within one or two specific societies, whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way.
+(1)A comparison of British geological publications over the last century and a half reveals not simply an increasing emphasis on the primacy of research, but also a changing definition of what constitutes an acceptable research paper.
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - **S (主语)**: A comparison of British geological publications over the last century and a half
+> - **V (谓语)**: reveals
+> - **O (宾语)**: not simply an increasing emphasis..., but also a changing definition...
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介短（后置定语） | of British geological publications | 修饰 comparison |
+> | 介短（后置定语） | over the last century and a half | 修饰 publications |
+> | 介短（后置定语） | on the primacy of research | 修饰 emphasis |
+> | 介短（后置定语） | of what constitutes an acceptable research paper | 修饰 definition |
+> | 名词从句（宾语从句） | what | 作 of 的宾语 |
+>
+> **结构图解**：
+> ```
+> 主句: [A comparison + reveals + not simply...but also...]
+>   ├── 介短: of British geological publications → 修饰 comparison
+>   │     └── 介短: over the last century and a half → 修饰 publications
+>   └── 并列宾语结构: not simply..., but also...
+>         ├── O1: an increasing emphasis
+>         │     └── 介短: on the primacy of research → 修饰 emphasis
+>         └── O2: a changing definition
+>               └── 介短: of what constitutes an acceptable research paper → 修饰 definition
+>                     └── what 从句: what constitutes an acceptable research paper → of 的宾语从句
+> ```
+>
+> **参考译文**：
+> 对过去一个半世纪的英国地质学出版物进行比较，不仅显示出对研究首要地位的日益强调，还显示出对什么是可接受的研究论文的定义在不断变化。
+>
+> **考点提示**：
+> > [!tip] not simply...but also 并列宾语 & what 名词从句 & 长主语识别
+> > **not simply...but also...**：not only 的变体，连接两个并列宾语。注意 not simply 后接名词短语 A，but also 后接名词短语 B。考研中常出现此变体以增加难度。
+> >
+> > **what 引导的名词性从句**：`what constitutes an acceptable research paper` 作 of 的宾语，整体相当于 the thing that...。阅读方法：将 what 替换为 the thing that 来理解。
+> >
+> > **长主语策略**：主语 "A comparison...century and a half" 长达 10+ 词，谓语 reveals 在句末。阅读时先快速扫过修饰成分定位谓语动词。
+
+(2)Thus, in the nineteenth century, local geological studies represented worthwhile research in their own right; but, in the twentieth century, local studies have increasingly become acceptable to professionals only if they incorporate, and reflect on, the wider geological picture. (3)**Amateurs**, on the other hand, have continued to pursue local studies in the old way. (4)The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century. (5)As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership. (6)A rather similar process of differentiation has led to professional geologists coming together nationally within one or two specific societies, whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way.
 
 (1)Although the process of professionalisation and specialization was already well under way in British geology during the nineteenth century, its full consequences were thus delayed until the twentieth century. (2)In science generally, however, the nineteenth century must be reckoned as the crucial period for this change in the structure of science.
 
