@@ -9,7 +9,7 @@ tags:
   - exam-prep
 difficulty: intermediate
 created: 2026-05-26
-updated: 2026-05-27
+updated: 2026-05-26
 sources:
   - 2001年考研英语阅读 Passage 1
 related:
@@ -141,7 +141,44 @@ related:
 > >
 > > **But 的逻辑信号功能**：But 与上句转折——前面说 specialization 是"回应问题"，这里转折说"它只是一系列发展之一"。考研阅读中 But 后的内容常蕴含作者真实观点。
 
-(1)No **clear-cut** distinction can be drawn between **professionals** and **amateurs** in science: exceptions can be found to any rule. (2)Nevertheless, the word "amateur" does carry a **connotation** that the person concerned is not fully integrated into the scientific community and, in particular, may not fully share its values. (3)The growth of specialization in the nineteenth century, with its consequent requirement of a longer, more complex training, implied greater problems for amateur participation in science. (4)The trend was naturally most obvious in those areas of science based especially on a mathematical or laboratory training, and can be illustrated in terms of the development of geology in the United Kingdom.
+(1)No **clear-cut** distinction can be drawn between **professionals** and **amateurs** in science: exceptions can be found to any rule. (2)Nevertheless, the word "amateur" does carry a **connotation** that the person concerned is not fully integrated into the scientific community and, in particular, may not fully share its values.(3)The growth of specialization in the nineteenth century, with its consequent requirement of a longer, more complex training, implied greater problems for amateur participation in science. (4)The trend was naturally most obvious in those areas of science based especially on a mathematical or laboratory training, and can be illustrated in terms of the development of geology in the United Kingdom.
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - **S (主语)**: the word "amateur"
+> - **V (谓语)**: does carry（强调式谓语）
+> - **O (宾语)**: a connotation
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 同位语从句 | that | 说明 connotation 的内容（that 在从句中不作成分） |
+> | 后置定语 | concerned | 修饰 the person |
+> | 插入语 | in particular | 对后一分句进行强调 |
+>
+> **结构图解**：
+> ```
+> Nevertheless（转折副词）
+> 主句: [the word "amateur" + does carry + a connotation]
+>   └── 同位从句: (that ...) → 说明 [connotation] 的内容
+>         ├── S: the person concerned
+>         │     └── concerned 后置定语
+>         ├── V1: is not fully integrated
+>         │     └── 介短: into the scientific community
+>         └── V2: , in particular, may not fully share its values
+> ```
+>
+> **参考译文**：
+> 然而，"业余爱好者"这个词确实带有这样一种含义：当事人并未完全融入科学界，尤其是可能并未完全认同其价值观。
+>
+> **考点提示**：
+> > [!tip] 同位语从句的识别 & 强调谓语 & 并列谓语
+> > **that 引导的同位语从句**：that 在从句中**不作任何语法成分**，只起连接作用——这是区分同位语从句与定语从句的核心标准。定语从句中 that 必须在从句中作主语、宾语等成分。
+> >
+> > **does carry 强调谓语**：does + 动词原形构成强调式，翻译时译为"确实……"，加强语气。考研翻译中需译出强调意味。
+> >
+> > **并列谓语结构**：从句中有两个并列谓语——is not integrated 和 may not share，由 and 连接，中间被插入语 `, in particular,` 隔开。阅读时跳过插入语即可恢复并列关系。
 
 (1)A comparison of British geological publications over the last century and a half reveals not simply an increasing emphasis on the primacy of research, but also a changing definition of what constitutes an acceptable research paper. (2)Thus, in the nineteenth century, local geological studies represented worthwhile research in their own right; but, in the twentieth century, local studies have increasingly become acceptable to professionals only if they incorporate, and reflect on, the wider geological picture. (3)**Amateurs**, on the other hand, have continued to pursue local studies in the old way. (4)The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century. (5)As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership. (6)A rather similar process of differentiation has led to professional geologists coming together nationally within one or two specific societies, whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way.
 
