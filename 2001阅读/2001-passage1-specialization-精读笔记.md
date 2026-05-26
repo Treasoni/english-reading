@@ -141,7 +141,7 @@ related:
 > >
 > > **But 的逻辑信号功能**：But 与上句转折——前面说 specialization 是"回应问题"，这里转折说"它只是一系列发展之一"。考研阅读中 But 后的内容常蕴含作者真实观点。
 
-(1)No **clear-cut** distinction can be drawn between **professionals** and **amateurs** in science: exceptions can be found to any rule. (2)Nevertheless, the word "amateur" does carry a **connotation** that the person concerned is not fully integrated into the scientific community and, in particular, may not fully share its values.(3)The growth of specialization in the nineteenth century, with its consequent requirement of a longer, more complex training, implied greater problems for amateur participation in science. (4)The trend was naturally most obvious in those areas of science based especially on a mathematical or laboratory training, and can be illustrated in terms of the development of geology in the United Kingdom.
+(1)No **clear-cut** distinction can be drawn between **professionals** and **amateurs** in science: exceptions can be found to any rule. (2)Nevertheless, the word "amateur" does carry a **connotation** that the person concerned is not fully integrated into the scientific community and, in particular, may not fully share its values.(3)The growth of specialization in the nineteenth century, with its consequent requirement of a longer, more complex training, implied greater problems for amateur participation in science.(4)The trend was naturally most obvious in those areas of science based especially on a mathematical or laboratory training, and can be illustrated **in terms of** the development of **geology** in the United Kingdom.
 
 > [!abstract]- 长难句分析
 > **主干提取**：
@@ -179,6 +179,81 @@ related:
 > > **does carry 强调谓语**：does + 动词原形构成强调式，翻译时译为"确实……"，加强语气。考研翻译中需译出强调意味。
 > >
 > > **并列谓语结构**：从句中有两个并列谓语——is not integrated 和 may not share，由 and 连接，中间被插入语 `, in particular,` 隔开。阅读时跳过插入语即可恢复并列关系。
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - **S (主语)**: The growth of specialization
+> - **V (谓语)**: implied
+> - **O (宾语)**: greater problems
+> - **A (状语)**: for amateur participation in science
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介短（后置定语） | in the nineteenth century | 修饰 specialization |
+> | 介短（伴随状语） | with its consequent requirement... | 修饰主句（插入语） |
+> | 介短 | of a longer, more complex training | 修饰 requirement |
+> | 介短 | in science | 修饰 participation |
+>
+> **结构图解**：
+> ```
+> 主句: [The growth of specialization + implied + greater problems + for amateur participation in science]
+>   ├── 介短: in the nineteenth century → 修饰 specialization
+>   ├── 伴随状语: with its consequent requirement of a longer, more complex training
+>   │     └── 介短: of a longer, more complex training → 修饰 requirement
+>   └── 介短: for amateur participation → 对象状语
+>         └── 介短: in science → 修饰 participation
+> ```
+>
+> **参考译文**：
+> 19 世纪专业化的发展，及其随之而来的对更长、更复杂培训的要求，意味着业余爱好者参与科学面临更大的问题。
+>
+> **考点提示**：
+> > [!tip] with 复合结构作插入式伴随状语 & imply 的翻译
+> > **with 结构作插入语（S, with..., V）**：`with its consequent requirement...` 是伴随状语，被两个逗号包裹插入主谓之间。阅读策略：**直接跳过两个逗号之间的内容**，先抓主句主干 "The growth implied greater problems"。
+> >
+> > **imply 的语义**：考研中 imply 不可一律译为"暗示"。当主语是客观事物（如本句的 growth）时，imply 应译为"意味着/必然导致"，表达因果推论关系而非暗示范畴。
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - **S (主语)**: The trend
+> - **V1 (谓语 1)**: was（系动词）
+> - **C (表语)**: most obvious
+> - **V2 (谓语 2)**: can be illustrated（并列谓语，共享主语 The trend）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 副词 | naturally | 修饰 was |
+> | 介短（地点状语） | in those areas of science | 地点状语 |
+> | 过去分词短语（后置定语） | based especially on...training | 修饰 areas of science |
+> | 介短（方式状语） | in terms of the development... | 修饰 can be illustrated |
+>
+> **结构图解**：
+> ```
+> 主句: [The trend + was + most obvious]
+>   ├── 副词: naturally → 修饰 was
+>   ├── 介短: in those areas of science → 地点状语
+>   │     └── 过去分词短语: based especially on a mathematical or laboratory training → 后置定语修饰 areas
+>   │           └── 介短: on a mathematical or laboratory training → 修饰 based
+>   ├── V2: and can be illustrated
+>   │     └── 介短: in terms of the development of geology in the United Kingdom → 方式状语
+>   │           ├── 介短: of geology → 修饰 development
+>   │           └── 介短: in the United Kingdom → 修饰 geology
+> ```
+>
+> **参考译文**：
+> 这一趋势在那些尤其以数学或实验室训练为基础的科学领域自然最为明显，并且可以通过英国地质学的发展来加以说明。
+>
+> **考点提示**：
+> > [!tip] 过去分词作后置定语 & 并列谓语省略主语 & in terms of
+> > **过去分词短语作后置定语**：`based especially on...` 修饰 areas of science，相当于 "which are based on..."。areas 与 base 是被动关系（被基于），故用过去分词。
+> >
+> > **并列谓语省略主语**：`and can be illustrated` 与前面的 `was` 共享主语 The trend。阅读时 and 后找不到新主语，则自动继承前文主语。
+> >
+> > **in terms of**：考研高频短语，此处译为"通过……来（加以说明）"，表方式手段。
 
 (1)A comparison of British geological publications over the last century and a half reveals not simply an increasing emphasis on the primacy of research, but also a changing definition of what constitutes an acceptable research paper. (2)Thus, in the nineteenth century, local geological studies represented worthwhile research in their own right; but, in the twentieth century, local studies have increasingly become acceptable to professionals only if they incorporate, and reflect on, the wider geological picture. (3)**Amateurs**, on the other hand, have continued to pursue local studies in the old way. (4)The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century. (5)As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership. (6)A rather similar process of differentiation has led to professional geologists coming together nationally within one or two specific societies, whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way.
 
