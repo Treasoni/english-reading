@@ -393,7 +393,91 @@ related:
 > >
 > > **概括性同位语 + 定语从句**：`a result that has been reinforced...` 是对前文 the overall result 的概括性重复（summarizing appositive），后面再跟定语从句展开说明。这种结构常用于学术写作，阅读时直接将其视为对前文的补充解释。
 
-(5)As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership. (6)A rather similar process of differentiation has led to professional geologists coming together nationally within one or two specific societies, whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way.
+(5)As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership.
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - **S (主语)**: separate journals
+> - **V (谓语)**: have appeared
+> - **A (状语)**: now
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介短（原因状语） | As a logical consequence of this development | 修饰整句 |
+> | 过去分词短语（后置定语） | aimed mainly towards...readership | 修饰 journals（分隔修饰） |
+> | 并列连词 | either...or... | 连接 professional / amateur |
+>
+> **结构图解**：
+> ```
+> 主句: [separate journals + have now appeared]
+>   ├── 介短（原因状语）: As a logical consequence of this development
+>   └── 过去分词短语（后置定语，分隔修饰）: aimed mainly towards either professional or amateur readership
+>         ├── 副词: mainly
+>         ├── 介短: towards either professional or amateur readership
+>         └── either...or...: 并列 professional / amateur
+> ```
+>
+> **参考译文**：
+> 作为这一发展的逻辑结果，现在出现了主要面向专业读者或业余读者的不同期刊。
+>
+> **考点提示**：
+> > [!tip] 分隔修饰（Split Modification）& As a consequence & either...or...
+> > **过去分词短语作分隔修饰**：`aimed mainly towards...` 修饰主语 separate journals，但被谓语 `have now appeared` 隔开，形成"主语 + 谓语 + 定语"的分隔修饰结构。阅读策略：主语后跳过谓语，找到过去分词立即判定其修饰主语。
+> >
+> > **As a logical consequence**：考研因果逻辑高频短语，相当于 As a result，表"作为……的结果"。常用于段首，承接上文引出结论。
+> >
+> > **either...or...**：连接两个并列名词 professional 和 amateur，注意前后形式对称。
+
+(6)A rather similar process of **differentiation** has led to professional geologists coming together nationally within one or two specific societies, whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way.
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> 本句为 **whereas 对比复合句**：
+>
+> **主句**（professional 的行为）：
+> - **S (主语)**: A rather similar process of differentiation
+> - **V (谓语)**: has led to
+> - **O (宾语)**: professional geologists coming together nationally within one or two specific societies（动名词复合结构）
+>
+> **Whereas 对比从句**（amateur 的行为）：
+> - **S (主语)**: the amateurs
+> - **V (谓语)**: have tended
+> - **O (宾语)**: either to remain in local societies or to come together nationally in a different way（并列不定式短语）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介短（后置定语） | of differentiation | 修饰 process |
+> | 副词（方式） | nationally | 修饰 coming together |
+> | 介短（范围） | within one or two specific societies | 修饰 coming together |
+> | 并列不定式 | either...or... | 两个并列的 tend 宾语 |
+> | 介短（方式） | in a different way | 修饰 come together |
+>
+> **结构图解**：
+> ```
+> 主句: [A rather similar process of differentiation + has led to + professional geologists coming together]
+>   ├── 介短: of differentiation → 修饰 process
+>   ├── 副词: nationally → 地点/方式
+>   └── 介短: within one or two specific societies → 范围
+> └── whereas（对比连词）
+>       └── 从句: [the amateurs + have tended + either...or...]
+>             ├── 不定式 1: to remain in local societies
+>             └── 不定式 2: to come together nationally in a different way
+> ```
+>
+> **参考译文**：
+> 一个颇为相似的分化过程导致专业地质学家在全国范围内聚集到一两个特定学会中，而业余爱好者则要么留在地方学会，要么以不同的方式在全国范围内聚集。
+>
+> **考点提示**：
+> > [!tip] whereas 对比结构 & lead to + 动名词复合结构 & either...or... 并列不定式
+> > **whereas 对比结构**：连接前后两个对比分句，相当于"而/然而"。前后主语不同（professional geologists vs amateurs），谓语不同（has led to vs have tended），形成鲜明对比。考研阅读中看到 whereas 立即锁定对比双方。
+> >
+> > **lead to + 动名词复合结构**：`lead to professional geologists coming together` — lead to 是介词短语（to 是介词），后接动名词复合结构（逻辑主语 + doing）。professional geologists 是 coming together 的逻辑主语。
+> >
+> > **either...or... 并列不定式**：`either to remain...or to come together...` 两个不定式短语并列作 tend 的宾语。注意形式完全对称（不定式 + 介短），考研写作可模仿。
 
 (1)Although the process of professionalisation and specialization was already well under way in British geology during the nineteenth century, its full consequences were thus delayed until the twentieth century. (2)In science generally, however, the nineteenth century must be reckoned as the crucial period for this change in the structure of science.
 
