@@ -36,9 +36,112 @@ related:
 
 # Specialization and Professionalisation in Science
 
-(1)**Specialization** can be seen as a response to the problem of an increasing accumulation of scientific knowledge. (2)By splitting up the subject matter into smaller units, one man could continue to handle the information and use it as the basis for further research. (3)But specialization was only one of a series of related developments in science affecting the process of communication. (4)Another was the growing **professionalisation** of scientific activity.
+(1)**Specialization** can be seen as a response to the problem of an increasing accumulation of scientific knowledge. (2)By splitting up the **subject matter** into smaller units, one man could continue to handle the information and use it as the basis for further research. (3)But specialization was only one of a series of related developments in science affecting the process of communication. (4)Another was the growing **professionalisation** of scientific activity.
 
-(1)No clear-cut distinction can be drawn between **professionals** and **amateurs** in science: exceptions can be found to any rule. (2)Nevertheless, the word "amateur" does carry a connotation that the person concerned is not fully integrated into the scientific community and, in particular, may not fully share its values. (3)The growth of specialization in the nineteenth century, with its consequent requirement of a longer, more complex training, implied greater problems for amateur participation in science. (4)The trend was naturally most obvious in those areas of science based especially on a mathematical or laboratory training, and can be illustrated in terms of the development of geology in the United Kingdom.
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - **S (主语)**: Specialization
+> - **V (谓语)**: can be seen
+> - **C (主语补足语)**: as a response
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介短 | as a response | 主语补足语 |
+> | 介短 | to the problem | 修饰 response |
+> | 介短 | of an increasing accumulation | 修饰 problem |
+> | 介短 | of scientific knowledge | 修饰 accumulation |
+>
+> **结构图解**：
+> ```
+> Specialization can be seen [as a response [to the problem [of an increasing accumulation [of scientific knowledge]]]]
+> 主句: Specialization + can be seen + as a response
+>   └── 介短: as a response → 主语补足语
+>         └── 介短: to the problem → 修饰 response
+>               └── 介短: of an increasing accumulation → 修饰 problem
+>                     └── 介短: of scientific knowledge → 修饰 accumulation
+> ```
+>
+> **参考译文**：
+> 专业化可以被视为对科学知识不断积累这一问题的回应。
+>
+> **考点提示**：
+> > [!tip] 被动语态 + 多层 of 介词短语嵌套
+> > **can be seen as** 是被动语态 + 介词补足结构，as 引出主语补足语。考研阅读中 be seen/regarded/considered as 是高频搭配。
+> >
+> > **多层 of 短语嵌套**：四层 of 短语链（response → problem → accumulation → knowledge）形成长修饰链。阅读策略：从右往左拆解翻译——"科学知识的不断积累的问题的回应" → 转化为通顺中文："对科学知识不断积累这一问题的回应"。
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - **S (主语)**: one man
+> - **V (谓语)**: could continue
+> - **O (宾语)**: to handle the information and use it as the basis for further research（不定式短语）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介短（方式状语） | By | 主句整体 |
+> | 介短 | into | 修饰 splitting up |
+> | 介短 | as | use 的宾语补足语 |
+> | 介短 | for | 修饰 basis |
+>
+> **结构图解**：
+> ```
+> By splitting up the subject matter [into smaller units],
+>   └── 介短: By + 动名词短语 → 方式状语
+>         └── into smaller units → 修饰 splitting up
+> 主句: one man could continue [to handle the information and use it as the basis for further research]
+>   └── 不定式: to handle...and use... → continue 的宾语
+>         ├── handle the information
+>         └── use it [as the basis [for further research]]
+>               ├── as the basis → 宾语补足语
+>               └── for further research → 修饰 basis
+> ```
+>
+> **参考译文**：
+> 通过将学科内容细分为更小的单元，个人得以继续处理这些信息，并将其作为进一步研究的基础。
+>
+> **考点提示**：
+> > [!tip] By + doing 方式状语 & 逻辑主语绑定
+> > 介词 By 后接动名词（splitting up）作方式状语。注意 **By doing 的逻辑主语必须等于主句主语**（此处为 one man），考研写作中常因违反此规则出现"悬垂分词"错误。
+> >
+> > **并列不定式省略**：to handle...and (to) use... 第二个不定式符号 to 已省略。识别方法：and 连接两个并列的动词不定式时第二个 to 可省略。
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - **S (主语)**: specialization
+> - **V (谓语)**: was
+> - **C (表语)**: only one（限定范围：of a series of related developments...）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介短 | of a series of related developments | 修饰 one（限定范围） |
+> | 介短 | in science | 修饰 developments |
+> | 非谓语（现在分词） | affecting the process of communication | 修饰 developments |
+>
+> **结构图解**：
+> ```
+> But (转折连词)
+> 主句: specialization was only one
+>   └── 介短: of a series of related developments → 范围限定
+>         ├── 介短: in science → 后置定语修饰 developments
+>         └── 现在分词短语: affecting the process of communication → 后置定语修饰 developments
+> ```
+>
+> **参考译文**：
+> 但专业化只是影响交流过程的科学领域一系列相关发展之一。
+>
+> **考点提示**：
+> > [!tip] 现在分词短语作后置定语
+> > **affecting the process of communication** 是现在分词短语作后置定语，修饰 developments，相当于定语从句 "that affect..."。判断标准：developments 与 affect 是主动关系，故用现在分词。
+> >
+> > **But 的逻辑信号功能**：But 与上句转折——前面说 specialization 是"回应问题"，这里转折说"它只是一系列发展之一"。考研阅读中 But 后的内容常蕴含作者真实观点。
+
+(1)No **clear-cut** distinction can be drawn between **professionals** and **amateurs** in science: exceptions can be found to any rule. (2)Nevertheless, the word "amateur" does carry a connotation that the person concerned is not fully integrated into the scientific community and, in particular, may not fully share its values. (3)The growth of specialization in the nineteenth century, with its consequent requirement of a longer, more complex training, implied greater problems for amateur participation in science. (4)The trend was naturally most obvious in those areas of science based especially on a mathematical or laboratory training, and can be illustrated in terms of the development of geology in the United Kingdom.
 
 (1)A comparison of British geological publications over the last century and a half reveals not simply an increasing emphasis on the primacy of research, but also a changing definition of what constitutes an acceptable research paper. (2)Thus, in the nineteenth century, local geological studies represented worthwhile research in their own right; but, in the twentieth century, local studies have increasingly become acceptable to professionals only if they incorporate, and reflect on, the wider geological picture. (3)**Amateurs**, on the other hand, have continued to pursue local studies in the old way. (4)The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century. (5)As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership. (6)A rather similar process of differentiation has led to professional geologists coming together nationally within one or two specific societies, whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way.
 
