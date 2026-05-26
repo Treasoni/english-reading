@@ -352,7 +352,7 @@ related:
 > >
 > > **逗号分隔并列谓语**：`incorporate, and reflect on,` 中 and reflect on 被逗号隔开，阅读时跳过逗号识别 incorporate 和 reflect on 的并列关系。
 
-(3)**Amateurs**, on the other hand, have continued to pursue local studies **in the old way**. (4)The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century.
+(3)**Amateurs**, on the other hand, have continued to pursue local studies **in the old way**. (4)The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of **refereeing**, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century.
 
 > [!abstract]- 长难句分析
 > **主干提取**：
