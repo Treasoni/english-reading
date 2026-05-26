@@ -297,7 +297,7 @@ related:
 > >
 > > **长主语策略**：主语 "A comparison...century and a half" 长达 10+ 词，谓语 reveals 在句末。阅读时先快速扫过修饰成分定位谓语动词。
 
-(2)Thus, in the nineteenth century, local geological studies **represented** worthwhile research in their own right; but, in the twentieth century, local studies have increasingly become acceptable to professionals only if they incorporate, and reflect on, the wider geological picture.
+(2)Thus, in the nineteenth century, local geological studies **represented** worthwhile research in their own right; but, in the twentieth century, local studies have increasingly become acceptable to professionals only if they **incorporate**, and reflect on, the wider **geological** picture.
 
 > [!abstract]- 长难句分析
 > **主干提取**：
@@ -352,7 +352,48 @@ related:
 > >
 > > **逗号分隔并列谓语**：`incorporate, and reflect on,` 中 and reflect on 被逗号隔开，阅读时跳过逗号识别 incorporate 和 reflect on 的并列关系。
 
-(3)**Amateurs**, on the other hand, have continued to pursue local studies **in the old way**. (4)The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century. (5)As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership. (6)A rather similar process of differentiation has led to professional geologists coming together nationally within one or two specific societies, whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way.
+(3)**Amateurs**, on the other hand, have continued to pursue local studies **in the old way**. (4)The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century.
+
+> [!abstract]- 长难句分析
+> **主干提取**：
+> - **S (主语)**: The overall result
+> - **V (谓语)**: has been（系动词）
+> - **C (表语)**: to make entrance to professional geological journals harder for amateurs（不定式短语）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 同位语 | a result | 补充说明 the overall result |
+> | 定语从句 | that | 修饰 a result |
+> | 介短（被动动作执行者） | by the widespread introduction of refereeing | 修饰 has been reinforced |
+> | 并列状语 | first by..., and then by... | 说明 refereeing 的引入者 |
+>
+> **结构图解**：
+> ```
+> 主句: [The overall result + has been + to make entrance...harder for amateurs]
+>   └── 不定式短语作表语: to make entrance harder
+>         ├── O: entrance
+>         │     └── 介短: to professional geological journals → 修饰 entrance
+>         ├── C: harder（宾语补足语）
+>         └── 介短: for amateurs → 对象状语
+>   └── 同位语: a result（对主句总结说明）
+>         └── 定从: that has been reinforced by...
+>               └── 并列状语: first by national journals in the 19th c., and then by local journals in the 20th c.
+> ```
+>
+> **参考译文**：
+> 总体结果是，业余爱好者进入专业地质学期刊的门槛变得更高，而审稿制度的广泛引入又加剧了这一结果——先是 19 世纪的国家级期刊，然后是 20 世纪的一些地方地质学期刊。
+>
+> **考点提示**：
+> > [!tip] 不定式短语作表语 & make + O + C 使动结构 & 概括性同位语
+> > **不定式短语作表语**：`to make entrance...harder` 在 be 动词后作表语（说明"结果是什么"），不是目的状语。区分方法：be to do 结构常表"计划/命运/结果"。
+> >
+> > **make + O + C（宾语 + 宾补）**：`make entrance harder` 中 entrance 是宾语，harder（形容词比较级）是宾补。考研中 make it + adj. + to do 是高频结构。
+> >
+> > **概括性同位语 + 定语从句**：`a result that has been reinforced...` 是对前文 the overall result 的概括性重复（summarizing appositive），后面再跟定语从句展开说明。这种结构常用于学术写作，阅读时直接将其视为对前文的补充解释。
+
+(5)As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership. (6)A rather similar process of differentiation has led to professional geologists coming together nationally within one or two specific societies, whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way.
 
 (1)Although the process of professionalisation and specialization was already well under way in British geology during the nineteenth century, its full consequences were thus delayed until the twentieth century. (2)In science generally, however, the nineteenth century must be reckoned as the crucial period for this change in the structure of science.
 
