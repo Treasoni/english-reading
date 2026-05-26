@@ -25,7 +25,21 @@ concepts:
 
 ---
 
-### 非谓语动词：动名词 (Non-finite Verbs: Gerunds)
+## 本文语法点速览
+
+| 语法点 | 原文位置 | 核心功能 |
+|--------|----------|----------|
+| By doing sth 方式状语 | Para 1(2) | 交代主句动作的实现方式 |
+| Another vs The other | Para 1(4) | 泛指"另一个" vs 特指"剩下的那个" |
+| Nevertheless | Para 2(2) | 强烈转折"尽管如此" |
+| In one's own right | Para 4(2) | 强调"凭自身本事/本身就" |
+| Whereas | Para 4(6) | 对比"然而/反之" |
+| 半否定词 (little/few) | Para 2(1) / 题干 | 暗含否定，表"几乎没有" |
+| Either...or... | Para 4(6) | 二选一"要么…要么…" |
+
+---
+
+### 一、非谓语动词：动名词 (Non-finite Verbs: Gerunds)
 
 > [!warning] 悬垂分词陷阱
 > **By doing sth 的逻辑主语必须与主句主语一致**，否则造成"悬垂分词"错误。主句的主语必须是 doing 这个动作的执行者。
@@ -41,9 +55,15 @@ concepts:
 > [!note] 黄金定律
 > 介词（By）后面绝对不能接动词原形。如果要表达动作，必须加 `-ing` 变为动名词。这与 `Instead of doing` 等结构同理。
 
+#### 本文实例 [Para 1(2)]
+
+> By splitting up the subject matter into smaller units, one man could continue to handle the information...
+
+> 解析：拆分学科内容这个动作是由 one man 发出的，与主句主语一致。
+
 ---
 
-### 代词辨析：Another vs The other (Pronoun Usage)
+### 二、代词辨析：Another vs The other (Pronoun Usage)
 
 > [!tip] 核心逻辑：看透 The 与 An
 > - **The**（定冠词）→ 特指、唯一剩下的。范围内东西已分配完，这是最后兜底的那个。
@@ -54,9 +74,15 @@ concepts:
 | **One..., the other...** | = 2 | 拿走一个，剩下的唯一那个是确定的 → 用 the | I have two cats. One is white, and **the other** is black. |
 | **One..., another..., (the other...)** | ≥ 3 | 拿走一个后还有多个，随便再挑一个 → another；拿到最后一个 → the other | I have three pens. One is red, **another** is blue, and **the other** is black. |
 
+#### 本文实例 [Para 1(4)]
+
+> Specialization was only one of a series of related developments... **Another** was the growing professionalisation of scientific activity.
+
+> 解析：一系列发展中的"另一个"（总数 ≥ 3，泛指）
+
 ---
 
-### 介词与连词：转折副词 Nevertheless (Conjunctive Adverbs)
+### 三、介词与连词：转折副词 Nevertheless (Conjunctive Adverbs)
 
 > [!tip] 词源记忆：never the less
 > Nevertheless = **never the less**，字面逻辑是"尽管前面那样说，但这并没有减少后面这件事的真实性"。理解词源有助于在阅读中快速捕捉其强烈转折的语气。
@@ -74,11 +100,17 @@ concepts:
 | **Nevertheless / However** | 副词 | ❌ 不能连接两个独立句子 | It was raining; **nevertheless**, we went out. ✅（用分号） |
 
 > [!note] 联动复习
-> 与 `Whereas`（对比连词）对比学习：**Nevertheless** 是副词表转折，**Whereas** 是从属连词表对比。前者不能连接句子（需分号），后者可以连接分句。→ 参见 [对比连词 Whereas](#介词与连词对比连词-whereas-contrastive-conjunctions)
+> 与 `Whereas`（对比连词）对比学习：**Nevertheless** 是副词表转折，**Whereas** 是从属连词表对比。前者不能连接句子（需分号），后者可以连接分句。→ 参见 [对比连词 Whereas](#五介词与连词对比连词-whereas-contrastive-conjunctions)
+
+#### 本文实例 [Para 2(2)]
+
+> ...exceptions can be found to any rule. **Nevertheless**, the word "amateur" does carry a connotation that...
+
+> 解析：前句说"任何规则都有例外"，Nevertheless 引出转折"尽管如此，业余爱好者这个词确实带有某种含义"。
 
 ---
 
-### 固定搭配：in one's own right (Fixed Collocations)
+### 四、固定搭配：In one's own right (Fixed Collocations)
 
 > [!tip] 语法拆解
 > in (在……之中) + one's own (某人自己的) + right (正当资格 / 理所当然的地位)
@@ -103,9 +135,15 @@ concepts:
 > - 人作主语 → "凭自身的努力 / 靠自己的真本事"
 > - 物作主语 → "本身就…… / 自身就具备……的资格"
 
+#### 本文实例 [Para 4(2)]
+
+> ...local geological studies represented worthwhile research **in their own right**
+
+> 解析：地方地质研究"凭其自身"就是有价值的研究，不依赖于其他更宏大的研究框架。
+
 ---
 
-### 介词与连词：对比连词 Whereas (Contrastive Conjunctions)
+### 五、介词与连词：对比连词 Whereas (Contrastive Conjunctions)
 
 > [!warning] Whereas ≠ Although：对比 vs 让步
 > - **Although / Though**（让步）：强调妥协和矛盾。前面的条件对结果产生阻碍，但结果依然发生。
@@ -125,11 +163,17 @@ concepts:
 > [!tip] 阅读细节题雷达
 > 看到 `Whereas` 立刻锁定其前后的**两个对比对象**及其**不同特征**。出题人喜欢在选项里"张冠李戴"——把 A 的特征安在 B 身上。用 Whereas 划清界限即可秒杀。
 >
-> **联动复习**：`Whereas` 是从属连词，可以连接分句；`Nevertheless` 是副词，不能连接句子，需要用分号。→ 参见 [转折副词 Nevertheless](#介词与连词转折副词-nevertheless-conjunctive-adverbs)
+> **联动复习**：`Whereas` 是从属连词，可以连接分句；`Nevertheless` 是副词，不能连接句子，需要用分号。→ 参见 [转折副词 Nevertheless](#三介词与连词转折副词-nevertheless-conjunctive-adverbs)
+
+#### 本文实例 [Para 4(6)]
+
+> ...professional geologists coming together nationally within one or two specific societies, **whereas** the amateurs have tended either to remain in local societies or to come together nationally in a different way.
+
+> 解析：专业地质学家的行为 vs 业余爱好者的行为 → 形成鲜明对比。
 
 ---
 
-### 补充要点：半否定词 (Semi-negatives)
+### 六、补充要点：半否定词 (Semi-negatives)
 
 > [!tip] 阅读与翻译"双标"原则
 > - **阅读理解**：看到 `little` / `few`，直接替换成 `not`，将其处理为完全否定逻辑。
@@ -154,11 +198,17 @@ concepts:
 > 例：We **seldom** receive such requests. → "我们极少收到这种请求"（大脑直译逻辑："没有收到过"）
 
 > [!tip] 联动复习
-> 暗含否定与 [Neither...nor...](#介词与连词并列连词-eitheroror-correlative-conjunctions) 同为"不直接使用 not"的否定手段，但前者是程度副词（减弱语气），后者是连词结构（全部排除）。
+> 暗含否定与 [Neither...nor...](#七介词与连词并列连词-eitheroror-correlative-conjunctions) 同为"不直接使用 not"的否定手段，但前者是程度副词（减弱语气），后者是连词结构（全部排除）。
+
+#### 本文实例 [Para 2(1) / 题干]
+
+> No clear-cut distinction can be drawn between professionals and amateurs in science: exceptions can be found to any rule.
+
+> 解析：`No clear-cut distinction` = 完全否定，相当于 `There is not any clear-cut distinction`。这是文章开篇的否定起点——先否定"存在明确界限"，再引出后面的转折和对比。
 
 ---
 
-### 介词与连词：并列连词 Either...or... (Correlative Conjunctions)
+### 七、介词与连词：并列连词 Either...or... (Correlative Conjunctions)
 
 > [!warning] 致命陷阱一："照妖镜"级别的绝对并列
 > Either...or... 连接的两部分在语法形式上必须**绝对对称**，就像 `rather than` 和 `and`。
@@ -181,3 +231,9 @@ concepts:
 
 > [!tip] 阅读长难句拆解法
 > 遇到 `Either`，眼睛立刻向后扫去找对应的 `or`。找到后画出 A 和 B 的边界，不管中间塞了多少废话，只需翻译成："要么是 [A核心]，要么是 [B核心]"。
+
+#### 本文实例 [Para 4(6)]
+
+> ...the amateurs have tended **either** to remain in local societies **or** to come together nationally in a different way.
+
+> 解析：业余爱好者的两种倾向——"要么留在地方学会，要么以不同方式在全国层面联合"。either 和 or 连接的是两个 `to do` 结构，形式完全对称。
