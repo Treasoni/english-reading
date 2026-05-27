@@ -11,7 +11,7 @@ updated: 2026-05-27
 sources:
   - 2001年考研英语阅读 Passage 2
 ---
-
+ 
 A great deal of attention is being paid today to the so-called **digital divide**—the division of the world into the **info rich** and the **info poor**. And that divide does exist today. My wife and I lectured about this looming danger twenty years ago. What was less visible then, however, were the new, positive forces that work against the digital divide. There are reasons to be optimistic.
 
 There are technological reasons to hope the digital divide will narrow. As the Internet becomes more and more commercialized, it is in the interest of business to universalize access—after all, the more people online, the more potential customers there are. More and more governments, afraid their countries will be left behind, want to spread Internet access. Within the next decade or two, one to two billion people on the planet will be netted together. As a result, I now believe the digital divide will narrow rather than widen in the years ahead. And that is very good news because the Internet may well be the most powerful tool for combating world poverty that we've ever had.
