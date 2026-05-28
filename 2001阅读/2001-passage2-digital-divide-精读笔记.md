@@ -73,6 +73,45 @@ There are technological reasons to hope the digital divide will narrow. As the I
 > 4. **破折号 + after all**：插入语，补充说明原因，考试中常省略不影响主句理解
 > 5. **in the interest of**：固定搭配，意为"符合……的利益"
 
+> [!abstract]- 长难句分析
+> **主干提取**：I believe the digital divide will narrow / that is very good news
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 插入语 | As a result | 句首，表结果 |
+> | 宾语从句 | that（省略） | believe 的宾语 |
+> | 对比结构 | rather than | narrow 的对比项 |
+> | 原因状语从句 | because | 主句整体 |
+> | 固定搭配 | may well | 谓语，表示推测 |
+> | 定语从句 | that | 修饰 tool |
+>
+> **结构图解**：
+> ```
+> 句子1: [I] + [believe] + [宾语从句]
+>   ├── 插入语: (As a result) → 表示结果
+>   └── 宾从: (the digital divide will narrow rather than widen)
+>         └── 对比: (rather than widen) → 否定对比
+>
+> 句子2: [that] + [is] + [very good news]
+>   └── 状从: (because the Internet may well be the most powerful tool ...)
+>         ├── 谓语: may well be
+>         ├── 表语: the most powerful tool
+>         │     ├── 介短: (for combating world poverty) → 后置定语
+>         │     └── 定从: (that we've ever had) → 修饰 tool
+>         └── 定从: that we've ever had
+>               └── 谓语: 've had（现在完成时）
+> ```
+>
+> **参考译文**：因此，我现在相信数字鸿沟在未来几年会缩小而非扩大。这是个好消息，因为互联网很可能是我们迄今拥有的对抗世界贫困的最有力工具。
+>
+> **考点提示**：
+> 1. **省略 that 的宾语从句**：believe 后省略 that，考研阅读中极常见
+> 2. **rather than 对比结构**：表示"而不是"，连接两个并列成分
+> 3. **may well**：表示推测，意为"很可能是"，比 may 语气更强
+> 4. **最高级 + 定语从句**：the most powerful tool ... that we've ever had，定从限定最高级范围
+
 Of course, the use of the Internet isn't the only way to defeat poverty. And the Internet is not the only tool we have. But it has enormous potential.
 
 To take advantage of this tool, some impoverished countries will have to get over their outdated **anti-colonial prejudices** with respect to foreign investment. Countries that still think foreign investment is an invasion of their sovereignty might well study the history of **infrastructure** (the basic structural foundations of a society) in the United States. When the United States built its industrial infrastructure, it didn't have the **capital** to do so. And that is why America's Second Wave infrastructure—including roads, harbors, highways, ports and so on—were built with foreign investment. The English, the Germans, the Dutch and the French were investing in Britain's former colony. They financed them. Immigrant Americans built them. Guess who owns them now? The Americans. I believe the same thing would be true in places like Brazil or anywhere else for that **matter**. The more foreign capital you have helping you build your Third Wave infrastructure, which today is an electronic infrastructure, the better off you're going to be. That doesn't mean lying down and becoming fooled, or letting foreign corporations run uncontrolled. But it does mean recognizing how important they can be in building the energy and telecom infrastructures needed to take full advantage of the Internet.
