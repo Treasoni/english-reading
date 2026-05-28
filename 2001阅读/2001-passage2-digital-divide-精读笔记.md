@@ -67,6 +67,39 @@ There are technological reasons to hope the digital divide will narrow. As the I
 > - "netted together" 译为"被网络连接在一起"，形象表达互联网的连接作用
 > - "may well be" 表示推测语气，译为"很可能是"
 
+> [!abstract]- 长难句分析
+> **主干提取**：it is in the interest of business to universalize access
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 状语从句 | As（原因/时间） | 主句整体 |
+> | 不定式（真正主语） | to | 形式主语 it |
+> | 介词短语 | in the interest of | 作表语 |
+> | 插入语 | after all（破折号） | 补充原因 |
+> | 比较结构 | the more...the more... | 补充说明 |
+>
+> **结构图解**：
+> ```
+> 主句: [it] + [is] + [in the interest of business] + [to universalize access]
+>   ├── 状从: (As the Internet becomes more and more commercialized) → 原因/时间状语
+>   │     └── 补语: (more and more commercialized) → 系表结构
+>   ├── 插入语: (after all) → 补充原因说明
+>   └── 比较结构: (the more people online, the more potential customers there are)
+>         ├── the more people online → 条件
+>         └── the more potential customers there are → 结果
+> ```
+>
+> **参考译文**：随着互联网日益商业化，普及网络接入符合商业利益——毕竟，上网的人越多，潜在客户就越多。
+>
+> **考点提示**：
+> 1. **形式主语 it**：`it is + adj/n + to do` 结构，it 代替后面的不定式作形式主语
+> 2. **As 引导的原因/时间状语从句**：As 在此表示"随着"，强调时间推移的同时也暗含因果
+> 3. **the more...the more... 比较结构**：表示"越……越……"的正比关系
+> 4. **破折号 + after all**：插入语，补充说明原因，考试中常省略不影响主句理解
+> 5. **in the interest of**：固定搭配，意为"符合……的利益"
+
 ---
 
 Of course, the use of the Internet isn't the only way to defeat poverty. And the Internet is not the only tool we have. But it has enormous potential.
