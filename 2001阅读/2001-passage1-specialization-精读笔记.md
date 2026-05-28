@@ -826,25 +826,25 @@ related:
 
 ## 生词表
 
-| 词汇 | 词性 | 含义 | 原文例句 |
-|------|------|------|----------|
-| **amateurs** | n. | 业余爱好者 | "No clear-cut distinction can be drawn between **professionals** and **amateurs** in science." |
-| **clear-cut** | adj. | 明确的；清晰的 | "No **clear-cut** distinction can be drawn between professionals and amateurs in science." |
-| **connotation** | n. | 含义；内涵 | "Nevertheless, the word 'amateur' does carry a **connotation** that the person concerned is not fully integrated into the scientific community." |
-| **constitutes** | v. | 构成；组成 | "...a changing definition of what **constitutes** an acceptable research paper." |
-| **differentiation** | n. | 分化；区别 | "A rather similar process of **differentiation** has led to professional geologists coming together nationally..." |
-| **geological** | adj. | 地质的 | "...only if they incorporate, and reflect on, the wider **geological** picture." |
-| **geology** | n. | 地质学 | "...can be illustrated in terms of the development of **geology** in the United Kingdom." |
-| **in terms of** | prep. phrase | 通过……；就……而言 | "...can be illustrated **in terms of** the development of geology in the United Kingdom." |
-| **in the old way** | phrase | 以旧的方式 | "...have continued to pursue local studies **in the old way**." |
-| **incorporate** | v. | 纳入；包含 | "...only if they **incorporate**, and reflect on, the wider geological picture." |
-| **professionalisation** | n. | 职业化 | "Another was the growing **professionalisation** of scientific activity." |
-| **professionals** | n. | 专业人士 | "No clear-cut distinction can be drawn between **professionals** and amateurs in science." |
-| **reckoned** | v. | 被认为；看作 | "...the nineteenth century must be **reckoned** as the crucial period..." |
-| **refereeing** | n. | 审稿制度；同行评审 | "...a result that has been reinforced by the widespread introduction of **refereeing**..." |
-| **represented** | v. | 代表；体现 | "...local geological studies **represented** worthwhile research in their own right." |
-| **Specialization** | n. | 专业化 | "**Specialization** can be seen as a response to the problem of an increasing accumulation of scientific knowledge." |
-| **subject matter** | n. | 学科内容；主题 | "By splitting up the **subject matter** into smaller units..."
+| 词汇                      | 词性           | 含义         | 原文例句                                                                                                                                             |
+| ----------------------- | ------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **amateurs**            | n.           | 业余爱好者      | "No clear-cut distinction can be drawn between **professionals** and **amateurs** in science."                                                   |
+| **clear-cut**           | adj.         | 明确的；清晰的    | "No **clear-cut** distinction can be drawn between professionals and amateurs in science."                                                       |
+| **connotation**         | n.           | 含义；内涵      | "Nevertheless, the word 'amateur' does carry a **connotation** that the person concerned is not fully integrated into the scientific community." |
+| **constitutes**         | v.           | 构成；组成      | "...a changing definition of what **constitutes** an acceptable research paper."                                                                 |
+| **differentiation**     | n.           | 分化；区别      | "A rather similar process of **differentiation** has led to professional geologists coming together nationally..."                               |
+| **geological**          | adj.         | 地质的        | "...only if they incorporate, and reflect on, the wider **geological** picture."                                                                 |
+| **geology**             | n.           | 地质学        | "...can be illustrated in terms of the development of **geology** in the United Kingdom."                                                        |
+| **in terms of**         | prep. phrase | 通过……；就……而言 | "...can be illustrated **in terms of** the development of geology in the United Kingdom."                                                        |
+| **in the old way**      | phrase       | 以旧的方式      | "...have continued to pursue local studies **in the old way**."                                                                                  |
+| **incorporate**         | v.           | 纳入；包含      | "...only if they **incorporate**, and reflect on, the wider geological picture."                                                                 |
+| **professionalisation** | n.           | 职业化        | "Another was the growing **professionalisation** of scientific activity."                                                                        |
+| **professionals**       | n.           | 专业人士       | "No clear-cut distinction can be drawn between **professionals** and amateurs in science."                                                       |
+| **reckoned**            | v.           | 被认为；看作     | "...the nineteenth century must be **reckoned** as the crucial period..."                                                                        |
+| **refereeing**          | n.           | 审稿制度；同行评审  | "...a result that has been reinforced by the widespread introduction of **refereeing**..."                                                       |
+| **represented**         | v.           | 代表；体现      | "...local geological studies **represented** worthwhile research in their own right."                                                            |
+| **Specialization**      | n.           | 专业化        | "**Specialization** can be seen as a response to the problem of an increasing accumulation of scientific knowledge."                             |
+| **subject matter**      | n.           | 学科内容；主题    | "By splitting up the **subject matter** into smaller units..."                                                                                   |
 
 ## 心得
 
