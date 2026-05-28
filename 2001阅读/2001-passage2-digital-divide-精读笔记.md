@@ -40,33 +40,6 @@ A great deal of attention is being paid today to the so-called **digital divide*
 
 There are technological reasons to hope the digital divide will narrow. As the Internet becomes more and more **commercialized**, it is in the interest of business to universalize access—after all, the more people online, the more potential customers there are. More and more governments, afraid their countries will be left behind, want to spread Internet access. Within the next decade or two, one to two billion people on the planet will be netted together. As a result, I now believe the digital divide will narrow rather than widen in the years ahead. And that is very good news because the Internet may well be the most powerful tool for combating world poverty that we've ever had.
 
-Of course, the use of the Internet isn't the only way to defeat poverty. And the Internet is not the only tool we have. But it has enormous potential.
-
-To take advantage of this tool, some impoverished countries will have to get over their outdated **anti-colonial prejudices** with respect to foreign investment. Countries that still think foreign investment is an invasion of their sovereignty might well study the history of **infrastructure** (the basic structural foundations of a society) in the United States. When the United States built its industrial infrastructure, it didn't have the capital to do so. And that is why America's Second Wave infrastructure—including roads, harbors, highways, ports and so on—were built with foreign investment. The English, the Germans, the Dutch and the French were investing in Britain's former colony. They financed them. Immigrant Americans built them. Guess who owns them now? The Americans. I believe the same thing would be true in places like Brazil or anywhere else for that matter. The more foreign capital you have helping you build your Third Wave infrastructure, which today is an electronic infrastructure, the better off you're going to be. That doesn't mean lying down and becoming fooled, or letting foreign corporations run uncontrolled. But it does mean recognizing how important they can be in building the energy and telecom infrastructures needed to take full advantage of the Internet.
-
----
-
-## 翻译对照
-
-A great deal of attention is being paid today to the so-called **digital divide**—the division of the world into the **info rich** and the **info poor**. And that divide does exist today. My wife and I lectured about this looming danger twenty years ago. What was less visible then, however, were the new, positive forces that work against the digital divide. There are reasons to be optimistic.
-
-如今，人们正密切关注着所谓的**数字鸿沟**——即世界被划分为**信息富有者**和**信息贫困者**。这种鸿沟如今确实存在。二十年前，我和妻子曾就这一迫在眉睫的危险发表过演讲。然而，当时不太为人所见的是，对抗数字鸿沟的新的积极力量正在形成。我们有理由保持乐观。
-
-> [!note] 翻译说明
-> - "looming danger" 译为"迫在眉睫的危险"，强调危险的紧迫性
-> - "info rich/poor" 采用直译"信息富有者/贫困者"，保留原文对比
-
----
-
-There are technological reasons to hope the digital divide will narrow. As the Internet becomes more and more commercialized, it is in the interest of business to universalize access—after all, the more people online, the more potential customers there are. More and more governments, afraid their countries will be left behind, want to spread Internet access. Within the next decade or two, one to two billion people on the planet will be netted together. As a result, I now believe the digital divide will narrow rather than widen in the years ahead. And that is very good news because the Internet may well be the most powerful tool for combating world poverty that we've ever had.
-
-有技术原因让我们相信数字鸿沟会缩小。随着互联网日益商业化，普及网络接入符合企业利益——毕竟，上网的人越多，潜在客户就越多。越来越多的政府担心自己的国家被甩在后面，因此希望推广互联网接入。在未来一二十年内，地球上将有十亿到二十亿人被网络连接在一起。因此，我现在相信数字鸿沟在未来几年会缩小而非扩大。这是个好消息，因为互联网很可能是我们迄今拥有的对抗世界贫困的最有力工具。
-
-> [!note] 翻译说明
-> - "universalize access" 译为"普及网络接入"，比"普遍化访问"更符合中文表达
-> - "netted together" 译为"被网络连接在一起"，形象表达互联网的连接作用
-> - "may well be" 表示推测语气，译为"很可能是"
-
 > [!abstract]- 长难句分析
 > **主干提取**：it is in the interest of business to universalize access
 >
@@ -99,6 +72,33 @@ There are technological reasons to hope the digital divide will narrow. As the I
 > 3. **the more...the more... 比较结构**：表示"越……越……"的正比关系
 > 4. **破折号 + after all**：插入语，补充说明原因，考试中常省略不影响主句理解
 > 5. **in the interest of**：固定搭配，意为"符合……的利益"
+
+Of course, the use of the Internet isn't the only way to defeat poverty. And the Internet is not the only tool we have. But it has enormous potential.
+
+To take advantage of this tool, some impoverished countries will have to get over their outdated **anti-colonial prejudices** with respect to foreign investment. Countries that still think foreign investment is an invasion of their sovereignty might well study the history of **infrastructure** (the basic structural foundations of a society) in the United States. When the United States built its industrial infrastructure, it didn't have the capital to do so. And that is why America's Second Wave infrastructure—including roads, harbors, highways, ports and so on—were built with foreign investment. The English, the Germans, the Dutch and the French were investing in Britain's former colony. They financed them. Immigrant Americans built them. Guess who owns them now? The Americans. I believe the same thing would be true in places like Brazil or anywhere else for that matter. The more foreign capital you have helping you build your Third Wave infrastructure, which today is an electronic infrastructure, the better off you're going to be. That doesn't mean lying down and becoming fooled, or letting foreign corporations run uncontrolled. But it does mean recognizing how important they can be in building the energy and telecom infrastructures needed to take full advantage of the Internet.
+
+---
+
+## 翻译对照
+
+A great deal of attention is being paid today to the so-called **digital divide**—the division of the world into the **info rich** and the **info poor**. And that divide does exist today. My wife and I lectured about this looming danger twenty years ago. What was less visible then, however, were the new, positive forces that work against the digital divide. There are reasons to be optimistic.
+
+如今，人们正密切关注着所谓的**数字鸿沟**——即世界被划分为**信息富有者**和**信息贫困者**。这种鸿沟如今确实存在。二十年前，我和妻子曾就这一迫在眉睫的危险发表过演讲。然而，当时不太为人所见的是，对抗数字鸿沟的新的积极力量正在形成。我们有理由保持乐观。
+
+> [!note] 翻译说明
+> - "looming danger" 译为"迫在眉睫的危险"，强调危险的紧迫性
+> - "info rich/poor" 采用直译"信息富有者/贫困者"，保留原文对比
+
+---
+
+There are technological reasons to hope the digital divide will narrow. As the Internet becomes more and more commercialized, it is in the interest of business to universalize access—after all, the more people online, the more potential customers there are. More and more governments, afraid their countries will be left behind, want to spread Internet access. Within the next decade or two, one to two billion people on the planet will be netted together. As a result, I now believe the digital divide will narrow rather than widen in the years ahead. And that is very good news because the Internet may well be the most powerful tool for combating world poverty that we've ever had.
+
+有技术原因让我们相信数字鸿沟会缩小。随着互联网日益商业化，普及网络接入符合企业利益——毕竟，上网的人越多，潜在客户就越多。越来越多的政府担心自己的国家被甩在后面，因此希望推广互联网接入。在未来一二十年内，地球上将有十亿到二十亿人被网络连接在一起。因此，我现在相信数字鸿沟在未来几年会缩小而非扩大。这是个好消息，因为互联网很可能是我们迄今拥有的对抗世界贫困的最有力工具。
+
+> [!note] 翻译说明
+> - "universalize access" 译为"普及网络接入"，比"普遍化访问"更符合中文表达
+> - "netted together" 译为"被网络连接在一起"，形象表达互联网的连接作用
+> - "may well be" 表示推测语气，译为"很可能是"
 
 ---
 
