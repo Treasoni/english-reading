@@ -116,6 +116,76 @@ Of course, the use of the Internet isn't the only way to defeat poverty. And the
 
 To take advantage of this tool, some impoverished countries will have to get over their outdated **anti-colonial prejudices** with respect to foreign investment. Countries that still think foreign investment is an invasion of their sovereignty might well study the history of **infrastructure** (the basic structural foundations of a society) in the United States. When the United States built its industrial infrastructure, it didn't have the **capital** to do so. And that is why America's Second Wave infrastructure—including roads, harbors, highways, ports and so on—were built with foreign investment. The English, the Germans, the Dutch and the French were investing in Britain's former colony. They financed them. Immigrant Americans built them. Guess who owns them now? The Americans. I believe the same thing would be true in places like Brazil or anywhere else for that **matter**. The more foreign capital you have helping you build your Third Wave infrastructure, which today is an electronic infrastructure, the better off you're going to be. That doesn't mean lying down and becoming fooled, or letting foreign corporations run uncontrolled. But it does mean recognizing how important they can be in building the energy and telecom infrastructures needed to take full advantage of the Internet.
 
+> [!abstract]- 长难句分析
+> **主干提取**：The more capital ... the better off you're going to be
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | the more...the more... | - | 比较结构框架 |
+> | 现在分词短语 | helping | capital 的补语/伴随状语 |
+> | 非限定性定语从句 | which | 修饰 infrastructure |
+> | be going to | - | 谓语，表示将来 |
+>
+> **结构图解**：
+> ```
+> 比较结构: [The more foreign capital] ... [the better off you're going to be]
+>   ├── 前半部分（条件）:
+>   │     ├── 主语: you
+>   │     ├── 谓语: have
+>   │     ├── 宾语: foreign capital
+>   │     ├── 补语: helping you build your Third Wave infrastructure
+>   │     │     └── 逻辑主语: capital（资本"帮助"你建设）
+>   │     └── 非限定性定从: (which today is an electronic infrastructure)
+>   └── 后半部分（结果）:
+>         └── 表语: better off（更好的处境）
+> ```
+>
+> **参考译文**：你拥有的帮助你建设第三波基础设施的外国资本越多，你的处境就会越好。而第三波基础设施在今天就是电子基础设施。
+>
+> **考点提示**：
+> 1. **the more...the more... 比较结构**：表示"越……越……"的正比关系
+> 2. **现在分词作补语**：helping you build 补充说明 capital 的作用
+> 3. **非限定性定语从句**：which 引导，对 infrastructure 进行补充说明
+> 4. **better off**：固定搭配，意为"处境更好"
+
+> [!abstract]- 长难句分析
+> **主干提取**：it does mean recognizing
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 转折连词 | But | 句首，表转折 |
+> | 强调助动词 | does | 强调 mean |
+> | 动名词短语 | recognizing | 作宾语 |
+> | 宾语从句 | how important | recognizing 的宾语 |
+> | 过去分词短语 | needed | 修饰 infrastructures |
+> | 不定式短语 | to take | 目的状语 |
+>
+> **结构图解**：
+> ```
+> 主句: [it] + [does mean] + [recognizing ...]
+>   ├── 转折: (But) → 与前文形成对比
+>   ├── 强调: (does) → 强调"确实意味着"
+>   └── 动名词宾语: (recognizing how important they can be ...)
+>         └── 宾从: (how important they can be in building ...)
+>               ├── 主语: they（指代 foreign corporations）
+>               └── 介短: (in building the energy and telecom infrastructures ...)
+>                     ├── 宾语: the energy and telecom infrastructures
+>                     │     └── 后置定语: (needed to take full advantage ...)
+>                     └── 目的不定式: (to take full advantage of the Internet)
+> ```
+>
+> **参考译文**：但这确实意味着要认识到它们（外国企业）在建设充分利用互联网所需的能源和电信基础设施方面的重要性。
+>
+> **考点提示**：
+> 1. **does + 动词原形**：强调句型，表示"确实"
+> 2. **recognizing + 宾语从句**：动名词后接 what/how 引导的宾语从句
+> 3. **needed to take**：过去分词作后置定语，相当于 which are needed to take
+> 4. **take full advantage of**：固定搭配，意为"充分利用"
+
 ---
 
 ## 翻译对照
