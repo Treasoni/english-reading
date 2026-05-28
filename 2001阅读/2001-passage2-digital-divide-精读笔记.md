@@ -466,7 +466,20 @@ About、with respect to、in terms of 都是介词，后面**绝对不能接动�
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **anti-colonial prejudices** | n. | 反殖民偏见 | "some impoverished countries will have to get over their outdated **anti-colonial prejudices** with respect to foreign investment" |
+| **capital** | n. | 资本；资金 | "When the United States built its industrial infrastructure, it didn't have the **capital** to do so." |
+| **commercialized** | adj. | 商业化的 | "As the Internet becomes more and more **commercialized**, it is in the interest of business to universalize access" |
+| **digital divide** | n. | 数字鸿沟 | "A great deal of attention is being paid today to the so-called **digital divide**" |
+| **info poor** | n. | 信息贫困者 | "the division of the world into the info rich and the **info poor**" |
+| **info rich** | n. | 信息富有者 | "the division of the world into the **info rich** and the info poor" |
+| **infrastructure** | n. | 基础设施 | "Countries that still think foreign investment is an invasion of their sovereignty might well study the history of **infrastructure**" |
+| **lectured** | v. | 演讲；讲授 | "My wife and I **lectured** about this looming danger twenty years ago." |
+| **looming** | adj. | 隐约显现的；逼近的 | "My wife and I lectured about this **looming** danger twenty years ago." |
+| **matter** | n. | 事情；问题 | "I believe the same thing would be true in places like Brazil or anywhere else for that **matter**." |
 
 ---
 
