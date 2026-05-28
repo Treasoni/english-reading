@@ -843,7 +843,10 @@ related:
 | **reckoned**            | v.           | 被认为；看作     | "...the nineteenth century must be **reckoned** as the crucial period..."                                                                        |
 | **refereeing**          | n.           | 审稿制度；同行评审  | "...a result that has been reinforced by the widespread introduction of **refereeing**..."                                                       |
 | **represented**         | v.           | 代表；体现      | "...local geological studies **represented** worthwhile research in their own right."                                                            |
-| **Specialization**      | n.           | 专业化        | "**Specialization** can be seen as a response to the problem of an increasing accumulation of scientific knowledge."                             |
+| **specialization**      | n.           | 专业化        | "**Specialization** can be seen as a response to the problem of an increasing accumulation of scientific knowledge."                             |
+| **specialist**          | n.           | 专家；专科医生    | "The growth of **specialization** implied greater problems for amateur participation."                                                           |
+| **specialize**          | v.           | 专攻；专门研究    | "He decided to **specialize** in geology after his undergraduate studies."                                                                       |
+| **specifically**        | adv.         | 特别地；具体地    | "The trend was most obvious in areas based **specifically** on mathematical or laboratory training."                                             |
 | **subject matter**      | n.           | 学科内容；主题    | "By splitting up the **subject matter** into smaller units..."                                                                                   |
 
 ## 心得
