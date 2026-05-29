@@ -127,7 +127,7 @@ But the sources of distrust go way deeper. Most journalists learn to see the wor
 > 2. there be 句型表示"存在"
 > 3. 定语从句与先行词被介词短语分隔
 
-There exists a social and cultural disconnect between journalists and their readers, which helps explain why the "standard templates" of the newsroom seem **alien** to many readers. In a recent survey, questionnaires were sent to reporters in five middle-size cities around the country, plus one large metropolitan area. Then residents in these communities were phoned at random and asked the same questions.
+There exists a social and cultural disconnect between journalists and their readers, which helps explain why the "standard templates" of the newsroom seem **alien** to many readers. In a recent survey, questionnaires were sent to reporters in five middle-size cities around the country, plus one large **metropolitan** area. Then residents in these communities were phoned at random and asked the same questions. 
 
 > [!abstract]- 长难句分析
 > **主干提取**：There (V) exists (V) + a social and cultural disconnect (S)
