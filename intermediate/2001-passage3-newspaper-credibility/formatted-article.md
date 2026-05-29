@@ -10,12 +10,33 @@ tags:
   - credibility
   - journalism
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-29
 sources:
   - "2001年考研英语阅读理解 Passage 3"
 ---
 
 Why do so many Americans distrust what they read in their newspapers? The American Society of Newspaper Editors is trying to answer this painful question. The organization is deep into a long self-analysis known as the ==journalism credibility project==.
+
+> [!abstract]- 长难句分析
+> **主干提取**：The organization (S) + is (V) + deep into a long self-analysis (C)
+>
+> **修饰成分**：
+> 
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 非谓语（过去分词短语） | known as... | self-analysis |
+>
+> **结构图解**：
+> ```
+> 主句: [The organization] + [is] + [deep into a long self-analysis]
+>   └── 非谓语(过去分词): (known as the journalism credibility project) → 修饰 [self-analysis]
+> ```
+>
+> **参考译文**：该组织正深入进行一项被称为"新闻业公信力项目"的长期自我分析。
+>
+> **考点提示**：
+> 1. "be deep into" 表示深入进行某事
+> 2. 过去分词短语 "known as..." 作后置定语，相当于 "which is known as..."
 
 Sad to say, this project has turned out to be mostly ==low-level findings== about factual errors and spelling and grammar mistakes, combined with lots of head-scratching puzzlement about what in the world those readers really want.
 
