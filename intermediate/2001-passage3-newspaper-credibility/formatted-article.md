@@ -38,7 +38,37 @@ Why do so many Americans distrust what they read in their newspapers? The Americ
 > 1. "be deep into" 表示深入进行某事
 > 2. 过去分词短语 "known as..." 作后置定语，相当于 "which is known as..."
 
-Sad to say, this project has **turned out** to be mostly ==low-level findings== about factual errors and spelling and grammar mistakes, combined with lots of **head-scratching** **puzzlement** about what in the world those readers really want. 
+Sad to say, this project has **turned out** to be mostly ==low-level findings== about factual errors and spelling and grammar mistakes, combined with lots of **head-scratching** **puzzlement** about what in the world those readers really want.
+
+> [!abstract]- 长难句分析
+> **主干提取**：this project (S) + has turned out (V) + to be mostly low-level findings (C)
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 插入语 | Sad to say | 全句（评注性状语） |
+> | 介词短语 | about factual errors... | findings |
+> | 非谓语（过去分词短语） | combined with... | findings |
+> | 介词短语 | about what... | puzzlement |
+> | 名词性从句 | what in the world those readers really want | 介词 about 的宾语 |
+>
+> **结构图解**：
+> ```
+> 主句: [this project] + [has turned out] + [to be mostly low-level findings]
+>   ├── 插入语: (Sad to say) → 评注性状语，表达遗憾
+>   ├── 介短: (about factual errors and spelling and grammar mistakes) → 修饰 [findings]
+>   ├── 非谓语(过去分词): (combined with lots of head-scratching puzzlement) → 补充说明 [findings]
+>   │     └── 介短: (about what in the world those readers really want) → 修饰 [puzzlement]
+>   │           └── 名从: (what in the world those readers really want) → 介词 [about] 的宾语
+> ```
+>
+> **参考译文**：遗憾的是，这个项目最终只得出了一些关于事实错误、拼写和语法错误的低层次发现，以及大量令人挠头的困惑——读者到底想要什么。
+>
+> **考点提示**：
+> 1. "turn out to be" 表示结果是/证明是
+> 2. "Sad to say" 是插入语，表达遗憾
+> 3. "combined with" 过去分词短语作伴随状语，补充说明 findings
 
 But the sources of distrust go way deeper. Most journalists learn to see the world through a set of ==standard templates== (patterns) into which they plug each day's events. In other words, there is a conventional story line in the newsroom culture that provides a backbone and a ready-made narrative structure for otherwise confusing news.
 
