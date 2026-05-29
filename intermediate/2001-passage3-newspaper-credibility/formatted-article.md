@@ -70,8 +70,8 @@ Sad to say, this project has **turned out** to be mostly ==low-level findings== 
 > 2. "Sad to say" 是插入语，表达遗憾
 > 3. "combined with" 过去分词短语作伴随状语，补充说明 findings
 
-But the sources of distrust go way deeper. Most journalists learn to see the world through a set of ==standard templates== (patterns) into which they **plug** each day's events. In other words, there is a conventional story line in the newsroom culture that provides a backbone and a ready-made narrative structure for otherwise confusing news.
- 
+But the sources of distrust go way deeper. Most journalists learn to see the world through a set of ==standard templates== (patterns) into which they **plug** each day's events. In other words, there is a **conventional** story line in the newsroom culture that provides a **backbone** and a ready-made narrative structure for otherwise confusing news.
+  
 > [!abstract]- 长难句分析
 > **主干提取**：Most journalists (S) + learn (V) + to see the world (O)
 >
