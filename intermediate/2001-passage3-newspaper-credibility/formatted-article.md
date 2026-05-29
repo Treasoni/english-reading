@@ -70,7 +70,34 @@ Sad to say, this project has **turned out** to be mostly ==low-level findings== 
 > 2. "Sad to say" 是插入语，表达遗憾
 > 3. "combined with" 过去分词短语作伴随状语，补充说明 findings
 
-But the sources of distrust go way deeper. Most journalists learn to see the world through a set of ==standard templates== (patterns) into which they plug each day's events. In other words, there is a conventional story line in the newsroom culture that provides a backbone and a ready-made narrative structure for otherwise confusing news.
+But the sources of distrust go way deeper. Most journalists learn to see the world through a set of ==standard templates== (patterns) into which they **plug** each day's events. In other words, there is a conventional story line in the newsroom culture that provides a backbone and a ready-made narrative structure for otherwise confusing news.
+ 
+> [!abstract]- 长难句分析
+> **主干提取**：Most journalists (S) + learn (V) + to see the world (O)
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | through a set of standard templates | see（方式状语） |
+> | 同位语 | (patterns) | templates |
+> | 定语从句 | into which they plug each day's events | templates |
+>
+> **结构图解**：
+> ```
+> 主句: [Most journalists] + [learn] + [to see the world]
+>   └── 介短: (through a set of standard templates) → 方式状语
+>         ├── 同位语: (patterns) → 解释 [templates]
+>         └── 定从: (into which they plug each day's events) → 修饰 [templates]
+>               └── 介短: (each day's events) → plug 的宾语
+> ```
+>
+> **参考译文**：大多数记者学会通过一套标准模板（模式）来看待世界，并将每天的事件套入这些模板。
+>
+> **考点提示**：
+> 1. "learn to do" 表示学会做某事
+> 2. 定语从句中介词前置：into which = which...plug into
+> 3. "plug into" 形象表达"套入"，暗含机械套用的批评意味
 
 There exists a social and cultural disconnect between journalists and their readers, which helps explain why the "standard templates" of the newsroom seem alien to many readers. In a recent survey, questionnaires were sent to reporters in five middle-size cities around the country, plus one large metropolitan area. Then residents in these communities were phoned at random and asked the same questions.
 
