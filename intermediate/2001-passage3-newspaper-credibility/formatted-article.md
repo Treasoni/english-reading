@@ -127,7 +127,33 @@ But the sources of distrust go way deeper. Most journalists learn to see the wor
 > 2. there be 句型表示"存在"
 > 3. 定语从句与先行词被介词短语分隔
 
-There exists a social and cultural disconnect between journalists and their readers, which helps explain why the "standard templates" of the newsroom seem alien to many readers. In a recent survey, questionnaires were sent to reporters in five middle-size cities around the country, plus one large metropolitan area. Then residents in these communities were phoned at random and asked the same questions.
+There exists a social and cultural disconnect between journalists and their readers, which helps explain why the "standard templates" of the newsroom seem **alien** to many readers. In a recent survey, questionnaires were sent to reporters in five middle-size cities around the country, plus one large metropolitan area. Then residents in these communities were phoned at random and asked the same questions.
+
+> [!abstract]- 长难句分析
+> **主干提取**：There (V) exists (V) + a social and cultural disconnect (S)
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | between journalists and their readers | disconnect |
+> | 非限制性定语从句 | which helps explain why... | disconnect |
+> | 名词性从句 | why the "standard templates"... seem alien to many readers | explain 的宾语 |
+>
+> **结构图解**：
+> ```
+> 主句: [There] + [exists] + [a social and cultural disconnect]
+>   ├── 介短: (between journalists and their readers) → 修饰 [disconnect]
+>   └── 非限定从: (which helps explain why the "standard templates" of the newsroom seem alien to many readers)
+>         └── 名从: (why the "standard templates" of the newsroom seem alien to many readers) → explain 的宾语
+> ```
+>
+> **参考译文**：记者与读者之间存在社会和文化上的脱节，这有助于解释为什么新闻编辑室的"标准模板"对许多读者来说显得陌生。
+>
+> **考点提示**：
+> 1. "there exists" 是 there be 句型的变体，表示"存在"
+> 2. 非限制性定语从句中 which 指代前面整个主句内容
+> 3. "alien" 此处表示"陌生的、格格不入的"
 
 Replies show that compared with other Americans, journalists are more likely to live in ==upscale neighborhoods==, have maids, own Mercedeses, and trade stocks, and they're less likely to go to church, do volunteer work, or put down roots in a community.
 
