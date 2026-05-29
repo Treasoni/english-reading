@@ -155,14 +155,48 @@ There exists a social and cultural disconnect between journalists and their read
 > 2. 非限制性定语从句中 which 指代前面整个主句内容
 > 3. "alien" 此处表示"陌生的、格格不入的"
  
-Replies show that compared with other Americans, journalists are more likely to live in ==**upscale** neighborhoods==, have maids, own **Mercedeses**, and trade stocks, and they're less likely to go to church, do volunteer work, or put down roots in a community.
+Replies show that compared with other Americans, journalists are more likely to live in ==**upscale** neighborhoods==, have maids, own **Mercedeses**, and trade stocks, and they're less likely to go to church, do volunteer work, or **put down roots** in a community.
+
+> [!abstract]- 长难句分析
+> **主干提取**：Replies (S) + show (V) + that...从句 (O)
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 宾语从句 | that journalists are more likely to... | show 的宾语 |
+> | 插入语 | compared with other Americans | journalists（比较对象） |
+> | 并列结构 | more likely to... and... less likely to... | 宾语从句内部 |
+> | 介词短语 | in a community | put down roots（地点） |
+>
+> **结构图解**：
+> ```
+> 主句: [Replies] + [show] + [that...从句]
+>   └── 宾从: (that journalists are more likely to... and they're less likely to...)
+>         ├── 插入语: (compared with other Americans) → 比较对象
+>         ├── 并列①: are more likely to live in upscale neighborhoods
+>         │           ├── have maids
+>         │           ├── own Mercedeses
+>         │           └── trade stocks
+>         └── 并列②: they're less likely to go to church
+>                     ├── do volunteer work
+>                     └── put down roots in a community
+> ```
+>
+> **参考译文**：调查显示，与其他美国人相比，记者更可能住在高档社区，拥有女佣，开奔驰车，炒股票；而他们去教堂、做志愿服务或在社区扎根的可能性则较小。
+>
+> **考点提示**：
+> 1. "show that" 引导宾语从句，表示"表明"
+> 2. "compared with" 插入语表示比较，逻辑主语是 journalists
+> 3. "be likely to do" 固定搭配，表示"可能做某事"
+> 4. "put down roots" 习语，意为"扎根"
 
 Reporters tend to be part of a broadly defined social and cultural ==elite==, so their work tends to reflect the conventional values of this elite. The astonishing distrust of the news media isn't rooted in inaccuracy or poor reportorial skills but in the ==daily clash of world views== between reporters and their readers.
 
 This is an ==explosive situation== for any industry, particularly a declining one. Here is a troubled business that keeps hiring employees whose attitudes vastly annoy the customers. Then it sponsors lots of symposiums and a credibility project dedicated to wondering why customers are annoyed and fleeing in large numbers. But it never seems to get around to noticing the ==cultural and class biases== that so many former buyers are complaining about. If it did, it would open up its diversity program, now focused narrowly on race and gender, and look for reporters who differ broadly by outlook, values, education, and class.
 
 ---
-
+  
 ## 考研真题
 
 59. What is the passage mainly about?
