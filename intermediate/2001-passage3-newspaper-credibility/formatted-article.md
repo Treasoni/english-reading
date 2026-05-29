@@ -154,8 +154,8 @@ There exists a social and cultural disconnect between journalists and their read
 > 1. "there exists" 是 there be 句型的变体，表示"存在"
 > 2. 非限制性定语从句中 which 指代前面整个主句内容
 > 3. "alien" 此处表示"陌生的、格格不入的"
-
-Replies show that compared with other Americans, journalists are more likely to live in ==upscale neighborhoods==, have maids, own Mercedeses, and trade stocks, and they're less likely to go to church, do volunteer work, or put down roots in a community.
+ 
+Replies show that compared with other Americans, journalists are more likely to live in ==**upscale** neighborhoods==, have maids, own **Mercedeses**, and trade stocks, and they're less likely to go to church, do volunteer work, or put down roots in a community.
 
 Reporters tend to be part of a broadly defined social and cultural ==elite==, so their work tends to reflect the conventional values of this elite. The astonishing distrust of the news media isn't rooted in inaccuracy or poor reportorial skills but in the ==daily clash of world views== between reporters and their readers.
 
