@@ -38,7 +38,7 @@ Why do so many Americans distrust what they read in their newspapers? The Americ
 > 1. "be deep into" 表示深入进行某事
 > 2. 过去分词短语 "known as..." 作后置定语，相当于 "which is known as..."
 
-Sad to say, this project has **turned out** to be mostly ==low-level findings== about factual errors and spelling and grammar mistakes, combined with lots of head-scratching puzzlement about what in the world those readers really want.
+Sad to say, this project has **turned out** to be mostly ==low-level findings== about factual errors and spelling and grammar mistakes, combined with lots of **head-scratching** **puzzlement** about what in the world those readers really want. 
 
 But the sources of distrust go way deeper. Most journalists learn to see the world through a set of ==standard templates== (patterns) into which they plug each day's events. In other words, there is a conventional story line in the newsroom culture that provides a backbone and a ready-made narrative structure for otherwise confusing news.
 
