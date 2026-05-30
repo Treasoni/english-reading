@@ -193,6 +193,35 @@ Replies show that compared with other Americans, journalists are more likely to 
 
 Reporters tend to be part of a broadly defined social and cultural ==elite==, so their work tends to reflect the conventional values of this elite. The astonishing distrust of the news media isn't rooted in inaccuracy or poor reportorial skills but in the ==daily clash of world views== between reporters and their readers.
 
+> [!abstract]- 长难句分析
+> **主干提取**：The astonishing distrust (S) + isn't rooted in (V) + inaccuracy or poor reportorial skills → but in the daily clash of world views
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | of the news media | distrust（所属） |
+> | 介词短语 | in inaccuracy or poor reportorial skills | rooted（否定对象） |
+> | 并列结构 | not... but... | 介词短语对比 |
+> | 介词短语 | between reporters and their readers | clash（范围） |
+>
+> **结构图解**：
+> ```
+> 主句: [The astonishing distrust of the news media] + [isn't rooted in] + [inaccuracy or poor reportorial skills]
+>   ├── 介短: (of the news media) → 修饰 [distrust]（所属）
+>   └── 并列对比: not... but...
+>         ├── 否定: (in inaccuracy or poor reportorial skills) → 不是根源
+>         └── 肯定: (in the daily clash of world views between reporters and their readers)
+>               └── 介短: (between reporters and their readers) → 修饰 [clash]（范围）
+> ```
+>
+> **参考译文**：对新闻媒体的惊人不信任并非源于报道不准确或报道技巧差，而是源于记者与读者之间日常的世界观冲突。
+>
+> **考点提示**：
+> 1. "be rooted in" 固定搭配，意为"根源于/起因于"
+> 2. "not... but..." 并列对比结构，表示"不是...而是..."
+> 3. "reportorial skills" 报道技巧，reportorial 是 reporter 的形容词形式
+
 This is an ==explosive situation== for any industry, particularly a declining one. Here is a troubled business that keeps hiring employees whose attitudes vastly annoy the customers. Then it sponsors lots of symposiums and a credibility project dedicated to wondering why customers are annoyed and fleeing in large numbers. But it never seems to get around to noticing the ==cultural and class biases== that so many former buyers are complaining about. If it did, it would open up its diversity program, now focused narrowly on race and gender, and look for reporters who differ broadly by outlook, values, education, and class.
 
 ---
