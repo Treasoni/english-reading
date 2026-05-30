@@ -835,6 +835,79 @@ While 在考研英语中身兼三种语法角色，是阅读理解中的高频�
 | **two-generation households** | n. | 两代人构成的家庭（核心家庭） | "...in favor of isolated, **two-generation households**." |
 | **work-moral values** | n. | 工作道德价值观 | "...the Japanese are seeing a decline of the traditional **work-moral values**." |
 
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> decline / endure / creativity / frustration / centralization / postwar / male-dominated / extended family / drop out / moral education
+
+1. The traditional Japanese ________ has been replaced by smaller, nuclear households in urban areas.
+2. Young people today lack the ________ to withstand the pressures of competitive examinations.
+3. The government is seeking a return to the prewar emphasis on ________ in schools.
+4. With economic growth has come ________, concentrating the population in major cities.
+5. Japanese education tends to stress test taking over ________ and self-expression.
+6. ________ Japan was once envied by the United States and Europe for its social harmony.
+7. The entry of women into the ________ job market has changed traditional gender roles.
+8. There has been a significant ________ in traditional work-moral values among young Japanese.
+9. ________ against the education system leads some students to ________ and run wild.
+
+> [!abstract]- 答案
+> 1. **extended family**（大家庭）
+> 2. **endure**（忍受）
+> 3. **moral education**（道德教育）
+> 4. **centralization**（集中化）
+> 5. **creativity**（创造力）
+> 6. **Postwar**（战后的）
+> 7. **male-dominated**（男性主导的）
+> 8. **decline**（衰退）
+> 9. **Frustration**（挫败感）... **drop out**（辍学）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. in favor of
+2. have more to do with
+3. drop out
+4. raised eyebrows
+
+> [!abstract]- 答案
+> 1. **in favor of** = 支持；取而代之
+> 2. **have more to do with** = 与……关系更大
+> 3. **drop out** = 辍学；退出
+> 4. **raised eyebrows** = 引起惊讶/不满（习语，字面意为"挑起眉毛"）
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "Aimlessness has hardly been typical of the postwar Japan" 中 **hardly** 的含义是：
+   - A. 几乎不（正确）
+   - B. 困难地
+   - C. 粗鲁地
+   - D. 勉强地
+
+2. "the discomfort is beginning to **tell**" 中 **tell** 的含义是：
+   - A. 告诉
+   - B. 显现；产生影响（正确）
+   - C. 判断
+   - D. 泄露
+
+3. "Far more Japanese workers expressed dissatisfaction with their jobs than did their **counterparts**" 中 **counterparts** 的含义是：
+   - A. 对手
+   - B. 对应的人（正确）
+   - C. 合作伙伴
+   - D. 竞争者
+
+> [!abstract]- 答案
+> 1. **A** — hardly 在此为程度副词，意为"几乎不"，与 typical 构成双重否定表肯定。
+> 2. **B** — tell 在此为不及物动词，熟词僻义，意为"显现/产生影响"，非"告诉"。
+> 3. **B** — counterparts 意为"对应的人"，指其他国家中与日本工人相对应的同类工人。
+
+---
+
 ## 心得
 
 > [!tip] 阅读技巧：把握论证结构

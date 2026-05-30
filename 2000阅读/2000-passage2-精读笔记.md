@@ -501,7 +501,96 @@ For us, this means that evolution is over; the biological Utopia has arrived. St
 1. 看到双逗号或双破折号中间的内容，先括起来跳过，直接连接主语和谓语找主干
 2. 翻译题中遇到插入语，拎出来放到句子最开头翻译
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **maturity** | n. | 成熟；成年 | "...this ratio drops to near balance at the age of **maturity**..." |
+| **universal** | n. | 普遍现象；普遍特征 | "But the great **universal** of male mortality is being changed." |
+| **mortality** | n. | 死亡率 | "But the great universal of male **mortality** is being changed." |
+| **excess** | n. | 过剩；过量 | "...there will be an **excess** of boys in those crucial years..." |
+| **crucial** | adj. | 关键的；至关重要的 | "...in those **crucial** years when they are searching for a mate." |
+| **variation** | n. | 变异；差异 | "Since much of the **variation** is due to genes, one more agent of evolution has gone." |
+| **fertile** | adj. | 有生育力的；能繁殖的 | "Few people are as **fertile** as in the past." |
+| **offspring** | n. | 后代；子女 | "Most of us have roughly the same number of **offspring**." |
+| **grand mediocrity** | n. | 大平等；普遍的平庸 | "The **grand mediocrity** of today—everyone being the same in survival and number of offspring—" |
+| **mediocrity** | n. | 平庸；普通水平 | （包含在 grand mediocrity 短语中） |
+| **upper-middle-class** | n./adj. | 中上阶层（的） | "...natural selection has lost 80% of its power in **upper-middle-class** India compared to the tribes." |
+| **tribes** | n. | 部落 | "...compared to the **tribes**." |
+| **transformed** | v. | 转变；改变（transform 的过去分词） | "...our lives have been **transformed** but our bodies have not." |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> maturity / excess / crucial / variation / fertile / offspring / transformed / mortality / tribes / upper-middle-class
+
+1. The country's high infant ________ rate has been a major concern for public health officials.
+2. In those ________ years of adolescence, peer pressure can have a lasting impact on a person's choices.
+3. With modern medicine, the ________ of male and female survival rates has narrowed significantly.
+4. There is a natural ________ in height among individuals of the same age group.
+5. Fewer women today are as ________ as their grandmothers were a generation ago.
+6. The average number of ________ per family has declined sharply in developed countries.
+7. The invention of the printing press ________ the spread of knowledge across Europe.
+8. An ________ of male births compared to female births is a well-documented biological phenomenon.
+9. In some remote areas, indigenous ________ still maintain their traditional ways of life.
+10. The ________ population in urban areas has grown rapidly due to economic development.
+
+> [!abstract]- 答案
+> 1. **mortality**（死亡率）
+> 2. **crucial**（关键的）
+> 3. **mortality** → 应为 **variation**（差异）— 此处考查 variation 的含义
+> 4. **variation**（变异；差异）
+> 5. **fertile**（有生育力的）
+> 6. **offspring**（后代）
+> 7. **transformed**（转变）
+> 8. **excess**（过剩）
+> 9. **tribes**（部落）
+> 10. **upper-middle-class**（中上阶层）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. grand mediocrity
+2. take advantage of
+3. commit evolutionary suicide
+4. be due to
+
+> [!abstract]- 答案
+> 1. **grand mediocrity** = 大平等；普遍的平庸（指所有人在生存和后代数量上趋于一致）
+> 2. **take advantage of** = 利用；趁机利用
+> 3. **commit evolutionary suicide** = 实施进化意义上的自杀（指通过减少生育来削弱自然选择）
+> 4. **be due to** = 由于；归因于
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "But the great **universal** of male mortality is being changed." 中 **universal** 的含义是：
+   - A. 宇宙的
+   - B. 普遍现象；普遍特征（正确）
+   - C. 通用的
+   - D. 全世界的
+
+2. "The **grand mediocrity** of today—everyone being the same in survival and number of offspring—" 中 **mediocrity** 的含义是：
+   - A. 平庸的人
+   - B. 普通水平；平庸状态（正确）
+   - C. 中等身材
+   - D. 间质
+
+3. "Since much of the **variation** is due to genes, one more agent of evolution has gone." 中 **variation** 的含义是：
+   - A. 变化；变动
+   - B. 变异；差异（正确）
+   - C. 变奏曲
+   - D. 偏差
+
+> [!abstract]- 答案
+> 1. **B** — universal 在此为名词，意为"普遍现象/特征"，指男性高死亡率是一个普遍现象。
+> 2. **B** — mediocrity 意为"平庸；普通水平"，grand mediocrity 指当今社会中所有人在生存和后代数量上的普遍一致。
+> 3. **B** — variation 在此为生物学术语，意为"变异；差异"，指个体之间的差异。
 
 ---
 

@@ -481,6 +481,69 @@ About、with respect to、in terms of 都是介词，后面**绝对不能接动�
 | **looming** | adj. | 隐约显现的；逼近的 | "My wife and I lectured about this **looming** danger twenty years ago." |
 | **matter** | n. | 事情；问题 | "I believe the same thing would be true in places like Brazil or anywhere else for that **matter**." |
 
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> digital divide / commercialized / lectured / looming / infrastructure / capital / prejudices / anti-colonial
+
+1. Twenty years ago, scholars warned about the ________ danger of the growing gap between the info rich and the info poor.
+
+2. The Internet has become increasingly ________, with businesses competing for online customers.
+
+3. Developing countries need to build modern ________ such as roads, harbors, and electronic networks.
+
+4. The government ________ about this issue at an international conference two decades ago.
+
+5. Some impoverished nations still hold outdated ________ against foreign investment.
+
+6. When the United States built its industrial infrastructure, it didn't have enough ________ to do so.
+
+7. The growing gap between information haves and have-nots is known as the ________.
+
+> [!abstract]- 答案
+> 1. **looming**（隐约显现的；逼近的）
+> 2. **commercialized**（商业化的）
+> 3. **infrastructure**（基础设施）
+> 4. **lectured**（演讲；讲授）
+> 5. **anti-colonial prejudices**（反殖民偏见）
+> 6. **capital**（资本；资金）
+> 7. **digital divide**（数字鸿沟）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. turn out to be...
+
+2. get over their outdated prejudices
+
+> [!abstract]- 答案
+> 1. **turn out to be...** = 结果是；证明是（暗示与预期不同）
+> 2. **get over their outdated prejudices** = 克服他们过时的偏见
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "My wife and I lectured about this **looming** danger twenty years ago." 中 looming 的含义是：
+   - A. 徘徊的
+   - B. 隐约显现的；逼近的
+   - C. 突出的
+   - D. 消失的
+
+2. "Countries that still think foreign investment is an invasion of their sovereignty might well study the history of **infrastructure** in the United States." 中 infrastructure 的含义是：
+   - A. 上层建筑
+   - B. 基础设施
+   - C. 内部结构
+   - D. 组织机构
+
+> [!abstract]- 答案
+> 1. **B** — loom 不是普通的"出现"，它自带负面、压抑或威胁的色彩，暗示危险正在逼近。考研中看到 loom 立刻锁定作者态度 = 担忧/负面。
+> 2. **B** — infrastructure 指社会的基本结构基础，即基础设施（道路、港口、电力、通信等）。原文括号中已有解释："the basic structural foundations of a society"。
+
 ---
 
 ## 心得

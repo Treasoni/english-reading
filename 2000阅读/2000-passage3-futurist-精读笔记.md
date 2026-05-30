@@ -818,6 +818,73 @@ This, though it fulfills the laws and requirements of Futurist poetry, can hardl
 | **corresponding** | adj. | 相应的，对应的 | "Consequently, our feelings, thoughts and emotions have undergone a **corresponding** change." |
 | **unhampered** | adj. | 不受束缚的，不受阻碍的 | "We must pour out a large stream of essential words, **unhampered** by stops, or qualifying adjectives, or finite verbs." |
 
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> farfetched / corresponding / unhampered / Futurist / proposition / vitality / classed
+
+1. The scientist's theory seemed ________ at first, but later experiments proved it correct.
+2. The economic downturn had a ________ effect on consumer spending habits.
+3. The poet argued that literature should be ________ by traditional grammar rules.
+4. The ________ movement主张抛弃传统，拥抱速度和技术美学。
+5. The central ________ of the article is that emotional change requires new forms of expression.
+6. Without public support, the reform movement lost its ________ and faded away.
+7. The author's latest work can hardly be ________ as serious literature.
+
+> [!abstract]- 答案
+> 1. **farfetched**（牵强的，不切实际的）
+> 2. **corresponding**（相应的，对应的）
+> 3. **unhampered**（不受束缚的）
+> 4. **Futurist**（未来主义的）
+> 5. **proposition**（命题；主张）
+> 6. **vitality**（生命力；活力）
+> 7. **classed**（归类）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. with regard to
+2. at will
+3. can hardly be classed as
+
+> [!abstract]- 答案
+> 1. **with regard to** = 关于；至于；就……而言
+> 2. **at will** = 随意地；随心所欲地
+> 3. **can hardly be classed as** = 几乎不能被归类为
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "however **farfetched** and unreasonable their principles may seem today" 中 **farfetched** 的含义是：
+   - A. 遥远的
+   - B. 牵强的；不切实际的（正确）
+   - C. 丰富的
+   - D. 远程的
+
+2. "We must pour out a large stream of essential words, **unhampered** by stops" 中 **unhampered** 的含义是：
+   - A. 被阻碍的
+   - B. 不受束缚的；不受阻碍的（正确）
+   - C. 被限制的
+   - D. 被控制的
+
+3. "our feelings, thoughts and emotions have undergone a **corresponding** change" 中 **corresponding** 的含义是：
+   - A. 通信的
+   - B. 相应的；对应的（正确）
+   - C. 一致的
+   - D. 类似的
+
+> [!abstract]- 答案
+> 1. **B** — farfetched 意为"牵强的、不切实际的"，与后面的 unreasonable 并列，都表示否定含义。
+> 2. **B** — unhampered 是过去分词转化来的形容词，意为"不受束缚的"，修饰 words。
+> 3. **B** — corresponding 意为"相应的"，指情感变化与生活加速是对应的。
+
+---
+
 ## 心得
 
 > [!tip] 文章结构技巧

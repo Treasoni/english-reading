@@ -850,6 +850,74 @@ related:
 | **specifically**        | adv.         | 特别地；具体地    | "The trend was most obvious in areas based **specifically** on mathematical or laboratory training."                                             |
 | **subject matter**      | n.           | 学科内容；主题    | "By splitting up the **subject matter** into smaller units..."                                                                                   |
 
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> specialization / amateurs / connotation / constitutes / differentiation / incorporates / refereeing / accumulation
+
+1. The ________ of scientific knowledge has made it impossible for one person to master all fields.
+
+2. In science, the line between ________ and professionals is not always clear-cut.
+
+3. The word "hobbyist" carries a negative ________ that the person is not serious about their work.
+
+4. The committee must ________ all relevant evidence before reaching a conclusion.
+
+5. A rather similar process of ________ has occurred in many academic disciplines.
+
+6. Local studies are acceptable only if they ________ and reflect on the wider picture.
+
+7. The introduction of ________ has made it harder for non-professionals to publish in academic journals.
+
+8. The comparison reveals not simply an increasing emphasis on research, but also a changing ________ of what makes a good paper.
+
+> [!abstract]- 答案
+> 1. **accumulation**（积累；堆积）
+> 2. **amateurs**（业余爱好者）
+> 3. **connotation**（含义；内涵）
+> 4. **incorporate**（纳入；包含）
+> 5. **differentiation**（分化；区别）
+> 6. **incorporate**（纳入；包含）
+> 7. **refereeing**（审稿制度；同行评审）
+> 8. **definition** — 注意此处考查的是 constitute 的名词形式 definition，原文为 "a changing definition of what constitutes an acceptable research paper"
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. in their own right
+
+2. in terms of
+
+> [!abstract]- 答案
+> 1. **in their own right** = 凭自己的本事；本身就……（强调独立存在的价值）
+> 2. **in terms of** = 通过……来（加以说明）；就……方面而言
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "The word 'amateur' does carry a **connotation** that the person concerned is not fully integrated into the scientific community." 中 connotation 的含义是：
+   - A. 定义
+   - B. 含义；内涵
+   - C. 矛盾
+   - D. 解释
+
+2. "No clear-cut distinction can be drawn between professionals and amateurs." 中 clear-cut 的含义是：
+   - A. 切割的
+   - B. 明确的；清晰的
+   - C. 削减的
+   - D. 尖锐的
+
+> [!abstract]- 答案
+> 1. **B** — connotation 指词语隐含的联想意义或内涵，不是字面定义。原文说"业余爱好者"这个词确实带有一种含义/内涵。
+> 2. **B** — clear-cut 意为"明确的、清晰的"，指专业人士和业余爱好者之间没有明确的界限。
+
+---
+
 ## 心得
 
 > [!tip] 阅读技巧：举例论证的识别

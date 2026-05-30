@@ -707,6 +707,79 @@ sources:
 | **solid growth** | n. | 稳健增长 | "the United States can look back on five years of **solid growth** while Japan has been struggling." |
 | **unparalleled economies of scale** | n. | 无与伦比的规模经济 | "giving its industries **unparalleled economies of scale**" |
 
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> inevitable / primacy / productivity / prosperity / casualty / driving force / glowing / narrowed / on the ropes / humiliating
+
+1. The company's market share has ________ significantly over the past five years due to foreign competition.
+2. With the rise of e-commerce, many traditional retailers are now ________, struggling to stay in business.
+3. It was ________ that the dominant power would eventually face challenges from emerging economies.
+4. The government attributes the economic recovery to improved ________ in the manufacturing sector.
+5. After years of peace and ________, the nation was unprepared for the sudden crisis.
+6. The new technology has become a ________ for innovation across multiple industries.
+7. The United States maintained its ________ in global politics for decades after World War II.
+8. Consumer electronics became the latest ________ of American industry in the face of foreign competition.
+9. The post-war period was a ________ era of unprecedented economic expansion.
+10. The retreat from the world stage was ________ for a once-dominant superpower.
+
+> [!abstract]- 答案
+> 1. **narrowed**（缩小；变窄）
+> 2. **on the ropes**（岌岌可危；濒临失败）
+> 3. **inevitable**（不可避免的）
+> 4. **productivity**（生产率）
+> 5. **prosperity**（繁荣）
+> 6. **driving force**（驱动力）
+> 7. **primacy**（首要地位）
+> 8. **casualty**（受害者；牺牲品）
+> 9. **glowing**（辉煌的）
+> 10. **humiliating**（令人屈辱的）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. take sth for granted
+2. attribute A to B
+3. yield to
+4. on the ropes
+
+> [!abstract]- 答案
+> 1. **take sth for granted** = 视……为理所当然；因习以为常而不懂得珍惜
+> 2. **attribute A to B** = 把 A 归因于 B
+> 3. **yield to** = 屈服于；对……让步
+> 4. **on the ropes** = 岌岌可危；濒临失败（源自拳击术语）
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "A history of long and effortless success can be a dreadful **handicap**." 中 **handicap** 的含义是：
+   - A. 残疾
+   - B. 障碍；不利条件（正确）
+   - C. 让步
+   - D. 手铐
+
+2. "America's machine-tool industry was **on the ropes**." 中 **on the ropes** 的含义是：
+   - A. 在绳子上
+   - B. 在进行改革
+   - C. 岌岌可危；濒临失败（正确）
+   - D. 牢固确立
+
+3. "**Self-doubt** has yielded to **blind pride**." 中 **yield to** 的含义是：
+   - A. 产出
+   - B. 屈服于；让位于（正确）
+   - C. 产生
+   - D. 投降给
+
+> [!abstract]- 答案
+> 1. **B** — handicap 在此为"障碍；不利条件"，非"残疾"义。原文说长期轻而易举的成功可能成为可怕的障碍。
+> 2. **C** — on the ropes 源自拳击术语，指选手被逼到围绳边，引申为"岌岌可危"。
+> 3. **B** — yield to 表示弱势一方的妥协/让步，此处意为自我怀疑已让位于盲目骄傲。
+
 ---
 
 ## 心得
