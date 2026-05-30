@@ -294,8 +294,8 @@ This is an ==explosive situation== for any industry, particularly a declining on
 
 - [A] quite trustworthy
 - [B] somewhat contradictory
-- [C] very illuminating
-- [D] rather superficial
+- [C] very i**lluminating**
+- [D] rather **superficial**
 
 61. The basic problem of journalists as pointed out by the writer lies in their
 
