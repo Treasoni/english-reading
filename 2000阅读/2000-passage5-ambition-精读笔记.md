@@ -882,6 +882,81 @@ sources:
 | **vulgar**        | adj. | 庸俗的；粗俗的             | "...lest they be thought pushing, acquisitive and **vulgar**."              |
 | **wealth**        | n.   | 财富；财产               | "...wealth, distinction, control over one's destiny..."                     |
 
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> ambition / hypocrisy / confess / vitality / acquisitive / vulgar / impulse / driven / sly / destiny
+
+1. The educated class's denial of ________ while enjoying its benefits is a clear case of double standards.
+2. There is a heavy note of ________ in criticizing materialism while owning luxury items.
+3. People are reluctant to ________ their desire for wealth and success in public.
+4. Without widespread support, the tradition of ambition would lose its ________.
+5. Some people are so ________ that they will do anything to acquire more possessions.
+6. The author describes the critic's lifestyle as ________ and pretentious.
+7. Ambition is a healthy ________ that should be encouraged in young people.
+8. Ambition has been ________ underground, where it operates secretly.
+9. Instead of being celebrated, ambition is now treated in a ________ manner.
+10. Everyone wants to have control over their own ________.
+
+> [!abstract]- 答案
+> 1. **ambition**（雄心）
+> 2. **hypocrisy**（虚伪）
+> 3. **confess**（承认；坦白）
+> 4. **vitality**（生命力）
+> 5. **acquisitive**（贪得无厌的）
+> 6. **vulgar**（庸俗的）
+> 7. **impulse**（冲动；推动力）
+> 8. **driven**（驱使）
+> 9. **sly**（偷偷摸摸的）
+> 10. **destiny**（命运）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. on one's behalf
+2. not least
+3. at an end
+4. get on in life
+
+> [!abstract]- 答案
+> 1. **on one's behalf** = 代表某人；为了某人的利益
+> 2. **not least** = 尤其是；特别是（强调最重要的原因）
+> 3. **at an end** = 结束；终结
+> 4. **get on in life** = 出人头地；在生活中取得成功
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "the **stirrings** and promptings of ambition" 中 **stirrings** 的含义是：
+   - A. 搅拌
+   - B. 涌动；萌动（正确）
+   - C. 震动
+   - D. 唤醒
+
+2. "ambition is **driven** underground, or made **sly**" 中 **sly** 的含义是：
+   - A. 聪明的
+   - B. 偷偷摸摸的；狡猾的（正确）
+   - C. 狡诈的
+   - D. 灵巧的
+
+3. "we are treated to fine **hypocritical spectacles**" 中 **spectacles** 的含义是：
+   - A. 眼镜
+   - B. 景象；场面（正确）
+   - C. 壮观
+   - D. 奇观
+
+> [!abstract]- 答案
+> 1. **B** — stirrings 意为"涌动；萌动"，拟人化描述雄心对人内心的影响。
+> 2. **B** — sly 意为"偷偷摸摸的；狡猾的"，指雄心不再被公开承认，只能暗中运作。
+> 3. **B** — spectacles 在此为"景象；场面"（非"眼镜"义），hypocritical spectacles 指虚伪的景象。
+
+---
+
 ## 心得
 
 > [!tip] 阅读技巧
