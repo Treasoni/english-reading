@@ -828,6 +828,7 @@ related:
 
 | 词汇                      | 词性           | 含义         | 原文例句                                                                                                                                             |
 | ----------------------- | ------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **accumulation**       | n.           | 积累；堆积      | "Specialization can be seen as a response to the problem of an increasing **accumulation** of scientific knowledge."                            |
 | **amateurs**            | n.           | 业余爱好者      | "No clear-cut distinction can be drawn between **professionals** and **amateurs** in science."                                                   |
 | **clear-cut**           | adj.         | 明确的；清晰的    | "No **clear-cut** distinction can be drawn between professionals and amateurs in science."                                                       |
 | **connotation**         | n.           | 含义；内涵      | "Nevertheless, the word 'amateur' does carry a **connotation** that the person concerned is not fully integrated into the scientific community." |

@@ -587,9 +587,11 @@ This is an ==explosive situation== for any industry, particularly a declining on
 
 | 词汇 | 词性 | 含义 | 原文例句 |
 |------|------|------|----------|
+| **alien** | adj. | 陌生的；格格不入的 | "...the 'standard templates' of the newsroom seem **alien** to many readers." |
 | **backbone** | n. | 脊梁；主干；支柱 | "...provides a **backbone** and a ready-made narrative structure for otherwise confusing news." |
 | **conventional** | adj. | 传统的；常规的 | "there is a **conventional** story line in the newsroom culture..." |
 | **credibility** | n. | 可信度；信誉 | "Then it sponsors lots of symposiums and a **credibility** project dedicated to wondering why customers are annoyed..." |
+| **elite** | n. | 精英阶层 | "Reporters tend to be part of a broadly defined social and cultural **elite**..." |
 | **head-scratching** | adj. | 令人挠头的；令人困惑的 | "...combined with lots of **head-scratching** puzzlement about what in the world those readers really want." |
 | **incredible** | adj. | 难以置信的；极好的 | 同根词拓展：in-（否定前缀）+ cred → **incredible** |
 | **metropolitan** | adj. | 大都市的；大城市的 | "...plus one large **metropolitan** area." |
