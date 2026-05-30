@@ -600,6 +600,82 @@ This is an ==explosive situation== for any industry, particularly a declining on
 | **turned out** | 短语 | 结果是；证明是 | "Sad to say, this project has **turned out** to be mostly low-level findings..." |
 | **put down roots** | 短语 | 扎根；定居 | "...they're less likely to... **put down roots** in a community." |
 
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> backbone / conventional / credibility / metropolitan / puzzlement / symposiums / plug / incredible
+
+1. The company's ________ was damaged after the scandal, and many customers lost trust in them.
+
+2. The newsroom follows a ________ story line that provides a ready-made narrative structure.
+
+3. The researchers ________ each day's events into their standard templates.
+
+4. The conference organized several ________ to discuss the latest findings.
+
+5. The audience stared in ________ at the magician's performance.
+
+6. Beijing is a large ________ area with a population of over 20 million.
+
+7. Education is the ________ of national development.
+
+8. The sunset over the ocean was ________ beautiful.
+
+> [!abstract]- 答案
+> 1. **credibility**（可信度；信誉）
+> 2. **conventional**（传统的；常规的）
+> 3. **plug**（插入；套入）
+> 4. **symposiums**（研讨会）
+> 5. **puzzlement**（困惑）
+> 6. **metropolitan**（大都市的）
+> 7. **backbone**（脊梁；主干）
+> 8. **incredible**（难以置信的）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. turn out to be...
+
+2. put down roots in a community
+
+3. head-scratching puzzlement
+
+> [!abstract]- 答案
+> 1. **turn out to be...** = 结果是；证明是
+> 2. **put down roots in a community** = 在社区扎根；定居
+> 3. **head-scratching puzzlement** = 令人挠头的困惑
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "The sources of distrust go **way** deeper." 中 way 的含义是：
+   - A. 道路
+   - B. 方式
+   - C. 远远（程度副词）
+   - D. 方法
+
+2. "The standard templates seem **alien** to many readers." 中 alien 的含义是：
+   - A. 外星人
+   - B. 外国的
+   - C. 陌生的；格格不入的
+   - D. 敌意的
+
+3. "Journalists are more likely to live in **upscale** neighborhoods." 中 upscale 的含义是：
+   - A. 向上的
+   - B. 高档的；高端的
+   - C. 规模大的
+   - D. 城市的
+
+> [!abstract]- 答案
+> 1. **C** — way 作为程度副词，修饰比较级 deeper，意为"远远"
+> 2. **C** — alien 在此表示"陌生的、格格不入的"，指模板与读者期望不符
+> 3. **B** — upscale 意为"高档的、高端的"，形容社区档次高
+
 ---
 
 ## 心得
