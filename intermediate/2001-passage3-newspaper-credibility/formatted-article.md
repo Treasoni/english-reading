@@ -251,6 +251,34 @@ This is an ==explosive situation== for any industry, particularly a declining on
 > 3. "wonder why" 后接宾语从句，表示"想知道为什么"
 > 4. "fleeing in large numbers" flee 意为"逃离/流失"
 
+> [!abstract]- 长难句分析
+> **主干提取**：it (S) + would open up (V) + its diversity program (O) + and look for reporters
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 条件状语从句 | If it did（虚拟语气） | 全句 |
+> | 插入语 | now focused narrowly on race and gender | diversity program |
+> | 定语从句 | who differ broadly by outlook, values, education, and class | reporters |
+> | 介词短语 | by outlook, values, education, and class | differ（方式） |
+>
+> **结构图解**：
+> ```
+> 主句: [it] + [would open up] + [its diversity program] + [and] + [look for reporters]
+>   ├── 状从(虚拟): (If it did) → 条件状语（与过去事实相反）
+>   ├── 插入语: (now focused narrowly on race and gender) → 补充说明 [diversity program]
+>   └── 定从: (who differ broadly by outlook, values, education, and class) → 修饰 [reporters]
+>         └── 介短: (by outlook, values, education, and class) → differ 的方式
+> ```
+>
+> **参考译文**：如果它注意到了，它就会开放其多元化计划（目前狭隘地聚焦于种族和性别），去寻找在观点、价值观、教育和阶级方面有广泛差异的记者。
+>
+> **考点提示**：
+> 1. 虚拟语气：If it did, it would... 表示与过去事实相反的假设
+> 2. "open up" 此处意为"开放/扩大范围"
+> 3. 插入语 now focused narrowly on... 补充说明 diversity program 的现状
+
 ---
   
 ## 考研真题
