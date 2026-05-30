@@ -224,6 +224,33 @@ Reporters tend to be part of a broadly defined social and cultural ==elite==, so
 
 This is an ==explosive situation== for any industry, particularly a declining one. Here is a troubled business that keeps **hiring** employees whose attitudes vastly annoy the customers. Then it sponsors lots of **symposiums** and a **credibility** project dedicated to wondering why customers are annoyed and fleeing in large numbers. But it never seems to get around to noticing the ==cultural and class biases== that so many former buyers are complaining about. If it did, it would open up its diversity program, now focused narrowly on race and gender, and look for reporters who differ broadly by outlook, values, education, and class.
 
+> [!abstract]- 长难句分析
+> **主干提取**：it (S) + sponsors (V) + lots of symposiums and a credibility project (O)
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 非谓语（过去分词短语） | dedicated to wondering... | project（后置定语） |
+> | 名词性从句 | why customers are annoyed and fleeing... | wondering 的宾语 |
+> | 介词短语 | in large numbers | fleeing（程度状语） |
+>
+> **结构图解**：
+> ```
+> 主句: [It] + [sponsors] + [lots of symposiums and a credibility project]
+>   └── 非谓语(过去分词): (dedicated to wondering why customers are annoyed and fleeing in large numbers)
+>         └── 名从: (why customers are annoyed and fleeing in large numbers) → wondering 的宾语
+>               └── 介短: (in large numbers) → 修饰 [fleeing]（程度）
+> ```
+>
+> **参考译文**：然后它赞助大量研讨会和公信力项目，致力于探究客户为何恼怒并大量流失。
+>
+> **考点提示**：
+> 1. "be dedicated to" 固定搭配，意为"致力于/专注于"，to 是介词，后接动名词
+> 2. 过去分词短语 "dedicated to..." 作后置定语修饰 project
+> 3. "wonder why" 后接宾语从句，表示"想知道为什么"
+> 4. "fleeing in large numbers" flee 意为"逃离/流失"
+
 ---
   
 ## 考研真题
