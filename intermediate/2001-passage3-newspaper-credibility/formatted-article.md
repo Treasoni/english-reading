@@ -309,4 +309,4 @@ This is an ==explosive situation== for any industry, particularly a declining on
 - [A] failure to realize its real problem
 - [B] tendency to hire annoying reporters
 - [C] likeliness to do inaccurate reporting
-- [D] prejudice in matters of race and gender
+- [D] **prejudice** in matters of race and gender
