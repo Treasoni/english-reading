@@ -222,7 +222,7 @@ Reporters tend to be part of a broadly defined social and cultural ==elite==, so
 > 2. "not... but..." 并列对比结构，表示"不是...而是..."
 > 3. "reportorial skills" 报道技巧，reportorial 是 reporter 的形容词形式
 
-This is an ==explosive situation== for any industry, particularly a declining one. Here is a troubled business that keeps **hiring** employees whose attitudes vastly annoy the customers. Then it sponsors lots of symposiums and a credibility project dedicated to wondering why customers are annoyed and fleeing in large numbers. But it never seems to get around to noticing the ==cultural and class biases== that so many former buyers are complaining about. If it did, it would open up its diversity program, now focused narrowly on race and gender, and look for reporters who differ broadly by outlook, values, education, and class.
+This is an ==explosive situation== for any industry, particularly a declining one. Here is a troubled business that keeps **hiring** employees whose attitudes vastly annoy the customers. Then it sponsors lots of **symposiums** and a **credibility** project dedicated to wondering why customers are annoyed and fleeing in large numbers. But it never seems to get around to noticing the ==cultural and class biases== that so many former buyers are complaining about. If it did, it would open up its diversity program, now focused narrowly on race and gender, and look for reporters who differ broadly by outlook, values, education, and class.
 
 ---
   
