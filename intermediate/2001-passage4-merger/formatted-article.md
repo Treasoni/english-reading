@@ -14,6 +14,8 @@ sources:
 The world is going through the biggest wave of **mergers and acquisitions** ever witnessed. The process sweeps from **hyperactive** America to Europe and reaches the **emerging countries** with **unsurpassed** might. Many in these countries are looking at this process and worrying: "Won't the wave of **business concentration** turn into an uncontrollable **anti-competitive** force?"
 
 > [!abstract]- 长难句分析
+> **原句**：Many in these countries are looking at this process and worrying: "Won't the wave of **business concentration** turn into an uncontrollable **anti-competitive** force?"
+>
 > **主干提取**：Many are looking at this process and worrying: "Won't the wave ... turn into ... force?"
 >
 > **修饰成分**：
@@ -41,6 +43,8 @@ The world is going through the biggest wave of **mergers and acquisitions** ever
 > **考点提示**：(1) Many 作代词主语，后接介词短语 in these countries 作后置定语/状语限定范围；(2) 并列谓语 are looking at 和 worrying 共享主语 Many；(3) 冒号后的引用问句充当 worrying 的内容，相当于同位语，解释担忧的具体内容；(4) business concentration（企业集中）是考研高频话题词汇。
 
 > [!abstract]- 长难句分析
+> **原句**：The process sweeps from **hyperactive** America to Europe and reaches the **emerging countries** with **unsurpassed** might.
+>
 > **主干提取**：The process sweeps from America to Europe and reaches the emerging countries with might.
 >
 > **修饰成分**：
