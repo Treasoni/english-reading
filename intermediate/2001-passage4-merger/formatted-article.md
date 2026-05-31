@@ -11,7 +11,32 @@ sources:
   - "2001年考研英语阅读 Passage 4"
 ---
 
-The world is going through the biggest wave of **mergers and acquisitions** ever witnessed. The process sweeps from **hyperactive** America to Europe and reaches the emerging countries with **unsurpassed** might. Many in these countries are looking at this process and worrying: "Won't the wave of business concentration turn into an uncontrollable anti-competitive force?"
+The world is going through the biggest wave of **mergers and acquisitions** ever witnessed. The process sweeps from **hyperactive** America to Europe and reaches the **emerging countries** with **unsurpassed** might. Many in these countries are looking at this process and worrying: "Won't the wave of business concentration turn into an uncontrollable anti-competitive force?"
+
+> [!abstract]- 长难句分析
+> **主干提取**：The process sweeps from America to Europe and reaches the emerging countries with might.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|-----------|----------|
+> | 介词短语 | from hyperactive America | sweeps 的起点状语 |
+> | 介词短语 | to Europe | sweeps 的终点状语 |
+> | 介词短语 | with unsurpassed might | reaches 的方式状语 |
+> | 并列连词 | and | 连接 sweeps 与 reaches 两个并列谓语 |
+>
+> **结构图解**：
+> ```
+> 主句: The process [sweeps ... and reaches ...]
+>   ├── 介短: from hyperactive America → sweeps 起点
+>   ├── 介短: to Europe → sweeps 终点
+>   ├── 介短: with unsurpassed might → reaches 方式
+>   └── 并列: and → 连接 sweeps / reaches
+> ```
+>
+> **参考译文**：这一进程从异常活跃的美国席卷到欧洲，并以无可匹敌的力量触及新兴国家。
+>
+> **考点提示**：并列谓语结构——sweeps 和 reaches 共享同一主语 The process，通过 and 连接，形成并列谓语。介词短语 from...to... 表示"从……到……"的完整路径，with 短语表示方式。注意 hyperactive（异常活跃的）和 unsurpassed（无可匹敌的）两个形容词的修辞效果。
 
 There's no question that the big are getting bigger and more powerful. **Multinational corporations** accounted for less than 20% of international trade in 1982. Today the figure is more than 25% and growing rapidly. International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment. In Argentina, for instance, after the reforms of the early 1990s, multinationals went from 43% to almost 70% of the industrial production of the 200 largest firms. This phenomenon has created serious concerns over the role of smaller economic firms, of national businessmen and over the ultimate stability of the world economy.
 
