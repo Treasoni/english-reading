@@ -73,6 +73,33 @@ The world is going through the biggest wave of **mergers and acquisitions** ever
 
 **There's no question that** the big are getting bigger and more powerful. **Multinational corporations** accounted for less than 20% of international trade in 1982. Today the **figure** is more than 25% and growing rapidly. International **affiliates** account for a fast-growing segment of production in economies that open up and welcome foreign investment. In Argentina, for instance, after the reforms of the early 1990s, multinationals went from 43% to almost 70% of the industrial production of the 200 largest firms. This phenomenon has created serious concerns over the role of smaller economic firms, of national businessmen and over the ultimate stability of the world economy.
 
+> [!abstract]- 长难句分析
+> **原句**：International **affiliates** account for a fast-growing segment of production in economies that open up and welcome foreign investment.
+>
+> **主干提取**：International affiliates account for a fast-growing segment of production in economies.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|-----------|----------|
+> | 介词短语 | of production | 修饰 segment，限定"什么的份额" |
+> | 介词短语 | in economies | 地点状语，限定范围 |
+> | 定语从句 | that open up and welcome foreign investment | 修饰 economies |
+>
+> **结构图解**：
+> ```
+> 主句: International affiliates [account for] a fast-growing segment of production in economies
+>   ├── 介短: of production → 修饰 segment
+>   ├── 介短: in economies → 地点状语
+>   └── 定从: that open up and welcome foreign investment → 修饰 economies
+>         ├── 并列: open up / welcome（并列谓语）
+>         └── O: foreign investment
+> ```
+>
+> **参考译文**：国际附属公司在那些开放并欢迎外国投资的经济体中，占据了生产中快速增长的份额。
+>
+> **考点提示**：(1) **account for** 是考研高频短语，此处意为"占据（比例）"，另有"解释、说明"之义；(2) 定语从句 that open up and welcome foreign investment 修饰 economies，而非修饰 segment 或 production——注意介词短语 in economies 与定从的衔接；(3) fast-growing（快速增长的）是复合形容词，考研阅读中常见。
+
 I believe that the most important forces behind the massive M&A wave are the same that underlie the **globalization** process: falling transportation and communication costs, lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customer's demands. All these are beneficial, not detrimental, to consumers. As productivity grows, the world's wealth increases.
 
 Examples of benefits or costs of the current concentration wave are scanty. Yet it is hard to imagine that the merger of a few oil firms today could re-create the same threats to competition that were feared nearly a century ago in the U.S., when the **Standard Oil Trust** was broken up. The mergers of telecom companies, such as **WorldCom**, hardly seem to bring higher prices for consumers or a reduction in the pace of technical progress. On the contrary, the price of communications is falling rapidly. In cars, too, concentration is increasing—witness **Daimler and Chrysler**, **Renault and Nissan**—but it does not appear that consumers are being hurt.
