@@ -37,6 +37,8 @@ The world is going through the biggest wave of **mergers and acquisitions** ever
 > **参考译文**：这一进程从异常活跃的美国席卷到欧洲，并以无可匹敌的力量触及新兴国家。
 >
 > **考点提示**：并列谓语结构——sweeps 和 reaches 共享同一主语 The process，通过 and 连接，形成并列谓语。介词短语 from...to... 表示"从……到……"的完整路径，with 短语表示方式。注意 hyperactive（异常活跃的）和 unsurpassed（无可匹敌的）两个形容词的修辞效果。
+>
+> **补充分析**：`with unsurpassed might` 的修饰对象存在两种理解——(1) 仅修饰 reaches，因 sweeps 已有 `from...to...` 作方向状语，`with` 短语就近修饰第二个谓语；(2) 修饰整个并列谓语 sweeps + reaches。考研中倾向**就近修饰原则**，即优先修饰最近的谓语动词 reaches，因此标注为"reaches 的方式状语"。
 
 There's no question that the big are getting bigger and more powerful. **Multinational corporations** accounted for less than 20% of international trade in 1982. Today the figure is more than 25% and growing rapidly. International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment. In Argentina, for instance, after the reforms of the early 1990s, multinationals went from 43% to almost 70% of the industrial production of the 200 largest firms. This phenomenon has created serious concerns over the role of smaller economic firms, of national businessmen and over the ultimate stability of the world economy.
 
