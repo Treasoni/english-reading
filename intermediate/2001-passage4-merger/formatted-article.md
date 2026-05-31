@@ -11,7 +11,7 @@ sources:
   - "2001年考研英语阅读 Passage 4"
 ---
 
-The world is going through the biggest wave of **mergers and acquisitions** ever witnessed. The process sweeps from **hyperactive** America to Europe and reaches the **emerging countries** with **unsurpassed** might. Many in these countries are looking at this process and worrying: "Won't the wave of business concentration turn into an uncontrollable anti-competitive force?"
+The world is going through the biggest wave of **mergers and acquisitions** ever witnessed. The process sweeps from **hyperactive** America to Europe and reaches the **emerging countries** with **unsurpassed** might. Many in these countries are looking at this process and worrying: "Won't the wave of business concentration turn into an uncontrollable **anti-competitive** force?"
 
 > [!abstract]- 长难句分析
 > **主干提取**：The process sweeps from America to Europe and reaches the emerging countries with might.
