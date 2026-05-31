@@ -11,7 +11,7 @@ sources:
   - "2001年考研英语阅读 Passage 4"
 ---
 
-The world is going through the biggest wave of **mergers and acquisitions** ever witnessed. The process sweeps from hyperactive America to Europe and reaches the emerging countries with unsurpassed might. Many in these countries are looking at this process and worrying: "Won't the wave of business concentration turn into an uncontrollable anti-competitive force?"
+The world is going through the biggest wave of **mergers and acquisitions** ever witnessed. The process sweeps from **hyperactive** America to Europe and reaches the emerging countries with **unsurpassed** might. Many in these countries are looking at this process and worrying: "Won't the wave of business concentration turn into an uncontrollable anti-competitive force?"
 
 There's no question that the big are getting bigger and more powerful. **Multinational corporations** accounted for less than 20% of international trade in 1982. Today the figure is more than 25% and growing rapidly. International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment. In Argentina, for instance, after the reforms of the early 1990s, multinationals went from 43% to almost 70% of the industrial production of the 200 largest firms. This phenomenon has created serious concerns over the role of smaller economic firms, of national businessmen and over the ultimate stability of the world economy.
 
