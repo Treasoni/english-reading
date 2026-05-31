@@ -14,6 +14,33 @@ sources:
 The world is going through the biggest wave of **mergers and acquisitions** ever witnessed. The process sweeps from **hyperactive** America to Europe and reaches the **emerging countries** with **unsurpassed** might. Many in these countries are looking at this process and worrying: "Won't the wave of **business concentration** turn into an uncontrollable **anti-competitive** force?"
 
 > [!abstract]- 长难句分析
+> **主干提取**：Many are looking at this process and worrying: "Won't the wave ... turn into ... force?"
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|-----------|----------|
+> | 介词短语 | in these countries | 修饰 Many，限定地点 |
+> | 并列连词 | and | 连接 looking at 与 worrying 两个并列谓语 |
+> | 现在进行时 | are looking / worrying | 表示持续状态 |
+> | 引用问句 | "Won't the wave ... turn into ... force?" | 充当 worrying 的内容（同位语） |
+>
+> **结构图解**：
+> ```
+> 主句: Many [are looking at ... and worrying]
+>   ├── 介短: in these countries → 限定 Many 的范围
+>   ├── 并列: and → 连接 looking at / worrying
+>   └── 引用问句: "Won't the wave ... turn into ... force?"
+>         ├── S: the wave of business concentration
+>         ├── V: won't ... turn into
+>         └── O: an uncontrollable anti-competitive force
+> ```
+>
+> **参考译文**：这些国家中的许多人正注视着这一进程并担忧："企业集中的浪潮会不会变成一股不可控的反竞争力量？"
+>
+> **考点提示**：(1) Many 作代词主语，后接介词短语 in these countries 作后置定语/状语限定范围；(2) 并列谓语 are looking at 和 worrying 共享主语 Many；(3) 冒号后的引用问句充当 worrying 的内容，相当于同位语，解释担忧的具体内容；(4) business concentration（企业集中）是考研高频话题词汇。
+
+> [!abstract]- 长难句分析
 > **主干提取**：The process sweeps from America to Europe and reaches the emerging countries with might.
 >
 > **修饰成分**：
