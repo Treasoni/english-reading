@@ -311,6 +311,33 @@ Yet the fact remains that the merger movement must be watched. A few weeks ago, 
 >
 > **考点提示**：(1) **the fact remains that...** 是考研阅读中的固定句型，意为"事实仍然是……"，that 引导表语从句；(2) **must be watched** 是情态动词 + 被动语态，表示"必须被监督"，暗示作者对并购运动持谨慎态度；(3) Yet 开头体现转折——前文说并购对消费者无害，此处转折强调仍需警惕。
 
+> [!abstract]- 长难句分析
+> **原句**：Who is going to supervise, regulate and operate as lender of last resort with the gigantic banks that are being created?
+>
+> **主干提取**：Who is going to supervise, regulate and operate as lender of last resort with the gigantic banks?
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|-----------|----------|
+> | 并列动词 | supervise, regulate and operate | 三个并列谓语，共享主语 Who |
+> | 介词短语 | as lender of last resort | 方式状语，说明 operate 的角色 |
+> | 介词短语 | with the gigantic banks | 与……一起，说明 operate 的对象 |
+> | 定语从句 | that are being created | 修饰 the gigantic banks |
+>
+> **结构图解**：
+> ```
+> 主句: Who [is going to supervise, regulate and operate]
+>   ├── 并列谓语: supervise / regulate / operate
+>   ├── 介短: as lender of last resort → 角色说明
+>   ├── 介短: with the gigantic banks → 与谁一起
+>   └── 定从: that [are being created] → 修饰 banks
+> ```
+>
+> **参考译文**：谁来监督、监管并作为最后贷款人运作那些正在创建的巨型银行？
+>
+> **考点提示**：(1) **三个并列动词** supervise, regulate and operate 共享主语 Who 和助动词 is going to，是并列谓语结构；(2) **as lender of last resort** 是介词短语作方式状语，说明 operate 的角色/方式，lender of last resort（最后贷款人）是金融术语，通常指中央银行；(3) **with the gigantic banks** 表示"与……一起"，说明 operate 的对象；(4) **are being created** 是现在进行时的被动语态，表示"正在被创建"，强调这些巨型银行是当前正在形成中的。
+
 ## Questions
 
 1. What is the typical trend of businesses today?
