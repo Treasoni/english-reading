@@ -190,6 +190,38 @@ Examples of benefits or costs of the current concentration wave are **scanty**. 
 >
 > **考点提示**：(1) **scanty** 意为"不足的、稀少的"，是考研阅读中的低频但重要词汇；(2) 嵌套 of 短语——Examples of [A] of [B]，B 修饰 A，A 修饰 Examples，需逐层拆解；(3) benefits or costs 用 or 而非 and，表示"利或弊"（任一方面），暗示目前两方面的证据都不足。
 
+> [!abstract]- 长难句分析
+> **原句**：Yet it is hard to imagine that the merger of a few oil firms today could re-create the same threats to competition that were feared nearly a century ago in the U.S., when the **Standard Oil Trust** was broken up.
+>
+> **主干提取**：Yet it is hard to imagine that ... could re-create the same threats ...
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|-----------|----------|
+> | 形式主语 | it ... to imagine that... | it 作形式主语，真正主语是不定式短语 |
+> | 宾语从句 | that the merger ... could re-create ... | 充当 imagine 的宾语（即真正主语的内容） |
+> | 介词短语 | of a few oil firms today | 修饰 merger |
+> | 定语从句 | that were feared nearly a century ago in the U.S. | 修饰 threats |
+> | 时间状语从句 | when the Standard Oil Trust was broken up | 修饰 feared，补充时间背景 |
+>
+> **结构图解**：
+> ```
+> 主句: it [is] hard to imagine that ...
+>   ├── 形式主语: it → 指代 to imagine that ...
+>   └── 真正主语: to imagine that ...
+>         └── 宾从: the merger [could re-create] the same threats
+>               ├── 介短: of a few oil firms today → 修饰 merger
+>               ├── 介短: to competition → 修饰 threats
+>               └── 定从: that [were feared] ... → 修饰 threats
+>                     ├── 时间: nearly a century ago in the U.S.
+>                     └── 状从: when the Standard Oil Trust was broken up → 修饰 feared
+> ```
+>
+> **参考译文**：然而，很难想象今天几家石油公司的合并会重新制造出近一个世纪前美国标准石油托拉斯被拆分时所担忧的那种对竞争的威胁。
+>
+> **考点提示**：(1) **it is hard to imagine that...** 是形式主语句型，it 代替后面的 that 从句作形式主语；(2) **the same threats to competition that...** 中，the same...that 是"同样的……那个"结构，that 引导定语从句修饰 threats；(3) when 引导时间状语从句，补充说明 feared 发生的时间背景（Standard Oil Trust 被拆分的年代）。
+
 Yet the fact remains that the merger movement must be watched. A few weeks ago, **Alan Greenspan** warned against the megamergers in the banking industry. Who is going to supervise, regulate and operate as lender of last resort with the gigantic banks that are being created? Won't multinationals shift production from one place to another when a nation gets too strict about infringements to fair competition? And should one country take upon itself the role of "defending competition" on issues that affect many other nations, as in the U.S. vs. Microsoft case?
  
 ## Questions
