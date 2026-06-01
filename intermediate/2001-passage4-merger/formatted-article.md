@@ -222,6 +222,37 @@ Examples of benefits or costs of the current concentration wave are **scanty**. 
 >
 > **考点提示**：(1) **it is hard to imagine that...** 是形式主语句型，it 代替后面的 that 从句作形式主语；(2) **the same threats to competition that...** 中，the same...that 是"同样的……那个"结构，that 引导定语从句修饰 threats；(3) when 引导时间状语从句，补充说明 feared 发生的时间背景（Standard Oil Trust 被拆分的年代）。
 
+> [!abstract]- 长难句分析
+> **原句**：The mergers of telecom companies, such as **WorldCom**, hardly seem to bring higher prices for consumers or a reduction in the pace of technical progress.
+>
+> **主干提取**：The mergers ... hardly seem to bring higher prices ... or a reduction ...
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|-----------|----------|
+> | 介词短语 | of telecom companies | 修饰 mergers |
+> | 插入语 | such as WorldCom | 举例说明 telecom companies |
+> | 否定副词 | hardly | 修饰 seem，表示"几乎不" |
+> | 并列结构 | A or B | 宾语并列：higher prices / a reduction |
+> | 介词短语 | for consumers | 修饰 higher prices |
+> | 介词短语 | in the pace of technical progress | 修饰 a reduction |
+>
+> **结构图解**：
+> ```
+> 主句: The mergers [hardly seem to bring] A or B
+>   ├── 介短: of telecom companies → 修饰 mergers
+>   ├── 插入语: such as WorldCom → 举例
+>   └── 并列宾语:
+>         ├── A: higher prices for consumers
+>         └── B: a reduction in the pace of technical progress
+>               └── 介短: in the pace of technical progress → 修饰 reduction
+> ```
+>
+> **参考译文**：电信公司的合并，如世通公司，似乎不会给消费者带来更高的价格或减缓技术进步的步伐。
+>
+> **考点提示**：(1) **hardly** 是否定副词，意为"几乎不"，使句子具有否定含义——seem to bring 实际上是"似乎不会带来"；(2) **or** 连接并列宾语 higher prices 和 a reduction，表示两种可能的结果都不会发生；(3) 注意 **in the pace of** 是"在……方面的步伐"，不要拆开理解。
+
 Yet the fact remains that the merger movement must be watched. A few weeks ago, **Alan Greenspan** warned against the megamergers in the banking industry. Who is going to supervise, regulate and operate as lender of last resort with the gigantic banks that are being created? Won't multinationals shift production from one place to another when a nation gets too strict about infringements to fair competition? And should one country take upon itself the role of "defending competition" on issues that affect many other nations, as in the U.S. vs. Microsoft case?
  
 ## Questions
