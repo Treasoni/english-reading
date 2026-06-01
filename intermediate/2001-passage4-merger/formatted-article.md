@@ -253,6 +253,38 @@ Examples of benefits or costs of the current concentration wave are **scanty**. 
 >
 > **考点提示**：(1) **hardly** 是否定副词，意为"几乎不"，使句子具有否定含义——seem to bring 实际上是"似乎不会带来"；(2) **or** 连接并列宾语 higher prices 和 a reduction，表示两种可能的结果都不会发生；(3) 注意 **in the pace of** 是"在……方面的步伐"，不要拆开理解。
 
+> [!abstract]- 长难句分析
+> **原句**：In cars, too, concentration is increasing—witness **Daimler and Chrysler**, **Renault and Nissan**—but it does not appear that consumers are being hurt.
+>
+> **主干提取**：Concentration is increasing—but it does not appear that consumers are being hurt.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|-----------|----------|
+> | 介词短语 | In cars | 地点状语 |
+> | 副词 | too | 表示"也"，类比前文电信行业 |
+> | 破折号插入语 | —witness Daimler and Chrysler, Renault and Nissan— | 举例说明，witness 为祈使句 |
+> | 并列连词 | but | 连接两个并列分句，表转折 |
+> | 形式主语 | it ... that consumers are being hurt | it 作形式主语，真正主语是 that 从句 |
+> | 现在进行时被动 | are being hurt | 表示正在被损害 |
+>
+> **结构图解**：
+> ```
+> 并列句: [Concentration is increasing] —but— [it does not appear that ...]
+>   ├── 分句1: Concentration [is increasing]
+>   │     ├── 介短: In cars → 地点状语
+>   │     ├── 副词: too → 类比
+>   │     └── 插入语: —witness Daimler and Chrysler, Renault and Nissan—
+>   └── 分句2: it [does not appear] that consumers are being hurt
+>         ├── 形式主语: it
+>         └── 主从: that consumers [are being hurt]
+> ```
+>
+> **参考译文**：在汽车行业，集中度也在增加——见证戴姆勒与克莱斯勒、雷诺与日产的合并——但消费者似乎并未受到损害。
+>
+> **考点提示**：(1) **witness** 此处为祈使句用法，意为"试看、见证"，用于引出具体事例；(2) **it does not appear that...** 是形式主语句型，it 代替 that 从句；(3) **are being hurt** 是现在进行时的被动语态，表示"正在被损害"；(4) but 连接的并列句体现作者的**转折态度**——虽然集中度增加，但消费者并未受损。
+
 Yet the fact remains that the merger movement must be watched. A few weeks ago, **Alan Greenspan** warned against the megamergers in the banking industry. Who is going to supervise, regulate and operate as lender of last resort with the gigantic banks that are being created? Won't multinationals shift production from one place to another when a nation gets too strict about infringements to fair competition? And should one country take upon itself the role of "defending competition" on issues that affect many other nations, as in the U.S. vs. Microsoft case?
  
 ## Questions
