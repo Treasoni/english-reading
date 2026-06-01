@@ -368,6 +368,35 @@ Yet the fact remains that the merger movement must be watched. A few weeks ago, 
 >
 > **考点提示**：(1) **否定疑问句表反问**——Won't...? 不是真正提问，而是反问语气，表达"肯定会这样"的含义，作者用此加强论点；(2) **when 引导时间状语从句**——从句说明主句动作发生的条件/时机，翻译时放在主句之前；(3) **strict about** 表示"对……严格"，infringements to fair competition 表示"对公平竞争的侵犯"；(4) **infringement** 是考研阅读中法律/经济类文章的高频词，意为"侵犯、违反（规则/权利）"。
 
+> [!abstract]- 长难句分析
+> **原句**：And should one country take upon itself the role of "defending competition" on issues that affect many other nations, as in the U.S. vs. Microsoft case?
+>
+> **主干提取**：Should one country take upon itself the role?
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|-----------|----------|
+> | 介词短语 | upon itself | take，与 take 搭配表示"承担" |
+> | 介词短语 | of "defending competition" | role，说明角色内容 |
+> | 介词短语 | on issues | take/the role，说明范围 |
+> | 定语从句 | that affect many other nations | issues，限定哪些问题 |
+> | 举例短语 | as in the U.S. vs. Microsoft case | 整句，类比例子 |
+>
+> **结构图解**：
+> ```
+> 主句: [Should] one country [take] upon itself the role
+>   ├── 介短: upon itself → take 搭配（承担）
+>   ├── 介短: of "defending competition" → 修饰 role
+>   ├── 介短: on issues → 说明范围
+>   │     └── 定从: that affect many other nations → 修饰 issues
+>   └── 举例: as in the U.S. vs. Microsoft case
+> ```
+>
+> **参考译文**：一个国家是否应该在影响其他多个国家的问题上承担"捍卫竞争"的角色，就像美国诉微软案那样？
+>
+> **考点提示**：(1) **take upon itself** 固定搭配——意为"承担、主动揽下"；(2) **should 引导的疑问句**——此处是反问语气，暗示作者认为一国不应单独承担此角色；(3) **as in...** 举例表达——as 引出类比例子，是考研阅读常见的举例方式；(4) **on issues that...** 嵌套结构——介词短语 + 定语从句，考研长难句常见模式。
+
 ## Questions
 
 1. What is the typical trend of businesses today?
