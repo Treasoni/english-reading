@@ -100,6 +100,34 @@ The world is going through the biggest wave of **mergers and acquisitions** ever
 >
 > **考点提示**：(1) **account for** 是考研高频短语，此处意为"占据（比例）"，另有"解释、说明"之义；(2) 定语从句 that open up and welcome foreign investment 修饰 economies，而非修饰 segment 或 production——注意介词短语 in economies 与定从的衔接；(3) fast-growing（快速增长的）是复合形容词，考研阅读中常见。
 
+> [!abstract]- 长难句分析
+> **原句**：This phenomenon has created serious concerns over the role of smaller economic firms, of national businessmen and over the ultimate stability of the world economy.
+>
+> **主干提取**：This phenomenon has created serious concerns over ... and over ...
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|-----------|----------|
+> | 现在完成时 | has created | 强调已产生并持续的影响 |
+> | 介词短语 | over the role of... | concerns 的内容（担忧对象 1） |
+> | 介词短语 | of smaller economic firms | 修饰 role |
+> | 介词短语 | of national businessmen | 与 of smaller economic firms 并列，修饰 role |
+> | 介词短语 | over the ultimate stability of... | concerns 的内容（担忧对象 2，与第一个 over 并列） |
+>
+> **结构图解**：
+> ```
+> 主句: This phenomenon [has created] serious concerns
+>   ├── 介短: over the role of ... → concerns 的内容①
+>   │     ├── 介短: of smaller economic firms → 修饰 role
+>   │     └── 介短: of national businessmen → 修饰 role（与上并列）
+>   └── 介短: over the ultimate stability of the world economy → concerns 的内容②
+> ```
+>
+> **参考译文**：这一现象引发了人们对小型经济企业、民族商人角色的严重担忧，以及对世界经济最终稳定性的忧虑。
+>
+> **考点提示**：(1) **concerns over** 表示"对……的担忧"，over 是介词，不是副词；(2) 两个 over 短语并列——`over the role of ...` 和 `over the ultimate stability of ...`，共享 concerns；(3) of smaller economic firms 和 of national businessmen 是并列的介词短语，共同修饰 role，而非分别修饰 concerns。
+
 I believe that the most important forces behind the massive M&A wave are the same that underlie the **globalization** process: falling transportation and communication costs, lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customer's demands. All these are beneficial, not detrimental, to consumers. As productivity grows, the world's wealth increases.
 
 Examples of benefits or costs of the current concentration wave are scanty. Yet it is hard to imagine that the merger of a few oil firms today could re-create the same threats to competition that were feared nearly a century ago in the U.S., when the **Standard Oil Trust** was broken up. The mergers of telecom companies, such as **WorldCom**, hardly seem to bring higher prices for consumers or a reduction in the pace of technical progress. On the contrary, the price of communications is falling rapidly. In cars, too, concentration is increasing—witness **Daimler and Chrysler**, **Renault and Nissan**—but it does not appear that consumers are being hurt.
