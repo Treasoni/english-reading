@@ -285,8 +285,32 @@ Examples of benefits or costs of the current concentration wave are **scanty**. 
 >
 > **考点提示**：(1) **witness** 此处为祈使句用法，意为"试看、见证"，用于引出具体事例；(2) **it does not appear that...** 是形式主语句型，it 代替 that 从句；(3) **are being hurt** 是现在进行时的被动语态，表示"正在被损害"；(4) but 连接的并列句体现作者的**转折态度**——虽然集中度增加，但消费者并未受损。
 
-Yet the fact remains that the merger movement must be watched. A few weeks ago, **Alan Greenspan** warned against the megamergers in the banking industry. Who is going to supervise, regulate and operate as lender of last resort with the gigantic banks that are being created? Won't multinationals shift production from one place to another when a nation gets too strict about infringements to fair competition? And should one country take upon itself the role of "defending competition" on issues that affect many other nations, as in the U.S. vs. Microsoft case?
- 
+Yet the fact remains that the merger movement must be watched. A few weeks ago, **Alan Greenspan** warned against the **megamergers** in the banking industry. Who is going to supervise, regulate and operate as lender of last resort with the gigantic banks that are being created? Won't multinationals shift production from one place to another when a nation gets too strict about infringements to fair competition? And should one country take upon itself the role of "defending competition" on issues that affect many other nations, as in the U.S. vs. Microsoft case?
+
+> [!abstract]- 长难句分析
+> **原句**：Yet the fact remains that the merger movement must be watched.
+>
+> **主干提取**：The fact remains that ... must be watched.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|-----------|----------|
+> | 连接副词 | Yet | 表示转折，与前文形成对比 |
+> | 表语从句 | that the merger movement must be watched | 充当 remains 的表语，解释 the fact 的内容 |
+> | 情态动词被动 | must be watched | 表示"必须被监督" |
+>
+> **结构图解**：
+> ```
+> 主句: The fact [remains] that ...
+>   └── 表从: the merger movement [must be watched]
+>         └── 被动: must be watched → 必须被监督
+> ```
+>
+> **参考译文**：然而，事实仍然是，并购运动必须受到监督。
+>
+> **考点提示**：(1) **the fact remains that...** 是考研阅读中的固定句型，意为"事实仍然是……"，that 引导表语从句；(2) **must be watched** 是情态动词 + 被动语态，表示"必须被监督"，暗示作者对并购运动持谨慎态度；(3) Yet 开头体现转折——前文说并购对消费者无害，此处转折强调仍需警惕。
+
 ## Questions
 
 1. What is the typical trend of businesses today?
