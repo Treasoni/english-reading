@@ -6,7 +6,7 @@ tags:
   - english-reading
   - formatted-article
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-01
 sources:
   - "2001年考研英语阅读 Passage 4"
 ---
@@ -337,6 +337,36 @@ Yet the fact remains that the merger movement must be watched. A few weeks ago, 
 > **参考译文**：谁来监督、监管并作为最后贷款人运作那些正在创建的巨型银行？
 >
 > **考点提示**：(1) **三个并列动词** supervise, regulate and operate 共享主语 Who 和助动词 is going to，是并列谓语结构；(2) **as lender of last resort** 是介词短语作方式状语，说明 operate 的角色/方式，lender of last resort（最后贷款人）是金融术语，通常指中央银行；(3) **with the gigantic banks** 表示"与……一起"，说明 operate 的对象；(4) **are being created** 是现在进行时的被动语态，表示"正在被创建"，强调这些巨型银行是当前正在形成中的。
+
+> [!abstract]- 长难句分析
+> **原句**：Won't multinationals shift production from one place to another when a nation gets too strict about infringements to fair competition?
+>
+> **主干提取**：Won't multinationals shift production from one place to another?
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|-----------|----------|
+> | 否定疑问 | Won't | 表反问语气，非真正提问 |
+> | 介词短语 | from one place to another | 修饰 shift，表方向 |
+> | 时间状语从句 | when a nation gets too strict... | 修饰 shift，说明时机 |
+> | 介词短语 | about infringements to fair competition | 修饰 strict，说明严格对待的对象 |
+>
+> **结构图解**：
+> ```
+> 主句: [Won't] multinationals [shift] production [from...to...]
+>   ├── 介短: from one place to another → 表转移方向
+>   └── 状从: when a nation gets too strict about...
+>         ├── S: a nation
+>         ├── V: gets
+>         ├── C: too strict
+>         └── 介短: about infringements to fair competition
+>               └── 介短: to fair competition → 修饰 infringements
+> ```
+>
+> **参考译文**：当一个国家对侵犯公平竞争的行为管得过严时，跨国公司难道不会将生产转移到其他地方吗？
+>
+> **考点提示**：(1) **否定疑问句表反问**——Won't...? 不是真正提问，而是反问语气，表达"肯定会这样"的含义，作者用此加强论点；(2) **when 引导时间状语从句**——从句说明主句动作发生的条件/时机，翻译时放在主句之前；(3) **strict about** 表示"对……严格"，infringements to fair competition 表示"对公平竞争的侵犯"；(4) **infringement** 是考研阅读中法律/经济类文章的高频词，意为"侵犯、违反（规则/权利）"。
 
 ## Questions
 
