@@ -130,6 +130,40 @@ The world is going through the biggest wave of **mergers and acquisitions** ever
 
 I believe that the most important forces behind the massive M&A wave are the same that underlie the **globalization** process: falling transportation and communication costs, lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customer's demands. All these are beneficial, not detrimental, to consumers. As productivity grows, the world's wealth increases.
 
+> [!abstract]- 长难句分析
+> **原句**：I believe that the most important forces behind the massive M&A wave are the same that underlie the **globalization** process: falling transportation and communication costs, lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customer's demands.
+>
+> **主干提取**：I believe that the most important forces ... are the same that underlie the globalization process.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|-----------|----------|
+> | 宾语从句 | that the most important forces ... are the same | 充当 believe 的宾语 |
+> | 介词短语 | behind the massive M&A wave | 修饰 forces，限定"哪方面的力量" |
+> | 定语从句 | that underlie the globalization process | 修饰 the same |
+> | 冒号列举 | : falling ... / lower ... / and enlarged ... | 解释说明 the same 具体指什么 |
+> | 定语从句 | that require enlarged operations | 修饰 enlarged markets |
+> | 过去分词短语 | capable of meeting customer's demands | 修饰 enlarged operations |
+>
+> **结构图解**：
+> ```
+> 主句: I [believe] that ...
+>   └── 宾从: the most important forces [are] the same
+>         ├── 介短: behind the massive M&A wave → 修饰 forces
+>         ├── 定从: that underlie the globalization process → 修饰 the same
+>         └── 冒号列举 (= the same 的具体内容):
+>               ├── ① falling transportation and communication costs
+>               ├── ② lower trade and investment barriers
+>               └── ③ enlarged markets
+>                     ├── 定从: that require enlarged operations
+>                     └── 分词: capable of meeting customer's demands → 修饰 operations
+> ```
+>
+> **参考译文**：我认为，推动这股大规模并购浪潮的最重要力量与推动全球化进程的力量相同：运输和通信成本的下降、贸易和投资壁垒的降低，以及需要扩大运营规模以满足客户需求的扩大市场。
+>
+> **考点提示**：(1) **the same that** 结构——the same 作表语，that 引导定语从句修饰 the same，表示"与……相同的力量"；(2) 冒号起到**解释说明**作用，列举 the same 的具体内容（三个并列名词短语）；(3) 嵌套修饰——enlarged markets 后接 that 定从，定从内又有 capable of 分词短语修饰 operations，形成三层嵌套。
+
 Examples of benefits or costs of the current concentration wave are scanty. Yet it is hard to imagine that the merger of a few oil firms today could re-create the same threats to competition that were feared nearly a century ago in the U.S., when the **Standard Oil Trust** was broken up. The mergers of telecom companies, such as **WorldCom**, hardly seem to bring higher prices for consumers or a reduction in the pace of technical progress. On the contrary, the price of communications is falling rapidly. In cars, too, concentration is increasing—witness **Daimler and Chrysler**, **Renault and Nissan**—but it does not appear that consumers are being hurt.
 
 Yet the fact remains that the merger movement must be watched. A few weeks ago, **Alan Greenspan** warned against the megamergers in the banking industry. Who is going to supervise, regulate and operate as lender of last resort with the gigantic banks that are being created? Won't multinationals shift production from one place to another when a nation gets too strict about infringements to fair competition? And should one country take upon itself the role of "defending competition" on issues that affect many other nations, as in the U.S. vs. Microsoft case?
