@@ -164,10 +164,34 @@ I believe that the most important forces behind the massive M&A wave are the sam
 >
 > **考点提示**：(1) **the same that** 结构——the same 作表语，that 引导定语从句修饰 the same，表示"与……相同的力量"；(2) 冒号起到**解释说明**作用，列举 the same 的具体内容（三个并列名词短语）；(3) 嵌套修饰——enlarged markets 后接 that 定从，定从内又有 capable of 分词短语修饰 operations，形成三层嵌套。
 
-Examples of benefits or costs of the current concentration wave are scanty. Yet it is hard to imagine that the merger of a few oil firms today could re-create the same threats to competition that were feared nearly a century ago in the U.S., when the **Standard Oil Trust** was broken up. The mergers of telecom companies, such as **WorldCom**, hardly seem to bring higher prices for consumers or a reduction in the pace of technical progress. On the contrary, the price of communications is falling rapidly. In cars, too, concentration is increasing—witness **Daimler and Chrysler**, **Renault and Nissan**—but it does not appear that consumers are being hurt.
+Examples of benefits or costs of the current concentration wave are **scanty**. Yet it is hard to imagine that the merger of a few oil firms today could re-create the same threats to competition that were feared nearly a century ago in the U.S., when the **Standard Oil Trust** was broken up. The mergers of telecom companies, such as **WorldCom**, hardly seem to bring higher prices for consumers or a reduction in the pace of technical progress. On the contrary, the price of communications is falling rapidly. In cars, too, concentration is increasing—witness **Daimler and Chrysler**, **Renault and Nissan**—but it does not appear that consumers are being hurt.
+
+> [!abstract]- 长难句分析
+> **原句**：Examples of benefits or costs of the current concentration wave are **scanty**.
+>
+> **主干提取**：Examples ... are scanty.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|-----------|----------|
+> | 介词短语 | of benefits or costs | 修饰 Examples，限定"什么的例子" |
+> | 介词短语 | of the current concentration wave | 修饰 benefits or costs，限定"哪方面的利弊" |
+> | 并列连词 | or | 连接 benefits 与 costs |
+>
+> **结构图解**：
+> ```
+> 主句: Examples [are] scanty
+>   └── 介短: of benefits or costs → 修饰 Examples
+>         └── 介短: of the current concentration wave → 修饰 benefits or costs
+> ```
+>
+> **参考译文**：当前集中化浪潮的利弊实例还很稀少。
+>
+> **考点提示**：(1) **scanty** 意为"不足的、稀少的"，是考研阅读中的低频但重要词汇；(2) 嵌套 of 短语——Examples of [A] of [B]，B 修饰 A，A 修饰 Examples，需逐层拆解；(3) benefits or costs 用 or 而非 and，表示"利或弊"（任一方面），暗示目前两方面的证据都不足。
 
 Yet the fact remains that the merger movement must be watched. A few weeks ago, **Alan Greenspan** warned against the megamergers in the banking industry. Who is going to supervise, regulate and operate as lender of last resort with the gigantic banks that are being created? Won't multinationals shift production from one place to another when a nation gets too strict about infringements to fair competition? And should one country take upon itself the role of "defending competition" on issues that affect many other nations, as in the U.S. vs. Microsoft case?
-
+ 
 ## Questions
 
 1. What is the typical trend of businesses today?
