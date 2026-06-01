@@ -128,7 +128,7 @@ The world is going through the biggest wave of **mergers and acquisitions** ever
 >
 > **考点提示**：(1) **concerns over** 表示"对……的担忧"，over 是介词，不是副词；(2) 两个 over 短语并列——`over the role of ...` 和 `over the ultimate stability of ...`，共享 concerns；(3) of smaller economic firms 和 of national businessmen 是并列的介词短语，共同修饰 role，而非分别修饰 concerns。
 
-I believe that the most important forces behind the massive M&A wave are the same that underlie the **globalization** process: falling transportation and communication costs, lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customer's demands. All these are beneficial, not detrimental, to consumers. As productivity grows, the world's wealth increases.
+I believe that the most important forces behind the massive M&A wave are the same that underlie the **globalization** process: falling transportation and communication costs, lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customer's demands. All these are beneficial, not **detrimental**, to consumers. As productivity grows, the world's wealth increases.
 
 > [!abstract]- 长难句分析
 > **原句**：I believe that the most important forces behind the massive M&A wave are the same that underlie the **globalization** process: falling transportation and communication costs, lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customer's demands.
