@@ -86,7 +86,7 @@ sources:
 > - **定语从句并列谓语**：that 从句中 hurt 和 blocked 并列，共享主语 that（指代 a lateral move）。
 > - **by + V-ing 表示方式**：by claiming 表示"通过声称……"，是考研翻译中常见的介词短语结构。
 
-(1)Curiously, some two-and-a-half years and two novels later, my experiment in what the Americans **term** "downshifting" has turned my **tired** excuse into an absolute reality. (2)I have been transformed from a passionate advocate of the philosophy of "having it all," preached by Linda Kelsey for the past seven years in the page of She magazine, into a woman who is happy to settle for a bit of everything.
+(1)Curiously, some two-and-a-half years and two novels later, my experiment in what the Americans **term** "downshifting" has turned my **tired** excuse into an absolute reality. (2)I have been transformed from a **passionate** advocate of the philosophy of "having it all," preached by Linda Kelsey for the past seven years in the page of She magazine, into a woman who is happy to settle for a bit of everything.
 
 > [!abstract]- 长难句分析
 > **原句**：Curiously, some two-and-a-half years and two novels later, my experiment in what the Americans term "downshifting" has turned my tired excuse into an absolute reality.
