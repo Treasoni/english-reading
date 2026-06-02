@@ -49,6 +49,43 @@ sources:
 > - **时间状语从句的时态**：从句用一般过去时（decided），主句也用过去时（occurred），表示过去某一时刻的认知状态。
 > - **不定式作宾语**：decide 后接 to do 不定式作宾语，表示"决定做某事"。
 
+> [!abstract]- 长难句分析
+> **原句**：A lateral move that hurt my pride and blocked my professional progress prompted me to abandon my relatively high profile career although, in the manner of a disgraced government minister, I covered my exit by claiming "I wanted to spend more time with my family".
+>
+> **主干提取**：
+> - **S（主语）**：A lateral move（一次平级调动）
+> - **V（谓语）**：prompted（促使）
+> - **O（宾语）**：me
+> - **宾补**：to abandon my relatively high profile career（放弃高调的职业生涯）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 定语从句 | that | A lateral move（限制性定语从句） |
+> | 不定式短语 | to abandon | prompted 的宾补（prompt sb. to do sth.） |
+> | 状语从句（让步） | although | 主句（表示"尽管……"） |
+> | 介词短语（插入语） | in the manner of | covered（方式状语，模拟某人的方式） |
+> | 介词短语 | by claiming | covered（方式状语，通过声称……来掩盖） |
+>
+> **结构图解**：
+> ```
+> 主句: A lateral move (S) + prompted (V) + me (O) + to abandon ... career (宾补)
+>   ├── 定从: (that hurt my pride and blocked my professional progress) → 修饰 A lateral move
+>   │     └── 并列: hurt... and blocked...（两个并列谓语）
+>   └── 状从: (although I covered my exit by claiming ...) → 让步状语
+>         ├── 介短: (in the manner of a disgraced government minister) → 方式状语（插入语）
+>         └── 介短: (by claiming "I wanted to spend more time with my family") → 方式状语
+> ```
+>
+> **参考译文**：一次伤了我的自尊心、阻碍了我职业发展的平级调动促使我放弃了相对高调的职业生涯，尽管我像一位失势的政府部长那样，用"我想多花时间陪家人"来掩盖我的离职。
+>
+> **考点提示**：
+> - **prompt sb. to do sth.**：促使某人做某事，是考研高频搭配。类似结构：cause sb. to do、enable sb. to do、force sb. to do。
+> - **although 插入语分隔**：让步状语从句中，"in the manner of a disgraced government minister" 作为插入语用逗号隔开，干扰了从句的主谓结构（I covered）。考研常考插入语对句子理解的干扰。
+> - **定语从句并列谓语**：that 从句中 hurt 和 blocked 并列，共享主语 that（指代 a lateral move）。
+> - **by + V-ing 表示方式**：by claiming 表示"通过声称……"，是考研翻译中常见的介词短语结构。
+
 (1)Curiously, some two-and-a-half years and two novels later, my experiment in what the Americans term "downshifting" has turned my tired excuse into an absolute reality. (2)I have been transformed from a passionate advocate of the philosophy of "having it all," preached by Linda Kelsey for the past seven years in the page of She magazine, into a woman who is happy to settle for a bit of everything.
 
 (1)I have discovered, as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress, that abandoning the doctrine of "juggling your life," and making the alternative move into "downshifting" brings with it far greater rewards than financial success and social status. (2)Nothing could persuade me to return to the kind of life Kelsey used to advocate and I once enjoyed: 12-hour working days, pressured deadlines, the fearful strain of office politics and the limitations of being a parent on "quality time".
