@@ -86,7 +86,7 @@ sources:
 > - **定语从句并列谓语**：that 从句中 hurt 和 blocked 并列，共享主语 that（指代 a lateral move）。
 > - **by + V-ing 表示方式**：by claiming 表示"通过声称……"，是考研翻译中常见的介词短语结构。
 
-(1)Curiously, some two-and-a-half years and two novels later, my experiment in what the Americans term "downshifting" has turned my tired excuse into an absolute reality. (2)I have been transformed from a passionate advocate of the philosophy of "having it all," preached by Linda Kelsey for the past seven years in the page of She magazine, into a woman who is happy to settle for a bit of everything.
+(1)Curiously, some two-and-a-half years and two novels later, my experiment in what the Americans **term** "downshifting" has turned my **tired** excuse into an absolute reality. (2)I have been transformed from a passionate advocate of the philosophy of "having it all," preached by Linda Kelsey for the past seven years in the page of She magazine, into a woman who is happy to settle for a bit of everything.
 
 > [!abstract]- 长难句分析
 > **原句**：Curiously, some two-and-a-half years and two novels later, my experiment in what the Americans term "downshifting" has turned my tired excuse into an absolute reality.
@@ -123,6 +123,44 @@ sources:
 > - **turn... into... 句型**：把……变成……，是考研翻译高频搭配。注意时态 has turned 表示现在完成时，强调对现在的影响。
 > - **some 表示"大约"**：some 在数字前表示"大约"，相当于 about/approximately，考研阅读中常见。
 > - **term 作动词**：意为"称作、叫做"，等于 call/name。term A (as) B = 称 A 为 B。
+
+> [!abstract]- 长难句分析
+> **原句**：I have been transformed from a passionate advocate of the philosophy of "having it all," preached by Linda Kelsey for the past seven years in the page of She magazine, into a woman who is happy to settle for a bit of everything.
+>
+> **主干提取**：
+> - **S（主语）**：I
+> - **V（谓语）**：have been transformed（已经转变）——现在完成时被动语态
+> - **介词短语1（起点）**：from a passionate advocate of the philosophy of "having it all"（从"拥有一切"哲学的热情倡导者）
+> - **介词短语2（终点）**：into a woman who is happy to settle for a bit of everything（变成一个满足于"每样都有一点"的女人）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介词短语 | of the philosophy | advocate（表示"……的哲学的倡导者"） |
+> | 介词短语 | of "having it all" | philosophy（修饰哲学的内容） |
+> | 过去分词短语 | preached by | philosophy（后置定语，"由……所宣扬的"） |
+> | 定语从句 | who | a woman（限制性定语从句） |
+> | 不定式短语 | to settle for | happy 的补语（be happy to do） |
+>
+> **结构图解**：
+> ```
+> 主句: I (S) + have been transformed (V) + from A + into B
+>   ├── 介短: (from a passionate advocate of the philosophy...) → 起点
+>   │     ├── 介短: (of the philosophy of "having it all") → 修饰 advocate
+>   │     └── 非谓语: (preached by Linda Kelsey...) → 修饰 philosophy（后置定语）
+>   └── 介短: (into a woman who is happy...) → 终点
+>         └── 定从: (who is happy to settle for a bit of everything) → 修饰 a woman
+>               └── 非谓语: (to settle for a bit of everything) → happy 的补语
+> ```
+>
+> **参考译文**：我已经从一个"拥有一切"哲学的热情倡导者（琳达·凯尔西过去七年在《她》杂志上一直宣扬这种哲学），变成了一个乐于满足于"每样都有一点"的女人。
+>
+> **考点提示**：
+> - **be transformed from A into B**：从 A 转变为 B，是考研翻译常见被动结构。类似转换：be converted from... into、be changed from... into。
+> - **过去分词短语作后置定语**："preached by Linda Kelsey for the past seven years..." 修饰 philosophy，相当于定语从句 "which was preached by..."。考研常考过去分词短语的识别。
+> - **settle for**：勉强接受、满足于，考研阅读高频短语。如：We had to settle for second best.（我们只好退而求其次。）
+> - **having it all**：动名词短语作介词宾语，意为"拥有一切"，是西方女性主义的流行语。
 
 (1)I have discovered, as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress, that abandoning the doctrine of "juggling your life," and making the alternative move into "downshifting" brings with it far greater rewards than financial success and social status. (2)Nothing could persuade me to return to the kind of life Kelsey used to advocate and I once enjoyed: 12-hour working days, pressured deadlines, the fearful strain of office politics and the limitations of being a parent on "quality time".
 
