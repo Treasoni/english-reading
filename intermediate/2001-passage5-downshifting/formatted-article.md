@@ -14,7 +14,7 @@ sources:
 # Downshifting
 
 (1)When I decided to quit my full time employment it never occurred to me that I might become a part of a new international trend. (2)A lateral move that hurt my pride and blocked my professional progress prompted me to abandon my relatively high **profile** career although, in the manner of a disgraced government minister, I covered my exit by claiming "I wanted to spend more time with my family".
-
+ 
 > [!abstract]- 长难句分析
 > **原句**：When I decided to quit my full time employment it never occurred to me that I might become a part of a new international trend.
 >
