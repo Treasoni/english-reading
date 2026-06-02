@@ -164,6 +164,58 @@ sources:
 
 (1)I have discovered, as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress, that abandoning the doctrine of "juggling your life," and making the alternative move into "downshifting" brings with it far greater rewards than financial success and social status. (2)Nothing could persuade me to return to the kind of life Kelsey used to advocate and I once enjoyed: 12-hour working days, pressured deadlines, the fearful strain of office politics and the limitations of being a parent on "quality time".
 
+> [!abstract]- 长难句分析
+> **原句**：I have discovered, as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress, that abandoning the doctrine of "juggling your life," and making the alternative move into "downshifting" brings with it far greater rewards than financial success and social status.
+>
+> **主干提取**：
+> - **S（主语）**：I
+> - **V（谓语）**：have discovered
+> - **O（宾语）**：that 引导的宾语从句
+>   - 从句主语：abandoning the doctrine of "juggling your life" **and** making the alternative move into "downshifting"（两个动名词短语由 and 并列作主语）
+>   - 从句谓语：**brings**（单数，因主语描述同一行为的两个面）
+>   - 从句宾语：far greater rewards than financial success and social status
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 方式状语从句（插入语） | as | 主句（as perhaps Kelsey will discover = 正如凯尔西也会发现；will 后省略 discover） |
+> | 时间状语 | after | 方式状语从句（after her much-publicized resignation from the editorship of She = 在她从《她》主编职位上高调辞职之后） |
+> | 时间状语 | after | resignation（after a build-up of stress = 长期压力积累之后，解释辞职原因） |
+> | 介词短语 | from | resignation（from the editorship of She = 辞去《她》主编职位） |
+> | 介词短语 | of | doctrine（of "juggling your life" = "忙忙碌碌过生活"信条的内容） |
+> | 介词短语 | into | the alternative move（into "downshifting" = 转向"放慢生活节奏"） |
+> | 介词短语 | with | brings（bring with it = 随之带来，it 指代 downshifting 这种生活方式） |
+> | 比较结构 | than | rewards（than financial success and social status = 比较对象） |
+>
+> **结构图解**：
+> ```
+> I (S) + have discovered (V) + that-clause
+>   ├── 插入的方式状从: as perhaps Kelsey will (discover)
+>   │     └── 时间状语: after her much-publicized resignation
+>   │           ├── 介短: from the editorship of She
+>   │           └── 时间状语: after a build-up of stress
+>   └── 宾从: that
+>         ├── 主语: [abandoning the doctrine of "juggling your life"]
+>         │       └── 介短: of "juggling your life" → 修饰 doctrine
+>         ├── and
+>         ├── 主语: [making the alternative move into "downshifting"]
+>         │       └── 介短: into "downshifting" → 修饰 move
+>         ├── 谓语: brings + with it
+>         └── 宾语: [far greater rewards] + than financial success and social status
+> ```
+>
+> **参考译文**：我已经发现——也许凯尔西在长期压力积累下从《她》杂志主编职位上高调辞职之后也会有同样的发现——放弃"忙忙碌碌过生活"的信条，转而选择"放慢生活节奏"，所带来的回报远比经济上的成功和社会地位更有价值。
+>
+> **考点提示**：
+> 1. **as 引导的方式状语从句作插入语**："as perhaps Kelsey will (discover)" = "正如凯尔西可能也会发现"，从句中 will 后省略了与主句相同的动词 discover。插入语用双逗号隔开，干扰主谓识别，是考研经典难点。
+> 2. **双动名词并列作主语 + 单数谓语**：`abandoning...` 和 `making...` 由 and 并列共同作主语，虽有两个 -ing 形式，但描述同一行为的两个面，谓语仍用单数 **brings**。
+> 3. **嵌套"after"结构**：`resignation from the editorship of She after a build-up of stress`，需要从后往前剥离：先因压力积累（after a build-up of stress），再辞去《她》主编职位（resignation from the editorship of She）。
+> 4. **bring with it 固定搭配**："带来"之意，it 指代前文整件事（downshifting 这种生活方式），是考研翻译常考短语。
+> 5. **far 修饰比较级**：far greater rewards than...，"远比……丰厚"，far 在此为程度副词，意为"大大地"。
+> 6. **专有名词 She**：首字母大写的 She 是英国著名女性杂志名《她》，不要误解为人称代词。
+> 7. **独立同位语**：逗号将 "juggling your life" 隔开，延续 doctrine of 的搭配，作 doctrine 的同位语，进一步解释该信条。
+
 (1)In America, the move away from juggling to a simpler, less materialistic lifestyle is a well-established trend. (2)Downshifting—also known in America as "voluntary simplicity"—has, ironically, even bred a new area of what might be termed anti-consumerism. (3)There are a number of best-selling downshifting self-help books for people who want to simplify their lives; there are newsletters, such as The Tightwad Gazette, that give hundreds of thousands of Americans useful tips on anything from recycling their cling-film to making their own soap; there are even support groups for those who want to achieve the mid-'90s equivalent of dropping out.
 
 (1)While in America the trend started as a reaction to the economic decline—after the mass redundancies caused by downsizing in the late '80s—and is still linked to the politics of thrift, in Britain, at least among the middle-class downshifters of my acquaintance, we have different reasons for seeking to simplify our lives.
