@@ -15,6 +15,40 @@ sources:
 
 (1)When I decided to quit my full time employment it never occurred to me that I might become a part of a new international trend. (2)A lateral move that hurt my pride and blocked my professional progress prompted me to abandon my relatively high profile career although, in the manner of a disgraced government minister, I covered my exit by claiming "I wanted to spend more time with my family".
 
+> [!abstract]- 长难句分析
+> **原句**：When I decided to quit my full time employment it never occurred to me that I might become a part of a new international trend.
+>
+> **主干提取**：
+> - **S（主语）**：it（形式主语）
+> - **V（谓语）**：never occurred
+> - **A（状语）**：to me
+> - **真正主语**：that I might become a part of a new international trend（that 名词性从句）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 状语从句（时间） | When | 主句（表示"当我……时"） |
+> | 名词性从句（真正主语） | that | 主句（替代形式主语 it） |
+> | 非谓语（不定式） | to quit | decided 的宾语（决定的内容） |
+> | 介词短语 | of | a part（表示"……的一部分"） |
+>
+> **结构图解**：
+> ```
+> 主句: it (形式主语) + never occurred + to me
+>   ├── 状从: (When I decided to quit my full time employment) → 时间状语
+>   │     └── 非谓语: (to quit my full time employment) → decided 的宾语
+>   └── 名从: (that I might become a part of a new international trend) → 真正主语
+>         └── 介短: (of a new international trend) → 修饰 a part
+> ```
+>
+> **参考译文**：当我决定辞去全职工作时，我从未想到自己可能成为一种新的国际潮流的一部分。
+>
+> **考点提示**：
+> - **it 形式主语句型**："it never occurred to me that..." 是考研高频句型，it 作形式主语，真正主语是 that 从句。类似结构还有：it never dawned on me that...、it never struck me that...
+> - **时间状语从句的时态**：从句用一般过去时（decided），主句也用过去时（occurred），表示过去某一时刻的认知状态。
+> - **不定式作宾语**：decide 后接 to do 不定式作宾语，表示"决定做某事"。
+
 (1)Curiously, some two-and-a-half years and two novels later, my experiment in what the Americans term "downshifting" has turned my tired excuse into an absolute reality. (2)I have been transformed from a passionate advocate of the philosophy of "having it all," preached by Linda Kelsey for the past seven years in the page of She magazine, into a woman who is happy to settle for a bit of everything.
 
 (1)I have discovered, as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress, that abandoning the doctrine of "juggling your life," and making the alternative move into "downshifting" brings with it far greater rewards than financial success and social status. (2)Nothing could persuade me to return to the kind of life Kelsey used to advocate and I once enjoyed: 12-hour working days, pressured deadlines, the fearful strain of office politics and the limitations of being a parent on "quality time".
