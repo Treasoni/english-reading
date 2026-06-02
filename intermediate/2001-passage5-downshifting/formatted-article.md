@@ -88,6 +88,42 @@ sources:
 
 (1)Curiously, some two-and-a-half years and two novels later, my experiment in what the Americans term "downshifting" has turned my tired excuse into an absolute reality. (2)I have been transformed from a passionate advocate of the philosophy of "having it all," preached by Linda Kelsey for the past seven years in the page of She magazine, into a woman who is happy to settle for a bit of everything.
 
+> [!abstract]- 长难句分析
+> **原句**：Curiously, some two-and-a-half years and two novels later, my experiment in what the Americans term "downshifting" has turned my tired excuse into an absolute reality.
+>
+> **主干提取**：
+> - **S（主语）**：my experiment（我的实验）
+> - **V（谓语）**：has turned（已经把……变成）
+> - **O（宾语）**：my tired excuse（我那老套的借口）
+> - **介词短语**：into an absolute reality（成为绝对的现实）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 副词 | Curiously | 修饰整个句子（"奇怪的是"） |
+> | 时间状语 | some... later | 修饰主句（表示"大约……之后"） |
+> | 介词短语 | in what | experiment（表示"在……方面的实验"） |
+> | 名词性从句 | what | 作 in 的宾语（"美国人所称的'downshifting'"） |
+>
+> **结构图解**：
+> ```
+> 主句: my experiment (S) + has turned (V) + my tired excuse (O) + into an absolute reality
+>   ├── 副词: (Curiously) → 修饰整个句子
+>   ├── 介短: (some two-and-a-half years and two novels later) → 时间状语
+>   └── 介短: (in what the Americans term "downshifting") → 修饰 experiment
+>         └── 名从: (what the Americans term "downshifting") → 作 in 的宾语
+>               └── term: 称作（动词，意为"叫做"）
+> ```
+>
+> **参考译文**：奇怪的是，大约两年半后，在写了两部小说之后，我在美国人所称的"降档生活"方面的实验，已经把我那老套的借口变成了绝对的现实。
+>
+> **考点提示**：
+> - **what 名词性从句作介词宾语**："what the Americans term 'downshifting'" 整体作 in 的宾语。what 在从句中作 term 的宾语补足语（term A B = 称 A 为 B）。考研常考 what 从句的多重身份。
+> - **turn... into... 句型**：把……变成……，是考研翻译高频搭配。注意时态 has turned 表示现在完成时，强调对现在的影响。
+> - **some 表示"大约"**：some 在数字前表示"大约"，相当于 about/approximately，考研阅读中常见。
+> - **term 作动词**：意为"称作、叫做"，等于 call/name。term A (as) B = 称 A 为 B。
+
 (1)I have discovered, as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress, that abandoning the doctrine of "juggling your life," and making the alternative move into "downshifting" brings with it far greater rewards than financial success and social status. (2)Nothing could persuade me to return to the kind of life Kelsey used to advocate and I once enjoyed: 12-hour working days, pressured deadlines, the fearful strain of office politics and the limitations of being a parent on "quality time".
 
 (1)In America, the move away from juggling to a simpler, less materialistic lifestyle is a well-established trend. (2)Downshifting—also known in America as "voluntary simplicity"—has, ironically, even bred a new area of what might be termed anti-consumerism. (3)There are a number of best-selling downshifting self-help books for people who want to simplify their lives; there are newsletters, such as The Tightwad Gazette, that give hundreds of thousands of Americans useful tips on anything from recycling their cling-film to making their own soap; there are even support groups for those who want to achieve the mid-'90s equivalent of dropping out.
