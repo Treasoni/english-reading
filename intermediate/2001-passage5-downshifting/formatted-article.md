@@ -491,6 +491,56 @@ sources:
 
 (1)For the women of my generation who were urged to keep juggling through the '80s, downshifting in the mid-'90s is not so much a search for the mythical good life—growing your own organic vegetables, and risking turning into one—as a personal recognition of your limitations.
 
+> [!abstract]- 长难句分析
+> **原句**：For the women of my generation who were urged to keep juggling through the '80s, downshifting in the mid-'90s is not so much a search for the mythical good life—growing your own organic vegetables, and risking turning into one—as a personal recognition of your limitations.
+>
+> **主干提取**：
+> - **S（主语）**：downshifting in the mid-'90s
+> - **V（谓语）**：is
+> - **C（表语）**：a personal recognition of your limitations
+>
+> 主干简化版：**Downshifting is a recognition.**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 内容 | 修饰对象 |
+> |------|-----------|------|----------|
+> | 介词短语 | For | For the women of my generation | 整句（对象状语） |
+> | 定语从句 | who | who were urged to keep juggling through the '80s | women（限制性定语从句） |
+> | 介词短语 | in | in the mid-'90s | downshifting（时间状语） |
+> | 比较结构 | not so much...as... | not so much a search...as a recognition... | 表语（"与其说...不如说..."） |
+> | 介词短语 | for | for the mythical good life | search（后置定语） |
+> | 插入语 | 破折号 | —growing your own organic vegetables, and risking turning into one— | mythical good life（同位语，举例说明） |
+> | 介词短语 | of | of your limitations | recognition（后置定语） |
+>
+> **结构图解**：
+> ```
+> 主句: downshifting (S) + is (V) + a personal recognition of your limitations (C)
+>   │
+>   ├── 介短: (For the women of my generation) → 对象状语
+>   │     └── 定从: (who were urged to keep juggling through the '80s) → 修饰 women
+>   │           └── 介短: (through the '80s) → 时间状语
+>   │
+>   ├── 介短: (in the mid-'90s) → 修饰 downshifting
+>   │
+>   └── 比较结构: not so much A as B
+>         ├── A: a search for the mythical good life
+>         │     └── 插入语(同位语): —growing your own organic vegetables,
+>         │                          and risking turning into one—
+>         │           └── 并列: growing... and risking...
+>         └── B: a personal recognition of your limitations
+> ```
+>
+> **参考译文**：对于我们这一代在 80 年代被敦促要不断忙碌（juggling）的女性来说，90 年代中期的减速生活，与其说是对理想中的美好生活（自己种有机蔬菜，冒着变成一个"乡巴佬"的风险）的追求，不如说是对自身局限性的一种认识。
+>
+> **考点提示**：
+> 1. **not so much A as B 比较句型**：核心考点。意为"与其说是 A，不如说是 B"，强调后者。A = a search for the mythical good life，B = a personal recognition of your limitations。考研翻译常考此结构，需准确把握比较重心在 B。
+> 2. **who 定语从句的被动语态**：`who were urged to keep juggling` 中 urged 为被动语态（被敦促/被驱使），表示外界对 women 的压力。urge sb. to do sth. = 敦促某人做某事。
+> 3. **破折号同位语的识别与跳读**：`—growing your own organic vegetables, and risking turning into one—` 是对 "the mythical good life" 的同位语解释，用破折号包裹。考试时可先跳过，抓取主干 not so much...as... 后再回读。
+> 4. **keep doing 固定搭配**：keep juggling = 不断地杂耍/兼顾，表示持续忙碌的状态。keep + V-ing = 坚持做某事。
+> 5. **turning into one 中的 one 指代**：one 指代 "a person who grows their own organic vegetables"，即"那种自己种菜的人"，暗含"变得像个农民/土气的人"之意，带有自嘲口吻。
+> 6. **For 作对象状语**：句首 "For the women of my generation" 是介词短语作对象状语，限定整个句子的适用范围，翻译时需提前处理为"对于...来说"。
+
 ## 阅读理解题
 
 67. Which of the following is true according to Paragraph 1?
