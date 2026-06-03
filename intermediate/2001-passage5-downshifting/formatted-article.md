@@ -431,7 +431,7 @@ sources:
 > 9. **定从修饰介词宾语的特殊结构**：`the mid-'90s equivalent of dropping out` 中 equivalent 是介词 of 的宾语，再接 of dropping out 介词短语作后置定语。整体是"for those + who want to achieve + the mid-'90s equivalent of dropping out"。理解顺序：先找主干 for those，再处理 those 的定从 who want to achieve，最后处理 achieve 的宾语 the mid-'90s equivalent of dropping out。
 > 10. **equivalent 的搭配**：the equivalent of... 意为"……的等价物 / ……的对应物"。the mid-'90s equivalent of dropping out 意为"90 年代中期'退出职场'这种生活方式的对应形态"。
 
-(1)While in America the trend started as a reaction to the economic decline—after the mass redundancies caused by downsizing in the late '80s—and is still linked to the politics of thrift, in Britain, at least among the middle-class downshifters of my acquaintance, we have different reasons for seeking to simplify our lives.
+(1)While in America the trend started as a reaction to the economic decline—after the mass **redundancies** caused by **downsizing** in the late '80s—and is still linked to the politics of **thrift,** in Britain, at least among the middle-class downshifters of my acquaintance, we have different reasons for seeking to simplify our lives.
 
 (1)For the women of my generation who were urged to keep juggling through the '80s, downshifting in the mid-'90s is not so much a search for the mythical good life—growing your own organic vegetables, and risking turning into one—as a personal recognition of your limitations.
 
