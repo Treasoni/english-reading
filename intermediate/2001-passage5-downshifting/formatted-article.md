@@ -162,7 +162,8 @@ sources:
 > - **settle for**：勉强接受、满足于，考研阅读高频短语。如：We had to settle for second best.（我们只好退而求其次。）
 > - **having it all**：动名词短语作介词宾语，意为"拥有一切"，是西方女性主义的流行语。
 
-(1)I have discovered, as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress, that abandoning the doctrine of "juggling your life," and making the alternative move into "downshifting" brings with it far greater rewards than financial success and social status. (2)Nothing could persuade me to return to the kind of life Kelsey used to advocate and I once enjoyed: 12-hour working days, pressured deadlines, the fearful strain of office politics and the limitations of being a parent on "quality time".
+(1)I have discovered, as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress, that abandoning the doctrine of "juggling your life," and making the alternative move into "downshifting" brings with it far greater rewards than financial success and social status.
+(2)Nothing could persuade me to return to the kind of life Kelsey used to advocate and I once enjoyed: 12-hour working days, pressured deadlines, the fearful strain of office politics and the limitations of being a parent on "quality time".
 
 > [!abstract]- 长难句分析
 > **原句**：I have discovered, as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress, that abandoning the doctrine of "juggling your life," and making the alternative move into "downshifting" brings with it far greater rewards than financial success and social status.
