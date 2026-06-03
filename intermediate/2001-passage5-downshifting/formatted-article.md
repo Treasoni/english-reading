@@ -269,7 +269,7 @@ sources:
 > 7. **并列谓语/并列主语的识别**：Kelsey used to advocate and I once enjoyed 看似复杂，实则是两个分句 (Kelsey used to advocate) + (I once enjoyed) 的并列结构，共享被省略的关系代词 which 的宾语成分。
 > 8. **once 作副词**：once 在此意为"曾经、从前"，等于 formerly，与 used to 呼应，强化"过去"的时间语义。
 
-(1)In America, the move away from juggling to a simpler, less materialistic lifestyle is a well-established trend. (2)Downshifting—also known in America as "voluntary **simplicity**"—has, **ironically**, even bred a new area of what might be **termed** **anti-consumerism**. (3)There are a number of best-selling downshifting self-help books for people who want to simplify their lives; there are **newsletters**, such as The Tightwad Gazette, that give hundreds of thousands of Americans useful tips on anything from recycling their **cling-film** to making their own soap; there are even support groups for those who want to achieve the mid-'90s equivalent of dropping out.
+(1)In America, the move away from juggling to a simpler, less materialistic lifestyle is a well-established trend. (2)Downshifting—also known in America as "voluntary **simplicity**"—has, **ironically**, even bred a new area of what might be **termed** **anti-consumerism**. (3)There are a number of best-selling downshifting self-help books for people who want to simplify their lives; there are **newsletters**, such as The Tightwad Gazette, that give hundreds of thousands of Americans useful tips on anything from recycling their **cling-film** to making their own soap; there are even support groups for those who want to achieve the mid-'90s **equivalent** of dropping out.
 
 > [!abstract]- 长难句分析
 > **原句**：In America, the move away from juggling to a simpler, less materialistic lifestyle is a well-established trend.
