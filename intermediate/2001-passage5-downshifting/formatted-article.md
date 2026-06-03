@@ -216,7 +216,7 @@ sources:
 > 5. **far 修饰比较级**：far greater rewards than...，"远比……丰厚"，far 在此为程度副词，意为"大大地"。
 > 6. **专有名词 She**：首字母大写的 She 是英国著名女性杂志名《她》，不要误解为人称代词。
 > 7. **独立同位语**：逗号将 "juggling your life" 隔开，延续 doctrine of 的搭配，作 doctrine 的同位语，进一步解释该信条。
->
+
 > [!abstract]- 长难句分析
 > **原句**：Nothing could persuade me to return to the kind of life Kelsey used to advocate and I once enjoyed: 12-hour working days, pressured deadlines, the fearful strain of office politics and the limitations of being a parent on "quality time".
 >
