@@ -6,7 +6,7 @@ tags:
   - english-reading
   - formatted-article
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-03
 sources:
   - 2001年考研英语阅读 passage 5
 ---
@@ -269,7 +269,49 @@ sources:
 > 7. **并列谓语/并列主语的识别**：Kelsey used to advocate and I once enjoyed 看似复杂，实则是两个分句 (Kelsey used to advocate) + (I once enjoyed) 的并列结构，共享被省略的关系代词 which 的宾语成分。
 > 8. **once 作副词**：once 在此意为"曾经、从前"，等于 formerly，与 used to 呼应，强化"过去"的时间语义。
 
-(1)In America, the move away from juggling to a simpler, less materialistic lifestyle is a well-established trend. (2)Downshifting—also known in America as "voluntary simplicity"—has, ironically, even bred a new area of what might be termed anti-consumerism. (3)There are a number of best-selling downshifting self-help books for people who want to simplify their lives; there are newsletters, such as The Tightwad Gazette, that give hundreds of thousands of Americans useful tips on anything from recycling their cling-film to making their own soap; there are even support groups for those who want to achieve the mid-'90s equivalent of dropping out.
+(1)In America, the move away from juggling to a simpler, less materialistic lifestyle is a well-established trend. (2)Downshifting—also known in America as "voluntary **simplicity**"—has, **ironically**, even bred a new area of what might be **termed** **anti-consumerism**. (3)There are a number of best-selling downshifting self-help books for people who want to simplify their lives; there are newsletters, such as The Tightwad Gazette, that give hundreds of thousands of Americans useful tips on anything from recycling their cling-film to making their own soap; there are even support groups for those who want to achieve the mid-'90s equivalent of dropping out.
+
+> [!abstract]- 长难句分析
+> **原句**：In America, the move away from juggling to a simpler, less materialistic lifestyle is a well-established trend.
+>
+> **主干提取**：
+> - **S**（主语）：the move *(away from juggling) (to a simpler, less materialistic lifestyle)*
+> - **V**（谓语）：is
+> - **C**（表语）：a well-established trend
+> - **A**（状语）：In America
+>
+> 主干简化版：The move is a trend.
+>
+> **修饰成分**：
+>
+> | 类型 | 内容 | 修饰对象 |
+> |------|------|----------|
+> | 介词短语 | In America | 整句（地点状语） |
+> | 介词短语 | away from juggling | move（后置定语） |
+> | 介词短语 | to a simpler, less materialistic lifestyle | move（后置定语） |
+> | 形容词 | simpler, less materialistic | lifestyle（前置定语） |
+> | 复合形容词 | well-established | trend（前置定语） |
+>
+> **结构图解**：
+> ```
+> 主句: The move is a well-established trend
+>   ├── 状语: (In America,) → 地点状语
+>   └── 主语后置修饰:
+>        ├── 介短: (away from juggling) → 后置定语，修饰 move
+>        └── 介短: (to a simpler, less materialistic lifestyle) → 后置定语，修饰 move
+>               └── 形容词: (simpler, less materialistic) → 定语，修饰 lifestyle
+> ```
+>
+> **参考译文**：在美国，从忙碌的兼顾状态转向更简单、更少物欲的生活方式，已成为一种明确的趋势。
+>
+> **考点提示**：
+> 1. **介词短语作后置定语**：away from... 与 to... 均为介词短语作后置定语修饰 the move。两个介词短语并列、结构对称，构成"从 A 到 B"的转变语义。
+> 2. **多重后置定语的层次识别**：当一个抽象名词同时带两个介词短语作后置定语时，需根据语义区分二者修饰关系：away from juggling（远离 juggling 的状态）与 to a simpler lifestyle（转向更简单的生活方式），形成"由 A → B"的方向性对比。
+> 3. **复合形容词 well-established**：well-（充分地）+ 过去分词 established（已确立的），用连字符构成复合形容词，修饰 trend。类似结构：well-known, well-educated, well-defined, well-organized。
+> 4. **less + 形容词原级**：less materialistic 中 less 是 little 的比较级，修饰原级形容词 materialistic，意为"更少物质追求的"，相当于 not as materialistic as。注意比较级 less 修饰的是原级形容词，而非比较级。
+> 5. **主谓分离的识别**：the move 之后接较长的介词短语作后置定语，与谓语 is 之间出现明显的"主谓分离"。阅读时需先锁定主语 the move，再判断谓语 is，最后找到表语 a well-established trend，避免因修饰成分过长而误判主语。
+> 6. **抽象名词 move 的语义**："the move away from... to..." 意为"从……向……的转变/转移"，是考研阅读中常见的"动态抽象名词"用法。类似搭配：a shift from... to...、a transition from... to...、a change from... to...。
+> 7. **trend 的常见搭配**：trend 作主语时常搭配 a trend toward（向……的趋势）、a trend away from（远离……的趋势）、establish/form a trend（确立/形成趋势）。本文中 a well-established trend 便是"已确立的、已成形的趋势"。
 
 (1)While in America the trend started as a reaction to the economic decline—after the mass redundancies caused by downsizing in the late '80s—and is still linked to the politics of thrift, in Britain, at least among the middle-class downshifters of my acquaintance, we have different reasons for seeking to simplify our lives.
 
