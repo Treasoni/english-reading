@@ -269,7 +269,7 @@ sources:
 > 7. **并列谓语/并列主语的识别**：Kelsey used to advocate and I once enjoyed 看似复杂，实则是两个分句 (Kelsey used to advocate) + (I once enjoyed) 的并列结构，共享被省略的关系代词 which 的宾语成分。
 > 8. **once 作副词**：once 在此意为"曾经、从前"，等于 formerly，与 used to 呼应，强化"过去"的时间语义。
 
-(1)In America, the move away from juggling to a simpler, less materialistic lifestyle is a well-established trend. (2)Downshifting—also known in America as "voluntary **simplicity**"—has, **ironically**, even bred a new area of what might be **termed** **anti-consumerism**. (3)There are a number of best-selling downshifting self-help books for people who want to simplify their lives; there are newsletters, such as The Tightwad Gazette, that give hundreds of thousands of Americans useful tips on anything from recycling their cling-film to making their own soap; there are even support groups for those who want to achieve the mid-'90s equivalent of dropping out.
+(1)In America, the move away from juggling to a simpler, less materialistic lifestyle is a well-established trend. (2)Downshifting—also known in America as "voluntary **simplicity**"—has, **ironically**, even bred a new area of what might be **termed** **anti-consumerism**. (3)There are a number of best-selling downshifting self-help books for people who want to simplify their lives; there are **newsletters**, such as The Tightwad Gazette, that give hundreds of thousands of Americans useful tips on anything from recycling their **cling-film** to making their own soap; there are even support groups for those who want to achieve the mid-'90s equivalent of dropping out.
 
 > [!abstract]- 长难句分析
 > **原句**：In America, the move away from juggling to a simpler, less materialistic lifestyle is a well-established trend.
@@ -359,6 +359,77 @@ sources:
 > 5. **ironically 作评注性状语 (Disjunct)**：`ironically` 位于主语和谓语之间，用逗号隔开，是评注性状语，对整个句子进行作者态度评论，意为"具有讽刺意味的是"。考研中常考 ironically（讽刺的是）/ hopefully（希望）/ frankly（坦白说）/ actually（事实上）等评注性状语，它们修饰的是整个句子，而非某个具体成分，翻译时通常独立成句。
 > 6. **副词 even 的强调位置**：`has, ironically, even bred` 中 even 位于助动词 has 与实义动词 bred 之间，加强语气，意为"甚至"，暗示这种结果超出预期。注意 even 在一般现在/过去时中位于实义动词前（even like），在完成时中位于助动词与实义动词之间（has even bred）。
 > 7. **双破折号同位语的阅读技巧**：遇到 `—xxx—` 形式时，先跳过破折号内容理解主干（Downshifting has bred a new area of...），再回读破折号内容作为补充信息（Downshifting 在美国也称为"自愿简朴"）。这是考研阅读快速理解长难句的关键技巧之一，可避免被插入式修饰成分干扰。
+
+> [!abstract]- 长难句分析
+> **原句**：There are a number of best-selling downshifting self-help books for people who want to simplify their lives; there are newsletters, such as The Tightwad Gazette, that give hundreds of thousands of Americans useful tips on anything from recycling their cling-film to making their own soap; there are even support groups for those who want to achieve the mid-'90s equivalent of dropping out.
+>
+> **主干提取**（3 个并列的 There be 存现句，用分号 ; 连接）：
+> - **分句 1**：There are books. （S: a number of best-selling downshifting self-help books）
+> - **分句 2**：There are newsletters that give tips. （S: newsletters；定从 that... 为真正谓语结构）
+> - **分句 3**：There are support groups. （S: support groups）
+>
+> 主干简化版：There are books; there are newsletters that give tips; there are groups.
+>
+> **修饰成分**：
+>
+> | 类型 | 内容 | 修饰对象 |
+> |------|------|----------|
+> | 介词短语 | of best-selling downshifting | a number（后置定语） |
+> | 复合形容词 | best-selling | self-help books（前置定语） |
+> | 介词短语 | for people | books（后置定语） |
+> | 定语从句 | who want to simplify their lives | people（定语） |
+> | 同位语 | such as The Tightwad Gazette | newsletters（例证） |
+> | 定语从句 | that give hundreds of thousands of Americans useful tips on anything from ... to ... | newsletters（定语） |
+> | 双宾语 | IO: hundreds of thousands of Americans；DO: useful tips | give 的双宾结构 |
+> | 介词短语 | on anything from recycling ... to making ... | useful tips（后置定语） |
+> | 介词短语 | from recycling their cling-film | anything（后置定语） |
+> | 介词短语 | to making their own soap | anything（后置定语） |
+> | 副词 | even | are（强调状语） |
+> | 介词短语 | for those | groups（后置定语） |
+> | 定语从句 | who want to achieve the mid-'90s equivalent of dropping out | those（定语） |
+> | 复合形容词 | mid-'90s | equivalent（前置定语） |
+> | 介词短语 | of dropping out | equivalent（后置定语） |
+>
+> **结构图解**：
+> ```
+> 并列分句（分号 ; 连接 3 个 There be 存现句，构成排比）
+>   ├── 分句1: There are a number of best-selling downshifting self-help books (for people)
+>   │     ├── 介短: (of best-selling downshifting) → 修饰 a number
+>   │     ├── 复合形容词: (best-selling) → 修饰 self-help books
+>   │     └── 介短: (for people) → 修饰 books
+>   │           └── 定从: (who want to simplify their lives) → 修饰 people
+>   ├── 分句2: There are newsletters (such as The Tightwad Gazette,) (that give ...)
+>   │     ├── 同位语: (such as The Tightwad Gazette,) → 修饰 newsletters（例证）
+>   │     └── 定从: (that give hundreds of thousands of Americans useful tips
+>   │             on anything from recycling their cling-film to making their own soap)
+>   │           → 修饰 newsletters
+>   │           ├── 间接宾语: hundreds of thousands of Americans
+>   │           ├── 直接宾语: useful tips
+>   │           └── 介短: (on anything from ... to ...) → 修饰 tips
+>   │                 ├── 介短: (from recycling their cling-film) → 修饰 anything
+>   │                 └── 介短: (to making their own soap) → 修饰 anything
+>   └── 分句3: There are even support groups (for those)
+>         ├── 状语: (even) → 强调
+>         └── 介短: (for those) → 修饰 groups
+>               └── 定从: (who want to achieve the mid-'90s equivalent of dropping out)
+>                     → 修饰 those
+>                     ├── 复合形容词: (mid-'90s) → 修饰 equivalent
+>                     └── 介短: (of dropping out) → 修饰 equivalent
+> ```
+>
+> **参考译文**：如今有大量关于"放慢生活节奏"的畅销自助书籍，供那些想要简化生活的人阅读；有各类简报——比如《守财奴通讯》——为数十万美国人提供各种实用的生活窍门，从循环使用保鲜膜到自制肥皂应有尽有；甚至还有互助小组，帮助那些想要在 90 年代中期实现"退出职场"这种生活方式的人达成目标。
+>
+> **考点提示**：
+> 1. **There be 存现句的并列使用**：本句是 3 个独立的 There be 存现句，用分号 ; 而非 and 并列，结构层次更清晰。There be 句型表"某处/某时存在某物"，其中 there 为引导词，无实义；真正的主语在 be 之后。注意：① 真正主语为单数时用 is（There is a book...）；② 真正主语为复数或并列名词时用 are（There are books...）。
+> 2. **分号 (;) 连接并列分句**：考研阅读长难句常用分号连接两个语义相关、结构相似的独立分句。本句用分号连接 3 个 There be 存现句，强调"放慢生活运动"在多个层面的表现。注意分号前后的句子必须是独立分句（不能是从属分句），且分号不能与 and/but 同时使用。
+> 3. **排比结构 (Parallelism) 的修辞效果**：books → newsletters → support groups 形成"由阅读到实践再到社群"的递进式排比，层层深入展示"放慢生活运动"的具体形态。这是考研阅读中常见的修辞手法，阅读时需注意"同结构、同语法功能"的平行特征。
+> 4. **such as 引导例证性同位语**：`newsletters, such as The Tightwad Gazette,` 中 such as 意为"比如"，引出对 newsletters 的具体例证。such as 后接名词或名词短语，逗号前后均可。区分 such...that...（如此……以至于）vs such as（比如）。
+> 5. **双重介词 from...to... 修饰 anything**：`on anything from recycling ... to making ...` 是"on + anything + from...to..."结构，意为"在从……到……的任何事情上"。from...to... 介词短语并列修饰 anything，from 后接动名词 recycling，to 后接动名词 making。注意 from...to... 中 to 是不定式标志还是介词？本句 to making 中 to 是介词（接动名词），与 from 介词性质保持一致。
+> 6. **双宾语结构 give sb sth**：`give hundreds of thousands of Americans useful tips` 中 hundreds of thousands of Americans 是间接宾语（人），useful tips 是直接宾语（物），构成"give + 间接宾语 + 直接宾语"双宾结构。可转换为 give useful tips to hundreds of thousands of Americans。
+> 7. **定语从句 who/that 的功能识别**：本句有 3 个定语从句（who want to simplify...、that give...、who want to achieve...），分别修饰 people、newsletters、those。识别技巧：①找先行词；②看从句在主句中作什么成分（定语）；③判断关系词在从句中作主/宾/状。
+> 8. **复合形容词 best-selling / mid-'90s**：best-selling 是"副词 best + 现在分词 selling"构成的复合形容词，意为"畅销的"；mid-'90s 是"mid- + 缩写年代"，作形容词修饰 equivalent，意为"90 年代中期的"。这类带连字符的复合形容词在考研阅读中高频出现。
+> 9. **定从修饰介词宾语的特殊结构**：`the mid-'90s equivalent of dropping out` 中 equivalent 是介词 of 的宾语，再接 of dropping out 介词短语作后置定语。整体是"for those + who want to achieve + the mid-'90s equivalent of dropping out"。理解顺序：先找主干 for those，再处理 those 的定从 who want to achieve，最后处理 achieve 的宾语 the mid-'90s equivalent of dropping out。
+> 10. **equivalent 的搭配**：the equivalent of... 意为"……的等价物 / ……的对应物"。the mid-'90s equivalent of dropping out 意为"90 年代中期'退出职场'这种生活方式的对应形态"。
 
 (1)While in America the trend started as a reaction to the economic decline—after the mass redundancies caused by downsizing in the late '80s—and is still linked to the politics of thrift, in Britain, at least among the middle-class downshifters of my acquaintance, we have different reasons for seeking to simplify our lives.
 
