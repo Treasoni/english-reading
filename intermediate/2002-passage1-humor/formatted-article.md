@@ -17,7 +17,7 @@ sources:
 
 ## 文章原文
 
-⑴ If you intend using **humor** in your talk to make people smile, you must know how to identify **shared experiences** and problems. ⑵ Your humor must be relevant to the **audience** and should help to show them that you are one of them or that you understand their situation and are in **sympathy** with their point of view. ⑶ Depending on whom you are addressing, the problems will be different. ⑷ If you are talking to a group of managers, you may refer to the **disorganized** methods of their secretaries; alternatively if you are addressing secretaries, you may want to comment on their disorganized bosses.
+⑴ If you intend using **humor** in your talk to make people smile, you must know how to identify **shared experiences** and problems. ⑵ Your humor must be relevant to the **audience** and should help to show them that you are one of them or that you understand their situation and are in **sympathy** with their point of view. ⑶ Depending on whom you are addressing, the problems will be different. ⑷ If you are talking to a group of managers, you may refer to the **disorganized** methods of their **secretaries**; alternatively if you are addressing secretaries, you may want to comment on their disorganized bosses.
 
 > [!abstract]- 长难句分析（⑵）
 > **原句**：Your humor must be relevant to the **audience** and should help to show them that you are one of them or that you understand their situation and are in **sympathy** with their point of view.
