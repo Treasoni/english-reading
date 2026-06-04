@@ -8,7 +8,7 @@ tags:
   - 2002
   - passage-1
 created: 2026-06-04
-updated: 2026-06-04T16:58:00
+updated: 2026-06-04T17:02:00
 sources:
   - "2002年考研英语阅读 Passage 1"
 ---
@@ -102,7 +102,52 @@ sources:
 > - **介词宾语从句**：介词 `on` 后接由 `whom` 引导的宾语从句，是典型"介词 + 宾从"结构。介词后的连接代词不可用 `who`，必须用 `whom`（介词宾格）。
 > - **`depending on` 用法**：`depending on` = 介词短语，作"根据……而定"，相当于 `according to`。其后可接名词、代词或宾语从句（如本句）。
 > - **`whom` vs `who`**：在介词后、动词/介词直接宾语位置必须用 `whom`；本句 `addressing` 与 `whom` 形成动介搭配 `address sb.`，whom 作 address 的宾语。
-> - **写作仿写**：可用 `Depending on the audience, your examples should vary.` 体现"因人而异"的论述逻辑。, which I heard at a nurses' convention, of a story, which works well because the audience all shared the same view of doctors. A man arrives in heaven and is being shown around by St. Peter. He seems wonderful **accommodations**, beautiful gardens, sunny weather, and so on. Everyone is very peaceful, polite and friendly until, waiting in a line for lunch, the new arrival is suddenly pushed aside by a man in a white coat, who rushes to the head of the line, grabs his food and **stomps** over to a table by himself. ==“Who is that?”== the new arrival asked St. Peter. ==“Oh, that's God,”== came the reply, ==“but sometimes he thinks he's a doctor.”==
+> - **写作仿写**：可用 `Depending on the audience, your examples should vary.` 体现"因人而异"的论述逻辑。
+
+> [!abstract]- 长难句分析（⑷）
+> **原句**：If you are talking to a group of managers, you may refer to the **disorganized** methods of their secretaries; alternatively if you are addressing secretaries, you may want to comment on their disorganized bosses.
+>
+> **主干提取**：
+> - **S**：you
+> - **V₁**：may refer to
+> - **O₁**：the disorganized methods of their secretaries
+> - **V₂**：may want
+> - **O₂ (不定式)**：to comment on their disorganized bosses
+>
+> 简化主干：If... you may refer to...; alternatively if... you may want to comment on...
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|------------|----------|
+> | 条件状语从句 ① | If you are talking to a group of managers | 修饰主句① you may refer to... |
+> | 介词短语 | of their secretaries | 修饰 methods |
+> | 分号并列 | ; alternatively | 连接两个分句（alternatively 为并列连接副词） |
+> | 条件状语从句 ② | if you are addressing secretaries | 修饰主句② you may want... |
+> | 不定式短语 | to comment on their disorganized bosses | 作 want 的宾语 |
+> | 介词短语 | on their disorganized bosses | 修饰动词 comment |
+>
+> **结构图解**：
+> ```
+> 分句 ①: If you are talking to a group of managers, you may refer to the disorganized methods of their secretaries
+>   ├── 条件状从: If you are talking to a group of managers → 主句①
+>   └── 介短: of their secretaries → 修饰 methods
+>
+> ; alternatively (并列连接副词)
+>
+> 分句 ②: if you are addressing secretaries, you may want to comment on their disorganized bosses
+>   ├── 条件状从: if you are addressing secretaries → 主句②
+>   └── 不定式宾语: to comment on their disorganized bosses
+>         └── 介短: on their disorganized bosses → 修饰 comment
+> ```
+>
+> **参考译文**：如果你是在与一群**经理**谈话，你可以提及他们秘书的**杂乱无章**的工作方法；反之，如果你面对的是秘书们，你则可以评论他们老板的杂乱无章。
+>
+> **考点提示**：
+> - **平行结构 (Parallelism)**：本句是典型 `If... you may...; alternatively if... you may...` 平行对照，语法与语义皆对称，是阅读理解中"对比论证"段落的标志。
+> - **`alternatively` 用法**：作并列连接副词，意为"换一种说法/另一方面"，常用于提出另一种选择或观点；其前后通常接结构相似的句子。
+> - **`refer to` vs `comment on`**：两者均带介词，但 `refer to` 意为"提及/涉及"，`comment on` 意为"评论"。本句分别搭配 `methods`（间接指出问题）与 `bosses`（直接评论对象）。
+> - **`may refer to` vs `may want to`**：情态动词 `may` 表委婉/许可；`may want to do` 比 `may want do` 更正式，体现说话人留有余地的语气。, which I heard at a nurses' convention, of a story, which works well because the audience all shared the same view of doctors. A man arrives in heaven and is being shown around by St. Peter. He seems wonderful **accommodations**, beautiful gardens, sunny weather, and so on. Everyone is very peaceful, polite and friendly until, waiting in a line for lunch, the new arrival is suddenly pushed aside by a man in a white coat, who rushes to the head of the line, grabs his food and **stomps** over to a table by himself. ==“Who is that?”== the new arrival asked St. Peter. ==“Oh, that's God,”== came the reply, ==“but sometimes he thinks he's a doctor.”==
 
 If you are part of the group, which you are addressing, you will be in a position to know the experiences and problems which are common to all of you and it'll be appropriate for you to make a passing remark about the **inedible** canteen food or the chairman's **notorious** bad taste in ties. With other audiences you mustn't attempt to cut in with humor as they will resent an outsider making **disparaging** remarks about their canteen or their chairman. You will be on safer ground if you stick to **scapegoats** like the Post Office or the telephone system.
 
