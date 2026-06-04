@@ -151,6 +151,50 @@ sources:
 
 **⑴** Here is an example, which I heard at a nurses' convention, of a story, which works well because the audience all shared the same view of doctors. **⑵** A man arrives in heaven and is being shown around by St. Peter. **⑶** He seems wonderful **accommodations**, beautiful gardens, sunny weather, and so on. **⑷** Everyone is very peaceful, polite and friendly until, waiting in a line for lunch, the new arrival is suddenly pushed aside by a man in a white coat, who rushes to the head of the line, grabs his food and **stomps** over to a table by himself. **⑸** ==“Who is that?”== the new arrival asked St. Peter. **⑹** ==“Oh, that's God,”== came the reply, ==“but sometimes he thinks he's a doctor.”==
 
+> [!abstract]- 长难句分析（⑴）
+> **原句**：Here is an example, which I heard at a nurses' convention, of a story, which works well because the audience all shared the same view of doctors.
+>
+> **主干提取**：
+> - **S**：an example（位于系动词后，倒装）
+> - **V**：is（系动词）
+> - **A (前移状语)**：Here
+>
+> 简化主干：Here is an example.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|------------|----------|
+> | 非限制定语从句 ① | which I heard at a nurses' convention | 修饰主语 an example |
+> | 介词短语 | at a nurses' convention | 修饰定从①中的 heard |
+> | 介词短语 | of a story | 修饰主语 an example（后置定语） |
+> | 非限制定语从句 ② | which works well because... | 修饰 a story（与 of 介短形成定中结构） |
+> | 原因状语从句 | because the audience all shared the same view of doctors | 修饰定从②中的 works well |
+> | 介词短语 | of doctors | 修饰 view |
+>
+> **结构图解**：
+> ```
+> 倒装主句: Here is an example
+>   ├── Here: 前移状语（倒装标志）
+>   ├── is: 系动词
+>   └── S: an example
+>         ├── 非限制定从①: which I heard at a nurses' convention
+>         │     └── 介短: at a nurses' convention
+>         ├── 介短: of a story → 后置定语 (a story = example 的具体内容)
+>         │     └── 非限制定从②: which works well
+>         │           └── 原因状从: because the audience all shared the same view of doctors
+>         │                 └── 介短: of doctors
+> ```
+>
+> **参考译文**：下面这个例子是我在一个护士大会上听到的，是一个故事——之所以效果很好，是因为所有听众对医生都有相同的看法。
+>
+> **考点提示**：
+> - **Here 倒装结构**：`Here + be + 主语` 是典型倒装句，正常语序为 `An example is here`。因 `an example` 以元音开头，故用 `an` 而非 `a`。
+> - **双层非限定性定语从句**：两个 `which` 均被逗号隔开，是非限定性定语从句。第①个修饰 `example`，第②个修饰 `story`，构成"嵌套修饰链"。
+> - **`of a story` 的双重角色**：既是 `an example` 的后置定语（= an example of a story），又为第二个 `which` 提供了先行词。
+> - **定从内嵌状从**：第二个定从 `which works well` 内部嵌套 `because` 引导的原因状语从句，体现"主从套主从"的复杂结构。
+> - **同位/补充关系**：`of a story` 在语义上是对 `example` 的具体内容补充，等同于"举个例子来说，是一个故事……"。
+
 If you are part of the group, which you are addressing, you will be in a position to know the experiences and problems which are common to all of you and it'll be appropriate for you to make a passing remark about the **inedible** canteen food or the chairman's **notorious** bad taste in ties. With other audiences you mustn't attempt to cut in with humor as they will resent an outsider making **disparaging** remarks about their canteen or their chairman. You will be on safer ground if you stick to **scapegoats** like the Post Office or the telephone system.
 
 If you feel awkward being humorous, you must practice so that it becomes more natural. Include a few casual and apparently **off-the-cuff** remarks which you can deliver in a relaxed and unforced manner. Often it's the **delivery** which causes the audience to smile, so speak slowly and remember that a raised eyebrow or an unbelieving look may help to show that you are making a **light-hearted** remark.
