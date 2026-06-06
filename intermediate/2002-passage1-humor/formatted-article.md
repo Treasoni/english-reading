@@ -544,6 +544,59 @@ If you feel awkward being humorous, you must practice so that it becomes more na
 
 Look for the humor. It often comes from the unexpected. A twist on a familiar quote ==“If at first you don't succeed, give up”== or a play on words or on a situation. Search for **exaggeration** and **understatements**. Look at your talk and pick out a few words or sentences which you can turn about and inject with humor.
 
+> [!abstract]- 长难句分析（⑸）
+> **原句**：Look at your talk and pick out a few words or sentences which you can turn about and inject with humor.
+>
+> **主干提取**：
+> - **V₁（祈使句 1 谓语）**：Look at
+> - **V₂（祈使句 2 谓语）**：pick out
+> - **O（祈使句 2 宾语）**：a few words or sentences
+>
+> 简化主干：Look at your talk and pick out words or sentences.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | at your talk | 修饰 look |
+> | 限定词 | a few | 修饰 words or sentences |
+> | 并列连词 | and | 连接两个并列名词 |
+> | 并列名词 (or) | words or sentences | 作 pick out 的宾语 |
+> | 限定性定语从句 | which you can turn about and inject with humor | 修饰 words or sentences |
+> | 并列谓语 ① | turn about | 定从内，与 inject 并列 |
+> | 并列连词 | and | 连接定从内两个谓语 |
+> | 并列谓语 ② | inject with humor | 定从内，与 turn about 并列 |
+> | 介词短语 | with humor | 修饰 inject |
+>
+> **结构图解**：
+> ```
+> 祈使句①: Look at your talk
+>   └── 介短: at your talk → 修饰 look
+>
+> ↓ and (并列连词，连接两个祈使句)
+>
+> 祈使句②: pick out a few words or sentences (which you can turn about and inject with humor)
+>   ├── 限定词: a few
+>   ├── 并列宾语: words or sentences (or 连接)
+>   └── 定从: which you can turn about and inject with humor
+>         ├── S: which
+>         ├── V₁: turn about (并列谓语 1)
+>         ├── V₂: inject with humor (并列谓语 2)
+>         │     └── 介短: with humor → 修饰 inject
+>         └── and: 连接定从内两个谓语
+> ```
+>
+> **参考译文**：审视一下自己的演讲，挑出几个词或句子——你可以把它们**调换语序**并**注入**幽默元素。
+>
+> **考点提示**：
+> - **祈使句 + and + 祈使句**：典型"祈使句并列"结构，逗号可有可无；本句为不带逗号的紧凑式，考研阅读中常被误判为简单句。翻译时按中文语序译为"做...并且做..."。
+> - **turn about 的动词短语**：意为"翻转、改变"（= turn around）；本句中意为"调换（语序/形式）"。是考研熟词僻义考点——turn 除"转动/转变"外还可作"翻动、翻转"。
+> - **inject with 的固定搭配**：意为"注入、引入"，常见搭配 `inject humor into sth` / `inject sth with humor`。本句采用 `inject with humor` 结构，介词 with 表"以/用（某种内容）"。
+> - **限定性定语从句 which...**：无逗号隔开，修饰 `words or sentences`；which 在从句中作 `turn` 和 `inject` 的逻辑宾语（即"调换它们/注入幽默"）。
+> - **从句内的并列谓语**：`turn about and inject with humor` 是定从内部由 and 连接的并列谓语，与主句的 `Look at... and pick out...` 形成"嵌套并列"结构。
+> - **并列宾语 words or sentences**：`a few + 复数名词 or + 复数名词` 是典型"或"关系并列；谓语动词仍用复数 (turn / inject)。
+> - **考研翻译难点**：本句含"祈使句并列 + 限定性定从 + 从句内并列谓语"三重嵌套，翻译时需先理清主干（祈使句），再处理定从的"前置"译法（"——你可以..."）。
+
 ---
 
 ## 题目
