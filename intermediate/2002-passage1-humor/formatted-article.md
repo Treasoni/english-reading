@@ -8,7 +8,7 @@ tags:
   - 2002
   - passage-1
 created: 2026-06-04
-updated: 2026-06-04T17:02:00
+updated: 2026-06-04T17:35:00
 sources:
   - "2002年考研英语阅读 Passage 1"
 ---
@@ -194,6 +194,67 @@ sources:
 > - **`of a story` 的双重角色**：既是 `an example` 的后置定语（= an example of a story），又为第二个 `which` 提供了先行词。
 > - **定从内嵌状从**：第二个定从 `which works well` 内部嵌套 `because` 引导的原因状语从句，体现"主从套主从"的复杂结构。
 > - **同位/补充关系**：`of a story` 在语义上是对 `example` 的具体内容补充，等同于"举个例子来说，是一个故事……"。
+
+> [!abstract]- 长难句分析（⑷）
+> **原句**：Everyone is very peaceful, polite and friendly until, waiting in a line for lunch, the new arrival is suddenly pushed aside by a man in a white coat, who rushes to the head of the line, grabs his food and **stomps** over to a table by himself.
+>
+> **主干提取**：
+> - **S**：the new arrival
+> - **V**：is pushed（被动语态）
+> - **A (方式)**：suddenly
+> - **A (施动者)**：by a man in a white coat
+>
+> 简化主干：The new arrival is pushed aside by a man.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|------------|----------|
+> | 主句① (背景陈述) | Everyone is very peaceful, polite and friendly | 句首背景，描述"直到"之前的状态 |
+> | 时间状语从句 | until... | 修饰主句①，表"直到……才……"的转折 |
+> | 现在分词短语 | waiting in a line for lunch | 时间/伴随状语，修饰 until 从句主句 |
+> | 介词短语 | in a white coat | 后置定语，修饰 a man |
+> | 非限制定语从句 | who rushes... grabs... and stomps... | 修饰 a man（由逗号隔开，非限定） |
+> | 介词短语 ① | to the head of the line | 修饰 rushes |
+> | 介词短语 ② | over to a table | 修饰 stomps |
+> | 介词短语 ③ | by himself | 修饰 stomps |
+> | 并列谓语 | rushes... grabs... and stomps... | 三个动作由 and 连接（who 从句内部） |
+>
+> **结构图解**：
+> ```
+> 主句① (背景): Everyone is very peaceful, polite and friendly
+>   ├── S: Everyone
+>   ├── V: is
+>   └── P: very peaceful, polite and friendly (并列表语)
+>
+> ↓ until (时间状语从句引导词)
+>
+> until 从句主句: the new arrival is suddenly pushed aside
+>   ├── 分词短语 (时间/伴随状语): waiting in a line for lunch
+>   ├── S: the new arrival
+>   ├── V: is pushed (被动)
+>   ├── A (方式): suddenly
+>   └── 介短: by a man in a white coat (施动者)
+>         ├── 介短: in a white coat (修饰 man)
+>         └── 非限制定从: who rushes... grabs... and stomps...
+>               ├── 谓语①: rushes
+>               │     └── 介短: to the head of the line
+>               ├── 谓语②: grabs
+>               │     └── O: his food
+>               └── 谓语③: stomps
+>                     ├── 介短: over to a table
+>                     └── 介短: by himself
+> ```
+>
+> **参考译文**：所有人都安详、礼貌、友善——直到在排队等候午餐时，这位新来者突然被一个穿白大褂的人推到一边，那人冲到队伍最前面，抓起自己的食物，**重重地跺着脚**独自走到一张桌前。
+>
+> **考点提示**：
+> - **until 引导时间状语从句的倒装翻译**：英文 `until...` 表"直到……才……"，中文常译为"……一直……直到……才……"或"在……之前一直……"。本句需调整语序。
+> - **三个并列形容词作表语**：peaceful、polite、friendly 由逗号 + and 连接（Oxford comma 风格），考研写作可仿写。
+> - **被动语态 + 介词 by 引导施动者**：`is pushed aside by a man` 是典型被动结构；`by a man in a white coat` 整体作施动者，`in a white coat` 又是 a man 的后置定语。
+> - **分词短语作状语的逻辑主语**：`waiting in a line for lunch` 的逻辑主语是 `the new arrival`，必须从主句主语推得。分词作状语是考研阅读最常见考点之一。
+> - **非限定性定语从句 who...**：修饰 a man in a white coat，由逗号隔开；who 从句中由 and 连接三个并列谓语（rushes, grabs, stomps），形成"动作链"。
+> - **多重介词短语级联修饰**：`to the head of the line`、`over to a table`、`by himself` 三个介短分别修饰不同谓语，是阅读中"动作分解描写"的典型写法。
 
 If you are part of the group, which you are addressing, you will be in a position to know the experiences and problems which are common to all of you and it'll be appropriate for you to make a passing remark about the **inedible** canteen food or the chairman's **notorious** bad taste in ties. With other audiences you mustn't attempt to cut in with humor as they will resent an outsider making **disparaging** remarks about their canteen or their chairman. You will be on safer ground if you stick to **scapegoats** like the Post Office or the telephone system.
 
