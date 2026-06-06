@@ -8,7 +8,7 @@ tags:
   - 2002
   - passage-1
 created: 2026-06-04
-updated: 2026-06-04T18:30:00
+updated: 2026-06-06T17:30:00
 sources:
   - "2002年考研英语阅读 Passage 1"
 ---
@@ -257,6 +257,41 @@ sources:
 > - **多重介词短语级联修饰**：`to the head of the line`、`over to a table`、`by himself` 三个介短分别修饰不同谓语，是阅读中"动作分解描写"的典型写法。
 
 If you are part of the group, which you are addressing, you will be in a position to know the experiences and problems which are common to all of you and it'll be appropriate for you to make a passing remark about the **inedible** canteen food or the chairman's **notorious** bad taste in ties. With other audiences you mustn't attempt to cut in with humor as they will resent an outsider making **disparaging** remarks about their canteen or their chairman. You will be on safer ground if you stick to **scapegoats** like the Post Office or the telephone system.
+
+> [!abstract]- 长难句分析（⑶）
+> **原句**：You will be on safer ground if you stick to **scapegoats** like the Post Office or the telephone system.
+>
+> **主干提取**：
+> - **S（主句主语）**：You
+> - **V（主句谓语）**：will be
+> - **C（主句表语）**：on safer ground
+> - **Conj（从句引导词）**：if
+> - **S（从句主语）**：you
+> - **V（从句谓语）**：stick to
+> - **O（从句宾语）**：scapegoats
+>
+> 简化主干：You will be on safer ground if you stick to scapegoats.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 状语从句 | if | 主句（条件状语） |
+> | 介词短语 | like the Post Office or the telephone system | scapegoats（举例说明） |
+>
+> **结构图解**：
+> ```
+> 主句: You will be on safer ground
+>   └── 状从: (if you stick to scapegoats) → 条件状语
+>         └── 介短: (like the Post Office or the telephone system) → 修饰 scapegoats
+> ```
+>
+> **参考译文**：如果你坚持把矛头指向像邮局或电话系统这样现成的"替罪羊"，你便会处于更为稳妥的境地。
+>
+> **考点提示**：
+> - **主将从现**：主句含一般将来时（will be），if 引导的条件状语从句必须用一般现在时（stick）表示将来意义——这是考研阅读和翻译的高频语法点。
+> - **stick to**：意为"坚持、固守"，后接名词、代词或动名词（不可接不定式）。注意与 stick at（犹豫不决）、stick with（坚持做某事）的区分。
+> - **on safer ground**：用比较级 + 名词构成介词短语作表语，比 "safer" 语气更委婉、更书面化，是英式英语常见搭配（"on safe ground" 表示"处于稳妥立场"）。
 
 > [!abstract]- 长难句分析（⑴）
 > **原句**：If you are part of the group, which you are addressing, you will be in a position to know the experiences and problems which are common to all of you and it'll be appropriate for you to make a passing remark about the **inedible** canteen food or the chairman's **notorious** bad taste in ties.
