@@ -435,6 +435,45 @@ If you are part of the group, which you are addressing, you will be in a positio
 
 If you feel awkward being humorous, you must practice so that it becomes more natural. Include a few casual and apparently **off-the-cuff** remarks which you can deliver in a relaxed and unforced manner. Often it's the **delivery** which causes the audience to smile, so speak slowly and remember that a raised eyebrow or an unbelieving look may help to show that you are making a **light-hearted** remark.
 
+> [!abstract]- 长难句分析（⑵）
+> **原句**：Include a few casual and apparently **off-the-cuff** remarks which you can deliver in a relaxed and unforced manner.
+>
+> **主干提取**：
+> - **V（祈使句谓语）**：Include
+> - **O（宾语）**：a few casual and apparently off-the-cuff remarks
+>
+> 简化主干：Include remarks.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 限定词 | a few | remarks |
+> | 形容词 | casual | remarks |
+> | 副词 | apparently | off-the-cuff |
+> | 复合形容词 | off-the-cuff | remarks |
+> | 限定性定语从句 | which you can deliver in a relaxed and unforced manner | remarks |
+> | 介词短语 | in a relaxed and unforced manner | 修饰 deliver |
+> | 并列形容词 | relaxed and unforced | manner |
+>
+> **结构图解**：
+> ```
+> 祈使句: Include a few casual and apparently off-the-cuff remarks
+>   ├── 形容词链: a few + casual + apparently off-the-cuff → 修饰 remarks
+>   └── 定从: which you can deliver in a relaxed and unforced manner → 修饰 remarks
+>         └── 介短: in a relaxed and unforced manner
+>               └── 并列形容词: relaxed and unforced → 修饰 manner
+> ```
+>
+> **参考译文**：加入几句随意、看似即兴的点评，你可以用轻松自然的方式把它们说出来。
+>
+> **考点提示**：
+> - **祈使句的识别**：以动词原形开头的句式，省略主语 You（隐含"你/大家"）。考研翻译中常被忽略主语，需在译文中补出"你/我们"。
+> - **多个形容词修饰名词的语序**：`a few`(限定词) → `casual`(描绘形容词) → `apparently off-the-cuff`(复合形容词) → `remarks`。英语形容词语序原则：限定词 → 描绘 → 尺寸/形状/年龄/颜色 → 用途/来源 → 名词。
+> - **复合形容词 off-the-cuff**：意为"即兴的、未经准备的"，由"介词 + 冠词 + 名词"构成的固定形容词，作定语须用连字符连接。
+> - **限定性定语从句 which...**：无逗号隔开，修饰 `remarks`；which 在从句中作 `deliver` 的宾语。
+> - **并列形容词修饰 manner**：`relaxed and unforced` 由 and 连接，共同作 `manner` 的前置定语；`in...manner` 是"以...方式"的固定搭配。
+
 Look for the humor. It often comes from the unexpected. A twist on a familiar quote ==“If at first you don't succeed, give up”== or a play on words or on a situation. Search for **exaggeration** and **understatements**. Look at your talk and pick out a few words or sentences which you can turn about and inject with humor.
 
 ---
