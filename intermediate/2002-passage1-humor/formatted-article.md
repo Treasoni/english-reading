@@ -8,7 +8,7 @@ tags:
   - 2002
   - passage-1
 created: 2026-06-04
-updated: 2026-06-04T17:35:00
+updated: 2026-06-04T18:00:00
 sources:
   - "2002年考研英语阅读 Passage 1"
 ---
@@ -257,6 +257,85 @@ sources:
 > - **多重介词短语级联修饰**：`to the head of the line`、`over to a table`、`by himself` 三个介短分别修饰不同谓语，是阅读中"动作分解描写"的典型写法。
 
 If you are part of the group, which you are addressing, you will be in a position to know the experiences and problems which are common to all of you and it'll be appropriate for you to make a passing remark about the **inedible** canteen food or the chairman's **notorious** bad taste in ties. With other audiences you mustn't attempt to cut in with humor as they will resent an outsider making **disparaging** remarks about their canteen or their chairman. You will be on safer ground if you stick to **scapegoats** like the Post Office or the telephone system.
+
+> [!abstract]- 长难句分析（⑴）
+> **原句**：If you are part of the group, which you are addressing, you will be in a position to know the experiences and problems which are common to all of you and it'll be appropriate for you to make a passing remark about the **inedible** canteen food or the chairman's **notorious** bad taste in ties.
+>
+> **主干提取**：
+> - **S**：you（主句①） / it（主句②，形式主语）
+> - **V**：will be
+> - **P (表语)**：in a position（主句①）/ appropriate（主句②）
+>
+> 简化主干：You will be in a position... and it'll be appropriate...
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|------------|----------|
+> | 条件状语从句 | If you are part of the group | 修饰主句① |
+> | 介词短语 | of the group | 修饰 part |
+> | 非限制定语从句 | which you are addressing | 修饰 the group（由逗号隔开） |
+> | 不定式短语 | to know the experiences and problems | 作 in a position 的补足语 |
+> | 限定性定语从句 | which are common to all of you | 修饰 the experiences and problems |
+> | 介词短语 | to all of you | 修饰 common |
+> | 并列连词 | and | 连接主句①与主句② |
+> | 介词短语 | for you | 真正主语的一部分 |
+> | 真正主语 | for you to make a passing remark | 替代形式主语 it |
+> | 介词短语 ① | about the **inedible** canteen food | 修饰 a passing remark |
+> | 并列连词 | or | 连接两个 about 介短 |
+> | 介词短语 ② | about the chairman's notorious bad taste in ties | 修饰 a passing remark |
+> | 名词所有格 | the chairman's | 修饰 notorious bad taste |
+> | 形容词 | notorious | 修饰 bad taste |
+> | 介词短语 | in ties | 修饰 bad taste（taste in sth 品位） |
+>
+> **结构图解**：
+> ```
+> 主句①: If you are part of the group..., you will be in a position to know...
+>   ├── 条件状从: If you are part of the group
+>   │     ├── S: you
+>   │     ├── V: are
+>   │     └── 介短: of the group
+>   │           └── 非限制定从: which you are addressing
+>   ├── S: you
+>   ├── V: will be
+>   └── P: in a position
+>         └── 不定式 (后置定语): to know the experiences and problems
+>               ├── O: the experiences and problems
+>               └── 定从: which are common to all of you
+>                     ├── S: which
+>                     ├── V: are
+>                     └── 介短: to all of you
+>
+> ↓ and (并列连词)
+>
+> 主句②: it'll be appropriate for you to make a passing remark about...
+>   ├── S: it (形式主语)
+>   ├── V: will be
+>   ├── P: appropriate
+>   ├── 介短: for you (真正主语一部分)
+>   └── 真正主语: to make a passing remark
+>         ├── O: a passing remark
+>         └── 介短: about the **inedible** canteen food
+>               ├── or (并列连词)
+>               └── 介短: about the chairman's notorious bad taste in ties
+>                     ├── 名词所有格: the chairman's
+>                     ├── 形容词: notorious
+>                     ├── 名词: bad taste
+>                     └── 介短: in ties (taste in sth 品位)
+> ```
+>
+> **参考译文**：如果你也是你所谈话对象群体中的一员，你就能够了解你们大家共同的经历和问题，对食堂那**难以下咽**的饭菜或董事长**臭名昭著**的领带品位，顺口评论一下都是合适的。
+>
+> **考点提示**：
+> - **条件状语从句 + 主句**：典型 `If..., 主句` 结构，条件在前、结果在后；本句进一步扩展为 `If..., 主句① and 主句②` 复合句。
+> - **非限定性定语从句的插入**：`which you are addressing` 由两个逗号隔开，是插入语式定从，修饰 `the group`；去掉后主句仍完整。
+> - **be in a position to do sth 固定搭配**：意为"能够/有资格做某事"，是不定式作 `position` 后置定语的固定结构（= be able to do sth 的更正式说法）。
+> - **限定性定语从句 which...**：无逗号隔开，是限定性定从，修饰 `the experiences and problems`。
+> - **并列主句的 `and` 连接**：本句整体是 `If..., 主句① and 主句②` 复合句结构——两个并列主句共享同一条件句，是"if 条件共享型"长难句的典型模式。
+> - **形式主语 it + 真正主语 for sb to do**：典型 `It + be + adj + for sb + to do` 句型，it 是形式主语，真正主语是 `for you to make...`。
+> - **`or` 连接并列宾语**：在 `about... or about...` 介短宾语并列；翻译时译为"或"。
+> - **复合名词 + 介短后置定语**：`bad taste in ties` 中 `taste in sth` 是"在……方面的品位"固定搭配，`in ties` 是 `taste` 的后置定语（注意"领带品位"而非"领带的品位"）。
+> - **考研翻译难点**：本句含 4 层修饰（条件从 + 非限制定从 + 限定性定从 + 并列主句 + 形式主语），翻译时需先理清主干，再按中文语序重组。
 
 If you feel awkward being humorous, you must practice so that it becomes more natural. Include a few casual and apparently **off-the-cuff** remarks which you can deliver in a relaxed and unforced manner. Often it's the **delivery** which causes the audience to smile, so speak slowly and remember that a raised eyebrow or an unbelieving look may help to show that you are making a **light-hearted** remark.
 
