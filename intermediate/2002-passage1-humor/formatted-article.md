@@ -474,6 +474,74 @@ If you feel awkward being humorous, you must practice so that it becomes more na
 > - **限定性定语从句 which...**：无逗号隔开，修饰 `remarks`；which 在从句中作 `deliver` 的宾语。
 > - **并列形容词修饰 manner**：`relaxed and unforced` 由 and 连接，共同作 `manner` 的前置定语；`in...manner` 是"以...方式"的固定搭配。
 
+> [!abstract]- 长难句分析（⑶）
+> **原句**：Often it's the **delivery** which causes the audience to smile, so speak slowly and remember that a raised eyebrow or an unbelieving look may help to show that you are making a **light-hearted** remark.
+>
+> **主干提取**：
+> - **S（被强调主语）**：the delivery
+> - **V（强调句谓语）**：is
+> - **A（频率状语）**：Often
+> - **V₂（并列谓语 1，祈使句）**：speak
+> - **V₃（并列谓语 2，祈使句）**：remember
+>
+> 简化主干：Often it's the delivery..., so speak slowly and remember that...
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|------------|----------|
+> | 强调句型 | It is... which... | 强调主语 the delivery |
+> | 限定性定语从句 | which causes the audience to smile | 修饰 the delivery（强调句的固有结构） |
+> | 不定式宾补 | to smile | 修饰宾语 the audience |
+> | 结果/承转连词 | so | 引出并列祈使句 |
+> | 方式副词 | slowly | 修饰 speak |
+> | 并列连词 | and | 连接两个祈使句 |
+> | 宾语从句 ① | that a raised eyebrow or an unbelieving look may help to show that... | 作 remember 的宾语 |
+> | 并列主语 | a raised eyebrow or an unbelieving look | 宾从①的主语 |
+> | 不定式宾语 | to show that... | 修饰 may help |
+> | 宾语从句 ② | that you are making a **light-hearted** remark | 作 to show 的宾语 |
+> | 形容词 | light-hearted | 修饰 remark |
+>
+> **结构图解**：
+> ```
+> 主句① (强调句): Often it's the delivery which causes the audience to smile
+>   ├── Often: 频率副词
+>   ├── It is... which...: 强调句型
+>   ├── 被强调: the delivery
+>   └── 定从 (强调句固有): which causes the audience to smile
+>         ├── S: which
+>         ├── V: causes
+>         ├── O: the audience
+>         └── OC: to smile
+>
+> ↓ so (结果/承转连词)
+>
+> 主句② (双祈使句): speak slowly and remember that...
+>   ├── 祈使句 1: speak slowly
+>   │     └── 方式副词: slowly
+>   ├── and (并列连词)
+>   └── 祈使句 2: remember that...
+>         └── 宾从 ①: that a raised eyebrow or an unbelieving look may help to show that...
+>               ├── S: a raised eyebrow or an unbelieving look (并列)
+>               ├── V: may help
+>               └── O (不定式): to show that...
+>                     └── 宾从 ②: that you are making a light-hearted remark
+>                           ├── S: you
+>                           ├── V: are making
+>                           └── O: a light-hearted remark (复合形容词作定语)
+> ```
+>
+> **参考译文**：**通常，让听众会心一笑的正是你的"表达方式"**——所以要慢慢地说，并且记住：扬起的眉毛或一副不以为然的表情都能够表明你是在以一种**轻松**的口吻打趣。
+>
+> **考点提示**：
+> - **强调句 It is... which...**：典型的"主语强调结构"，去掉 `It is...which...` 后应得到完整陈述句 `Often the delivery causes the audience to smile`。这是考研翻译和写作的必考点——判断是强调句还是定语从句的关键是看去掉后句子是否仍完整。
+> - **`which` 在强调句中的作用**：是强调句的固有引导词，无实义，不指代具体先行词；不可换成 that / who / whom。
+> - **`so` 引出并列句 / 祈使句**：`so` 此处表"于是/所以"，连接两个并列祈使句 (speak slowly and remember...)，是"祈使句+and+祈使句"结构的变体。
+> - **双重宾语从句嵌套**：`remember that... may help to show that...` 是"动词 + 宾从 + 不定式 + 宾从"的链式嵌套结构，翻译时按中文语序从后往前解套。
+> - **并列主语 + 并列宾补**：`a raised eyebrow or an unbelieving look` 作宾从①的主语，`or` 连接两个单数名词作主语时，谓语动词按就近原则用单数 (may help)。
+> - **复合形容词 light-hearted**：`light`(轻) + `-hearted`(心的) = "轻松的、心态轻盈的"，常见搭配：light-hearted remark / tone / attitude。
+> - **考研翻译难点**：本句含强调句 + 定从 + 双宾从嵌套 + 双祈使句并列，结构层次深，翻译时需先识别强调句并将其还原成正常语序，再按中文"先因后果"语序重组。
+
 Look for the humor. It often comes from the unexpected. A twist on a familiar quote ==“If at first you don't succeed, give up”== or a play on words or on a situation. Search for **exaggeration** and **understatements**. Look at your talk and pick out a few words or sentences which you can turn about and inject with humor.
 
 ---
