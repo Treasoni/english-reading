@@ -8,7 +8,7 @@ tags:
   - 2002
   - passage-1
 created: 2026-06-04
-updated: 2026-06-04T18:00:00
+updated: 2026-06-04T18:30:00
 sources:
   - "2002年考研英语阅读 Passage 1"
 ---
@@ -336,6 +336,67 @@ If you are part of the group, which you are addressing, you will be in a positio
 > - **`or` 连接并列宾语**：在 `about... or about...` 介短宾语并列；翻译时译为"或"。
 > - **复合名词 + 介短后置定语**：`bad taste in ties` 中 `taste in sth` 是"在……方面的品位"固定搭配，`in ties` 是 `taste` 的后置定语（注意"领带品位"而非"领带的品位"）。
 > - **考研翻译难点**：本句含 4 层修饰（条件从 + 非限制定从 + 限定性定从 + 并列主句 + 形式主语），翻译时需先理清主干，再按中文语序重组。
+
+> [!abstract]- 长难句分析（⑵）
+> **原句**：With other audiences you mustn't attempt to cut in with humor as they will resent an outsider making **disparaging** remarks about their canteen or their chairman.
+>
+> **主干提取**：
+> - **S**：you（主句）/ they（as 从句）
+> - **V**：mustn't attempt（主句）/ will resent（as 从句）
+> - **O**：to cut in with humor（主句）/ an outsider making...（as 从句）
+>
+> 简化主干：You mustn't attempt to cut in with humor as they will resent an outsider.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 (状语) | With other audiences | 整句作条件/情境状语（"对于……来说"） |
+> | 不定式短语 | to cut in with humor | 作 attempt 的宾语 |
+> | 动词短语 | cut in (with...) | 意为"插嘴、插入（用……方式）" |
+> | 介词短语 (方式) | with humor | 修饰 cut in，表方式 |
+> | 原因状语从句 | as they will resent... | 修饰主句谓语 mustn't attempt |
+> | 现在分词短语 (后置定语) | making **disparaging** remarks... | 修饰宾语 an outsider |
+> | 介词短语 ① | about their canteen | 修饰 remarks |
+> | 并列连词 | or | 连接两个 about 介短 |
+> | 介词短语 ② | about their chairman | 修饰 remarks |
+>
+> **结构图解**：
+> ```
+> 主句: With other audiences, you mustn't attempt to cut in with humor
+>   ├── 介短 (状语): With other audiences
+>   ├── S: you
+>   ├── V: mustn't attempt
+>   └── O: 不定式短语 to cut in with humor
+>         ├── 动词短语: cut in (插入)
+>         └── 介短: with humor (方式)
+>
+> ↓ as (原因状语从句)
+>
+> 原因状从: as they will resent an outsider making disparaging remarks about...
+>   ├── S: they
+>   ├── V: will resent
+>   └── O: an outsider making disparaging remarks about their canteen or their chairman
+>         ├── 中心词: an outsider
+>         └── 分词短语 (后置定语): making disparaging remarks about...
+>               ├── O: disparaging remarks
+>               ├── 介短 ①: about their canteen
+>               │     ├── or (并列连词)
+>               │     └── 介短 ②: about their chairman
+>               └── 整体结构: 名词 + V-ing 短语 = 复合宾语
+> ```
+>
+> **参考译文**：对于其他听众，你千万不要试图插科打诨，因为他们会憎恨一个局外人对他们的食堂或他们的董事长做出**贬损**性的评论。
+>
+> **考点提示**：
+> - **介词短语 With... 置于句首作状语**：`With other audiences` 表"对于其他听众来说"，是表条件/情境的状语，相当于 `For other audiences` 或 `When facing other audiences`。
+> - **情态动词 mustn't 表禁止**：`must not` 语气强烈，意为"千万不要/绝不要"；比 `shouldn't` 强，比 `can't` 更有劝告意味。
+> - **attempt to do sth 固定搭配**：attempt 只能接**不定式**（不能接 V-ing），意为"试图/尝试做某事"。常见搭配：attempt to do / attempt at doing。
+> - **动词短语 cut in (with sth)**：意为"插嘴、插入（用某种方式）"，后接 `with + 方式/内容`。与 `cut in line`（插队）不同。
+> - **原因状语从句 as**：`as` 引导原因状从时 = because / since，表已知/显然的原因，语意比 because 弱，常译为"因为/由于"，可置于句首或句中。
+> - **分词短语作后置定语**：`making disparaging remarks...` 现在分词短语作 `an outsider` 的后置定语，等同于定语从句 `an outsider who makes disparaging remarks`，翻译时需处理为"的字结构"。
+> - **并列介短 about... or about...**：`or` 连接两个 about 介短作 `remarks` 的并列后置定语，翻译时译为"或……或……"。
+> - **考研翻译难点**：本句主干简单，但 `an outsider making...` 是"名词 + 分词"复合结构，翻译时需将"分词前置"或"分词后置为"的字结构"。
 
 If you feel awkward being humorous, you must practice so that it becomes more natural. Include a few casual and apparently **off-the-cuff** remarks which you can deliver in a relaxed and unforced manner. Often it's the **delivery** which causes the audience to smile, so speak slowly and remember that a raised eyebrow or an unbelieving look may help to show that you are making a **light-hearted** remark.
 
