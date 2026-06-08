@@ -146,7 +146,54 @@ And if scientists have yet to create the mechanical version of science fiction, 
 
 ## Paragraph 2: Robots in Daily Life
 
-As a result, the modern world is increasingly populated by intelligent **gizmos** whose presence we barely notice but whose universal existence has removed much human labor. Our factories hum to the rhythm of robot assembly arms. Our banking is done at automated teller terminals that thank us with mechanical politeness for the transaction. Our subway trains are controlled by tireless robot-drivers. And thanks to the continual **miniaturization** of electronics and **micro-mechanics**, there are already robot systems that can perform some kinds of brain and bone surgery with sub millimeter accuracy—far greater precision than highly skilled physicians can achieve with their hands alone.
+As a result, the modern world is increasingly **populated** by intelligent **gizmos** whose presence we barely notice but whose universal existence has removed much human labor.
+
+> [!abstract]- 长难句分析
+> **原句**：As a result, the modern world is increasingly populated by intelligent **gizmos** whose presence we barely notice but whose universal existence has removed much human labor.
+>
+> **主干提取**：
+> - **S (主语)**：the modern world
+> - **V (谓语)**：is populated by
+> - **O (宾语)**：intelligent **gizmos**
+> - **A (状语)**：As a result（结果状语/过渡）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 过渡短语 | As a result | 主句（承上启下，结果状语）|
+> | 形容词 | intelligent | gizmos |
+> | 定语从句 ① | whose presence...notice | gizmos |
+> | 并列连词 | but | 连接两个定从 |
+> | 定语从句 ② | whose universal existence...labor | gizmos（与 ① 并列）|
+> | 副词 | barely | notice（"几乎不"）|
+> | 形容词 | universal | existence |
+> | 形容词 | much | human labor |
+>
+> **结构图解**：
+>
+> ```
+> 主句: the modern world is populated by intelligent gizmos
+>   ├── 过渡短语: (As a result) → 承上启下
+>   ├── 形容词: (intelligent) → 修饰 gizmos
+>   ├── 定从①: (whose presence we barely notice) → 修饰 gizmos
+>   │     └── 副词: (barely) → 修饰 notice
+>   └── 定从②（并列）: (whose universal existence has removed much human labor) → 修饰 gizmos
+>         ├── 形容词: (universal) → 修饰 existence
+>         └── 形容词: (much) → 修饰 human labor
+> ```
+>
+> **参考译文**：因此，当今世界正日益充斥着各种智能装置——我们几乎注意不到它们的存在，但它们的普遍存在却使大量人力劳动得以免除。
+>
+> **考点提示**：
+> - **平行定语从句（whose 并列）**：两个 whose 引导的定语从句通过 but 并列，共同修饰 gizmos。识别这种"双定从并列"是阅读长难句的关键——长 whose...but whose... 是考研阅读的典型句式。
+> - **whose 关系代词的双重用法**：whose 既可指人（whose father），也可指物（= of which）。本句中 whose 指代 gizmos（物），是"物"的所有格用法。
+> - **but 在定从并列中的对比含义**：表面看是两个事实的并列（注意不到 vs 替代劳动），实际暗示"看似不重要但实际作用巨大"——是"观点态度题"的常考点。
+> - **As a result 过渡短语**：段首承接上文的标志，提示"前因后果"逻辑关系，是"逻辑题"和"主旨题"的高频考点。
+> - **be populated by 高级替换**：= be filled with / be inhabited by（被……充满 / 居住）。注意不要混用 people（v. 居住）。
+> - **barely 否定意义副词**：= hardly / scarcely，几乎不。含 barely 的句子按"否定句"处理，是阅读"否定细节题"的陷阱。
+
+Our factories hum to the rhythm of robot assembly arms. Our banking is done at automated teller terminals that thank us with mechanical politeness for the transaction. Our subway trains are controlled by tireless robot-drivers. And thanks to the continual **miniaturization** of electronics and **micro-mechanics**, there are already robot systems that can perform some kinds of brain and bone surgery with sub millimeter accuracy—far greater precision than highly skilled physicians can achieve with their hands alone.
 
 ## Paragraph 3: The Challenge Ahead
 
