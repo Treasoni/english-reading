@@ -57,7 +57,49 @@ Since the dawn of human **ingenuity**, people have devised ever more **cunning**
 > - 目的状语 to cope with work that... 中嵌套定语从句，形成"目的状语+定从"嵌套结构——长难句断句的常见切分点。
 > - ever more + adj. 表"越来越..."，是阅读中"程度递进"标志，命题人常以此设置"比较级"或"隐含比较"考点。
 
-That **compulsion** has resulted in **robotics**—the science of conferring various human capabilities on machines. And if scientists have yet to create the mechanical version of science fiction, they have begun to come close.
+That **compulsion** has resulted in **robotics**—the science of conferring various human capabilities on machines.
+
+> [!abstract]- 长难句分析
+> **原句**：That **compulsion** has resulted in **robotics**—the science of conferring various human capabilities on machines.
+>
+> **主干提取**：
+> - **S (主语)**：That **compulsion**
+> - **V (谓语)**：has resulted in
+> - **O (宾语)**：**robotics**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 指示代词 | That | compulsion（回指前文）|
+> | 同位语 | 破折号 — | robotics（解释说明）|
+> | 介词短语 | of | the science |
+> | 动名词复合结构 | conferring...on | 作 of 的宾语（动作：赋予）|
+> | 介词短语 | on | conferring（动作对象）|
+> | 形容词 | various | human capabilities |
+>
+> **结构图解**：
+>
+> ```
+> 主句: That compulsion has resulted in robotics
+>   ├── 同位语: (—the science of conferring various human capabilities on machines) → 解释 robotics
+>   │     └── 介短: (of conferring various human capabilities on machines) → 修饰 the science
+>   │           └── 动名词复合: (conferring various human capabilities on machines) → of 的宾语
+>   │                 ├── 形容词: (various) → 修饰 human capabilities
+>   │                 └── 介短: (on machines) → 修饰 conferring（动作对象）
+>   └── 指示代词: (That) → 修饰 compulsion（回指上段末"人类设计工具的冲动"）
+> ```
+>
+> **参考译文**：那种（与生俱来的）冲动催生了机器人学——一门将人类的多种能力赋予机器的科学。
+>
+> **考点提示**：
+> - **破折号引导同位语**：破折号后的内容对前面的名词 robotics 进行解释说明（同位语），是考研阅读的常见设题点——命题人常把同位语当独立句来设置干扰项。
+> - **指示代词 That 的回指功能**：That compulsion 中的 That 回指前文"人类设计巧妙工具的冲动"，是段落衔接的纽带，也是"代词指代题"的常考点。
+> - **动名词复合结构作介词宾语**：conferring various human capabilities on machines 是一个完整的"动名词 + 宾语 + 状语"结构，整体充当 of 的宾语。识别这种结构是长难句断句的关键。
+> - **result in 高级替换**：= lead to / produce / give rise to（写作替换词），强调"导致、引发"。
+> - **confer A on B 固定搭配**：把 A 赋予/授予 B。常见变形：confer sth on/upon sb.（授予某人某物）。
+
+And if scientists have yet to create the mechanical version of science fiction, they have begun to come close.
 
 ## Paragraph 2: Robots in Daily Life
 
