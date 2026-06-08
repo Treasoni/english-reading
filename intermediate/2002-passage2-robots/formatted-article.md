@@ -101,6 +101,49 @@ That **compulsion** has resulted in **robotics**—the science of conferring var
 
 And if scientists have yet to create the mechanical version of science fiction, they have begun to come close.
 
+> [!abstract]- 长难句分析
+> **原句**：And if scientists have yet to create the mechanical version of science fiction, they have begun to come close.
+>
+> **主干提取**：
+> - **S (主语)**：they
+> - **V (谓语)**：have begun to come close
+>   - have begun to (助动词 + 开始)
+>   - come close (系表结构，表"接近")
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 并列连词 | And | 连接前一句（段落衔接）|
+> | 条件状语从句 | if | 主句（条件/让步状语）|
+> | 不定式 | to create | 状从中的 create 宾语（实义动词动作）|
+> | 副词 | yet | to create（"尚未"）|
+> | 介词短语 | of | the mechanical version |
+> | 形容词 | mechanical | version（修饰 version）|
+> | 名词作定语 | science | fiction（修饰 fiction）|
+>
+> **结构图解**：
+>
+> ```
+> 主句: they have begun to come close
+>   └── 状从: (And if scientists have yet to create the mechanical version of science fiction) → 条件/让步状语
+>         ├── 主谓: scientists (S) + have yet to create (V)
+>         ├── 不定式: (to create the mechanical version of science fiction) → 动作内容
+>         │     ├── 介短: (of science fiction) → 修饰 the mechanical version
+>         │     └── 名词定语: (mechanical / science) → 修饰 version / fiction
+>         └── 副词: (yet) → 修饰 to create（"尚未"）
+> ```
+>
+> **参考译文**：虽然科学家们迄今尚未创造出科幻小说中所描述的那种机械版本，但他们已经开始接近这一目标了。
+>
+> **考点提示**：
+> - **And + 句子**：句首的 And 起承接作用，引出补充说明/递进，是段落结尾的常用手法。
+> - **if 条件状语从句的"让步式翻译"**：本句 if 从句承认事实（未达到），主句给出转折（已接近）——考研翻译常需将 if 译为"虽然……，但……"以保持语义顺畅。
+> - **have yet to do 高级替换**：= have not yet done（尚未做……），yet 位于 have 之后是典型标志，注意区别于 yet 置于句末表"已经"。
+> - **have begun to do 进行时态标志**：已开始做……，强调动作已经开始但未完成。
+> - **come close 系表结构**：come 在此为系动词，close 为表语（形容词），表"接近、靠近"。常见搭配：come close to (doing) sth。
+> - **the + adj. + n. + of 结构**：the mechanical version of science fiction 中 of 表"类别/属性"（科幻小说中的机械版本），是阅读中常见的"类别题"考点。
+
 ## Paragraph 2: Robots in Daily Life
 
 As a result, the modern world is increasingly populated by intelligent **gizmos** whose presence we barely notice but whose universal existence has removed much human labor. Our factories hum to the rhythm of robot assembly arms. Our banking is done at automated teller terminals that thank us with mechanical politeness for the transaction. Our subway trains are controlled by tireless robot-drivers. And thanks to the continual **miniaturization** of electronics and **micro-mechanics**, there are already robot systems that can perform some kinds of brain and bone surgery with sub millimeter accuracy—far greater precision than highly skilled physicians can achieve with their hands alone.
