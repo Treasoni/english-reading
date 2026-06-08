@@ -426,7 +426,73 @@ Despite a spell of initial **optimism** in the 1960s and 1970s when it appeared 
 
 ## Paragraph 5: The Human Brain vs. Machines
 
-What they found, in attempting to model thought, is that the human brain's roughly one hundred billion **nerve cells** are much more talented—and human **perception** far more complicated—than previously imagined. They have built robots that can recognize the error of a machine panel by a fraction of a millimeter in a controlled factory environment. But the human mind can glimpse a rapidly changing scene and the 98 percent that is irrelevant, **instantaneously** focusing on the monkey at the side of a winding forest road or the single suspicious face in a big crowd. The most advanced computer systems on Earth can't approach that kind of ability, and **neuroscientists** still don't know quite how we do it.
+What they found, in attempting to model thought, is that the human brain's roughly one hundred billion **nerve cells** are much more talented—and human **perception** far more complicated—than previously imagined.
+
+> [!abstract]- 长难句分析
+> **原句**：What they found, in attempting to model thought, is that the human brain's roughly one hundred billion **nerve cells** are much more talented—and human **perception** far more complicated—than previously imagined.
+>
+> **主干提取**：
+> - **S (主语)**：What they found（主语从句）
+> - **V (系动词)**：is
+> - **C (表语)**：that the human brain's...than previously imagined（表语从句）
+> - 简化主干：**What they found is that...**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 插入语 | in attempting to model thought | 整句（方式/补充说明）|
+> | 不定式 | to model thought | attempting 的补足 |
+> | 关系代词 | What | 引导主语从句 |
+> | 名词所有格 | the human brain's | 修饰 nerve cells |
+> | 副词 | roughly | 修饰 one hundred billion |
+> | 数量词 | one hundred billion | 修饰 nerve cells |
+> | 副词 | much | 修饰比较级 more |
+> | 形容词比较级 | more talented | 表语 ① |
+> | 破折号 | — | 隔开两个并列表语 |
+> | 副词 | far | 修饰比较级 more |
+> | 形容词比较级 | more complicated | 表语 ② |
+> | 比较状从 | than previously imagined | 修饰 talented / complicated |
+> | 副词 | previously | 修饰 imagined |
+>
+> **结构图解**：
+>
+> ```
+> 主句: What they found is that...than previously imagined
+>   ├── 关系代词: (What) → 引导主语从句
+>   ├── 主语从句内部:
+>   │     ├── 主谓: they (S) + found (V)
+>   │     └── 宾语: (What) → 自身作 found 的宾语
+>   ├── 插入语: (in attempting to model thought) → 方式/补充
+>   │     └── 不定式: (to model thought) → attempting 的补足
+>   ├── 系动词: (is)
+>   └── 表语从句: (that the human brain's...—and human perception...—than previously imagined)
+>         ├── 主语: (the human brain's roughly one hundred billion nerve cells)
+>         │     ├── 名词所有格: (the human brain's) → 修饰 nerve cells
+>         │     ├── 副词: (roughly) → 修饰 one hundred billion
+>         │     └── 数量词: (one hundred billion) → 修饰 nerve cells
+>         ├── 表语 ①: (are much more talented)
+>         │     └── 副词: (much) → 修饰比较级 more
+>         ├── 并列连词: (and) → 连接两个表语
+>         ├── 破折号: (—) → 隔开两个并列表语
+>         ├── 表语 ②: (human perception far more complicated)
+>         │     └── 副词: (far) → 修饰比较级 more
+>         └── 比较状从: (than previously imagined) → 修饰 talented / complicated
+>               └── 副词: (previously) → 修饰 imagined
+> ```
+>
+> **参考译文**：研究人员（在尝试模拟人脑思维时）发现：人脑中约一千亿个神经细胞远比我们此前想象的要更具天赋——而且人类的感知能力也远比我们想象的要复杂得多。
+>
+> **考点提示**：
+> - **What 引导主语从句**：What they found 是"主 + 谓 + 宾"结构作整个主句的主语，What 既是引导词又充当 found 的宾语。识别"双重功能"是断句关键。
+> - **is + 表语从句**：What they found is that... 是"主系表"结构，表语由 that 从句承担（that 不可省略）。表语从句内部又是一个完整的"主 + 系 + 表 + 状"结构。
+> - **破折号隔开两个并列表语**：—and human perception far more complicated— 是对第一个表语的补充说明（递进关系），破折号使句子结构更清晰，避免 and 连接产生歧义。
+> - **复合比较结构 much more... / far more...**：much / far 是程度副词，修饰比较级 more talented / more complicated，强调"更......得多"。是写作"程度加强"的高级表达。
+> - **than previously imagined 比较状从省略**：than 从句省略了主语和 be 动词（完整形式：than they were previously imagined），是"省略 + 被动"双重考点。识别这种省略对理解句意至关重要。
+> - **插入语 in attempting to model thought**：介词短语作插入语，对主句补充说明（如何"found"），用逗号隔开。插入语可暂时忽略不影响主句理解。
+> - **数量词 one hundred billion**：约 1000 亿（10^11），与 the human brain's 大致吻合（人脑约 860 亿神经元）。是阅读"细节题"的数据支撑点。
+
+They have built robots that can recognize the error of a machine panel by a fraction of a millimeter in a controlled factory environment. But the human mind can glimpse a rapidly changing scene and the 98 percent that is irrelevant, **instantaneously** focusing on the monkey at the side of a winding forest road or the single suspicious face in a big crowd. The most advanced computer systems on Earth can't approach that kind of ability, and **neuroscientists** still don't know quite how we do it.
 
 ## Questions
 
