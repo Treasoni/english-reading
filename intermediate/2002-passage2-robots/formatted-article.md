@@ -492,7 +492,51 @@ What they found, in attempting to model thought, is that the human brain's rough
 > - **插入语 in attempting to model thought**：介词短语作插入语，对主句补充说明（如何"found"），用逗号隔开。插入语可暂时忽略不影响主句理解。
 > - **数量词 one hundred billion**：约 1000 亿（10^11），与 the human brain's 大致吻合（人脑约 860 亿神经元）。是阅读"细节题"的数据支撑点。
 
-They have built robots that can recognize the error of a machine panel by a fraction of a millimeter in a controlled factory environment. But the human mind can glimpse a rapidly changing scene and the 98 percent that is irrelevant, **instantaneously** focusing on the monkey at the side of a winding forest road or the single suspicious face in a big crowd. The most advanced computer systems on Earth can't approach that kind of ability, and **neuroscientists** still don't know quite how we do it.
+They have built robots that can recognize the error of a machine panel by a **fraction** of a millimeter in a controlled factory environment.
+
+> [!abstract]- 长难句分析
+> **原句**：They have built robots that can recognize the error of a machine panel by a **fraction** of a millimeter in a controlled factory environment.
+>
+> **主干提取**：
+> - **S (主语)**：They
+> - **V (谓语)**：have built
+> - **O (宾语)**：robots
+> - 简化主干：**They have built robots.**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 定语从句 | that can recognize...environment | robots（多层介短修饰）|
+> | 介词短语 | of | the error（错误对象）|
+> | 介词短语 | by a fraction of a millimeter | recognize（精度状语）|
+> | 介词短语 | of | a fraction（一毫米的一部分）|
+> | 介词短语 | in a controlled factory environment | recognize（地点状语）|
+> | 过去分词 | controlled | factory environment（被动关系）|
+>
+> **结构图解**：
+>
+> ```
+> 主句: They have built robots
+>   └── 定从: (that can recognize the error of a machine panel by a fraction of a millimeter in a controlled factory environment) → 修饰 robots
+>         ├── 介短: (of a machine panel) → 修饰 the error
+>         ├── 介短: (by a fraction of a millimeter) → 修饰 recognize（精度）
+>         │     └── 介短: (of a millimeter) → 修饰 a fraction
+>         └── 介短: (in a controlled factory environment) → 修饰 recognize（地点）
+>               └── 过去分词: (controlled) → 修饰 factory environment
+> ```
+>
+> **参考译文**：他们已经制造出能够在受控工厂环境中以亚毫米级精度识别机器面板错误的机器人。
+>
+> **考点提示**：
+> - **定语从句 that + 多层介短链式修饰**：that can recognize... 修饰 robots，但从句内部有 3 个介词短语（of a machine panel / by a fraction... / in a controlled...）形成链式修饰，是阅读长难句"断句找主干"的典型考点——找定从的谓语动词 can recognize 即可锁定主谓。
+> - **recognize...by... 结构**：by 表示"以……方式/标准"，后接精确度（a fraction of a millimeter）。类似用法：measure...by...（以……测量）、judge...by...（以……判断）。是阅读"细节题"的设题点。
+> - **a fraction of 表达微小数量**：= a very small part of（……的一小部分），是"模糊数字"的高级表达。类似词组：a fraction of a second（一瞬间）、a fraction of the cost（一小部分成本）。是写作"精确表达"主题的常考搭配。
+> - **介短 of + 介短 的层层嵌套**：by a fraction of a millimeter 中，by 引导"以……精度"，a fraction 后接 of 表"部分关系"。识别"最近修饰原则"是断句关键（of 修饰 fraction，而非修饰前面的动词）。
+> - **过去分词 controlled 作定语**：= 被控制的（environment）。注意区分：controlling（主动，现在分词）/ controlled（被动，过去分词）/ controllable（可控制的，形容词）。是阅读"词义辨析题"的考点。
+> - **in a controlled factory environment 地点状语后置**：in + 名词 + of + 名词 是常见地点状语结构，识别其作状语而非定语是阅读判断的关键（factory environment 前无冠词或所有格时为泛指，常作状语）。
+
+But the human mind can glimpse a rapidly changing scene and the 98 percent that is irrelevant, **instantaneously** focusing on the monkey at the side of a winding forest road or the single suspicious face in a big crowd. The most advanced computer systems on Earth can't approach that kind of ability, and **neuroscientists** still don't know quite how we do it.
 
 ## Questions
 
