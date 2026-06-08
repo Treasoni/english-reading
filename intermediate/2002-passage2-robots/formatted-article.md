@@ -17,7 +17,7 @@ sources:
 
 ## Paragraph 1: The Origins of Robotics
 
-Since the dawn of human **ingenuity**, people have devised ever more **cunning** tools to cope with work that is dangerous, boring, **burdensome**, or just plain nasty. That **compulsion** has resulted in **robotics**—the science of conferring various human capabilities on machines. And if scientists have yet to create the mechanical version of science fiction, they have begun to come close.
+Since the dawn of human **ingenuity**, people have devised ever more **cunning** tools to **cope** with work that is dangerous, boring, **burdensome**, or just plain nasty. That **compulsion** has resulted in **robotics**—the science of conferring various human capabilities on machines. And if scientists have yet to create the mechanical version of science fiction, they have begun to come close.
 
 ## Paragraph 2: Robots in Daily Life
 
