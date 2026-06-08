@@ -195,7 +195,62 @@ As a result, the modern world is increasingly **populated** by intelligent **giz
 
 Our factories hum to the **rhythm** of robot assembly arms. Our banking is done at automated teller terminals that thank us with mechanical politeness for the transaction. Our subway trains are controlled by tireless robot-drivers. And thanks to the continual **miniaturization** of electronics and **micro-mechanics**, there are already robot systems that can perform some kinds of brain and bone surgery with sub millimeter accuracy—far greater precision than highly skilled physicians can achieve with their hands alone.
 
-## Paragraph 3: The Challenge Ahead
+> [!abstract]- 长难句分析
+> **原句**：And thanks to the continual **miniaturization** of electronics and **micro-mechanics**, there are already robot systems that can perform some kinds of brain and bone surgery with sub millimeter accuracy—far greater precision than highly skilled physicians can achieve with their hands alone.
+>
+> **主干提取**：
+> - **S (主语)**：there (存在句引导词) → **robot systems**
+> - **V (谓语)**：are (there be 存在句)
+> - **A (状语)**：already / thanks to the continual miniaturization of electronics and micro-mechanics（原因状语）
+> - 简化主干：**There are already robot systems.**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 并列连词 | And | 承接前文（段落内并列）|
+> | 原因状语 | thanks to | 主句（原因）|
+> | 介词短语 | of | miniaturization |
+> | 形容词 | continual | miniaturization |
+> | 副词 | already | are |
+> | 定语从句 | that can perform...accuracy | robot systems |
+> | 介词短语 | of | some kinds（手术种类）|
+> | 介词短语 | with | perform（方式状语，精度）|
+> | 复合形容词 | sub millimeter | accuracy |
+> | 破折号同位语 | — far greater precision... | 解释 sub millimeter accuracy |
+> | 副词 | far | 修饰比较级 greater |
+> | 比较状从 | than...achieve with their hands alone | 修饰 precision（比较对象）|
+> | 复合形容词 | highly skilled | physicians |
+> | 介词短语 | with their hands alone | achieve（方式）|
+>
+> **结构图解**：
+>
+> ```
+> 主句: there are already robot systems (存在句)
+>   ├── 并列连词: (And) → 承接前文
+>   ├── 原因状语: (thanks to the continual miniaturization of electronics and micro-mechanics) → 主句原因
+>   │     └── 介短: (of electronics and micro-mechanics) → 修饰 miniaturization
+>   │           └── 形容词: (continual) → 修饰 miniaturization
+>   ├── 副词: (already) → 修饰 are
+>   ├── 定从: (that can perform some kinds of brain and bone surgery with sub millimeter accuracy) → 修饰 robot systems
+>   │     ├── 介短: (of brain and bone surgery) → 修饰 some kinds
+>   │     └── 介短: (with sub millimeter accuracy) → 修饰 perform
+>   └── 破折号同位语: (—far greater precision than highly skilled physicians can achieve with their hands alone) → 解释 accuracy
+>         ├── 副词: (far) → 修饰比较级 greater
+>         └── 比较状从: (than highly skilled physicians can achieve with their hands alone) → 比较对象
+>               ├── 复合形容词: (highly skilled) → 修饰 physicians
+>               └── 介短: (with their hands alone) → 修饰 achieve
+> ```
+>
+> **参考译文**：而且，由于电子学和微观力学技术的不断微型化，已经出现了能够进行某些脑部和骨科手术的机器人系统，其精度可达亚毫米级——这种精度远非训练有素的医生仅凭双手所能达到。
+>
+> **考点提示**：
+> - **There be 存在句 + 定语从句**：there are...robot systems that... 是典型的"存在句 + 后置定语"结构，识别定从 that... 的起止位置（谓语动词是 can perform）是断句关键。
+> - **thanks to 原因状语**：= because of / due to / owing to（多亏、由于），是阅读"因果细节题"的高频标志。注意 thanks for 是"感谢"（动词用法），thanks to 是"原因"（介词用法）。
+> - **破折号同位语补充说明**：破折号后的 far greater precision than... 是对 sub millimeter accuracy 的具体解释。破折号同位语中嵌套 than 比较状语，是"长难句断句"的高频考点。
+> - **形容词比较级 + than 从句**：far greater...than... 是显性比较结构。注意 than 后的主语与主句主语不同时会完整出现（highly skilled physicians can achieve），相同时常省略。
+> - **复合形容词**：highly skilled（"副词+过去分词"作定语）、sub millimeter（连字符复合形容词）——考研阅读中常作为"猜词题"或"细节题"的设题点。
+> - **链式介词短语**：thanks to + 介短 of + 介短 层层嵌套，是阅读中快速判断"修饰谁"的断句考点（最近的修饰原则）。
 
 But if robots are to reach the next stage of **laborsaving** utility, they will have to operate with less human supervision and be able to make at least a few decisions for themselves—goals that pose a real challenge. "While we know how to tell a robot to handle a specific error," says Dave Lavery, manager of a robotics program at NASA, "we can't yet give a robot enough '**common sense**' to reliably interact with a **dynamic** world."
 
