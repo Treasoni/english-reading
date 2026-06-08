@@ -363,6 +363,67 @@ Indeed the quest for true **artificial intelligence** has produced very mixed re
 
 Despite a spell of initial **optimism** in the 1960s and 1970s when it appeared that **transistor** circuits and **microprocessors** might be able to copy the action of the human brain by the year 2010, researchers lately have begun to extend that forecast by decades if not centuries.
 
+> [!abstract]- 长难句分析
+> **原句**：Despite a spell of initial **optimism** in the 1960s and 1970s when it appeared that **transistor** circuits and **microprocessors** might be able to copy the action of the human brain by the year 2010, researchers lately have begun to extend that forecast by decades if not centuries.
+>
+> **主干提取**：
+> - **S (主语)**：researchers
+> - **V (谓语)**：have begun to extend
+> - **O (宾语)**：that forecast（指示代词 + 名词，回指前文预测）
+> - **A (状语)**：lately / by decades if not centuries
+> - 简化主干：**Researchers have begun to extend that forecast.**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 让步状语 | Despite | 主句（让步）|
+> | 名词短语 | a spell of | initial optimism（一段……的）|
+> | 形容词 | initial | optimism |
+> | 介词短语 | in the 1960s and 1970s | optimism（时间）|
+> | 时间状语从句 | when | 修饰 optimism / 主句 |
+> | 形式主语 | it | 形式主语（真正主语是 that 从句）|
+> | 主语从句 | that transistor circuits...2010 | appeared 的真正主语 |
+> | 并列主语 | transistor circuits and microprocessors | 主从的主语 |
+> | 情态动词 + be able to | might be able to copy | 双重情态表可能性 |
+> | 介词短语 | of | the action（人脑的活动）|
+> | 介词短语 | by the year 2010 | copy（时间状语）|
+> | 副词 | lately | have begun |
+> | 介词短语 | by decades | extend（数量）|
+> | 省略条件 | if not centuries | 补充说明（= or even centuries）|
+>
+> **结构图解**：
+>
+> ```
+> 主句: researchers lately have begun to extend that forecast by decades if not centuries
+>   ├── 让步状语: (Despite a spell of initial optimism in the 1960s and 1970s) → 主句让步
+>   │     ├── 名词短语: (a spell of) → 修饰 optimism
+>   │     ├── 形容词: (initial) → 修饰 optimism
+>   │     └── 介短: (in the 1960s and 1970s) → 修饰 optimism
+>   ├── 时间状从: (when it appeared that ... by the year 2010) → 修饰 optimism
+>   │     └── 主语从句: (that transistor circuits and microprocessors might be able to copy the action of the human brain by the year 2010)
+>   │           ├── 主语: (transistor circuits and microprocessors)
+>   │           ├── 谓语: (might be able to copy)
+>   │           ├── 宾语: (the action)
+>   │           │     └── 介短: (of the human brain) → 修饰 action
+>   │           └── 介短: (by the year 2010) → 修饰 copy
+>   ├── 副词: (lately) → 修饰 have begun（时间）
+>   ├── 宾语: (that forecast) → 回指前文预测
+>   └── 介短: (by decades) → 修饰 extend
+>         └── 省略条件: (if not centuries) → 补充（"甚至数百年"）
+> ```
+>
+> **参考译文**：尽管在 20 世纪 60 和 70 年代曾有过一段时期的乐观情绪——当时人们似乎认为晶体管电路和微处理器到 2010 年或许就能复制人脑的活动——但近年来，研究者们已开始将这一预测向后推延数十年乃至数百年。
+>
+> **考点提示**：
+> - **Despite + 名词短语（让步状语）**：= in spite of（尽管），后接名词/名词短语。本句 Despite a spell of... 是介词短语作让步状语，是阅读"逻辑题"标志——后接主句常表转折。
+> - **形式主语 it + 主语从句**：it appeared that... 中 it 是形式主语，真正主语是 that 引导的从句（that 从句内嵌套 and 连接的两个并列主语）。识别形式主语是阅读长难句断句的关键。
+> - **might be able to do 双重情态**：might（也许）+ be able to（能够）双重情态叠加，强调"可能性较低但有可能"，是考研虚拟/推测语气的典型表达。
+> - **when 时间状从 + 主语从句嵌套**：when 从句内嵌主语从句（it appeared that...），是"从句套从句"的典型结构，识别"嵌套层次"是断句核心。
+> - **by decades if not centuries 省略句**：if not centuries 是 if it is not centuries 的省略，相当于"if not + 名词"= "or even"（甚至）。是写作"递进/让步"的高级表达。
+> - **指示代词 that 修饰 forecast**：that forecast 中的 that 是指示代词，特指前文 AI 探索的预测，构成段落衔接纽带，是"代词指代题"常考点。
+> - **a spell of 固定搭配**：= a period of（一段时间的），常接抽象名词（optimism, bad weather, illness）。是写作"持续状态"主题的常考搭配。
+
 ## Paragraph 5: The Human Brain vs. Machines
 
 What they found, in attempting to model thought, is that the human brain's roughly one hundred billion **nerve cells** are much more talented—and human **perception** far more complicated—than previously imagined. They have built robots that can recognize the error of a machine panel by a fraction of a millimeter in a controlled factory environment. But the human mind can glimpse a rapidly changing scene and the 98 percent that is irrelevant, **instantaneously** focusing on the monkey at the side of a winding forest road or the single suspicious face in a big crowd. The most advanced computer systems on Earth can't approach that kind of ability, and **neuroscientists** still don't know quite how we do it.
