@@ -193,7 +193,7 @@ As a result, the modern world is increasingly **populated** by intelligent **giz
 > - **be populated by 高级替换**：= be filled with / be inhabited by（被……充满 / 居住）。注意不要混用 people（v. 居住）。
 > - **barely 否定意义副词**：= hardly / scarcely，几乎不。含 barely 的句子按"否定句"处理，是阅读"否定细节题"的陷阱。
 
-Our factories hum to the rhythm of robot assembly arms. Our banking is done at automated teller terminals that thank us with mechanical politeness for the transaction. Our subway trains are controlled by tireless robot-drivers. And thanks to the continual **miniaturization** of electronics and **micro-mechanics**, there are already robot systems that can perform some kinds of brain and bone surgery with sub millimeter accuracy—far greater precision than highly skilled physicians can achieve with their hands alone.
+Our factories hum to the **rhythm** of robot assembly arms. Our banking is done at automated teller terminals that thank us with mechanical politeness for the transaction. Our subway trains are controlled by tireless robot-drivers. And thanks to the continual **miniaturization** of electronics and **micro-mechanics**, there are already robot systems that can perform some kinds of brain and bone surgery with sub millimeter accuracy—far greater precision than highly skilled physicians can achieve with their hands alone.
 
 ## Paragraph 3: The Challenge Ahead
 
