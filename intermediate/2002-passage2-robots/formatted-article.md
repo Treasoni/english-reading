@@ -8,7 +8,7 @@ tags:
   - 2002
   - robots
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-06-08
 sources:
   - "2002 年考研英语阅读理解 Passage 2"
 ---
@@ -17,7 +17,47 @@ sources:
 
 ## Paragraph 1: The Origins of Robotics
 
-Since the dawn of human **ingenuity**, people have devised ever more **cunning** tools to **cope** with work that is dangerous, boring, **burdensome**, or just plain nasty. That **compulsion** has resulted in **robotics**—the science of conferring various human capabilities on machines. And if scientists have yet to create the mechanical version of science fiction, they have begun to come close.
+Since the dawn of human **ingenuity**, people have devised ever more **cunning** tools to **cope** with work that is dangerous, boring, **burdensome**, or just plain nasty.
+
+> [!abstract]- 长难句分析
+> **原句**：Since the dawn of human **ingenuity**, people have devised ever more **cunning** tools to **cope** with work that is dangerous, boring, **burdensome**, or just plain nasty.
+>
+> **主干提取**：
+> - **S (主语)**：people
+> - **V (谓语)**：have devised
+> - **O (宾语)**：ever more **cunning** tools
+> - **A (状语)**：(目的) to cope with work that...
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 状语从句 | Since | 主句（时间状语）|
+> | 介词短语 | of | the dawn |
+> | 形容词短语 | ever more | cunning tools |
+> | 不定式 | to cope with | devised（目的状语）|
+> | 定语从句 | that | work |
+> | 并列形容词 | or 连接四个形容词 | work |
+>
+> **结构图解**：
+>
+> ```
+> 主句: people have devised ever more cunning tools
+>   ├── 状从: (Since the dawn of human ingenuity) → 时间状语
+>   │     └── 介短: (of human ingenuity) → 修饰 the dawn
+>   ├── 定从: (that is dangerous, boring, burdensome, or just plain nasty) → 修饰 work
+>   └── 非谓语: (to cope with work...) → 目的状语
+> ```
+>
+> **参考译文**：自从人类开始发挥创造力以来，人们就设计出越来越巧妙的工具，来应对那些危险、枯燥、繁重或者纯粹令人厌恶的工作。
+>
+> **考点提示**：
+> - 状语从句前置：Since 引导时间状语位于句首，考研阅读"时间/原因"题常考句首标志词（Since = ever since / 从那时起）。
+> - 定语从句 that 修饰 work，含四个并列形容词（dangerous / boring / burdensome / nasty），注意谓语 is 与 work 保持单数一致。
+> - 目的状语 to cope with work that... 中嵌套定语从句，形成"目的状语+定从"嵌套结构——长难句断句的常见切分点。
+> - ever more + adj. 表"越来越..."，是阅读中"程度递进"标志，命题人常以此设置"比较级"或"隐含比较"考点。
+
+That **compulsion** has resulted in **robotics**—the science of conferring various human capabilities on machines. And if scientists have yet to create the mechanical version of science fiction, they have begun to come close.
 
 ## Paragraph 2: Robots in Daily Life
 
