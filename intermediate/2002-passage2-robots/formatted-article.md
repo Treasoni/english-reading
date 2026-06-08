@@ -252,7 +252,67 @@ Our factories hum to the **rhythm** of robot assembly arms. Our banking is done 
 > - **复合形容词**：highly skilled（"副词+过去分词"作定语）、sub millimeter（连字符复合形容词）——考研阅读中常作为"猜词题"或"细节题"的设题点。
 > - **链式介词短语**：thanks to + 介短 of + 介短 层层嵌套，是阅读中快速判断"修饰谁"的断句考点（最近的修饰原则）。
 
-But if robots are to reach the next stage of **laborsaving** utility, they will have to operate with less human supervision and be able to make at least a few decisions for themselves—goals that pose a real challenge. "While we know how to tell a robot to handle a specific error," says Dave Lavery, manager of a robotics program at NASA, "we can't yet give a robot enough '**common sense**' to reliably interact with a **dynamic** world."
+But if robots are to reach the next stage of **laborsaving** utility, they will have to operate with less human supervision and be able to make at least a few decisions for themselves—goals that pose a real challenge.
+
+> [!abstract]- 长难句分析
+> **原句**：But if robots are to reach the next stage of **laborsaving** utility, they will have to operate with less human supervision and be able to make at least a few decisions for themselves—goals that pose a real challenge.
+>
+> **主干提取**：
+> - **S (主语)**：they
+> - **V (谓语)**：will have to operate ... **and** be able to make（并列复合谓语）
+> - **O (宾语)**：at least a few decisions
+> - **A (状语)**：with less human supervision / for themselves
+> - 简化主干：**They will have to operate and be able to make decisions.**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 转折连词 | But | 承接上段（段落开头）|
+> | 条件状语从句 | if | 主句（条件）|
+> | be + 不定式 | are to reach | 状从谓语（"打算/将要"）|
+> | 介词短语 | of | the next stage |
+> | 复合形容词 | laborsaving | utility |
+> | 形容词比较级 | less | human supervision |
+> | 介词短语 | with | operate（方式状语）|
+> | 并列连词 | and | 连接两个谓语 |
+> | 数量词组 | at least a few | decisions |
+> | 介词短语 | for themselves | make（方式状语）|
+> | 破折号同位语 | — goals that... | 补充说明主句内容 |
+> | 定语从句 | that pose a real challenge | goals（与同位语合并）|
+> | 形容词 | real | challenge |
+>
+> **结构图解**：
+>
+> ```
+> 主句: they will have to operate and be able to make decisions
+>   ├── 转折连词: (But) → 承接上段
+>   ├── 条件状从: (if robots are to reach the next stage of laborsaving utility) → 条件
+>   │     └── be + 不定式: (are to reach) → 状从谓语（"打算"）
+>   │           └── 介短: (of laborsaving utility) → 修饰 stage
+>   │                 └── 复合形容词: (laborsaving) → 修饰 utility
+>   ├── 复合谓语 ①: (will have to operate) → 必须做
+>   │     └── 介短: (with less human supervision) → 方式状语
+>   │           └── 比较级: (less) → 修饰 human supervision
+>   ├── 复合谓语 ②: (and be able to make) → 并列谓语
+>   │     ├── 数量词: (at least a few) → 修饰 decisions
+>   │     └── 介短: (for themselves) → 修饰 make（自主地）
+>   └── 破折号同位语: (—goals that pose a real challenge) → 补充说明主句
+>         └── 定从: (that pose a real challenge) → 修饰 goals
+>               └── 形容词: (real) → 修饰 challenge
+> ```
+>
+> **参考译文**：但是，如果机器人要达到下一个节省劳动力的效用阶段，它们就必须能够在更少的人工监督下运行，并能够至少自主做出几个决定——这构成了一个真正的挑战。
+>
+> **考点提示**：
+> - **be to do 结构**：are to reach 是"be + 不定式"结构，表"将来要……"或"打算……"，相当于 plan to / will（更具目的性、义务性）。考研翻译中常需根据语境判断译为"要/得/会"。
+> - **复合谓语并列（will have to ... and be able to ...）**：主句含有两个并列的复合谓语，识别谓语数量是阅读长难句断句的关键。
+> - **less + 不可数名词**：less 是 little 的比较级，后接不可数名词（human supervision）。注意区别于 fewer（few 的比较级，后接可数名词复数）。
+> - **破折号同位语补充说明**：破折号后的 goals that pose a real challenge 是对前面"必须做某事"这一情况的整体评价。识别破折号同位语可避免误读为新句子。
+> - **复合形容词 laborsaving**：= labor（劳动力） + saving（节省），连写构成"节约劳动力的"含义。考研阅读中常作为"猜词题"的设题点。
+> - **for themselves 高级替换**：= independently / autonomously（自主地），是写作"独立自主"主题的高级表达。
+
+"While we know how to tell a robot to handle a specific error," says Dave Lavery, manager of a robotics program at NASA, "we can't yet give a robot enough '**common sense**' to reliably interact with a **dynamic** world."
 
 ## Paragraph 4: The AI Setback
 
