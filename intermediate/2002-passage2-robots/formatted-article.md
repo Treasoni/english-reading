@@ -536,7 +536,68 @@ They have built robots that can recognize the error of a machine panel by a **fr
 > - **过去分词 controlled 作定语**：= 被控制的（environment）。注意区分：controlling（主动，现在分词）/ controlled（被动，过去分词）/ controllable（可控制的，形容词）。是阅读"词义辨析题"的考点。
 > - **in a controlled factory environment 地点状语后置**：in + 名词 + of + 名词 是常见地点状语结构，识别其作状语而非定语是阅读判断的关键（factory environment 前无冠词或所有格时为泛指，常作状语）。
 
-But the human mind can glimpse a rapidly changing scene and the 98 percent that is irrelevant, **instantaneously** focusing on the monkey at the side of a winding forest road or the single suspicious face in a big crowd. The most advanced computer systems on Earth can't approach that kind of ability, and **neuroscientists** still don't know quite how we do it.
+But the human mind can glimpse a rapidly changing scene and the 98 percent that is irrelevant, **instantaneously** focusing on the monkey at the side of a **winding** forest road or the single suspicious face in a big crowd.
+
+> [!abstract]- 长难句分析
+> **原句**：But the human mind can glimpse a rapidly changing scene and the 98 percent that is irrelevant, **instantaneously** focusing on the monkey at the side of a winding forest road or the single suspicious face in a big crowd.
+>
+> **主干提取**：
+> - **S (主语)**：the human mind
+> - **V (谓语)**：can glimpse
+> - **O (宾语)**：a rapidly changing scene and the 98 percent that is irrelevant（并列复合宾语）
+> - 简化主干：**The human mind can glimpse a scene and the 98 percent that is irrelevant.**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 转折连词 | But | 承接上段（对比转折）|
+> | 复合形容词 | rapidly changing | scene |
+> | 并列连词 | and | 连接两个宾语 |
+> | 定语从句 | that is irrelevant | the 98 percent |
+> | 数量表达 | 98 percent | （98% 的内容）|
+> | 现在分词（伴随）| instantaneously focusing on... | the human mind（方式/伴随状语）|
+> | 副词 | instantaneously | focusing（"瞬间地"）|
+> | 并列连词 | or | 连接两个聚焦对象 |
+> | 介词短语 | at the side of | the monkey（位置）|
+> | 复合形容词 | winding | forest road |
+> | 名词作定语 | forest | road |
+> | 复合形容词 | single suspicious | face |
+> | 介词短语 | in a big crowd | the single suspicious face（位置）|
+>
+> **结构图解**：
+>
+> ```
+> 主句: the human mind can glimpse [a rapidly changing scene] and [the 98 percent that is irrelevant]
+>   ├── 转折连词: (But) → 承接上段
+>   ├── 复合形容词: (rapidly changing) → 修饰 scene
+>   ├── 并列连词: (and) → 连接两个宾语
+>   ├── 定从: (that is irrelevant) → 修饰 the 98 percent
+>   └── 现在分词(伴随状语): (instantaneously focusing on ... or ...) → 主语的伴随动作
+>         ├── 副词: (instantaneously) → 修饰 focusing
+>         ├── 并列宾语 ①: (the monkey at the side of a winding forest road)
+>         │     └── 介短: (at the side of a winding forest road) → 修饰 the monkey
+>         │           └── 复合形容词: (winding) → 修饰 forest road
+>         │                 └── 名词定语: (forest) → 修饰 road
+>         ├── 并列连词: (or) → 连接两个聚焦对象
+>         └── 并列宾语 ②: (the single suspicious face in a big crowd)
+>               ├── 复合形容词: (single suspicious) → 修饰 face
+>               └── 介短: (in a big crowd) → 修饰 face
+> ```
+>
+> **参考译文**：但是，人类的大脑能够一眼扫视一个快速变化的场景以及其中 98% 的无关信息，并瞬间聚焦于蜿蜒林道旁的一只猴子，或者一大群人中的某张可疑面孔。
+>
+> **考点提示**：
+> - **复合并列宾语 (a scene and the 98 percent)**：glimpse 后接两个并列宾语，第二个宾语 the 98 percent 后接定从 that is irrelevant。识别"双宾语"是阅读长难句断句的关键——谓语 glimpse 究竟管到哪里？
+> - **数量表达 98 percent 抽象化**：98 percent 此处指"98% 的视觉信息"，用分数表达抽象概念，是阅读"细节推理题"的设题点。the 98 percent that is irrelevant = "那 98% 的无关内容"。
+> - **现在分词作伴随状语（focusing on...）**：focusing 的逻辑主语是 the human mind（句子主语），表示与 glimpse 同时发生。判断"非谓语作状语"的逻辑主语是考研阅读的常考点。
+> - **并列连词 or 连接两个聚焦对象**：or 连接的 the monkey ... 与 the single suspicious face ... 平行作 focusing on 的宾语，"两个并列宾语"是阅读长难句的典型结构。
+> - **介短链式修饰 + 复合形容词嵌套**：at the side of a winding forest road 中，介短 at the side of 修饰 the monkey，winding + forest（名词定语）修饰 road。是断句"最近修饰原则"的高频考点。
+> - **复合形容词 single suspicious 作定语**：single（单一的）+ suspicious（可疑的）并列修饰 face，强调"在群体中识别单个可疑对象"的能力，是写作"细节观察"主题的高级表达。
+> - **段首 But 转折对比**：与上句（机器人只能在受控环境中以亚毫米级精度识别错误）形成"人类大脑 vs 机器人"鲜明对比，暗示人脑的处理能力远超机器。是"逻辑题"和"主旨题"的常考点。
+> - **glimpse 高级词汇**：= take a quick look at（一瞥；瞥见），强调"快速扫视大量信息"的能力，与 stare（凝视）和 gaze（注视）形成对比。是写作"观察力"主题的常考词汇。
+
+The most advanced computer systems on Earth can't approach that kind of ability, and **neuroscientists** still don't know quite how we do it.
 
 ## Questions
 
