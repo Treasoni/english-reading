@@ -316,7 +316,52 @@ But if robots are to reach the next stage of **laborsaving** utility, they will 
 
 ## Paragraph 4: The AI Setback
 
-Indeed the quest for true **artificial intelligence** has produced very mixed results. Despite a spell of initial **optimism** in the 1960s and 1970s when it appeared that **transistor** circuits and **microprocessors** might be able to copy the action of the human brain by the year 2010, researchers lately have begun to extend that forecast by decades if not centuries.
+Indeed the quest for true **artificial intelligence** has produced very mixed results.
+
+> [!abstract]- 长难句分析
+> **原句**：Indeed the quest for true **artificial intelligence** has produced very mixed results.
+>
+> **主干提取**：
+> - **S (主语)**：the quest for true **artificial intelligence**
+> - **V (谓语)**：has produced
+> - **O (宾语)**：very mixed results
+> - **A (状语)**：Indeed（过渡副词）
+> - 简化主干：**The quest has produced mixed results.**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 过渡副词 | Indeed | 整句（承接上段，强调事实）|
+> | 介词短语 | for | the quest（追索/寻找对象）|
+> | 形容词 | true | artificial intelligence |
+> | 复合名词 | artificial intelligence | 作为整体概念（人工智能）|
+> | 副词 | very | mixed（程度加强）|
+> | 形容词 | mixed | results（过去分词作定语）|
+>
+> **结构图解**：
+>
+> ```
+> 主句: the quest for true artificial intelligence has produced very mixed results
+>   ├── 过渡副词: (Indeed) → 承接上段/强调
+>   ├── 介短: (for true artificial intelligence) → 修饰 quest
+>   │     ├── 形容词: (true) → 修饰 artificial intelligence
+>   │     └── 复合名词: (artificial intelligence) → "人工智能"整体
+>   ├── 副词: (very) → 修饰 mixed（程度）
+>   └── 形容词: (mixed) → 修饰 results（"复杂的/喜忧参半的"）
+> ```
+>
+> **参考译文**：事实上，对真正人工智能的探索已经产生了非常复杂（喜忧参半）的结果。
+>
+> **考点提示**：
+> - **句首过渡副词 Indeed**：位于句首表"事实上、确实"，用于承接上文（段 3 谈"机器人尚不能自主决策"）并开启新观点（段 4 谈"AI 探索结果"）。是"逻辑题"和"主旨题"的高频考点。
+> - **quest for 固定搭配**：= search for / pursuit of（对……的追求/探索），是写作"探索/追求"主题的常考搭配。for 后接抽象名词（如 knowledge, truth, happiness）。
+> - **复合名词 artificial intelligence**：artificial 修饰 intelligence，构成"人工智能"这一整体概念。考研阅读中常作为"猜词题"的设题点（artificial 来自词根"art"= 技艺 → 人造的）。
+> - **过去分词作定语 mixed**：= 各种各样的 / 喜忧参半的。注意区别于现在分词 mixing（混合中的）。mixed results 是阅读中"态度判断题"的标志短语——作者对 AI 探索持"谨慎/矛盾"态度。
+> - **very + 过去分词** 加强语气：very 修饰过去分词表程度，等同于 greatly / highly。是写作"程度加强"的高级表达。
+> - **has produced 完成时态**：强调"已经产生的"结果/影响，区别于一般过去时 produced（强调"生产"动作本身）。是阅读"时态细节题"的考点。
+
+Despite a spell of initial **optimism** in the 1960s and 1970s when it appeared that **transistor** circuits and **microprocessors** might be able to copy the action of the human brain by the year 2010, researchers lately have begun to extend that forecast by decades if not centuries.
 
 ## Paragraph 5: The Human Brain vs. Machines
 
