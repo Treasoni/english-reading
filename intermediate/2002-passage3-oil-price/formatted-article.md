@@ -243,7 +243,61 @@ sources:
 >    - `pump prices` 加油站零售价（pump = 加油泵；注意用复数 prices）
 >    - `in the past` 在过去（与 now, in the future, in the present 对应）
 
-⑴Rich economies are also less dependent on oil than they were, and so less sensitive to **swings** in the oil price. ⑵Energy conservation, a shift to other fuels and a decline in the importance of heavy, energy-intensive industries have reduced oil consumption. ⑶Software, consultancy and mobile telephones use far less oil than steel or car production. ⑷For each dollar of GDP (in constant prices) rich economies now use nearly 50% less oil than in 1973. ⑸The OECD estimates in its latest Economic Outlook that, if oil prices averaged $22 a barrel for a full year, compared with $13 in 1998, this would increase the oil import bill in rich economies by only 0.25-0.5% of GDP. ⑹That is less than one-quarter of the income loss in 1974 or 1980. ⑺On the other hand, oil-importing emerging economies—to which heavy industry has shifted—have become more energy-intensive, and so could be more seriously squeezed.
+⑴Rich economies are also less dependent on oil than they were, and so less sensitive to **swings** in the oil price. ⑵Energy conservation, a shift to other fuels and a decline in the importance of heavy, energy-intensive industries have reduced oil consumption.
+
+> [!abstract]- 长难句分析
+> **原句**：Energy conservation, a shift to other fuels and a decline in the importance of heavy, energy-intensive industries have reduced oil consumption.
+>
+> **主干提取**：
+> - **S**（并列主语，由逗号 + and 连接三部分）：
+>   - ① Energy conservation
+>   - ② a shift to other fuels
+>   - ③ a decline in the importance of heavy, energy-intensive industries
+> - **V**（谓语，复合谓语）：have reduced
+> - **O**（宾语）：oil consumption
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | to other fuels | a shift（后置定语） |
+> | 介词短语 | in the importance of... | a decline（后置定语） |
+> | 介词短语 | of heavy, energy-intensive industries | the importance（后置定语） |
+> | 复合形容词 | energy-intensive | industries（前置定语） |
+> | 形容词 | heavy | industries（前置定语） |
+>
+> **结构图解**：
+> ```
+> 主句(长主语+短谓语): [S1, S2 and S3] + [have reduced] + [oil consumption]
+>   ├── S1: Energy conservation（不可数名词短语）
+>   ├── 并列连词 and → 连接三个并列主语
+>   ├── S2: a shift to other fuels
+>   │     └── 介短: (to other fuels) → 后置定语，修饰 shift
+>   ├── 并列连词 and → 连接三个并列主语
+>   └── S3: a decline in the importance of heavy, energy-intensive industries
+>         └── 介短: (in the importance of heavy, energy-intensive industries) → 后置定语
+>               └── 介短: (of heavy, energy-intensive industries) → 修饰 importance
+>                     ├── 形容词: heavy → 修饰 industries
+>                     └── 复合形容词: energy-intensive → 修饰 industries
+> ```
+>
+> **参考译文**：能源节约、燃料结构的转变以及重工业等能源密集型产业重要性的下降，已经减少了石油的消耗量。
+>
+> **考点提示**：
+> 1. **长主语句型识别**：本句是典型的"长主语 + 短谓语"结构，谓语只有 `have reduced ...` 三个词，而主语长达 19 词（包含三个并列名词短语）。识别时**先找谓语动词**（have reduced），再向前回溯找出主语范围。
+> 2. **主谓一致**：`and` 连接三个并列主语时，谓语动词用**复数形式** `have`（而非单数 `has`）。即使最近的一个主语是单数 `a decline`，谓语仍要遵循"语法一致"原则用复数。**陷阱提示**：不可因最近主语是单数而误用 `has`。
+> 3. **复合形容词 `energy-intensive`**：`名词 + 形容词` 构成的复合形容词用连字符连接，作前置定语。类似结构：oil-rich / labor-intensive / time-consuming / carbon-neutral / user-friendly。
+> 4. **介词短语层层嵌套**：`a decline in the importance of heavy, energy-intensive industries` 包含多个介词短语嵌套，识别时需理清每个介词的修饰对象：`in` → decline；`of` → importance；heavy / energy-intensive → industries。
+> 5. **"a + 抽象名词"具体化**：`a shift` / `a decline` 表示"一次/一种转变/下降"，是具体化抽象概念的常见用法。`a + 单数抽象名词` 在英语中可表示"一种/一次"的具体事例。
+> 6. **heavy industries vs. energy-intensive industries**：本文用 `heavy, energy-intensive industries` 是同位语式描述（重工业 ≈ 能源密集型）。`heavy industries` 重工业（与 `light industries` 轻工业相对）。
+> 7. **高频搭配与词汇**：
+>    - `energy conservation` 能源节约（conserve → conservation 保护/节约）
+>    - `shift to...` 转向…（与 switch to / turn to 同义）
+>    - `a decline in...` 在…方面的下降（介词搭配：decline 后常接 in）
+>    - `energy-intensive` (adj.) 能源密集型的（反义词：`energy-efficient` 节能的）
+>    - `consumption` (n.) 消费、消耗（动词 consume → consumption；= use/usage）
+
+⑶Software, consultancy and mobile telephones use far less oil than steel or car production. ⑷For each dollar of GDP (in constant prices) rich economies now use nearly 50% less oil than in 1973. ⑸The OECD estimates in its latest Economic Outlook that, if oil prices averaged $22 a barrel for a full year, compared with $13 in 1998, this would increase the oil import bill in rich economies by only 0.25-0.5% of GDP. ⑹That is less than one-quarter of the income loss in 1974 or 1980. ⑺On the other hand, oil-importing emerging economies—to which heavy industry has shifted—have become more energy-intensive, and so could be more seriously squeezed.
 
 ⑴One more reason not to lose sleep over the rise in oil prices is that, unlike the rises in the 1970s, it has not occurred against the background of general commodity-price inflation and global excess demand. ⑵A sizable portion of the world is only just emerging from economic decline. ⑶The Economist's commodity price index is broadly unchanging from a year ago. ⑷In 1973 commodity prices jumped by 70%, and in 1979 by almost 30%.
 
