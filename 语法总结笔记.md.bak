@@ -1,0 +1,1758 @@
+---
+title: "考研英语语法总结笔记"
+type: grammar-summary
+tags:
+  - english-reading
+  - grammar
+  - summary
+  - reference
+created: 2026-05-19
+updated: 2026-06-06
+total_sources: 11
+processed_sources:
+  - path: "intermediate/2000-passage1-america/grammar-notes.md"
+    last_modified: "2026-05-19"
+    status: processed
+  - path: "intermediate/2000-passage2/grammar-notes.md"
+    last_modified: "2026-05-19"
+    status: processed
+  - path: "intermediate/2000-passage3-futurist/grammar-notes.md"
+    last_modified: "2026-05-20"
+    status: processed
+  - path: "intermediate/2000-passage4-japan/grammar-notes.md"
+    last_modified: "2026-05-20"
+    status: processed
+  - path: "intermediate/2000-passage5-ambition/grammar-notes.md"
+    last_modified: "2026-05-24"
+    status: processed
+  - path: "intermediate/2001-passage1-specialization/grammar-notes.md"
+    last_modified: "2026-05-26"
+    status: processed
+  - path: "intermediate/2001-passage2-digital-divide/grammar-notes.md"
+    last_modified: "2026-05-28"
+    status: processed
+  - path: "intermediate/2001-passage3-newspaper-credibility/grammar-notes.md"
+    last_modified: "2026-05-30"
+    status: processed
+  - path: "intermediate/2001-passage4-merger/grammar-notes.md"
+    last_modified: "2026-06-01"
+    status: processed
+  - path: "intermediate/2001-passage5-downshifting/grammar-notes.md"
+    last_modified: "2026-06-03"
+    status: processed
+  - path: "intermediate/2002-passage1-humor/grammar-notes.md"
+    last_modified: "2026-06-06"
+    status: processed
+categories:
+  - 从句
+  - 非谓语动词
+  - 介词与连词
+  - 倒装与强调
+  - 补充要点
+  - 双重否定
+  - 虚拟语气
+---
+
+# 考研英语语法总结笔记
+
+> [!abstract] 使用说明
+> 本笔记整合了 `intermediate/` 下所有单篇语法笔记（grammar-notes.md），按语法类别合并去重，涵盖从句、非谓语动词、介词与连词、倒装与强调、补充要点五大类别。固定搭配与词组已拆分到独立笔记 [[固定搭配与词组笔记]]，请配合使用。每条例句均标注来源篇章，考研核心考点以 📌 标记，考查频率用 ★ 评级。建议按类别系统复习，配合原文例句加深理解。
+
+## 快速索引
+
+| 类别    | 子主题                                                                                                                                                                                                                                                                | 涉及篇章 | 考查频率  |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----- |
+| 从句    | 状语从句、定语从句、宾语从句、主语从句、**It occurs/strikes/hits to sb. that...**、表语从句、What 从句镜像反转、同位语                                                                                                                                                                                       | 6    | ★★★★★ |
+| 非谓语动词 | 动名词作主语、非谓语动词综合、With 复合结构、动名词作方式状语(By doing)                                                                                                                                                                                                   | 5    | ★★★★★ |
+| 介词与连词 | As、Since、As Well As、Between...And、However、介词短语、While、Nevertheless、Whereas、Either...or...、话题引入介词(About/In terms of)、**介词修饰词(some/about + 数字)**、**四胞胎辨析(some time/sometime/sometimes)**、Otherwise、**Yet**                                                         | 9    | ★★★★  |
+| 倒装与强调 | 原级比较 (as...as)、强调句型 (It is...that...)                                                                                                                                                                                                                          | 2    | ★★★   |
+| 补充要点  | A of B 核心词判定、形式主语 It、插入语、主语从句谓语单数原则、双重否定、其他、Produce 词族、代词指代原则、代词辨析(Another vs The other)、半否定词、形容词作状语与接宾语从句、词汇辨析、Way 程度副词、**Might/Mighty**、**虚拟语气 might have done**、**It seems/appears that**、**not so much A as B**                              | 10   | ★★★   |
+
+> [!tip] 关联笔记
+> -固定搭配与词组（Make/Find A B、Used To家族、There Be、take for granted、attribute to、yield to、Instead of、have...to do with、Control over、Not least、On one's behalf、in one's own right、A great deal of、Loom、Get over、Credit、Turn out、Keep、Get around、Shall I...?、状态转化核心动词、Address 一词多义、Refer to vs. Comment on 等）已拆分到独立笔记 [[固定搭配与词组笔记]]。
+
+---
+
+## 从句 (Clauses)
+
+### 状语从句 (Adverbial Clauses)
+
+状语从句在句子中充当副词成分，修饰主句的动词。由关系连词引导，与主句结合构成完整句意。
+
+> [!tip] 核心概念
+> 副词修饰动词；状语从句本质上就是充当副词成分的完整句子，同样用来修饰动词。
+
+> [!tip] 📌 为什么状语从句不缺成分？
+> 引导状语从句的词在语法上叫做**从属连词**（because, if, when, although, unless 等），它们和定语从句的关系代词有本质区别：
+>
+> | | 定语从句的关系代词 (who/which) | 状语从句的从属连词 (because/if) |
+> |------|------|------|
+> | 角色 | **"卧底"**——既连接句子，又在从句里占一个位置（当主语或宾语） | **"红娘"**——只负责牵线搭桥，表明主句和从句之间的逻辑关系 |
+> | 是否占坑 | ✅ 占坑 → 从句缺成分 | ❌ 不占坑 → 从句必须自给自足，是一个完整的句子 |
+>
+> **例**：I stayed home **because** it was raining.
+> - `because` 只表明因果关系，不充当任何成分
+> - 从句 `it was raining` 主谓完整，不缺任何东西
+
+#### 句式结构
+
+| 结构 | 说明 | 例句 |
+|------|------|------|
+| **前置**（加逗号） | 关系连词 + 分句，主谓宾（主句） | When I am happy, I can play soccer. |
+| **后置**（通常无逗号） | 主谓宾（主句） + 关系连词 + 分句 | I can play soccer when I am happy. |
+
+#### 常见关系连词分类
+
+| 类型 | 常用连词 |
+|------|---------|
+| **时间** | when（当……时）, while（在……期间）, before, after, since, until |
+| **原因** | because（因为）, since（既然/由于）, as |
+| **条件** | if（如果）, unless（除非） |
+| **让步** | although/though（虽然）, even if（即使） |
+
+> [!warning] 分句 vs 从句
+> 分句本身包含完整的主谓结构，但一旦前面加上关系连词（如 when），就成为"从句"，不能再独立成句，必须依附主句存在。
+
+#### 状语从句的省略规则
+
+为使句子更紧凑，当从句主语与主句主语一致时，可省略从句主语；若从句谓语含有 be 动词，be 动词一并省略。
+
+| 原句 | 省略后 |
+|------|--------|
+| When **I am** happy, I can play soccer. | When **~~I am~~** happy, I can play soccer. → **When happy, I can play soccer.** |
+
+> [!quote]- 相关内容
+> - 参见 **介词与连词 > Since**：since 也可引导时间状语从句（表"自从"）
+> - 参见 **介词与连词 > As 的用法**：as 引导时间状语从句（表"当……时，随着……"）
+
+（来源：2000-passage1-america）
+
+---
+
+### 定语从句 (Attributive Clauses)
+
+定语从句本质上是一个超大型形容词，用来修饰前面的名词（即先行词）。先行词永远放在从句之前。
+
+> [!note] 核心本质
+> 定语从句 = 形容词功能的完整句子，修饰先行词。
+
+#### 关系代词一览表
+
+| 关系代词 | 指代对象 | 充当成分 | 核心用法 |
+|---------|---------|---------|---------|
+| **who** | 人 | 主语、宾语 | 缺主语或宾语，先行词是人 |
+| **whom** | 人 | 宾语 | 必须作宾语，常跟在介词后 |
+| **whose** | 人或物 | 定语（表所属） | 译为"……的"，结构：n.1 + whose + n.2 |
+| **which** | 物 | 主语、宾语 | 缺主语/宾语，先行词是物，或指代整句 |
+| **that** | 人或物 | 主语、宾语 | 万金油，但有"两不"原则 |
+
+> [!tip] 📌 为什么关系代词后面的成分不完整？
+> 因为关系代词（who, whom, which, that 等）**身兼两职**：
+> 1. **起连接作用**：把主句和从句连起来。
+> 2. **充当句子成分**：它们在从句中必须"占一个坑"（通常是主语或宾语）。
+>
+> 既然关系代词已经把位置占了，从句后面自然就"缺胳膊少腿"了。
+>
+> **例**：The man **who** helped me is a teacher.
+> - `who` = 连接词 + 从句主语（占了主语的坑）
+> - 从句还原：~~who~~ helped me → he helped me（去掉 who 后缺主语）
+
+> [!warning] that 的"两不"原则
+> 1. **不逗号**：不能引导非限定性定语从句（前面不能有逗号）
+>    - ~~I love this book, that is interesting.~~ ❌
+>    - I love this book, **which** is interesting. ✅
+> 2. **不介词**：不能直接跟在介词后面
+>    - ~~The house in that I live is large.~~ ❌
+>    - The house in **which** I live is large. ✅
+
+> [!tip] 📌 考研核心考点
+> **whose 也能指代"物"**：`I live in a house **whose** roof is broken.`（whose 指代 house 的）
+
+#### 限定性 vs 非限定性定语从句
+
+| 类型 | 特点 | 引导词限制 | 例句 |
+|------|------|-----------|------|
+| **限定性**（无逗号） | 与先行词关系紧密，去掉后句意不明 | 可用 that | I have a computer **whose software is good**. |
+| **非限定性**（有逗号） | 补充说明，去掉不影响句意完整 | **不可用 that** | I like to read books, **which is useful for me**. |
+
+> [!warning] 📌 非限定性定语从句的修饰对象判断（通过谓语单复数）
+> - 修饰**前面整句**：I like to read books, **which is** useful for me.（is 单数 → 指代"读书"这件事）
+> - 修饰**紧挨着的名词**：I like to read books, **which are** expensive.（are 复数 → 指代 books）
+
+#### 介词 + 关系代词 (Prep. + which/whom)
+
+关系代词在从句中作介词的宾语时，可将介词连同关系代词一起提前。
+
+> [!tip] 结构特征
+> 该结构后必须接一个**完整的句子**（不缺主谓宾），因为关系代词已作介词的宾语。
+
+| 介词位置               | 例句                                                          |
+| ------------------ | ----------------------------------------------------------- |
+| **介词 + which**（指物） | I like this table **on which** there is a book.             |
+| **介词 + whom**（指人）  | The person **with whom** I work is kind.                    |
+| **介词 + which**     | I like this book **through which** I can learn many things. |
+
+#### 关系代词的省略规则
+
+当先行词在定语从句中充当**宾语**时，关系代词（that/which/whom）可以省略。
+
+> 例句：I like this book (that/which) you read.
+> 逻辑拆解：从句 "you read" 缺宾语 → 缺失的宾语就是先行词 book → 关系代词可省略。
+
+> [!quote]- 相关内容
+> - 参见 **非谓语动词 > 非谓语动词综合**：非谓语动词也可以作后置定语，与定语从句形成对应
+
+（来源：2000-passage1-america）
+
+---
+
+### 宾语从句 (Object Clauses)
+
+宾语从句是在主谓宾结构中充当"宾语"的完整句子，通常紧跟在及物动词（如 believe, think, know, find, show 等）后面。
+
+> [!note] 核心本质
+> 宾语从句 = 一个完整的句子充当动词的宾语，而非简单的名词或代词。
+
+#### 结构对比
+
+| 类型 | 结构 | 例句 |
+|------|------|------|
+| **简单句**（名词作宾语） | 主语 + 及物动词 + 名词 | I like **this apple**. |
+| **复合句**（句子作宾语） | 主语 + 及物动词 + (that) + 从句 | I believe **(that) you like this apple**. |
+
+#### 引导词 that 的省略规则
+
+> [!warning] 📌 核心考点
+> 宾语从句的 **that** 仅起连接作用，在从句中不充当任何成分，也没有实际含义。因此在绝大多数情况下可以**省略**。
+>
+> **阅读实战**：看到"主语 + 动词 + 另一个主语 + 动词"紧挨在一起时（如 I think he is right），中间往往就是省略了 that 的宾语从句。
+
+#### 其他宾语从句引导词
+
+| 引导词类型 | 示例 | 注意 |
+|-----------|------|------|
+| **疑问词** (what, who, where, when, why, how) | I don't know **what** he wants. | **不能省略**，在从句中充当成分 |
+| **if / whether**（表"是否"） | I wonder **if/whether** it will rain tomorrow. | 引导从句时二选一 |
+
+> [!quote]- 相关内容
+> - 参见 **从句 > 主语从句**：What 引导从句作主语 vs 作宾语的区别
+> - 参见 **补充要点 > What vs That 引导词**：引导词的根本区别
+
+（来源：2000-passage1-america）
+
+---
+
+### 主语从句 (Subject Clauses)
+
+在整个大句子中，充当主语的不是一个简单的名词或代词，而是一个完整的从句。主语从句代表"一整件事情"，因此主句的谓语动词永远用==单数== (is/has/does)。
+
+#### 引导词一览表
+
+| 引导词 | 在从句中的角色 | 翻译策略 | 例句 |
+|--------|---------------|----------|------|
+| **what** | 必须充当主语或宾语 | "……的东西/事情" | **What** he said is true. |
+| **that** | 纯连接符号，不充当成分 | 不翻译，或"……这件事" | **That** he passed is surprising. |
+| **whether** | 表示"是否" | 是否 | **Whether** he will come is unknown. |
+| **how** | 充当方式状语 | 如何/怎样 | **How** we solve the problem is important. |
+| **when** | 充当时间状语 | 何时 | **When** the meeting starts hasn't been decided. |
+| **where** | 充当地点状语 | 何处 | **Where** we should go is a question. |
+| **who/whom** | 充当主语或宾语 | 谁 | **Who** will lead the team is uncertain. |
+
+> [!warning] That vs Whether：语义差异
+> - **That**：陈述事实，无"是否"含义 → That he passed is true.（他通过了，这是事实）
+> - **Whether**：表"是否"，含有不确定性 → Whether he will pass is uncertain.（他是否会通过，不确定）
+
+#### What vs That 引导词对比
+
+看懂主语从句，最关键的是分清 `what` 和 `that` 的根本区别：
+
+| 引导词 | 本质 | 在从句中的角色 | 翻译策略 | 例句 |
+|------|------|------|------|------|
+| **what** | 有实质意义，充当成分 | 从句缺主语或宾语，**what** 充当缺失成分 | "……的事情/东西" | **What** I like to read is important. 我喜欢读的**东西**很重要。 |
+| **that** | 无实际意义，仅连接 | 从句成分完整，**that** 不充当任何成分 | 不翻译，或理解为"……这件事" | **That** I can read books is true. 我能读书**这件事**是真的。 |
+
+> [!warning] That 不能省略
+> 虽然在宾语从句中 that 经常被省略（如 `I think (that) you are right`），但是当 that 引导主语从句并放在句首时，**绝对不能省略**！否则会被误认为是一句语法错误的陈述句。
+
+> [!tip] 📌 What 的万能翻译法
+> 在考研翻译中遇到句首的 `What...`，不要机械地翻译成"什么"，直接打包翻译为**"所……的事情"或者"……的东西"**，句子瞬间通顺。
+>
+> 例：`What we need is a good plan.` → 我们**所需要的东西**是一个好计划。
+
+#### What 引导的名词性从句（"大名词"替换法）
+
+`what` 引导的从句，在整个句子里相当于一个"巨大的名词"。既然是名词，那名词能待的地方（主语、宾语、表语），它都能去。
+
+> [!tip] 黄金替换公式
+> 在理解和翻译时，在大脑中把 What 自动等价替换为 **`the thing(s) that`**（……的事情 / ……的东西）。
+
+| 角色 | 例句 | 结构拆解 |
+|------|------|------|
+| 作 ==主语== (主语从句) | **What** I like to read is important. | `[What...]` [主语] + is [系动词] + important [表语] |
+| 作 ==宾语== (宾语从句) | I like **what** you read. | I [主语] + like [及物动词] + `[what...]` [宾语] |
+| 作 ==表语== (表语从句) | This is **what** I want. | This [主语] + is [系动词] + `[what...]` [表语] |
+
+> [!note] 翻译实战
+> 遇到句首或句中的 `what...`，统一翻译为"所……的（事情/东西）"。例：`We must focus on what is truly important.` → 我们必须关注那些**真正重要的事情**。
+
+#### 形式主语 It 与主语从句
+
+当主语从句过长时，用占位符 `It` 放在句首，把真正的主语从句扔到句末，避免"头重脚轻"。
+
+| 原始结构 | 形式主语结构 | 说明 |
+|------|------|------|
+| `[That + 完整从句] + V + ...` | `It + V + ... + [that + 完整从句]` | 避免主语过长，保持句子平衡 |
+
+**示例转换**：
+
+| 原句 | 变身后 |
+|------|------|
+| `[That I can read books] **is** true.` | `**It is** true [that I can read books].` |
+
+> [!note] 语法内核
+> `It` 只是形式上的主语，真正的主语是后面的 `that` 从句。谓语动词的单复数由真正主语（从句）决定——由于从句代表一件事，谓语永远用单数。
+
+> [!quote]- 相关内容
+> - 参见 **补充要点 > 主语从句谓语单数原则**：与动名词作主语的类比
+> - 参见 **补充要点 > 形式主语 It**：形式主语的完整用法
+
+#### Whether 引导的主语从句
+
+> [!note] 核心特征
+> Whether 引导主语从句表示"是否"，含有不确定性。与 that 不同，whether 从句可以前置于句首作主语。
+
+| 结构 | 例句 | 说明 |
+|------|------|------|
+| **Whether + 从句, V + ...** | **Whether he will come** is still unknown. | 前置于句首 |
+| **It is + adj. + whether + 从句** | **It is uncertain whether** he will come. | 后置，形式主语 |
+
+> [!warning] Whether vs If：主语从句只能用 Whether
+> 主语从句放句首时，**只能用 whether**，绝对不能用 if！
+> - ✅ **Whether** he will come is unknown.
+> - ❌ **If** he will come is unknown.
+
+#### 主语从句后置的常见句型
+
+当主语从句过长时，用形式主语 It 占位，从句后置，避免头重脚轻。
+
+| 句型结构 | 例句 |
+|---------|------|
+| It is + adj. + that + 从句 | **It is obvious** that we need more time. |
+| It is + n. + that + 从句 | **It is a fact** that he passed the exam. |
+| It is + 过去分词 + that + 从句 | **It is reported** that the economy is growing. |
+| It + 不及物动词 + that + 从句 | **It seems** that he is telling the truth. |
+| It + has/have + 过去分词 + that + 从句 | **It has been proved** that this method works. |
+
+> [!tip] 📌 阅读识别技巧
+> 遇到 `It is...that...` 时，用"拆框还原法"判断是**主语从句**还是**强调句**：
+> - 主语从句：It is **a fact** that... → 拆框后 "a fact he passed" ❌ 不通
+> - 强调句：It is **he** that... → 拆框后 "he passed" ✅ 通顺
+
+> [!quote]- 相关内容
+> - 参见 **倒装与强调 > 强调句型**：主语从句与强调句的辨析
+> - 参见 **补充要点 > 形式主语 It**：形式主语的完整用法
+
+（来源：2000-passage3-futurist）
+
+---
+
+### It occurs/strikes/hits to sb. that...（某人突然想到 / 意识到……）
+
+**It 引导的主语从句**，表达"某人突然想到 / 意识到……"。汉语没有完全对应的死板翻译，根据语境可完美译为：
+- 突然想到……
+- 脑海中突然浮现出……
+- 猛然意识到……
+- 突然想起来……
+
+> [!tip] 三大神级同义替换（完形 / 写作完美互换）
+> "某人突然想到……"在考研英语中有三个齐名的神级句式，出题人常在原文用一种，选项里用另一种同义替换来考你：
+> - **It occurs to sb. that...**
+> - **It strikes sb. that...**
+> - **It hits sb. that...**
+>
+> 三个动词都表达"灵感 / 顿悟"的瞬间冲击。
+
+| 结构 | 释义 | 经典例句 |
+|------|------|----------|
+| **It occurs to sb. that...** | 某人突然想到 | It **occurred** to me that he was lying.（我突然意识到他在撒谎。）|
+| **It strikes sb. that...** | 某人猛然意识到 | It **struck** me that he was lying.（我猛然醒悟到他在撒谎。）|
+| **It hits sb. that...** | 某人突然想起 | It **hit** me that he was lying.（我突然想到他在撒谎。）|
+
+> [!note] 时态变化
+> 讲故事或回忆过去时通常用过去时 **occurred / struck / hit**。一般现在时（occurs / strikes / hits）通常表示当下的顿悟。
+
+**一般现在时：**
+> It occurs to me that I forgot to lock the door!（我突然想到我忘记锁门了！）
+
+**一般过去时：**
+> It suddenly occurred to her that she had left her keys in the office.（她脑海中突然闪过一个念头：她把钥匙忘在办公室里了。）
+
+> [!quote]- 相关内容
+> - 参见 **从句 > 主语从句后置的常见句型**：It seems / appears that 也属于主语从句后置句型
+> - 参见 **补充要点 > 主语从句谓语单数原则**：主语从句的谓语永远用单数
+
+（来源：2001-passage5-downshifting）
+
+
+### 表语从句 (Predicative Clauses)
+
+表语从句是在系动词后面充当表语的完整句子，用来说明主语"是什么"或"怎么样"。系动词 + 表语从句 = 主系表结构。
+
+> [!note] 考研高频系动词
+> - **be 动词系列**：am / is / are / was / were（最常见）
+> - **"似乎"系列**：seem / appear / look
+> - **"保持"系列**：remain / keep（长难句极爱用 remain）
+> - **"变成"系列**：become / turn
+
+#### 引导词对比
+
+| 引导词 | 在从句中的角色 | 翻译策略 | 例句 |
+|--------|---------------|----------|------|
+| **that** | 纯连接符号，不充当成分，无实际意义 | 不翻译 | The truth **is that** he passed the exam. |
+| **what** | 必须充当主语或宾语，有实质意义 | "……的东西/事情" | This **is what** he wants. |
+| **whether** | 表示"是否" | 是否 | The question **is whether** we should go on. |
+| **as if / as though** | 表示"仿佛/好像" | 好像 | It seems **as if** it is going to rain. |
+
+> [!warning] Whether 不能用 If 替代
+> 在表语从句中，表示"是否"**只能用 whether**，绝对不能用 if。这是考研英语的固定考点。
+
+> [!warning] The reason is that... 而非 because
+> ❌ `The reason is because the internet is developing.`（中式英语）\
+> ✅ `The reason is that the internet is developing.`
+>
+> 牢记公式：`The reason is that...`（……的原因是……）
+
+#### That's why vs. That's because 对比
+
+| 句型 | 逻辑方向 | 示例 |
+|------|---------|------|
+| **That's why** + **结果** | 前因后果 | He studied hard. **That's why** he passed. |
+| **That's because** + **原因** | 前果后因 | He passed. **That's because** he studied hard. |
+
+> [!tip] 因果方向判断技巧
+> 阅读中遇到这两个句型时：`That's why` 后面跟的是**结果**，`That's because` 后面跟的是**原因**，二者逻辑方向完全相反，注意不要混淆。
+
+（来源：2000-passage3-futurist）
+
+> [!quote]- 相关内容
+> - 参见 **从句 > 主语从句**：what 引导主语从句 vs 表语从句的区别
+> - 参见 **补充要点 > 主语从句谓语单数原则**：从句作主语/表语的谓语一致原则
+
+---
+
+### What 从句的镜像反转（主语从句 ⇌ 表语从句）
+
+> [!note] 核心本质
+> 在带有系动词（如 be）的句子里，主语和表语地位完全对等，What 从句可以互换位置：
+> - [What I like] (A) is [an apple] (B). → **主语从句**
+> - [An apple] (B) is [what I like] (A). → **表语从句**
+
+> [!warning] 📌 考研铁律：两个致命微调
+> **1. 时态一致性**
+> - What I **liked** was an apple. ✅
+> - What I like was an apple. ❌ 时态撕裂
+>
+> **2. 定语从句不能丢**
+> 进行反转时，名词身上的修饰语必须一起移动：
+> - ✅ [What was less visible then] were [new forces **that work against the divide**].
+> - ❌ What was less visible then were new forces.（漏掉定语从句）
+>
+> **铁律**：长难句主谓倒装或主表互换时，名词身上的任何修饰语（定语从句、介词短语等）必须跟着名词一起打包移动！
+
+#### 反转形态对比
+
+| 形态 | 结构 | 作用 |
+|------|------|------|
+| 形态一 | [新事物] + be + [What从句] | 重点强调悬念的揭晓 |
+| 形态二（考研最爱） | [What从句] + be + [新事物] | 避免头重脚轻，亮点钉在句末 |
+
+> [!quote]- 相关内容
+> - 参见 **从句 > 主语从句**：What 引导的名词性从句完整体系
+> - 参见 **从句 > 表语从句**：表语从句的引导词对比
+
+（来源：2001-passage2-digital-divide）
+
+### 同位语 (Apposition) — 名词短语作同位语
+
+> [!note] 核心逻辑：A = B
+> 同位语的本质是**等价关系**：逗号后的名词短语是对前面名词的解释说明，两者指向同一事物。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| **名词 A, 名词 B** | 基础同位语：B 解释 A | I like **Taobao, a brand** from China.（来源：2000-passage5-ambition） |
+| **名词 A, 名词 B + 定语从句** | 同位语中嵌套定语从句（考研高频） | I like **Taobao, a brand that is from China**.（来源：2000-passage5-ambition） |
+
+> [!warning] 防坑指南
+> 句中出现 `名词 A, 名词 B + that...` 时，`that` 引导的很可能是**定语从句**（修饰名词 B），而不一定是同位语从句！
+>
+> ✅ `a brand that is from China` — `that` 在从句中作主语，是定语从句修饰 `brand`。
+>
+> 整个结构是：**名词短语（含内部定语从句）作同位语**，而非同位语从句。
+
+> [!tip] 阅读与翻译技巧
+> - **阅读**：第一遍读时直接跳过逗号后的同位语，先抓主干。
+> - **翻译**：同位语过长时，加"这是/它是一个"独立成句。如：
+>   `I like Taobao, a brand that is from China.` → "我喜欢淘宝，这是一个来自中国的品牌。"
+>
+> （来源：2000-passage5-ambition）
+
+---
+
+## 非谓语动词 (Non-finite Verbs)
+
+### 动名词 (V-ing) 作主语
+
+> [!tip] 📌 黄金定律
+> 动名词（短语）作主语时，无论它有多长，无论它里面包含了多少个复数名词，它整体代表的都是"一件事情"，谓语动词永远用**单数**！
+
+> [!warning] 视觉陷阱
+> 在阅读或写作中，很容易被紧挨着谓语动词的那个名词吸引，从而顺手写成复数。**Playing games are** ❌ — 主语是 Playing 这个动作，动作是单数概念。
+
+| 结构                        | 用法            | 例句                                                                         |
+| ------------------------- | ------------- | -------------------------------------------------------------------------- |
+| V-ing + (宾语/修饰语) + 谓语(单数) | 表示"一件事"作主语    | Playing games **is** interesting.                                          |
+| V-ing 作主语的长难句             | 考研真题中常见"视觉隔离" | Understanding the cultural habits of different countries **is** essential. |
+
+> [!quote]- 相关内容
+> - 参见 **补充要点 > 主语从句谓语单数原则**：主语从句与动名词作主语遵循相同的单数原则
+
+（来源：2000-passage2）
+
+---
+
+### 非谓语动词综合 (Non-finite Verbs)
+
+英语句子中一个简单句通常只能有一个谓语动词。如需出现其他动作补充说明，这些动词必须"降级"为非谓语动词（to do / doing / done），充当定语、状语等成分。
+
+> [!note] 核心前提
+> 一个简单句（主谓宾）只能有一个谓语动词。其他动词必须变为非谓语形式。
+
+#### 非谓语动词的修饰关系
+
+| 位置 | 有无逗号 | 修饰关系 | 例句 |
+|------|---------|---------|------|
+| **句尾** | **无逗号** | 修饰前面的**名词**（后置定语） | I like to use computers **having some software**. |
+| **句尾** | **有逗号** | ① 修饰**前面整个句子**（结果状语） | I like to do exercises, **making me happy**. |
+| **句尾** | **有逗号** | ② 修饰**主句主语**（伴随状语） | I like to read books, **writing some notes**. |
+| **句尾** | **有逗号** | ③ 修饰**前面的名词**（非限制性定语） | I like to use computers, **bought by my dad**. |
+| **句首** | 有逗号 | 修饰**主句主语**逻辑主语一致原则 | **Writing some notes**, I like to read books. |
+
+> [!warning] 📌 句首非谓语动词：逻辑主语一致原则
+> 句首非谓语动词的逻辑主语必须是主句的**主语**。
+> - **Writing** some notes, **I** like to read books.（是 I 在 writing）
+> - 若为被动关系，需用 **Done** 形式：**Bought** by my dad, the computer works well.
+
+> [!quote]- 相关内容
+> - 参见 **从句 > 定语从句**：非谓语动词的后置定语功能与定语从句形成对应
+> - 参见 **补充要点 > 插入语**：句中有逗号的非谓语动词需与插入语区分
+
+#### 被动语态 vs. 过去分词作后置定语（对比进阶）
+
+同一个过去分词（V-ed）身兼两职——带 be 动词时是谓语（被动语态），不带 be 动词时是非谓语（后置定语）。这是考研语法填空和长难句分析的核心考点。
+
+| 对比项 | 被动语态（谓语） | 过去分词作后置定语（非谓语） |
+|--------|---------------|---------------------------|
+| 句中角色 | 谓语动词 | 修饰成分 |
+| 是否需要 be 动词 | 是：be + V-ed | 否：直接 V-ed |
+| 句子骨架 | Book is read. | Book is good. |
+| 例句 | This book **is read** by him. | This book **read by him** is good. |
+
+> [!warning] 经典陷阱（谓语 double 错误）
+> 题目：The computer ______ (invent) in 1946 changed the world.
+>
+> ❌ 错误：`was invented`（导致谓语双叠：`was invented...changed`）
+> ✅ 正确：`invented`（过去分词作后置定语）
+>
+> 核心骨架：`The computer changed the world.`（空格处只能填非谓语）
+
+**成分剥离（脱水法）**：脱掉修饰成分，寻找核心主谓。
+- 核心骨架：`This book is good.`（主语 + 谓语 + 表语）
+- 修饰成分：`read by him`（过去分词短语作后置定语，修饰 book）
+
+> [!warning] 过去分词读音
+> read 在被动语态中为过去分词，发音为 /red/（同 red），不要读成 /riːd/。
+
+> [!tip] 📌 By + doing 方式状语 & 逻辑主语绑定
+> **By + doing**（介词 + 动名词）作方式状语，表示"通过做某事"。核心铁律：**By doing 的逻辑主语必须与主句主语一致**，否则造成"悬垂分词"错误。
+>
+> ❌ By working hard, **the exam was passed**.（主语是 exam，无法发出 work hard 的动作）
+> ✅ By working hard, **he passed the exam**.（he 发出 work hard 的动作，逻辑一致）
+>
+> 黄金定律：介词后面绝对不能接动词原形。如果要表达动作，必须加 `-ing`（动名词）。这与 `Instead of doing` 等结构同理。
+
+（来源：2000-passage4-japan）
+
+---
+
+### With 复合结构 (高级伴随状语)
+
+> [!note] 核心本质
+> `with + A + B` 是一个"降维打包工具"，将完整句子压缩成短语，交代主干动作发生的背景、条件或伴随状态。位置灵活，可在句首（表背景）或句尾（表伴随）。
+
+| 结构 | A 与 B 的关系 | 例句 |
+|------|-------------|------|
+| **with + 名词 + doing** | A 主动发出动作 / 动作正在进行 | **With the economy growing** rapidly, people have more money.（来源：2000-passage5-ambition） |
+| **with + 名词 + done** | A 被动承受动作 / 动作已完成 | **With the problem solved**, we went home.（来源：2000-passage5-ambition） |
+| **with + 名词 + to do** | 动作尚未发生 / 表将来或目的 | **With so much work to do**, I can't go out.（来源：2000-passage5-ambition） |
+| **with + 名词 + 形容词** | 说明 A 的状态 | He sleeps **with the window open**.（来源：2000-passage5-ambition） |
+| **with + 名词 + 副词** | 说明 A 的状态 | He left the room **with the lights on**.（来源：2000-passage5-ambition） |
+| **with + 名词 + 介词短语** | 说明 A 的位置/伴随 | She walked in **with a book in her hand**.（来源：2000-passage5-ambition） |
+
+> [!warning] 易混淆点
+> 当 B 是动词时，需根据 A 与 B 的**逻辑关系**决定形态：
+> - 主动/进行 → `doing`
+> - 被动/完成 → `done`
+> - 将来/目的 → `to do`
+
+> [!tip] 翻译技巧
+> 在阅读或翻译中，句首的 `With + 名词 + ...` 不要生硬译为"和……"，应译为**"随着……"**或**"由于……"**，使中文逻辑更加通顺。如：
+>
+> `With the internet developing, our lives have changed.` → "随着互联网的发展，我们的生活改变了。"
+
+---
+
+## 介词与连词 (Prepositions & Conjunctions)
+
+### As 的核心用法
+
+在长难句中看到 as，先看它后面紧跟什么成分来判定词性。
+
+> [!tip] 📌 核心判定法则
+> - as + **名词/名词短语** → 介词，译为"作为"
+> - as + **完整句子（有主谓）** → 连词，灵活翻译
+
+#### As 作介词 (Preposition)
+
+| 结构 | 含义 | 例句 |
+|------|------|------|
+| as + 名词/代词 | **作为，当作** | **As a person**, I should learn things. |
+
+> [!note] 考研高频搭配
+> "regard/view/see/treat A **as** B" → 把 A 当作 B
+
+#### As 作连词 (Conjunction)
+
+| 含义 | 用法说明 | 例句 |
+|------|---------|------|
+| **正如，照……方式** | 表方式/比较 | **As** someone pointed out, ... |
+| **因为，由于** | 表原因（语气比 because 弱） | **As** I am a student, I should learn things. |
+| **当……时，随着……** | 表时间，常与变化类动词搭配 | **As** time goes by, we grow older. |
+
+> [!tip] 翻译小贴士
+> 当 as 后面的句子出现表示"变化"的词（如 increase, go by, grow）时，往往翻译为"**随着**"。
+
+（来源：2000-passage1-america）
+
+---
+
+### Since 的用法
+
+> [!note] 词性区分
+> - **因为/既然**（作连词，后接完整句子）= because / as
+> - **自从**（作连词/介词，后接时间点或句子）
+
+> [!warning] 致命禁忌
+> since 表示"因为"时**不能**等同于 because of！because of 是介词短语，后面只能接名词。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| Since + 完整句子 | 表原因/既然（连词） | Since everyone is here, let's start. |
+| Since + 时间点 | 表自从（介词） | I have lived here since 2020. |
+| Since + 句子 | 表自从（连词） | I have lived here since I was a child. |
+
+（来源：2000-passage2）
+
+---
+
+### As Well As 的两种逻辑
+
+> [!tip] 核心洞察
+> as well as 根据前后连接的成分不同，有两种完全不同的语法逻辑。
+
+#### 逻辑一：表并列（等于 and）
+
+> [!warning] 就远原则
+> 当 A as well as B 充当句子主语时，谓语动词的单复数永远只看前面的 A。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| A as well as B + 单数谓语 | 主语是 A，谓语与 A 一致 | The teacher, as well as the students, **is** reading. |
+| A as well as B + 复数谓语 | 主语是 A，谓语与 A 一致 | He, as well as his friends, **is** coming. |
+
+#### 逻辑二：表比较（as...as 结构）
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| 主语 + V + as well as + 主语 | 原级比较 | I can play soccer **as well as** he does. |
+
+> [!quote]- 相关内容
+> - 参见 **倒装与强调 > 原级比较 (as...as)**：as...as 结构的完整用法
+
+（来源：2000-passage2）
+
+---
+
+### Between ... And 并列陷阱
+
+> [!warning] 📌 黄金定律
+> 在找 and 连接的 A 和 B 时，前提是 A 与 B 在语义上必须高度对等，而不能仅仅看它们在句子里的物理位置。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| The difference between A and B | A 和 B 两者之间的区别 | The difference between **apples** and **oranges** |
+| differences between + 复数名词 | 复数整体之间的差异 | differences between people (人与人之间的差异) |
+
+**考研实战拆解**：
+
+原文：differences between people **and** the opportunity for natural selection...
+
+- ❌ 错误：people（具体名词）与 opportunity（抽象名词）不能并列
+- ✅ 正确：and 连接的是两个并列主语 `[differences between people]` 和 `[the opportunity...]`
+
+（来源：2000-passage2）
+
+---
+
+### However 的两种面孔
+
+> [!tip] 识别方法
+> 看 however 后面紧挨着的是什么词：
+
+| 面孔 | 形式 | 词性 | 翻译 | 例句 |
+|------|------|------|------|------|
+| 面孔一 | However, + 句子 | **连接副词** | 然而/但是 | However, we still have a problem. |
+| 面孔二 | However + adj./adv. + 主语 + 谓语 | **连词/让步** | 无论多么... | However hard he tried, he failed. |
+
+> [!tip] 秒辨技巧
+> - **面孔一**（连接副词）：作文里想写"但是"但不想再用 but 时，就用 However，后加逗号。
+> - **面孔二**（让步连词）：`However + adj./adv.` 开头的句子是"倒装的让步状语从句"，相当于 `No matter how + adj./adv. + 主语 + 谓语`。
+> - **检验法**：删掉面孔一的 However，句子依然完整成立；删掉面孔二的 However，从句就碎了。
+
+（来源：2000-passage2）
+
+---
+
+### Nevertheless — 转折副词
+
+> [!tip] 词源记忆：never the less
+> Nevertheless = **never the less**，字面逻辑是"尽管前面那样说，但这并没有减少后面这件事的真实性"。理解词源有助于在阅读中快速捕捉其强烈转折的语气。
+
+> [!warning] Nevertheless ≠ But：词性决定连接能力
+> **Nevertheless / However 是副词，不具备连接两个独立句子的功能。** 强行用逗号连接会造成"逗号粘连（Comma Splice）"——英语写作中的严重语法错误。
+>
+> ❌ It was raining, **nevertheless** we went out.（两个完整句子不能仅用逗号隔开）
+>
+> ✅ It was raining, **but** we went out.（But 是连词，可用逗号连接句子）
+
+| 词 | 词性 | 连接功能 | 例句 |
+|------|------|----------|------|
+| **But** | 连词 | ✅ 可用逗号连接两个独立句子 | It was raining, **but** we went out. |
+| **Nevertheless / However** | 副词 | ❌ 不能连接两个独立句子 | It was raining; **nevertheless**, we went out. ✅（用分号） |
+
+> [!note] 联动复习
+> 与 `Whereas` 对比学习：**Nevertheless** 是副词表转折，**Whereas** 是从属连词表对比。前者不能连接句子（需分号），后者可以连接分句。
+
+**本文实例**：...exceptions can be found to any rule. **Nevertheless**, the word "amateur" does carry a connotation that...
+
+（来源：2001-passage1-specialization）
+
+---
+
+ ### While 的三大核心用法
+
+While 在考研英语中身兼三种语法角色，是阅读理解中的高频考点。
+
+> [!tip] 记忆方法
+> 时间、让步、对比——记住"时间表让步，对比看逗号"。句首 While 可能是"时间"或"让步"，句中 While（带逗号）多为"对比"。
+
+| 功能 | 含义 | 结构特征 | 例句 |
+|------|------|---------|------|
+| **时间连词** | 当……时候 | While + 延续性动词 / 进行时，主从句动作同时发生 | While I was doing my homework, my mom was cooking. |
+| **让步连词** | 尽管/虽然 | While 必须位于句首，相当于 Although | While I understand your opinion, I cannot agree with you. |
+| **并列连词** | 然而/而 | 前后分句对称对比，while 前通常有逗号 | Some people love cold weather, **while** others prefer summer. |
+
+> [!warning] 易混淆点
+> - 表示"尽管/虽然"时，While **必须**放在句首，不能放在句中
+> - 表示"当……时候"且 while 从句放句尾时，**不加**逗号
+> - 表示"然而/而"时，无论放在哪里，前面通常有逗号
+
+> [!note] 名词用法补充
+> While 还可作不可数名词，意为"一会儿，一段时间"：`for a while`（一会儿）、`after a while`（过了一会儿）、`It is worth while doing sth.`（值得做某事）
+
+（来源：2000-passage4-japan）
+
+---
+
+### Whereas — 对比连词
+
+> [!warning] Whereas ≠ Although：对比 vs 让步
+> - **Although / Though**（让步）：强调妥协和矛盾。前面的条件对结果产生阻碍，但结果依然发生。
+> - **Whereas**（对比）：强调两组平行对象之间的差异。A 是这样，而 B 却是那样。（= 高级正式版的 **while**）
+
+> [!note] 语法定位：从属连词
+> Whereas 是一个**标准的从属连词**，可以灵活连接两个完整的句子（分句与主句），这是它和副词 `Nevertheless` 之间的本质区别。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| **Whereas + 分句, 主句** | 前置对比 | **Whereas** the city is crowded, the countryside is quiet. |
+| **主句, whereas + 分句** | 后置对比（考研最常见） | He is very outgoing, **whereas** his brother is shy. |
+
+> [!tip] 逗号的缓冲作用
+> 放句中时，`whereas` 前面通常会带一个逗号，起缓冲和提示转折的作用。
+
+> [!tip] 阅读细节题雷达
+> 看到 `Whereas` 立刻锁定其前后的**两个对比对象**及其**不同特征**。出题人喜欢在选项里"张冠李戴"——把 A 的特征安在 B 身上。用 Whereas 划清界限即可秒杀。
+
+**联动复习**：`Whereas` 是从属连词，可以连接分句；`Nevertheless` 是副词，不能连接句子，需要用分号。
+
+**本文实例**：...professional geologists coming together nationally within one or two specific societies, **whereas** the amateurs have tended either to remain in local societies or to come together nationally in a different way.
+
+（来源：2001-passage1-specialization）
+
+---
+
+### 介词短语 (Prepositional Phrases)
+
+介词本身不能单独充当句子成分，必须后接名词或相当于名词的词，构成介词短语后才能表示该名词与句子其他成分之间的关系（时间、地点、方式、原因等）。
+
+> [!note] 黄金定律
+> 介词后面永远不能跟动词原形。如果非要跟动词，动词必须变为 **V-ing** 形式（动名词）。
+
+#### 介词短语公式
+
+| 结构 | 示例 |
+|------|------|
+| 介词 + **名词** | He is studying **in the library**.（来源：2000-passage1-america） |
+| 介词 + **代词** | She smiled **at me**.（来源：2000-passage1-america） |
+| 介词 + **V-ing** | He makes a living **by writing books**.（来源：2000-passage1-america） |
+| 介词 + **宾语从句** | Pay attention to **what he says**.（来源：2000-passage1-america） |
+
+#### 介词短语的三大功能
+
+| 功能 | 说明 | 例句 |
+|------|------|------|
+| **作定语** | 修饰名词，译为"……的"，后置 | The book **on the desk** is mine.（来源：2000-passage1-america） |
+| **作状语** | 修饰动词/形容词/整句，位置灵活 | **In recent years**, global warming has become serious.（来源：2000-passage1-america） |
+| **作表语** | 跟在 be 动词后，说明主语状态 | The meeting is **at 3 PM**.（来源：2000-passage1-america） |
+
+#### 复合介词短语：About / With regard to / With respect to
+
+**核心词义**：都表示"关于、至于、就……而言"，语法上相当于一个介词。
+
+| 词/短语                | 级别     | 例句                                                                    |
+| ------------------- | ------ | --------------------------------------------------------------------- |
+| **about**           | 基础、口语化 | a book **about** history                                              |
+| **with regard to**  | 正式、书面语 | **With regard to** your proposal, we need more time.                  |
+| **with respect to** | 正式、书面语 | **With respect to** the recent changes, further discussion is needed. |
+
+> [!tip] 长难句拆解技巧
+> 遇到这类复合介词时，大脑启动"降级模式"——直接把这三个词组成的短语看作一个简单的小词 `about`，然后继续找它挂靠的名词（介词宾语），句子骨架就不会被它们打乱。
+
+（来源：2000-passage3-futurist）
+
+> [!warning] 📌 考研阅读陷阱：介词短语叠加（"俄罗斯套娃"）
+> 出题人制造长难句的常用手段是将多个介词短语层层嵌套。
+>
+> **实战例句**：
+> The development **of the internet** **in recent years** has had a huge impact **on the way** **of communication** **between people**.
+>
+> **破解技巧（切块法）**：看到介词就用括号将短语独立出来，主干瞬间显露——
+> **主干**：The development has had a huge impact.（发展产生了巨大影响。）
+> **还原翻译**：近年来互联网的发展，对人与人之间沟通的方式产生了巨大影响。
+
+（来源：2000-passage1-america）
+
+---
+
+### 话题引入介词（关于 / 就……而言）
+
+> [!warning] 核心规则
+> About、with respect to、in terms of 都是介词，后面**绝对不能接动词原形**，必须接名词、代词或动名词（V-ing）。
+
+| 介词短语 | 语义范围 | 例句 |
+|----------|----------|------|
+| About / With respect to | 泛指"关于" | We talked about this job. |
+| In terms of | 精准切割：就……方面而言 | In terms of salary, this job is great, but in terms of stress, it's terrible. |
+
+> [!tip] 考研实战应用
+> **1. 阅读细节题的"边界雷达"**：当原文用 in terms of 限定观点范围时，超出该范围的选项直接排除。
+>
+> **2. 图表大作文提分利器**：
+> - 平淡写法：About the market share, company A is better.
+> - 高分写法：**In terms of** market share, company A has a clear advantage over company B.
+
+> [!quote]- 相关内容
+> - 参见 **介词与连词 > 介词短语**：介词短语的基本结构和三大功能
+> - 参见 **介词与连词 > As 的核心用法**：As 作介词表示"作为"的用法
+
+（来源：2001-passage2-digital-divide）
+
+---
+
+### 介词修饰词（some / about + 数字 = 大约）
+
+当 **some** 放在数字前面时，它**不是"一些"，而是"大约"**（相当于 approximately / about，通常指数量略高或不确定）。**about** 的用法比 some 宽泛得多：后面既可接具体数字，也可接模糊的时间点。
+
+> [!tip] 写作推荐
+> - 数字前的"大约"：优先用 **some**（更地道、考研高级表达）
+> - 模糊时间点：只能用 **about**（如 about noon）
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| **some + 数字** | 大约（数量略高或不确定）| **Some** 300 people attended the conference.（大约有 300 人参加了会议。）|
+| **some + 时间** | 大约 | It happened **some** 20 years ago.（这发生在大约 20 年前。）|
+| **about + 数字** | 大约 | It takes **about** 10 minutes.（大约需要 10 分钟。）|
+| **about + 时间点** | 大约 | I will arrive **about** noon.（我大约中午到。）|
+
+### 🚨 考前必看：some time / sometime / sometimes 四胞胎大避坑
+
+> [!warning] 四个 time 必考辨析
+> 考卷上最喜欢一起出现整你的"四个 time"，必须一次性彻底分清：
+
+| 词汇形式 | 语法含义 | 经典例句 |
+|---------|---------|---------|
+| **some 10 days** | 大约 10 天（some 修饰数字） | He left **some** 10 days ago.（他大约 10 天前离开了。）|
+| **some time** | 一段时间（some 修饰名词 time） | I stayed in Paris for **some time**.（我在巴黎呆了一段时间。）|
+| **sometime** | 某个时候（副词） | We should grab coffee **sometime**.（我们哪天 / 某个时候该一起喝杯咖啡。）|
+| **sometimes** | 有时，偶尔（频度副词） | **Sometimes** I walk to work.（有时我步行去上班。）|
+
+> [!note] 联动复习
+> 第一个词条 **some 10 days** 与本节"some + 数字 = 大约"是**同一用法的延伸**——词形高度相似但语法含义完全不同：
+> - **some 10 days**：some 修饰**数字**（= 大约）
+> - **some time**：some 修饰**名词 time**（= 一段时间）
+>
+> 看清空格与搭配，是解题关键。
+
+> [!quote]- 相关内容
+> - 参见 **补充要点 > About 作为副词**：About 作为副词的"大约"用法
+> - 参见 **介词与连词 > 介词短语**：介词短语的基本结构
+
+（来源：2001-passage5-downshifting）
+
+---
+
+### Either...or... — 并列连词短语
+
+> [!warning] 致命陷阱一：绝对并列
+> Either...or... 连接的两部分在语法形式上必须**绝对对称**，就像 `rather than` 和 `and`。
+>
+> ❌ You can either stay here **or going home**.（前后形式不一致）
+>
+> ✅ You can either stay here **or go home**.
+
+> [!warning] 致命陷阱二：谓语动词的"就近原则"
+> Either A or B 作主语时，谓语动词看离它最近的 B。
+>
+> - Either you or **he is** wrong.（看 he → 单数）
+> - Either **he** or **you are** wrong.（看 you → 复数）
+
+| 句型 | 逻辑本质 | 谓语动词规则 |
+|------|---------|-------------|
+| **Either A or B** | 二选一 | 就近原则（看 B） |
+| **Neither A nor B** | 全部否定（0） | 就近原则（看 B） |
+| **Both A and B** | 全部肯定（2） | 永远用复数 |
+
+> [!tip] 阅读长难句拆解法
+> 遇到 `Either`，眼睛立刻向后扫去找对应的 `or`。找到后画出 A 和 B 的边界，不管中间塞了多少废话，只需翻译成："要么是 [A核心]，要么是 [B核心]"。
+
+**本文实例**：...the amateurs have tended **either** to remain in local societies **or** to come together nationally in a different way. — either 和 or 连接两个 `to do` 结构，形式完全对称。
+
+（来源：2001-passage1-specialization）
+
+---
+
+### Otherwise 的连接规则
+
+#### 致命陷阱：逗号粘连
+
+| ❌ 错误 | ✅ 正确 |
+|---------|---------|
+| *We must take action now, otherwise it will be too late.* | *We must take action now**;** otherwise, it will be too late.* |
+| | *We must take action now, **or** otherwise it will be too late.* |
+
+> [!warning] 满分铁律
+> Otherwise 是副词，不是连词！想要合法连接两个句子，必须借用分号 (;)、句号 (.)，或在前面加真正的连词（如 or）。
+
+#### 考研面孔一：否则 / 不然
+
+**逻辑本质**：If not...（如果不这样的话……）
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| ...; otherwise, ... | 引出糟糕后果 | The government should enact stricter laws; otherwise, we will pay a heavy price.（来源：2001-passage3-newspaper-credibility） |
+
+#### 考研面孔二：熟词僻义
+
+| 含义 | 例句 |
+|------|------|
+| 在其他方面 / 除此之外 | The rent is a bit high, but otherwise it is a perfect apartment.（来源：2001-passage3-newspaper-credibility） |
+| 原本 / 本来 | His joke ruined an otherwise perfect evening.（来源：2001-passage3-newspaper-credibility） |
+
+#### 黄金词组
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| or otherwise | 或者相反 | We need to know whether the new system is effective or otherwise.（来源：2001-passage3-newspaper-credibility） |
+
+> [!quote]- 相关内容
+> - 参见 **介词与连词 > Nevertheless**：同样是副词，不能连接两个独立句子
+> - 参见 **介词与连词 > However**：另一种转折副词的用法
+
+（来源：2001-passage3-newspaper-credibility）
+
+---
+
+### Yet 的核心用法
+
+> [!tip] 📌 Yet 位置口诀
+> - Yet 在句首当"然而"
+> - Yet 在句尾配 Not 翻译成"还没"
+> - Yet 在句中夹在 have 和 to do 之间，虽然没 Not，意思也是"尚未"！
+
+#### 作连词：表示转折（然而，但是）
+
+当 yet 后面直接连接一个完整的句子时，它相当于 but 或 however。在写作中用 yet 代替 but 会让文章显得更高级。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| ... , yet ... | 连接两个完整句子，表示转折 | It's a small house, yet it feels spacious.（来源：2001-passage4-merger） |
+| Yet + 句子 | 句首表示"然而" | Yet the problem is not as simple as it seems.（来源：2001-passage4-merger） |
+
+**跨节联动：** yet 作为连词与 **Nevertheless / However / Nonetheless** 同义，均可表示转折。
+
+#### have yet to do 结构（尚未……，还没有……）—— ⭐⭐⭐ 考研最爱考
+
+**公式：** 主语 + have/has/am/is/are + yet to do sth.
+
+这个结构没有 not，但字字句句都是否定意义。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| S + have/has + yet to do | 表示"尚未做某事" | I have yet to finish my homework.（来源：2001-passage4-merger） |
+| S + be + yet to be done | 被动形式 | The research has yet to be completed.（来源：2001-passage4-merger） |
+
+> [!warning] 易混淆点
+> have yet to do 与 not...yet 意思完全相同，可以完美进行同义替换！
+> - I have yet to finish = I haven't finished yet
+
+> [!tip] 考研高频句
+> The best is yet to come.（最好的尚未到来。/ 戏肉还在后头。）
+
+#### not ... yet 结构（还没有……）
+
+yet 通常放在句尾，配合现在完成时的否定式。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| S + have not + done + yet | 表示"还没做某事" | I have not finished my homework yet.（来源：2001-passage4-merger） |
+
+#### 疑问句中：表示"已经……了吗？"
+
+通常放在句尾，用来询问某件事是否已经发生。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| Have + S + done + yet? | 询问是否已完成 | Have you eaten yet?（来源：2001-passage4-merger） |
+
+> [!quote]- 相关内容
+> - 参见 **介词与连词 > Nevertheless**：同义转折副词，但不能连接句子
+> - 参见 **介词与连词 > However**：另一种转折副词的用法
+
+（来源：2001-passage4-merger）
+
+---
+
+## 倒装与强调 (Inversion & Emphasis)
+
+### As ... As 原级比较
+
+> [!tip] 遮挡法检验
+> 把第一个 as、第二个 as 及其后面的所有内容删掉，剩下的句子在语法上必须完整成立。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| A + be动词 + as + adj. + as + B | A 和 B 一样... | Your books are **as useful** as mine. |
+| A + 动词 + as + adv. + as + B | A 做得和 B 一样... | I can play soccer **as well as** he does. |
+
+**翻译技巧**：
+1. 先不看 as...as，把主干句子完整翻译出来
+2. 加上第二个 as 引出的比较对象
+
+（来源：2000-passage2）
+
+---
+
+### 强调句型 (It is/was ... that/who ...)
+
+> [!tip] 核心公式（来源：2000-passage5-ambition）
+> `It is / was + [被强调部分] + that / who + [句子剩余部分]`
+>
+> 被强调部分是人时可用 `who`，其余一律用 `that`。
+
+| 强调成分 | 结构 | 例句 |
+|---------|------|------|
+| 强调主语 | It is/was + 主语 + that/who... | **It was I who** met John in the park yesterday.（来源：2000-passage5-ambition） |
+| 强调宾语 | It is/was + 宾语 + that... | **It was John that** I met in the park yesterday.（来源：2000-passage5-ambition） |
+| 强调地点状语 | It is/was + 状语 + that... | **It was in the park that** I met John yesterday.（来源：2000-passage5-ambition） |
+| 强调时间状语 | It is/was + 状语 + that... | **It was yesterday that** I met John in the park.（来源：2000-passage5-ambition） |
+
+> [!warning] 强调句 vs. 主语从句 — 考研致命陷阱（来源：2000-passage5-ambition）
+> 两者都以 `It is ... that ...` 开头，**"拆框还原法"** 是唯一可靠的区分手段：
+>
+> **检验法则**：删掉 `It is/was` 和 `that/who`，剩余部分能否拼回一个完整通顺的句子。
+>
+> | 句子 | 拆框还原 | 判定 |
+> |------|---------|------|
+> | It is **the book** that he is reading. | the book he is reading → He is reading the book. ✅ | **强调句** |
+> | It is **a fact** that he passed the exam. | a fact he passed the exam. ❌ (fact 无处安放) | **主语从句** |
+> | It is **obvious** that we need more time. | obvious we need more time ❌ (obvious 无处安放) | **主语从句** |
+> | It is **the time** that we need most. | the time we need most → We need the time most. ✅ | **强调句** |
+
+> [!tip] 阅读与翻译技巧（来源：2000-passage5-ambition）
+> - **阅读**：遇到 `It is...that...` 可跳过包装直接看被强调部分和剩余内容，提升阅读速度。
+> - **翻译**：在被强调部分前加"正是"或"恰恰是"。如 `It is your method that is wrong.` → "恰恰是你的方法错了。"
+
+> [!quote]- 相关内容
+> - 参见 **补充要点 > 形式主语 It**：形式主语与强调句的"拆框"区分
+> - 参见 **从句 > 主语从句**：主语从句与强调句的辨析
+
+---
+
+## 补充要点 (Additional Notes)
+
+### A of B 结构的核心词判定
+
+在英语长难句中，"A of B"结构的核心词判定对确定句子主语和谓语动词的单复数至关重要。
+
+| 情况 | 规则 | 核心词 | 理解 | 例句 |
+|------|------|-------|------|------|
+| **一般规则** | A 是普通名词 | **A** | "of B"作定语修饰 A，译为"B的A" | The **development** of these technologies is fast. |
+| **特殊例外** | A 是数词/量词 | **B** | "A of"相当于形容词修饰 B | A number of **books** are reading. |
+
+> [!note] 量词结构的常见示例
+> | 短语 | 核心词 | 谓语动词 |
+> |------|-------|---------|
+> | A lot of **books** | books（复数） | 复数 |
+> | A number of **books** | books（复数） | 复数 |
+> | A great amount of **oil** | oil（不可数） | 单数 |
+
+> [!tip] 📌 考研英语二复习提示：主谓一致
+> "A of B"结构作主语时：
+> - **一般规则**（A是核心词）：谓语单复数由 A 决定 → The **development** of these technologies **is** fast.
+> - **例外规则**（A是数量词，B是核心词）：谓语单复数由 B 决定 → A number of **students are** reading.
+
+（来源：2000-passage1-america）
+
+---
+
+### 形式主语 It (Formal Subject)
+
+当真正的主语太长（不定式短语或从句）时，将其移到句末，并在句首用 **It** 占位，避免句子"头重脚轻"。
+
+> [!note] It 的含义
+> 形式主语的 **It 没有任何实际意义**，不要翻译成"它"，它只是一个"没有感情的占位符"。
+
+#### 两种常见结构
+
+| 结构 | 通用句型 | 例句 |
+|------|---------|------|
+| **It 代替不定式短语** | It is + adj. + (for sb.) + **to do sth.** | **It** is important **to learn math**.（来源：2000-passage1-america） |
+| **It 代替主语从句** | It is + adj./n. + **that + 完整从句** | **It** is useful **that I learn math**.（来源：2000-passage1-america） |
+
+> [!tip] 📌 考研长难句翻译技巧（合一）
+> 遇到 It is... to do... 或 It is... that... 时：
+> 1. **视而不见**：自动屏蔽 It，绝不翻译成"它是……"
+> 2. **直奔主题**：往后找 to do 或 that，这才是真正的主语
+> 3. **调整语序**：按中文习惯将真正主语提前翻译
+>    - ~~它是重要的去学数学。~~ ❌
+>    - **学习数学很重要。** ✅
+>
+> （来源：2000-passage1-america）
+
+#### 与主语从句的配合使用
+
+| 原始结构 | 形式主语结构 |
+|------|------|
+| `[That I can read books] **is** true.` | `**It is** true [that I can read books].` |
+
+（来源：2000-passage3-futurist）
+
+> [!quote]- 相关内容
+> - 参见 **从句 > 主语从句**：主语从句与形式主语 It 的完整配合
+
+---
+
+### 插入语 (Parenthesis)
+
+> [!tip] 📌 照妖镜：删减法
+> 插入语在语法上是完全独立的。把插入语从句子里抠掉，剩下的主干结构依然完整无缺。
+
+> [!warning] 识别标志
+> - 双逗号：`主语 , 插入语 , 谓语`（最常见！）
+> - 双破折号：`主语 - 插入语 - 谓语`
+> - 括号：`主语 (插入语) 谓语`
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| 主语 , 插入语 , 谓语 | 插入语表达态度/补充说明/连接 | Your method, **strictly speaking**, is wrong. |
+| 主语 - 插入语 - 谓语 | 插入语用破折号隔离 | The result — **as expected** — was a failure. |
+
+**考研实战技巧：跳读法**
+1. 看到双逗号或双破折号中间的内容，先括起来跳过，直接连接主语和谓语找主干
+2. 翻译题中遇到插入语，拎出来放到句子最开头翻译
+
+（来源：2000-passage2）
+
+---
+
+### 主语从句谓语单数原则
+
+> [!note] 与动名词作主语的类比
+> 主语从句和动名词 (V-ing) 作主语的原理完全一致——它们代表的都是"一整件事情"，因此主句的谓语动词**永远用单数** (is/has/does)。这一规则在任何情况下都不变。
+
+| 结构类型 | 例句 | 谓语 |
+|------|------|------|
+| 动名词作主语 | Reading books **is** important. | 单数 |
+| 主语从句 (that) | That he came late **was** surprising. | 单数 |
+| 主语从句 (what) | What I like to read **is** important. | 单数 |
+
+> [!tip] 考研实战提示
+> 在长难句中，如果发现句首是一个 `That` 或 `What` 引导的从句，直接确认主句谓语动词的位置并用单数形式，就能快速抓住句子主干。
+
+（来源：2000-passage3-futurist）
+
+> [!quote]- 相关内容
+> - 参见 **非谓语动词 > 动名词作主语**：相同的单数原则
+> - 参见 **从句 > 主语从句**：完整的主语从句体系
+
+---
+
+### 双重否定 (Double Negation / Litotes)
+
+**概述**：英语中双重否定（两个否定词同时使用）并不等于否定，而是通过"否定之否定"来**强调肯定**。这种修辞手法称为间接肯定法（litotes），在考研阅读中用于表达强烈的肯定态度，语气比直接肯定更委婉但更有力。
+
+| 结构 | 含义 | 实际等于 | 例句 |
+|------|------|---------|------|
+| `no...refuse to...` | 没有人拒绝…… | 所有人都接受 | **No** thinking man **can refuse to** accept their proposition. |
+| `not...without...` | 没有……就不能 | 必须有……才能 | You can**not** succeed **without** hard work. |
+| `not...un-adj.` | 并非不…… | 很…… | It is **not** **un**common. (并非不常见 = 很常见) |
+| `no...deny that...` | 无人否认…… | 所有人都承认 | **No** one can **deny that** the situation has improved. |
+
+> [!tip] 双重否定的阅读技巧
+> 遇到 `no/not + 否定含义动词/否定前缀` 的结构时，快速做"负负得正"运算：
+> 1. 圈出第一个否定词（no / not / never）
+> 2. 圈出第二个否定词（refuse / deny / without / un- / dis-）
+> 3. 两者抵消 → 提取肯定含义
+>
+> 例：`No thinking man can **refuse** to accept` → "拒绝" + "没有" = 肯定 → "所有人都会接受"
+
+> [!warning] 📌 考研翻译陷阱
+> 双重否定在翻译时**必须译出肯定意味**，不要机械地译为"没有……不……"。机械翻译虽然字面正确，但不符合中文表达习惯。如需保留双重否定的语气，可用"并非不……"或"没有人会不……"。
+
+> [!note] Litotes 的语篇功能
+> 作者使用双重否定（间接肯定法）通常是为了：
+> - **委婉表示强烈观点**：直接说"everyone accepts"太绝对，用"no thinking man can refuse to accept"更显客观
+> - **为后续转折铺垫**：先通过反向强调肯定对方部分观点，再提出异议
+
+（来源：2000-passage3-futurist）
+
+---
+
+### Might / Mighty 核心考点
+
+#### Might 作为名词（n. 力量，威力，强权）—— ⭐ 熟词生义
+
+在阅读和翻译中，当你发现 might 前面有形容词修饰，或者处在主语/宾语的位置时，它一定是指"力量"。
+
+> [!tip] 识别技巧
+> 看到 might 前有形容词修饰、或处于主语/宾语位置 → 肯定是名词"力量"，不是情态动词"可能"。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| military / economic might | 军事/经济实力 | The country's military might is unmatched.（来源：2001-passage4-merger） |
+| Right is might | 正义即力量/公理即强权 | 常用于议论文写作（来源：2001-passage4-merger） |
+| with all one's might | 用尽全力/竭尽全力 | He pushed the heavy door with all his might.（来源：2001-passage4-merger） |
+
+#### Mighty 作为形容词（adj. 强大的，巨大的）
+
+Mighty 通常用来修饰事物在体积、力量或规模上令人敬畏。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| a mighty river | 波涛汹涌的河流 | The mighty river carved through the canyon.（来源：2001-passage4-merger） |
+| a mighty army | 强大的军队 | A mighty army marched toward the border.（来源：2001-passage4-merger） |
+
+> [!note] 写作加分谚语
+> The pen is mightier than the sword.（笔诛胜于剑伐）—— 在考研英语作文或翻译中非常实用。
+
+**词汇拓展：** 加上前缀 al- 变成 **Almighty**（全能的）。例如：the Almighty（指上帝）。
+
+（来源：2001-passage4-merger）
+
+---
+
+### 虚拟语气：情态动词的隐藏考点
+
+#### Might have done（本可以.../本可能...）
+
+这是虚拟语气的高频考点，表示过去可能发生但实际上并没有发生的事情，常带有轻微的责备或遗憾。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| might have done | 过去本可以做但没做，带遗憾/责备 | You might have told me the truth!（来源：2001-passage4-merger） |
+
+> [!warning] 常见错误
+> might have done ≠ must have done。前者表示"本可以但没做"，后者表示"一定做了"（肯定推测）。
+
+#### Might as well (do sth.)（不妨.../倒不如...）
+
+表示在没有更好选择的情况下，做某事也是个不错的决定。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| might as well do sth. | 在别无选择时，不妨做某事 | Since it's raining, we might as well stay at home.（来源：2001-passage4-merger） |
+
+> [!tip] 语义辨析
+> might as well 不是虚拟语气，而是固定搭配，表示"不妨、倒不如"。
+
+（来源：2001-passage4-merger）
+
+---
+
+### It seems / appears that 结构
+
+#### 语法本质：形式主语 + 主语从句
+
+在这三个句型中，It 是形式主语，没有任何实际含义。真正的主语是后面 that 引导的从句。因为 that 在这里只是个连接词，不充当成分，所以 that 后面的成分非常完整。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| It seems that + 从句 | 表示主观印象 | It seems that he is tired.（来源：2001-passage4-merger） |
+| It appears that + 从句 | 基于客观迹象判断 | It appears that the economy is recovering slowly.（来源：2001-passage4-merger） |
+
+> [!note] 语感差异
+> - **It seems that** — 侧重主观心理感觉或印象，日常交流常用
+> - **It appears that** — 侧重基于外在客观事实、迹象得出的判断，学术写作更偏爱
+
+#### 主语转换（"主语搬家"公式）⭐
+
+这是语法题和翻译中最喜欢玩的文字游戏——把形式主语 It 删掉，把从句的主语提到最前面。
+
+**转换公式：**
+
+| 原句结构 | 转换结构 |
+|----------|----------|
+| It seems / appears that + 主语A + 动词原形... | 主语A + seems / appears + to do... |
+
+| 原句 | 转换后 |
+|------|--------|
+| It appears that he has lost interest in the project. | He appears to have lost interest in the project.（来源：2001-passage4-merger） |
+
+> [!warning] 注意完成式
+> 如果从句动作发生在一个过去的时间，搬家后要用不定式的完成式 **to have done**，而不是 to do。
+
+#### 否定句的两种写法
+
+英语中"看来不……"的否定有两种地道表达，意思一样：
+
+| 写法 | 句型 | 例句 |
+|------|------|------|
+| 否定主句 | It does not seem/appear that + 从句 | It does not seem that he likes the plan.（来源：2001-passage4-merger） |
+| 否定转移到从句 | It seems/appears that + 否定从句 | It seems that he doesn't like the plan.（来源：2001-passage4-merger） |
+
+> [!tip] 语感差异
+> 两种写法意思相同，但**否定转移到从句**（写法B）在口语中更自然；**否定主句**（写法A）在正式写作中更常见。
+
+> [!quote]- 相关内容
+> - 参见 **从句 > 主语从句**：形式主语 It 与主语从句的完整配合
+> - 参见 **补充要点 > 形式主语 It**：形式主语的完整用法
+> - 参见 **补充要点 > 虚拟语气 might have done**：情态动词的虚拟用法
+
+（来源：2001-passage4-merger）
+
+---
+
+### 其他补充要点
+
+#### 现在完成进行时 (Present Perfect Continuous)
+
+核心结构 `have/has + been + doing`，核心灵魂是"**一直**"，强调动作的持续性、过程感和未完成感。
+
+| 场景 | 用法 | 例句 | 潜台词 |
+|------|------|------|------|
+| 从过去持续到现在 | 动作持续且大概率继续 | I **have been preparing** for the postgraduate exam since last year. | 动作没断过，现在还在准备 |
+| 刚结束但有直接影响 | 强调过程导致的当前结果 | I am exhausted because I **have been reviewing** advanced mathematics all day. | "一直复习"直接导致现在"筋疲力尽" |
+
+##### 考点对比：Have been doing vs. Have done
+
+| 时态 | 核心侧重点 | 示例与潜台词 |
+|------|------|------|
+| **现在完成进行时** `have been doing` | 强调**过程**和**持续** | I **have been reading** the paper. *(可能还没读完)* |
+| **现在完成时** `have done` | 强调**结果**和**完成** | I **have read** the paper. *(已经读完了)* |
+
+##### 常见标志词
+
+| 标志词 | 示例 | 含义 |
+|------|------|------|
+| **for + 时间段** | for 3 months | 持续了三个月 |
+| **since + 时间点** | since last month | 从上个月一直到现在 |
+| **all + 时间** | all day / all morning | 整天/整个上午 |
+| **recently / lately** | — | 最近一段时间一直在持续的状态 |
+
+> [!tip] 解题技巧
+> 在长难句中看到 `for + 时间段` 或 `since` 且谓语是 `have been doing`，直接判断该动作仍在持续或刚刚结束。
+
+（来源：2000-passage3-futurist）
+
+---
+
+#### For 的两种面孔（为了 vs 因为）
+
+在长难句中看到 `for`，看它后面跟什么成分来判断词性：
+
+| 词性 | 判断依据 | 翻译 | 例句 |
+|------|------|------|------|
+| **介词** | 后面跟 名词/代词/V-ing | 为了 / 对于 | I am studying hard **for** the exam. 我为了考试而努力学习。 |
+| **连词** | 后面跟 完整句子(有主谓)，且前面通常有逗号 | 因为 | The days were short, **for** it was now December. 白天变得很短，因为现在已经是十二月了。 |
+
+> [!note] For 作连词的特殊性
+> `for` 作连词只能放在句中（逗号后），不能放在句首。它表示的"因为"通常不是直接因果关系，而是"事后诸葛亮"式的补充解释或推断理由。
+>
+> 例：`It must have rained last night, for the ground is wet.` (昨晚肯定下雨了，因为地是湿的。)
+
+##### 表"因为"的四大词对比 (Because / Since / As / For)
+
+| 连词 | 语气 | 位置 | 用法 |
+|------|------|------|------|
+| **because** | 最强 | 句首或句中 | 最直接、最根本的因果关系，回答 Why 提问 |
+| **since** | 较弱 | 句首或句中 | 表示"大家已经知道的、显而易见的原因" |
+| **as** | 较弱 | 句首或句中 | 口语化，和 since 差不多 |
+| **for** | 最弱 | 只能句中(逗号后) | "事后诸葛亮"式的补充解释或推断理由 |
+
+> [!tip] 📌 考研翻译终极排雷
+> 在翻译题中看到 `for`，如果翻译成"为了……"逻辑别扭，立刻切换为**"因为"**再读一遍，99% 的情况下句子瞬间通顺！
+
+> [!warning] 中英文连词使用差异
+> 中文常说"因为...所以..."、"虽然...但是..."，但在英语中连词不能叠用。
+>
+> ❌ `Although he is old, but he is strong.`
+>
+> ✅ `Although he is old, he is strong.` (或 `He is old, but he is strong.`)
+
+（来源：2000-passage3-futurist）
+
+---
+
+#### 并列连词：And / But / Or
+
+| 连词 | 核心作用 | 典型考点 | 例句 |
+|------|------|------|------|
+| **and** | 添加信息（并列、递进、顺承） | 祈使句 + and = If...then... | Work hard, **and** you will pass the exam. |
+| **but** | 引出对立面（转折、对比） | Not...but... 不是...而是... | It is **not** a physical problem, **but** a psychological one. |
+| **or** | 提供选项（选择、条件、否则） | 祈使句 + or = 否则 | Hurry up, **or** you will miss the train. |
+
+> [!warning] 并列连词的平行结构原则
+> `and`、`but`、`or` 连接的前后两部分，**词性或结构必须一致**。
+>
+> ❌ `He likes reading and to swim.` (动名词和不定式不平行)
+>
+> ✅ `He likes reading and swimming.`
+
+> [!note] 标点符号规则
+> - 连接两个词/短语：通常不加逗号 (`Bread and butter`)
+> - 连接三个或以上的列表：最后一个词前加 `, and` 或 `, or`（牛津逗号）
+> - 连接两个完整的独立句子：必须在连词前加逗号
+
+（来源：2000-passage3-futurist）
+
+---
+
+#### Rather than（而不是）
+
+在考研英语中看到 `rather`，根据搭配判断是"加强语气"还是"反驳观点"。
+
+| 面孔 | 搭配 | 释义 | 例句 |
+|------|------|------|------|
+| 面孔一：程度副词 | **rather + adj./adv.** | 非常，相当 (≈ very/quite) | The translation part is **rather** difficult. |
+| 面孔二：逻辑连接词 | **rather than** | 而不是…… (≈ instead of) | I prefer to read books **rather than** play games. |
+
+> [!warning] Rather than 的并列陷阱
+> `rather than` 是一个并列连词，连接的 A 和 B 在语法形式上必须**绝对对称**。
+>
+> ❌ `He decided to walk home rather than taking a bus.` (前后不对称)
+>
+> ✅ `He decided to walk home rather than take a bus.` (前后都是动词原形)
+
+> [!tip] 📌 阅读理解：避开"B"的陷阱
+> 如果原文出现 `A rather than B`，出题人非常喜欢把 **B 的内容**写进选项来迷惑你。只要看到 `rather than`，立刻给后面的内容 (B) 画叉——作者反对的就是这部分，绝不能选！
+
+（来源：2000-passage3-futurist）
+
+---
+
+#### About 作为副词（大约）
+
+> [!note] 词性转化
+> 当 about 直接放在具体数字前面时，它不再是介词"关于"，而是转化为副词，意思是"大约"。
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| about + 数字 | 大约 | There are about 20 students in the classroom. |
+
+（来源：2000-passage2）
+
+---
+
+### Produce 词族
+
+| 词性 | 单词 | 核心释义 | 记忆要点 |
+|------|------|---------|---------|
+| v. | **produce** | 生产；制造；出示 | 动词重音在后 `/prəˈdjuːs/` |
+| n. | **produce** | 农产品（不可数） | 名词重音在前 `/ˈprɒdjuːs/`，特指蔬果 |
+| n. | **product** | 产品；结果（可数） | 侧重工业制造或抽象产物 |
+| n. | **production** | 生产（过程/产量）；作品 | 侧重过程或总产量 |
+| adj. | **productive** | 富有成效的；多产的 | 常用搭配：a productive meeting |
+| n. | **productivity** | 生产率；生产力 | 侧重效率 (Output/Input)，高频短语：boost productivity |
+
+> [!warning] 易错辨析：produce (n.) vs. product (n.)
+> 两者作名词都译为"产品"，但用法截然不同：
+> - **produce** [不可数]：特指**农**产品（水果、蔬菜、蛋奶）
+> - **product** [可数]：指**工业**产品、商品或抽象产物
+>
+> 例：buy fresh local **produce** at the farmer's market ✅
+> 例：launch a new software **product** ✅
+
+（来源：2000-passage4-japan）
+
+---
+
+### 代词指代原则 (Pronoun Reference)
+
+> [!warning] 常见误区
+> 代词不一定指代上一句的主语——它也可能指代宾语，或前文一整件事情。**语法匹配是门槛，逻辑通顺才是判官。**
+
+| 原则 | 说明 | 例句分析 |
+|------|------|---------|
+| **就近原则** | 代词指代对象通常在前半句或前一句话中 | — |
+| **单复数/性别匹配** | 最强排除法：they/those 找复数名词；it 找单数/不可数名词 | **The company** fired **the lazy workers**. **They** were very angry. → `They` 数词匹配 workers（复数），代入逻辑：工人被开除所以生气 ✅ |
+| **动作逻辑检验** | 将候选名词代入代词位置，看能否发出后续动作 | — |
+
+> [!tip] 📌 考研命题人两大高频陷阱
+> - **陷阱一：指代宾语而非主语** — 代词 `They` 可能指代上一句的宾语（如被开除的工人）而非主语（公司）。
+> - **陷阱二：指代整件事情** — `this` / `that` / `it` 可能指代前文一整件事。翻译时译为"这**件事情**"或"这一**举动**"更流畅。
+>   - He finally passed the math exam. **This** made his parents very happy. → `This` 指"他通过了考试"这整件事，而非 `exam` 这个词本身。
+>
+> （来源：2000-passage5-ambition）
+
+> [!quote]- 联动复习
+> - 参见 [[固定搭配与词组笔记#Refer to vs. Comment on (指示杆 vs.麦克风)]]：Refer to 含义②"指的是……"是分析代词指代的核心线索词（如 "What does **it** **refer to**?"）。
+
+---
+
+### 代词辨析：Another vs The other (Pronoun Usage)
+
+> [!tip] 核心逻辑：看透 The 与 An
+> - **The**（定冠词）→ 特指、唯一剩下的。范围内东西已分配完，这是最后兜底的那个。
+> - **An**（不定冠词）→ Another = An + other，泛指、随便再来一个。范围里还有很多，这只是随机一个。
+
+| 结构 | 范围总数 | 逻辑 | 例句 |
+|------|---------|------|------|
+| **One..., the other...** | = 2 | 拿走一个，剩下的唯一那个是确定的 → 用 the | I have two cats. One is white, and **the other** is black. |
+| **One..., another..., (the other...)** | ≥ 3 | 拿走一个后还有多个，随便再挑一个 → another；拿到最后一个 → the other | I have three pens. One is red, **another** is blue, and **the other** is black. |
+
+**本文实例** [Para 1(4)]：Specialization was only one of a series of related developments... **Another** was the growing professionalisation of scientific activity. — 一系列发展中的"另一个"（总数 ≥ 3，泛指）
+
+（来源：2001-passage1-specialization）
+
+---
+
+### 半否定词 (Semi-negatives)
+
+> [!tip] 阅读与翻译"双标"原则
+> - **阅读理解**：看到 `little` / `few`，直接替换成 `not`，将其处理为完全否定逻辑。
+> - **翻译题**：翻译成"几乎没有 / 极少"，展现对程度副词的精准把控。
+
+> [!warning] 完型必考：有 a / 无 a 的逻辑反转
+> - 带 **a**（a few / a little）→ 肯定逻辑 = some（有一些）
+> - 无 **a**（few / little）→ 否定逻辑 = almost not（几乎没有）
+>
+> **感情色彩差异**：a few（开心/不孤单）vs few（孤独/消极）
+
+| 结构 | 逻辑 | 例句 |
+|------|------|------|
+| **a few** + 可数名词 / **a little** + 不可数名词 | 肯定：有一些 | I have **a few** friends here. |
+| **few** + 可数名词 / **little** + 不可数名词 | 否定：几乎没有 | I have **few** friends here. |
+| **hardly / scarcely** | 几乎不，简直不 | |
+| **rarely / seldom** | 极少、不常 | We **seldom** receive such requests. |
+
+> [!note] 考研术语：暗含否定 (Implicit Negation)
+> 这种"不带 not 的否定句"在考研中被称为**暗含否定**。除了 little/few，考研出题人（特别是阅读理解的主旨题和态度题）更喜欢用 `hardly`、`scarcely`、`rarely`、`seldom` 来代替 `not`，玩"暗中否定"。阅读时请将它们全部当成 `not` 处理。
+>
+> 例：We **seldom** receive such requests. → "我们极少收到这种请求"（大脑直译逻辑："没有收到过"）
+
+> [!tip] 联动复习
+> 暗含否定与 [Neither...nor...](#介词与连词并列连词-eitheroror-correlative-conjunctions) 同为"不直接使用 not"的否定手段，但前者是程度副词（减弱语气），后者是连词结构（全部排除）。
+
+**本文实例** [Para 2(1) / 题干]：No clear-cut distinction can be drawn between professionals and amateurs in science: exceptions can be found to any rule. — `No clear-cut distinction` = 完全否定，相当于 `There is not any clear-cut distinction`，是文章开篇的否定起点。
+
+（来源：2001-passage1-specialization）
+
+---
+
+### 形容词作状语与接宾语从句
+
+#### 考点一：形容词短语作状语
+
+> [!tip] 黄金箭头法则
+> 放在句首的形容词短语，逻辑主语必须是主句主语！
+
+- **考研压缩版**：Important in this field, this book is useful.
+- **完整版**：Because it is important in this field, this book is useful.
+
+> [!note] 长难句降维
+> 出题人会把原因状语从句"砍"成形容词短语，遇到句首形容词直接理解为"因为……"。
+
+#### 考点二：形容词后接宾语从句
+
+| 情况 | 例句 | 规则 |
+|------|------|------|
+| 接名词 | I am afraid **of** scary movies. | 必须加介词 |
+| 接从句 | I am afraid (that) you will lose. | 省略 that 的宾语从句 |
+
+> [!warning] 致命防坑
+> 形容词后 that 极常被省略，导致看不出切分了两个句子。
+
+#### 考研高频"自带从句"的形容词
+
+- **sure / certain**（确信的）→ I am sure (that) he will come.
+- **aware**（意识到的）→ We are aware (that) the problem is serious.
+- **confident**（自信的）→ They are confident (that) the economy will recover.
+- **glad / afraid**（高兴的/害怕的）
+
+> [!quote]- 相关内容
+> - 参见 **从句 > 宾语从句**：that 引导宾语从句的省略规则
+> - 参见 **从句 > 状语从句**：形容词作状语与状语从句的省略对应
+
+（来源：2001-passage2-digital-divide）
+
+---
+
+### 词汇辨析
+
+#### Justify（主观辩护） vs Prove（客观证明）
+
+| 词 | 核心差异 | 例句 |
+|----|----------|------|
+| Prove | 证明"真与假"（客观事实） | The DNA test **proved** that he was at the scene. |
+| Justify | 证明"对与错/合理与否"（主观立场） | This case can **justify** his actions. |
+
+#### 形近词终极刺客：Adopt / Adapt / Adept
+
+**记忆口诀（字母密码）**：
+
+| 词 | 联想词 | 含义 | 词性 |
+|----|--------|------|------|
+| Adopt | **o**ption（选项） | 采纳/领养 | vt. |
+| Adapt | **a**djust/alter（调整） | 适应/改编 | vi./vt. |
+| Adept | **e**xpert（专家） | 精通的/擅长的 | adj. |
+
+> [!tip] 完形填空秒杀
+> 看中间不同字母：o → option（选择）；a → adjust（调整）；e → expert（专家）。
+
+**Adapt 高频搭配**：
+- adapt **to** sth（适应……）→ to 是介词，后接动名词：adapt to doing sth
+- be adapted from（改编自）→ This movie was adapted from a famous novel.
+
+**Adept 写作替换**：
+- 平淡：He is good at solving math problems.
+- 高分：He is **adept at** solving math problems.
+
+（来源：2001-passage2-digital-divide）
+
+---
+
+### Way 作为程度副词
+
+#### 词性反转
+
+当 way 出现在比较级前面时，它是**程度副词**，意思是"远远……"或"……得多"，等同于 a lot 或 much。
+
+> [!warning] 考研铁律
+> way 作为副词时，最经典的用法就是紧紧贴在 **比较级** 前面，用来放大两者的差距。
+>
+> **公式**：way + 比较级 (better / faster / more expensive) + than...
+
+| 词性 | 用法 | 例句 | 适用场景 |
+|------|------|------|----------|
+| 名词 | in a smart way that... | We should do it in a smart way that...（来源：2001-passage3-newspaper-credibility） | 写作提建议 |
+| 副词 | way + 比较级 | You are way better than him.（来源：2001-passage3-newspaper-credibility） | 听力/口语/阅读理解 |
+
+（来源：2001-passage3-newspaper-credibility）
+
+---
+
+### not so much A as B — 与其说 A 不如说 B（平行结构）
+
+**翻译：** 与其说是 A，不如说是 B。
+
+**逻辑本质：** ==否定 A，肯定 B==。说话者的真正重点在 **B** 身上，A 只是一个用来衬托的幌子。
+
+#### ⭐ 铁律：平行结构
+
+> [!warning] 平行结构铁律
+> 在语法填空、改错或写作中，A 和 B 的词性或结构必须完全一致：
+> - A 是形容词 → B 必须是形容词
+> - A 是介词短语 → B 也必须是介词短语
+> - A 是动词过去分词 → B 也应是动词过去分词
+
+**名词对称：**
+> He is not so much **a teacher** as **a friend**.
+> 翻译：与其说他是个老师，不如说他是个朋友。（teacher 和 friend 都是名词）
+
+**介词短语对称：**
+> The success was not so much **due to luck** as **to hard work**.
+> 翻译：这次成功与其说是由于运气，不如说是由于努力。（due to... 和 to... 保持对称）
+
+#### 考研大热门：四大神级同义替换
+
+> [!tip] 阅读/完形同义替换考点
+> 出题人非常喜欢在原文用一种写法，在选项里用另一种同义替换来考你。必须把这四个公式视为一体：
+
+| 句型结构 | 核心逻辑 | 示例 |
+|---------|---------|------|
+| **not so much A as B** | 否定 A，肯定 B | 与其说 A，不如说 B |
+| **not A so much as B** | 否定 A，肯定 B（so much 后移）| 与其说 A，不如说 B |
+| **less A than B** | A 的成分少，B 的成分多 | 与其说 A，不如说 B |
+| **more B than A** | B 的成分多，A 的成分少 | 是 B，而不是 A |
+
+**实战演练（四句等价）：**
+> It is **not so much** a failure **as** a lesson.
+> It is **not** a failure **so much as** a lesson.
+> It is **less** a failure **than** a lesson.
+> It is **more** a lesson **than** a failure.
+>
+> （统一翻译：这与其说是失败，不如说是一次教训。）
+
+#### 🎯 考研真题同款长难句演练
+
+在真实的学术文本中，A 和 B 往往会被拉得很长，这时候一定要稳住，抓出 A 和 B 的核心。
+
+> "The current financial crisis is **not so much** caused **by a lack of capital as by a collapse of market confidence**."
+
+**第一步（定结构）：** 看到 not so much... as...，锁定 A 是 `caused by a lack of capital`，B 是 `by a collapse of market confidence`（满足 by... by... 的平行结构）。
+
+**第二步（理逻辑）：** 否定 A（缺乏资金），肯定 B（市场信心崩溃）。
+
+**第三步（润色翻译）：** 当前的金融危机与其说是由于缺乏资金引起的，不如说是由于市场信心的崩溃造成的。
+
+#### 记忆小口诀
+
+> [!note] 记忆口诀
+> **not so much A as B，大笔一挥划掉 A，盯着 B 看才是真！**
+
+> [!quote]- 相关内容
+> - 参见 **倒装与强调 > 原级比较 (as...as)**：同为比较结构，not so much...as 强调"否定 A，肯定 B"
+> - 参见 **补充要点 > 双重否定**：通过"否定之否定"来强调肯定
+
+（来源：2001-passage5-downshifting）
+
