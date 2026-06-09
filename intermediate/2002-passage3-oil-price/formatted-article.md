@@ -11,7 +11,7 @@ sources:
   - "2002阅读/passage_3.md"
 ---
 
-⑴Could the bad old days of economic decline be about to return? ⑵Since OPEC agreed to supply-cuts in March, the price of crude oil has jumped to almost $26 a barrel, up from less than $10 last December. ⑶This near tripling of oil prices calls up scary memories of the 1973 oil shock, when prices quadrupled, and 1979-80, when they also almost tripled. ⑷Both previous shocks resulted in double-digit inflation and global economic decline. ⑸So where are the headlines warning of gloom and doom this time?
+⑴Could the bad old days of economic decline be about to return? ⑵Since OPEC agreed to supply-cuts in March, the price of crude oil has jumped to almost $26 a barrel, up from less than $10 last December. ⑶This near tripling of oil prices calls up scary memories of the 1973 oil shock, when prices quadrupled, and 1979-80, when they also almost **tripled**. ⑷Both previous shocks resulted in double-digit inflation and global economic decline. ⑸So where are the headlines warning of gloom and doom this time?
 
 ⑴The oil price was given another push up this week when Iraq suspended oil exports. ⑵Strengthening economic growth, at the same time as winter grips the northern hemisphere, could push the price higher still in the short term.
 
