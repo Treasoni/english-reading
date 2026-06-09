@@ -11,7 +11,45 @@ sources:
   - "2002阅读/passage_3.md"
 ---
 
-⑴Could the bad old days of economic decline be about to return? ⑵Since OPEC agreed to supply-cuts in March, the price of crude oil has jumped to almost $26 a barrel, up from less than $10 last December. ⑶This near tripling of oil prices calls up scary memories of the 1973 oil shock, when prices quadrupled, and 1979-80, when they also almost **tripled**. ⑷Both previous shocks resulted in double-digit inflation and global economic decline. ⑸So where are the headlines warning of gloom and doom this time?
+⑴Could the bad old days of economic decline be about to return? ⑵Since OPEC agreed to supply-cuts in March, the price of crude oil has jumped to almost $26 a barrel, up from less than $10 last December. ⑶This near tripling of oil prices calls up scary memories of the 1973 oil shock, when prices quadrupled, and 1979-80, when they also almost **tripled**.
+
+> [!abstract]- 长难句分析
+> **原句**：This near tripling of oil prices calls up scary memories of the 1973 oil shock, when prices quadrupled, and 1979-80, when they also almost **tripled**.
+>
+> **主干提取**：
+> - **S**（主语）：This near tripling of oil prices
+> - **V**（谓语）：calls up
+> - **O**（宾语）：scary memories of the 1973 oil shock and 1979-80
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 定语从句（非限制性） | when | the 1973 oil shock |
+> | 定语从句（非限制性） | when | 1979-80 |
+> | 介词短语 | of | oil prices（修饰 tripling，作"油价的…飙升"） |
+> | 名词作定语 | oil | shock（构成 oil shock"石油危机"） |
+>
+> **结构图解**：
+> ```
+> 主句: [This near tripling of oil prices] + [calls up] + [scary memories]
+>   ├── 介短: (of oil prices) → 修饰 tripling（"油价的…飙升"）
+>   ├── 介短: (of ...) → 修饰 memories
+>   │     ├── 并列宾语 1: the 1973 oil shock
+>   │     │     └── 定从: (when prices quadrupled) → 修饰 shock
+>   │     └── 并列宾语 2: 1979-80
+>   │           └── 定从: (when they also almost tripled) → 修饰 1979-80
+> ```
+>
+> **参考译文**：油价近乎三倍的飙升唤起了人们对 1973 年石油危机（当时油价翻了两番）和 1979—1980 年（当时油价也几乎涨了三倍）的可怕回忆。
+>
+> **考点提示**：
+> 1. **并列结构识别**：`and` 连接两个并列宾语 `the 1973 oil shock` 和 `1979-80`，各自带一个 `when` 引导的非限制性定语从句。理解时需将 `memories of A, when..., and B, when...` 视为 `(memories of A, when...) and (memories of B, when...)` 的并列。
+> 2. **非限制性定语从句**：`when` 引导的从句对先行词起补充说明作用，删除后主句结构仍完整。逗号是关键标志，不可与时间状语从句混淆。
+> 3. **倍数动词辨析**：`triple`（增至三倍）、`quadruple`（增至四倍）— 考研常考点。注意 `tripling of oil prices` 中的 `tripling` 是名词化的动名词（"三倍化"），充当主语中心词。
+> 4. **词义辨析**：`call up` = 唤起（回忆/情绪），不可望文生义为"打电话"。
+
+⑷Both previous shocks resulted in double-digit inflation and global economic decline. ⑸So where are the headlines warning of gloom and doom this time?
 
 ⑴The oil price was given another push up this week when Iraq suspended oil exports. ⑵Strengthening economic growth, at the same time as winter grips the northern hemisphere, could push the price higher still in the short term.
 
