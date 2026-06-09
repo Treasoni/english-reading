@@ -86,7 +86,7 @@ sources:
 > 4. **高频搭配**：headlines（头条新闻/大标题）、gloom and doom（悲观与厄运/萧条）、warning of（警告...）— 考研阅读高频词组。
 > 5. **So 承前推论**：句首的 So 不是"所以"连接词，而是承接前文 oil price shock 背景，进一步推出"既然过去石油危机都有头条警告，那这次怎么没有？"，暗含今非昔比之意。
 
-⑴The oil price was given another push up this week when Iraq suspended oil exports. ⑵Strengthening economic growth, at the same time as winter grips the northern hemisphere, could push the price higher still in the short term.
+⑴The oil price was given another push up this week when Iraq suspended oil exports. ⑵Strengthening economic growth, at the same time as winter grips the northern **hemisphere**, could push the price higher still in the short term.
 
 ⑴Yet there are good reasons to expect the economic consequences now to be less severe than in the 1970s. ⑵In most countries the cost of crude oil now accounts for a smaller share of the price of petrol than it did in the 1970s. ⑶In Europe, taxes account for up to four-fifths of the retail price, so even quite big changes in the price of crude have a more muted effect on pump prices than in the past.
 
