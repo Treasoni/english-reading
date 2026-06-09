@@ -51,6 +51,41 @@ sources:
 
 ⑷Both previous shocks resulted in double-digit inflation and global economic decline. ⑸So where are the headlines warning of gloom and doom this time?
 
+> [!abstract]- 长难句分析
+> **原句**：So where are the headlines warning of gloom and doom this time?
+>
+> **主干提取**：
+> - **S**（主语，倒装前）：the headlines
+> - **V**（谓语，系动词）：are
+> - **C**（表语，倒装前）：where
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 现在分词短语 | warning of... | headlines（后置定语） |
+> | 介词短语 | of | gloom and doom（修饰 warning） |
+> | 副词 | So | 整句（承接上文推论） |
+> | 名词短语 | this time | 整句（时间状语） |
+>
+> **结构图解**：
+> ```
+> 主句: [the headlines] + [are] + [where]?（特殊疑问句倒装）
+>   ├── 副词 So → 承前推论
+>   ├── 非谓语: (warning of gloom and doom) → 后置定语，修饰 headlines
+>   │     └── 介短: (of gloom and doom) → 修饰 warning
+>   └── 状语: this time → 时间状语
+> ```
+>
+> **参考译文**：那么，这一次（报纸上）警告经济萧条与厄运来临的大标题都跑哪儿去了呢？
+>
+> **考点提示**：
+> 1. **修辞性疑问句（反问语气）**："Where are the headlines...?" 形式上是问句，实质上是修辞性反问，等价于 "There are no such headlines"，表达作者的讽刺与质疑。So + 修辞性问句 = 否定/讽刺含义。
+> 2. **主系表倒装结构**：正常语序为 "The headlines are where?"，特殊疑问词 where 前置构成特殊疑问句。表语 where 提前是为了强调"在哪"而非"是不是"。
+> 3. **现在分词作后置定语**："warning of gloom and doom" 等价于定语从句 "that/which warn of gloom and doom"，修饰 headlines；功能上等同于一个非限制性定语从句。
+> 4. **高频搭配**：headlines（头条新闻/大标题）、gloom and doom（悲观与厄运/萧条）、warning of（警告...）— 考研阅读高频词组。
+> 5. **So 承前推论**：句首的 So 不是"所以"连接词，而是承接前文 oil price shock 背景，进一步推出"既然过去石油危机都有头条警告，那这次怎么没有？"，暗含今非昔比之意。
+
 ⑴The oil price was given another push up this week when Iraq suspended oil exports. ⑵Strengthening economic growth, at the same time as winter grips the northern hemisphere, could push the price higher still in the short term.
 
 ⑴Yet there are good reasons to expect the economic consequences now to be less severe than in the 1970s. ⑵In most countries the cost of crude oil now accounts for a smaller share of the price of petrol than it did in the 1970s. ⑶In Europe, taxes account for up to four-fifths of the retail price, so even quite big changes in the price of crude have a more muted effect on pump prices than in the past.
