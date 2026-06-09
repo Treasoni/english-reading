@@ -299,6 +299,64 @@ sources:
 
 ⑶Software, consultancy and mobile telephones use far less oil than steel or car production. ⑷For each dollar of GDP (in constant prices) rich economies now use nearly 50% less oil than in 1973. ⑸The OECD estimates in its latest Economic Outlook that, if oil prices averaged $22 a barrel for a full year, compared with $13 in 1998, this would increase the oil import bill in rich economies by only 0.25-0.5% of GDP. ⑹That is less than one-quarter of the income loss in 1974 or 1980. ⑺On the other hand, oil-importing emerging economies—to which heavy industry has shifted—have become more energy-intensive, and so could be more seriously squeezed.
 
+> [!abstract]- 长难句分析
+> **原句**：On the other hand, oil-importing emerging economies—to which heavy industry has shifted—have become more energy-intensive, and so could be more seriously squeezed.
+>
+> **主干提取**：
+> - **S**（主语）：oil-importing emerging economies
+> - **V1 + C1**（谓语 1 + 表语）：have become more energy-intensive
+> - **V2 + C2**（谓语 2 + 表语，由 and so 引出推论）：could be more seriously squeezed
+> - **连词**：and so（and 连接复合谓语，so = therefore）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语（状语） | On the other hand | 整句（对比/转折，"另一方面"） |
+> | 复合形容词 | oil-importing | economies（前置定语） |
+> | 现在分词（形容词） | emerging | economies（前置定语） |
+> | 定语从句（非限制性，破折号包裹） | to which | economies（前置介词 + 关系代词） |
+> | 形容词比较级 | more | energy-intensive（构成比较级） |
+> | 副词 | more | seriously（构成比较级） |
+> | 副词 | seriously | squeezed（程度状语） |
+>
+> **结构图解**：
+> ```
+> 主句: [S] + [V1 + C1], + and so + [V2 + C2]
+>   ├── S: oil-importing emerging economies
+>   │     ├── 复合形容词: (oil-importing) → 修饰 economies
+>   │     └── 现在分词: (emerging) → 修饰 economies
+>   ├── 句首状语: (On the other hand) → 整句（与上文转折）
+>   ├── 破折号插入定从: (to which [heavy industry has shifted])
+>   │     └── 从句主干: [heavy industry] + [has shifted] (to which)
+>   │           └── 主谓关系: heavy industry = 主语；shifted = 谓语
+>   ├── V1 + C1: [have become] + [more energy-intensive]
+>   │     └── 形容词比较级: more → 修饰 energy-intensive
+>   ├── 连词 and so → and 连接复合谓语；so = therefore（推论）
+>   └── V2 + C2: [could be] + [more seriously squeezed]
+>         ├── 副词比较级: more → 修饰 seriously
+>         └── 副词: seriously → 修饰 squeezed（过去分词作表语，被动含义）
+> ```
+>
+> **参考译文**：另一方面，石油进口的新兴经济体——重工业已经转移到这些经济体——已经变得更加能源密集，因此（其经济）可能受到更为严重的挤压。
+>
+> **考点提示**：
+> 1. **破折号包裹的非限制性定语从句**：破折号（em-dash）与逗号功能类似，用于引出非限制性定语从句/插入语，删除后主句结构仍完整。本句用破折号包裹 `to which heavy industry has shifted`，是考研阅读中常见的强插入结构。
+> 2. **"介词 + 关系代词"前置结构**：`to which` = 介词 to + 关系代词 which，which 指代先行词 economies，在定语从句中作介词 to 的宾语（shift to the economies → shift to which）。**介词提前规律**：定从中作介词宾语的关系代词，介词可提前至关系代词前。
+> 3. **复合谓语 (compound predicate)**：`have become... and so could be...` 由 `and` 连接两个谓语，**共享同一主语** `oil-importing emerging economies`。注意：`and so` 中的 `and` 是并列连词，`so` 是副词（= therefore），共同表达"因此"。
+> 4. **become + adj. 比较级表语**：`have become more energy-intensive` 中 `more energy-intensive` 是形容词比较级作表语。`become` 是系动词（连系动词），后接形容词；现在完成时 have become 强调"由过去到现在的变化过程"。
+> 5. **被动语态 could be + V-ed**：`could be more seriously squeezed` 中 `squeezed` 是过去分词作表语（= 被动态形容词），be squeezed 表示"被挤压/被压缩"。情态动词 `could` 表达可能性（= 可能会）。
+> 6. **复合形容词 oil-importing**：`名词 + 现在分词` 构成的复合形容词用连字符连接作前置定语。类似：oil-rich / time-consuming / heart-breaking / labor-saving。
+> 7. **"on the other hand" 转折结构**：与上文"rich economies"的"less sensitive"形成对比，指出"新兴经济体"是相反情况（more seriously squeezed）。`on the one hand... on the other hand...` 是写作中常用的"一方面…另一方面…"结构。
+> 8. **em-dash（破折号）的使用**：英文破折号常用于插入解释性内容或非限制性定语/同位语，语气比逗号更强烈，视觉上更醒目。本文用破折号包裹定语从句，意在强调"重工业已转移"这一补充信息。
+> 9. **高频搭配与词汇**：
+>    - `on the other hand` 另一方面（与 `on the one hand` 一方面 相对）
+>    - `emerging economies` 新兴经济体（与 `developed economies` 发达经济体 相对）
+>    - `oil-importing` 石油进口的（构词：n. + -ing + adj.，用连字符）
+>    - `shift to...` 转移到…（= move to / transfer to）
+>    - `energy-intensive` 能源密集型的（反义词：`energy-efficient` 节能的）
+>    - `squeeze` v./n. 挤压、压缩（形容词 squeezed 表"被挤压的、收紧的"）
+
 ⑴One more reason not to lose sleep over the rise in oil prices is that, unlike the rises in the 1970s, it has not occurred against the background of general commodity-price inflation and global excess demand. ⑵A sizable portion of the world is only just emerging from economic decline. ⑶The Economist's commodity price index is broadly unchanging from a year ago. ⑷In 1973 commodity prices jumped by 70%, and in 1979 by almost 30%.
 
 ---
