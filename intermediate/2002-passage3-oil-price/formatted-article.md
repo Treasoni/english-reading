@@ -49,7 +49,7 @@ sources:
 > 3. **倍数动词辨析**：`triple`（增至三倍）、`quadruple`（增至四倍）— 考研常考点。注意 `tripling of oil prices` 中的 `tripling` 是名词化的动名词（"三倍化"），充当主语中心词。
 > 4. **词义辨析**：`call up` = 唤起（回忆/情绪），不可望文生义为"打电话"。
 
-⑷Both previous shocks resulted in double-digit inflation and global economic decline. ⑸So where are the headlines warning of gloom and doom this time?
+⑷Both previous shocks resulted in **double-digit** inflation and global economic decline. ⑸So where are the headlines warning of gloom and doom this time?
 
 > [!abstract]- 长难句分析
 > **原句**：So where are the headlines warning of gloom and doom this time?
@@ -86,7 +86,49 @@ sources:
 > 4. **高频搭配**：headlines（头条新闻/大标题）、gloom and doom（悲观与厄运/萧条）、warning of（警告...）— 考研阅读高频词组。
 > 5. **So 承前推论**：句首的 So 不是"所以"连接词，而是承接前文 oil price shock 背景，进一步推出"既然过去石油危机都有头条警告，那这次怎么没有？"，暗含今非昔比之意。
 
-⑴The oil price was given another push up this week when Iraq suspended oil exports. ⑵Strengthening economic growth, at the same time as winter grips the northern **hemisphere**, could push the price higher still in the short term.
+⑴The oil price was given another push up this week when Iraq suspended oil exports. ⑵Strengthening economic growth, at the same time as winter **grips** the northern **hemisphere**, could push the price higher still in the short term.
+
+> [!abstract]- 长难句分析
+> **原句**：Strengthening economic growth, at the same time as winter grips the northern **hemisphere**, could push the price higher still in the short term.
+>
+> **主干提取**：
+> - **S**（主语）：Strengthening economic growth
+> - **V**（谓语）：could push
+> - **O**（宾语）：the price
+> - **OC**（宾语补足语）：higher
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 状语从句（时间） | as | 整句（at the same time as 强化"与此同时"） |
+> | 现在分词 | Strengthening | economic growth（前置定语） |
+> | 副词 | still | higher（程度状语，强调"还要更高"） |
+> | 介词短语 | in the short term | 整句（时间状语） |
+> | 形容词 | northern | hemisphere（前置定语，"北半球的"） |
+>
+> **结构图解**：
+> ```
+> 主句: [Strengthening economic growth] + [could push] + [the price] + [higher]
+>   ├── 状从(时间): (at the same time as [winter grips the northern hemisphere])
+>   │     └── 从句主干: [winter] + [grips] + [the northern hemisphere]
+>   │           └── 形容词: (northern) → 修饰 hemisphere
+>   ├── 副词: still → 修饰 higher（程度递进）
+>   └── 介短: (in the short term) → 时间状语
+> ```
+>
+> **参考译文**：强劲的经济增长，加之正值北半球冬季来临，可能在短期内进一步推高油价。
+>
+> **考点提示**：
+> 1. **主谓分隔结构**：主语 `Strengthening economic growth` 之后插入一个较长的状语从句，再出现谓语 `could push`，形成主谓分隔。识别时需跳过状语成分，把"主语 + 谓语"配对找准。
+> 2. **as 引导时间状语从句**：`as` 在此表"正当/随着"，强调两事同时发生。`at the same time as` 是 `as` 的同义强化表达，意为"与此同时"。
+> 3. **复合宾语 push + O + OC**：`push the price higher` 中 `higher` 是宾语补足语，意为"把…推得更高"。`push / make / keep / find + O + adj.` 是考研常见复合宾语结构。
+> 4. **现在分词作前置定语**：`Strengthening economic growth` = "the economic growth that is strengthening"，强调增长正在加强的动态过程。
+> 5. **高频搭配与词汇**：
+>    - `grip` (v.) 紧握、紧抓、影响
+>    - `hemisphere` (n.) 半球 → `the northern hemisphere` 北半球
+>    - `in the short term` 短期内（区别于 `in the long term` 长期内）
+>    - `higher still` 更高一些（`still` 置于比较级后，表"还要更…"）
 
 ⑴Yet there are good reasons to expect the economic consequences now to be less severe than in the 1970s. ⑵In most countries the cost of crude oil now accounts for a smaller share of the price of petrol than it did in the 1970s. ⑶In Europe, taxes account for up to four-fifths of the retail price, so even quite big changes in the price of crude have a more muted effect on pump prices than in the past.
 
