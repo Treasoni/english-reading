@@ -357,7 +357,72 @@ sources:
 >    - `energy-intensive` 能源密集型的（反义词：`energy-efficient` 节能的）
 >    - `squeeze` v./n. 挤压、压缩（形容词 squeezed 表"被挤压的、收紧的"）
 
-⑴One more reason not to lose sleep over the rise in oil prices is that, unlike the rises in the 1970s, it has not occurred against the background of general commodity-price inflation and global excess demand. ⑵A sizable portion of the world is only just emerging from economic decline. ⑶The Economist's commodity price index is broadly unchanging from a year ago. ⑷In 1973 commodity prices jumped by 70%, and in 1979 by almost 30%.
+⑴One more reason not to lose sleep over the rise in oil prices is that, unlike the rises in the 1970s, it has not occurred against the background of general commodity-price inflation and global excess demand.
+
+> [!abstract]- 长难句分析
+> **原句**：One more reason not to lose sleep over the rise in oil prices is that, unlike the rises in the 1970s, it has not occurred against the background of general commodity-price inflation and global excess demand.
+>
+> **主干提取**：
+> - **S**（主句主语）：One more reason
+> - **V**（主句谓语，系动词）：is
+> - **C**（主句表语，由 that 引导的表语从句）：it has not occurred against the background of general commodity-price inflation and global excess demand
+> - **表语从句结构**：
+>   - **S**（从句主语）：it（指代主句主语 reason，避免重复）
+>   - **V**（从句谓语）：has not occurred
+>   - **A**（从句状语）：against the background of general commodity-price inflation and global excess demand
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 不定式短语 | not to lose sleep over... | reason（后置定语） |
+> | 介词短语 | over the rise in oil prices | lose sleep（后置定语） |
+> | 介词短语 | in oil prices | the rise（后置定语） |
+> | 介词短语 | unlike the rises in the 1970s | 整句（插入状语，让步/对比） |
+> | 介词短语 | against the background of... | occurred（状语） |
+> | 介词短语 | of general commodity-price inflation and... | the background（后置定语） |
+> | 复合形容词 | commodity-price | inflation（前置定语） |
+> | 名词作定语 | global | excess demand（前置定语） |
+>
+> **结构图解**：
+> ```
+> 主句(主系表): [One more reason] + [is] + [that 从句]
+>   ├── 主语后置定语: (not to lose sleep over the rise in oil prices)
+>   │     ├── 介短: (over the rise in oil prices) → 修饰 lose sleep
+>   │     │     └── 介短: (in oil prices) → 修饰 rise
+>   ├── 连词 that → 引导表语从句
+>   └── 表语从句: [it] + [has not occurred] + [against the background of general commodity-price inflation and global excess demand]
+>         ├── it → 指代主句主语 reason（替代）
+>         ├── 插入状语: (unlike the rises in the 1970s) → 让步/对比
+>         └── 介短: (against the background of general commodity-price inflation and global excess demand) → 状语
+>               ├── 介短: (of general commodity-price inflation and global excess demand) → 修饰 background
+>               │     ├── 复合形容词: (commodity-price) → 修饰 inflation
+>               │     └── 形容词: (global) → 修饰 excess demand
+>               └── 介词 against → 表示"在…背景下"
+> ```
+>
+> **参考译文**：没有理由为油价上涨而失眠的另一个原因是：与 20 世纪 70 年代的几次涨价不同，这次涨价并未发生在普遍商品价格通胀和全球需求过剩的大背景下。
+>
+> **考点提示**：
+> 1. **主系表 + 表语从句**：`One more reason is that...` 是典型的主系表结构，that 引导表语从句。**识别要点**：看系动词（is）后是否能构成完整意义，若不能则后接表语从句。表语从句是考研阅读和翻译的高频考点。
+> 2. **不定式作后置定语 (reason not to do)**：`not to lose sleep over the rise in oil prices` 是不定式短语作后置定语，修饰 `reason`。**reason + to do / not to do** 是考研常见搭配，等价于 `reason for (not) doing`。注意：reason 后既可接不定式，也可接 for + 动名词，语义一致。
+> 3. **it 指代主语（替代）**：表语从句中的 `it` 指代主句主语 `reason`，避免重复。这是英语中常见的"替代"现象，用代词替代前文出现的名词以避免重复，符合"语言经济性"原则。
+> 4. **unlike 引导的对比状语**：`unlike the rises in the 1970s` 作插入状语，对比这次与 70 年代的不同。**unlike** 是介词，意为"与…不同"（= different from / in contrast to）。unlike 引导的短语常作状语，可前置、后置或插入句中。
+> 5. **occur against the background of...**：`occur against the background of...` = "在…背景下发生"，是固定搭配，常见于学术性文章。background 后的 of 短语作后置定语。
+> 6. **复合形容词 commodity-price**：`名词-名词` 构成的复合形容词，用连字符连接作前置定语。类似结构：oil-price / three-hour / five-year / part-time / long-term。
+> 7. **lose sleep over 固定搭配**：`lose sleep over...` = "为…失眠/担心"（= worry about）。**结构**：lose sleep over + 名词/v-ing。注意：lose sleep over 是字面"为…失眠"，引申为"为…担忧"。
+> 8. **主语后置定语识别**：本句主语 `One more reason` 后接较长后置定语，是"短主语 + 长定语"结构。识别时先把 reason 找出，再向后找出后置定语边界（这里是 `...oil prices` 结束）。类似结构：a man with a long beard, the time to go home.
+> 9. **高频搭配与词汇**：
+>    - `reason not to do` 没有理由做某事（= no reason to do / reason for not doing）
+>    - `lose sleep over` 为…失眠、担心
+>    - `occur against the background of...` 在…背景下发生
+>    - `unlike` 与…不同（介词；形容词 unlike = 不像的）
+>    - `commodity` 商品（形容词 commercial 商业的；commodity 商品化的）
+>    - `inflation` 通货膨胀（动词 inflate 充气、膨胀）
+>    - `excess demand` 过剩需求（excess = 过量的；与 excess supply 过剩供给相对）
+>    - `global` 全球的（与 local 局部的、regional 区域的相对）
+
+⑵A sizable portion of the world is only just emerging from economic decline. ⑶The Economist's commodity price index is broadly unchanging from a year ago. ⑷In 1973 commodity prices jumped by 70%, and in 1979 by almost 30%.
 
 ---
 
