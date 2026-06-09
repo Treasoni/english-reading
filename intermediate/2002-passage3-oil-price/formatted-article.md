@@ -180,6 +180,69 @@ sources:
 
 ⑵In most countries the cost of crude oil now accounts for a smaller share of the price of petrol than it did in the 1970s. ⑶In Europe, taxes account for up to four-fifths of the retail price, so even quite big changes in the price of crude have a more muted effect on pump prices than in the past.
 
+> [!abstract]- 长难句分析
+> **原句**：In Europe, taxes account for up to four-fifths of the retail price, so even quite big changes in the price of crude have a more muted effect on pump prices than in the past.
+>
+> **主干提取**：
+> - **分句 1**：
+>   - **S**（主语）：taxes
+>   - **V**（谓语）：account for
+>   - **O**（宾语）：up to four-fifths of the retail price
+> - **分句 2**（由 so 引导的推论性结果分句）：
+>   - **S**（主语）：(even quite big) changes (in the price of crude)
+>   - **V**（谓语）：have
+>   - **O**（宾语）：a more muted effect (on pump prices)
+> - **连词**：so（表推论/结果，相当于 therefore）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | In Europe | 分句 1 整句（地点状语） |
+> | 介词短语 | up to | four-fifths（程度/范围，意为"高达/最多"） |
+> | 介词短语 | of the retail price | four-fifths（后置定语） |
+> | 副词 | even | quite big changes（让步/强化语气的副词） |
+> | 副词 | quite | big（程度副词，修饰形容词） |
+> | 形容词 | big | changes（前置定语） |
+> | 介词短语 | in the price of crude | changes（后置定语） |
+> | 形容词比较级 | more | muted（构成 more muted） |
+> | 介词短语 | on pump prices | effect（后置定语） |
+> | 介词短语 | in the past | 整句（比较状语，省略句） |
+>
+> **结构图解**：
+> ```
+> 复合并列句: [分句 1] + [so] + [分句 2]
+>   ├── 分句 1: [taxes] + [account for] + [up to four-fifths of the retail price]
+>   │     ├── 介短: (In Europe) → 地点状语
+>   │     ├── 介短: (up to ...) → 修饰宾语，表示"高达"
+>   │     └── 介短: (of the retail price) → 修饰 four-fifths
+>   ├── 连词 so → 表推论/结果
+>   └── 分句 2: [(even quite big) changes (in the price of crude)] + [have] + [a more muted effect (on pump prices)]
+>         ├── 副词: even → 强化 quite
+>         ├── 副词: quite → 修饰 big
+>         ├── 形容词: big → 修饰 changes
+>         ├── 介短: (in the price of crude) → 后置定语，修饰 changes
+>         ├── 形容词比较级: more muted → 修饰 effect
+>         ├── 介短: (on pump prices) → 后置定语，修饰 effect
+>         └── 介短: (in the past) → 比较状语（than 后的省略结构）
+> ```
+>
+> **参考译文**：在欧洲，税收在零售价格中占到了五分之四之多，因此即使原油价格出现相当大的涨幅，对加油站零售价格的影响也比过去要小。
+>
+> **考点提示**：
+> 1. **并列复合句 + so 表推论**：`so` 在此用作并列连词，引出推论性结果，相当于 `therefore/that is why`。考研阅读中常见 "so 引导推论分句" 的结构，注意 so 后通常是完整的陈述句，而非 that 从句。
+> 2. **account for 短语**：`account for` = "占…比例/比重、对…作出解释"，是及物性短语动词。常见结构 `X accounts for Y% of Z` = "X 在 Z 中占 Y%"。本文上一句出现的 `account for up to four-fifths` 即此用法。
+> 3. **up to 短语**：`up to four-fifths` = "高达五分之四/最多五分之四"，强调数量之多。`up to` 还可表示"达到（某标准/上限）/胜任"。
+> 4. **分数表达**：`four-fifths` 是分数，分子大于 1 时分母须用复数形式（如 three-fourths, two-thirds）。三分之一为 `one-third`（特殊拼写），其余按 `基数 + 序数复数` 规则变化。
+> 5. **even 的强化功能**：`even quite big changes` 中 `even` 强化 `quite`，意为"即使相当大的变化也…"，表达让步/退一步的含义，呼应前文"即使有变化，影响也有限"的让步逻辑。
+> 6. **比较状语从句省略**：`than in the past` = `than (they had a more muted effect) in the past`，省略了与主句相同的成分。考研阅读和翻译中的高频省略形式，识别时需根据上下文补全被省略部分。
+> 7. **have an effect on 搭配**：`have an effect on...` = "对…产生影响"，effect 前可加形容词修饰：a great/marked/slight/muted effect。`muted` = "缓和的、不明显的"（= less intense / subdued）。
+> 8. **高频搭配与词汇**：
+>    - `retail price` 零售价（与 `wholesale price` 批发价相对）
+>    - `crude (oil)` 原油（形容词作名词，crude = raw, unrefined）
+>    - `pump prices` 加油站零售价（pump = 加油泵；注意用复数 prices）
+>    - `in the past` 在过去（与 now, in the future, in the present 对应）
+
 ⑴Rich economies are also less dependent on oil than they were, and so less sensitive to swings in the oil price. ⑵Energy conservation, a shift to other fuels and a decline in the importance of heavy, energy-intensive industries have reduced oil consumption. ⑶Software, consultancy and mobile telephones use far less oil than steel or car production. ⑷For each dollar of GDP (in constant prices) rich economies now use nearly 50% less oil than in 1973. ⑸The OECD estimates in its latest Economic Outlook that, if oil prices averaged $22 a barrel for a full year, compared with $13 in 1998, this would increase the oil import bill in rich economies by only 0.25-0.5% of GDP. ⑹That is less than one-quarter of the income loss in 1974 or 1980. ⑺On the other hand, oil-importing emerging economies—to which heavy industry has shifted—have become more energy-intensive, and so could be more seriously squeezed.
 
 ⑴One more reason not to lose sleep over the rise in oil prices is that, unlike the rises in the 1970s, it has not occurred against the background of general commodity-price inflation and global excess demand. ⑵A sizable portion of the world is only just emerging from economic decline. ⑶The Economist's commodity price index is broadly unchanging from a year ago. ⑷In 1973 commodity prices jumped by 70%, and in 1979 by almost 30%.
