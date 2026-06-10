@@ -116,7 +116,52 @@ Although it ruled that there is no **constitutional** right to physician-assiste
 
 **Paragraph 3**
 
-Doctors have used that principle in recent years to justify using high doses of morphine to control terminally ill patients' pain, even though increasing dosages will eventually kill the patient.
+Doctors have used that principle in recent years to justify using high doses of morphine to control **terminally** ill patients' pain, even though increasing dosages will eventually kill the patient.
+
+> [!abstract]- 长难句分析
+> **原句**：Doctors have used that principle in recent years to justify using high doses of morphine to control terminally ill patients' pain, even though increasing dosages will eventually kill the patient.
+>
+> **主干提取**：
+>
+> - **S（主语）**：Doctors
+> - **V（谓语）**：have used
+> - **O（宾语）**：that principle
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | in recent years | have used（时间状语） |
+> | 不定式短语 | to justify | have used（目的状语） |
+> | 动名词短语 | using high doses of morphine to control terminally ill patients' pain | justify（作宾语） |
+> | 介词短语 | of morphine | doses（后置定语） |
+> | 合成名词 | terminally ill patients' | pain（所有格修饰） |
+> | 不定式短语 | to control terminally ill patients' pain | using（目的状语，说明用药目的） |
+> | 让步状语从句 | even though | 主句整体（置于句末，表示让步转折） |
+>
+> **结构图解**：
+> ```
+> 主句: Doctors + have used + that principle
+>   ├── 状语: in recent years（时间状语）
+>   ├── 状语: to justify using high doses of morphine to control terminally ill patients' pain（目的状语）
+>   │     └── 动名词: using high doses of morphine to control terminally ill patients' pain → 作 justify 宾语
+>   │           ├── 介短: of morphine → 修饰 doses
+>   │           └── 状语: to control terminally ill patients' pain → 目的状语
+>   └── 状从: even though increasing dosages will eventually kill the patient
+>         ├── 主语: increasing dosages
+>         ├── 谓语: will kill
+>         ├── 宾语: the patient
+>         └── 状语: eventually
+> ```
+>
+> **参考译文**：近年来，医生们一直援引这一原则，来为自己使用大剂量吗啡以控制绝症患者疼痛的做法进行辩护，尽管持续加大剂量最终会导致患者死亡。
+>
+> **考点提示**：
+>
+> - **多重不定式与动名词的链式结构**：本句含 3 层非谓语动词——`to justify`（不定式作目的状语）→ `using...`（动名词作 justify 宾语）→ `to control...`（不定式作 using 目的状语）。需注意 `justify doing sth` 是固定搭配，后必须接动名词而非不定式。
+> - **现在完成时 `have used`**：表示从过去某时持续到现在的动作或状态，强调动作对现在的影响（医生们至今仍在使用该原则辩护）。
+> - **even though 让步状从后置**：置于句末，与主句形成"事实—让步"逻辑：主句承认行为存在，从句承认其代价。注意 even though 引导的让步语气比 although 更强。
+> - **逻辑主语判断**：`using` 的逻辑主语是 doctors（doctors use morphine...）；`to control` 的逻辑主语也是 doctors；`increasing` 的逻辑主语是 dosages（dosages increase）。
 
 **Paragraph 4**
 
