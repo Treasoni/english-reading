@@ -59,7 +59,7 @@ The Supreme Court's decisions on physician-assisted suicide carry important **im
 
 **Paragraph 2**
 
-Although it ruled that there is no **constitutional** right to physician-assisted suicide, the Court in effect supported the medical principle of "double effect," a centuries-old moral principle holding that an action having two effects—a good one that is intended and a harmful one that is foreseen—is permissible if the actor intends only the good effect.
+Although it ruled that there is no **constitutional** right to physician-assisted suicide, the Court in effect supported the medical principle of "double effect," a centuries-old moral principle holding that an action having two effects—a good one that is intended and a harmful one that is foreseen—is **permissible** if the actor intends only the good effect.
 
 **Paragraph 3**
 
