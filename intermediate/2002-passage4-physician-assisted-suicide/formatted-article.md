@@ -1,18 +1,17 @@
 ---
-title: "2002 Passage 4 — Physician-Assisted Suicide"
+title: 2002 Passage 4 — Physician-Assisted Suicide
 type: article
-topic: "2002-passage4-physician-assisted-suicide"
+topic: 2002-passage4-physician-assisted-suicide
 tags:
   - english-reading
   - formatted-article
-  - 2002
 created: 2026-06-10
 updated: 2026-06-10
 sources:
-  - "考研英语真题 2002 Passage 4"
+  - 考研英语真题 2002 Passage 4
 ---
 
-# 2002 Passage 4 — Physician-Assisted Suicide
+ # 2002 Passage 4 — Physician-Assisted Suicide
 
 
 ## 文章原文
@@ -20,6 +19,43 @@ sources:
 **Paragraph 1**
 
 The Supreme Court's decisions on physician-assisted suicide carry important **implications** for how medicine seeks to relieve dying patients of pain and suffering.
+
+> [!abstract]- 长难句分析
+> **原句**：The Supreme Court's decisions on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering.
+>
+> **主干提取**：
+>
+> - **S（主语）**：The Supreme Court's decisions
+> - **V（谓语）**：carry
+> - **O（宾语）**：important implications
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介词短语 | on | decisions |
+> | 介词+宾语从句 | for + how | implications（说明 implications 的具体内容） |
+> | 不定式短语 | to relieve | seeks（作宾语） |
+> | 介词短语 | of | relieve（构成 relieve sb of sth 固定搭配） |
+>
+> **结构图解**：
+> ```
+> 主句: The Supreme Court's decisions + carry + important implications
+>   ├── 介短: (on physician-assisted suicide) → 修饰 decisions
+>   └── 介短: (for + 名从) → 修饰 implications
+>       └── 名从: how medicine seeks to relieve dying patients of pain and suffering
+>           └── 非谓语: (to relieve dying patients of pain and suffering) → 宾语
+>               └── 介短: (of pain and suffering) → 构成 relieve sb of sth 搭配
+> ```
+>
+> **参考译文**：最高法院就医生协助自杀问题作出的裁决，对医学界如何寻求减轻垂死病人痛苦的方式具有重要意义。
+>
+> **考点提示**：
+>
+> - **介词 + 宾语从句**：`for` 后接 `how` 引导的宾语从句，说明 implication 的具体内容。识别此类结构时，需注意介词的真正宾语是整个名词性从句，而非某个名词。
+> - **复合形容词**：`physician-assisted` 为"名词 + 过去分词"构成的复合形容词，作前置定语修饰 `suicide`；此类复合形容词在考研阅读中频繁出现。
+> - **固定搭配 `relieve sb of sth`**：意为"解除/减轻某人的某事"，`of pain and suffering` 是介词补足成分，不可省略或替换。
+> - **不定式作宾语**：`seek to do sth` 意为"试图/寻求做某事"；`seek` 后必须接带 `to` 的不定式，区别于 `seek sth`（后接名词）。
 
 **Paragraph 2**
 
