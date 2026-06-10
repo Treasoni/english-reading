@@ -61,6 +61,59 @@ The Supreme Court's decisions on physician-assisted suicide carry important **im
 
 Although it ruled that there is no **constitutional** right to physician-assisted suicide, the Court in effect supported the medical principle of "double effect," a centuries-old moral principle holding that an action having two effects—a good one that is intended and a harmful one that is foreseen—is **permissible** if the actor intends only the good effect.
 
+> [!abstract]- 长难句分析
+> **原句**：Although it ruled that there is no constitutional right to physician-assisted suicide, the Court in effect supported the medical principle of "double effect," a centuries-old moral principle holding that an action having two effects—a good one that is intended and a harmful one that is foreseen—is permissible if the actor intends only the good effect.
+>
+> **主干提取**：
+>
+> - **S（主语）**：the Court
+> - **V（谓语）**：supported
+> - **O（宾语）**：the medical principle of "double effect"
+> - **A（状语）**：in effect
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 让步状语从句 | Although | 主句整体（与主句构成"让步—转折"逻辑） |
+> | 宾语从句 | that | ruled（说明裁定内容） |
+> | 同位语 | a centuries-old moral principle | the medical principle of "double effect" |
+> | 现在分词短语 | holding that | the principle（后置定语，引出该原则的主张） |
+> | 宾语从句 | that | holding（说明原则的具体内容） |
+> | 现在分词短语 | having two effects | an action（后置定语） |
+> | 同位语（破折号） | — | two effects（解释两种效果的内容） |
+> | 定语从句 | that is intended | a good one |
+> | 定语从句 | that is foreseen | a harmful one |
+> | 条件状语从句 | if | is permissible（主句的真实条件） |
+>
+> **结构图解**：
+> ```
+> 主句: the Court + supported + the medical principle of "double effect"
+>   ├── 状从: Although it ruled that there is no constitutional right to physician-assisted suicide
+>   │     └── 宾从: that there is no constitutional right... → 宾语
+>   ├── 状语: in effect
+>   └── 同位语 + 后置定语: a centuries-old moral principle holding that...
+>       └── 宾从: that an action having two effects—is permissible if the actor intends only the good effect
+>           ├── 主语: an action having two effects
+>           │     └── 非谓语: having two effects → 后置定语修饰 action
+>           │           └── 同位语(破折号): a good one that is intended and a harmful one that is foreseen
+>           │                 ├── 定从: that is intended → 修饰 a good one
+>           │                 └── 定从: that is foreseen → 修饰 a harmful one
+>           ├── 系动词: is
+>           ├── 表语: permissible
+>           └── 状从: if the actor intends only the good effect
+> ```
+>
+> **参考译文**：尽管最高法院裁定，宪法并不赋予公民医生协助自杀的权利，但实际上法院支持了医学上的"双重效果"原则——这是一项已沿袭数个世纪的道德原则，它主张：当一项行为同时产生两种效果——一种是有意追求的善果，另一种是可预见的恶果——只要行为者只意图追求善果，该行为即为许可。
+>
+> **考点提示**：
+>
+> - **Although 让步状从置于句首**：Although 引导让步状从位于句首，主句前用逗号分隔；it 指代主句主语 the Court，避免重复。
+> - **多重从句嵌套**：本句包含 4 层从句（宾从 → 宾从 → 定从 × 2 → 条件状从），是考研阅读长难句典型结构。识别主句主干（the Court supported the principle）是解题关键。
+> - **同位语 + 后置定语远距修饰**：`a centuries-old moral principle holding that...` 中，principle 的同位语被 holding that 长宾从隔开，构成"远距修饰"，需借助就近原则与语义判断其修饰对象。
+> - **双破折号插入同位语**：双破折号 `—...—` 用于对 two effects 作具体解释，是考研阅读中常见的标点考点，破折号内容可跳过不看而不影响主干理解。
+> - **逻辑主语判断**：holding 的逻辑主语是 principle（the principle holds that...）；having 的逻辑主语是 action（the action has two effects）。
+
 **Paragraph 3**
 
 Doctors have used that principle in recent years to justify using high doses of morphine to control terminally ill patients' pain, even though increasing dosages will eventually kill the patient.
