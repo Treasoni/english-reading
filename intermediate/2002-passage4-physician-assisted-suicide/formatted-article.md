@@ -165,7 +165,63 @@ Doctors have used that principle in recent years to justify using high doses of 
 
 **Paragraph 4**
 
-Nancy Dubler, director of Montefiore Medical Center, contends that the principle will shield doctors who "until now have very, very strongly insisted that they could not give patients sufficient mediation to control their pain if that might hasten death."
+Nancy Dubler, director of Montefiore Medical Center, contends that the principle will **shield** doctors who "until now have very, very strongly insisted that they could not give patients sufficient mediation to control their pain if that might hasten death."
+
+> [!abstract]- 长难句分析
+> **原句**：Nancy Dubler, director of Montefiore Medical Center, contends that the principle will shield doctors who "until now have very, very strongly insisted that they could not give patients sufficient mediation to control their pain if that might hasten death."
+>
+> **主干提取**：
+>
+> - **S（主语）**：Nancy Dubler
+> - **V（谓语）**：contends
+> - **O（宾语）**：that 引导的宾语从句
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 同位语 | director of Montefiore Medical Center | Nancy Dubler |
+> | 宾语从句 | that | contends（说明主张的内容） |
+> | 定语从句 | who | doctors（限定"哪些医生"） |
+> | 宾语从句 | that | insisted（说明坚持的内容） |
+> | 条件状语从句 | if | insisted 从句（虚拟条件） |
+> | 介词短语 | of Montefiore Medical Center | director（同位语内介短） |
+> | 介词短语 | to control their pain | give（目的状语） |
+>
+> **结构图解**：
+> ```
+> 主句: Nancy Dubler + contends + (that 从句)
+>   ├── 同位语: director of Montefiore Medical Center → 修饰 Nancy Dubler
+>   └── 宾从: that the principle will shield doctors who ...
+>       ├── 主语: the principle
+>       ├── 谓语: will shield
+>       ├── 宾语: doctors
+>       └── 定从: who "until now have very, very strongly insisted that ..."
+>           ├── 状语: until now
+>           ├── 状语: very, very strongly
+>           ├── 主语: they (= doctors)
+>           ├── 谓语: have insisted
+>           └── 宾从: that they could not give patients sufficient mediation to control their pain if that might hasten death
+>               ├── 主语: they
+>               ├── 谓语: could not give
+>               ├── 双宾语: patients (间接) + sufficient mediation (直接)
+>               ├── 状语: to control their pain (目的状语)
+>               └── 条件状从: if that might hasten death
+>                   ├── 主语: that (= giving patients sufficient mediation)
+>                   ├── 谓语: might hasten
+>                   └── 宾语: death
+> ```
+>
+> **参考译文**：蒙特菲奥里医疗中心主任南希·杜布勒主张，该原则将保护那些"直到现在还一直非常、非常强烈地坚持认为自己不能给病人使用足够药物来控制疼痛——如果这样做可能会加速病人死亡的话"的医生。
+>
+> **考点提示**：
+>
+> - **多重从句嵌套**：本句含 3 层从句（宾从 that → 定从 who → 宾从 that + 条件状从 if），是考研阅读长难句典型结构。识别主句主干（Nancy Dubler contends that...）是解题关键。
+> - **同位语位置**：`director of Montefiore Medical Center` 位于主语与谓语之间作同位语，补充说明 Nancy Dubler 的身份，不影响主谓结构。
+> - **定语从句的"插入语式"分隔**：`who` 定语从句较长，且内部嵌套长宾从和条件状从，构成远距修饰，可借助"前 1 后 N"判断 who 指代 doctors。
+> - **双宾语结构 `give sb sth`**：`give patients sufficient mediation` 中 patients 是间接宾语、sufficient mediation 是直接宾语；本句未采用 `give sth to sb` 介词变体。
+> - **`insist that` 用法辨析**：当 insist 表示"坚持认为/坚持说"（陈述事实）时，that 从句用陈述语气（could not give）；当表示"坚决要求"（请求命令）时，that 从句用虚拟语气（should + 动词原形）。本句属前者。
+> - **条件状从 `if that might hasten death`**：that 指代前文"给药"行为，构成"事实—假设"逻辑；might 表可能性。
 
 **Paragraph 5**
 
