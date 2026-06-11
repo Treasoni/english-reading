@@ -571,7 +571,7 @@ He says medical licensing boards "must make it clear that painful deaths are **p
 
 **59.** Which of the following best defines the word "aggressive" (Line 3, Paragraph 7)?
 
-- [A] Bold
+- [A] **Bold**
 - [B] Harmful
 - [C] Careless
 - [D] Desperate
