@@ -333,7 +333,7 @@ On another level, many in the medical community acknowledge that the assisted-su
 
 **Paragraph 7**
 
-Just three weeks before the Court's ruling on physician-assisted suicide, the National Academy of Science (NAS) released a two-volume report, *Approaching Death: Improving Care at the End of Life*. It identifies the undertreatment of pain and the aggressive use of "ineffectual and forced medical procedures that may prolong and even dishonor the period of dying" as the twin problems of end-of-life care.
+Just three weeks before the Court's ruling on physician-assisted suicide, the National Academy of Science (NAS) released a two-volume report, *Approaching Death: Improving Care at the End of Life*. It identifies the undertreatment of pain and the aggressive use of "ineffectual and forced medical procedures that may prolong and even dishonor the period of dying" as the **twin** problems of end-of-life care.
 
 **Paragraph 8**
 
