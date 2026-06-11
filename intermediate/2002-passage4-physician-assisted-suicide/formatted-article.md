@@ -391,7 +391,7 @@ The profession is taking steps to require young doctors to train in hospices, to
 
 **Paragraph 9**
 
-Annas says lawyers can play a key role in insisting that these well-meaning medical initiatives translate into better care. "Large numbers of physicians seem unconcerned with the pain their patients are needlessly and predictably suffering," to the extent that it constitutes "systematic patient abuse." He says medical licensing boards "must make it clear that painful deaths are presumptively ones that are incompetently managed and should result in license suspension."
+Annas says **lawyers** can play a key role in insisting that these well-meaning medical initiatives translate into better care. "Large numbers of physicians seem unconcerned with the pain their patients are needlessly and predictably suffering," to the extent that it constitutes "systematic patient abuse." He says medical licensing boards "must make it clear that painful deaths are presumptively ones that are incompetently managed and should result in license suspension."
 
 ## 阅读理解题目
 
