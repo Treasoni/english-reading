@@ -436,7 +436,7 @@ Annas says **lawyers** can play a key role in insisting that these well-meaning 
 > - **`translate into` 固定搭配**：意为"转化为/变成"，其中 into 表示"转换的结果"，区别于 translate...from...（从...翻译）。此搭配在考研写作和翻译中均高频出现。
 > - **复合形容词 `well-meaning`**："well-" 前缀 + 现在分词构成，意为"善意的/好心的"。此类复合形容词在考研阅读中常见（如 well-known、well-educated、well-informed），无需连字符也常被识别为形容词短语，作前置定语修饰名词。
 
-"Large numbers of physicians seem unconcerned with the pain their patients are needlessly and predictably suffering," to the extent that it constitutes "systematic patient abuse."
+"Large numbers of physicians seem unconcerned with the pain their patients are **needlessly** and **predictably** suffering," to the extent that it constitutes "systematic patient abuse."
 
 > [!abstract]- 长难句分析
 > **原句**："Large numbers of physicians seem unconcerned with the pain their patients are needlessly and predictably suffering," to the extent that it constitutes "systematic patient abuse."
