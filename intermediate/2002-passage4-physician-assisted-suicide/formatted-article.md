@@ -278,7 +278,7 @@ George Annas, chair of the health law department at Boston University, maintains
 
 **Paragraph 6**
 
-On another level, many in the medical community acknowledge that the assisted-suicide debate has been fueled in part by the despair of patients for whom modern medicine has prolonged the physical agony of dying.
+On another level, many in the medical community acknowledge that the assisted-suicide debate has been fueled in part by the despair of patients for whom modern medicine has prolonged the **physical** agony of dying.
 
 **Paragraph 7**
 
