@@ -225,7 +225,7 @@ Nancy Dubler, director of Montefiore Medical Center, contends that the principle
 
 **Paragraph 5**
 
-George Annas, chair of the health law department at Boston University, maintains that, as long as a doctor prescribes a drug for a legitimate medical purpose, the doctor has done nothing illegal even if the patient uses the drug to hasten death. "It's like surgery," he says. "We don't call those deaths homicides because the doctors didn't intend to kill their patients, although they risked their death. If you're a physician, you can risk your patient's suicide as long as you don't intend their suicide."
+George Annas, chair of the health law department at Boston University, maintains that, as long as a doctor **prescribes** a drug for a legitimate medical purpose, the doctor has done nothing illegal even if the patient uses the drug to hasten death. "It's like surgery," he says. "We don't call those deaths homicides because the doctors didn't intend to kill their patients, although they risked their death. If you're a physician, you can risk your patient's suicide as long as you don't intend their suicide."
 
 **Paragraph 6**
 
