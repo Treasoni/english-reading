@@ -486,6 +486,66 @@ Annas says **lawyers** can play a key role in insisting that these well-meaning 
 
 He says medical licensing boards "must make it clear that painful deaths are **presumptively** ones that are **incompetently** managed and should result in license **suspension**."
 
+> [!abstract]- 长难句分析
+> **原句**：He says medical licensing boards "must make it clear that painful deaths are presumptively ones that are incompetently managed and should result in license suspension."
+>
+> **主干提取**：
+>
+> - **S（主语）**：He
+> - **V（谓语）**：says
+> - **O（直接引语）**：medical licensing boards "must make it clear that..."
+> - **引语主语**：medical licensing boards
+> - **引语谓语**：must make
+> - **形式宾语**：it
+> - **宾语补足语**：clear
+> - **真正宾语（that 从句）主语**：painful deaths
+> - **真正宾语系动词**：are
+> - **真正宾语表语**：presumptively ones
+> - **并列谓语**：should result in license suspension
+> - **定从主语**：that (= ones)
+> - **定从系动词**：are
+> - **定从表语（过去分词）**：managed
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 间接引语标记 | "..."（首尾） | 引出 Annas 的原话 |
+> | 形式宾语 | it | make 的形式宾语，真正宾语是 that 从句 |
+> | 宾语补足语 | clear | make it clear（"使...清楚"） |
+> | 宾语从句 | that | clear（真正宾语，说明"明确"的内容） |
+> | 派生副词 | presumptively | ones（"推定地"，词根 presume + -tive + -ly） |
+> | 定语从句 | that are incompetently managed | ones（指代 deaths，修饰是哪类 ones） |
+> | 状语 | incompetently | are managed（"管理不当地"） |
+> | 被动结构 | are managed | ones（被动语态，隐含主语是医疗人员） |
+> | 并列连词 | and | 连接 are ones 和 should result 两个并列谓语 |
+> | 介词短语 | in license suspension | result（结果状语，"导致..."） |
+> | 情态动词 | must / should | 引语中分别表强烈要求和规定建议 |
+>
+> **结构图解**：
+> ```
+> 主句: He + says + 直接引语
+>   └── 直接引语: medical licensing boards + must make + it + clear [+ that 从句]
+>         ├── 形式宾语: it + 宾补 clear（"使...明确"）
+>         └── 真正宾语(宾从): that painful deaths + are + presumptively ones [定从] and should result in license suspension
+>               ├── 系表: are + presumptively ones
+>               │     └── 定从: that (= ones) + are + (incompetently) managed（被动）
+>               │           └── 状语: incompetently → 修饰 managed
+>               └── 并列谓语: and should result [in license suspension]
+>                     └── 介短: in license suspension → 修饰 result（结果状语）
+> ```
+>
+> **参考译文**：他说，医疗执照委员会"必须明确指出：病人的痛苦死亡可推定为医疗管理不当所致，并应据此吊销（相关医生的）执照。"
+>
+> **考点提示**：
+>
+> - **`make it clear + that 从句` 复合宾语结构**：make + it（形式宾语）+ clear（宾语补足语）+ that 从句（真正宾语）。这是考研高频固定结构，it 是形式宾语无实义，真正宾语是后接的 that 从句（或其他成分如 to do / wh- 从句）。翻译时应还原为"使...明确/清楚..."，避免误译形式宾语 it。
+> - **`presumptively` 派生词识别**：presume（v. 推定/假设）+ -tive（形容词后缀）+ -ly（副词后缀）→ presumptively（adv. 推定地）。考研阅读中常考派生词识别，需根据词根词缀判断词性词义。此处修饰表语 ones，表示"可推定为某种情况"，将 deaths 与"管理不当"建立因果推定关系。
+> - **`ones` 指代 + 简化定语从句**：`ones` 指代前文复数名词 `painful deaths`，后接 `that are incompetently managed` 定语从句说明是哪类 ones。此结构是考研阅读中常考的"指代 + 简化定从"模式，识别 ones 指代对象是把握句意的关键——"ones"即"那些死亡案例"。
+> - **被动语态 `are managed`**：定从中 ones（即 deaths）作主语，managed 是过去分词作表语，构成被动结构（deaths are managed by physicians）。识别被动语态时需注意：主动 manage 意为"管理"，被动 managed 意为"被管理"，此处隐含主语是医疗人员，凸显"医生对死亡负有管理责任"。
+> - **不对称并列谓语 `are...and should result`**：`painful deaths` 同时作两个并列谓语（are 和 should result）的主语，构成"主语 + be + 表语 + and + 谓语 + 介短"的不对称并列结构。识别此类并列需注意：are ones 是系表结构，should result in...是动宾结构，两者在语法功能上并列但语义上递进——从"定性"到"处罚"。
+> - **`should result in` 规定建议语气**：在"医疗执照委员会必须明确指出..."的建议语境中，should result in 表"应当导致"（含建议/规定意味），区别于陈述事实的 result in。情态动词 should 在此与 must 呼应，表达强烈的规定要求，是 Annas 主张的立法语气。
+
 ## 阅读理解题目
 
 **56.** From the first three paragraphs, we learn that
