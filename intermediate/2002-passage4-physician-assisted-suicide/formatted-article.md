@@ -391,7 +391,7 @@ The profession is taking steps to require young doctors to train in hospices, to
 
 **Paragraph 9**
 
-Annas says **lawyers** can play a key role in insisting that these well-meaning medical initiatives translate into better care.
+Annas says **lawyers** can play a key role in insisting that these well-meaning medical **initiatives** translate into better care.
 
 > [!abstract]- 长难句分析
 > **原句**：Annas says lawyers can play a key role in insisting that these well-meaning medical initiatives translate into better care.
@@ -436,7 +436,55 @@ Annas says **lawyers** can play a key role in insisting that these well-meaning 
 > - **`translate into` 固定搭配**：意为"转化为/变成"，其中 into 表示"转换的结果"，区别于 translate...from...（从...翻译）。此搭配在考研写作和翻译中均高频出现。
 > - **复合形容词 `well-meaning`**："well-" 前缀 + 现在分词构成，意为"善意的/好心的"。此类复合形容词在考研阅读中常见（如 well-known、well-educated、well-informed），无需连字符也常被识别为形容词短语，作前置定语修饰名词。
 
-"Large numbers of physicians seem unconcerned with the pain their patients are needlessly and predictably suffering," to the extent that it constitutes "systematic patient abuse." He says medical licensing boards "must make it clear that painful deaths are presumptively ones that are incompetently managed and should result in license suspension."
+"Large numbers of physicians seem unconcerned with the pain their patients are needlessly and predictably suffering," to the extent that it constitutes "systematic patient abuse."
+
+> [!abstract]- 长难句分析
+> **原句**："Large numbers of physicians seem unconcerned with the pain their patients are needlessly and predictably suffering," to the extent that it constitutes "systematic patient abuse."
+>
+> **主干提取**：
+>
+> - **S（主语）**：Large numbers of physicians（直接引语内）
+> - **V（谓语）**：seem（连系动词）
+> - **C（表语）**：unconcerned
+> - **定从主语**：their patients
+> - **定从谓语**：are suffering
+> - **结果状从主语**：it
+> - **结果状从谓语**：constitutes
+> - **结果状从宾语**："systematic patient abuse"
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | with the pain... | unconcerned（对...漠不关心） |
+> | 定语从句（省略 that） | their patients are...suffering | the pain（被前置到介词 with 后） |
+> | 复合状语 | needlessly and predictably | are suffering（方式/程度状语） |
+> | 介词短语 + 结果状从 | to the extent that... | 句子整体（结果/程度状语） |
+> | 介词短语 | of physicians | Large numbers |
+> | 间接引语标记 | "..."（首尾） | 引出 Annas 的原话 |
+>
+> **结构图解**：
+> ```
+> "直接引语: Large numbers [of physicians] + seem + unconcerned [with the pain 定从]"
+>   ├── 介短: of physicians → 修饰 numbers
+>   ├── 介短: with the pain [定从: their patients are (needlessly and predictably) suffering]
+>   │     └── 定从(省略 that): their patients + are suffering (the pain)
+>   │           └── 复合状语: needlessly and predictably → 修饰 are suffering
+>   └── 外加状语: to the extent that it constitutes "systematic patient abuse"
+>         └── 状从: it + constitutes + "systematic patient abuse"（结果状语）
+> ```
+>
+> **参考译文**："大量医生似乎对病人正在毫无必要且可预见地遭受着的痛苦漠不关心，" 以至于这已构成"系统性的病人虐待"。
+>
+> **考点提示**：
+>
+> - **seem + 形容词作复合谓语**：`seem` 是连系动词，后接形容词 `unconcerned` 构成"似乎/显得..."结构。考研阅读中 seem 经常后接形容词（unconcerned、likely、reluctant）或不定式（seem to do），是高频语法点。
+> - **介词宾语后省略 that 的定语从句**：`the pain their patients are...suffering` 中，the pain 后省略了关系代词 that，正常语序为 "the pain (that) their patients are suffering"。识别方法：the pain 在介词 with 后作宾语，但其后接完整的主谓结构（their patients are suffering），说明 pain 是被定从中前置的宾语。
+> - **`to the extent that...` 结果/程度状语**：意为"到...程度，以至于..."，引出状从说明主句情况所达到的严重程度。此结构在阅读理解中常用来表达作者的态度升级——从"漠不关心"升级到"系统性虐待"，是把握作者情感强度递进的关键。
+> - **引号内名词短语作宾语**：`constitute "systematic patient abuse"` 中引号包裹的名词短语作 constitutes 的宾语，构成"动词 + 引号概念"的评价结构，是作者引用并强化的表达方式——通过引号将前文描述定性为"虐待"。
+> - **复合状语 needlessly and predictably**：两个并列副词修饰 suffering，强调病人痛苦的双重特征——"毫无必要"（医生本可避免）与"可预见"（医生本应预见），凸显医生的失职，是作者批判态度的精确表达。
+
+He says medical licensing boards "must make it clear that painful deaths are presumptively ones that are incompetently managed and should result in license suspension."
 
 ## 阅读理解题目
 
