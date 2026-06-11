@@ -391,7 +391,52 @@ The profession is taking steps to require young doctors to train in hospices, to
 
 **Paragraph 9**
 
-Annas says **lawyers** can play a key role in insisting that these well-meaning medical initiatives translate into better care. "Large numbers of physicians seem unconcerned with the pain their patients are needlessly and predictably suffering," to the extent that it constitutes "systematic patient abuse." He says medical licensing boards "must make it clear that painful deaths are presumptively ones that are incompetently managed and should result in license suspension."
+Annas says **lawyers** can play a key role in insisting that these well-meaning medical initiatives translate into better care.
+
+> [!abstract]- 长难句分析
+> **原句**：Annas says lawyers can play a key role in insisting that these well-meaning medical initiatives translate into better care.
+>
+> **主干提取**：
+>
+> - **S（主语）**：Annas
+> - **V（谓语）**：says
+> - **O（宾语）**：lawyers can play a key role (in insisting that...)
+> - **宾从1主语**：lawyers
+> - **宾从1谓语**：can play
+> - **宾从1宾语**：a key role
+> - **宾从2主语**：these well-meaning medical initiatives
+> - **宾从2谓语**：translate
+> - **宾从2状语**：into better care
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语（方面状语） | in insisting that... | a key role（在...方面发挥作用） |
+> | 宾语从句 | that | insisting（说明坚持的内容） |
+> | 复合形容词 | well-meaning | medical initiatives（"well-" + 现在分词构成的复合定语） |
+> | 介词短语 | into better care | translate（结果状语，"转化为..."） |
+>
+> **结构图解**：
+> ```
+> 主句: Annas + says + 宾从1
+>   └── 宾从1: lawyers + can play + a key role [in insisting that...]
+>         ├── 介短(方面状语): in insisting that... → 修饰 role
+>         │     └── 宾从2: these well-meaning medical initiatives + translate + into better care
+>         │           ├── 复合定语: well-meaning → 修饰 initiatives
+>         │           └── 介短: into better care → 修饰 translate（结果状语）
+> ```
+>
+> **参考译文**：安纳斯说，律师在坚持要求这些善意的医疗举措转化为更优质的护理方面，可以发挥关键作用。
+>
+> **考点提示**：
+>
+> - **双层宾语从句嵌套**：`says` 后接宾从1（lawyers can play a key role...），宾从1 内介词 in 的宾语 insisting 后又接宾从2（these initiatives translate into...）。考研阅读中常考"介词 + 动名词 + that 从句"的链式结构，需逐层剥离找出主干。
+> - **`in doing sth` 作方面状语**：`in insisting that...` 说明"在哪个方面"发挥作用，与"in + 名词"作方面状语（如 in this respect）同源。识别方法：play a role + in doing 表明 role 的具体应用场景，中文可译为"在...方面发挥作用"。
+> - **`translate into` 固定搭配**：意为"转化为/变成"，其中 into 表示"转换的结果"，区别于 translate...from...（从...翻译）。此搭配在考研写作和翻译中均高频出现。
+> - **复合形容词 `well-meaning`**："well-" 前缀 + 现在分词构成，意为"善意的/好心的"。此类复合形容词在考研阅读中常见（如 well-known、well-educated、well-informed），无需连字符也常被识别为形容词短语，作前置定语修饰名词。
+
+"Large numbers of physicians seem unconcerned with the pain their patients are needlessly and predictably suffering," to the extent that it constitutes "systematic patient abuse." He says medical licensing boards "must make it clear that painful deaths are presumptively ones that are incompetently managed and should result in license suspension."
 
 ## 阅读理解题目
 
