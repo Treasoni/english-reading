@@ -225,7 +225,56 @@ Nancy Dubler, director of Montefiore Medical Center, contends that the principle
 
 **Paragraph 5**
 
-George Annas, chair of the health law department at Boston University, maintains that, as long as a doctor **prescribes** a drug for a legitimate medical purpose, the doctor has done nothing illegal even if the patient uses the drug to hasten death. "It's like surgery," he says. "We don't call those deaths homicides because the doctors didn't intend to kill their patients, although they risked their death. If you're a physician, you can risk your patient's suicide as long as you don't intend their suicide."
+George Annas, chair of the health law department at Boston University, maintains that, as long as a doctor **prescribes** a drug for a legitimate medical purpose, the doctor has done nothing illegal even if the patient uses the drug to hasten death.
+
+> [!abstract]- 长难句分析
+> **原句**：George Annas, chair of the health law department at Boston University, maintains that, as long as a doctor prescribes a drug for a legitimate medical purpose, the doctor has done nothing illegal even if the patient uses the drug to hasten death.
+>
+> **主干提取**：
+>
+> - **S（主语）**：George Annas
+> - **V（谓语）**：maintains
+> - **O（宾语）**：that 引导的宾语从句
+> - **宾从主语**：the doctor
+> - **宾从谓语**：has done
+> - **宾从宾语**：nothing illegal
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 同位语 | chair of the health law department at Boston University | George Annas（分隔主谓） |
+> | 介词短语 | of the health law department | chair |
+> | 介词短语 | at Boston University | department |
+> | 宾语从句 | that | maintains（说明主张内容） |
+> | 条件状语从句 | as long as | 宾从主句（"只要"，设立合法前提） |
+> | 介词短语 | for a legitimate medical purpose | prescribes（目的状语） |
+> | 让步状语从句 | even if | 宾从主句（"即使"，让步假设） |
+> | 不定式短语 | to hasten death | uses（目的状语） |
+>
+> **结构图解**：
+> ```
+> George Annas [同位语: chair of the health law department at Boston University] maintains + 宾从
+>   ├── 同位语: chair of the health law department at Boston University → 解释 George Annas 身份
+>   │     ├── 介短: of the health law department → 修饰 chair
+>   │     └── 介短: at Boston University → 修饰 department
+>   └── 宾从: the doctor + has done + nothing illegal
+>         ├── 条件状从: as long as a doctor prescribes a drug [for a legitimate medical purpose]
+>         │     └── 介短: for a legitimate medical purpose → 目的状语
+>         └── 让步状从: even if the patient uses the drug [to hasten death]
+>               └── 非谓语: to hasten death → 目的状语
+> ```
+>
+> **参考译文**：波士顿大学卫生法律系主任乔治·安纳斯坚持认为，只要医生是出于合法的医疗目的而开具某种药物，那么即便病人最终用此药来加速死亡，该医生也并未做出任何违法之事。
+>
+> **考点提示**：
+>
+> - **that 宾从嵌套双重状语从句**：`that` 引导的宾语从句内部同时包含 `as long as` 条件状语从句和 `even if` 让步状语从句，形成"条件—让步"双重逻辑结构。识别主句主干（George Annas maintains that...）与宾从主干（the doctor has done nothing illegal）是解题关键。
+> - **同位语插入分隔主谓**：`chair of the health law department at Boston University` 作为 George Annas 的同位语，插入主语与谓语之间，构成"主—同位语—谓"分隔结构，考研阅读中常见，读到长插入语时应先跳过去抓主谓。
+> - **as long as 与 even if 的逻辑对偶**：`as long as` 确立合法前提（出于合法医疗目的），`even if` 引出让步假设（即便导致死亡），两者共同支撑 Annas 的论点——医生意图合法则不构成违法。理解这一对偶结构对把握作者态度类题目至关重要。
+> - **介词短语与不定式作目的状语**：`for a legitimate medical purpose` 中 `for` 表示目的（"为了..."），修饰 `prescribes`；`to hasten death` 中 `to` 不定式作目的状语修饰 `uses`。两者构成"开药目的合法 / 用药目的违法"的对比，是 Annas 论点的核心张力。
+
+"It's like surgery," he says. "We don't call those deaths **homicides** because the doctors didn't intend to kill their patients, although they risked their death. If you're a physician, you can risk your patient's **suicide** as long as you don't intend their suicide."
 
 **Paragraph 6**
 
