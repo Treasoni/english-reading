@@ -280,6 +280,57 @@ George Annas, chair of the health law department at Boston University, maintains
 
 On another level, many in the medical community acknowledge that the assisted-suicide debate has been fueled in part by the despair of patients for whom modern medicine has prolonged the **physical** agony of dying.
 
+> [!abstract]- 长难句分析
+> **原句**：On another level, many in the medical community acknowledge that the assisted-suicide debate has been fueled in part by the despair of patients for whom modern medicine has prolonged the physical agony of dying.
+>
+> **主干提取**：
+>
+> - **S（主语）**：many (in the medical community)
+> - **V（谓语）**：acknowledge
+> - **O（宾语）**：that 引导的宾语从句
+> - **宾从主语**：the assisted-suicide debate
+> - **宾从谓语**：has been fueled
+> - **宾从状语**：in part
+> - **宾从施动者**：by the despair of patients
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 状语 | On another level | 主句整体（转换视角，引出另一层面） |
+> | 介词短语 | in the medical community | many（限定"哪些许多人"） |
+> | 宾语从句 | that | acknowledge（说明承认的内容） |
+> | 介词短语 | in part | has been fueled（程度状语，"部分地"） |
+> | 介词短语（被动施动者） | by the despair of patients | has been fueled（被动结构，引出"助燃"原因） |
+> | 介词短语 | of patients | the despair |
+> | 定语从句 | for whom | patients（whom 作 prolong 的间接宾语） |
+> | 介词短语 | of dying | the physical agony |
+>
+> **结构图解**：
+> ```
+> On another level, 主句: many [in the medical community] + acknowledge + 宾从
+>   ├── 状语: On another level → 主句整体（转换视角）
+>   ├── 介短: in the medical community → 修饰 many
+>   └── 宾从: the assisted-suicide debate + has been fueled [in part] [by the despair of patients]
+>         ├── 状语: in part → 程度状语
+>         ├── 介短(被动施动者): by the despair [of patients] → 引出原因
+>         │     └── 介短: of patients → 修饰 despair
+>         │           └── 定从: for whom modern medicine has prolonged the physical agony [of dying]
+>         │                 ├── 介短: of dying → 修饰 agony
+>         │                 ├── 主语: modern medicine
+>         │                 ├── 谓语: has prolonged
+>         │                 └── 宾语: the physical agony
+> ```
+>
+> **参考译文**：另一方面，医学界许多人士承认，有关协助自杀的争论之所以愈演愈烈，部分原因在于病人的绝望——对于这些病人，现代医学延长了他们临终时肉体上的痛苦。
+>
+> **考点提示**：
+>
+> - **介词 + 关系代词 `for whom` 定语从句**：`for whom` 修饰 `patients`，whom 在定从中作 has prolonged 的间接宾语（prolong the agony **for** the patients）。这是考研高频考点——"介词提前"结构，需还原为正常语序 "modern medicine has prolonged the physical agony of dying for the patients" 来理解。识别技巧：whom 指代前面最近的名词 patients，且与动词 prolong 构成"为某人延长某事"的语义搭配。
+> - **被动语态的"原因施动者"结构**：`has been fueled by the despair` 中 by 短语并非引出动作执行者，而是引出事件"助燃"的原因（辩论被病人的绝望所助燃），是英语中常见的"被动表原因"用法。识别此结构对把握文章因果逻辑至关重要——是"病人的绝望助燃了辩论"，而非"病人助燃了辩论"。
+> - **多重介词短语嵌套**：本句含 `in the medical community` / `in part` / `by the despair` / `of patients` / `of dying` 五层介短，层层修饰不同成分。阅读时需根据介词就近原则和语义判断其修饰对象，不可"望介生义"。
+> - **从句长距离嵌套**：`that` 宾语从句内部又嵌套 `for whom` 定语从句，定语从句内又嵌套 `of dying` 介短，形成三层修饰嵌套。识别主句主干（many acknowledge that...）与宾从主干（debate has been fueled by despair）是解题关键。
+
 **Paragraph 7**
 
 Just three weeks before the Court's ruling on physician-assisted suicide, the National Academy of Science (NAS) released a two-volume report, *Approaching Death: Improving Care at the End of Life*. It identifies the undertreatment of pain and the aggressive use of "ineffectual and forced medical procedures that may prolong and even dishonor the period of dying" as the twin problems of end-of-life care.
