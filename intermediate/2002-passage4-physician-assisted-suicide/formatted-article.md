@@ -484,7 +484,7 @@ Annas says **lawyers** can play a key role in insisting that these well-meaning 
 > - **引号内名词短语作宾语**：`constitute "systematic patient abuse"` 中引号包裹的名词短语作 constitutes 的宾语，构成"动词 + 引号概念"的评价结构，是作者引用并强化的表达方式——通过引号将前文描述定性为"虐待"。
 > - **复合状语 needlessly and predictably**：两个并列副词修饰 suffering，强调病人痛苦的双重特征——"毫无必要"（医生本可避免）与"可预见"（医生本应预见），凸显医生的失职，是作者批判态度的精确表达。
 
-He says medical licensing boards "must make it clear that painful deaths are presumptively ones that are incompetently managed and should result in license suspension."
+He says medical licensing boards "must make it clear that painful deaths are **presumptively** ones that are **incompetently** managed and should result in license suspension."
 
 ## 阅读理解题目
 
