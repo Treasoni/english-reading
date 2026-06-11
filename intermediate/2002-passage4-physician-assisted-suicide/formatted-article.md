@@ -335,6 +335,56 @@ On another level, many in the medical community acknowledge that the assisted-su
 
 Just three weeks before the Court's ruling on physician-assisted suicide, the National Academy of Science (NAS) released a two-volume report, *Approaching Death: Improving Care at the End of Life*. It identifies the undertreatment of pain and the aggressive use of "ineffectual and forced medical procedures that may prolong and even dishonor the period of dying" as the **twin** problems of end-of-life care.
 
+> [!abstract]- 长难句分析
+> **原句**：It identifies the undertreatment of pain and the aggressive use of "ineffectual and forced medical procedures that may prolong and even dishonor the period of dying" as the twin problems of end-of-life care.
+>
+> **主干提取**：
+>
+> - **S（主语）**：It（指代前句的 the NAS report）
+> - **V（谓语）**：identifies
+> - **O（宾语）**：the undertreatment of pain and the aggressive use of "ineffectual and forced medical procedures..."
+> - **C（宾语补足语）**：as the twin problems of end-of-life care
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | of pain | undertreatment |
+> | 并列连词 | and | 连接两个并列宾语（undertreatment...和 aggressive use...） |
+> | 介词短语 | of "ineffectual and forced..." | use |
+> | 并列定语 | ineffectual and forced | medical procedures |
+> | 定语从句 | that may prolong and even dishonor the period of dying | medical procedures |
+> | 并列谓语 | prolong and dishonor | that 从句的谓语 |
+> | 状语 | even | dishonor（加强语气，"甚至"） |
+> | 介词短语 | of dying | the period |
+> | 介词短语（宾语补足语） | as the twin problems of end-of-life care | identifies + O（认定...为...） |
+> | 介词短语 | of end-of-life care | problems |
+>
+> **结构图解**：
+> ```
+> 主句: It + identifies + 宾语 + as the twin problems of end-of-life care
+>   ├── 宾语: the undertreatment [of pain] and the aggressive use [of "ineffectual and forced medical procedures..."]
+>   │     ├── 介短: of pain → 修饰 undertreatment
+>   │     ├── 并列连词 and: 连接两个并列宾语
+>   │     └── 介短: of "ineffectual and forced medical procedures [定从...]" → 修饰 use
+>   │           ├── 并列定语: ineffectual and forced → 修饰 medical procedures
+>   │           └── 定从: that may prolong and even dishonor the period [of dying]
+>   │                 ├── 并列谓语: prolong and dishonor
+>   │                 ├── 状语: even
+>   │                 └── 介短: of dying → 修饰 period
+>   └── 宾补(as): as the twin problems [of end-of-life care]
+>         └── 介短: of end-of-life care → 修饰 problems
+> ```
+>
+> **参考译文**：报告将"对疼痛的治疗不足"以及"大胆采用那些可能延长甚至亵渎临终过程的'无效而强加的医疗手段'"认定为临终关怀所面临的两个孪生问题。
+>
+> **考点提示**：
+>
+> - **多重并列结构**：本句包含 3 层并列——① 宾语层 `undertreatment of pain AND aggressive use of...`；② 引语内并列定语 `ineffectual AND forced`；③ 定语从句内并列谓语 `prolong AND (even) dishonor`。识别并列结构对把握句子主干与并列项数量至关重要（如本题58题需明确"双胞胎问题"具体是哪两个）。
+> - **`identify...as...` 固定搭配**：identify + 宾语 + as + 宾补，意为"将...认定为..."。此结构是考研阅读高频考点，需注意 as 短语作宾语补足语而非状语，翻译时应体现"将 X 视为/认定为 Y"的对等关系。
+> - **It 指代前文**：It 指代前句主语 the NAS report（首次出现时已用全称 the National Academy of Science (NAS) 指明），是阅读理解中代词指代的高频考点——追溯 It 所指是把握文章衔接逻辑的关键，尤其在英译汉中需要还原指代对象。
+> - **定语从句修饰远距名词**：`that may prolong and even dishonor...` 修饰 `medical procedures`，被双引号内容 + 多个形容词（ineffectual and forced）分隔，是"远距修饰"模式。识别时需跳过引语内容直接抓住 procedures 是定从的先行词。
+
 **Paragraph 8**
 
 The profession is taking steps to require young doctors to train in hospices, to test knowledge of aggressive pain management therapies, to develop a Medicare billing code for hospital-based care, and to develop new standards for assessing and treating pain at the end of life.
