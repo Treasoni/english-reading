@@ -16,7 +16,7 @@ sources:
 
 ## Paragraph 1
 
-(1) Wild Bill Donovan would have loved the Internet. (2) The American **spymaster** who built the Office of Strategic Services in the World War II and later laid the roots for the CIA was fascinated with information. (3) Donovan believed in using whatever tools came to hand in the "great game" of espionage—spying as a "profession." (4) These days the Net, which has already re-made such everyday pastimes as buying books and sending mails, is reshaping Donovan's vocation as well.
+(1) Wild Bill Donovan would have loved the Internet. (2) The American **spymaster** who built the Office of Strategic Services in the World War II and later laid the roots for the CIA was **fascinated** with information. (3) Donovan believed in using whatever tools came to hand in the "great game" of espionage—spying as a "profession." (4) These days the Net, which has already re-made such everyday pastimes as buying books and sending mails, is reshaping Donovan's vocation as well.
 
 > [!abstract]- 长难句分析
 > **原句**：The American spymaster who built the Office of Strategic Services in the World War II and later laid the roots for the CIA was fascinated with information.
