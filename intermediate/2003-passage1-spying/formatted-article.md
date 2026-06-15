@@ -18,6 +18,43 @@ sources:
 
 (1) Wild Bill Donovan would have loved the Internet. (2) The American **spymaster** who built the Office of Strategic Services in the World War II and later laid the roots for the CIA was fascinated with information. (3) Donovan believed in using whatever tools came to hand in the "great game" of espionage—spying as a "profession." (4) These days the Net, which has already re-made such everyday pastimes as buying books and sending mails, is reshaping Donovan's vocation as well.
 
+> [!abstract]- 长难句分析
+> **原句**：The American spymaster who built the Office of Strategic Services in the World War II and later laid the roots for the CIA was fascinated with information.
+>
+> **主干提取**：
+>
+> - **S**（主语）：The American spymaster
+> - **V**（谓语）：was fascinated
+> - **C**（补语）：with information
+> - 主干简化：The American spymaster was fascinated with information.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 定语从句 | who | The American spymaster |
+> | 介词短语 | in the World War II | built（时间状语） |
+> | 介词短语 | for the CIA | laid the roots（对象状语） |
+>
+> **结构图解**：
+>
+> ```
+> 主句: The American spymaster + was fascinated + with information
+>   └── 定从: (who built ... and (later) laid the roots for the CIA) → 修饰 spymaster
+>         ├── 谓语1: built the Office of Strategic Services
+>         │     └── 介短: (in the World War II) → 时间状语
+>         └── 谓语2: laid the roots
+>               └── 介短: (for the CIA) → 对象状语
+> ```
+>
+> **参考译文**：这位在二战期间创建了战略情报局、并为中央情报局（的成立）奠定基础的美国间谍大师，对情报信息痴迷成癖。
+>
+> **考点提示**：
+>
+> 1. **定语从句中并列谓语的辨识**：`who built ... and (later) laid the roots ...` 中 `and` 连接两个并列谓语，均属于 `who` 引导的定语从句，修饰 `spymaster`。注意 `later` 插在 `and` 后，提示两个动作有先后顺序。
+> 2. **长定语从句的"头重脚轻"翻译处理**：中文通常先翻译较长的定语从句，再翻译主句。译文采用前置法："这位……的间谍大师"，避免欧化句式。
+> 3. **介词短语作状语与定语的区分**：`in the World War II` 修饰谓语 `built`（动作时间）；`for the CIA` 修饰 `laid the roots`（服务对象）。两处介短功能不同，需结合最近动词判断。
+
 (5) The last revolution isn't simply a matter of gentlemen reading other gentlemen's e-mail. (6) That kind of electronic spying has been going on for decades. (7) In the past three or four years, the World Wide Web has given birth to a whole industry of point-and-click spying. (8) The spooks call it "open-source intelligence," and as the Net grows, it is becoming increasingly influential. (9) In 1995 the CIA held a contest to see who could compile the most data about Burundi. (10) The winner, by a large margin, was a tiny Virginia company called Open-Source Solutions, whose clear advantage was its mastery of the electronic world.
 
 ## Paragraph 2
