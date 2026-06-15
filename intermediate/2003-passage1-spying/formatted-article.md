@@ -16,7 +16,7 @@ sources:
 
 ## Paragraph 1
 
-(1) Wild Bill Donovan would have loved the Internet. (2) The American **spymaster** who built the Office of Strategic Services in the World War II and later laid the roots for the CIA was **fascinated** with information. (3) Donovan believed in using whatever tools came to hand in the "great game" of espionage—spying as a "profession." (4) These days the Net, which has already re-made such everyday pastimes as buying books and sending mails, is reshaping Donovan's vocation as well.
+(1) Wild Bill Donovan would have loved the Internet. (2) The American **spymaster** who built the Office of Strategic Services in the World War II and later laid the roots for the CIA was **fascinated** with information. (3) Donovan believed in using whatever tools came to hand in the "great game" of **espionage**—spying as a "profession." (4) These days the Net, which has already re-made such everyday pastimes as buying books and sending mails, is reshaping Donovan's vocation as well.
 
 > [!abstract]- 长难句分析
 > **原句**：The American spymaster who built the Office of Strategic Services in the World War II and later laid the roots for the CIA was fascinated with information.
@@ -54,6 +54,51 @@ sources:
 > 1. **定语从句中并列谓语的辨识**：`who built ... and (later) laid the roots ...` 中 `and` 连接两个并列谓语，均属于 `who` 引导的定语从句，修饰 `spymaster`。注意 `later` 插在 `and` 后，提示两个动作有先后顺序。
 > 2. **长定语从句的"头重脚轻"翻译处理**：中文通常先翻译较长的定语从句，再翻译主句。译文采用前置法："这位……的间谍大师"，避免欧化句式。
 > 3. **介词短语作状语与定语的区分**：`in the World War II` 修饰谓语 `built`（动作时间）；`for the CIA` 修饰 `laid the roots`（服务对象）。两处介短功能不同，需结合最近动词判断。
+
+> [!abstract]- 长难句分析
+> **原句**：Donovan believed in using whatever tools came to hand in the "great game" of espionage—spying as a "profession."
+>
+> **主干提取**：
+>
+> - **S**（主语）：Donovan
+> - **V**（谓语）：believed
+> - **O**（介词宾语）：in using whatever tools came to hand in the "great game" of espionage
+> - 主干简化：Donovan believed in using tools.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介词短语 | in | believed（believe in doing 固定搭配） |
+> | 动名词 | using | 介词 in 的宾语 |
+> | 宾语从句 | whatever | using 的宾语（"任何……的事物"） |
+> | 介词短语 | in the "great game" of espionage | came to hand（场合状语） |
+> | 介词短语 | of espionage | the great game |
+> | 同位语 | — | espionage（破折号引出解释） |
+> | 介词短语 | as a "profession" | spying |
+>
+> **结构图解**：
+>
+> ```
+> 主句: Donovan + believed + in using ...
+>   └── 动名词短语: using whatever tools came to hand in the "great game" of espionage
+>         └── 宾从: (whatever tools came to hand in the "great game" of espionage) → using 的宾语
+>               ├── 主语: tools
+>               ├── 谓语: came to hand
+>               ├── 介短: (in the "great game" of espionage) → 修饰 came to hand
+>               │     └── 介短: (of espionage) → 修饰 the great game
+>               └── 同位语: —spying as a "profession" → 解释 espionage
+>                     └── 介短: (as a "profession") → 修饰 spying
+> ```
+>
+> **参考译文**：多诺万信奉在间谍活动的"大博弈"——把间谍当作一种"职业"——中使用任何手边能用的工具。
+>
+> **考点提示**：
+>
+> 1. **whatever 引导的宾语从句**：`whatever tools came to hand` 作 `using` 的宾语，whatever 兼具"任何……的事物"和连词功能；常考名词性从句的辨识。
+> 2. **believe in doing 固定搭配**：`believed in using ...` 中 `in` 是介词，后接动名词；不可改为 `believe to use`。同类还有 `insist on doing`、`persist in doing` 等。
+> 3. **破折号引出同位语**：`—spying as a "profession"` 是对 `espionage` 的补充解释，相当于 "espionage, that is (to say), spying as a 'profession'"；破折号在考研阅读中常考标点辨义。
+> 4. **双引号的语用功能**：`"great game"` 和 `"profession"` 加引号，暗示作者对"间谍"职业化持保留/讽刺态度，属引述式强调（非他人原话），常考修辞功能。
 
 (5) The last revolution isn't simply a matter of gentlemen reading other gentlemen's e-mail. (6) That kind of electronic spying has been going on for decades. (7) In the past three or four years, the World Wide Web has given birth to a whole industry of point-and-click spying. (8) The spooks call it "open-source intelligence," and as the Net grows, it is becoming increasingly influential. (9) In 1995 the CIA held a contest to see who could compile the most data about Burundi. (10) The winner, by a large margin, was a tiny Virginia company called Open-Source Solutions, whose clear advantage was its mastery of the electronic world.
 
