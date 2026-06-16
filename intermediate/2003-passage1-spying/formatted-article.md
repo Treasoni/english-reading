@@ -7,7 +7,7 @@ tags:
   - formatted-article
   - 2003
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-16
 sources:
   - 考研英语真题 2003 Text 1
 ---
@@ -101,6 +101,41 @@ sources:
 > 4. **双引号的语用功能**：`"great game"` 和 `"profession"` 加引号，暗示作者对"间谍"职业化持保留/讽刺态度，属引述式强调（非他人原话），常考修辞功能。
 
 (5) The last revolution isn't simply a **matter** of gentlemen reading other gentlemen's e-mail. (6) That kind of electronic spying has been going on for decades. (7) In the past three or four years, the World Wide Web has given birth to a whole industry of point-and-click spying. (8) The **spooks** call it "open-source intelligence," and as the Net grows, it is becoming increasingly influential. (9) In 1995 the CIA held a contest to see who could compile the most data about Burundi. (10) The winner, by a large margin, was a tiny Virginia company called Open-Source Solutions, whose clear advantage was its mastery of the electronic world.
+
+> [!abstract]- 长难句分析
+> **原句**：The winner, by a large margin, was a tiny Virginia company called Open-Source Solutions, whose clear advantage was its mastery of the electronic world.
+>
+> **主干提取**：
+> - S (主语)：The winner
+> - V (谓语)：was
+> - C (表语)：a tiny Virginia company
+>
+> 主干简化：The winner was a tiny Virginia company.
+>
+> **修饰成分**：
+> 
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | by | 修饰谓语 was（表示差距） |
+> | 非谓语（过去分词） | called | 修饰 company（后置定语） |
+> | 定语从句 | whose | 修饰 company |
+>
+> **结构图解**：
+> ```
+> 主句: [The winner] + [was] + [a tiny Virginia company]
+>   ├── 介短: (by a large margin) → 修饰谓语，表示"以较大优势"
+>   ├── 非谓语: (called Open-Source Solutions) → 修饰 company（后置定语）
+>   └── 定从: (whose clear advantage was its mastery of the electronic world)
+>              └── 介短: (of the electronic world) → 修饰 mastery
+> ```
+>
+> **参考译文**：胜出者是一家弗吉尼亚的小公司——开源解决方案公司，它以较大优势胜出，其明显优势在于对电子世界的精通。
+>
+> **考点提示**：
+> 1. **介词短语插入**：`by a large margin` 插入主谓之间，是考研翻译常考的"分隔结构"
+> 2. **过去分词作后置定语**：`called Open-Source Solutions` 相当于 `which was called...`，是考研阅读高频考点
+> 3. **关系代词 whose**：引导非限制性定语从句，`whose` = `the company's`，需识别先行词
+> 4. **名词所有格与 of 短语**：`mastery of` 表示"对...的掌握"，需理解介词搭配
 
 ## Paragraph 2
 
