@@ -487,6 +487,6 @@ sources:
 ### 45. Straitford is most proud of its
 
 - [A] official status.
-- [B] nonconformist image.
+- [B] **nonconformist image.**
 - [C] efficient staff.
 - [D] military background.
