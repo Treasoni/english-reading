@@ -188,6 +188,46 @@ sources:
 
 (1) Straitford president George Friedman says he sees the online world as a kind of mutually reinforcing tool for both information collection and distribution, a spymaster's dream. (2) Last week his firm was busy vacuuming up data bits from the far corners of the world and predicting a crisis in Ukraine. (3) "As soon as that report runs, we'll suddenly get 500 new internet sign-ups from Ukraine," says Friedman, a former political science professor. (4) "And we'll hear back from some of them." (5) Open-source spying does have its risks, of course, since it can be difficult to tell good information from bad. (6) That's where Straitford earns its keep.
 
+> [!abstract]- 长难句分析
+> **原句**：Straitford president George Friedman says he sees the online world as a kind of mutually reinforcing tool for both information collection and distribution, a spymaster's dream.
+>
+> **主干提取**：
+> - S (主语)：Straitford president George Friedman
+> - V (谓语)：says
+> - O (宾语)：he sees the online world as a kind of mutually reinforcing tool...（宾语从句）
+>
+> 主干简化：Friedman says (that) he sees the online world as a tool.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 同位语 | 逗号前 | 修饰 Friedman（职位 president） |
+> | 宾语从句 | says 后省略 that | 作 says 的宾语 |
+> | 介词短语 | as | 在从句中作补语（see...as...） |
+> | 介词短语 | for | 修饰 tool |
+> | 同位语 | 逗号 | 修饰 tool（补充说明） |
+>
+> **结构图解**：
+> ```
+> 主句: [Friedman] + [says] + [宾从]
+>   │
+>   └── 宾从: (he sees the online world as a kind of mutually reinforcing tool)
+>         ├── 介短: (as a kind of mutually reinforcing tool) → 从句补语
+>         │     └── 非谓语: (mutually reinforcing) → 修饰 tool
+>         ├── 介短: (for both information collection and distribution) → 修饰 tool
+>         │     └── 并列: (both...and...) → 连接 collection 和 distribution
+>         └── 同位语: (a spymaster's dream) → 补充说明 tool
+> ```
+>
+> **参考译文**：Straitford 公司总裁乔治·弗里德曼表示，他认为网络世界是一种相互强化的工具，可用于信息收集和传播——这是情报大师的梦想。
+>
+> **考点提示**：
+> 1. **see...as... 固定搭配**：表示"把...看作..."，考研阅读高频短语。类似搭配：regard...as...、view...as...、consider...as...
+> 2. **宾语从句的省略**：`says` 后省略了 `that`，口语化表达，考研翻译时需补全连词
+> 3. **同位语识别**：`a spymaster's dream` 是对 `tool` 的同位语补充，用逗号隔开，翻译时可用破折号或冒号引出
+> 4. **both...and... 并列结构**：连接 `information collection` 和 `distribution`，考研翻译需保持并列对称
+
 ## Paragraph 4
 
 (1) Friedman relies on a lean staff of 20 in Austin. (2) Several of his staff members have military-intelligence backgrounds. (3) He sees the firm's outsider status as the key to its success. (4) Straitford's briefs don't sound like the usual Washington back-and-forthing, whereby agencies avoid dramatic declarations on the chance they might be wrong. (5) Straitford, says Friedman, takes pride in its independent voice.
