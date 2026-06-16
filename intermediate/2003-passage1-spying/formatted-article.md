@@ -313,6 +313,39 @@ sources:
 > 4. **it 作形式主语**：从句中 `it` 是形式主语，真正主语是 `to tell good information from bad`
 > 5. **tell...from... 固定搭配**：表示"区分/辨别"，考研高频短语
 
+> [!abstract]- 长难句分析
+> **原句**：That's where Straitford earns its keep.
+>
+> **主干提取**：
+> - S (主语)：That
+> - V (系动词)：is
+> - C (表语)：where Straitford earns its keep（表语从句）
+>
+> 主干简化：That is where...
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 表语从句 | where | 作 is 的表语 |
+>
+> **结构图解**：
+> ```
+> 主句: [That] + [is] + [表从]
+>   │
+>   └── 表从: (where Straitford earns its keep)
+>         ├── 主语: Straitford
+>         ├── 谓语: earns
+>         └── 宾语: its keep
+> ```
+>
+> **参考译文**：这正是 Straitford 公司谋生的方式。
+>
+> **考点提示**：
+> 1. **That is where... 句型**：表示"这就是...的地方/方式"，常用于总结前文，强调某事的重要性
+> 2. **where 引导表语从句**：where 在从句中作地点状语，修饰 earns（在哪里赚取）
+> 3. **earn one's keep 固定搭配**：意为"谋生/维持生计/挣得生活费用"，考研阅读高频短语
+
 ## Paragraph 4
 
 (1) Friedman relies on a lean staff of 20 in Austin. (2) Several of his staff members have military-intelligence backgrounds. (3) He sees the firm's outsider status as the key to its success. (4) Straitford's briefs don't sound like the usual Washington back-and-forthing, whereby agencies avoid dramatic declarations on the chance they might be wrong. (5) Straitford, says Friedman, takes pride in its independent voice.
