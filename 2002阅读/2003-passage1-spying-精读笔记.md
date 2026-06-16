@@ -695,7 +695,98 @@ sources:
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **espionage** | n. | 间谍活动；谍报 | Donovan believed in using whatever tools came to hand in the "great game" of **espionage**. |
+| **fascinated** | adj. | 着迷的；入迷的 | The American spymaster... was **fascinated** with information. |
+| **matter** | n. | 事情；问题（a matter of... ……的问题） | The last revolution isn't simply a **matter** of gentlemen reading other gentlemen's e-mail. |
+| **pastimes** | n. | 消遣；娱乐活动 | The Net has already re-made such everyday **pastimes** as buying books and sending mails. |
+| **spooks** | n.（俚语） | 情报人员；间谍 | The **spooks** call it "open-source intelligence." |
+| **splash** | n. | 轰动；引起注目（make a splash 引起轰动） | Among the firms making the biggest **splash** in the new world is Straitford, Inc. |
+| **spymaster** | n. | 间谍头子；情报大师 | The American **spymaster** who built the Office of Strategic Services... |
+| **vocation** | n. | 职业；天职（尤指使命感驱动的工作） | The Net is reshaping Donovan's **vocation** as well. |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> espionage / fascinated / matter / pastimes / spooks / splash / spymaster / vocation
+
+1. The detective was ________ by the complexity of the case and spent weeks analyzing every clue.
+
+2. Playing chess and reading novels are common ________ among retired professors.
+
+3. Intelligence agencies around the world engage in ________ to protect national security.
+
+4. The startup made a big ________ in the tech industry with its revolutionary product.
+
+5. It's not just a ________ of luck; success requires hard work and dedication.
+
+6. Wild Bill Donovan was a legendary ________ who shaped American intelligence during WWII.
+
+7. The ________ at the CIA had been monitoring the situation for months.
+
+8. She treated teaching as a ________, not just a job — she believed in educating the next generation.
+
+> [!abstract]- 答案
+> 1. **fascinated**（着迷的）—— detective 被案件的复杂性所吸引
+> 2. **pastimes**（消遣）—— 下棋和读小说是退休教授的常见消遣
+> 3. **espionage**（间谍活动）—— 各国情报机构从事间谍活动
+> 4. **splash**（轰动）—— make a big splash = 引起巨大轰动
+> 5. **matter**（问题）—— a matter of luck = 运气的问题
+> 6. **spymaster**（间谍头子）—— 多诺万是传奇间谍大师
+> 7. **spooks**（情报人员）—— CIA 的情报人员
+> 8. **vocation**（天职）—— 把教学当作使命感驱动的职业
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. make a splash
+
+2. earn one's keep
+
+3. a matter of...
+
+> [!abstract]- 答案
+> 1. **make a splash** = 引起轰动；引人注目（字面：溅起水花）
+> 2. **earn one's keep** = 谋生；挣得生活费用；维持生计
+> 3. **a matter of...** = ……的问题；关于……的事情
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "The Net has already re-made such everyday **pastimes** as buying books and sending mails." 中 **pastimes** 的含义是：
+   - A. 过去的时光
+   - B. 消遣；娱乐活动（正确）
+   - C. 日常事务
+   - D. 业余爱好者的技巧
+
+> [!abstract]- 答案
+> 1. **B** — pastime = past + time，指"消磨时间的活动"，即"消遣/娱乐"。买书和发邮件被归类为日常消遣活动。
+
+2. "The **spooks** call it 'open-source intelligence.'" 中 **spooks** 的含义是：
+   - A. 幽灵；鬼怪
+   - B. 令人害怕的事物
+   - C. 情报人员；间谍（正确）
+   - D. 紧张的情绪
+
+> [!abstract]- 答案
+> 2. **C** — spook 本义为"幽灵/鬼"，在情报领域是俚语，指"间谍/情报人员"。结合上下文"call it open-source intelligence"可知是情报行业的人在使用这个术语。
+
+3. "The last revolution isn't simply a **matter** of gentlemen reading other gentlemen's e-mail." 中 **a matter of** 的含义是：
+   - A. 关于……的文件
+   - B. ……的问题；不仅仅是……这么简单（正确）
+   - C. 一份材料
+   - D. 重要的事项
+
+> [!abstract]- 答案
+> 3. **B** — "isn't simply a matter of..." 是固定句型，意为"不仅仅是……的问题/事情"。整句说"最近的这场变革并不只是绅士们阅读其他绅士的电子邮件那么简单"。
 
 ---
 

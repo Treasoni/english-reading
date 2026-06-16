@@ -585,7 +585,95 @@ sources:
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **double-digit** | adj. | 两位数的 | Both previous shocks resulted in **double-digit** inflation and global economic decline. |
+| **grips** | v. | 紧握；影响；（寒冬）笼罩 | Strengthening economic growth, at the same time as winter **grips** the northern hemisphere... |
+| **hemisphere** | n. | 半球 | ...at the same time as winter grips the northern **hemisphere**... |
+| **swings** | n. | 波动；摆动 | ...less sensitive to **swings** in the oil price. |
+| **tripled** | v. | 增至三倍 | ...1979-80, when they also almost **tripled**. |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> double-digit / grips / hemisphere / swings / tripled
+
+1. The company's profits have ________ over the past three years, reaching a record high.
+
+2. The policy caused ________ unemployment, affecting millions of workers across the country.
+
+3. Climate change is having a profound impact on the Arctic ________, with ice sheets melting at an alarming rate.
+
+4. Political instability can ________ a nation for decades, hindering economic progress.
+
+5. Investors are wary of sudden ________ in the stock market, which can wipe out savings overnight.
+
+6. The population of the city has nearly ________ since 2000, putting enormous pressure on infrastructure.
+
+7. The tropical storm is expected to affect the southern ________ before moving northward.
+
+8. Economic ________—periods of rapid growth followed by sharp recessions—make long-term planning difficult.
+
+> [!abstract]- 答案
+> 1. **tripled**（增至三倍）
+> 2. **double-digit**（两位数的）
+> 3. **hemisphere**（半球）
+> 4. **grip**（影响；笼罩）
+> 5. **swings**（波动）
+> 6. **tripled**（增至三倍）
+> 7. **hemisphere**（半球）
+> 8. **swings**（波动）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. account for up to four-fifths of...
+
+2. lose sleep over...
+
+3. on the other hand
+
+> [!abstract]- 答案
+> 1. **account for up to four-fifths of...** = 占到…的五分之四之多（account for = 占…比例）
+> 2. **lose sleep over...** = 为…失眠；为…担忧（字面义：因…睡不着觉）
+> 3. **on the other hand** = 另一方面（与 on the one hand 相对，用于引出对比观点）
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "Strengthening economic growth, at the same time as winter **grips** the northern hemisphere..." 中 **grips** 的含义是：
+   - A. 握住（物理动作）
+   - B. 紧紧控制；笼罩（比喻义）
+   - C. 理解；掌握
+   - D. 抓住机会
+
+> [!abstract]- 答案
+> 1. **B** — grip 在此用作比喻义，表示冬季"笼罩、控制"北半球，形象地表达寒冬到来时对整个半球的影响。
+
+2. "less sensitive to **swings** in the oil price" 中 **swings** 的含义是：
+   - A. 秋千
+   - B. 摇摆舞
+   - C. 波动；起伏变化
+   - D. 轮换；更替
+
+> [!abstract]- 答案
+> 2. **C** — swings 在经济语境中指价格的"波动、起伏变化"，oil price swings = 油价波动。swing 作名词可表示"摆动、变化"，常用于 financial swings / mood swings 等搭配。
+
+3. "Both previous shocks resulted in **double-digit** inflation" 中 **double-digit** 的含义是：
+   - A. 双倍的
+   - B. 两位数的（10-99）
+   - C. 双重的
+   - D. 数字翻倍的
+
+> [!abstract]- 答案
+> 3. **B** — double-digit 意为"两位数的"，即 10% 及以上的通胀率。double-digit inflation / growth / unemployment 是经济类文章的常见表达，强调数值之高。
 
 ---
 
