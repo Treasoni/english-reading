@@ -100,7 +100,7 @@ sources:
 > 3. **破折号引出同位语**：`—spying as a "profession"` 是对 `espionage` 的补充解释，相当于 "espionage, that is (to say), spying as a 'profession'"；破折号在考研阅读中常考标点辨义。
 > 4. **双引号的语用功能**：`"great game"` 和 `"profession"` 加引号，暗示作者对"间谍"职业化持保留/讽刺态度，属引述式强调（非他人原话），常考修辞功能。
 
-(5) The last revolution isn't simply a **matter** of gentlemen reading other gentlemen's e-mail. (6) That kind of electronic spying has been going on for decades. (7) In the past three or four years, the World Wide Web has given birth to a whole industry of point-and-click spying. (8) The spooks call it "open-source intelligence," and as the Net grows, it is becoming increasingly influential. (9) In 1995 the CIA held a contest to see who could compile the most data about Burundi. (10) The winner, by a large margin, was a tiny Virginia company called Open-Source Solutions, whose clear advantage was its mastery of the electronic world.
+(5) The last revolution isn't simply a **matter** of gentlemen reading other gentlemen's e-mail. (6) That kind of electronic spying has been going on for decades. (7) In the past three or four years, the World Wide Web has given birth to a whole industry of point-and-click spying. (8) The **spooks** call it "open-source intelligence," and as the Net grows, it is becoming increasingly influential. (9) In 1995 the CIA held a contest to see who could compile the most data about Burundi. (10) The winner, by a large margin, was a tiny Virginia company called Open-Source Solutions, whose clear advantage was its mastery of the electronic world.
 
 ## Paragraph 2
 
