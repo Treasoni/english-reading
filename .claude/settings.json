@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "user-prompt-submit": [
+      {
+        "command": "bash .claude/hooks/read-learnings.sh",
+        "description": "读取经验库（RULES.md、ERRORS.md、LEARNINGS.md），注入到 agent 上下文"
+      }
+    ]
+  }
+}

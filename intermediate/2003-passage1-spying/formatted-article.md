@@ -139,7 +139,50 @@ sources:
 
 ## Paragraph 2
 
-(1) Among the firms making the biggest splash in the new world is Straitford, Inc., a private intelligence-analysis firm based in Austin, Texas. (2) Straitford makes money by selling the results of spying (covering nations from Chile to Russia) to corporations like energy-services firm McDermott International. (3) Many of its predictions are available online at www.straitford.com.
+(1) Among the firms making the biggest **splash** in the new world is Straitford, Inc., a private intelligence-analysis firm based in Austin, Texas. (2) Straitford makes money by selling the results of spying (covering nations from Chile to Russia) to corporations like energy-services firm McDermott International. (3) Many of its predictions are available online at www.straitford.com.
+
+> [!abstract]- 长难句分析
+> **原句**：Among the firms making the biggest splash in the new world is Straitford, Inc., a private intelligence-analysis firm based in Austin, Texas.
+>
+> **主干提取**：
+> - S (主语)：Straitford, Inc.
+> - V (谓语)：is
+> - C (表语/地点)：among the firms
+>
+> 注意：这是一个**倒装句**！原语序：Straitford, Inc. is among the firms making the biggest splash in the new world.
+>
+> 主干简化：Straitford, Inc. is among the firms.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 现在分词短语 | making | 修饰 firms（后置定语） |
+> | 介词短语 | in | 修饰 splash（地点） |
+> | 同位语 | 逗号 | 修饰 Straitford, Inc. |
+> | 过去分词短语 | based | 修饰 firm（后置定语） |
+> | 介词短语 | in | 修饰 based（地点） |
+>
+> **结构图解**：
+> ```
+> 倒装句: [地点状语 Among...] + [谓语 is] + [主语 Straitford, Inc.]
+>   │
+>   ├── 地点状语: Among the firms
+>   │     └── 非谓语: (making the biggest splash in the new world) → 修饰 firms
+>   │           └── 介短: (in the new world) → 修饰 splash
+>   │
+>   └── 同位语: (a private intelligence-analysis firm based in Austin, Texas)
+>               └── 非谓语: (based in Austin, Texas) → 修饰 firm
+>                     └── 介短: (in Austin, Texas) → 修饰 based
+> ```
+>
+> **参考译文**：在新兴领域引起最大轰动的公司中，Straitford 公司（一家位于德克萨斯州奥斯汀的私人情报分析公司）就是其中之一。
+>
+> **考点提示**：
+> 1. **全部倒装（地点状语前置）**：`Among the firms...` 是地点状语，置于句首时引起全部倒装（谓语 is 提前到主语之前）。考研翻译常考"还原语序"能力。
+> 2. **同位语识别**：`a private intelligence-analysis firm...` 是 Straitford, Inc. 的同位语，用逗号隔开，起补充说明作用。
+> 3. **现在分词作后置定语**：`making the biggest splash` 相当于 `which make the biggest splash`，修饰 firms。
+> 4. **固定搭配**：`make a splash` = 引起轰动/引人注目，考研阅读高频短语。
 
 ## Paragraph 3
 
