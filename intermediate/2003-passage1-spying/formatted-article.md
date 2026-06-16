@@ -273,6 +273,46 @@ sources:
 > 3. **形象动词**：`vacuum up` 字面意为"用吸尘器吸"，引申为"大量收集"，考研翻译需意译
 > 4. **far corners of the world**：固定表达，意为"世界各个角落/天涯海角"
 
+> [!abstract]- 长难句分析
+> **原句**：Open-source spying does have its risks, of course, since it can be difficult to tell good information from bad.
+>
+> **主干提取**：
+> - S (主语)：Open-source spying
+> - V (谓语)：does have（强调）
+> - O (宾语)：its risks
+>
+> 主干简化：Open-source spying does have its risks.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 插入语 | 逗号包裹 of course | 补充说明 |
+> | 状语从句 | since | 原因状语 |
+> | 形式主语 | it | 替代真正的主语 |
+> | 不定式短语 | to tell | 从句的真正主语 |
+>
+> **结构图解**：
+> ```
+> 主句: [Open-source spying] + [does have] + [its risks]
+>   │
+>   ├── 插入语: (of course) → 当然
+>   │
+>   └── 状从: (since it can be difficult to tell good information from bad)
+>         ├── 形式主语: it → 指代不定式
+>         └── 真正主语: (to tell good information from bad)
+>               └── 并列: good information ↔ bad
+> ```
+>
+> **参考译文**：当然，开源情报确实存在风险，因为要区分信息的真伪好坏可能很困难。
+>
+> **考点提示**：
+> 1. **does 强调谓语**：`does have` 中 does 用于强调肯定语气，考研翻译时可译为"确实/的确"
+> 2. **插入语识别**：`of course` 被逗号包裹，是插入语，翻译时可调整位置或用"当然"引出
+> 3. **since 引导原因状语从句**：表示"因为/由于"，考研阅读常考因果逻辑
+> 4. **it 作形式主语**：从句中 `it` 是形式主语，真正主语是 `to tell good information from bad`
+> 5. **tell...from... 固定搭配**：表示"区分/辨别"，考研高频短语
+
 ## Paragraph 4
 
 (1) Friedman relies on a lean staff of 20 in Austin. (2) Several of his staff members have military-intelligence backgrounds. (3) He sees the firm's outsider status as the key to its success. (4) Straitford's briefs don't sound like the usual Washington back-and-forthing, whereby agencies avoid dramatic declarations on the chance they might be wrong. (5) Straitford, says Friedman, takes pride in its independent voice.
