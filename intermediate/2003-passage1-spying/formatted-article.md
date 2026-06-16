@@ -350,6 +350,110 @@ sources:
 
 (1) Friedman relies on a lean staff of 20 in Austin. (2) Several of his staff members have military-intelligence backgrounds. (3) He sees the firm's outsider status as the key to its success. (4) Straitford's briefs don't sound like the usual Washington back-and-forthing, whereby agencies avoid dramatic declarations on the chance they might be wrong. (5) Straitford, says Friedman, takes pride in its independent voice.
 
+> [!abstract]- 长难句分析
+> **原句**：He sees the firm's outsider status as the key to its success.
+>
+> **主干提取**：
+> - S (主语)：He
+> - V (谓语)：sees
+> - O (宾语)：the firm's outsider status
+> - C (补语)：as the key to its success
+>
+> 主干简化：He sees the status as the key.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 所有格 | 's | 修饰 status |
+> | 形容词 | outsider | 修饰 status |
+> | 介词短语 | as | 作宾补（see...as...） |
+> | 介词短语 | to | 修饰 key |
+>
+> **结构图解**：
+> ```
+> 主句: [He] + [sees] + [the status] + [as the key]
+>   │
+>   ├── 所有格: (the firm's) → 修饰 status
+>   ├── 形容词: (outsider) → 修饰 status
+>   └── 介短: (as the key to its success)
+>         └── 介短: (to its success) → 修饰 key
+> ```
+>
+> **参考译文**：他认为公司的局外人地位是其成功的关键。
+>
+> **考点提示**：
+> 1. **see...as... 固定搭配**：表示"把...看作..."，考研阅读高频短语
+> 2. **介词 to 表示归属**：`the key to success` 中 to 表示"对...而言"
+
+> [!abstract]- 长难句分析
+> **原句**：Straitford's briefs don't sound like the usual Washington back-and-forthing, whereby agencies avoid dramatic declarations on the chance they might be wrong.
+>
+> **主干提取**：
+> - S (主语)：Straitford's briefs
+> - V (谓语)：don't sound like
+> - O (宾语)：the usual Washington back-and-forthing
+>
+> 主干简化：Briefs don't sound like back-and-forthing.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 所有格 | 's | 修饰 briefs |
+> | 形容词 | usual, Washington | 修饰 back-and-forthing |
+> | 定语从句 | whereby | 修饰 back-and-forthing |
+> | 介词短语 | on the chance | 修饰 avoid |
+>
+> **结构图解**：
+> ```
+> 主句: [Straitford's briefs] + [don't sound like] + [the back-and-forthing]
+>   │
+>   ├── 所有格: (Straitford's) → 修饰 briefs
+>   ├── 形容词: (the usual Washington) → 修饰 back-and-forthing
+>   └── 定从: (whereby agencies avoid dramatic declarations...)
+>         └── 介短: (on the chance they might be wrong) → 修饰 avoid
+>               └── 名从: (they might be wrong) → 作 chance 的同位语
+> ```
+>
+> **参考译文**：Straitford 公司的简报听起来不像华盛顿惯常的那种反复摇摆，因为政府机构总是避免做出戏剧性声明，以免判断失误。
+>
+> **考点提示**：
+> 1. **back-and-forthing**：名词化表达，指"反复无常/摇摆不定"的风格
+> 2. **whereby 引导定语从句**：表示"因此/由此"，相当于 by which，考研阅读高频关系副词
+> 3. **on the chance that...**：固定搭配，意为"以防/以免"，后接从句
+
+> [!abstract]- 长难句分析
+> **原句**：Straitford, says Friedman, takes pride in its independent voice.
+>
+> **主干提取**：
+> - S (主语)：Straitford
+> - V (谓语)：takes pride in
+> - O (宾语)：its independent voice
+>
+> 主干简化：Straitford takes pride in its voice.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 插入语 | 逗号包裹 says Friedman | 补充说明信息来源 |
+> | 形容词 | independent | 修饰 voice |
+>
+> **结构图解**：
+> ```
+> 主句: [Straitford] + [takes pride in] + [its independent voice]
+>   │
+>   ├── 插入语: (says Friedman) → 信息来源（倒装结构）
+>   └── 形容词: (independent) → 修饰 voice
+> ```
+>
+> **参考译文**：弗里德曼表示，Straitford 公司以拥有独立的声音而自豪。
+>
+> **考点提示**：
+> 1. **插入语倒装**：`says Friedman` 是 `Friedman says` 的倒装形式，用逗号包裹，翻译时可前置或后置
+> 2. **take pride in 固定搭配**：表示"以...为傲/自豪"，考研高频短语。类似搭配：be proud of
+
 ## Questions
 
 ### 41. The emergence of the Net has
