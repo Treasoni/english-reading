@@ -228,6 +228,51 @@ sources:
 > 3. **同位语识别**：`a spymaster's dream` 是对 `tool` 的同位语补充，用逗号隔开，翻译时可用破折号或冒号引出
 > 4. **both...and... 并列结构**：连接 `information collection` 和 `distribution`，考研翻译需保持并列对称
 
+> [!abstract]- 长难句分析
+> **原句**：Last week his firm was busy vacuuming up data bits from the far corners of the world and predicting a crisis in Ukraine.
+>
+> **主干提取**：
+> - A (时间状语)：Last week
+> - S (主语)：his firm
+> - V (谓语)：was busy
+> - C (表语)：vacuuming up... and predicting...
+>
+> 主干简化：His firm was busy vacuuming up and predicting.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|----------|
+> | 时间状语 | Last week | 修饰谓语 was |
+> | 动名词短语 | vacuuming | busy 的补语 |
+> | 介词短语 | from | 修饰 data bits |
+> | 介词短语 | of | 修饰 corners |
+> | 动名词短语 | predicting | 与 vacuuming 并列 |
+> | 介词短语 | in | 修饰 crisis |
+>
+> **结构图解**：
+> ```
+> 主句: [his firm] + [was busy] + [vacuuming... and predicting...]
+>   │
+>   ├── 状语: (Last week) → 时间状语
+>   │
+>   └── 表语: busy + [并列动名词]
+>         ├── 动名词: (vacuuming up data bits)
+>         │     └── 介短: (from the far corners of the world)
+>         │           └── 介短: (of the world) → 修饰 corners
+>         │
+>         └── 动名词: (predicting a crisis in Ukraine)
+>               └── 介短: (in Ukraine) → 修饰 crisis
+> ```
+>
+> **参考译文**：上周，他的公司忙于从世界各个角落收集数据片段，并预测乌克兰即将发生危机。
+>
+> **考点提示**：
+> 1. **be busy doing 固定搭配**：`be busy + V-ing` 表示"忙于做某事"，是考研阅读高频结构。类似搭配：be worth doing、be engaged in doing
+> 2. **并列动名词**：`vacuuming... and predicting...` 由 and 连接，共同作 busy 的补语，翻译时需保持动词并列对称
+> 3. **形象动词**：`vacuum up` 字面意为"用吸尘器吸"，引申为"大量收集"，考研翻译需意译
+> 4. **far corners of the world**：固定表达，意为"世界各个角落/天涯海角"
+
 ## Paragraph 4
 
 (1) Friedman relies on a lean staff of 20 in Austin. (2) Several of his staff members have military-intelligence backgrounds. (3) He sees the firm's outsider status as the key to its success. (4) Straitford's briefs don't sound like the usual Washington back-and-forthing, whereby agencies avoid dramatic declarations on the chance they might be wrong. (5) Straitford, says Friedman, takes pride in its independent voice.
