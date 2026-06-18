@@ -449,7 +449,62 @@ sources:
 > 7. **wasteful / cruel 形容词表语**：wasteful = 浪费的（浪费资源/时间的），cruel = 残忍的。wasteful 强调"造成浪费"，cruel 强调"造成痛苦"，两者并列形成从"经济"到"道德"的双重批判。
 > 8. **句子倒装特征（主语 + 系表 + 前置状语）**：本句将 To those... 状语前置，主语 animal research 紧跟其后，形成"状语 + 主语 + 系表"结构，是英文常见的**修辞倒装**（非语法倒装），目的是强调状语所修饰的对象。
 
-（1）Much can be done.（2）Scientists could "adopt" middle school classes and present their own research.（3）They should be quick to respond to letters to the editor, lest animal rights misinformation go unchallenged and acquire a deceptive appearance of truth.（4）Research institutions could be opened to tours, to show that laboratory animals receive humane care.（5）Finally, because the ultimate stakeholders are patients, the health research community should actively recruit to its cause not only well-known personalities such as Stephen Cooper, who has made courageous statements about the value of animal research, but all who receive medical treatment.（6）If good people do nothing, there is a real possibility that an uninformed citizenry will extinguish the precious embers of medical progress.
+（1）Much can be done.（2）Scientists could "adopt" middle school classes and present their own research.（3）They should be quick to respond to letters to the editor, **lest** animal rights misinformation go unchallenged and acquire a **deceptive** appearance of truth.（4）Research institutions could be opened to tours, to show that laboratory animals receive humane care.（5）Finally, because the ultimate stakeholders are patients, the health research community should actively recruit to its cause not only well-known personalities such as Stephen Cooper, who has made courageous statements about the value of animal research, but all who receive medical treatment.（6）If good people do nothing, there is a real possibility that an uninformed citizenry will extinguish the precious embers of medical progress.
+
+> [!abstract]- 长难句分析
+> **原句**：They should be quick to respond to letters to the editor, lest animal rights misinformation go unchallenged and acquire a deceptive appearance of truth.
+>
+> **主干提取**：
+>
+> - **S (主语)**：They
+> - **V (谓语)**：should be
+> - **C (表语)**：quick to respond to letters to the editor（形容词 + 不定式）
+> - **A (状语)**：lest animal rights misinformation (should) go unchallenged and acquire a deceptive appearance of truth（lest 引导的目的状语从句，含虚拟语气）
+>
+> **简化主干**：They should be quick to respond, lest misinformation go unchallenged and acquire truth appearance.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/内容 | 修饰对象 |
+> |------|------------|----------|
+> | 形容词 + 不定式 | quick to respond to... | should be（系表结构）|
+> | 介词短语 | to letters to the editor | respond（对象/目标）|
+> | 嵌套介词短语 | to the editor | letters（写给编辑的）|
+> | lest 目的状语从句 | lest animal rights misinformation (should) go unchallenged and acquire... | 主句的目的状语，lest 译为"以免" |
+> | 名词短语 | animal rights misinformation | lest 从句主语 |
+> | 并列谓语 1 | (should) go unchallenged | 从句谓语，被动语态，should 省略 |
+> | 并列谓语 2 | (should) acquire | 从句谓语 |
+> | 宾语 | a deceptive appearance of truth | acquire 的宾语 |
+> | 介词短语 | of truth | appearance（修饰）|
+>
+> **结构图解**：
+> ```
+> 主句: They + should be + quick to respond to letters to the editor
+>   ├── 不定式: (to respond to letters to the editor) → 修饰 quick
+>   │     └── 介短: (to letters to the editor) → 修饰 respond
+>   │           └── 介短: (to the editor) → 修饰 letters
+>
+> lest 目的状语从句（虚拟语气）:
+>   ├── 引导词: (lest) = "以免/以防"
+>   ├── 主语: (animal rights misinformation)
+>   ├── 并列谓语 1: (should) go unchallenged → 被动语态
+>   ├── 并列: (and)
+>   └── 并列谓语 2: (should) acquire + a deceptive appearance of truth
+>         └── 介短: (of truth) → 修饰 appearance
+> ```
+>
+> **参考译文**：他们应当迅速回应读者来信，以免动物权利方面的错误信息畅行无阻，并获得欺骗性的真理外观。
+>
+> **考点提示**：
+>
+> 1. **lest 引导目的状语从句（虚拟语气）**：lest = "以免/以防"，其后的从句用**虚拟语气**。结构：lest + 主语 + **should + 动词原形**（should 常省略，直接用动词原形）。本句 lest misinformation (should) go unchallenged... 中 should 已省略，是 lest 引导目的状语从句的典型用法。
+> 2. **lest 虚拟语气的倒装 vs 陈述语序**：lest 从句通常用陈述语序（lest he should go / lest he go），**不倒装**。注意区分：lest 后的 should 可以省略，但主谓不倒装。
+> 3. **be quick to do 结构**：形容词 quick + 不定式 to do = "迅速做某事"，表语结构。类似表达：be likely to do / be sure to do / be certain to do / be ready to do。
+> 4. **go + 过去分词 表示状态变化**：go unchallenged = "变得无人质疑 / 畅行无阻"。类似结构：go missing（失踪）、go wrong（出错）、go mad（变疯）、go bankrupt（破产）。注意 go + V-ed 与 be + V-ed 的区别：be + V-ed 强调被动动作，go + V-ed 强调状态变化。
+> 5. **and 连接两个并列谓语（虚拟语气延续）**：go unchallenged and acquire... 中，and 后省略了 should，前后两个谓语共享 should 的虚拟语气。
+> 6. **misinformation 词汇**：mis-（错误）+ information（信息）= 错误信息、虚假信息。构词类比：misunderstand（误解）、mislead（误导）、misguide（误导）。**注意**：misinformation 不可数，谓语用单数（go unchallenged）。
+> 7. **acquire 词汇辨析**：acquire = "获得/习得"，强调持续努力后获得。常用于 acquire knowledge/a habit/a reputation/an appearance。常见搭配：acquire a deceptive appearance（获得欺骗性外观）。
+> 8. **a deceptive appearance of truth 短语分析**：a deceptive（形容词）appearance（名词）of truth（介词短语）= "真理的欺骗性外观"。考研阅读常见"抽象名词 + 介词 + 抽象名词"结构，需识别修饰关系。
 
 ## 试题
 
