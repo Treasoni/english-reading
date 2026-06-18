@@ -344,7 +344,57 @@ sources:
 > 7. **vaccine / vaccinate / vaccination / immunization 词族**：vaccine（n. 疫苗）；vaccinate（v. 接种）；vaccination（n. 接种行为）；immunization（n. 免疫接种，更正式）。本句中 vaccines 与 immunizations 互为上下文呼应。
 > 8. **come from 短语**：come from = 来自/来源于，与 originate from / derive from / stem from 同义。
 
-（1）Scientists must communicate their message to the public in a **compassionate,** understandable way—in human terms, not in the language of molecular biology.（2）We need to make clear the connection between animal research and a grandmother's hip replacement, a father's bypass operation, a baby's vaccinations, and even a pet's shots.（3）To those who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines, animal research seems wasteful at best and cruel at worst.
+> [!abstract]- 长难句分析
+> **原句**：Scientists must communicate their message to the public in a compassionate, understandable way—in human terms, not in the language of molecular biology.
+>
+> **主干提取**：
+>
+> - **S (主语)**：Scientists
+> - **V (谓语)**：must communicate
+> - **O (宾语)**：their message
+> - **A (状语)**：to the public（对象状语）+ in a compassionate, understandable way（方式状语）
+>
+> **简化主干**：Scientists must communicate their message.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/内容 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | to the public | communicate（对象状语）|
+> | 介词短语 | in a compassionate, understandable way | communicate（方式状语）|
+> | 并列形容词 | compassionate, understandable | way（两个形容词并列修饰）|
+> | 破折号补充 | —in human terms, not in the language of molecular biology | 对前文 in a... way 的具体解释 |
+> | 介词短语 | in human terms | 方式补充 |
+> | 介词短语 | in the language of molecular biology | 被 not 否定的语言方式 |
+> | 否定词 | not | 局部否定 in the language of molecular biology |
+>
+> **结构图解**：
+> ```
+> 主句: Scientists + must communicate + their message
+>   ├── 介短: (to the public) → 对象状语
+>   └── 介短: (in a compassionate, understandable way) → 方式状语
+>         └── 并列形容词: (compassionate, understandable) → 修饰 way
+>
+> 破折号补充说明（对方式的进一步解释）:
+>   └── 介短: (in human terms) → 用人话/人性化的语言
+>   └── 介短: (not in the language of molecular biology) → 不用分子生物学的语言
+>         └── not: 局部否定，仅否定 in the language of...
+> ```
+>
+> **参考译文**：科学家必须用一种富有同情心、易于理解的方式向公众传达他们的信息——用人性化的语言，而不是分子生物学的术语。
+>
+> **考点提示**：
+>
+> 1. **must 表"必须"**：must + 动词原形，表示义务/必要性。情态动词 must, can, could, may, might, should, would, ought to 等后必须接**动词原形**，是考研写作和翻译常考。
+> 2. **in + 抽象名词 = 方式状语**：in a... way / in terms of / in the language of / in... manner 是英语中表达方式的高频结构。注意：in a way 译为"以某种方式"，in terms of 译为"就...而言/用...的话"。
+> 3. **复合形容词并列修饰**：compassionate, understandable 是两个独立形容词以逗号并列，共同修饰 way。注意与"复合形容词"（如 easy-to-understand，含连字符）的区别。
+> 4. **破折号引出补充说明**：破折号后内容（in human terms, not in the language of...）是对前文 in a compassionate, understandable way 的具体展开和解释。翻译时可用"——"或"：即"等连接。
+> 5. **not 的否定范围（局部否定）**：本句 not 仅否定 in the language of molecular biology（局部否定），**不是**否定 in human terms。正确理解：用人话，**而非**用专业术语。判断方法：not 紧邻的成分即为否定对象。
+> 6. **communicate sth to sb 结构**：communicate 是及物动词，可接双宾语（communicate sth to sb = 向某人传达某事）。同义表达：convey sth to sb, deliver sth to sb。
+> 7. **in terms of 短语辨析**：in terms of = (1) 就...而言 (in terms of money 就钱而言)；(2) 用...的话/措辞 (in terms of science 用科学术语)。本句 in human terms 取义"用人的话"，in the language of 进一步解释。
+> 8. **human terms / molecular biology 对比**：human（人性化的/通俗的）vs molecular biology（分子生物学的/专业的），形成"通俗 vs 专业"对照，呼应全文主旨（科学家应让公众理解）。
+
+（1）Scientists must communicate their message to the public in a **compassionate,** understandable way—in human terms, not in the language of **molecular** biology.（2）We need to make clear the connection between animal research and a grandmother's **hip** replacement, a father's **bypass** operation, a baby's vaccinations, and even a pet's shots.（3）To those who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines, animal research seems wasteful at best and cruel at worst.
 
 （1）Much can be done.（2）Scientists could "adopt" middle school classes and present their own research.（3）They should be quick to respond to letters to the editor, lest animal rights misinformation go unchallenged and acquire a deceptive appearance of truth.（4）Research institutions could be opened to tours, to show that laboratory animals receive humane care.（5）Finally, because the ultimate stakeholders are patients, the health research community should actively recruit to its cause not only well-known personalities such as Stephen Cooper, who has made courageous statements about the value of animal research, but all who receive medical treatment.（6）If good people do nothing, there is a real possibility that an uninformed citizenry will extinguish the precious embers of medical progress.
 
