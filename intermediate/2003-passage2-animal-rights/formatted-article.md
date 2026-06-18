@@ -244,7 +244,58 @@ sources:
 > 5. **多重介词短语链**：allegations **of cruelty to animals in research settings** —— allegations 被两层介词短语（of... / in...）层层修饰，是考研阅读中典型的"名词 + 介词链"结构。
 > 6. **allegation 词汇拓展**：allegation（无证据的指控/说法），与 accusation（指控）、claim（声称）、statement（陈述）辨析：allegation 强调"未证实的"指控。
 
-（1）For example, a grandmotherly woman staffing an animal rights booth at a recent street fair was distributing a brochure that encouraged readers not to use anything that comes from or is tested in animals—no meat, no fur, no medicines.（2）Asked if she opposed immunizations, she wanted to know if vaccines come from animal research.（3）When assured that they do, she replied, "Then I would have to say yes."（4）Asked what will happen when epidemics return, she said, "Don't worry, scientists will find some way of using computers."（5）Such well-meaning people just don't understand.
+（1）For example, a grandmotherly woman staffing an animal rights **booth** at a recent street **fair** was distributing a **brochure** that encouraged readers not to use anything that comes from or is tested in animals—no meat, no fur, no medicines.（2）Asked if she opposed immunizations, she wanted to know if vaccines come from animal research.（3）When assured that they do, she replied, "Then I would have to say yes."（4）Asked what will happen when epidemics return, she said, "Don't worry, scientists will find some way of using computers."（5）Such well-meaning people just don't understand.
+
+> [!abstract]- 长难句分析
+> **原句**：For example, a grandmotherly woman staffing an animal rights booth at a recent street fair was distributing a brochure that encouraged readers not to use anything that comes from or is tested in animals—no meat, no fur, no medicines.
+>
+> **主干提取**：
+>
+> - **S (主语)**：A grandmotherly woman (staffing an animal rights booth at a recent street fair)
+> - **V (谓语)**：was distributing
+> - **O (宾语)**：a brochure (that encouraged readers not to use anything...)
+>
+> **简化主干**：A grandmotherly woman was distributing a brochure.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/内容 | 修饰对象 |
+> |------|------------|----------|
+> | 现在分词短语 | staffing an animal rights booth at a recent street fair | woman（后置定语，相当于 who was staffing）|
+> | 介词短语 | at a recent street fair | booth（后置定语）|
+> | 介词短语 | an animal rights (booth) | rights 修饰 booth（名词作定语）|
+> | 定语从句 | that encouraged readers not to use anything... | brochure（限定性定从）|
+> | 宾语补足语 | not to use anything... | readers（encourage sb (not) to do 否定式）|
+> | 定语从句 | that comes from or is tested in animals | anything（修饰不定代词）|
+> | 并列谓语 | comes from or is tested | 定从中 or 连接两个谓语 |
+> | 介词短语 | in animals | comes/is tested（地点）|
+> | 补充说明 | no meat, no fur, no medicines | 破折号引出，对 anything 的具体列举 |
+>
+> **结构图解**：
+> ```
+> 主句: A grandmotherly woman + was distributing + a brochure
+>   ├── 后置定语: (staffing an animal rights booth at a recent street fair) → 修饰 woman
+>   │     └── 介短: (at a recent street fair) → 修饰 booth
+>   └── 定从: (that encouraged readers not to use anything that comes from or is tested in animals—no meat, no fur, no medicines) → 修饰 brochure
+>         ├── 宾补: (not to use anything...) → readers
+>         └── 定从: (that comes from or is tested in animals) → 修饰 anything
+>               ├── 介短: (in animals) → 地点
+>               └── 并列: (comes from or is tested) → 两个谓语并列
+>         └── 补充: (—no meat, no fur, no medicines) → 解释 anything
+> ```
+>
+> **参考译文**：例如，在最近的一次街头集市上，一位老奶奶般的妇女在动物权利宣传摊位上分发小册子，劝导读者不要使用任何来自动物或在动物身上试验的产品——不要肉食、不要毛皮、不要药物。
+>
+> **考点提示**：
+>
+> 1. **现在分词短语作后置定语**：staffing... = who was staffing，修饰 woman，逻辑主语是 woman（主动关系）。**关键规则**：分词作定语时，分词的逻辑主语是被修饰名词，且分词与名词之间是主动/被动关系决定 V-ing/V-ed 的选择。
+> 2. **多重后置定语链**：an animal rights booth at a recent street fair —— rights 修饰 booth，at... 修饰 booth，形成层层后置修饰。名词作定语（rights）是考研阅读中常考点。
+> 3. **encourage sb (not) to do 结构**：本句 encourage readers **not** to use...，否定词 not 放在不定式 to use 之前，否定后置不定式。常见结构：ask/tell/advise/encourage/want sb (not) to do。
+> 4. **不定代词 + that 定从**：当先行词为 anything/everything/nothing/all 等不定代词时，定语从句的关系代词**只能用 that**，不能用 which。本句 anything that comes from... 是典型结构。
+> 5. **or 连接两个并列被动结构**：comes from or is tested in animals —— is tested 是被动语态（被试验），or 连接两个并列谓语，第二个谓语省略 comes。
+> 6. **破折号引出补充说明**：—no meat, no fur, no medicines 紧跟 anything that comes from or is tested in animals 之后，对"动物产品"进行具体列举。翻译时可用"——"或括号呈现。
+> 7. **grandmotherly 构词法**：grandmother（祖母）+ -ly（形容词后缀，由名词变形容词）= 似祖母的/慈祥的。类似构词：fatherly、motherly、brotherly、manly、cowardly。
+> 8. **staff 作动词**：staff a booth = 在摊位工作/配备人员，常见用法：a hospital staffed with experienced doctors（配备经验丰富的医生的医院）。
 
 （1）Scientists must communicate their message to the public in a compassionate, understandable way—in human terms, not in the language of molecular biology.（2）We need to make clear the connection between animal research and a grandmother's hip replacement, a father's bypass operation, a baby's vaccinations, and even a pet's shots.（3）To those who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines, animal research seems wasteful at best and cruel at worst.
 
