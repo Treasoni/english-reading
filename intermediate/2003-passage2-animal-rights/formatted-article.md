@@ -449,7 +449,7 @@ sources:
 > 7. **wasteful / cruel 形容词表语**：wasteful = 浪费的（浪费资源/时间的），cruel = 残忍的。wasteful 强调"造成浪费"，cruel 强调"造成痛苦"，两者并列形成从"经济"到"道德"的双重批判。
 > 8. **句子倒装特征（主语 + 系表 + 前置状语）**：本句将 To those... 状语前置，主语 animal research 紧跟其后，形成"状语 + 主语 + 系表"结构，是英文常见的**修辞倒装**（非语法倒装），目的是强调状语所修饰的对象。
 
-（1）Much can be done.（2）Scientists could "adopt" middle school classes and present their own research.（3）They should be quick to respond to letters to the editor, **lest** animal rights misinformation go unchallenged and acquire a **deceptive** appearance of truth.（4）Research institutions could be opened to tours, to show that laboratory animals receive humane care.（5）Finally, because the ultimate stakeholders are patients, the health research community should actively recruit to its cause not only well-known personalities such as Stephen Cooper, who has made **courageous** statements about the value of animal research, but all who receive medical treatment.（6）If good people do nothing, there is a real possibility that an uninformed citizenry will extinguish the precious embers of medical progress.
+（1）Much can be done.（2）Scientists could "adopt" middle school classes and present their own research.（3）They should be quick to respond to letters to the editor, **lest** animal rights misinformation go unchallenged and acquire a **deceptive** appearance of truth.（4）Research institutions could be opened to tours, to show that laboratory animals receive humane care.（5）Finally, because the ultimate stakeholders are patients, the health research community should actively recruit to its cause not only well-known personalities such as Stephen Cooper, who has made **courageous** statements about the value of animal research, but all who receive medical treatment.（6）If good people do nothing, there is a real possibility that an **uninformed** **citizenry** will extinguish the precious **embers** of medical progress.
 
 > [!abstract]- 长难句分析
 > **原句**：They should be quick to respond to letters to the editor, lest animal rights misinformation go unchallenged and acquire a deceptive appearance of truth.
@@ -576,6 +576,64 @@ sources:
 > 8. **Finally 段首用法**：Finally 用于段首表"最后一点"，是 5 段式议论文（提出现状-举例-建议-措施-总结）结尾段落的高频词。类似表达：Last but not least（最后但同样重要）、To conclude（总之）、In sum（总而言之）。
 > 9. **courageous / value / research 三层嵌套后置定语**：courageous statements about the value of animal research —— statements 被 about 介短修饰，value 又被 of 介短修饰，形成"形容词 + 名词 + 介短 + 名词 + 介短 + 名词"多层嵌套。
 > 10. **medical treatment 短语辨析**：medical（医学的/医疗的）+ treatment（治疗）= 医疗/治疗。注意区分：medical care（医疗保健）、medical research（医学研究）、medical treatment（医疗/治疗）。
+
+> [!abstract]- 长难句分析
+> **原句**：If good people do nothing, there is a real possibility that an uninformed citizenry will extinguish the precious embers of medical progress.
+>
+> **主干提取**：
+>
+> - **S₁ (主句主语)**：there（引导词，there be 句型）
+> - **V₁ (主句谓语)**：is
+> - **C₁ (主句表语)**：a real possibility
+> - **S₂ (从句主语)**：an uninformed citizenry
+> - **V₂ (从句谓语)**：will extinguish
+> - **O₂ (从句宾语)**：the precious embers of medical progress
+> - **A (条件状语)**：If good people do nothing
+>
+> **简化主干**：If good people do nothing, there is a possibility that...
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/内容 | 修饰对象 |
+> |------|------------|----------|
+> | 条件状语从句 | If good people do nothing | 整句条件状语（呼应开篇引语）|
+> | 形容词 | real | possibility（修饰）|
+> | 同位语从句 | that an uninformed citizenry will extinguish the precious embers of medical progress | possibility（解释 possibility 的具体内容）|
+> | 形容词 | uninformed | citizenry（无知的大众）|
+> | 形容词 | precious | embers（修饰余烬）|
+> | 介词短语 | of medical progress | embers（修饰，医学进步的）|
+>
+> **结构图解**：
+> ```
+> 主句: There + is + a real possibility + (that 同位语从句)
+>   └── 同位语从句: (that an uninformed citizenry will extinguish the precious embers of medical progress)
+>         ├── 主语: (an uninformed citizenry)
+>         ├── 谓语: (will extinguish)
+>         └── 宾语: (the precious embers of medical progress)
+>               ├── 形容词: (precious) → 修饰 embers
+>               └── 介短: (of medical progress) → 修饰 embers
+>
+> 条件状语从句:
+>   ├── 引导词: (If) → 真实条件
+>   ├── 主语: (good people)
+>   └── 谓语: (do nothing) → 呼应开篇 Burke 引语
+> ```
+>
+> **参考译文**：如果好人无所作为，那么无知的大众就有可能扑灭医学进步的宝贵火种。
+>
+> **考点提示**：
+>
+> 1. **there be 句型**：表"存在/有"，避免使用 have/has。结构：There + be + 主语 + 状语。本句 there is a real possibility that... 中，that 从句是 possibility 的**同位语从句**。
+> 2. **同位语从句与定语从句辨析**：that an uninformed citizenry will extinguish the precious embers of medical progress 是 a possibility 的**同位语从句**（非定从）。判断要点：(1) that 在从句中不作成分（citizenry will extinguish 已是主谓宾）；(2) 解释抽象名词 possibility 的具体内容。同位语从句常跟的抽象名词：fact / idea / news / hope / belief / possibility / suggestion / order 等。
+> 3. **if 引导真实条件状语从句**：本句 If good people do nothing, there is... 是真实条件（可能实现），用一般现在时表将来意义。**关键规则**：真实条件句中，主将从现（主句可用将来时/情态动词/祈使句，从句用一般现在时）。
+> 4. **呼应主题的修辞手法**：本句 If good people do nothing 与开篇 Burke 引语 "good people do nothing" 形成**首尾呼应**，使文章结构首尾闭合，强调"好人必须行动"这一中心论点。
+> 5. **do nothing 强调结构**：do + 抽象名词表"做某事"，比动词直接用法更生动。do nothing = 无所作为（不是"做无"）。考研常见结构：do harm（有害）、do good（有益）、do wonders（创造奇迹）、do one's best（尽力）。
+> 6. **extinguish 词汇辨析**：extinguish = "熄灭/扑灭/使消亡"，多用于火、光、希望、热情等抽象或具体事物。**近义辨析**：extinguish（正式，扑灭火/光/热情）、put out（口语，扑灭）、quench（解渴/扑灭）、snuff out（掐灭/扼杀）。本句 extinguish the embers（扑灭余烬）= metaphorically 扼杀医学进步的火种。
+> 7. **embers 词汇**：ember = 余烬/未熄灭的灰烬，常用复数 embers 表"将熄未熄的余烬"。本句 the precious embers of medical progress 是比喻用法：**余烬 = 残余的火种/希望**，暗示医学进步正处于"将要熄灭"的关键时刻。
+> 8. **citizenry 词汇**：citizen + -ry（集合名词后缀）= "公民/市民（总称）"，与 people 同义但更正式。类似构词：peasantry（农民）、gentry（绅士阶层）、poetry（诗意/诗集）。
+> 9. **uninformed 构词法**：un-（否定前缀）+ informed（informed 是 inform 的过去分词作形容词"有知识的"）= "无知的/未受教育的"。**注意区分**：uninformed（无知的，温和否定）vs ignorant（无知的，贬义）。
+> 10. **precious 形容词辨析**：precious = "珍贵的/宝贵的"，强调**价值高、不可替代**。近义：valuable（值钱的）、priceless（无价的）、cherished（珍爱的）。本句 the precious embers 用 precious 强调"医学进步的余烬之珍贵"，情感色彩浓厚。
+> 11. **there be 句型中的 that 同位语从句**：there is a possibility / hope / chance / likelihood that... 是固定句型，that 从句是同位语从句。翻译时常用"存在...的可能性"或"有可能..."。
 
 ## 试题
 
