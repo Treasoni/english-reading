@@ -17,7 +17,7 @@ sources:
 
 ## 文章原文
 
-（1）To **paraphrase** 18th-century statesman Edmund Burke, "all that is needed for the triumph of a misguided **cause** is that good people do nothing."（2）One such cause now seeks to end biomedical research because of the theory that animals have **rights** ruling out their use in research.（3）Scientists need to respond forcefully to animal rights advocates, whose arguments are confusing the public and thereby threatening advances in health knowledge and care.（4）Leaders of the animal rights movement target biomedical research because it depends on public funding, and few people understand the process of health care research.（5）Hearing allegations of cruelty to animals in research settings, many are perplexed that anyone would deliberately harm an animal.
+（1）To **paraphrase** 18th-century statesman Edmund Burke, "all that is needed for the triumph of a misguided **cause** is that good people do nothing."（2）One such cause now seeks to end biomedical research because of the theory that animals have **rights** ruling out their use in research.（3）Scientists need to respond forcefully to animal rights advocates, whose arguments are confusing the public and thereby threatening advances in health knowledge and care.（4）Leaders of the animal rights movement target biomedical research because it depends on public funding, and few people understand the process of health care research.（5）Hearing allegations of cruelty to animals in research settings, many are **perplexed** that anyone would **deliberately** harm an animal.
 
 > [!abstract]- 长难句分析
 > **原句**：To **paraphrase** 18th-century statesman Edmund Burke, "all that is needed for the triumph of a misguided cause is that good people do nothing."
@@ -198,6 +198,51 @@ sources:
 > 5. **多级后置定语链**：Leaders of the animal rights movement 中，先用 of the animal rights movement 修饰 Leaders，而 animal rights 本身又通过 of the movement 与 rights 关联，形成修饰链。
 > 6. **few 表示否定**：few people = 几乎没有人（否定意义，含义接近 nobody）；a few people = 有一些人（肯定意义）。Few 是否定词，做主语时谓语用单复数均可。
 > 7. **process of health care research**：学术英语中常见的"抽象名词 + 介词 + 修饰语"结构，与 the process of doing sth 句型结合紧密。
+
+> [!abstract]- 长难句分析
+> **原句**：Hearing allegations of cruelty to animals in research settings, many are perplexed that anyone would deliberately harm an animal.
+>
+> **主干提取**：
+>
+> - **S (主语)**：many
+> - **V (谓语)**：are perplexed（系表结构）
+> - **C (补足语)**：that anyone would deliberately harm an animal（that 从句，作 perplexed 的内容补足语 / 原因状语）
+>
+> **简化主干**：Many are perplexed that...
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/内容 | 修饰对象 |
+> |------|------------|----------|
+> | 现在分词短语（状语）| Hearing allegations of cruelty to animals in research settings | 整句时间/原因状语，逻辑主语为 many |
+> | 介词短语 | of cruelty to animals | allegations（后置定语）|
+> | 介词短语 | to animals | cruelty（对...的残忍）|
+> | 介词短语 | in research settings | allegations（限定场景）|
+> | 宾语补足语/原因状语 | that anyone would deliberately harm an animal | perplexed（具体内容补足）|
+>
+> **结构图解**：
+> ```
+> 主句: Many + are perplexed + that anyone would deliberately harm an animal
+>   └── 内容补足: (that 从句) → 说明 perplexed 的具体内容
+>         └── 情态动词: (would deliberately) → 表惊讶/难以置信
+>
+> 前置状语:
+>   └── 现在分词: (Hearing allegations of cruelty to animals in research settings) → 时间/原因状语
+>         ├── 介短: (of cruelty to animals) → 修饰 allegations
+>         │     └── 介短: (to animals) → 修饰 cruelty
+>         └── 介短: (in research settings) → 修饰 allegations
+> ```
+>
+> **参考译文**：当听到研究环境中虐待动物的种种指控时，许多人感到困惑——竟然会有人故意伤害动物。
+>
+> **考点提示**：
+>
+> 1. **现在分词短语作状语**：Hearing... = When/After many heard...，表时间/原因。**关键规则**：分词短语的逻辑主语必须与主句主语一致（此处都是 many）。若不一致，需用独立主格或改为状语从句。
+> 2. **be + 过去分词 + that 从句结构**：perplexed 是过去分词作表语（转化为形容词），that 从句作**内容补足语/原因状语**，具体说明"对什么感到困惑"。同类结构：be surprised that... / be convinced that... / be delighted that...
+> 3. **would 表"竟然/居然"**：would deliberately 在这里是**意愿/虚拟**用法，表达"竟然会故意"的惊讶语气（中文常译为"竟然"），是考研阅读和翻译的常考情态动词用法。
+> 4. **perplex 词形辨析**：perplex 动词（使困惑）；perplexed 形容词（人作主语，"感到困惑的"）；perplexing 形容词（物作主语，"令人困惑的"）。如：a perplexed look 困惑的表情；a perplexing question 令人费解的问题。
+> 5. **多重介词短语链**：allegations **of cruelty to animals in research settings** —— allegations 被两层介词短语（of... / in...）层层修饰，是考研阅读中典型的"名词 + 介词链"结构。
+> 6. **allegation 词汇拓展**：allegation（无证据的指控/说法），与 accusation（指控）、claim（声称）、statement（陈述）辨析：allegation 强调"未证实的"指控。
 
 （1）For example, a grandmotherly woman staffing an animal rights booth at a recent street fair was distributing a brochure that encouraged readers not to use anything that comes from or is tested in animals—no meat, no fur, no medicines.（2）Asked if she opposed immunizations, she wanted to know if vaccines come from animal research.（3）When assured that they do, she replied, "Then I would have to say yes."（4）Asked what will happen when epidemics return, she said, "Don't worry, scientists will find some way of using computers."（5）Such well-meaning people just don't understand.
 
