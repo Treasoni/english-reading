@@ -149,6 +149,56 @@ sources:
 > 5. **并列谓语 and... and (thereby) doing**：confusing... and threatening... 两个并列谓语，第二个谓语前省略了 are，并由 thereby 修饰以表达因果递进。
 > 6. **辨析：forceful / forced / enforce**：forceful 强有力/有说服力（形容词）；force 力量/强迫（动词/名词）；enforce 实施/执行（动词）。
 
+> [!abstract]- 长难句分析
+> **原句**：Leaders of the animal rights movement target biomedical research because it depends on public funding, and few people understand the process of health care research.
+>
+> **主干提取**：
+>
+> - **S₁ (主语1)**：Leaders of the animal rights movement
+> - **V₁ (谓语1)**：target
+> - **O₁ (宾语1)**：biomedical research
+> - **A₁ (状语1)**：because it depends on public funding（原因状语从句）
+> - **S₂ (主语2)**：few people
+> - **V₂ (谓语2)**：understand
+> - **O₂ (宾语2)**：the process of health care research
+>
+> **简化主干**：Leaders target biomedical research, and few people understand the process.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/内容 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | of the animal rights movement | Leaders（后置定语）|
+> | 介词短语 | of the movement | rights（后置定语的修饰关系）|
+> | 原因状语从句 | because it depends on public funding | 主句的原因状语 |
+> | 介词短语 | on public funding | depends（依靠）|
+> | 并列分句 | and few people understand... | 与分句1并列，由 and 连接 |
+> | 介词短语 | of health care research | process（后置定语）|
+>
+> **结构图解**：
+> ```
+> 并列复合句（由 and 连接两个独立分句）:
+> ├── 分句1: Leaders of the animal rights movement + target + biomedical research
+> │   ├── 介短: (of the animal rights movement) → 修饰 Leaders
+> │   │     └── 介短: (of the movement) → 修饰 rights
+> │   └── 状从: (because it depends on public funding) → 原因状语
+> │         └── 介短: (on public funding) → 修饰 depends
+> └── 分句2: few people + understand + the process of health care research
+>     └── 介短: (of health care research) → 修饰 process
+> ```
+>
+> **参考译文**：动物权利运动的领导者们把生物医学研究作为靶子，原因在于它依赖公共资金，而且很少有人了解卫生保健研究的过程。
+>
+> **考点提示**：
+>
+> 1. **target 的动词用法**：target 在考研中常作名词"目标"，本句作动词"把…作为目标/针对"，相当于 aim at / focus on。target 还可以作形容词"针对性的"（target audience 目标受众）。
+> 2. **并列复合句的识别**：本句中 and 连接的是两个独立分句（各有独立的主语和谓语），属于**并列复合句**（compound sentence），不是简单句的并列谓语。判断要点：and 前后是否各有完整的主谓结构。
+> 3. **because 引导原因状语从句**：because + 完整句子（注意区分 because of + 名词）。本句 because it depends... 中，it 指代前文的 biomedical research。
+> 4. **depend on 短语**：depend on = 依靠/取决于/有赖于，常与介词 on 搭配。同源名词 dependence, independence；形容词 dependent, independent。
+> 5. **多级后置定语链**：Leaders of the animal rights movement 中，先用 of the animal rights movement 修饰 Leaders，而 animal rights 本身又通过 of the movement 与 rights 关联，形成修饰链。
+> 6. **few 表示否定**：few people = 几乎没有人（否定意义，含义接近 nobody）；a few people = 有一些人（肯定意义）。Few 是否定词，做主语时谓语用单复数均可。
+> 7. **process of health care research**：学术英语中常见的"抽象名词 + 介词 + 修饰语"结构，与 the process of doing sth 句型结合紧密。
+
 （1）For example, a grandmotherly woman staffing an animal rights booth at a recent street fair was distributing a brochure that encouraged readers not to use anything that comes from or is tested in animals—no meat, no fur, no medicines.（2）Asked if she opposed immunizations, she wanted to know if vaccines come from animal research.（3）When assured that they do, she replied, "Then I would have to say yes."（4）Asked what will happen when epidemics return, she said, "Don't worry, scientists will find some way of using computers."（5）Such well-meaning people just don't understand.
 
 （1）Scientists must communicate their message to the public in a compassionate, understandable way—in human terms, not in the language of molecular biology.（2）We need to make clear the connection between animal research and a grandmother's hip replacement, a father's bypass operation, a baby's vaccinations, and even a pet's shots.（3）To those who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines, animal research seems wasteful at best and cruel at worst.
