@@ -506,6 +506,77 @@ sources:
 > 7. **acquire 词汇辨析**：acquire = "获得/习得"，强调持续努力后获得。常用于 acquire knowledge/a habit/a reputation/an appearance。常见搭配：acquire a deceptive appearance（获得欺骗性外观）。
 > 8. **a deceptive appearance of truth 短语分析**：a deceptive（形容词）appearance（名词）of truth（介词短语）= "真理的欺骗性外观"。考研阅读常见"抽象名词 + 介词 + 抽象名词"结构，需识别修饰关系。
 
+> [!abstract]- 长难句分析
+> **原句**：Finally, because the ultimate stakeholders are patients, the health research community should actively recruit to its cause not only well-known personalities such as Stephen Cooper, who has made courageous statements about the value of animal research, but all who receive medical treatment.
+>
+> **主干提取**：
+>
+> - **S (主语)**：the health research community
+> - **V (谓语)**：should recruit
+> - **A (状语)**：to its cause（方向/目的状语）+ actively（方式状语）
+> - **O (宾语)**：not only A but (also) B（not only... but also 并列结构）
+>   - A：well-known personalities such as Stephen Cooper, who has made...
+>   - B：all who receive medical treatment
+> - **A (状语)**：Finally（顺序状语）+ because the ultimate stakeholders are patients（原因状语从句）
+>
+> **简化主干**：The community should recruit to its cause not only A but B.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/内容 | 修饰对象 |
+> |------|------------|----------|
+> | 顺序状语 | Finally | 整句（段首，置于句首表"最后一点"）|
+> | 原因状语从句 | because the ultimate stakeholders are patients | 整句原因状语 |
+> | 名词短语 | the ultimate stakeholders | 从句主语 |
+> | 介词短语 | to its cause | recruit（方向/目的）|
+> | 副词 | actively | recruit（方式状语）|
+> | 并列连词 | not only... but (also)... | 连接 A 和 B 两个并列宾语 |
+> | 名词短语 A | well-known personalities | not only 后宾语 |
+> | 介词短语 | such as Stephen Cooper | personalities（举例）|
+> | 非限定性定从 | who has made courageous statements about the value of animal research | Stephen Cooper（补充说明）|
+> | 介词短语 | about the value of animal research | statements（修饰）|
+> | 介词短语 | of animal research | the value（修饰）|
+> | 名词短语 B | all | but 后宾语 |
+> | 定语从句 | who receive medical treatment | all（修饰不定代词 all）|
+> | 介词短语 | medical treatment | receive（接受治疗）|
+>
+> **结构图解**：
+> ```
+> 主句: The health research community + should recruit + to its cause + not only A but B
+>   ├── 介短: (to its cause) → 方向/目的状语
+>   ├── 副词: (actively) → 方式状语
+>   ├── 并列 1: (not only) → 引导 A
+>   │     └── A: well-known personalities
+>   │           ├── 介短: (such as Stephen Cooper) → 举例
+>   │           │     └── 非限制定从: (who has made courageous statements about the value of animal research) → 修饰 Stephen Cooper
+>   │           │           └── 介短: (about the value of animal research) → 修饰 statements
+>   │           │                 └── 介短: (of animal research) → 修饰 value
+>   ├── 并列连词: (but also / but) → 连接 B
+>   └── 并列 2: (also) → 引导 B
+>         └── B: all
+>               └── 定从: (who receive medical treatment) → 修饰 all
+>
+> 前置状语:
+>   ├── 顺序状语: (Finally) → 表段末总结
+>   └── 原因状从: (because the ultimate stakeholders are patients)
+>         └── 名词短语: (the ultimate stakeholders) → 从句主语
+> ```
+>
+> **参考译文**：最后，由于最终的利益相关者是患者，卫生研究界应当积极争取人们对其事业的支持——不仅要争取像斯蒂芬·库珀这样就动物研究的价值作出勇敢声明的知名人士，而且要争取所有接受过治疗的人。
+>
+> **考点提示**：
+>
+> 1. **not only... but (also)... 并列结构**：连接两个并列成分，also 可省略。**关键规则**：not only 置于句首时，主句需用倒装结构（Not only is he..., but he also...）；not only 不在句首时不倒装。本句 not only 位于宾语位置，不倒装。
+> 2. **recruit to its cause 短语**：recruit 在此不只表示"招募人员"，更广泛表示"争取支持"。recruit sb to sth = 争取某人加入/支持某事。**辨析**：recruit（v. 招募）、enlist（v. 争取支持）、draw...to（吸引...到）。
+> 3. **such as 举例用法**：such as Stephen Cooper = "诸如斯蒂芬·库珀（这样的）"。**注意**：such as 列举可以后接多项（such as A, B, and C），但**不能**用 such as...and... 结构（即不能写成 such as A and B，应写成 A and B, such as C）。
+> 4. **非限定性定语从句作插入语**：who has made courageous statements... 与主句用逗号分隔，仅作补充说明 Stephen Cooper。翻译时常译为并列分句或插入语。
+> 5. **all who... 定语从句**：all 是**不定代词**，其后的定语从句关系代词**只能用 that 或 who**（指人时用 who），不能用 which。本句 all who receive medical treatment 意为"所有接受治疗的人"。
+> 6. **cause 多义辨析**：cause 此处意为"事业"（为之奋斗的目标/理想），呼应全文主题（a misguided cause 一项被误导的事业）。cause 三大义项：原因、事业、（诉讼）案由。
+> 7. **stakeholders 词汇**：stake（利害关系）+ holder（持有者）= 利益相关者。本句 the ultimate stakeholders are patients 强调"最终利益相关者是患者"，呼应全文主旨（动物研究最终服务于患者）。
+> 8. **Finally 段首用法**：Finally 用于段首表"最后一点"，是 5 段式议论文（提出现状-举例-建议-措施-总结）结尾段落的高频词。类似表达：Last but not least（最后但同样重要）、To conclude（总之）、In sum（总而言之）。
+> 9. **courageous / value / research 三层嵌套后置定语**：courageous statements about the value of animal research —— statements 被 about 介短修饰，value 又被 of 介短修饰，形成"形容词 + 名词 + 介短 + 名词 + 介短 + 名词"多层嵌套。
+> 10. **medical treatment 短语辨析**：medical（医学的/医疗的）+ treatment（治疗）= 医疗/治疗。注意区分：medical care（医疗保健）、medical research（医学研究）、medical treatment（医疗/治疗）。
+
 ## 试题
 
 **46. The author begins his article with Edmund Burke's words to**
