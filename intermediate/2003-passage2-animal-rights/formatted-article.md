@@ -396,6 +396,59 @@ sources:
 
 （1）Scientists must communicate their message to the public in a **compassionate,** understandable way—in human terms, not in the language of **molecular** biology.（2）We need to make clear the connection between animal research and a grandmother's **hip** replacement, a father's **bypass** operation, a baby's vaccinations, and even a pet's shots.（3）To those who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines, animal research seems wasteful at best and cruel at worst.
 
+> [!abstract]- 长难句分析
+> **原句**：To those who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines, animal research seems wasteful at best and cruel at worst.
+>
+> **主干提取**：
+>
+> - **S (主语)**：animal research
+> - **V (谓语)**：seems（系动词）
+> - **C (表语)**：wasteful at best and cruel at worst（由 and 连接的两个形容词短语）
+> - **A (状语)**：To those who are unaware that...（对象状语，置于句首）
+>
+> **简化主干**：Animal research seems wasteful and cruel.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/内容 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | To those (who are unaware...) | 整句对象状语，置于句首以突出对象 |
+> | 定语从句 | who are unaware that... | those（限定性定从，修饰 those）|
+> | 宾语从句 | that animal research was needed to produce these treatments | unaware 的宾语 |
+> | 不定式 | to produce these treatments | was needed（需要做某事，need to do 被动式）|
+> | 介词短语 | as well as new treatments and vaccines | these treatments（并列补充）|
+> | 并列形容词 | wasteful and cruel | seems 的表语（and 连接）|
+> | 介词短语 | at best | wasteful（程度状语）|
+> | 介词短语 | at worst | cruel（程度状语）|
+>
+> **结构图解**：
+> ```
+> 主句: Animal research + seems + wasteful at best and cruel at worst
+>   ├── 介短: (at best) → 修饰 wasteful（"往好里说"）|
+>   ├── 并列: (and) → 连接两个表语 |
+>   └── 介短: (at worst) → 修饰 cruel（"往坏里说"）|
+>
+> 前置状语:
+>   └── 介短: (To those who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines) → 对象状语
+>         ├── 定从: (who are unaware that...) → 修饰 those
+>         │     └── 宾从: (that animal research was needed to produce these treatments) → unaware 的宾语
+>         │           └── 不定式: (to produce these treatments) → was needed 的逻辑宾语
+>         └── 介短: (as well as new treatments and vaccines) → 补充 these treatments
+> ```
+>
+> **参考译文**：对于那些不知道动物研究是用于开发这些疗法（以及新的疗法和疫苗）所必需的人来说，动物研究往好了说似乎是浪费，往坏了说则是残忍。
+>
+> **考点提示**：
+>
+> 1. **To those who... 介词短语作状语**：to + 人 + 定语从句 = "对那些…的人来说"，常置于句首以突出"对象"。同类结构：To those who believe..., To those who think...。翻译时常译为"对于那些…的人"。
+> 2. **be unaware that... 结构**：unaware 是形容词（un- + aware），不是动词。be unaware that... = 不知道，that 引导**宾语从句**。**关键辨析**：unaware 是形容词，不能直接接 that（需要 be 链接）；aware that / unaware that 是固定搭配。
+> 3. **need to do 的被动式**：animal research **was needed to produce** these treatments = "动物研究被需要来生产这些疗法"，need 在此表"被需要"，**不定式 to produce** 是被动结构中的**逻辑宾语**（保留不定式）。考研翻译常考。
+> 4. **as well as 短语辨析**：as well as = (1) "和…一样/也"（连接并列成分）：He speaks French as well as English；(2) "以及/还"（补充说明）：本句 as well as new treatments and vaccines 即此用法，补充 these treatments。**注意**：as well as 连接主语时，谓语动词与**前者**一致（these treatments）。
+> 5. **seem + adj. 系表结构**：seem 是系动词，后接形容词作表语。seem + to do / seem + that 从句 也是高频结构（He seems to know. / It seems that...）。
+> 6. **at best / at worst 短语**：at best = 往好里说/充其量；at worst = 往坏里说/最坏的情况下。本句用 at best + at worst 形成的"对照结构"，强调对动物研究两种极端（最好/最坏）的评价。常见搭配：at most 至多 / at least 至少 / at best 充其量 / at worst 最坏。
+> 7. **wasteful / cruel 形容词表语**：wasteful = 浪费的（浪费资源/时间的），cruel = 残忍的。wasteful 强调"造成浪费"，cruel 强调"造成痛苦"，两者并列形成从"经济"到"道德"的双重批判。
+> 8. **句子倒装特征（主语 + 系表 + 前置状语）**：本句将 To those... 状语前置，主语 animal research 紧跟其后，形成"状语 + 主语 + 系表"结构，是英文常见的**修辞倒装**（非语法倒装），目的是强调状语所修饰的对象。
+
 （1）Much can be done.（2）Scientists could "adopt" middle school classes and present their own research.（3）They should be quick to respond to letters to the editor, lest animal rights misinformation go unchallenged and acquire a deceptive appearance of truth.（4）Research institutions could be opened to tours, to show that laboratory animals receive humane care.（5）Finally, because the ultimate stakeholders are patients, the health research community should actively recruit to its cause not only well-known personalities such as Stephen Cooper, who has made courageous statements about the value of animal research, but all who receive medical treatment.（6）If good people do nothing, there is a real possibility that an uninformed citizenry will extinguish the precious embers of medical progress.
 
 ## 试题
