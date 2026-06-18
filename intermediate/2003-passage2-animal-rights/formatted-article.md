@@ -297,6 +297,53 @@ sources:
 > 7. **grandmotherly 构词法**：grandmother（祖母）+ -ly（形容词后缀，由名词变形容词）= 似祖母的/慈祥的。类似构词：fatherly、motherly、brotherly、manly、cowardly。
 > 8. **staff 作动词**：staff a booth = 在摊位工作/配备人员，常见用法：a hospital staffed with experienced doctors（配备经验丰富的医生的医院）。
 
+> [!abstract]- 长难句分析
+> **原句**：Asked if she opposed immunizations, she wanted to know if vaccines come from animal research.
+>
+> **主干提取**：
+>
+> - **S (主语)**：she
+> - **V (谓语)**：wanted
+> - **O (宾语)**：to know if vaccines come from animal research（不定式 to know + 宾语从句）
+>
+> **简化主干**：She wanted to know if vaccines come from animal research.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/内容 | 修饰对象 |
+> |------|------------|----------|
+> | 过去分词短语（状语）| Asked if she opposed immunizations | 时间/条件状语，逻辑主语为 she（被动）|
+> | 间接疑问句（宾语从句）| if she opposed immunizations | Asked 的直接宾语 |
+> | 介词短语 | to know | wanted（want to do 结构）|
+> | 间接疑问句（宾语从句）| if vaccines come from animal research | know 的宾语 |
+> | 介词短语 | from animal research | come（来源）|
+>
+> **结构图解**：
+> ```
+> 主句: She + wanted + to know + if vaccines come from animal research
+>   ├── 不定式: (to know...) → wanted 的宾语
+>   └── 宾从: (if vaccines come from animal research) → know 的宾语
+>         └── 介短: (from animal research) → 修饰 come
+>
+> 前置状语:
+>   └── 过去分词: (Asked if she opposed immunizations) → 时间状语
+>         └── 宾从: (if she opposed immunizations) → Asked 的直接宾语
+>               └── 时态呼应: 过去时（Asked）→ 过去时（opposed）
+> ```
+>
+> **参考译文**：当被问及是否反对免疫接种时，她反过来想了解疫苗是否来自动物研究。
+>
+> **考点提示**：
+>
+> 1. **过去分词短语作状语**：Asked = When she was asked，表时间/条件/让步。**关键规则**：分词作状语时，逻辑主语必须与主句主语一致（此处都是 she），且 she 与 Asked 是被动关系（she 被问），所以用过去分词。
+> 2. **间接疑问句（宾语从句）**：if she opposed immunizations 中，if 引导的是**间接一般疑问句**。**关键规则**：间接疑问句必须用**陈述语序**（if she opposed...），不能倒装（不可写 if did she oppose...）。直接引语 Did she oppose...? → 间接引语 if she opposed... 是经典转换。
+> 3. **if vs whether**：两者都表示"是否"，可互换。区别：if 多用于口语/非正式场合；whether 更正式，且可与 or not 连用（whether or not）、可置于句首（Whether... is uncertain）、可作介词宾语（it depends on whether...）。
+> 4. **过去时呼应（时态一致）**：主句 Asked（一般过去时）→ 从句 opposed（一般过去时）。**时态呼应规则**：主句过去时，从句也需用相应的过去时态（一般过去 / 过去进行 / 过去完成 / 过去将来）。
+> 5. **want to do 结构**：want 后接不定式作宾语，表"想要做某事"。want sb to do 也常考（想要某人做某事）。
+> 6. **oppose 词汇辨析**：oppose（v. 反对）= be against，常用结构 oppose (doing) sth / be opposed to (doing) sth。注意 oppose 是及物动词，不能说 oppose to do sth。
+> 7. **vaccine / vaccinate / vaccination / immunization 词族**：vaccine（n. 疫苗）；vaccinate（v. 接种）；vaccination（n. 接种行为）；immunization（n. 免疫接种，更正式）。本句中 vaccines 与 immunizations 互为上下文呼应。
+> 8. **come from 短语**：come from = 来自/来源于，与 originate from / derive from / stem from 同义。
+
 （1）Scientists must communicate their message to the public in a compassionate, understandable way—in human terms, not in the language of molecular biology.（2）We need to make clear the connection between animal research and a grandmother's hip replacement, a father's bypass operation, a baby's vaccinations, and even a pet's shots.（3）To those who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines, animal research seems wasteful at best and cruel at worst.
 
 （1）Much can be done.（2）Scientists could "adopt" middle school classes and present their own research.（3）They should be quick to respond to letters to the editor, lest animal rights misinformation go unchallenged and acquire a deceptive appearance of truth.（4）Research institutions could be opened to tours, to show that laboratory animals receive humane care.（5）Finally, because the ultimate stakeholders are patients, the health research community should actively recruit to its cause not only well-known personalities such as Stephen Cooper, who has made courageous statements about the value of animal research, but all who receive medical treatment.（6）If good people do nothing, there is a real possibility that an uninformed citizenry will extinguish the precious embers of medical progress.
