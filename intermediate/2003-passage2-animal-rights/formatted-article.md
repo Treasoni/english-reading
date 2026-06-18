@@ -17,7 +17,7 @@ sources:
 
 ## 文章原文
 
-（1）To **paraphrase** 18th-century statesman Edmund Burke, "all that is needed for the triumph of a misguided **cause** is that good people do nothing."（2）One such cause now seeks to end biomedical research because of the theory that animals have rights ruling out their use in research.（3）Scientists need to respond forcefully to animal rights advocates, whose arguments are confusing the public and thereby threatening advances in health knowledge and care.（4）Leaders of the animal rights movement target biomedical research because it depends on public funding, and few people understand the process of health care research.（5）Hearing allegations of cruelty to animals in research settings, many are perplexed that anyone would deliberately harm an animal.
+（1）To **paraphrase** 18th-century statesman Edmund Burke, "all that is needed for the triumph of a misguided **cause** is that good people do nothing."（2）One such cause now seeks to end biomedical research because of the theory that animals have **rights** ruling out their use in research.（3）Scientists need to respond forcefully to animal rights advocates, whose arguments are confusing the public and thereby threatening advances in health knowledge and care.（4）Leaders of the animal rights movement target biomedical research because it depends on public funding, and few people understand the process of health care research.（5）Hearing allegations of cruelty to animals in research settings, many are perplexed that anyone would deliberately harm an animal.
 
 > [!abstract]- 长难句分析
 > **原句**：To **paraphrase** 18th-century statesman Edmund Burke, "all that is needed for the triumph of a misguided cause is that good people do nothing."
