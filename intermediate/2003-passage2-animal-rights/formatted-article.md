@@ -104,6 +104,51 @@ sources:
 > 4. **现在分词短语作后置定语**：ruling out their use in research = which/that rules out their use in research，修饰 rights。
 > 5. **一词多义辨析**：cause 此处意为"事业"（误入歧途的事业），呼应上句的 a misguided cause。cause 常见义项：原因、事业、（为…而奋斗的）目标。
 
+> [!abstract]- 长难句分析
+> **原句**：Scientists need to respond forcefully to animal rights advocates, whose arguments are confusing the public and thereby threatening advances in health knowledge and care.
+>
+> **主干提取**：
+>
+> - **S (主语)**：Scientists
+> - **V (谓语)**：need
+> - **O (宾语)**：to respond forcefully to animal rights advocates（不定式作宾语，need to do 结构）
+> - **A (状语)**：forcefully（方式状语）+ to animal rights advocates（对象状语）
+>
+> **简化主干**：Scientists need to respond to animal rights advocates.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/内容 | 修饰对象 |
+> |------|------------|----------|
+> | 不定式 | to respond forcefully to animal rights advocates | need（need to do 复合结构）|
+> | 副词 | forcefully | respond（方式状语）|
+> | 介词短语 | to animal rights advocates | respond（对象/方向状语）|
+> | 非限定性定语从句 | whose arguments are confusing the public and thereby threatening advances in health knowledge and care | animal rights advocates（补充说明）|
+> | 介词短语 | in health knowledge and care | advances（修饰 advances）|
+> | 副词 | thereby | threatening（结果状语）|
+>
+> **结构图解**：
+> ```
+> 主句: Scientists + need + to respond forcefully to animal rights advocates
+>   ├── 不定式: (to respond...) → need 的宾语
+>   │     ├── 方式状语: (forcefully) → 修饰 respond
+>   │     └── 介短: (to animal rights advocates) → 修饰 respond
+>   └── 非限制定从: (whose arguments are confusing the public and thereby threatening advances in health knowledge and care) → 修饰 animal rights advocates
+>         ├── 介短: (in health knowledge and care) → 修饰 advances
+>         └── 副词: (thereby) → 修饰 threatening，表自然结果
+> ```
+>
+> **参考译文**：科学家必须对动物权利倡导者作出有力回应——他们的论点在混淆公众，进而威胁到卫生保健领域的进步。
+>
+> **考点提示**：
+>
+> 1. **need to do 结构**：need 后接不定式表示"需要做某事"，是 need 的高频搭配。need doing（动名词主动表被动）和 need to be done 也常考。
+> 2. **非限定性定语从句 vs 限定性定语从句**：本句 whose 引导的是**非限定性定语从句**（与主句之间有逗号），仅作补充说明，去掉后主句仍完整。翻译时常译为并列分句。
+> 3. **whose 引导定从**：whose 表示"…的"，既可指人也可指物，在从句中作定语。本句 whose 指代 animal rights advocates。
+> 4. **thereby + V-ing 结构**：thereby（因此/从而）+ 现在分词作结果状语，是考研写作和翻译的高分句式。
+> 5. **并列谓语 and... and (thereby) doing**：confusing... and threatening... 两个并列谓语，第二个谓语前省略了 are，并由 thereby 修饰以表达因果递进。
+> 6. **辨析：forceful / forced / enforce**：forceful 强有力/有说服力（形容词）；force 力量/强迫（动词/名词）；enforce 实施/执行（动词）。
+
 （1）For example, a grandmotherly woman staffing an animal rights booth at a recent street fair was distributing a brochure that encouraged readers not to use anything that comes from or is tested in animals—no meat, no fur, no medicines.（2）Asked if she opposed immunizations, she wanted to know if vaccines come from animal research.（3）When assured that they do, she replied, "Then I would have to say yes."（4）Asked what will happen when epidemics return, she said, "Don't worry, scientists will find some way of using computers."（5）Such well-meaning people just don't understand.
 
 （1）Scientists must communicate their message to the public in a compassionate, understandable way—in human terms, not in the language of molecular biology.（2）We need to make clear the connection between animal research and a grandmother's hip replacement, a father's bypass operation, a baby's vaccinations, and even a pet's shots.（3）To those who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines, animal research seems wasteful at best and cruel at worst.
