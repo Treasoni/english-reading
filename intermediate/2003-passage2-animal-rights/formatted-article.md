@@ -649,7 +649,7 @@ sources:
 - [A] cruel but natural.
 - [B] inhuman and unacceptable.
 - [C] inevitable but vicious.
-- [D] pointless and wasteful.
+- [D] **pointless** and wasteful.
 
 **48. The example of the grandmotherly woman is used to show the public's**
 
