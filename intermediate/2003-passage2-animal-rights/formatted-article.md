@@ -62,6 +62,48 @@ sources:
 > 4. **同位语识别**：18th-century statesman 作 Edmund Burke 的同位语，破折号 / 逗号分隔，考研翻译常考。
 > 5. **引语作宾语**：整个引号部分（"..."）为直接引语，作 paraphrase 的宾语，可视为整个句子的逻辑宾语。
 
+> [!abstract]- 长难句分析
+> **原句**：One such cause now seeks to end biomedical research because of the theory that animals have rights ruling out their use in research.
+>
+> **主干提取**：
+>
+> - **S (主语)**：One such cause
+> - **V (谓语)**：seeks
+> - **O (宾语)**：to end biomedical research（不定式作宾语）
+> - **A (状语)**：because of the theory that...（介词短语作原因状语）
+>
+> **简化主干**：One such cause seeks to end biomedical research.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/内容 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语 | because of the theory that... | 整句原因状语 |
+> | 同位语从句 | that animals have rights ruling out their use in research | the theory（解释 theory 的内容）|
+> | 现在分词短语 | ruling out their use in research | rights（rights 的后置定语）|
+> | 介词短语 | in research | use（修饰 use）|
+> | 不定式 | to end biomedical research | seeks（宾语，seek to do 结构）|
+>
+> **结构图解**：
+> ```
+> 主句: One such cause + seeks + to end biomedical research
+>   ├── 状语: (because of the theory that...) → 原因状语
+>   │   └── 同位语从句: (that animals have rights ruling out their use in research) → 解释 the theory
+>   │         └── 现在分词: (ruling out their use in research) → 修饰 rights
+>   │               └── 介短: (in research) → 修饰 use
+>   └── 不定式: (to end biomedical research) → 宾语
+> ```
+>
+> **参考译文**：如今就有这样一项（被误导的）事业，它试图终止生物医学研究，其依据是：动物拥有权利的理论——这一理论排除了将动物用于研究。
+>
+> **考点提示**：
+>
+> 1. **同位语从句与定语从句辨析**：that 引导的从句在句中不作任何成分（animals have rights 已是主谓宾结构），且解释的是抽象名词 theory——这是**同位语从句**。考研翻译常考点。若 that 在从句中作主语/宾语，则为定语从句。
+> 2. **seek to do 结构**：seek 后接不定式表示"试图/设法做某事"，相当于 try to do，是考研高频动词。
+> 3. **because of vs because**：because of 是介词短语，后接名词或名词性短语；because 是连词，后接完整句子。本句 because of the theory + 同位语从句，结构上 theory 是介词宾语，that 从句作 theory 的同位语。
+> 4. **现在分词短语作后置定语**：ruling out their use in research = which/that rules out their use in research，修饰 rights。
+> 5. **一词多义辨析**：cause 此处意为"事业"（误入歧途的事业），呼应上句的 a misguided cause。cause 常见义项：原因、事业、（为…而奋斗的）目标。
+
 （1）For example, a grandmotherly woman staffing an animal rights booth at a recent street fair was distributing a brochure that encouraged readers not to use anything that comes from or is tested in animals—no meat, no fur, no medicines.（2）Asked if she opposed immunizations, she wanted to know if vaccines come from animal research.（3）When assured that they do, she replied, "Then I would have to say yes."（4）Asked what will happen when epidemics return, she said, "Don't worry, scientists will find some way of using computers."（5）Such well-meaning people just don't understand.
 
 （1）Scientists must communicate their message to the public in a compassionate, understandable way—in human terms, not in the language of molecular biology.（2）We need to make clear the connection between animal research and a grandmother's hip replacement, a father's bypass operation, a baby's vaccinations, and even a pet's shots.（3）To those who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines, animal research seems wasteful at best and cruel at worst.
