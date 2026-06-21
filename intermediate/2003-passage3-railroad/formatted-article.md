@@ -52,6 +52,35 @@ In recent years, railroads have been combining with each other, **merging** into
 
 **Supporters** of the new supersystems argue that these mergers will allow for **substantial** cost reductions and better coordinated service. Any threat of monopoly, they argue, is removed by fierce competition from trucks. But many **shippers** complain that for heavy **bulk commodities** traveling long distances, such as coal, chemicals, and grain, trucking is too costly and the railroads therefore have them ==by the throat==.
 
+> [!abstract]- 长难句分析
+> **原句**：Any threat of monopoly, they argue, is removed by fierce competition from trucks.
+>
+> **主干提取**：Threat of monopoly is removed by competition from trucks.（S: Any threat of monopoly / V: is removed / A: by fierce competition from trucks）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|---------|
+> | 介词短语 | of | 修饰 "threat" |
+> | 插入语 | 逗号隔开 | 整个主句（表明观点来源） |
+> | 介词短语 | by | 被动施动者 |
+> | 介词短语 | from | 修饰 "competition" |
+>
+> **结构图解**：
+> ```
+> 主句: [Any threat of monopoly] + [is removed] + [by fierce competition from trucks]
+>   ├── 插入语: they argue → 陈述观点来源
+>   ├── 介短: of monopoly → 修饰 threat
+>   └── 介短: from trucks → 修饰 competition
+> ```
+>
+> **参考译文**：他们认为，任何垄断的威胁都会被来自卡车运输的激烈竞争所消除。
+>
+> **考点提示**：
+> 1. **插入语分隔主谓**：主语 "Any threat of monopoly" 与谓语 "is removed" 被插入语 "they argue" 分隔。阅读时需跳过插入语，直接连接主语和谓语。
+> 2. **被动语态**：is removed by... 被动结构，by 后接施动者（fierce competition）。
+> 3. **"they argue" 的位置**：表明该观点是支持者（Supporters）的论点，而非作者立场，考研常考观点归属判断。
+
 ## Paragraph 3
 
 The vast ==**consolidation**== within the rail industry means that most shippers are served by only one rail company. Railroads typically charge such ==**"captive" shippers**== 20 to 30 percent more than they do when another railroad is competing for the business. Shippers who feel they are being overcharged have the right to **appeal** to the federal government's **Surface Transportation Board** for rate relief, but the process is expensive, time consuming, and will work only in truly extreme cases.
