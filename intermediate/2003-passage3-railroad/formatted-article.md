@@ -8,7 +8,7 @@ tags:
   - 2003
   - passage-3
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-06-21
 sources:
   - "/Users/zhqznc/Documents/英语阅读资料/2003阅读/passage_3.md"
 ---
@@ -18,6 +18,35 @@ sources:
 ## Paragraph 1
 
 In recent years, railroads have been combining with each other, **merging** into ==supersystems==, causing heightened concerns about ==**monopoly**==. As recently as 1995, the top four railroads accounted for under 70 percent of the total **ton-miles** moved by rails. Next year, after a series of mergers is completed, just four railroads will control well over 90 percent of all the **freight** moved by major rail carriers.
+
+> [!abstract]- 长难句分析
+> **原句**：Next year, after a series of mergers is completed, just four railroads will control well over 90 percent of all the freight moved by major rail carriers.
+>
+> **主干提取**：Four railroads will control 90 percent of the freight.（S: just four railroads / V: will control / O: well over 90 percent of all the freight / A: Next year）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|---------|
+> | 时间状语从句 | after | 整个主句 |
+> | 介词短语 | of | 修饰 "90 percent" |
+> | 过去分词短语 | moved by | 修饰 "freight" |
+>
+> **结构图解**：
+> ```
+> 主句: [just four railroads] + [will control] + [well over 90 percent of all the freight]
+>   ├── 时间状语: Next year → 整个主句
+>   ├── 状从: after a series of mergers is completed → 时间条件
+>   └── 过去分词短语: moved by major rail carriers → 修饰 freight
+> ```
+>
+> **参考译文**：明年，经过一系列兼并完成后，仅四家铁路公司就将控制主要铁路运输商所承运货物总量的90%以上。
+>
+> **考点提示**：
+> 1. **after 引导的时间状语从句**：介词 after 既可作介词（后接名词/动名词），也可作连词（后接从句）。此处后接从句，谓语用一般现在时（is completed）表示将来。
+> 2. **过去分词短语作后置定语**："moved by major rail carriers" 修饰 "freight"，相当于省略了 which is 的定语从句。
+> 3. **"well over" 的语义**：well 修饰 over，表示"远远超过"，考研翻译中需准确传达程度。
+> 4. **主谓一致**："a series of mergers" 中 series 为单数，故谓语用 is 而非 are。
 
 ## Paragraph 2
 
