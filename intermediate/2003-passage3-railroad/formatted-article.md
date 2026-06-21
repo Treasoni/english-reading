@@ -191,6 +191,7 @@ The vast ==**consolidation**== within the rail industry means that most shippers
 > 2. **被动进行时**：are being overcharged = are being + 过去分词，表示"正在被多收费"，强调持续性。
 > 3. **不定式作后置定语**：the right to appeal，to appeal 修饰 right，说明权利的具体内容。
 > 4. **并列结构的省略**：expensive, time consuming, and will work... 中 will work 与 is 并列，省略了主语 the process。
+> 5. **"appeal to" 的法律含义**：appeal to 在法律语境下表示"上诉、申诉"，此处指托运人有权向政府机构提出费率减免申诉。常见搭配：appeal to a higher court（向上级法院上诉）、appeal to the board（向委员会申诉）。
 
 ## Paragraph 4
 
