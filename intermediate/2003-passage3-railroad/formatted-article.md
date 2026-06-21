@@ -197,6 +197,36 @@ The vast ==**consolidation**== within the rail industry means that most shippers
 
 Railroads justify **rate discrimination** against captive shippers on the grounds that in the long run it reduces everyone's cost. If railroads charged all customers the same average rate, they argue, shippers who have the option of switching to trucks or other forms of transportation would do so, leaving remaining customers to **shoulder** the cost of keeping up the line. It's a theory to which many economists **subscribe**, but in practice it often leaves railroads in the position of determining which companies will **flourish** and which will fail. "Do we really want railroads to be the ==**arbiters**== of ==who wins and who loses in the marketplace==?" asks Martin Bercovici, a Washington lawyer who frequently represents shippers.
 
+> [!abstract]- 长难句分析
+> **原句**：Railroads justify rate discrimination against captive shippers on the grounds that in the long run it reduces everyone's cost.
+>
+> **主干提取**：Railroads justify rate discrimination.（S: Railroads / V: justify / O: rate discrimination against captive shippers / A: on the grounds that...）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|---------|
+> | 介词短语 | against | 修饰 "discrimination"（针对谁） |
+> | 介词短语 | on the grounds that | 表示理由 |
+> | 同位语从句 | that | 解释 "grounds" 的内容 |
+> | 介词短语 | in the long run | 从句内时间状语 |
+>
+> **结构图解**：
+> ```
+> 主句: [Railroads] + [justify] + [rate discrimination against captive shippers]
+>   ├── 介短: against captive shippers → 修饰 discrimination（针对谁）
+>   └── 介短: on the grounds that... → 理由
+>         └── 同位语从句: that it reduces everyone's cost → 解释 grounds
+>               └── 状语: in the long run → 时间
+> ```
+>
+> **参考译文**：铁路公司为针对"被俘获"托运人的差别定价辩护，理由是从长远来看这会降低所有人的成本。
+>
+> **考点提示**：
+> 1. **"on the grounds that" 固定搭配**：表示"以...为理由、基于...的理由"。on the grounds of + 名词，on the grounds that + 从句。
+> 2. **"against" 的含义**：此处表示"针对"，而非"反对"。rate discrimination against... = 针对...的差别定价。
+> 3. **同位语从句**：that 从句解释 grounds 的具体内容，是考研常考的从句类型。
+
 ## Paragraph 5
 
 Many captive shippers also worry they will soon be hit with ==a round of huge rate increases==. The railroad industry as a whole, despite its brightening fortunes, still does not earn enough to cover the cost of the **capital** it must invest to keep up with its **surging** traffic. Yet railroads continue to borrow billions to acquire one another, with ==Wall Street cheering them on==. Consider the \$10.2 billion bid by Norfolk Southern and CSX to acquire Conrail this year. Conrail's **net railway operating income** in 1996 was just \$427 million, less than half of the **carrying costs** of the transaction. Who's going to pay for the rest of the bill? Many captive shippers fear that they will, as Norfolk Southern and CSX increase their grip on the market.
