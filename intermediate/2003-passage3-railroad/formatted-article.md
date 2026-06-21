@@ -298,6 +298,39 @@ Many captive shippers also worry they will soon be hit with ==a round of huge ra
 > 2. **"be hit with" 被动结构**：表示"遭受、受到打击"，常用于负面语境。
 > 3. **"a round of" 量词短语**：表示"一轮"，常用于描述周期性或连续性的事件（如 a round of negotiations 一轮谈判）。
 
+> [!abstract]- 长难句分析
+> **原句**：The railroad industry as a whole, despite its brightening fortunes, still does not earn enough to cover the cost of the capital it must invest to keep up with its surging traffic.
+>
+> **主干提取**：The industry does not earn enough to cover the cost of capital.（S: The railroad industry as a whole / V: does not earn / O: enough to cover the cost of the capital）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|---------|
+> | 介词短语 | as a whole | 修饰 "industry"（整体上） |
+> | 让步状语 | despite | 整个主句（让步） |
+> | 副词 | still | 修饰 "does not earn"（仍然） |
+> | 不定式短语 | to cover | 修饰 "enough"（足够做...） |
+> | 定语从句 | (that/which) 省略 | 修饰 "capital" |
+> | 不定式短语 | to keep up with | 目的状语 |
+>
+> **结构图解**：
+> ```
+> 主句: [The railroad industry as a whole] + [still does not earn] + [enough to cover the cost of the capital]
+>   ├── 让步状语: despite its brightening fortunes → 让步
+>   ├── 介短: as a whole → 修饰 industry
+>   └── 定从: (that) it must invest to keep up with its surging traffic → 修饰 capital
+>         └── 不定式: to keep up with its surging traffic → 目的状语
+> ```
+>
+> **参考译文**：尽管前景看好，铁路行业整体上仍然没有赚到足够的钱来覆盖其为应对不断增长的运输量而必须投资的资本成本。
+>
+> **考点提示**：
+> 1. **despite 引导的让步状语**：despite + 名词/动名词，表示"尽管"。与 although/though 的区别：despite 后接名词短语，不能接从句。
+> 2. **省略关系代词的定语从句**："the capital (that) it must invest" 中 that 被省略，考研阅读中常见。
+> 3. **"enough to" 结构**：enough + to do，表示"足够做某事"。
+> 4. **"keep up with" 固定搭配**：表示"跟上、赶上"，常与 speed/traffic/development 等搭配。
+
 ---
 
 ## Questions
