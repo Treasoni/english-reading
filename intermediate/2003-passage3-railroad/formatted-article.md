@@ -152,6 +152,46 @@ The vast ==**consolidation**== within the rail industry means that most shippers
 > 3. **when 从句的含义**：此处 when 隐含"除非"的条件意义，而非单纯的时间意义。"只有当有竞争时才不收高价"= "没有竞争时就收高价"。
 > 4. **"captive" 的特殊含义**：字面意思是"被俘获的"，此处指被锁定的、没有选择的托运人，即只能依赖一家铁路公司的客户。
 
+> [!abstract]- 长难句分析
+> **原句**：Shippers who feel they are being overcharged have the right to appeal to the federal government's Surface Transportation Board for rate relief, but the process is expensive, time consuming, and will work only in truly extreme cases.
+>
+> **主干提取**：Shippers have the right to appeal, but the process is expensive and will work only in extreme cases.
+> - 分句1: S: Shippers / V: have / O: the right to appeal to... for rate relief
+> - 分句2: S: the process / V1: is / C: expensive, time consuming / V2: will work only in truly extreme cases
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|---------|
+> | 定语从句 | who | 修饰 "Shippers" |
+> | 名词性从句 | they are being overcharged | feel 的宾语 |
+> | 不定式短语 | to appeal to | 修饰 "right"（权利的内容） |
+> | 介词短语 | for | 修饰 "appeal"（目的） |
+> | 转折连词 | but | 连接两个对比分句 |
+> | 并列结构 | and | 连接两个谓语 |
+> | 限制性状语 | only in... | 修饰 "work"（限定条件） |
+>
+> **结构图解**：
+> ```
+> 分句1: [Shippers] + [have] + [the right to appeal to...]
+>   ├── 定从: who feel they are being overcharged → 修饰 Shippers
+>   │     └── 名从: they are being overcharged → feel 的宾语
+>   └── 不定式: to appeal to Surface Transportation Board → 修饰 right
+>         └── 介短: for rate relief → 目的
+>
+> 分句2: but [the process] + [is expensive, time consuming] + [and will work only in truly extreme cases]
+>   ├── 并列表语: expensive, time consuming
+>   └── 并列谓语: will work only in truly extreme cases
+> ```
+>
+> **参考译文**：感到被多收费的托运人有权向联邦政府的地面运输委员会申诉以获得费率减免，但这个过程既昂贵又耗时，而且只有在真正极端的情况下才会奏效。
+>
+> **考点提示**：
+> 1. **定语从句的识别**："who feel they are being overcharged" 修饰 Shippers，从句内部又包含 that 省略的宾语从句。
+> 2. **被动进行时**：are being overcharged = are being + 过去分词，表示"正在被多收费"，强调持续性。
+> 3. **不定式作后置定语**：the right to appeal，to appeal 修饰 right，说明权利的具体内容。
+> 4. **并列结构的省略**：expensive, time consuming, and will work... 中 will work 与 is 并列，省略了主语 the process。
+
 ## Paragraph 4
 
 Railroads justify **rate discrimination** against captive shippers on the grounds that in the long run it reduces everyone's cost. If railroads charged all customers the same average rate, they argue, shippers who have the option of switching to trucks or other forms of transportation would do so, leaving remaining customers to **shoulder** the cost of keeping up the line. It's a theory to which many economists **subscribe**, but in practice it often leaves railroads in the position of determining which companies will **flourish** and which will fail. "Do we really want railroads to be the ==**arbiters**== of ==who wins and who loses in the marketplace==?" asks Martin Bercovici, a Washington lawyer who frequently represents shippers.
