@@ -81,6 +81,44 @@ In recent years, railroads have been combining with each other, **merging** into
 > 2. **被动语态**：is removed by... 被动结构，by 后接施动者（fierce competition）。
 > 3. **"they argue" 的位置**：表明该观点是支持者（Supporters）的论点，而非作者立场，考研常考观点归属判断。
 
+> [!abstract]- 长难句分析
+> **原句**：But many shippers complain that for heavy bulk commodities traveling long distances, such as coal, chemicals, and grain, trucking is too costly and the railroads therefore have them by the throat.
+>
+> **主干提取**：Shippers complain that trucking is costly and railroads have them by the throat.（S: many shippers / V: complain / O: that 从句）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|---------|
+> | 转折连词 | But | 与前文对比 |
+> | 名词性从句 | that | complain 的宾语从句 |
+> | 介词短语 | for | 限定"针对什么" |
+> | 现在分词短语 | traveling | 修饰 "commodities" |
+> | 举例 | such as | 列举具体商品 |
+> | 并列连词 | and | 连接两个分句 |
+> | 介词短语 | by the throat | 习语，表示"控制" |
+>
+> **结构图解**：
+> ```
+> 主句: [many shippers] + [complain] + [that 从句]
+>   ├── 转折: But → 与前文 Supporters 的观点对比
+>   └── 名从: that ... → complain 的宾语从句
+>         ├── 介短: for heavy bulk commodities → 针对什么
+>         │     └── 非谓语: traveling long distances → 修饰 commodities
+>         ├── 举例: such as coal, chemicals, and grain
+>         └── 并列: and
+>               ├── 分句1: trucking is too costly
+>               └── 分句2: the railroads have them by the throat
+> ```
+>
+> **参考译文**：但许多托运人抱怨说，对于长途运输的大宗重货（如煤炭、化学品和粮食），卡车运输成本过高，因此铁路公司实际上已经掐住了他们的咽喉。
+>
+> **考点提示**：
+> 1. **that 引导的宾语从句**：complain that... 中 that 从句作宾语，从句内部包含并列结构。
+> 2. **for + 名词 + V-ing 结构**："for heavy bulk commodities traveling long distances" 中，traveling 作后置定语修饰 commodities。
+> 3. **习语 by the throat**：字面意思是"掐住喉咙"，引申为"完全控制、拿捏"。考研翻译需意译。
+> 4. **观点对比**：But 开头表明托运人的抱怨与前文支持者的论点形成对比，考研常考观点归属题。
+
 ## Paragraph 3
 
 The vast ==**consolidation**== within the rail industry means that most shippers are served by only one rail company. Railroads typically charge such ==**"captive" shippers**== 20 to 30 percent more than they do when another railroad is competing for the business. Shippers who feel they are being overcharged have the right to **appeal** to the federal government's **Surface Transportation Board** for rate relief, but the process is expensive, time consuming, and will work only in truly extreme cases.
