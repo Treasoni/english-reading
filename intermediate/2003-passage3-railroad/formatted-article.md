@@ -270,6 +270,34 @@ Railroads justify **rate discrimination** against captive shippers on the ground
 
 Many captive shippers also worry they will soon be hit with ==a round of huge rate increases==. The railroad industry as a whole, despite its brightening fortunes, still does not earn enough to cover the cost of the **capital** it must invest to keep up with its **surging** traffic. Yet railroads continue to borrow billions to acquire one another, with ==Wall Street cheering them on==. Consider the \$10.2 billion bid by Norfolk Southern and CSX to acquire Conrail this year. Conrail's **net railway operating income** in 1996 was just \$427 million, less than half of the **carrying costs** of the transaction. Who's going to pay for the rest of the bill? Many captive shippers fear that they will, as Norfolk Southern and CSX increase their grip on the market.
 
+> [!abstract]- 长难句分析
+> **原句**：Many captive shippers also worry they will soon be hit with a round of huge rate increases.
+>
+> **主干提取**：Shippers worry (that) they will be hit with rate increases.（S: Many captive shippers / V: worry / O: 省略 that 的宾语从句）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|---------|
+> | 副词 | also | 修饰 "worry"，表示"也" |
+> | 宾语从句 | (that) 省略 | worry 的宾语 |
+> | 被动语态 | be hit with | 从句谓语 |
+> | 量词短语 | a round of | 修饰 "increases" |
+>
+> **结构图解**：
+> ```
+> 主句: [Many captive shippers] + [worry]
+>   └── 名从: (that) they will soon be hit with a round of huge rate increases → worry 的宾语
+>         └── 介短: with a round of huge rate increases → 修饰 hit
+> ```
+>
+> **参考译文**：许多"被俘获的"托运人还担心他们很快将面临一轮大幅涨价。
+>
+> **考点提示**：
+> 1. **省略 that 的宾语从句**：worry (that) they will... 中 that 被省略，考研阅读中常见。
+> 2. **"be hit with" 被动结构**：表示"遭受、受到打击"，常用于负面语境。
+> 3. **"a round of" 量词短语**：表示"一轮"，常用于描述周期性或连续性的事件（如 a round of negotiations 一轮谈判）。
+
 ---
 
 ## Questions
