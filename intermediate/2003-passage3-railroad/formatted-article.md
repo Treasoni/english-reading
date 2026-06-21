@@ -1,16 +1,15 @@
 ---
-title: "2003 Passage 3 - Railroad Industry Consolidation"
+title: 2003 Passage 3 - Railroad Industry Consolidation
 type: article
 topic: 2003-passage3-railroad
 tags:
   - english-reading
   - formatted-article
-  - 2003
   - passage-3
 created: 2026-06-20
 updated: 2026-06-21
 sources:
-  - "/Users/zhqznc/Documents/英语阅读资料/2003阅读/passage_3.md"
+  - /Users/zhqznc/Documents/英语阅读资料/2003阅读/passage_3.md
 ---
 
 # Railroad Industry Consolidation
@@ -122,6 +121,36 @@ In recent years, railroads have been combining with each other, **merging** into
 ## Paragraph 3
 
 The vast ==**consolidation**== within the rail industry means that most shippers are served by only one rail company. Railroads typically charge such ==**"captive" shippers**== 20 to 30 percent more than they do when another railroad is competing for the business. Shippers who feel they are being overcharged have the right to **appeal** to the federal government's **Surface Transportation Board** for rate relief, but the process is expensive, time consuming, and will work only in truly extreme cases.
+
+> [!abstract]- 长难句分析
+> **原句**：Railroads typically charge such "captive" shippers 20 to 30 percent more than they do when another railroad is competing for the business.
+>
+> **主干提取**：Railroads charge shippers 20 to 30 percent more.（S: Railroads / V: charge / IO: such "captive" shippers / DO: 20 to 30 percent more）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|---------|
+> | 副词 | typically | 修饰 "charge"，表示频率 |
+> | 比较状语从句 | than | 修饰 "more"，引出比较对象 |
+> | 时间状语从句 | when | 修饰比较从句，限定条件 |
+> | 同位语/修饰语 | "captive" | 修饰 "shippers"，说明性质 |
+>
+> **结构图解**：
+> ```
+> 主句: [Railroads] + [charge] + [such "captive" shippers] + [20 to 30 percent more]
+>   ├── 状语: typically → 频率（通常）
+>   └── 比较状语: than they do → 比较对象（比...更多）
+>         └── 状从: when another railroad is competing for the business → 时间条件
+> ```
+>
+> **参考译文**：铁路公司通常向这类"被俘获的"托运人收取比正常情况高出20%到30%的费用，除非有其他铁路公司竞争这笔业务。
+>
+> **考点提示**：
+> 1. **双宾语结构**：charge sb. sth.（向某人收取某费用），shippers 是间接宾语，20 to 30 percent more 是直接宾语。
+> 2. **比较状语从句**：than they do 中 do 替代 charge，避免重复。考研常考代词替代。
+> 3. **when 从句的含义**：此处 when 隐含"除非"的条件意义，而非单纯的时间意义。"只有当有竞争时才不收高价"= "没有竞争时就收高价"。
+> 4. **"captive" 的特殊含义**：字面意思是"被俘获的"，此处指被锁定的、没有选择的托运人，即只能依赖一家铁路公司的客户。
 
 ## Paragraph 4
 
