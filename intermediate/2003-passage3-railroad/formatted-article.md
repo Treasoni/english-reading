@@ -331,6 +331,37 @@ Many captive shippers also worry they will soon be hit with ==a round of huge ra
 > 3. **"enough to" 结构**：enough + to do，表示"足够做某事"。
 > 4. **"keep up with" 固定搭配**：表示"跟上、赶上"，常与 speed/traffic/development 等搭配。
 
+> [!abstract]- 长难句分析
+> **原句**：Conrail's net railway operating income in 1996 was just $427 million, less than half of the carrying costs of the transaction.
+>
+> **主干提取**：Income was $427 million.（S: Conrail's net railway operating income in 1996 / V: was / C: just $427 million）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|---------|
+> | 介词短语 | in 1996 | 修饰 "income"（时间） |
+> | 同位语/补充说明 | 逗号隔开 | 补充说明 "$427 million" |
+> | 介词短语 | of the carrying costs | 修饰 "half" |
+> | 介词短语 | of the transaction | 修饰 "carrying costs" |
+>
+> **结构图解**：
+> ```
+> 主句: [Conrail's net railway operating income in 1996] + [was] + [just $427 million]
+>   ├── 介短: in 1996 → 修饰 income（时间）
+>   └── 同位语: less than half of the carrying costs of the transaction → 补充说明 $427 million
+>         └── 介短: of the carrying costs → 修饰 half
+>               └── 介短: of the transaction → 修饰 carrying costs
+> ```
+>
+> **参考译文**：康雷尔公司1996年的铁路运营净收入仅为4.27亿美元，不到该交易融资成本的一半。
+>
+> **考点提示**：
+> 1. **同位语/补充说明**：逗号后的 "less than half of..." 补充说明 $427 million 的具体含义，帮助读者理解金额之小。
+> 2. **"less than" 的语义**：表示"少于、不到"，考研翻译需准确传达比较关系。
+> 3. **"carrying costs" 金融术语**：表示"融资成本、持有成本"，此处指收购交易的融资费用。
+> 4. **数字翻译**：$427 million = 4.27亿美元，考研翻译中需准确转换数字单位。
+
 ---
 
 ## Questions
