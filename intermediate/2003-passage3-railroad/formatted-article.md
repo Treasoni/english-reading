@@ -226,6 +226,7 @@ Railroads justify **rate discrimination** against captive shippers on the ground
 > 1. **"on the grounds that" 固定搭配**：表示"以...为理由、基于...的理由"。on the grounds of + 名词，on the grounds that + 从句。
 > 2. **"against" 的含义**：此处表示"针对"，而非"反对"。rate discrimination against... = 针对...的差别定价。
 > 3. **同位语从句**：that 从句解释 grounds 的具体内容，是考研常考的从句类型。
+> 4. **"in the long run" 固定搭配**：表示"从长远来看"，反义短语为 in the short run（从短期来看）。考研阅读中常见于经济学、商业类文章。
 
 ## Paragraph 5
 
