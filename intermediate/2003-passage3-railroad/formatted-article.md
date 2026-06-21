@@ -228,6 +228,44 @@ Railroads justify **rate discrimination** against captive shippers on the ground
 > 3. **同位语从句**：that 从句解释 grounds 的具体内容，是考研常考的从句类型。
 > 4. **"in the long run" 固定搭配**：表示"从长远来看"，反义短语为 in the short run（从短期来看）。考研阅读中常见于经济学、商业类文章。
 
+> [!abstract]- 长难句分析
+> **原句**：If railroads charged all customers the same average rate, they argue, shippers who have the option of switching to trucks or other forms of transportation would do so, leaving remaining customers to shoulder the cost of keeping up the line.
+>
+> **主干提取**：If railroads charged the same rate, shippers would do so, leaving remaining customers to shoulder the cost.
+> - 条件从句: S: railroads / V: charged（虚拟语气）/ O: all customers the same average rate
+> - 主句: S: shippers / V: would do so / A: leaving remaining customers to shoulder the cost
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|---------|
+> | 条件状语从句 | If | 整个主句（虚拟条件） |
+> | 插入语 | 逗号隔开 | 观点来源（they argue） |
+> | 定语从句 | who | 修饰 "shippers" |
+> | 现在分词短语 | leaving | 结果状语 |
+> | 不定式短语 | to shoulder | 修饰 "leaving" 的宾补 |
+>
+> **结构图解**：
+> ```
+> 状从: [If railroads charged all customers the same average rate] → 虚拟条件
+>   └── 插入语: they argue → 观点来源
+>
+> 主句: [shippers] + [would do so]
+>   ├── 定从: who have the option of switching to trucks → 修饰 shippers
+>   │     └── 介短: of switching to trucks or other forms of transportation → 修饰 option
+>   └── 非谓语: leaving remaining customers to shoulder the cost → 结果状语
+>         └── 不定式: to shoulder the cost → leaving 的宾补
+> ```
+>
+> **参考译文**：他们认为，如果铁路公司向所有客户收取同样的平均费率，那么那些可以选择转用卡车或其他运输方式的托运人就会这样做，从而让剩下的客户承担维持铁路线路的费用。
+>
+> **考点提示**：
+> 1. **虚拟语气（与现在事实相反）**：If + 过去时（charged），主句用 would + 动词原形（would do）。表示与现在事实相反的假设。
+> 2. **插入语的位置**：they argue 插入在条件从句和主句之间，阅读时需跳过，直接连接 If 从句和主句。
+> 3. **现在分词短语作结果状语**：leaving remaining customers to shoulder... 表示前文动作导致的结果。
+> 4. **"do so" 替代**：do so 替代前文的 "switching to trucks or other forms of transportation"，避免重复。
+> 5. **"shoulder" 的词性转换**：shoulder 原为名词"肩膀"，此处用作动词"承担"。
+
 ## Paragraph 5
 
 Many captive shippers also worry they will soon be hit with ==a round of huge rate increases==. The railroad industry as a whole, despite its brightening fortunes, still does not earn enough to cover the cost of the **capital** it must invest to keep up with its **surging** traffic. Yet railroads continue to borrow billions to acquire one another, with ==Wall Street cheering them on==. Consider the \$10.2 billion bid by Norfolk Southern and CSX to acquire Conrail this year. Conrail's **net railway operating income** in 1996 was just \$427 million, less than half of the **carrying costs** of the transaction. Who's going to pay for the rest of the bill? Many captive shippers fear that they will, as Norfolk Southern and CSX increase their grip on the market.
