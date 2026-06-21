@@ -378,11 +378,11 @@ Many captive shippers also worry they will soon be hit with ==a round of huge ra
 - [A] Indifferent
 - [B] Supportive
 - [C] Indignant
-- [D] Apprehensive
+- [D] **Apprehensive**
 
 ### 53. It can be inferred from paragraph 3 that
 
-- [A] shippers will be charged less without a rival railroad
+- [A] shippers will be charged less without a **rival** railroad
 - [B] there will soon be only one railroad company nationwide
 - [C] overcharged shippers are unlikely to appeal for rate relief
 - [D] a government board ensures fair play in railway business
