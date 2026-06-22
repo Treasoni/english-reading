@@ -109,7 +109,42 @@ But not even a great health-care system can cure death — and our failure to co
 > 3. **不定式作定语**：`to confront that reality` 修饰抽象名词 `failure`，表示"未能做某事"。
 > 4. **this greatness of ours**：`of ours` 是所有格结构，指代前文的 `health-care system`，属于"同位性所有格"。
 
-Death is normal; we are **genetically** programmed to **disintegrate** and **perish**, even under ideal conditions. We all understand that at some level, yet as medical consumers we treat death as a problem to be solved. Shielded by third-party payers from the cost of our care, we demand everything that can possibly be done for us, even if it is useless. The most obvious example is late-stage cancer care. Physicians — frustrated by their inability to cure the disease and fearing loss of hope in the patient — too often offer ==aggressive treatment== far beyond what is scientifically justified.
+Death is normal; we are **genetically** programmed to **disintegrate** and **perish**, even under ideal conditions.
+
+> [!abstract]- 长难句分析
+> **原句**：Death is normal; we are genetically programmed to disintegrate and perish, even under ideal conditions.
+>
+> **主干提取**：这是一个**分号连接的并列句**，包含两个分句：
+> - 分句1：Death / is / normal
+> - 分句2：we / are programmed / to disintegrate and perish
+>
+> **修饰成分**：
+>
+> | 类型 | 形式 | 修饰对象 |
+> |------|------|---------|
+> | 副词 | genetically | 修饰 programmed（状语） |
+> | 不定式短语 | to disintegrate and perish | 目的/结果状语 |
+> | 介词短语 | even under ideal conditions | 让步状语 |
+>
+> **结构图解**：
+> ```
+> 分号并列句: [Death] + [is] + [normal]
+>             ;
+>             [we] + [are] + [genetically programmed] + [to disintegrate and perish]
+>   ├── 副词: genetically → 修饰 programmed
+>   ├── 不定式: to disintegrate and perish → 目的/结果状语
+>   └── 介短: even under ideal conditions → 让步状语
+> ```
+>
+> **参考译文**：死亡是正常的；我们在基因上被设定为会解体和消亡，即使在理想条件下也是如此。
+>
+> **考点提示**：
+> 1. **分号并列**：分号连接两个语义紧密相关的句子，比句号连接更紧密，表示解释或因果关系。
+> 2. **be programmed to do**：表示"被设定/编程去做某事"，此处指基因决定的命运。
+> 3. **even under 让步结构**：`even under ideal conditions` 表示"即使在理想条件下"，强调死亡的不可避免性。
+> 4. **disintegrate and perish**：并列动词，disintegrate（解体）和 perish（消亡）语义递进。
+
+We all understand that at some level, yet as medical consumers we treat death as a problem to be solved. Shielded by third-party payers from the cost of our care, we demand everything that can possibly be done for us, even if it is useless. The most obvious example is late-stage cancer care. Physicians — frustrated by their inability to cure the disease and fearing loss of hope in the patient — too often offer ==aggressive treatment== far beyond what is scientifically justified.
 
 In 1950, the US spent ＄12.7 billion on health care. In 2002, the cost will be ＄1540 billion. Anyone can see this trend is unsustainable. Yet few seem willing to try to reverse it. Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age — say 83 or so. Former Colorado governor Richard Lamm has been quoted as saying that the old and infirm "have a duty to die and get out of the way" so that younger, healthier people can realize their potential.
 
