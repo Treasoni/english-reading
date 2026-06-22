@@ -144,7 +144,47 @@ Death is normal; we are **genetically** programmed to **disintegrate** and **per
 > 3. **even under 让步结构**：`even under ideal conditions` 表示"即使在理想条件下"，强调死亡的不可避免性。
 > 4. **disintegrate and perish**：并列动词，disintegrate（解体）和 perish（消亡）语义递进。
 
-We all understand that at some level, yet as medical consumers we treat death as a problem to be solved. Shielded by third-party payers from the cost of our care, we demand everything that can possibly be done for us, even if it is useless. The most obvious example is late-stage cancer care. Physicians — frustrated by their inability to cure the disease and fearing loss of hope in the patient — too often offer ==aggressive treatment== far beyond what is scientifically justified.
+We all understand that at some level, yet as medical consumers we treat death as a problem to be solved.
+
+> [!abstract]- 长难句分析
+> **原句**：We all understand that at some level, yet as medical consumers we treat death as a problem to be solved.
+>
+> **主干提取**：这是一个**yet 连接的转折并列句**，包含两个分句：
+> - 分句1：We / understand / that（省略从句） / at some level
+> - 分句2：we / treat / death / as a problem to be solved
+>
+> **修饰成分**：
+>
+> | 类型 | 形式 | 修饰对象 |
+> |------|------|---------|
+> | 副词 | all | 修饰 we（强调"都"） |
+> | 宾语从句 | that（省略） | understand 的宾语 |
+> | 介词短语 | at some level | 程度状语 |
+> | 转折连词 | yet | 连接两个分句 |
+> | 介词短语 | as medical consumers | 身份/方式状语 |
+> | 不定式短语 | to be solved | 修饰 problem（定语） |
+>
+> **结构图解**：
+> ```
+> 并列句: [We all] + [understand that] + [at some level]
+>         yet
+>         [as medical consumers] + [we] + [treat] + [death] + [as a problem to be solved]
+>   ├── 副词: all → 修饰 we
+>   ├── 介短: at some level → 程度状语
+>   ├── 连词: yet → 转折
+>   ├── 介短: as medical consumers → 身份/方式状语
+>   └── 不定式: to be solved → 修饰 problem（定语）
+> ```
+>
+> **参考译文**：我们都在某种程度上理解这一点，然而作为医疗消费者，我们却把死亡当作一个需要解决的问题来对待。
+>
+> **考点提示**：
+> 1. **yet 转折并列**：`yet` 表示"然而"，连接两个语义对立的分句，强调认知与行为的矛盾。
+> 2. **that 省略**：`understand that` 后的从句内容被省略（指代前文"死亡是正常的"），考研阅读中需根据上下文补全。
+> 3. **treat...as...**：表示"把...当作..."，固定搭配。类似结构：regard...as... / view...as... / see...as...
+> 4. **to be solved 不定式被动**：作后置定语修饰 `problem`，表示"需要被解决的"。
+
+Shielded by third-party payers from the cost of our care, we demand everything that can possibly be done for us, even if it is useless. The most obvious example is late-stage cancer care. Physicians — frustrated by their inability to cure the disease and fearing loss of hope in the patient — too often offer ==aggressive treatment== far beyond what is scientifically justified.
 
 In 1950, the US spent ＄12.7 billion on health care. In 2002, the cost will be ＄1540 billion. Anyone can see this trend is unsustainable. Yet few seem willing to try to reverse it. Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age — say 83 or so. Former Colorado governor Richard Lamm has been quoted as saying that the old and infirm "have a duty to die and get out of the way" so that younger, healthier people can realize their potential.
 
