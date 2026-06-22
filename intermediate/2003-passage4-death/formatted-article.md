@@ -43,7 +43,39 @@ It's said that in England death is pressing, in Canada inevitable and in Califor
 > 2. **现在分词作定语**：`Failing` 修饰 `hips`，表示"正在衰竭的/出故障的"。
 > 3. **被动语态**：三个动词均为被动形式（be replaced / controlled / removed），强调"被治疗"的客观事实。
 
-Such advances offer the aging population a quality of life that was unimaginable when I entered medicine 50 years ago. But not even a great health-care system can cure death — and our failure to confront that reality now threatens this greatness of ours.
+Such advances offer the aging population a quality of life that was unimaginable when I entered medicine 50 years ago.
+
+> [!abstract]- 长难句分析
+> **原句**：Such advances offer the aging population a quality of life that was unimaginable when I entered medicine 50 years ago.
+>
+> **主干提取**：
+> - S (主语)：Such advances
+> - V (谓语)：offer
+> - IO (间接宾语)：the aging population
+> - DO (直接宾语)：a quality of life
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|------------|---------|
+> | 定语从句 | that | 修饰 a quality of life |
+> | 时间状语从句 | when | 修饰 unimaginable |
+>
+> **结构图解**：
+> ```
+> 主句: [Such advances] + [offer] + [the aging population] + [a quality of life]
+>   └── 定从: (that) was unimaginable → 修饰 a quality of life
+>         └── 状从: when I entered medicine 50 years ago → 修饰 unimaginable
+> ```
+>
+> **参考译文**：这些进步为老年人口提供了一种在我50年前行医时难以想象的生活质量。
+>
+> **考点提示**：
+> 1. **双宾语结构**：`offer sb. sth.` = 给某人提供某物。类似结构：give / provide / show / teach sb. sth.
+> 2. **定语从句嵌套状语从句**：`that...when...` 结构，定语从句内部又嵌套时间状语从句，考研长难句常见。
+> 3. **when 从句的过去时**：`entered` 用一般过去时，表示过去发生的动作（50年前入行）。
+
+But not even a great health-care system can cure death — and our failure to confront that reality now threatens this greatness of ours.
 
 Death is normal; we are genetically programmed to disintegrate and perish, even under ideal conditions. We all understand that at some level, yet as medical consumers we treat death as a problem to be solved. Shielded by third-party payers from the cost of our care, we demand everything that can possibly be done for us, even if it is useless. The most obvious example is late-stage cancer care. Physicians — frustrated by their inability to cure the disease and fearing loss of hope in the patient — too often offer ==aggressive treatment== far beyond what is scientifically justified.
 
