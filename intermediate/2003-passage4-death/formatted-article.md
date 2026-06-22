@@ -184,7 +184,44 @@ We all understand that at some level, yet as medical consumers we treat death as
 > 3. **treat...as...**：表示"把...当作..."，固定搭配。类似结构：regard...as... / view...as... / see...as...
 > 4. **to be solved 不定式被动**：作后置定语修饰 `problem`，表示"需要被解决的"。
 
-Shielded by third-party payers from the cost of our care, we demand everything that can possibly be done for us, even if it is useless. The most obvious example is late-stage cancer care. Physicians — frustrated by their inability to cure the disease and fearing loss of hope in the patient — too often offer ==aggressive treatment== far beyond what is scientifically justified.
+Shielded by third-party payers from the cost of our care, we demand everything that can possibly be done for us, even if it is useless.
+
+> [!abstract]- 长难句分析
+> **原句**：Shielded by third-party payers from the cost of our care, we demand everything that can possibly be done for us, even if it is useless.
+>
+> **主干提取**：
+> - S（主语）：we
+> - V（谓语）：demand
+> - O（宾语）：everything
+> - A（状语）：even if it is useless
+>
+> 简化主干：**We demand everything, even if it is useless.**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 非谓语短语（过去分词） | Shielded... | 修饰主句主语 we，表示原因/条件 |
+> | 定语从句 | that | 修饰宾语 everything |
+> | 让步状语从句 | even if | 修饰整个主句 |
+>
+> **结构图解**：
+> ```
+> 主句: [we + demand + everything]
+>   ├── 非谓语: (Shielded by third-party payers from the cost of our care) → 原因/条件，修饰 we
+>   ├── 定从: (that can possibly be done for us) → 修饰 everything
+>   └── 状从: (even if it is useless) → 让步状语，修饰整个主句
+> ```
+>
+> **参考译文**：由于有第三方付款人替我们支付医疗费用，我们要求尽可能多地为自己治疗，即使这些治疗毫无用处。
+>
+> **考点提示**：
+> 1. **过去分词短语作状语**：`Shielded by...` 为过去分词短语，省略了 being，逻辑主语是主句主语 `we`。表示"因为被……保护/屏蔽"，即"因为有第三方付款人承担费用"。
+> 2. **定语从句修饰不定代词**：`everything that can possibly be done`，定语从句中 `can possibly` 表示"尽可能"，`be done` 为被动语态，修饰 `everything`。
+> 3. **even if 让步状语从句**：表示"即使"，让步关系，说明主句行为的不合理性。
+> 4. **句首分词短语与主语的逻辑关系**：分词短语的逻辑主语必须与主句主语一致（we），否则需改用独立主格结构。
+
+The most obvious example is late-stage cancer care. Physicians — frustrated by their inability to cure the disease and fearing loss of hope in the patient — too often offer ==aggressive treatment== far beyond what is scientifically justified.
 
 In 1950, the US spent ＄12.7 billion on health care. In 2002, the cost will be ＄1540 billion. Anyone can see this trend is unsustainable. Yet few seem willing to try to reverse it. Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age — say 83 or so. Former Colorado governor Richard Lamm has been quoted as saying that the old and infirm "have a duty to die and get out of the way" so that younger, healthier people can realize their potential.
 
