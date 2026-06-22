@@ -77,7 +77,39 @@ Such advances offer the aging population a quality of life that was unimaginable
 
 But not even a great health-care system can cure death — and our failure to confront that reality now threatens this greatness of ours.
 
-Death is normal; we are genetically programmed to disintegrate and perish, even under ideal conditions. We all understand that at some level, yet as medical consumers we treat death as a problem to be solved. Shielded by third-party payers from the cost of our care, we demand everything that can possibly be done for us, even if it is useless. The most obvious example is late-stage cancer care. Physicians — frustrated by their inability to cure the disease and fearing loss of hope in the patient — too often offer ==aggressive treatment== far beyond what is scientifically justified.
+> [!abstract]- 长难句分析
+> **原句**：But not even a great health-care system can cure death — and our failure to confront that reality now threatens this greatness of ours.
+>
+> **主干提取**：这是一个**破折号连接的并列句**，包含两个分句：
+> - 分句1：not even a great health-care system / can cure / death
+> - 分句2：our failure to confront that reality / threatens / this greatness of ours
+>
+> **修饰成分**：
+>
+> | 类型 | 形式 | 修饰对象 |
+> |------|------|---------|
+> | 否定副词 | not even | 修饰整个分句1（强调"甚至不"） |
+> | 不定式短语 | to confront that reality | 修饰 failure（定语） |
+> | 介词短语 | of ours | 修饰 greatness |
+>
+> **结构图解**：
+> ```
+> 并列句: [But not even a great health-care system] + [can cure death]
+>         — and —
+>         [our failure to confront that reality] + [now threatens this greatness of ours]
+>   ├── 不定式: to confront that reality → 修饰 failure
+>   └── 介短: of ours → 修饰 greatness
+> ```
+>
+> **参考译文**：但即使是一个伟大的医疗系统也无法治愈死亡——而我们现在未能面对这一现实，正在威胁着这一伟大。
+>
+> **考点提示**：
+> 1. **not even 强调否定**：表示"即使...也不"，加强否定语气。考研阅读中 not even 常用于让步转折。
+> 2. **破折号并列**：`— and —` 连接两个语义相关的分句，后句是对前句的补充或因果延伸。
+> 3. **不定式作定语**：`to confront that reality` 修饰抽象名词 `failure`，表示"未能做某事"。
+> 4. **this greatness of ours**：`of ours` 是所有格结构，指代前文的 `health-care system`，属于"同位性所有格"。
+
+Death is normal; we are **genetically** programmed to **disintegrate** and **perish**, even under ideal conditions. We all understand that at some level, yet as medical consumers we treat death as a problem to be solved. Shielded by third-party payers from the cost of our care, we demand everything that can possibly be done for us, even if it is useless. The most obvious example is late-stage cancer care. Physicians — frustrated by their inability to cure the disease and fearing loss of hope in the patient — too often offer ==aggressive treatment== far beyond what is scientifically justified.
 
 In 1950, the US spent ＄12.7 billion on health care. In 2002, the cost will be ＄1540 billion. Anyone can see this trend is unsustainable. Yet few seem willing to try to reverse it. Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age — say 83 or so. Former Colorado governor Richard Lamm has been quoted as saying that the old and infirm "have a duty to die and get out of the way" so that younger, healthier people can realize their potential.
 
