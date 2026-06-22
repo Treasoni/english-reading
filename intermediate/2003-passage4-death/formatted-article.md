@@ -11,7 +11,39 @@ sources:
   - 2003考研英语阅读
 ---
 
-It's said that in England death is pressing, in Canada inevitable and in California optional. Small wonder. Americans' **life expectancy** has nearly doubled over the past century. Failing hips can be replaced, clinical depression controlled, cataracts removed in a 30-minute surgical procedure. Such advances offer the aging population a quality of life that was unimaginable when I entered medicine 50 years ago. But not even a great health-care system can cure death — and our failure to confront that reality now threatens this greatness of ours.
+It's said that in England death is pressing, in Canada inevitable and in California optional. Small wonder. Americans' **life expectancy** has nearly doubled over the past century. Failing **hips** can be replaced, clinical depression controlled, **cataracts** removed in a 30-minute surgical procedure.
+
+> [!abstract]- 长难句分析
+> **原句**：Failing hips can be replaced, clinical depression controlled, cataracts removed in a 30-minute surgical procedure.
+>
+> **主干提取**：这是一个**并列省略句**，三个并列的被动结构共享情态动词 `can be`：
+> - 分句1：Failing hips / can be replaced
+> - 分句2：clinical depression / (can be) controlled
+> - 分句3：cataracts / (can be) removed
+>
+> **修饰成分**：
+>
+> | 类型 | 形式 | 修饰对象 |
+> |------|------|---------|
+> | 现在分词 | Failing | 修饰 hips（定语） |
+> | 介词短语 | in a 30-minute surgical procedure | 修饰 removed（状语） |
+>
+> **结构图解**：
+> ```
+> 并列结构: [Failing hips] + [can be replaced]
+>          [clinical depression] + [(can be) controlled]
+>          [cataracts] + [(can be) removed]
+>    └── 介短: in a 30-minute surgical procedure → 修饰 removed
+> ```
+>
+> **参考译文**：髋关节失效可以被替换，临床抑郁可以被控制，白内障可以在30分钟的手术中被摘除。
+>
+> **考点提示**：
+> 1. **并列省略**：三个并列成分共享 `can be`，后两个省略。考研阅读中需主动补全省略部分才能理解句意。
+> 2. **现在分词作定语**：`Failing` 修饰 `hips`，表示"正在衰竭的/出故障的"。
+> 3. **被动语态**：三个动词均为被动形式（be replaced / controlled / removed），强调"被治疗"的客观事实。
+
+Such advances offer the aging population a quality of life that was unimaginable when I entered medicine 50 years ago. But not even a great health-care system can cure death — and our failure to confront that reality now threatens this greatness of ours.
 
 Death is normal; we are genetically programmed to disintegrate and perish, even under ideal conditions. We all understand that at some level, yet as medical consumers we treat death as a problem to be solved. Shielded by third-party payers from the cost of our care, we demand everything that can possibly be done for us, even if it is useless. The most obvious example is late-stage cancer care. Physicians — frustrated by their inability to cure the disease and fearing loss of hope in the patient — too often offer ==aggressive treatment== far beyond what is scientifically justified.
 
