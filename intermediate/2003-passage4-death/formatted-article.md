@@ -225,6 +225,78 @@ The most obvious example is late-stage cancer care. Physicians — frustrated by
 
 In 1950, the US spent ＄12.7 billion on health care. In 2002, the cost will be ＄1540 billion. Anyone can see this trend is unsustainable. Yet few seem willing to try to reverse it. Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age — say 83 or so. Former Colorado governor Richard Lamm has been quoted as saying that the old and infirm "have a duty to die and get out of the way" so that younger, healthier people can realize their potential.
 
+> [!abstract]- 长难句分析
+> **原句**：Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age — say 83 or so.
+>
+> **主干提取**：
+> - S（主语）：Some scholars
+> - V（谓语）：conclude
+> - O（宾语）：that a government should simply stop paying for medical care（宾语从句）
+>
+> 简化主干：**Some scholars conclude that a government should simply stop paying for medical care.**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 宾语从句 | that | 作 conclude 的宾语 |
+> | 介词短语 | with finite resources | 后置定语，修饰 a government |
+> | 定语从句 | that sustains life beyond a certain age | 修饰 medical care |
+> | 介词短语 | beyond a certain age | 修饰定从中的 sustains |
+> | 同位语 | say 83 or so | 解释 "a certain age" |
+>
+> **结构图解**：
+> ```
+> 主句: [Some scholars + conclude + 宾从]
+>   └── 宾从: [a government + should stop paying for medical care]
+>         ├── 介短: (with finite resources) → 修饰 a government
+>         ├── 定从: (that sustains life beyond a certain age) → 修饰 medical care
+>         │     └── 介短: (beyond a certain age) → 修饰 sustains
+>         └── 同位语: (say 83 or so) → 解释 a certain age
+> ```
+>
+> **参考译文**：一些学者得出结论：资源有限的政府应该停止为那些延续寿命超过一定年龄——比如 83 岁左右——的医疗买单。
+>
+> **考点提示**：
+> 1. **that 宾语从句识别**：`conclude that...` 中 that 引导宾语从句，that 在口语中可省略，但正式文体中保留。
+> 2. **介词短语作后置定语**：`with finite resources` 修饰 `a government`，表示"资源有限的"。
+> 3. **定语从句嵌套介词短语**：`that sustains life beyond a certain age` 修饰 `medical care`，从句中 `beyond a certain age` 进一步限定 `sustains`。
+> 4. **破折号插入语**：`— say 83 or so —` 为同位语，用破折号隔开，`say` 在此作"比如说"解，相当于 for example。
+
+> [!abstract]- 长难句分析
+> **原句**：Former Colorado governor Richard Lamm has been quoted as saying that the old and infirm "have a duty to die and get out of the way" so that younger, healthier people can realize their potential.
+>
+> **主干提取**：
+> - S（主语）：Former Colorado governor Richard Lamm
+> - V（谓语）：has been quoted（现在完成时被动语态）
+> - C（补语）：as saying...
+>
+> 简化主干：**Richard Lamm has been quoted as saying that...**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 同位语 | Former Colorado governor | 修饰 Richard Lamm，说明身份 |
+> | 宾语从句 | that | 作 saying 的宾语 |
+> | 目的状语从句 | so that | 修饰 have a duty to die，表目的 |
+>
+> **结构图解**：
+> ```
+> 主句: [Richard Lamm + has been quoted + as saying 宾从]
+>   ├── 同位语: (Former Colorado governor) → 修饰 Richard Lamm
+>   └── 宾从: [the old and infirm + have a duty to die and get out of the way]
+>         └── 状从: (so that younger, healthier people can realize their potential) → 目的状语
+> ```
+>
+> **参考译文**：科罗拉多州前州长理查德·拉姆据说曾表示，年老体弱者"有义务死去并让路"，以便年轻、健康的人能够实现他们的潜力。
+>
+> **考点提示**：
+> 1. **has been quoted as saying 现在完成时被动**：表示"据报道/据引用说过"，`as saying` 为介词+动名词结构，作补语。
+> 2. **同位语识别**：`Former Colorado governor` 为 `Richard Lamm` 的同位语，说明其身份。考研中常见于人名前的头衔/职位。
+> 3. **so that 目的状语从句**：表示"以便/为了"，从句中常用 can/could/will/would 等情态动词。
+> 4. **引号内直接引语**：`"have a duty to die and get out of the way"` 为直接引语，考研翻译中需保留引号并准确翻译。
+
 I would not go that far. Energetic people now routinely work through their 60s and beyond, and remain ==dazzlingly productive==. At 78, Viacom chairman Sumner Redstone jokingly claims to be 53. Supreme Court Justice Sandra Day O'Connor is in her 70s, and former surgeon general C. Everett Koop chair an Internet start-up in his 80s. These leaders are living proof that **prevention** works and that we can manage the health problems that come naturally with age. As a mere 68-year-old, I wish to age as productively as they have.
 
 Yet there are limits to what a society can spend in this pursuit. As a physician, I know the most costly and dramatic measures may be ineffective and painful. I also know that people in Japan and Sweden, countries that spend far less on medical care, have achieved longer, healthier lives than we have. As a nation, we may be ==overfunding the quest for unlikely cures== while ==underfunding research on humbler therapies== that could improve people's lives.
@@ -248,7 +320,7 @@ Yet there are limits to what a society can spend in this pursuit. As a physician
 58. The author's attitude toward Richard Lamm's remark is one of
 
 [A] strong disapproval
-[B] reserved consent
+[B] **reserved consent**
 [C] slight contempt
 [D] enthusiastic support
 
