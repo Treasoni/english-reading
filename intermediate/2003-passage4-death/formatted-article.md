@@ -335,6 +335,40 @@ I would not go that far. Energetic people now routinely work through their 60s a
 
 Yet there are limits to what a society can spend in this pursuit. As a physician, I know the most costly and dramatic measures may be ineffective and painful. I also know that people in Japan and Sweden, countries that spend far less on medical care, have achieved longer, healthier lives than we have. As a nation, we may be ==overfunding the quest for unlikely cures== while ==underfunding research on humbler therapies== that could improve people's lives.
 
+> [!abstract]- 长难句分析
+> **原句**：Yet there are limits to what a society can spend in this pursuit.
+>
+> **主干提取**：
+> - V（谓语）：there are（存在句）
+> - S（主语）：limits
+> - A（状语）：Yet（转折连词）
+>
+> 简化主干：**Yet there are limits.**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介词短语 | to what... | 后置定语，修饰 limits |
+> | 名词性从句 | what a society can spend in this pursuit | 作介词 to 的宾语 |
+> | 介词短语 | in this pursuit | 修饰动词 spend |
+>
+> **结构图解**：
+> ```
+> 主句: [Yet + there are + limits]
+>   └── 介短: (to what a society can spend in this pursuit) → 修饰 limits
+>         └── 名从: (what a society can spend in this pursuit) → 作 to 的宾语
+>               └── 介短: (in this pursuit) → 修饰 spend
+> ```
+>
+> **参考译文**：然而，社会在这个方面的支出是有上限的。
+>
+> **考点提示**：
+> 1. **There be 存在句**：表示"有/存在"，考研中常与抽象名词搭配（limits/possibilities/advantages 等）。
+> 2. **介词 to 后接 what 名词性从句**：`limits to what...` 是考研高频结构，`to` 为介词，`what` 引导的名词性从句作其宾语，表示"……方面的限制"。
+> 3. **what 名词性从句**：`what a society can spend` 中 `what` 既是引导词，又在从句中作 `spend` 的宾语。
+> 4. **Yet 转折**：段首 `Yet` 表示与前文（活到高龄的正面例子）的转折，引出"资源有限"的现实。
+
 ---
 
 56. What is implied in the first sentence?
