@@ -369,6 +369,44 @@ Yet there are limits to what a society can spend in this pursuit. As a physician
 > 3. **what 名词性从句**：`what a society can spend` 中 `what` 既是引导词，又在从句中作 `spend` 的宾语。
 > 4. **Yet 转折**：段首 `Yet` 表示与前文（活到高龄的正面例子）的转折，引出"资源有限"的现实。
 
+> [!abstract]- 长难句分析
+> **原句**：I also know that people in Japan and Sweden, countries that spend far less on medical care, have achieved longer, healthier lives than we have.
+>
+> **主干提取**：
+> - S（主语）：I
+> - V（谓语）：know
+> - O（宾语）：that people have achieved longer, healthier lives than we have（宾语从句）
+>
+> 简化主干：**I know that people have achieved longer, healthier lives than we have.**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 宾语从句 | that | 作 know 的宾语 |
+> | 介词短语 | in Japan and Sweden | 后置定语，修饰 people |
+> | 同位语 | countries that spend far less on medical care | 解释 Japan and Sweden |
+> | 定语从句 | that spend far less on medical care | 修饰 countries |
+> | 比较状语从句 | than we have | 修饰 longer, healthier |
+>
+> **结构图解**：
+> ```
+> 主句: [I + know + 宾从]
+>   └── 宾从: [people in Japan and Sweden + have achieved + lives]
+>         ├── 介短: (in Japan and Sweden) → 修饰 people
+>         ├── 同位语: (countries that spend far less on medical care) → 解释 Japan and Sweden
+>         │     └── 定从: (that spend far less on medical care) → 修饰 countries
+>         └── 状从: (than we have) → 比较状语，修饰 longer, healthier
+> ```
+>
+> **参考译文**：我还知道，日本和瑞典这两个医疗支出远少于我们的国家，其国民寿命更长、生活更健康。
+>
+> **考点提示**：
+> 1. **that 宾语从句**：`know that...` 中 that 引导宾语从句，考研中 know/realize/find/argue/conclude 等动词后常接 that 从句。
+> 2. **同位语插入**：`countries that spend far less on medical care` 为 `Japan and Sweden` 的同位语，用逗号隔开，插入主语和谓语之间，增加阅读难度。
+> 3. **比较结构 longer...than**：`longer, healthier lives than we have` 为比较级+than 结构，`than we have` 省略了 `have achieved`。
+> 4. **同位语与定语从句的区分**：`countries that spend...` 中 that 在从句中作主语，是定语从句；若 that 从句解释抽象名词（如 fact/news/idea），则为同位语从句。
+
 ---
 
 56. What is implied in the first sentence?
