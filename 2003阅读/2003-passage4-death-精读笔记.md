@@ -589,7 +589,72 @@ Yet there are limits to what a society can spend in this pursuit. As a physician
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **disintegrate** | v. | 解体；瓦解 | "We are genetically programmed to **disintegrate** and perish." |
+| **genetically** | adv. | 基因上；遗传上 | "We are **genetically** programmed to disintegrate and perish." |
+| **life expectancy** | n. | 预期寿命 | "Americans' **life expectancy** has nearly doubled over the past century." |
+| **perish** | v. | 消亡；灭亡 | "We are genetically programmed to disintegrate and **perish**." |
+| **prevention** | n. | 预防；防止 | "These leaders are living proof that **prevention** works." |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> disintegrate / genetically / life expectancy / perish / prevention
+
+1. The company's market share began to ________ after years of poor management.
+
+2. Scientists believe that ________ factors play a significant role in determining height.
+
+3. The average ________ in developed countries has increased significantly over the past century.
+
+4. Many species have ________ due to habitat destruction and climate change.
+
+5. ________ is better than cure — regular exercise can prevent many chronic diseases.
+
+> [!abstract]- 答案
+> 1. **disintegrate**（解体；瓦解）— 公司市场份额因管理不善而开始瓦解
+> 2. **genetically**（基因上）— 科学家认为基因因素在决定身高中起重要作用
+> 3. **life expectancy**（预期寿命）— 发达国家的平均预期寿命显著提高
+> 4. **perished**（消亡）— 许多物种因栖息地破坏和气候变化而消亡
+> 5. **Prevention**（预防）— 预防胜于治疗
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. life expectancy
+
+2. disintegrate and perish
+
+> [!abstract]- 答案
+> 1. **life expectancy** = 预期寿命
+> 2. **disintegrate and perish** = 解体和消亡
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "We are genetically programmed to **disintegrate** and perish." 中 **disintegrate** 的含义是：
+   - A. 恢复健康
+   - B. 解体；瓦解（正确）
+   - C. 迅速增长
+   - D. 保持稳定
+
+2. "Many species have **perished** due to habitat destruction." 中 **perished** 的含义是：
+   - A. 繁衍后代
+   - B. 迁徙他处
+   - C. 消亡；灭亡（正确）
+   - D. 适应环境
+
+> [!abstract]- 答案
+> 1. **B** — disintegrate 表示"解体、瓦解"，与 perish（消亡）构成语义递进
+> 2. **C** — perish 表示"消亡、灭亡"，常用于描述物种灭绝或死亡
 
 ---
 
