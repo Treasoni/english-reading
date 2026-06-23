@@ -333,7 +333,7 @@ I would not go that far. Energetic people now routinely work through their 60s a
 > 3. **定语从句嵌套同位语从句**：第二个同位语从句内部包含定语从句 `that come naturally with age`，修饰 `health problems`，形成从句套从句的多层结构。
 > 4. **come naturally with age**：固定搭配，表示"随着年龄自然出现/而来"。
 
-Yet there are limits to what a society can spend in this pursuit. As a physician, I know the most costly and dramatic measures may be ineffective and painful. I also know that people in Japan and Sweden, countries that spend far less on medical care, have achieved longer, healthier lives than we have. As a nation, we may be ==overfunding the quest for unlikely cures== while ==underfunding research on humbler therapies== that could improve people's lives.
+Yet there are limits to what a society can spend in this pursuit. As a physician, I know the most costly and dramatic measures may be ineffective and painful. I also know that people in Japan and Sweden, countries that spend far less on medical care, have achieved longer, healthier lives than we have. As a nation, we may be ==overfunding the quest for unlikely cures== while ==underfunding research on **humbler** therapies== that could improve people's lives.
 
 > [!abstract]- 长难句分析
 > **原句**：Yet there are limits to what a society can spend in this pursuit.
@@ -406,6 +406,45 @@ Yet there are limits to what a society can spend in this pursuit. As a physician
 > 2. **同位语插入**：`countries that spend far less on medical care` 为 `Japan and Sweden` 的同位语，用逗号隔开，插入主语和谓语之间，增加阅读难度。
 > 3. **比较结构 longer...than**：`longer, healthier lives than we have` 为比较级+than 结构，`than we have` 省略了 `have achieved`。
 > 4. **同位语与定语从句的区分**：`countries that spend...` 中 that 在从句中作主语，是定语从句；若 that 从句解释抽象名词（如 fact/news/idea），则为同位语从句。
+
+> [!abstract]- 长难句分析
+> **原句**：As a nation, we may be overfunding the quest for unlikely cures while underfunding research on humbler therapies that could improve people's lives.
+>
+> **主干提取**：
+> - S（主语）：we
+> - V（谓语）：may be overfunding
+> - O（宾语）：the quest for unlikely cures
+> - A（状语）：while underfunding research on humbler therapies（伴随状语）
+>
+> 简化主干：**We may be overfunding the quest while underfunding research.**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介词短语 | As a nation | 方式状语，修饰主句 |
+> | 介词短语 | for unlikely cures | 后置定语，修饰 the quest |
+> | 伴随状语 | while underfunding | 与 overfunding 并列对比 |
+> | 介词短语 | on humbler therapies | 后置定语，修饰 research |
+> | 定语从句 | that could improve people's lives | 修饰 humbler therapies |
+>
+> **结构图解**：
+> ```
+> 主句: [we + may be overfunding + the quest]
+>   ├── 介短: (As a nation) → 方式状语
+>   ├── 介短: (for unlikely cures) → 修饰 the quest
+>   └── 伴随状语: (while underfunding research on humbler therapies)
+>         ├── 介短: (on humbler therapies) → 修饰 research
+>         └── 定从: (that could improve people's lives) → 修饰 humbler therapies
+> ```
+>
+> **参考译文**：作为一个国家，我们可能在那些不太可能奏效的治疗上投入过多，却在那些能够改善人们生活的、更朴素的疗法研究上投入不足。
+>
+> **考点提示**：
+> 1. **while 对比并列**：`while` 在此表示对比（而非"当……时候"），连接两个对立的动作：overfunding vs underfunding。考研中 while 常表转折对比。
+> 2. **over- / under- 前缀构词**：overfunding（过度资助）和 underfunding（资助不足）构成鲜明对比，是考研阅读中常见的构词法考点。
+> 3. **定语从句修饰名词**：`that could improve people's lives` 修饰 `humbler therapies`，说明这些疗法的潜在价值。
+> 4. **介词短语多层嵌套**：`research on humbler therapies that could improve...` 中，介词短语和定语从句层层修饰，需逐层拆解。
 
 ---
 
