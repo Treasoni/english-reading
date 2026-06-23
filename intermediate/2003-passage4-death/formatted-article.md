@@ -299,6 +299,40 @@ In 1950, the US spent ＄12.7 billion on health care. In 2002, the cost will be 
 
 I would not go that far. Energetic people now routinely work through their 60s and beyond, and remain ==dazzlingly productive==. At 78, Viacom chairman Sumner Redstone jokingly claims to be 53. Supreme Court Justice Sandra Day O'Connor is in her 70s, and former surgeon general C. Everett Koop chair an Internet start-up in his 80s. These leaders are living proof that **prevention** works and that we can manage the health problems that come naturally with age. As a mere 68-year-old, I wish to age as productively as they have.
 
+> [!abstract]- 长难句分析
+> **原句**：These leaders are living proof that **prevention** works and that we can manage the health problems that come naturally with age.
+>
+> **主干提取**：
+> - S（主语）：These leaders
+> - V（谓语）：are
+> - C（表语）：living proof
+>
+> 简化主干：**These leaders are living proof.**
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 同位语从句 | that prevention works | 解释 proof 的内容 |
+> | 同位语从句 | that we can manage the health problems | 解释 proof 的内容（与前一个并列） |
+> | 定语从句 | that come naturally with age | 修饰 health problems |
+>
+> **结构图解**：
+> ```
+> 主句: [These leaders + are + living proof]
+>   ├── 同位语从句: (that prevention works) → 解释 proof
+>   ├── 同位语从句: (that we can manage the health problems) → 解释 proof（并列）
+>   │     └── 定从: (that come naturally with age) → 修饰 health problems
+> ```
+>
+> **参考译文**：这些领导者就是活生生的证据——**预防**有效，而且我们能够应对随着年龄增长自然出现的健康问题。
+>
+> **考点提示**：
+> 1. **同位语从句识别**：`that prevention works` 和 `that we can manage...` 为两个并列的同位语从句，解释 `proof` 的具体内容。同位语从句的 that 不作成分，不可省略。
+> 2. **proof 后接同位语从句**：`proof that...` 是考研高频结构，常见于 evidence/fact/idea/news/reason 等抽象名词后。
+> 3. **定语从句嵌套同位语从句**：第二个同位语从句内部包含定语从句 `that come naturally with age`，修饰 `health problems`，形成从句套从句的多层结构。
+> 4. **come naturally with age**：固定搭配，表示"随着年龄自然出现/而来"。
+
 Yet there are limits to what a society can spend in this pursuit. As a physician, I know the most costly and dramatic measures may be ineffective and painful. I also know that people in Japan and Sweden, countries that spend far less on medical care, have achieved longer, healthier lives than we have. As a nation, we may be ==overfunding the quest for unlikely cures== while ==underfunding research on humbler therapies== that could improve people's lives.
 
 ---
