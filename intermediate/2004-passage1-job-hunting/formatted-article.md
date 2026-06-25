@@ -388,8 +388,8 @@ Although happily employed, Redmon maintains his agent at CareerBuilder. "You alw
 
 43. The expression "tip service" (Line 3, Paragraph 3) most probably means
 
-- [A] advisory.
-- [B] compensation.
+- [A] **advisory**
+- [B] **compensation**.
 - [C] interaction.
 - [D] **reminder**.
 
