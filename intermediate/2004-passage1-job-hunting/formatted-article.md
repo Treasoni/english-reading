@@ -120,7 +120,44 @@ Search agents reduce the need for repeated visits to the databases. But although
 > 2. **冒号的解释功能**：冒号后的内容是对前文的解释或例证，考研阅读中冒号常表示"即/也就是说"。
 > 3. **直接引语后的倒装**：says one expert 是引述分句的倒装形式。当引述分句主语为名词且位于引语之后时，常用倒装。
 
-For any job search, you should start with a narrow concept — what you think you want to do — then broaden it. "None of these programs do that," says another expert. "There's no career counseling implicit in all of this." Instead, the best strategy is to use the agent as a kind of ==**tip service**== to keep abreast of jobs in a particular database; when you get E-mail, consider it a reminder to check the database again. "I would not rely on agents for finding everything that is added to a database that might interest me," says the author of a job-searching guide.
+For any job search, you should start with a narrow concept — what you think you want to do — then broaden it.
+
+> [!abstract]- 长难句分析
+> **原句**：For any job search, you should start with a narrow concept — what you think you want to do — then broaden it.
+>
+> **主干提取**：
+> - A (状语)：For any job search（介词短语，表范围/目的）
+> - S (主语)：you
+> - V (谓语)：should start... then broaden（并列谓语）
+> - O (宾语)：with a narrow concept / it
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|-----------|----------|
+> | 介词短语 | For | 表范围/目的 |
+> | 破折号插入语 | — ... — | 解释 a narrow concept |
+> | 名词性关系从句 | what | 同位解释 concept |
+> | 并列结构 | then | 连接 start 与 broaden |
+>
+> **结构图解**：
+> ```
+> 主句: you should [start with a narrow concept] — what you think you want to do — then [broaden it]
+>   ├── 介短: For any job search → 范围/目的状语
+>   ├── 破折号插入语: — what you think you want to do —
+>   │     └── 名词性关系从句: what = the thing that → 同位解释 concept
+>   │           └── 插入语: you think → 嵌套在关系从句中
+>   └── 并列谓语: then broaden it → 与 start 并列
+> ```
+>
+> **参考译文**：对于任何求职，你都应该从一个狭义的概念开始——即你认为自己想做的事情——然后逐步拓宽范围。
+>
+> **考点提示**：
+> 1. **破折号插入语**：两个破折号之间的 what you think you want to do 是对 a narrow concept 的同位解释。阅读时可跳过破折号内容先抓主干。
+> 2. **名词性关系从句 what**：what = the thing that，兼具先行词和关系代词功能。what you think you want to do 整体充当 a narrow concept 的同位语。
+> 3. **并列谓语省略**：then broaden it 前省略了主语 you，与 should start 并列。
+
+"None of these programs do that," says another expert. "There's no career counseling implicit in all of this." Instead, the best strategy is to use the agent as a kind of ==**tip service**== to keep abreast of jobs in a particular database; when you get E-mail, consider it a reminder to check the database again. "I would not rely on agents for finding everything that is added to a database that might interest me," says the author of a job-searching guide.
 
 Some sites design their agents to tempt job hunters to return. When CareerSite's agent sends out messages to those who have signed up for its service, for example, it includes only three potential jobs — those it considers the best matches. There may be more matches in the database; job hunters will have to visit the site again to find them — and they do. "On the day after we send our messages, we see a sharp increase in our traffic," says Seth Peets, vice president of marketing for CareerSite.
 
