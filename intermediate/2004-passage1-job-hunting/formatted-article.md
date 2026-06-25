@@ -49,7 +49,40 @@ Hunting for a job late last year, lawyer Gant Redmon **stumbled** across CareerB
 
 Redmon chose the keywords legal, intellectual property, and Washington, D.C. Three weeks later, he got his first notification of an opening. "I struck gold," says Redmon, who E-mailed his resume to the employer and won a position as in-house counsel for a company.
 
-With thousands of career-related sites on the Internet, finding promising openings can be time-consuming and inefficient. Search agents reduce the need for repeated visits to the databases. But although a search agent worked for Redmon, career experts see drawbacks. Narrowing your criteria, for example, may work against you: "Every time you answer a question you eliminate a possibility," says one expert.
+With thousands of career-related sites on the Internet, finding promising openings can be time-consuming and inefficient.
+
+> [!abstract]- 长难句分析
+> **原句**：With thousands of career-related sites on the Internet, finding promising openings can be time-consuming and inefficient.
+>
+> **主干提取**：
+> - S (主语)：finding promising openings（动名词短语）
+> - V (谓语)：can be（系动词）
+> - C (表语)：time-consuming and inefficient（形容词并列表语）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|-----------|----------|
+> | 介词短语 | With | 主句（原因/条件状语） |
+> | 介词短语 | of | thousands |
+> | 介词短语 | on | sites |
+>
+> **结构图解**：
+> ```
+> 主句: [finding promising openings] + can be + [time-consuming and inefficient]
+>   └── 介短: (With thousands of career-related sites on the Internet) → 原因/条件状语
+>         ├── 介短: of career-related sites → 修饰 thousands
+>         └── 介短: on the Internet → 修饰 sites
+> ```
+>
+> **参考译文**：互联网上有数千个与职业相关的网站，找到有前途的职位空缺可能既耗时又低效。
+>
+> **考点提示**：
+> 1. **With 复合结构作状语**：With + 名词 + 介词短语构成介词短语复合结构，表原因或条件，是考研翻译常考句式。
+> 2. **动名词短语作主语**：finding promising openings 是动名词短语充当主语，谓语用单数。
+> 3. **并列表语**：time-consuming and inefficient 由 and 连接两个形容词，共同作表语。注意 time-consuming 是复合形容词（名词+现在分词）。
+
+Search agents reduce the need for repeated visits to the databases. But although a search agent worked for Redmon, career experts see drawbacks. Narrowing your criteria, for example, may work against you: "Every time you answer a question you eliminate a possibility," says one expert.
 
 For any job search, you should start with a narrow concept — what you think you want to do — then broaden it. "None of these programs do that," says another expert. "There's no career counseling implicit in all of this." Instead, the best strategy is to use the agent as a kind of ==**tip service**== to keep abreast of jobs in a particular database; when you get E-mail, consider it a reminder to check the database again. "I would not rely on agents for finding everything that is added to a database that might interest me," says the author of a job-searching guide.
 
