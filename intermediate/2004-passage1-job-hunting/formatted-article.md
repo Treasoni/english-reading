@@ -220,7 +220,7 @@ Even those who aren't hunting for jobs may find search agents worthwhile. Some u
 - [A] advisory.
 - [B] compensation.
 - [C] interaction.
-- [D] reminder.
+- [D] **reminder**.
 
 44. Why does CareerSite's agent offer each job hunter only three job options?
 
