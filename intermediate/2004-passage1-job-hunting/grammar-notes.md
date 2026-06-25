@@ -15,6 +15,8 @@ concepts:
   - "时间状语从句"
   - "连接词"
   - "同义替换"
+  - "固定搭配"
+  - "词组"
 ---
 
 # 2004 Passage 1 语法要点整理
@@ -39,3 +41,19 @@ concepts:
 
 > [!warning] 常见误区
 > **不要寻找省略的关系词**：The day / The moment / Every time 在此不是名词短语，而是直接充当连词，后接完整句子。不要误以为省略了 when 或 on which。
+
+---
+
+### 固定搭配：偶然发现词组 (Fixed Collocations: "Stumble across" Family)
+
+> [!tip] 核心同义替换
+> 这三个词组在考研阅读中，全部可以表示"偶然遇见（人）"或"偶然发现（物/灵感/证据）"。看到 Stumble across ≈ Come across ≈ Run into，直接反应四个字："偶然发现"或"撞上"即可。
+
+| 结构 | 含义 | 特殊考点 |
+|------|------|---------|
+| **Stumble across** | 偶然发现；偶然遇见 | 常考：偶然发现科学线索、新数据或观点 |
+| **Come across** | 偶然遇见；碰见 | ⭐ 额外考点：come across as + 性格/印象，表示"给人的印象是……" |
+| **Run into** | 偶然碰见（某人） | ⭐ 引申义：遭遇（困难/危机/债务），如 run into difficulties、run into debt |
+
+> [!note] Stumble 基本功
+> **Stumble** (v.)：绊脚；跌跌撞撞地走
