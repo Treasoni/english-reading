@@ -332,7 +332,41 @@ Even those who aren't hunting for jobs may find search agents worthwhile. Some u
 > 2. **目的不定式嵌套**：to arm themselves 是 gather information 的目的状语，形成"目的套目的"的嵌套结构。
 > 3. **when + 现在分词省略**：when negotiating 省略了主语和 be 动词，当主从句主语一致时可省略。
 
-Although happily employed, Redmon maintains his agent at CareerBuilder. "You always keep your eyes open," he says. Working with a **personal search agent** means having another set of eyes looking out for you.
+Although happily employed, Redmon maintains his agent at CareerBuilder. "You always keep your eyes open," he says. Working with a **personal search agent** means having another set of eyes **looking out for** you.
+
+> [!abstract]- 长难句分析
+> **原句**：Working with a **personal search agent** means having another set of eyes **looking out for** you.
+>
+> **主干提取**：
+> - S (主语)：Working with a personal search agent（动名词短语）
+> - V (谓语)：means
+> - O (宾语)：having another set of eyes looking out for you（动名词短语）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|-----------|----------|
+> | 介词短语 | with a personal search agent | 修饰 Working |
+> | 现在分词短语 | looking out for you | 后置定语修饰 eyes |
+>
+> **结构图解**：
+> ```
+> 主句: [Working with a personal search agent] means [having another set of eyes looking out for you]
+>   │
+>   ├── 主语(动名词短语): Working
+>   │     └── 介短: with a personal search agent → 修饰 Working
+>   │
+>   └── 宾语(动名词短语): having
+>         ├── 宾语: another set of eyes
+>         └── 现在分词短语(后置定语): looking out for you → 修饰 eyes
+> ```
+>
+> **参考译文**：使用个人搜索代理意味着有另一双眼睛在为你守望。
+>
+> **考点提示**：
+> 1. **动名词短语作主语和宾语**：句中两个动名词短语分别充当主语和宾语。动名词作主语时谓语用单数（means）。
+> 2. **现在分词短语作后置定语**：looking out for you 是现在分词短语，后置修饰 eyes，相当于定语从句 that are looking out for you。
+> 3. **a set of** 量词搭配：a set of eyes 表示"一双眼睛"，set 在此为量词。
 
 ---
 
