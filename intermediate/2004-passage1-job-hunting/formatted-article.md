@@ -157,7 +157,41 @@ For any job search, you should start with a narrow concept — what you think yo
 > 2. **名词性关系从句 what**：what = the thing that，兼具先行词和关系代词功能。what you think you want to do 整体充当 a narrow concept 的同位语。
 > 3. **并列谓语省略**：then broaden it 前省略了主语 you，与 should start 并列。
 
-"None of these programs do that," says another expert. "There's no career counseling implicit in all of this." Instead, the best strategy is to use the agent as a kind of ==**tip service**== to keep abreast of jobs in a particular database; when you get E-mail, consider it a reminder to check the database again. "I would not rely on agents for finding everything that is added to a database that might interest me," says the author of a job-searching guide.
+"None of these programs do that," says another expert. "There's no career counseling implicit in all of this."
+
+> [!abstract]- 长难句分析
+> **原句**："There's no career counseling implicit in all of this."
+>
+> **主干提取**：
+> - 句型：There be 存在句
+> - S (真正主语)：no career counseling
+> - V (谓语)：'s (is)
+> - 补语/后置定语：implicit in all of this
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|-----------|----------|
+> | 否定限定词 | no | 修饰 counseling |
+> | 形容词短语（后置） | implicit | 修饰 counseling |
+> | 介词短语 | in all of this | 修饰 implicit |
+>
+> **结构图解**：
+> ```
+> 存在句: There is [no career counseling] [implicit in all of this]
+>   ├── 否定限定词: no → 修饰 career counseling
+>   └── 形容词短语(后置): implicit in all of this → 修饰 career counseling
+>         └── 介短: in all of this → 修饰 implicit
+> ```
+>
+> **参考译文**：所有这些服务中都没有隐含的职业咨询。
+>
+> **考点提示**：
+> 1. **There be 存在句**：表示"某处存在某物"，真正的主语是 be 动词后的名词短语 no career counseling。
+> 2. **形容词短语后置**：implicit in all of this 是形容词短语作后置定语修饰 counseling。当形容词带有较长的介词短语补足语时，通常后置。
+> 3. **否定限定词 no**：no 直接修饰名词，等价于 not any，比 not + 名词更简洁有力。
+
+Instead, the best strategy is to use the agent as a kind of ==**tip service**== to keep abreast of jobs in a particular database; when you get E-mail, consider it a reminder to check the database again. "I would not rely on agents for finding everything that is added to a database that might interest me," says the author of a job-searching guide.
 
 Some sites design their agents to tempt job hunters to return. When CareerSite's agent sends out messages to those who have signed up for its service, for example, it includes only three potential jobs — those it considers the best matches. There may be more matches in the database; job hunters will have to visit the site again to find them — and they do. "On the day after we send our messages, we see a sharp increase in our traffic," says Seth Peets, vice president of marketing for CareerSite.
 
