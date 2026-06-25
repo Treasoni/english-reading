@@ -82,7 +82,7 @@ With thousands of career-related sites on the Internet, finding promising openin
 > 2. **动名词短语作主语**：finding promising openings 是动名词短语充当主语，谓语用单数。
 > 3. **并列表语**：time-consuming and inefficient 由 and 连接两个形容词，共同作表语。注意 time-consuming 是复合形容词（名词+现在分词）。
 
-Search agents reduce the need for repeated visits to the databases. But although a search agent worked for Redmon, career experts see drawbacks. Narrowing your criteria, for example, may work against you: "Every time you answer a question you eliminate a possibility," says one expert.
+Search agents reduce the need for repeated visits to the databases. But although a search agent worked for Redmon, career experts see **drawbacks**. Narrowing your criteria, for example, may work against you: "Every time you answer a question you eliminate a possibility," says one expert.
 
 For any job search, you should start with a narrow concept — what you think you want to do — then broaden it. "None of these programs do that," says another expert. "There's no career counseling implicit in all of this." Instead, the best strategy is to use the agent as a kind of ==**tip service**== to keep abreast of jobs in a particular database; when you get E-mail, consider it a reminder to check the database again. "I would not rely on agents for finding everything that is added to a database that might interest me," says the author of a job-searching guide.
 
