@@ -193,6 +193,50 @@ For any job search, you should start with a narrow concept — what you think yo
 
 Instead, the best strategy is to use the agent as a kind of ==**tip service**== to keep abreast of jobs in a particular database; when you get E-mail, consider it a reminder to check the database again. "I would not rely on agents for finding everything that is added to a database that might interest me," says the author of a job-searching guide.
 
+> [!abstract]- 长难句分析
+> **原句**："I would not rely on agents for finding everything that is added to a database that might interest me," says the author of a job-searching guide.
+>
+> **主干提取**：
+> - 引语内主句：
+>   - S (主语)：I
+>   - V (谓语)：would not rely
+>   - 介词搭配：on agents
+>   - 目的状语：for finding everything
+> - 引述分句：
+>   - V (谓语)：says（倒装）
+>   - S (主语)：the author of a job-searching guide
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|-----------|----------|
+> | 介词短语 | on agents | rely 的搭配 |
+> | 介词短语 | for finding | 目的状语 |
+> | 定语从句 | that is added... | 修饰 everything |
+> | 定语从句 | that might interest me | 修饰 database |
+> | 介词短语 | of a job-searching guide | 修饰 author |
+>
+> **结构图解**：
+> ```
+> 引述分句: says [the author of a job-searching guide] (倒装)
+>   └── 介短: of a job-searching guide → 修饰 author
+>
+> 引语主句: I would not rely [on agents] [for finding everything]
+>   ├── 介短: on agents → rely 的搭配对象
+>   ├── 介短: for finding everything → 目的状语
+>   │     └── 定从: that is added to a database → 修饰 everything
+>   │           └── 介短: to a database → 修饰 added
+>   │                 └── 定从: that might interest me → 修饰 database
+>   └── (嵌套定从层层递进)
+> ```
+>
+> **参考译文**：一位求职指南的作者说道："我不会依赖搜索代理来找到所有添加到数据库中我可能感兴趣的内容。"
+>
+> **考点提示**：
+> 1. **嵌套定语从句**：两个 that 引导的定语从句形成嵌套——第一个修饰 everything，第二个修饰 database。阅读时需逐层剥离。
+> 2. **rely on...for...** 固定搭配：rely on sb/sth for sth 表示"依赖某人/某物做某事"，是考研高频短语。
+> 3. **直接引语+倒装引述**：引述分句 says the author 使用倒装，当引述分句主语为名词短语且位于引语之后时，常用倒装。
+
 Some sites design their agents to tempt job hunters to return. When CareerSite's agent sends out messages to those who have signed up for its service, for example, it includes only three potential jobs — those it considers the best matches. There may be more matches in the database; job hunters will have to visit the site again to find them — and they do. "On the day after we send our messages, we see a sharp increase in our traffic," says Seth Peets, vice president of marketing for CareerSite.
 
 Even those who aren't hunting for jobs may find search agents worthwhile. Some use them to keep a close watch on the demand for their line of work or gather information on compensation to arm themselves when negotiating for a raise. Although happily employed, Redmon maintains his agent at CareerBuilder. "You always keep your eyes open," he says. Working with a **personal search agent** means having another set of eyes looking out for you.
