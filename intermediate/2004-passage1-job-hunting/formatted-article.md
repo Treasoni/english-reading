@@ -8,12 +8,45 @@ tags:
   - job-hunting
   - internet
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-06-25
 sources:
   - "2004年考研英语阅读理解 Passage 1"
 ---
 
-Hunting for a job late last year, lawyer Gant Redmon **stumbled** across CareerBuilder, a job database on the Internet. He searched it with no success but was attracted by the site's **"personal search agent"**. It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database. Redmon chose the keywords legal, intellectual property, and Washington, D.C. Three weeks later, he got his first notification of an opening. "I struck gold," says Redmon, who E-mailed his resume to the employer and won a position as in-house counsel for a company.
+Hunting for a job late last year, lawyer Gant Redmon **stumbled** across CareerBuilder, a job database on the Internet. He searched it with no success but was attracted by the site's **"personal search agent"**. It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database.
+
+> [!abstract]- 长难句分析
+> **原句**：It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database.
+>
+> **主干提取**：It (S) + is (V) + an interactive feature (C)
+>
+> **修饰成分**：
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 定语从句 | that | 先行词 feature |
+> | 并列谓语 | then | 连接 lets 和 E-mails |
+> | 状语从句 | when | 修饰 E-mails |
+> | 同位语 | such as | 解释 job criteria |
+>
+> **结构图解**：
+> ```
+> 主句: It + is + an interactive feature
+>   └── 定从: that lets ... then E-mails ... → 修饰 feature
+>         ├── 宾语1: visitors
+>         ├── 宾补: key in job criteria
+>         │     └── 同位: such as location, title, and salary → 解释 criteria
+>         ├── 并列谓语: then E-mails them
+>         │     └── 状从: when a matching position is posted in the database → 时间状语
+> ```
+>
+> **参考译文**：这是一个交互式功能，访客可以输入求职条件（如地点、职位和薪资），当数据库中发布匹配的职位时，系统会通过电子邮件通知他们。
+>
+> **考点提示**：
+> 1. 定语从句的识别：that 引导定语从句修饰 feature，从句较长，需找到从句的边界（到句末）
+> 2. 并列谓语的省略：then E-mails 前省略了 that（与 lets 并列），实际结构是 that lets ... [that] then E-mails ...
+> 3. 嵌套从句：when 引导的时间状语从句嵌套在定语从句内部，修饰 E-mails
+
+Redmon chose the keywords legal, intellectual property, and Washington, D.C. Three weeks later, he got his first notification of an opening. "I struck gold," says Redmon, who E-mailed his resume to the employer and won a position as in-house counsel for a company.
 
 With thousands of career-related sites on the Internet, finding promising openings can be time-consuming and inefficient. Search agents reduce the need for repeated visits to the databases. But although a search agent worked for Redmon, career experts see drawbacks. Narrowing your criteria, for example, may work against you: "Every time you answer a question you eliminate a possibility," says one expert.
 
