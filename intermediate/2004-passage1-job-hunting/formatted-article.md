@@ -13,7 +13,7 @@ sources:
   - "2004年考研英语阅读理解 Passage 1"
 ---
 
-Hunting for a job late last year, lawyer Gant Redmon stumbled across CareerBuilder, a job database on the Internet. He searched it with no success but was attracted by the site's **"personal search agent"**. It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database. Redmon chose the keywords legal, intellectual property, and Washington, D.C. Three weeks later, he got his first notification of an opening. "I struck gold," says Redmon, who E-mailed his resume to the employer and won a position as in-house counsel for a company.
+Hunting for a job late last year, lawyer Gant Redmon **stumbled** across CareerBuilder, a job database on the Internet. He searched it with no success but was attracted by the site's **"personal search agent"**. It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database. Redmon chose the keywords legal, intellectual property, and Washington, D.C. Three weeks later, he got his first notification of an opening. "I struck gold," says Redmon, who E-mailed his resume to the employer and won a position as in-house counsel for a company.
 
 With thousands of career-related sites on the Internet, finding promising openings can be time-consuming and inefficient. Search agents reduce the need for repeated visits to the databases. But although a search agent worked for Redmon, career experts see drawbacks. Narrowing your criteria, for example, may work against you: "Every time you answer a question you eliminate a possibility," says one expert.
 
