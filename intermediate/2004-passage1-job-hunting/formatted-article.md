@@ -21,6 +21,7 @@ Hunting for a job late last year, lawyer Gant Redmon **stumbled** across CareerB
 > **主干提取**：It (S) + is (V) + an interactive feature (C)
 >
 > **修饰成分**：
+> 
 > | 类型 | 引导词 | 修饰对象 |
 > |------|--------|----------|
 > | 定语从句 | that | 先行词 feature |
