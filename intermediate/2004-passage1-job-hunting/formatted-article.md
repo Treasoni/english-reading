@@ -237,7 +237,53 @@ Instead, the best strategy is to use the agent as a kind of ==**tip service**== 
 > 2. **rely on...for...** 固定搭配：rely on sb/sth for sth 表示"依赖某人/某物做某事"，是考研高频短语。
 > 3. **直接引语+倒装引述**：引述分句 says the author 使用倒装，当引述分句主语为名词短语且位于引语之后时，常用倒装。
 
-Some sites design their agents to tempt job hunters to return. When CareerSite's agent sends out messages to those who have signed up for its service, for example, it includes only three potential jobs — those it considers the best matches. There may be more matches in the database; job hunters will have to visit the site again to find them — and they do. "On the day after we send our messages, we see a sharp increase in our traffic," says Seth Peets, vice president of marketing for CareerSite.
+Some sites design their agents to tempt job hunters to return. When CareerSite's agent sends out messages to those who have signed up for its service, for example, it includes only three potential jobs — those it considers the best matches.
+
+> [!abstract]- 长难句分析
+> **原句**：When CareerSite's agent sends out messages to those who have signed up for its service, for example, it includes only three potential jobs — those it considers the best matches.
+>
+> **主干提取**：
+> - 状从（时间）：When CareerSite's agent sends out messages to those...
+> - 插入语：for example
+> - 主句：
+>   - S (主语)：it
+>   - V (谓语)：includes
+>   - O (宾语)：only three potential jobs
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|-----------|----------|
+> | 状从（时间） | When | 修饰主句 |
+> | 定语从句 | who have signed up... | 修饰 those |
+> | 介词短语 | to those | 修饰 sends out |
+> | 插入语 | for example | 分隔状从与主句 |
+> | 破折号同位语 | — those... | 解释 three potential jobs |
+> | 省略关系词的定从 | (that/which) it considers | 修饰 those |
+>
+> **结构图解**：
+> ```
+> 状从(时间): When [CareerSite's agent] sends out [messages] [to those]
+>   │           ├── 定从: who have signed up for its service → 修饰 those
+>   │           └── 介短: to those → 间接宾语
+>   │
+>   └── 插入语: , for example,
+>
+> 主句: it includes [only three potential jobs] — those it considers the best matches
+>   ├── 限定词: only → 修饰 three
+>   └── 破折号同位语: those it considers the best matches
+>         └── 省略关系词定从: (that/which) it considers → 修饰 those
+>               └── 宾补: the best matches
+> ```
+>
+> **参考译文**：例如，当CareerSite的搜索代理向那些注册了其服务的用户发送消息时，它只包含三个可能的职位——即它认为最匹配的三个。
+>
+> **考点提示**：
+> 1. **When 引导时间状语从句**：从句包含定语从句嵌套（who have signed up...），阅读时需先找到主句 it includes。
+> 2. **省略关系词的定语从句**：those it considers the best matches 省略了关系代词 that/which。当关系代词在从句中作宾语时，可省略。
+> 3. **破折号同位语**：破折号后的 those... 对前面 three potential jobs 进行同位解释，起补充说明作用。
+
+There may be more matches in the database; job hunters will have to visit the site again to find them — and they do. "On the day after we send our messages, we see a sharp increase in our traffic," says Seth Peets, vice president of marketing for CareerSite.
 
 Even those who aren't hunting for jobs may find search agents worthwhile. Some use them to keep a close watch on the demand for their line of work or gather information on compensation to arm themselves when negotiating for a raise. Although happily employed, Redmon maintains his agent at CareerBuilder. "You always keep your eyes open," he says. Working with a **personal search agent** means having another set of eyes looking out for you.
 
