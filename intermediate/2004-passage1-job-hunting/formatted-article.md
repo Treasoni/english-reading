@@ -285,7 +285,54 @@ Some sites design their agents to tempt job hunters to return. When CareerSite's
 
 There may be more matches in the database; job hunters will have to visit the site again to find them — and they do. "On the day after we send our messages, we see a sharp increase in our traffic," says Seth Peets, vice president of marketing for CareerSite.
 
-Even those who aren't hunting for jobs may find search agents worthwhile. Some use them to keep a close watch on the demand for their line of work or gather information on compensation to arm themselves when negotiating for a raise. Although happily employed, Redmon maintains his agent at CareerBuilder. "You always keep your eyes open," he says. Working with a **personal search agent** means having another set of eyes looking out for you.
+Even those who aren't hunting for jobs may find search agents worthwhile. Some use them to keep a close watch on the demand for their line of work or gather information on compensation to arm themselves when negotiating for a raise.
+
+> [!abstract]- 长难句分析
+> **原句**：Some use them to keep a close watch on the demand for their line of work or gather information on compensation to arm themselves when negotiating for a raise.
+>
+> **主干提取**：
+> - S (主语)：Some
+> - V (谓语)：use
+> - O (宾语)：them
+> - 目的状语 1：to keep a close watch on the demand...
+> - 目的状语 2：or gather information on compensation
+> - 目的状语 3：to arm themselves
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|-----------|----------|
+> | 不定式（目的） | to keep | 补充说明 use 的目的 |
+> | 介词短语 | on the demand | 修饰 watch |
+> | 介词短语 | for their line of work | 修饰 demand |
+> | 并列连词 | or | 连接 keep 与 gather |
+> | 不定式（目的） | to arm | 补充说明 gather 的目的 |
+> | 状从（时间省略） | when negotiating | 修饰 arm |
+>
+> **结构图解**：
+> ```
+> 主句: [Some] use [them]
+>   ├── 目的不定式1: to keep [a close watch] [on the demand]
+>   │     ├── 介短: on the demand → 修饰 watch
+>   │     └── 介短: for their line of work → 修饰 demand
+>   │
+>   ├── 并列连词: or
+>   │
+>   └── 目的不定式2: (to) gather [information] [on compensation]
+>         ├── 介短: on compensation → 修饰 information
+>         └── 目的不定式3: to arm [themselves]
+>               └── 状从(省略): when (they are) negotiating [for a raise]
+>                     └── 介短: for a raise → 修饰 negotiating
+> ```
+>
+> **参考译文**：有些人使用搜索代理来密切关注其行业的需求变化，或收集薪酬信息，以便在谈薪时为自己争取更有利的条件。
+>
+> **考点提示**：
+> 1. **并列不定式省略 to**：to keep... or gather... 中，gather 前省略了 to，与 to keep 并列。当两个不定式由 or/and 连接时，第二个不定式的 to 可省略。
+> 2. **目的不定式嵌套**：to arm themselves 是 gather information 的目的状语，形成"目的套目的"的嵌套结构。
+> 3. **when + 现在分词省略**：when negotiating 省略了主语和 be 动词，当主从句主语一致时可省略。
+
+Although happily employed, Redmon maintains his agent at CareerBuilder. "You always keep your eyes open," he says. Working with a **personal search agent** means having another set of eyes looking out for you.
 
 ---
 
