@@ -13,7 +13,7 @@ sources:
   - "2004年考研英语阅读理解 Passage 1"
 ---
 
-Hunting for a job late last year, lawyer Gant Redmon **stumbled** across CareerBuilder, a job database on the Internet. He searched it with no success but was attracted by the site's **"personal search agent"**. It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database.
+Hunting for a job late last year, lawyer Gant Redmon **stumbled** across CareerBuilder, a job database on the Internet. He searched it with no success but was attracted by the site's **"personal search agent"**. It's an interactive feature that lets visitors key in job **criteria** such as location, title, and salary, then E-mails them when a matching position is posted in the database.
 
 > [!abstract]- 长难句分析
 > **原句**：It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database.
