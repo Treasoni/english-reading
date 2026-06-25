@@ -84,6 +84,42 @@ With thousands of career-related sites on the Internet, finding promising openin
 
 Search agents reduce the need for repeated visits to the databases. But although a search agent worked for Redmon, career experts see **drawbacks**. Narrowing your criteria, for example, may work against you: "Every time you answer a question you eliminate a possibility," says one expert.
 
+> [!abstract]- 长难句分析
+> **原句**：Narrowing your criteria, for example, may work against you: "Every time you answer a question you eliminate a possibility," says one expert.
+>
+> **主干提取**：
+> - S (主语)：Narrowing your criteria（动名词短语）
+> - 插入语：for example（分隔主语与谓语）
+> - V (谓语)：may work
+> - A (状语)：against you
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |------|-----------|----------|
+> | 插入语 | for example | 分隔主语与谓语 |
+> | 同位/解释 | 冒号 : | 解释 work against you |
+> | 直接引语 | 引号 | 补充说明观点 |
+> | 状从（时间） | Every time | 引语内部 |
+> | 倒装 | says + 主语 | 引述分句 |
+>
+> **结构图解**：
+> ```
+> 主句: [Narrowing your criteria] , for example, may work [against you]
+>   ├── 插入语: for example → 分隔主语与谓语
+>   └── 冒号引出解释:
+>         引语: "Every time you answer a question you eliminate a possibility"
+>         │     └── 状从(时间): Every time you answer a question → 修饰 eliminate
+>         └── 引述: says one expert (倒装: one expert says)
+> ```
+>
+> **参考译文**：例如，缩小你的搜索范围可能会对你不利："每次你回答一个问题，你就排除了一种可能，"一位专家说道。
+>
+> **考点提示**：
+> 1. **动名词短语作主语与插入语分隔**：Narrowing your criteria 是主语，for example 是插入语，两者用逗号隔开。阅读时需跳过插入语，快速定位主谓。
+> 2. **冒号的解释功能**：冒号后的内容是对前文的解释或例证，考研阅读中冒号常表示"即/也就是说"。
+> 3. **直接引语后的倒装**：says one expert 是引述分句的倒装形式。当引述分句主语为名词且位于引语之后时，常用倒装。
+
 For any job search, you should start with a narrow concept — what you think you want to do — then broaden it. "None of these programs do that," says another expert. "There's no career counseling implicit in all of this." Instead, the best strategy is to use the agent as a kind of ==**tip service**== to keep abreast of jobs in a particular database; when you get E-mail, consider it a reminder to check the database again. "I would not rely on agents for finding everything that is added to a database that might interest me," says the author of a job-searching guide.
 
 Some sites design their agents to tempt job hunters to return. When CareerSite's agent sends out messages to those who have signed up for its service, for example, it includes only three potential jobs — those it considers the best matches. There may be more matches in the database; job hunters will have to visit the site again to find them — and they do. "On the day after we send our messages, we see a sharp increase in our traffic," says Seth Peets, vice president of marketing for CareerSite.
