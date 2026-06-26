@@ -13,7 +13,7 @@ sources:
   - "2004考研英语阅读理解"
 ---
 
-Over the past century, all kinds of unfairness and discrimination have been condemned or made illegal. But one insidious form continues to thrive: **alphabetism**. This, for those as yet unaware of such a disadvantage, refers to discrimination against those whose surnames begin with a letter in the lower half of the alphabet.
+Over the past century, all kinds of unfairness and discrimination have been condemned or made illegal. But one **insidious** form continues to thrive: **alphabetism**. This, for those as yet unaware of such a disadvantage, refers to discrimination against those whose surnames begin with a letter in the lower half of the alphabet.
 
 It has long been known that a taxi firm called AAAA cars has a big advantage over Zodiac cars when customers thumb through their phone directories. Less well known is the advantage that Adam Abbott has in life over Zoë Zysman. English names are fairly evenly spread between the halves of the alphabet. Yet a suspiciously large number of top people have surnames beginning with letters between A and K.
 
