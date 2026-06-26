@@ -20,6 +20,7 @@ Over the past century, all kinds of unfairness and discrimination have been cond
 > **主干提取**：This (S) + refers to (V) + discrimination (O)
 >
 > **修饰成分**：
+> 
 > | 类型 | 引导词/结构 | 修饰对象 |
 > |------|------------|----------|
 > | 介词短语（插入语） | for those | 补充说明适用对象 |
