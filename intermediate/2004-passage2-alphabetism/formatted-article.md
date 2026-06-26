@@ -9,11 +9,38 @@ tags:
   - discrimination
 created: 2026-06-26
 updated: 2026-06-26
+sentence_analysis: 1
 sources:
   - "2004考研英语阅读理解"
 ---
 
 Over the past century, all kinds of unfairness and discrimination have been condemned or made illegal. But one **insidious** form continues to thrive: **alphabetism**. This, for those as yet unaware of such a disadvantage, refers to discrimination against those whose surnames begin with a letter in the lower half of the alphabet.
+
+> [!abstract]- 长难句分析
+> **主干提取**：This (S) + refers to (V) + discrimination (O)
+>
+> **修饰成分**：
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语（插入语） | for those | 补充说明适用对象 |
+> | 形容词短语（后置定语） | unaware of | 修饰 those |
+> | 介词短语 | against those | 修饰 discrimination |
+> | 定语从句 | whose | 修饰第二个 those |
+> | 介词短语 | in the lower half | 修饰 letter |
+>
+> **结构图解**：
+> ```
+> 主句: [This] + [refers to] + [discrimination]
+>   ├── 介短: (for those ...) → 插入语，说明适用对象
+>   │     └── 形容词短语: (as yet unaware ...) → 后置定语修饰 those
+>   ├── 介短: (against those ...) → 修饰 discrimination
+>   │     └── 定从: (whose surnames begin ...) → 修饰 those
+>   │           └── 介短: (in the lower half ...) → 修饰 letter
+> ```
+>
+> **参考译文**：对于那些尚未意识到这种劣势的人来说，它指的是对那些姓氏首字母位于字母表后半部分的人的歧视。
+>
+> **考点提示**：插入语识别（for those... 不影响主句结构）；形容词短语作后置定语（unaware of... 相当于 who are unaware of...）；whose 引导定语从句
 
 It has long been known that a taxi firm called AAAA cars has a big advantage over Zodiac cars when customers thumb through their phone directories. Less well known is the advantage that Adam Abbott has in life over Zoë Zysman. English names are fairly evenly spread between the halves of the alphabet. Yet a suspiciously large number of top people have surnames beginning with letters between A and K.
 
