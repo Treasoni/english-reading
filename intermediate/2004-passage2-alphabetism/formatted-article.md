@@ -45,6 +45,67 @@ Over the past century, all kinds of unfairness and discrimination have been cond
 
 It has long been known that a taxi firm called AAAA cars has a big advantage over Zodiac cars when customers **thumb through** their phone directories. Less well known is the advantage that Adam Abbott has in life over Zoë Zysman. English names are fairly evenly spread between the halves of the alphabet. Yet a suspiciously large number of top people have surnames beginning with letters between A and K.
 
+> [!abstract]- 长难句分析
+> **原句**：Less well known is the advantage that Adam Abbott has in life over Zoë Zysman.
+>
+> **主干提取**：
+> - S (主语)：the advantage
+> - V (谓语)：is
+> - C (表语)：Less well known
+>
+> **倒装说明**：表语前置的完全倒装句，正常语序为 The advantage... is less well known.
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 定语从句 | that | the advantage（是什么优势） |
+> | 介词短语 | in life | has（状语：在生活中） |
+> | 介词短语 | over Zoë Zysman | has（状语：相比 Zoë） |
+>
+> **结构图解**：
+> ```
+> 主句: [the advantage] + [is] + [less well known]  ← 表语前置倒装
+>   └── 定从: (that Adam Abbott has in life over Zoë Zysman) → 修饰 [advantage]
+>         ├── 介短: (in life) → 状语，修饰 has
+>         └── 介短: (over Zoë Zysman) → 状语，修饰 has（比较对象）
+> ```
+>
+> **参考译文**：鲜为人知的是，Adam Abbott 在生活中相比 Zoë Zysman 所具有的优势。
+>
+> **考点提示**：表语前置的完全倒装（表语+be+主语）；定语从句修饰 advantage；over 表比较关系
+
+> [!abstract]- 长难句分析
+> **原句**：Yet a suspiciously large number of top people have surnames beginning with letters between A and K.
+>
+> **主干提取**：
+> - S (主语)：a suspiciously large number of top people
+> - V (谓语)：have
+> - O (宾语)：surnames
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 副词 | yet | 整句（转折连词，与上文对比） |
+> | 副词 | suspiciously | large（修饰形容词） |
+> | 介词短语 | of top people | number（限定数量归属） |
+> | 非谓语(现在分词) | beginning with letters... | surnames（后置定语） |
+> | 介词短语 | between A and K | letters（限定字母范围） |
+>
+> **结构图解**：
+> ```
+> 主句: [a suspiciously large number of top people] + [have] + [surnames]
+>   ├── 副词: (Yet) → 转折连词，与前文对比
+>   ├── 介短: (of top people) → 修饰 [number]，限定数量的归属
+>   └── 非谓语: (beginning with letters between A and K) → 修饰 [surnames]，后置定语
+>         └── 介短: (between A and K) → 修饰 [letters]，限定字母范围
+> ```
+>
+> **参考译文**：然而，令人怀疑的是，高管中姓氏首字母在 A 到 K 之间的人数多得离谱。
+>
+> **考点提示**：非谓语动词作后置定语（beginning with... 相当于 which begin with...）；副词 suspiciously 修饰形容词 large 的语义强调；yet 表转折的语篇衔接功能
+
 Thus the American president and vice-president have surnames starting with B and C respectively; and 26 of George Bush's predecessors (including his father) had surnames in the first half of the alphabet against just 16 in the second half. Even more striking, six of the seven heads of government of the G7 rich countries are alphabetically advantaged (Berlusconi, Blair, Bush, Chirac, Chrétien and Koizumi). The world's three top central bankers (Greenspan, Duisenberg and Hayami) are all close to the top of the alphabet, even if one of them really uses Japanese characters. As are the world's five richest men (Gates, Buffett, Allen, Ellison and Albrecht).
 
 Can this merely be coincidence? One theory, dreamt up in all the spare time enjoyed by the alphabetically disadvantaged, is that the rot sets in early. At the start of the first year in infant school, teachers seat pupils alphabetically from the front, to make it easier to remember their names. So short-sighted Zysman junior gets stuck in the back row, and is rarely asked the improving questions posed by those insensitive teachers. At the time the alphabetically disadvantaged may think they have had a lucky escape. Yet the result may be worse qualifications, because they get less individual attention, as well as less confidence in speaking publicly.
