@@ -142,6 +142,37 @@ Thus the American president and vice-president have surnames starting with B and
 
 Can this merely be coincidence? One theory, dreamt up in all the spare time enjoyed by the alphabetically disadvantaged, is that the rot sets in early. At the start of the first year in infant school, teachers seat pupils alphabetically from the front, to make it easier to remember their names. So short-sighted Zysman junior gets stuck in the back row, and is rarely asked the improving questions posed by those insensitive teachers. At the time the alphabetically disadvantaged may think they have had a lucky escape. Yet the result may be worse qualifications, because they get less individual attention, as well as less confidence in speaking publicly.
 
+> [!abstract]- 长难句分析
+> **原句**：One theory, dreamt up in all the spare time enjoyed by the alphabetically disadvantaged, is that the rot sets in early.
+>
+> **主干提取**：
+> - S (主语)：One theory
+> - V (谓语)：is
+> - C (表语)：that the rot sets in early
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 非谓语(过去分词) | dreamt up | One theory（后置定语） |
+> | 介词短语 | in all the spare time | dreamt up（状语） |
+> | 非谓语(过去分词) | enjoyed by the alphabetically disadvantaged | spare time（后置定语） |
+> | 表语从句 | that the rot sets in early | is 的表语 |
+>
+> **结构图解**：
+> ```
+> 主句: [One theory] + [is] + [that the rot sets in early]
+>   ├── 插入语(非谓语): (dreamt up in all the spare time...) → 修饰 [theory]
+>   │     ├── 介短: (in all the spare time) → 修饰 dreamt up
+>   │     │     └── 非谓语: (enjoyed by...) → 修饰 [spare time]
+>   └── 表从: (that the rot sets in early) → 作表语
+>         └── 固定搭配: (sets in) → 恶化、开始并持续
+> ```
+>
+> **参考译文**：有一种理论——是由那些字母顺序处于劣势的人在闲暇时构想出来的——认为这种恶化从很早就开始了。
+>
+> **考点提示**：表语从句识别（that 引导，作 is 的表语）；过去分词短语作插入语（dreamt up... 补充说明来源）；固定搭配 the rot sets in（情况开始恶化）
+
 The humiliation continues. At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ. Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them.
 
 ---
