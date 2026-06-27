@@ -480,7 +480,103 @@ As 是考研英语中的高频介词/连词，可构成多种固定搭配，表�
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **alphabetism** | n. | 字母排序歧视 | "But one insidious form continues to thrive: **alphabetism**." |
+| **alphabetically advantaged** | adj. | 字母排序上占优势的 | "Six of the seven heads of government... are **alphabetically advantaged**." |
+| **conspicuous** | adj. | 明显的；惹人注目的 | "[B] A type of **conspicuous** bias." |
+| **dreamt up** | v. | 凭空想出；虚构 | "One theory, **dreamt up** in all the spare time..." |
+| **humiliation** | n. | 羞辱；屈辱 | "The **humiliation** continues." |
+| **improving questions** | n. | 能促进成长的问题 | "...is rarely asked the **improving questions** posed by those insensitive teachers." |
+| **infant school** | n. | 小学（英国用法） | "At the start of the first year in **infant school**..." |
+| **insensitive** | adj. | 不敏感的；麻木的 | "...rarely asked the improving questions posed by those **insensitive** teachers." |
+| **insidious** | adj. | 隐蔽的；暗中为害的 | "But one **insidious** form continues to thrive." |
+| **noisily dozing off** | v. | 大声打瞌睡 | "[B] They are **noisily dozing off**." |
+| **plough** | v. | 费力地阅读/浏览 | "...their recipients lose interest as they **plough** through them." |
+| **plough through** | v. | 费力地阅读/完成 | "...lose interest as they **plough through** them." |
+| **predecessors** | n. | 前任 | "...26 of George Bush's **predecessors** (including his father)..." |
+| **qualifications** | n. | 学业成绩；资质 | "Yet the result may be worse **qualifications**..." |
+| **rot** | n. | 腐烂；恶化 | "...is that the **rot** sets in early." |
+| **short-sighted** | adj. | 近视的；目光短浅的 | "So **short-sighted** Zysman junior gets stuck in the back row..." |
+| **shortlists** | n. | 入围名单；初选名单 | "**Shortlists** for job interviews... all tend to be drawn up alphabetically." |
+| **striking** | adj. | 引人注目的；突出的 | "Even more **striking**, six of the seven heads of government..." |
+| **subtle** | adj. | 微妙的；难以察觉的 | "[D] Some form of discrimination is too **subtle** to recognize." |
+| **suspiciously** | adv. | 可疑地；令人怀疑地 | "Yet a **suspiciously** large number of top people..." |
+| **the rot sets in** | v. | 情况开始恶化 | "...is that **the rot sets in** early." |
+| **thumb through** | v. | 快速翻阅 | "...when customers **thumb through** their phone directories." |
+
+---
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> insidious / alphabetism / predecessors / plough through / shortlists / humiliation / striking / subtle / qualifications / dreamt up
+
+1. The ________ between the two candidates was so ________ that most voters didn't notice it.
+
+2. After the ________ of being rejected from all ten universities, she decided to ________ a new plan for her future.
+
+3. The company's ________ for the manager position included over 200 applicants.
+
+4. She had to ________ hundreds of pages of boring reports before the meeting.
+
+5. One ________ theory was ________ to explain the phenomenon, but it lacked evidence.
+
+6. His ________ had all served with distinction, but his own record was disappointing.
+
+> [!abstract]- 答案
+> 1. **subtle**（微妙的）；**insidious**（隐蔽的）
+> 2. **humiliation**（羞辱）；**dreamt up**（凭空想出）
+> 3. **shortlists**（入围名单）
+> 4. **plough through**（费力地阅读）
+> 5. **striking**（引人注目的）；**dreamt up**（凭空想出）
+> 6. **predecessors**（前任）
+
+---
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. thumb through
+
+2. the rot sets in
+
+3. alphabetically advantaged
+
+> [!abstract]- 答案
+> 1. **thumb through** = 快速翻阅；浏览
+> 2. **the rot sets in** = 情况开始恶化；变糟
+> 3. **alphabetically advantaged** = 在字母排序上占优势的
+
+---
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "Yet the result may be worse **qualifications**" 中 **qualifications** 的含义是：
+   - A. 资格证书
+   - B. 学业成绩/资质（正确）
+   - C. 条件；限定
+   - D. 合格证明
+
+> [!abstract]- 答案
+> 1. **B** — 此处 qualifications 指"学业成绩/资质"，而非通常的"资格证书"。上下文讨论的是学生在学校因缺乏关注而导致学业表现不佳。
+
+2. "One theory, **dreamt up** in all the spare time..." 中 **dreamt up** 的含义是：
+   - A. 梦见
+   - B. 凭空想出；虚构（正确）
+   - C. 梦想成真
+   - D. 回忆起
+
+> [!abstract]- 答案
+> 2. **B** — dreamt up 表示"凭空想出；虚构"，常带有不切实际的色彩。此处指字母劣势者利用空闲时间构想出的理论。
 
 ---
 
