@@ -201,6 +201,37 @@ Can this merely be coincidence? One theory, **dreamt up** in all the spare time 
 >
 > **考点提示**：the + 形容词表示一类人（the alphabetically disadvantaged）；宾语从句省略 that；At the time 作时间状语
 
+> [!abstract]- 长难句分析
+> **原句**：Yet the result may be worse qualifications, because they get less individual attention, as well as less confidence in speaking publicly.
+>
+> **主干提取**：
+> - S (主语)：the result
+> - V (谓语)：may be
+> - C (表语)：worse qualifications
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 副词 | Yet | 整句（转折连词） |
+> | 状语从句 | because they get less individual attention | 整句（原因状语） |
+> | 并列结构 | as well as | less individual attention（并列连接） |
+> | 介词短语 | in speaking publicly | confidence（限定方面） |
+>
+> **结构图解**：
+> ```
+> 主句: [the result] + [may be] + [worse qualifications]
+>   ├── 副词: (Yet) → 转折连词
+>   └── 状从: (because they get less individual attention, as well as less confidence...)
+>         ├── 并列项1: (less individual attention)
+>         └── 并列项2: (less confidence in speaking publicly)
+>               └── 介短: (in speaking publicly) → 修饰 confidence
+> ```
+>
+> **参考译文**：然而，结果可能是更差的成绩，因为他们得到的个人关注更少，以及在公众场合发言的信心也不足。
+>
+> **考点提示**：because 引导原因状语从句；as well as 并列结构连接两个宾语；qualifications 此处指"学业成绩"
+
 The humiliation continues. At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ. Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them.
 
 ---
