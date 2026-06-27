@@ -35,13 +35,296 @@ sources:
 
 Over the past century, all kinds of unfairness and discrimination have been condemned or made illegal. But one **insidious** form continues to thrive: **alphabetism**. This, for those as yet unaware of such a disadvantage, refers to discrimination against those whose surnames begin with a letter in the lower half of the alphabet.
 
+> [!abstract]- 长难句分析
+> **原句**：This, for those as yet unaware of such a disadvantage, refers to discrimination against those whose surnames begin with a letter in the lower half of the alphabet.
+>
+> **主干提取**：This (S) + refers to (V) + discrimination (O)
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/结构 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语（插入语） | for those | 补充说明适用对象 |
+> | 形容词短语（后置定语） | unaware of | 修饰 those |
+> | 介词短语 | against those | 修饰 discrimination |
+> | 定语从句 | whose | 修饰第二个 those |
+> | 介词短语 | in the lower half | 修饰 letter |
+>
+> **结构图解**：
+> ```
+> 主句: [This] + [refers to] + [discrimination]
+>   ├── 介短: (for those ...) → 插入语，说明适用对象
+>   │     └── 形容词短语: (as yet unaware ...) → 后置定语修饰 those
+>   ├── 介短: (against those ...) → 修饰 discrimination
+>   │     └── 定从: (whose surnames begin ...) → 修饰 those
+>   │           └── 介短: (in the lower half ...) → 修饰 letter
+> ```
+>
+> **参考译文**：对于那些尚未意识到这种劣势的人来说，它指的是对那些姓氏首字母位于字母表后半部分的人的歧视。
+>
+> **考点提示**：插入语识别（for those... 不影响主句结构）；形容词短语作后置定语（unaware of... 相当于 who are unaware of...）；whose 引导定语从句
+
 It has long been known that a taxi firm called AAAA cars has a big advantage over Zodiac cars when customers **thumb through** their phone directories. Less well known is the advantage that Adam Abbott has in life over Zoë Zysman. English names are fairly evenly spread between the halves of the alphabet. Yet a suspiciously large number of top people have surnames beginning with letters between A and K.
+
+> [!abstract]- 长难句分析
+> **原句**：Less well known is the advantage that Adam Abbott has in life over Zoë Zysman.
+>
+> **主干提取**：
+> - S (主语)：the advantage
+> - V (谓语)：is
+> - C (表语)：Less well known
+>
+> **倒装说明**：表语前置的完全倒装句，正常语序为 The advantage... is less well known.
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 定语从句 | that | the advantage（是什么优势） |
+> | 介词短语 | in life | has（状语：在生活中） |
+> | 介词短语 | over Zoë Zysman | has（状语：相比 Zoë） |
+>
+> **结构图解**：
+> ```
+> 主句: [the advantage] + [is] + [less well known]  ← 表语前置倒装
+>   └── 定从: (that Adam Abbott has in life over Zoë Zysman) → 修饰 [advantage]
+>         ├── 介短: (in life) → 状语，修饰 has
+>         └── 介短: (over Zoë Zysman) → 状语，修饰 has（比较对象）
+> ```
+>
+> **参考译文**：鲜为人知的是，Adam Abbott 在生活中相比 Zoë Zysman 所具有的优势。
+>
+> **考点提示**：表语前置的完全倒装（表语+be+主语）；定语从句修饰 advantage；over 表比较关系
+
+> [!abstract]- 长难句分析
+> **原句**：Yet a suspiciously large number of top people have surnames beginning with letters between A and K.
+>
+> **主干提取**：
+> - S (主语)：a suspiciously large number of top people
+> - V (谓语)：have
+> - O (宾语)：surnames
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 副词 | yet | 整句（转折连词，与上文对比） |
+> | 副词 | suspiciously | large（修饰形容词） |
+> | 介词短语 | of top people | number（限定数量归属） |
+> | 非谓语(现在分词) | beginning with letters... | surnames（后置定语） |
+> | 介词短语 | between A and K | letters（限定字母范围） |
+>
+> **结构图解**：
+> ```
+> 主句: [a suspiciously large number of top people] + [have] + [surnames]
+>   ├── 副词: (Yet) → 转折连词，与前文对比
+>   ├── 介短: (of top people) → 修饰 [number]，限定数量的归属
+>   └── 非谓语: (beginning with letters between A and K) → 修饰 [surnames]，后置定语
+>         └── 介短: (between A and K) → 修饰 [letters]，限定字母范围
+> ```
+>
+> **参考译文**：然而，令人怀疑的是，高管中姓氏首字母在 A 到 K 之间的人数多得离谱。
+>
+> **考点提示**：非谓语动词作后置定语（beginning with... 相当于 which begin with...）；副词 suspiciously 修饰形容词 large 的语义强调；yet 表转折的语篇衔接功能
 
 Thus the American president and vice-president have surnames starting with B and C respectively; and 26 of George Bush's predecessors (including his father) had surnames in the first half of the alphabet against just 16 in the second half. Even more striking, six of the seven heads of government of the G7 rich countries are alphabetically advantaged (Berlusconi, Blair, Bush, Chirac, Chrétien and Koizumi). The world's three top central bankers (Greenspan, Duisenberg and Hayami) are all close to the top of the alphabet, even if one of them really uses Japanese characters. As are the world's five richest men (Gates, Buffett, Allen, Ellison and Albrecht).
 
+> [!abstract]- 长难句分析
+> **原句**：Even more striking, six of the seven heads of government of the G7 rich countries are alphabetically advantaged (Berlusconi, Blair, Bush, Chirac, Chrétien and Koizumi)
+>
+> **主干提取**：
+> - S (主语)：six of the seven heads of government
+> - V (谓语)：are
+> - C (表语)：alphabetically advantaged
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 评注性状语 | Even more striking | 整句（递进强调） |
+> | 介词短语 | of the seven heads of government | six（限定数量范围） |
+> | 介词短语 | of the G7 rich countries | heads of government（限定所属） |
+> | 副词 | alphabetically | advantaged（修饰表语） |
+> | 同位语 | Berlusconi, Blair, Bush... | six heads（列举具体人物） |
+>
+> **结构图解**：
+> ```
+> 主句: [six of the seven heads of government] + [are] + [alphabetically advantaged]
+>   ├── 评注状语: (Even more striking,) → 整句修饰，递进强调
+>   ├── 介短: (of the seven heads of government) → 修饰 [six]
+>   │     └── 介短: (of the G7 rich countries) → 修饰 [heads]
+>   ├── 副词: (alphabetically) → 修饰 [advantaged]
+>   └── 同位语: (Berlusconi, Blair, Bush...) → 解释 [six heads]
+> ```
+>
+> **参考译文**：更引人注目的是，七国集团中六位政府首脑的姓氏都占字母优势（贝卢斯科尼、布莱尔、布什、希拉克、克雷蒂安和小泉）。
+>
+> **考点提示**：评注性状语（Even more striking 修饰整句，表评价）；多层介词短语嵌套（of...of...）；同位语列举具体人物
+
 Can this merely be coincidence? One theory, **dreamt up** in all the spare time enjoyed by the alphabetically disadvantaged, is that the **rot** sets in early. At the start of the first year in infant school, teachers seat pupils alphabetically from the front, to make it easier to remember their names. So **short-sighted** Zysman junior gets stuck in the back row, and is rarely asked the improving questions posed by those insensitive teachers. At the time the alphabetically disadvantaged may think they have had a lucky escape. Yet the result may be worse qualifications, because they get less individual attention, as well as less confidence in speaking publicly.
 
+> [!abstract]- 长难句分析
+> **原句**：One theory, dreamt up in all the spare time enjoyed by the alphabetically disadvantaged, is that the rot sets in early.
+>
+> **主干提取**：
+> - S (主语)：One theory
+> - V (谓语)：is
+> - C (表语)：that the rot sets in early
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 非谓语(过去分词) | dreamt up | One theory（后置定语） |
+> | 介词短语 | in all the spare time | dreamt up（状语） |
+> | 非谓语(过去分词) | enjoyed by the alphabetically disadvantaged | spare time（后置定语） |
+> | 表语从句 | that the rot sets in early | is 的表语 |
+>
+> **结构图解**：
+> ```
+> 主句: [One theory] + [is] + [that the rot sets in early]
+>   ├── 插入语(非谓语): (dreamt up in all the spare time...) → 修饰 [theory]
+>   │     ├── 介短: (in all the spare time) → 修饰 dreamt up
+>   │     │     └── 非谓语: (enjoyed by...) → 修饰 [spare time]
+>   └── 表从: (that the rot sets in early) → 作表语
+>         └── 固定搭配: (sets in) → 恶化、开始并持续
+> ```
+>
+> **参考译文**：有一种理论——是由那些字母顺序处于劣势的人在闲暇时构想出来的——认为这种恶化从很早就开始了。
+>
+> **考点提示**：表语从句识别（that 引导，作 is 的表语）；过去分词短语作插入语（dreamt up... 补充说明来源）；固定搭配 the rot sets in（情况开始恶化）
+
+> [!abstract]- 长难句分析
+> **原句**：At the time the alphabetically disadvantaged may think they have had a lucky escape
+>
+> **主干提取**：
+> - S (主语)：the alphabetically disadvantaged
+> - V (谓语)：may think
+> - O (宾语)：they have had a lucky escape
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 介词短语 | At the time | 整句（时间状语） |
+> | 宾语从句 | they have had a lucky escape | think 的宾语 |
+> | 形容词 | lucky | escape（修饰宾语） |
+>
+> **结构图解**：
+> ```
+> 主句: [the alphabetically disadvantaged] + [may think] + [they have had a lucky escape]
+>   ├── 介短: (At the time) → 时间状语
+>   └── 名从(宾从): (they have had a lucky escape) → 作 think 的宾语
+>         └── 形容词: (lucky) → 修饰 escape
+> ```
+>
+> **参考译文**：在那个时候，字母顺序处于劣势的人可能认为自己幸运地逃脱了。
+>
+> **考点提示**：the + 形容词表示一类人（the alphabetically disadvantaged）；宾语从句省略 that；At the time 作时间状语
+
+> [!abstract]- 长难句分析
+> **原句**：Yet the result may be worse qualifications, because they get less individual attention, as well as less confidence in speaking publicly.
+>
+> **主干提取**：
+> - S (主语)：the result
+> - V (谓语)：may be
+> - C (表语)：worse qualifications
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 副词 | Yet | 整句（转折连词） |
+> | 状语从句 | because they get less individual attention | 整句（原因状语） |
+> | 并列结构 | as well as | less individual attention（并列连接） |
+> | 介词短语 | in speaking publicly | confidence（限定方面） |
+>
+> **结构图解**：
+> ```
+> 主句: [the result] + [may be] + [worse qualifications]
+>   ├── 副词: (Yet) → 转折连词
+>   └── 状从: (because they get less individual attention, as well as less confidence...)
+>         ├── 并列项1: (less individual attention)
+>         └── 并列项2: (less confidence in speaking publicly)
+>               └── 介短: (in speaking publicly) → 修饰 confidence
+> ```
+>
+> **参考译文**：然而，结果可能是更差的成绩，因为他们得到的个人关注更少，以及在公众场合发言的信心也不足。
+>
+> **考点提示**：because 引导原因状语从句；as well as 并列结构连接两个宾语；qualifications 此处指"学业成绩"
+
 The **humiliation** continues. At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ. Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they **plough** through them.
+
+> [!abstract]- 长难句分析
+> **原句**：At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ.
+>
+> **主干提取**：
+>
+> | 分句 | S (主语) | V (谓语) | O (宾语) |
+> |------|----------|----------|----------|
+> | 分句1 | the ABCs | get | their awards |
+> | 分句2 | most people | are...having | a ZZZ |
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 介词短语 | At university graduation ceremonies | 整句（时间状语） |
+> | 副词 | proudly | get（修饰谓语） |
+> | 副词 | first | get（修饰谓语） |
+> | 时间状语从句 | by the time they reach the Zysmans | 分句2 |
+> | 副词 | literally | having（修饰谓语） |
+>
+> **结构图解**：
+> ```
+> 并列句（分号连接）
+>   ├── 分句1: [the ABCs] + [get] + [their awards] + [first]
+>   │     ├── 介短: (At university graduation ceremonies) → 时间状语
+>   │     └── 副词: (proudly, first) → 修饰 get
+>   └── 分句2: [most people] + [are...having] + [a ZZZ]
+>         ├── 状从: (by the time they reach the Zysmans) → 时间状语从句
+>         └── 副词: (literally) → 修饰 having
+> ```
+>
+> **参考译文**：在大学毕业典礼上，姓氏首字母靠前的人骄傲地先领奖；等到轮到姓氏靠后的 Zysman 们时，大多数人确实在打瞌睡了。
+>
+> **考点提示**：by the time 引导时间状语从句；分号连接并列句；a ZZZ 拟声词表示打瞌睡；the ABCs/the Zysmans 借代两类人
+
+> [!abstract]- 长难句分析
+> **原句**：Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them.
+>
+> **主干提取**：
+>
+> | 分句 | S (主语) | V (谓语) | O (宾语) |
+> |------|----------|----------|----------|
+> | 分句1 | all | tend to be drawn up | - |
+> | 分句2 | their recipients | lose | interest |
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 介词短语 | for job interviews | Shortlists |
+> | 名词定语 | election | ballot papers |
+> | 介词短语 | of conference speakers and attendees | lists |
+> | 副词 | alphabetically | drawn up |
+> | 时间状语从句 | as they plough through them | lose interest |
+>
+> **结构图解**：
+> ```
+> 冒号结构
+>   ├── 冒号前（列举）：Shortlists / ballot papers / lists
+>   └── 冒号后（并列句）
+>         ├── 分句1: [all] + [tend to be drawn up] + [alphabetically]
+>         │     └── 被动语态: be drawn up（被编制）
+>         └── 分句2: [their recipients] + [lose] + [interest]
+>               └── 状从: (as they plough through them) → 时间状语从句
+>                     └── 固定搭配: plough through（费力地阅读）
+> ```
+>
+> **参考译文**：工作面试的候选名单、选举选票、会议发言者和与会者名单——所有这些往往都按字母顺序编制，而接收者在逐一翻阅时会逐渐失去兴趣。
+>
+> **考点提示**：冒号的总结/解释用法；tend to 表示"倾向于"；be drawn up 被动语态；plough through 固定搭配（费力阅读）
 
 ---
 
@@ -99,309 +382,6 @@ The humiliation continues. At university graduation ceremonies, the ABCs proudly
 > - **having a ZZZ**：打瞌睡、睡着了（ZZZ是漫画中表示睡觉的符号）
 > - **plough through**：费力地阅读/浏览
 > - **shortlists**：入围名单、初选名单
-
----
-
-## 长难句分析
-
-> [!abstract]- 长难句分析
-> **原句**：This, for those as yet unaware of such a disadvantage, refers to discrimination against those whose surnames begin with a letter in the lower half of the alphabet.
->
-> **主干提取**：This (S) + refers to (V) + discrimination (O)
->
-> **修饰成分**：
->
-> | 类型 | 引导词/结构 | 修饰对象 |
-> |------|------------|----------|
-> | 介词短语（插入语） | for those | 补充说明适用对象 |
-> | 形容词短语（后置定语） | unaware of | 修饰 those |
-> | 介词短语 | against those | 修饰 discrimination |
-> | 定语从句 | whose | 修饰第二个 those |
-> | 介词短语 | in the lower half | 修饰 letter |
->
-> **结构图解**：
-> ```
-> 主句: [This] + [refers to] + [discrimination]
->   ├── 介短: (for those ...) → 插入语，说明适用对象
->   │     └── 形容词短语: (as yet unaware ...) → 后置定语修饰 those
->   ├── 介短: (against those ...) → 修饰 discrimination
->   │     └── 定从: (whose surnames begin ...) → 修饰 those
->   │           └── 介短: (in the lower half ...) → 修饰 letter
-> ```
->
-> **参考译文**：对于那些尚未意识到这种劣势的人来说，它指的是对那些姓氏首字母位于字母表后半部分的人的歧视。
->
-> **考点提示**：插入语识别（for those... 不影响主句结构）；形容词短语作后置定语（unaware of... 相当于 who are unaware of...）；whose 引导定语从句
-
----
-
-> [!abstract]- 长难句分析
-> **原句**：Less well known is the advantage that Adam Abbott has in life over Zoë Zysman.
->
-> **主干提取**：
-> - S (主语)：the advantage
-> - V (谓语)：is
-> - C (表语)：Less well known
->
-> **倒装说明**：表语前置的完全倒装句，正常语序为 The advantage... is less well known.
->
-> **修饰成分**：
->
-> | 修饰类型 | 引导词/结构 | 修饰对象 |
-> |----------|------------|----------|
-> | 定语从句 | that | the advantage（是什么优势） |
-> | 介词短语 | in life | has（状语：在生活中） |
-> | 介词短语 | over Zoë Zysman | has（状语：相比 Zoë） |
->
-> **结构图解**：
-> ```
-> 主句: [the advantage] + [is] + [less well known]  ← 表语前置倒装
->   └── 定从: (that Adam Abbott has in life over Zoë Zysman) → 修饰 [advantage]
->         ├── 介短: (in life) → 状语，修饰 has
->         └── 介短: (over Zoë Zysman) → 状语，修饰 has（比较对象）
-> ```
->
-> **参考译文**：鲜为人知的是，Adam Abbott 在生活中相比 Zoë Zysman 所具有的优势。
->
-> **考点提示**：表语前置的完全倒装（表语+be+主语）；定语从句修饰 advantage；over 表比较关系
-
----
-
-> [!abstract]- 长难句分析
-> **原句**：Yet a suspiciously large number of top people have surnames beginning with letters between A and K.
->
-> **主干提取**：
-> - S (主语)：a suspiciously large number of top people
-> - V (谓语)：have
-> - O (宾语)：surnames
->
-> **修饰成分**：
->
-> | 修饰类型 | 引导词/结构 | 修饰对象 |
-> |----------|------------|----------|
-> | 副词 | yet | 整句（转折连词，与上文对比） |
-> | 副词 | suspiciously | large（修饰形容词） |
-> | 介词短语 | of top people | number（限定数量归属） |
-> | 非谓语(现在分词) | beginning with letters... | surnames（后置定语） |
-> | 介词短语 | between A and K | letters（限定字母范围） |
->
-> **结构图解**：
-> ```
-> 主句: [a suspiciously large number of top people] + [have] + [surnames]
->   ├── 副词: (Yet) → 转折连词，与前文对比
->   ├── 介短: (of top people) → 修饰 [number]，限定数量的归属
->   └── 非谓语: (beginning with letters between A and K) → 修饰 [surnames]，后置定语
->         └── 介短: (between A and K) → 修饰 [letters]，限定字母范围
-> ```
->
-> **参考译文**：然而，令人怀疑的是，高管中姓氏首字母在 A 到 K 之间的人数多得离谱。
->
-> **考点提示**：非谓语动词作后置定语（beginning with... 相当于 which begin with...）；副词 suspiciously 修饰形容词 large 的语义强调；yet 表转折的语篇衔接功能
-
----
-
-> [!abstract]- 长难句分析
-> **原句**：Even more striking, six of the seven heads of government of the G7 rich countries are alphabetically advantaged (Berlusconi, Blair, Bush, Chirac, Chrétien and Koizumi)
->
-> **主干提取**：
-> - S (主语)：six of the seven heads of government
-> - V (谓语)：are
-> - C (表语)：alphabetically advantaged
->
-> **修饰成分**：
->
-> | 修饰类型 | 引导词/结构 | 修饰对象 |
-> |----------|------------|----------|
-> | 评注性状语 | Even more striking | 整句（递进强调） |
-> | 介词短语 | of the seven heads of government | six（限定数量范围） |
-> | 介词短语 | of the G7 rich countries | heads of government（限定所属） |
-> | 副词 | alphabetically | advantaged（修饰表语） |
-> | 同位语 | Berlusconi, Blair, Bush... | six heads（列举具体人物） |
->
-> **结构图解**：
-> ```
-> 主句: [six of the seven heads of government] + [are] + [alphabetically advantaged]
->   ├── 评注状语: (Even more striking,) → 整句修饰，递进强调
->   ├── 介短: (of the seven heads of government) → 修饰 [six]
->   │     └── 介短: (of the G7 rich countries) → 修饰 [heads]
->   ├── 副词: (alphabetically) → 修饰 [advantaged]
->   └── 同位语: (Berlusconi, Blair, Bush...) → 解释 [six heads]
-> ```
->
-> **参考译文**：更引人注目的是，七国集团中六位政府首脑的姓氏都占字母优势（贝卢斯科尼、布莱尔、布什、希拉克、克雷蒂安和小泉）。
->
-> **考点提示**：评注性状语（Even more striking 修饰整句，表评价）；多层介词短语嵌套（of...of...）；同位语列举具体人物
-
----
-
-> [!abstract]- 长难句分析
-> **原句**：One theory, dreamt up in all the spare time enjoyed by the alphabetically disadvantaged, is that the rot sets in early.
->
-> **主干提取**：
-> - S (主语)：One theory
-> - V (谓语)：is
-> - C (表语)：that the rot sets in early
->
-> **修饰成分**：
->
-> | 修饰类型 | 引导词/结构 | 修饰对象 |
-> |----------|------------|----------|
-> | 非谓语(过去分词) | dreamt up | One theory（后置定语） |
-> | 介词短语 | in all the spare time | dreamt up（状语） |
-> | 非谓语(过去分词) | enjoyed by the alphabetically disadvantaged | spare time（后置定语） |
-> | 表语从句 | that the rot sets in early | is 的表语 |
->
-> **结构图解**：
-> ```
-> 主句: [One theory] + [is] + [that the rot sets in early]
->   ├── 插入语(非谓语): (dreamt up in all the spare time...) → 修饰 [theory]
->   │     ├── 介短: (in all the spare time) → 修饰 dreamt up
->   │     │     └── 非谓语: (enjoyed by...) → 修饰 [spare time]
->   └── 表从: (that the rot sets in early) → 作表语
->         └── 固定搭配: (sets in) → 恶化、开始并持续
-> ```
->
-> **参考译文**：有一种理论——是由那些字母顺序处于劣势的人在闲暇时构想出来的——认为这种恶化从很早就开始了。
->
-> **考点提示**：表语从句识别（that 引导，作 is 的表语）；过去分词短语作插入语（dreamt up... 补充说明来源）；固定搭配 the rot sets in（情况开始恶化）
-
----
-
-> [!abstract]- 长难句分析
-> **原句**：At the time the alphabetically disadvantaged may think they have had a lucky escape
->
-> **主干提取**：
-> - S (主语)：the alphabetically disadvantaged
-> - V (谓语)：may think
-> - O (宾语)：they have had a lucky escape
->
-> **修饰成分**：
->
-> | 修饰类型 | 引导词/结构 | 修饰对象 |
-> |----------|------------|----------|
-> | 介词短语 | At the time | 整句（时间状语） |
-> | 宾语从句 | they have had a lucky escape | think 的宾语 |
-> | 形容词 | lucky | escape（修饰宾语） |
->
-> **结构图解**：
-> ```
-> 主句: [the alphabetically disadvantaged] + [may think] + [they have had a lucky escape]
->   ├── 介短: (At the time) → 时间状语
->   └── 名从(宾从): (they have had a lucky escape) → 作 think 的宾语
->         └── 形容词: (lucky) → 修饰 escape
-> ```
->
-> **参考译文**：在那个时候，字母顺序处于劣势的人可能认为自己幸运地逃脱了。
->
-> **考点提示**：the + 形容词表示一类人（the alphabetically disadvantaged）；宾语从句省略 that；At the time 作时间状语
-
----
-
-> [!abstract]- 长难句分析
-> **原句**：Yet the result may be worse qualifications, because they get less individual attention, as well as less confidence in speaking publicly.
->
-> **主干提取**：
-> - S (主语)：the result
-> - V (谓语)：may be
-> - C (表语)：worse qualifications
->
-> **修饰成分**：
->
-> | 修饰类型 | 引导词/结构 | 修饰对象 |
-> |----------|------------|----------|
-> | 副词 | Yet | 整句（转折连词） |
-> | 状语从句 | because they get less individual attention | 整句（原因状语） |
-> | 并列结构 | as well as | less individual attention（并列连接） |
-> | 介词短语 | in speaking publicly | confidence（限定方面） |
->
-> **结构图解**：
-> ```
-> 主句: [the result] + [may be] + [worse qualifications]
->   ├── 副词: (Yet) → 转折连词
->   └── 状从: (because they get less individual attention, as well as less confidence...)
->         ├── 并列项1: (less individual attention)
->         └── 并列项2: (less confidence in speaking publicly)
->               └── 介短: (in speaking publicly) → 修饰 confidence
-> ```
->
-> **参考译文**：然而，结果可能是更差的成绩，因为他们得到的个人关注更少，以及在公众场合发言的信心也不足。
->
-> **考点提示**：because 引导原因状语从句；as well as 并列结构连接两个宾语；qualifications 此处指"学业成绩"
-
----
-
-> [!abstract]- 长难句分析
-> **原句**：At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ.
->
-> **主干提取**：
->
-> | 分句 | S (主语) | V (谓语) | O (宾语) |
-> |------|----------|----------|----------|
-> | 分句1 | the ABCs | get | their awards |
-> | 分句2 | most people | are...having | a ZZZ |
->
-> **修饰成分**：
->
-> | 修饰类型 | 引导词/结构 | 修饰对象 |
-> |----------|------------|----------|
-> | 介词短语 | At university graduation ceremonies | 整句（时间状语） |
-> | 副词 | proudly | get（修饰谓语） |
-> | 副词 | first | get（修饰谓语） |
-> | 时间状语从句 | by the time they reach the Zysmans | 分句2 |
-> | 副词 | literally | having（修饰谓语） |
->
-> **结构图解**：
-> ```
-> 并列句（分号连接）
->   ├── 分句1: [the ABCs] + [get] + [their awards] + [first]
->   │     ├── 介短: (At university graduation ceremonies) → 时间状语
->   │     └── 副词: (proudly, first) → 修饰 get
->   └── 分句2: [most people] + [are...having] + [a ZZZ]
->         ├── 状从: (by the time they reach the Zysmans) → 时间状语从句
->         └── 副词: (literally) → 修饰 having
-> ```
->
-> **参考译文**：在大学毕业典礼上，姓氏首字母靠前的人骄傲地先领奖；等到轮到姓氏靠后的 Zysman 们时，大多数人确实在打瞌睡了。
->
-> **考点提示**：by the time 引导时间状语从句；分号连接并列句；a ZZZ 拟声词表示打瞌睡；the ABCs/the Zysmans 借代两类人
-
----
-
-> [!abstract]- 长难句分析
-> **原句**：Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them.
->
-> **主干提取**：
->
-> | 分句 | S (主语) | V (谓语) | O (宾语) |
-> |------|----------|----------|----------|
-> | 分句1 | all | tend to be drawn up | - |
-> | 分句2 | their recipients | lose | interest |
->
-> **修饰成分**：
->
-> | 修饰类型 | 引导词/结构 | 修饰对象 |
-> |----------|------------|----------|
-> | 介词短语 | for job interviews | Shortlists |
-> | 名词定语 | election | ballot papers |
-> | 介词短语 | of conference speakers and attendees | lists |
-> | 副词 | alphabetically | drawn up |
-> | 时间状语从句 | as they plough through them | lose interest |
->
-> **结构图解**：
-> ```
-> 冒号结构
->   ├── 冒号前（列举）：Shortlists / ballot papers / lists
->   └── 冒号后（并列句）
->         ├── 分句1: [all] + [tend to be drawn up] + [alphabetically]
->         │     └── 被动语态: be drawn up（被编制）
->         └── 分句2: [their recipients] + [lose] + [interest]
->               └── 状从: (as they plough through them) → 时间状语从句
->                     └── 固定搭配: plough through（费力地阅读）
-> ```
->
-> **参考译文**：工作面试的候选名单、选举选票、会议发言者和与会者名单——所有这些往往都按字母顺序编制，而接收者在逐一翻阅时会逐渐失去兴趣。
->
-> **考点提示**：冒号的总结/解释用法；tend to 表示"倾向于"；be drawn up 被动语态；plough through 固定搭配（费力阅读）
 
 ---
 
