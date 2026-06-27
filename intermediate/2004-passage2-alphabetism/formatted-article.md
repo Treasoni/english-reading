@@ -343,7 +343,7 @@ The **humiliation** continues. At university graduation ceremonies, the ABCs pro
 
 [A] They are getting impatient.
 
-[B] They are noisily dozing off.
+[B] They are **noisily dozing off**.
 
 [C] They are feeling humiliated.
 
