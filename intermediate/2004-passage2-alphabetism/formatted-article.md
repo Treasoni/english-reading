@@ -232,7 +232,7 @@ Can this merely be coincidence? One theory, **dreamt up** in all the spare time 
 >
 > **考点提示**：because 引导原因状语从句；as well as 并列结构连接两个宾语；qualifications 此处指"学业成绩"
 
-The **humiliation** continues. At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ. Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them.
+The **humiliation** continues. At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ. Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they **plough** through them.
 
 > [!abstract]- 长难句分析
 > **原句**：At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ.
