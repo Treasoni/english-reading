@@ -313,13 +313,13 @@ The **humiliation** continues. At university graduation ceremonies, the ABCs pro
 
 [A] A kind of overlooked inequality.
 
-[B] A type of conspicuous bias.
+[B] A type of **conspicuous** bias.
 
 [C] A type of personal prejudice.
 
 [D] A kind of brand discrimination.
 
-47. What can we infer from the first three paragraphs?
+47. What can we infer from the **first three paragraphs**?
 
 [A] In both East and West, names are essential to success.
 
@@ -327,7 +327,7 @@ The **humiliation** continues. At university graduation ceremonies, the ABCs pro
 
 [C] Customers often pay a lot of attention to companies' names.
 
-[D] Some form of discrimination is too subtle to recognize.
+[D] Some form of discrimination is too **subtle** to recognize.
 
 48. The 4th paragraph suggests that
 
