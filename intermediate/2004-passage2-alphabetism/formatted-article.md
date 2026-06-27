@@ -173,6 +173,34 @@ Can this merely be coincidence? One theory, **dreamt up** in all the spare time 
 >
 > **考点提示**：表语从句识别（that 引导，作 is 的表语）；过去分词短语作插入语（dreamt up... 补充说明来源）；固定搭配 the rot sets in（情况开始恶化）
 
+> [!abstract]- 长难句分析
+> **原句**：At the time the alphabetically disadvantaged may think they have had a lucky escape
+>
+> **主干提取**：
+> - S (主语)：the alphabetically disadvantaged
+> - V (谓语)：may think
+> - O (宾语)：they have had a lucky escape
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 介词短语 | At the time | 整句（时间状语） |
+> | 宾语从句 | they have had a lucky escape | think 的宾语 |
+> | 形容词 | lucky | escape（修饰宾语） |
+>
+> **结构图解**：
+> ```
+> 主句: [the alphabetically disadvantaged] + [may think] + [they have had a lucky escape]
+>   ├── 介短: (At the time) → 时间状语
+>   └── 名从(宾从): (they have had a lucky escape) → 作 think 的宾语
+>         └── 形容词: (lucky) → 修饰 escape
+> ```
+>
+> **参考译文**：在那个时候，字母顺序处于劣势的人可能认为自己幸运地逃脱了。
+>
+> **考点提示**：the + 形容词表示一类人（the alphabetically disadvantaged）；宾语从句省略 that；At the time 作时间状语
+
 The humiliation continues. At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ. Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them.
 
 ---
