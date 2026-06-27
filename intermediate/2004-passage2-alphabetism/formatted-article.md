@@ -234,6 +234,77 @@ Can this merely be coincidence? One theory, **dreamt up** in all the spare time 
 
 The **humiliation** continues. At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ. Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them.
 
+> [!abstract]- 长难句分析
+> **原句**：At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ.
+>
+> **主干提取**：
+>
+> | 分句 | S (主语) | V (谓语) | O (宾语) |
+> |------|----------|----------|----------|
+> | 分句1 | the ABCs | get | their awards |
+> | 分句2 | most people | are...having | a ZZZ |
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 介词短语 | At university graduation ceremonies | 整句（时间状语） |
+> | 副词 | proudly | get（修饰谓语） |
+> | 副词 | first | get（修饰谓语） |
+> | 时间状语从句 | by the time they reach the Zysmans | 分句2 |
+> | 副词 | literally | having（修饰谓语） |
+>
+> **结构图解**：
+> ```
+> 并列句（分号连接）
+>   ├── 分句1: [the ABCs] + [get] + [their awards] + [first]
+>   │     ├── 介短: (At university graduation ceremonies) → 时间状语
+>   │     └── 副词: (proudly, first) → 修饰 get
+>   └── 分句2: [most people] + [are...having] + [a ZZZ]
+>         ├── 状从: (by the time they reach the Zysmans) → 时间状语从句
+>         └── 副词: (literally) → 修饰 having
+> ```
+>
+> **参考译文**：在大学毕业典礼上，姓氏首字母靠前的人骄傲地先领奖；等到轮到姓氏靠后的 Zysman 们时，大多数人确实在打瞌睡了。
+>
+> **考点提示**：by the time 引导时间状语从句；分号连接并列句；a ZZZ 拟声词表示打瞌睡；the ABCs/the Zysmans 借代两类人
+
+> [!abstract]- 长难句分析
+> **原句**：Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them.
+>
+> **主干提取**：
+>
+> | 分句 | S (主语) | V (谓语) | O (宾语) |
+> |------|----------|----------|----------|
+> | 分句1 | all | tend to be drawn up | - |
+> | 分句2 | their recipients | lose | interest |
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 介词短语 | for job interviews | Shortlists |
+> | 名词定语 | election | ballot papers |
+> | 介词短语 | of conference speakers and attendees | lists |
+> | 副词 | alphabetically | drawn up |
+> | 时间状语从句 | as they plough through them | lose interest |
+>
+> **结构图解**：
+> ```
+> 冒号结构
+>   ├── 冒号前（列举）：Shortlists / ballot papers / lists
+>   └── 冒号后（并列句）
+>         ├── 分句1: [all] + [tend to be drawn up] + [alphabetically]
+>         │     └── 被动语态: be drawn up（被编制）
+>         └── 分句2: [their recipients] + [lose] + [interest]
+>               └── 状从: (as they plough through them) → 时间状语从句
+>                     └── 固定搭配: plough through（费力地阅读）
+> ```
+>
+> **参考译文**：工作面试的候选名单、选举选票、会议发言者和与会者名单——所有这些往往都按字母顺序编制，而接收者在逐一翻阅时会逐渐失去兴趣。
+>
+> **考点提示**：冒号的总结/解释用法；tend to 表示"倾向于"；be drawn up 被动语态；plough through 固定搭配（费力阅读）
+
 ---
 
 ## 题目
