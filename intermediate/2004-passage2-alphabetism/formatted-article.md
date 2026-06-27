@@ -140,7 +140,7 @@ Thus the American president and vice-president have surnames starting with B and
 >
 > **考点提示**：评注性状语（Even more striking 修饰整句，表评价）；多层介词短语嵌套（of...of...）；同位语列举具体人物
 
-Can this merely be coincidence? One theory, dreamt up in all the spare time enjoyed by the alphabetically disadvantaged, is that the rot sets in early. At the start of the first year in infant school, teachers seat pupils alphabetically from the front, to make it easier to remember their names. So short-sighted Zysman junior gets stuck in the back row, and is rarely asked the improving questions posed by those insensitive teachers. At the time the alphabetically disadvantaged may think they have had a lucky escape. Yet the result may be worse qualifications, because they get less individual attention, as well as less confidence in speaking publicly.
+Can this merely be coincidence? One theory, **dreamt up** in all the spare time enjoyed by the alphabetically disadvantaged, is that the **rot** sets in early. At the start of the first year in infant school, teachers seat pupils alphabetically from the front, to make it easier to remember their names. So short-sighted Zysman junior gets stuck in the back row, and is rarely asked the improving questions posed by those insensitive teachers. At the time the alphabetically disadvantaged may think they have had a lucky escape. Yet the result may be worse qualifications, because they get less individual attention, as well as less confidence in speaking publicly.
 
 > [!abstract]- 长难句分析
 > **原句**：One theory, dreamt up in all the spare time enjoyed by the alphabetically disadvantaged, is that the rot sets in early.
