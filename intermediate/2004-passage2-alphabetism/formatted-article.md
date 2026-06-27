@@ -108,6 +108,38 @@ It has long been known that a taxi firm called AAAA cars has a big advantage ove
 
 Thus the American president and vice-president have surnames starting with B and C respectively; and 26 of George Bush's predecessors (including his father) had surnames in the first half of the alphabet against just 16 in the second half. Even more striking, six of the seven heads of government of the G7 rich countries are alphabetically advantaged (Berlusconi, Blair, Bush, Chirac, Chrétien and Koizumi). The world's three top central bankers (Greenspan, Duisenberg and Hayami) are all close to the top of the alphabet, even if one of them really uses Japanese characters. As are the world's five richest men (Gates, Buffett, Allen, Ellison and Albrecht).
 
+> [!abstract]- 长难句分析
+> **原句**：Even more striking, six of the seven heads of government of the G7 rich countries are alphabetically advantaged (Berlusconi, Blair, Bush, Chirac, Chrétien and Koizumi)
+>
+> **主干提取**：
+> - S (主语)：six of the seven heads of government
+> - V (谓语)：are
+> - C (表语)：alphabetically advantaged
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 引导词/结构 | 修饰对象 |
+> |----------|------------|----------|
+> | 评注性状语 | Even more striking | 整句（递进强调） |
+> | 介词短语 | of the seven heads of government | six（限定数量范围） |
+> | 介词短语 | of the G7 rich countries | heads of government（限定所属） |
+> | 副词 | alphabetically | advantaged（修饰表语） |
+> | 同位语 | Berlusconi, Blair, Bush... | six heads（列举具体人物） |
+>
+> **结构图解**：
+> ```
+> 主句: [six of the seven heads of government] + [are] + [alphabetically advantaged]
+>   ├── 评注状语: (Even more striking,) → 整句修饰，递进强调
+>   ├── 介短: (of the seven heads of government) → 修饰 [six]
+>   │     └── 介短: (of the G7 rich countries) → 修饰 [heads]
+>   ├── 副词: (alphabetically) → 修饰 [advantaged]
+>   └── 同位语: (Berlusconi, Blair, Bush...) → 解释 [six heads]
+> ```
+>
+> **参考译文**：更引人注目的是，七国集团中六位政府首脑的姓氏都占字母优势（贝卢斯科尼、布莱尔、布什、希拉克、克雷蒂安和小泉）。
+>
+> **考点提示**：评注性状语（Even more striking 修饰整句，表评价）；多层介词短语嵌套（of...of...）；同位语列举具体人物
+
 Can this merely be coincidence? One theory, dreamt up in all the spare time enjoyed by the alphabetically disadvantaged, is that the rot sets in early. At the start of the first year in infant school, teachers seat pupils alphabetically from the front, to make it easier to remember their names. So short-sighted Zysman junior gets stuck in the back row, and is rarely asked the improving questions posed by those insensitive teachers. At the time the alphabetically disadvantaged may think they have had a lucky escape. Yet the result may be worse qualifications, because they get less individual attention, as well as less confidence in speaking publicly.
 
 The humiliation continues. At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ. Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them.
