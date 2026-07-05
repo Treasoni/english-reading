@@ -125,7 +125,47 @@ sources:
 > > 1. **短语动词 `do without`**：意为"没有……也行/不需要"。定从中 `that` 作 `do without` 的宾语，考研阅读中要能识别动词+介词的固定搭配。
 > > 2. **定从嵌套状从**：定从 `that people can do without...` 中嵌套了 `when...` 时间状语从句。多层嵌套应逐层剥离：先定从修饰对象，再找状从修饰范围。
 
-(7) So Spero is **downscaling**, shopping at middle-brow Dillard's department store near her suburban Cleveland home, instead of Neiman Marcus. (8) "I don't know if other clients are going to abandon me, too" she says.
+(7) So Spero is **downscaling**, shopping at middle-brow Dillard's department store near her suburban Cleveland home, instead of Neiman Marcus.
+
+> [!abstract]- 长难句分析
+> **原句**：So Spero is **downscaling**, shopping at middle-brow Dillard's department store near her suburban Cleveland home, instead of Neiman Marcus.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | **连词** | So（结果） |
+> | **主句 S** | Spero |
+> | **主句 V** | is downscaling |
+>
+> **主干简化**：Spero is downscaling.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 非谓语（V-ing） | shopping | 主句（伴随状语） |
+> | 介短 | at | shopping |
+> | 介短 | near | department store |
+> | 介短 | instead of | shopping（对比） |
+>
+> **结构图解**：
+> ```
+> So [连词] Spero [S] is downscaling [V]
+>   └── 非谓语: (shopping [at Dillard's] [near her home] [instead of Neiman Marcus])
+>         ├── 介短: at middle-brow Dillard's → 地点
+>         │     └── 介短: near her suburban Cleveland home → 修饰 store
+>         └── 介短: instead of Neiman Marcus → 对比对象
+> ```
+>
+> **参考译文**：
+> 因此斯佩罗正在降低消费档次——不去内曼·马库斯百货，而是去她克里夫兰郊区家附近的中档商场迪拉德购物。
+>
+> > [!tip] 考点提示
+> > 1. **非谓语（V-ing）伴随状语**：`shopping at...` 具体描述 `downscaling` 的方式，是考研阅读中常见的"主句 + V-ing 解释细节"模式。
+> > 2. **`instead of` 对比逻辑**：Dillard's（中档）vs Neiman Marcus（高端），是段落中 Spero 消费降级的确证，也是理解全文经济下行主题的关键线索。
+
+(8) "I don't know if other clients are going to abandon me, too" she says.
 
 (1) Even before Alan Greenspan's admission that America's **red-hot economy is cooling**, lots of working folks had already seen signs of the **slowdown** themselves. (2) From car dealerships to Gap outlets, sales have been lagging for months as shoppers **temper their spending**. (3) For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the **cautious approach** is coming at a crucial time. (4) Already, experts say, holiday sales are off 7 percent from last year's pace. (5) But don't sound any alarms just yet. (6) Consumers seem only mildly concerned, not panicked, and many say they remain **optimistic** about the economy's long-term prospects, even as they do some modest **belt-tightening**.
 
