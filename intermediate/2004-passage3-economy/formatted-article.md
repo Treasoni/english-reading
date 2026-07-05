@@ -88,7 +88,44 @@ sources:
 > > 2. **并列动词**：`isn't cutting, filling or polishing` 为三个并列现在分词，共享助动词 `isn't`。
 > > 3. **否定句末的 `either`**：否定句中表示"也（不）"，与上句 `isn't biting...yet` 保持否定一致性。
 
-(3) Most of her clients spend $12 to $50 weekly, but last month two longtime customers suddenly stopped showing up. (4) Spero blames the **softening economy**. (5) "I'm a good economic indicator," she says. (6) "I provide a service that people can do without when they're concerned about saving some dollars." (7) So Spero is **downscaling**, shopping at middle-brow Dillard's department store near her suburban Cleveland home, instead of Neiman Marcus. (8) "I don't know if other clients are going to abandon me, too" she says.
+(3) Most of her clients spend $12 to $50 weekly, but last month two longtime customers suddenly stopped showing up. (4) Spero blames the **softening economy**. (5) "I'm a good economic indicator," she says. (6) "I provide a service that people can do without when they're concerned about saving some dollars."
+
+> [!abstract]- 长难句分析
+> **原句**："I provide a service that people can do without when they're concerned about saving some dollars."
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | **主句 S** | I |
+> | **主句 V** | provide |
+> | **主句 O** | a service |
+>
+> **主干简化**：I provide a service.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 定从 | that | a service |
+> | 状从（时间） | when | can do without（定从中） |
+>
+> **结构图解**：
+> ```
+> 主句: I [S] provide [V] a service [O]
+>   └── 定从: (that) people can do without [that]
+>         └── 状从: when they're concerned [about saving some dollars]
+>               └── 介短: about saving some dollars → 修饰 concerned
+> ```
+>
+> **参考译文**：
+> 我提供一种人们想省钱时可以不需要的服务。
+>
+> > [!tip] 考点提示
+> > 1. **短语动词 `do without`**：意为"没有……也行/不需要"。定从中 `that` 作 `do without` 的宾语，考研阅读中要能识别动词+介词的固定搭配。
+> > 2. **定从嵌套状从**：定从 `that people can do without...` 中嵌套了 `when...` 时间状语从句。多层嵌套应逐层剥离：先定从修饰对象，再找状从修饰范围。
+
+(7) So Spero is **downscaling**, shopping at middle-brow Dillard's department store near her suburban Cleveland home, instead of Neiman Marcus. (8) "I don't know if other clients are going to abandon me, too" she says.
 
 (1) Even before Alan Greenspan's admission that America's **red-hot economy is cooling**, lots of working folks had already seen signs of the **slowdown** themselves. (2) From car dealerships to Gap outlets, sales have been lagging for months as shoppers **temper their spending**. (3) For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the **cautious approach** is coming at a crucial time. (4) Already, experts say, holiday sales are off 7 percent from last year's pace. (5) But don't sound any alarms just yet. (6) Consumers seem only mildly concerned, not panicked, and many say they remain **optimistic** about the economy's long-term prospects, even as they do some modest **belt-tightening**.
 
