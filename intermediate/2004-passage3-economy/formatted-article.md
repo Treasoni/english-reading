@@ -167,7 +167,47 @@ sources:
 
 (8) "I don't know if other clients are going to abandon me, too" she says.
 
-(1) Even before Alan Greenspan's admission that America's **red-hot economy is cooling**, lots of working folks had already seen signs of the **slowdown** themselves. (2) From car dealerships to Gap outlets, sales have been lagging for months as shoppers **temper their spending**. (3) For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the **cautious approach** is coming at a crucial time. (4) Already, experts say, holiday sales are off 7 percent from last year's pace. (5) But don't sound any alarms just yet. (6) Consumers seem only mildly concerned, not panicked, and many say they remain **optimistic** about the economy's long-term prospects, even as they do some modest **belt-tightening**.
+(1) Even before Alan Greenspan's admission that America's **red-hot economy is cooling**, lots of working folks had already seen signs of the **slowdown** themselves.
+
+> [!abstract]- 长难句分析
+> **原句**：Even before Alan Greenspan's admission that America's **red-hot economy is cooling**, lots of working folks had already seen signs of the **slowdown** themselves.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | **主句 S** | lots of working folks |
+> | **主句 V** | had already seen |
+> | **主句 O** | signs |
+> | **时间状语** | Even before Alan Greenspan's admission... |
+>
+> **主干简化**：lots of working folks had already seen signs.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 同位从 | that | admission |
+> | 介短 | of | signs |
+>
+> **结构图解**：
+> ```
+> Even before Alan Greenspan's admission [that America's red-hot economy is cooling]
+>   └── 介短: before admission... → 时间状语，修饰主句
+>         └── 同位从: (that...is cooling) → 说明 admission 的内容
+> 主句: lots of working folks [S] had already seen [V] signs [O] [of the slowdown] themselves
+>   └── 介短: of the slowdown → 修饰 signs
+> ```
+>
+> **参考译文**：
+> 早在艾伦·格林斯潘承认美国炽热的经济正在降温之前，许多上班族自己就已经看到了经济放缓的迹象。
+>
+> > [!tip] 考点提示
+> > 1. **同位语从句**：`that America's red-hot economy is cooling` 是 `admission` 的同位语从句，说明"承认"的内容。判断要点：`that` 在抽象名词后引导完整句子，且从句中不作成分。
+> > 2. **过去完成时 `had already seen`**：表示在"格林斯潘承认"之前就已经完成，考研阅读中通过时态差异体现事件先后顺序。
+> > 3. **反身代词 `themselves` 强调用法**：此处表示"他们本人/亲自"，而非反射意义。考研中常与 `by themselves` 等其他用法并列考查。
+
+(2) From car dealerships to Gap outlets, sales have been lagging for months as shoppers **temper their spending**. (3) For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the **cautious approach** is coming at a crucial time. (4) Already, experts say, holiday sales are off 7 percent from last year's pace. (5) But don't sound any alarms just yet. (6) Consumers seem only mildly concerned, not panicked, and many say they remain **optimistic** about the economy's long-term prospects, even as they do some modest **belt-tightening**.
 
 (1) Consumers say they're not in despair because, despite the dreadful headlines, their own fortunes still feel pretty good. (2) Home prices are holding steady in most regions. (3) In Manhattan, "there's a new **gold rush** happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses," says broker Barbara Corcoran. (4) In San Francisco, prices are still rising even as **frenzied overbidding** quiets. (5) "Instead of 20 to 30 offers, now maybe you only get two or three," says john Deadly, a Bay Area real-estate broker. (6) And most folks still feel pretty comfortable about their ability to find and keep a job.
 
