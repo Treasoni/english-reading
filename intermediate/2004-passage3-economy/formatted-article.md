@@ -207,7 +207,41 @@ sources:
 > > 2. **过去完成时 `had already seen`**：表示在"格林斯潘承认"之前就已经完成，考研阅读中通过时态差异体现事件先后顺序。
 > > 3. **反身代词 `themselves` 强调用法**：此处表示"他们本人/亲自"，而非反射意义。考研中常与 `by themselves` 等其他用法并列考查。
 
-(2) From car dealerships to Gap outlets, sales have been lagging for months as shoppers **temper their spending**. (3) For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the **cautious approach** is coming at a crucial time. (4) Already, experts say, holiday sales are off 7 percent from last year's pace. (5) But don't sound any alarms just yet. (6) Consumers seem only mildly concerned, not panicked, and many say they remain **optimistic** about the economy's long-term prospects, even as they do some modest **belt-tightening**.
+(2) From car dealerships to Gap outlets, sales have been lagging for months as shoppers **temper their spending**.
+
+> [!abstract]- 长难句分析
+> **原句**：From car dealerships to Gap outlets, sales have been lagging for months as shoppers **temper their spending**.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | **主句 S** | sales |
+> | **主句 V** | have been lagging（现在完成进行时） |
+> | **主句 A** | for months（时间状语） |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介短（状语） | From...to... | 主句，表范围 |
+> | 状从（时间） | as | 主句，表伴随时间 |
+>
+> **结构图解**：
+> ```
+> 主句: sales have been lagging for months
+>   ├── 介短: From car dealerships to Gap outlets → 范围状语
+>   └── 状从(as): as shoppers temper their spending → 时间伴随状语
+> ```
+>
+> **参考译文**：从汽车经销商到盖璞卖场，由于消费者缩减支出，几个月来销售额一直不景气。
+>
+> > [!tip] 考点提示
+> > 1. **temper 的熟词僻义**：常见义为"脾气"，此处作动词意为"节制、调和"，是考研高频考点。
+> > 2. **as 引导时间状语从句**：在此表"当……时"或"随着"，不可误判为原因或方式状语。
+> > 3. **现在完成进行时**：`have been lagging` 表示从过去持续到现在且仍在继续的动作。
+
+(3) For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the **cautious approach** is coming at a crucial time. (4) Already, experts say, holiday sales are off 7 percent from last year's pace. (5) But don't sound any alarms just yet. (6) Consumers seem only mildly concerned, not panicked, and many say they remain **optimistic** about the economy's long-term prospects, even as they do some modest **belt-tightening**.
 
 (1) Consumers say they're not in despair because, despite the dreadful headlines, their own fortunes still feel pretty good. (2) Home prices are holding steady in most regions. (3) In Manhattan, "there's a new **gold rush** happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses," says broker Barbara Corcoran. (4) In San Francisco, prices are still rising even as **frenzied overbidding** quiets. (5) "Instead of 20 to 30 offers, now maybe you only get two or three," says john Deadly, a Bay Area real-estate broker. (6) And most folks still feel pretty comfortable about their ability to find and keep a job.
 
