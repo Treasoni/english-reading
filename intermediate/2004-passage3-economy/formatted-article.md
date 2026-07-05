@@ -52,7 +52,43 @@ sources:
 > > 1. **"biting her nails" 双关语义**：既是美甲师行业场景的字面义（咬指甲是美甲的大忌），也是英语习语"焦虑不安"的引申义。考研阅读常利用这种双关制造幽默。
 > > 2. **"when it comes to..." 固定句型**：意为"当谈到……时"，引导话题状语，是考研阅读和写作的高频句型。
 
-(2) But the 47-year-old manicurist isn't cutting, filling or polishing as many nails as she'd like to, either. (3) Most of her clients spend $12 to $50 weekly, but last month two longtime customers suddenly stopped showing up. (4) Spero blames the **softening economy**. (5) "I'm a good economic indicator," she says. (6) "I provide a service that people can do without when they're concerned about saving some dollars." (7) So Spero is **downscaling**, shopping at middle-brow Dillard's department store near her suburban Cleveland home, instead of Neiman Marcus. (8) "I don't know if other clients are going to abandon me, too" she says.
+(2) But the 47-year-old manicurist isn't cutting, filling or polishing as many nails as she'd like to, either.
+
+> [!abstract]- 长难句分析
+> **原句**：But the 47-year-old manicurist isn't cutting, filling or polishing as many nails as she'd like to, either.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | **主句 S** | the 47-year-old manicurist |
+> | **主句 V** | isn't cutting, filling or polishing |
+> | **主句 O** | as many nails |
+> | **主句 A** | either（句末副词） |
+>
+> **主干简化**：the manicurist isn't cutting, filling or polishing nails.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 比较状从 | as | as many nails（比较结构） |
+>
+> **结构图解**：
+> ```
+> 主句: the 47-year-old manicurist [S] isn't cutting, filling or polishing [V] as many nails [O] as she'd like to [比较状从], either [A]
+>   └── 比较状从: as she'd like to → 表示比较标准
+> ```
+>
+> **参考译文**：
+> 但这位 47 岁的美甲师修剪、锉平、打磨的指甲数量也不如她所愿了。
+>
+> > [!tip] 考点提示
+> > 1. **比较结构 `as many...as`**：否定句中表示"不如……那么多"。注意比较对象的一致性和省略问题。
+> > 2. **并列动词**：`isn't cutting, filling or polishing` 为三个并列现在分词，共享助动词 `isn't`。
+> > 3. **否定句末的 `either`**：否定句中表示"也（不）"，与上句 `isn't biting...yet` 保持否定一致性。
+
+(3) Most of her clients spend $12 to $50 weekly, but last month two longtime customers suddenly stopped showing up. (4) Spero blames the **softening economy**. (5) "I'm a good economic indicator," she says. (6) "I provide a service that people can do without when they're concerned about saving some dollars." (7) So Spero is **downscaling**, shopping at middle-brow Dillard's department store near her suburban Cleveland home, instead of Neiman Marcus. (8) "I don't know if other clients are going to abandon me, too" she says.
 
 (1) Even before Alan Greenspan's admission that America's **red-hot economy is cooling**, lots of working folks had already seen signs of the **slowdown** themselves. (2) From car dealerships to Gap outlets, sales have been lagging for months as shoppers **temper their spending**. (3) For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the **cautious approach** is coming at a crucial time. (4) Already, experts say, holiday sales are off 7 percent from last year's pace. (5) But don't sound any alarms just yet. (6) Consumers seem only mildly concerned, not panicked, and many say they remain **optimistic** about the economy's long-term prospects, even as they do some modest **belt-tightening**.
 
