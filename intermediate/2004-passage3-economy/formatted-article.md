@@ -13,7 +13,46 @@ sources:
 
 # The Slowing Economy and Consumer Sentiment
 
-(1) When it comes to the **slowing economy**, Ellen Spero isn't biting her nails just yet. (2) But the 47-year-old manicurist isn't cutting, filling or polishing as many nails as she'd like to, either. (3) Most of her clients spend $12 to $50 weekly, but last month two longtime customers suddenly stopped showing up. (4) Spero blames the **softening economy**. (5) "I'm a good economic indicator," she says. (6) "I provide a service that people can do without when they're concerned about saving some dollars." (7) So Spero is **downscaling**, shopping at middle-brow Dillard's department store near her suburban Cleveland home, instead of Neiman Marcus. (8) "I don't know if other clients are going to abandon me, too" she says.
+(1) When it comes to the **slowing economy**, Ellen Spero isn't biting her nails just yet.
+
+> [!abstract]- 长难句分析
+> **原文**：
+> > When it comes to the **slowing economy**, Ellen Spero isn't biting her nails just yet.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | **主句 S** | Ellen Spero |
+> | **主句 V** | isn't biting |
+> | **主句 O** | her nails |
+> | **主句 A** | just yet（时间状语） |
+> | **状从** | When it comes to...（时间/话题状语从句） |
+>
+> **主干简化**：Ellen Spero isn't biting her nails.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 状从（时间/话题） | When | 主句整体 |
+> | 介短 | to | the slowing economy（修饰 comes） |
+>
+> **结构图解**：
+> ```
+> When it comes to [the slowing economy]
+>   └── 状从: When... → 时间/话题状语，修饰主句
+> 主句: Ellen Spero [S] isn't biting [V] her nails [O] just yet [A]
+> ```
+>
+> **参考译文**：
+> 谈到放缓的经济，埃伦·斯佩罗还不至于咬指甲。
+>
+> > [!tip] 考点提示
+> > 1. **"biting her nails" 双关语义**：既是美甲师行业场景的字面义（咬指甲是美甲的大忌），也是英语习语"焦虑不安"的引申义。考研阅读常利用这种双关制造幽默。
+> > 2. **"when it comes to..." 固定句型**：意为"当谈到……时"，引导话题状语，是考研阅读和写作的高频句型。
+
+(2) But the 47-year-old manicurist isn't cutting, filling or polishing as many nails as she'd like to, either. (3) Most of her clients spend $12 to $50 weekly, but last month two longtime customers suddenly stopped showing up. (4) Spero blames the **softening economy**. (5) "I'm a good economic indicator," she says. (6) "I provide a service that people can do without when they're concerned about saving some dollars." (7) So Spero is **downscaling**, shopping at middle-brow Dillard's department store near her suburban Cleveland home, instead of Neiman Marcus. (8) "I don't know if other clients are going to abandon me, too" she says.
 
 (1) Even before Alan Greenspan's admission that America's **red-hot economy is cooling**, lots of working folks had already seen signs of the **slowdown** themselves. (2) From car dealerships to Gap outlets, sales have been lagging for months as shoppers **temper their spending**. (3) For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the **cautious approach** is coming at a crucial time. (4) Already, experts say, holiday sales are off 7 percent from last year's pace. (5) But don't sound any alarms just yet. (6) Consumers seem only mildly concerned, not panicked, and many say they remain **optimistic** about the economy's long-term prospects, even as they do some modest **belt-tightening**.
 
