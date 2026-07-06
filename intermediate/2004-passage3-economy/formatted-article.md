@@ -434,7 +434,7 @@ sources:
 
     [A] gold market.
 
-    [B] real estate.
+    [B] **real estate**
 
     [C] stock exchange.
 
