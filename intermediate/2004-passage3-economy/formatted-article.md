@@ -241,7 +241,7 @@ sources:
 > > 2. **as 引导时间状语从句**：在此表"当……时"或"随着"，不可误判为原因或方式状语。
 > > 3. **现在完成进行时**：`have been lagging` 表示从过去持续到现在且仍在继续的动作。
 
-(3) For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the **cautious approach** is coming at a crucial time. (4) Already, experts say, holiday sales are off 7 percent from last year's pace. (5) But don't sound any alarms just yet. (6) Consumers seem only mildly concerned, not panicked, and many say they remain **optimistic** about the economy's long-term prospects, even as they do some modest **belt-tightening**.
+(3) For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the **cautious approach** is coming at a crucial time. (4) Already, experts say, holiday sales are off 7 percent from last year's pace. (5) But don't sound any alarms just yet. (6) Consumers seem only mildly concerned, not **panicked**, and many say they remain **optimistic** about the economy's long-term prospects, even as they do some modest **belt-tightening**.
 
 > [!abstract]- 长难句分析
 > **原句**：For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the **cautious approach** is coming at a crucial time.
@@ -279,6 +279,50 @@ sources:
 > > [!tip] 考点提示
 > > 1. **非限制性定语从句的插入与翻译**：`who last year took in...` 由逗号与主句分隔，形成"插入式分隔"结构，考研翻译中通常处理为独立分句而非前置定语。
 > > 2. **介词短语链的层级区分**：`of their revenue` 修饰 `24 percent`，`between Thanksgiving and Christmas` 修饰 `took in`，属于不同修饰层级，需从语义关系判断。
+
+> [!abstract]- 长难句分析
+> **原句**：Consumers seem only mildly concerned, not panicked, and many say they remain **optimistic** about the economy's long-term prospects, even as they do some modest **belt-tightening**.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | **分句 1 S** | Consumers |
+> | **分句 1 V** | seem（系动词） |
+> | **分句 1 C** | only mildly concerned, not panicked |
+> | **分句 2 S** | many |
+> | **分句 2 V** | say |
+> | **分句 2 O** | (that) they remain optimistic...（宾从） |
+>
+> **主干简化**：Consumers seem concerned, not panicked, and many say they remain optimistic.
+>
+> 这是一个并列句，由 `and` 连接两个并列分句。
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 宾语从句 | (that) | say |
+> | 介短 | about... | remain optimistic（宾从中） |
+> | 状从（让步/伴随） | even as | remain optimistic（宾从中） |
+>
+> **结构图解**：
+> ```
+> 分句1: Consumers [S] seem [V] only mildly concerned, not panicked [C]
+>   ├── 副词: only → 修饰 mildly
+>   └── 并列表语: concerned → not panicked（逗号+否定词并列）
+> 分句2: [and] many [S] say [V]
+>   └── 宾从: (that) they remain optimistic about the economy's long-term prospects
+>         ├── 介短: about...prospects → 修饰 optimistic
+>         └── 状从: even as...belt-tightening → 让步/伴随，修饰 remain
+> ```
+>
+> **参考译文**：消费者似乎只是适度关切，而非恐慌，并且许多人表示，即使他们在适度勒紧腰带，他们对经济的长期前景仍然保持乐观。
+>
+> > [!tip] 考点提示
+> > 1. **并列句的省略与识别**：第二个分句 `many` 后省略了 `consumers`（即 `many consumers`），需根据前文推断。
+> > 2. **`even as` 引导让步状语从句**：意为"即使当……时"，表示对比转折，不可误判为时间状语。
+> > 3. **`belt-tightening` 的隐喻用法**：字面义"勒紧腰带"，比喻义"节约开支"，是考研阅读形象化表达的高频考查点。
 
 (1) Consumers say they're not in despair because, despite the dreadful headlines, their own fortunes still feel pretty good. (2) Home prices are holding steady in most regions. (3) In Manhattan, "there's a new **gold rush** happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses," says broker Barbara Corcoran. (4) In San Francisco, prices are still rising even as **frenzied overbidding** quiets. (5) "Instead of 20 to 30 offers, now maybe you only get two or three," says john Deadly, a Bay Area real-estate broker. (6) And most folks still feel pretty comfortable about their ability to find and keep a job.
 
