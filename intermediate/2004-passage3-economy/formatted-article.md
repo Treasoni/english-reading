@@ -6,7 +6,7 @@ tags:
   - english-reading
   - formatted-article
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-07-06
 sources:
   - "考研英语真题 2004 Passage 3"
 ---
@@ -242,6 +242,43 @@ sources:
 > > 3. **现在完成进行时**：`have been lagging` 表示从过去持续到现在且仍在继续的动作。
 
 (3) For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the **cautious approach** is coming at a crucial time. (4) Already, experts say, holiday sales are off 7 percent from last year's pace. (5) But don't sound any alarms just yet. (6) Consumers seem only mildly concerned, not panicked, and many say they remain **optimistic** about the economy's long-term prospects, even as they do some modest **belt-tightening**.
+
+> [!abstract]- 长难句分析
+> **原句**：For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the **cautious approach** is coming at a crucial time.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | **主句 S** | the cautious approach |
+> | **主句 V** | is coming |
+> | **主句 A** | at a crucial time（时间状语） |
+>
+> **主干简化**：the cautious approach is coming at a crucial time.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介短 | For | 主句（引出关涉对象） |
+> | 非限制性定从 | who | retailers |
+> | 介短 | of | revenue（定从中） |
+> | 介短 | between...and... | took in（定从中时间状语） |
+>
+> **结构图解**：
+> ```
+> 主句: the cautious approach [S] is coming [V] at a crucial time [A]
+>   └── 介短: For retailers → 状语（引出关涉对象）
+>         └── 非限制性定从: who last year took in 24% of their revenue between Thanksgiving and Christmas → 修饰 retailers
+>               ├── 介短: of their revenue → 修饰 24 percent
+>               └── 介短: between Thanksgiving and Christmas → 定从中时间状语
+> ```
+>
+> **参考译文**：对于零售商来说——他们在去年感恩节到圣诞节期间赚取了全年 24% 的收入——这种谨慎态度正出现在一个关键时机。
+>
+> > [!tip] 考点提示
+> > 1. **非限制性定语从句的插入与翻译**：`who last year took in...` 由逗号与主句分隔，形成"插入式分隔"结构，考研翻译中通常处理为独立分句而非前置定语。
+> > 2. **介词短语链的层级区分**：`of their revenue` 修饰 `24 percent`，`between Thanksgiving and Christmas` 修饰 `took in`，属于不同修饰层级，需从语义关系判断。
 
 (1) Consumers say they're not in despair because, despite the dreadful headlines, their own fortunes still feel pretty good. (2) Home prices are holding steady in most regions. (3) In Manhattan, "there's a new **gold rush** happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses," says broker Barbara Corcoran. (4) In San Francisco, prices are still rising even as **frenzied overbidding** quiets. (5) "Instead of 20 to 30 offers, now maybe you only get two or three," says john Deadly, a Bay Area real-estate broker. (6) And most folks still feel pretty comfortable about their ability to find and keep a job.
 
