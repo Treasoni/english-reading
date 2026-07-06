@@ -526,7 +526,105 @@ sources:
 > - ❌ `He likes both reading and to swim.`（doing 与 to do 不对等）
 > - ✅ `He likes both reading and swimming.`（doing + doing 对等）
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **belt-tightening** | n. | 勒紧腰带；节约开支 | Consumers...even as they do some modest **belt-tightening** |
+| **bubbles** | n. | 泡沫 | Employers wouldn't mind a little fewer **bubbles** in the job market |
+| **cautious approach** | n. | 谨慎的态度 | the **cautious approach** is coming at a crucial time |
+| **downscaling** | v. | 降低消费档次；缩小规模 | So Spero is **downscaling**, shopping at middle-brow Dillard's |
+| **dreadful** | adj. | 可怕的 | despite the **dreadful** headlines, their own fortunes still feel pretty good |
+| **frenzied overbidding** | n. | 狂热的竞价 | prices are still rising even as **frenzied overbidding** quiets |
+| **gold rush** | n. | 淘金热（比喻抢购热潮） | there's a new **gold rush** happening in the $4 million to $10 million range |
+| **nail-biting** | adj. | 令人极度紧张的 | —（衍生词） |
+| **nail-biter** | n. | 胜负难分的局面 | —（衍生词） |
+| **optimistic** | adj. | 乐观的 | many say they remain **optimistic** about the economy's long-term prospects |
+| **panicked** | adj. | 恐慌的 | Consumers seem only mildly concerned, not **panicked** |
+| **red-hot** | adj. | 炽热的；过热的 | America's **red-hot** economy is cooling |
+| **silver linings** | n. | 一线希望 | Many folks see **silver linings** to this slowdown |
+| **slowdown** | n. | 放缓；减速 | lots of working folks had already seen signs of the **slowdown** themselves |
+| **softening economy** | n. | 疲软的经济 | Spero blames the **softening economy** |
+| **sound** (熟词生义) | adj./v. | 健康的（形）/发出声音（动） | But don't **sound** any alarms / a **sound** economy |
+| **sustained boom** | n. | 持续繁荣 | a necessary ingredient to a **sustained boom** |
+| **temper** (熟词僻义) | v. | 节制、调和 | shoppers **temper** their spending |
+| **toasting** | v. | 举杯庆祝 | Greenspan & Co. may still be worth **toasting** |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> optimistic / slowdown / temper / dreadful / panicked / downscaling / silver linings / red-hot / sustained boom / cautious approach
+
+1. The government should take a ________ to avoid unnecessary risks in economic policy.
+
+2. Despite the ________ headlines about the recession, the job market remains surprisingly stable.
+
+3. After losing his job, he started ________ his lifestyle and cutting unnecessary expenses.
+
+4. The company's profits grew at a ________ pace during the economic expansion.
+
+5. Many consumers are learning to ________ their spending habits in response to rising inflation.
+
+6. Every cloud has a ________ — a period of economic hardship can also bring new opportunities.
+
+7. The ________ of the housing market made it harder for homeowners to sell their properties.
+
+8. Most analysts remain ________ about the long-term outlook for the tech industry.
+
+> [!abstract]- 答案
+> 1. **cautious approach**（谨慎的态度）
+> 2. **dreadful**（可怕的）
+> 3. **downscaling**（降低消费档次）
+> 4. **red-hot**（炽热的）
+> 5. **temper**（节制）
+> 6. **silver linings**（一线希望）
+> 7. **slowdown**（放缓）
+> 8. **optimistic**（乐观的）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. sound the alarm
+
+2. belt-tightening
+
+3. frenzied overbidding
+
+> [!abstract]- 答案
+> 1. **sound the alarm** = 发出警报（sound 为动词）
+> 2. **belt-tightening** = 勒紧腰带；节约开支
+> 3. **frenzied overbidding** = 狂热的竞价
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. 原文 `But don't **sound** any alarms just yet` 中 **sound** 的含义是：
+   - A. 健康的（形容词）
+   - B. 合理的（形容词）
+   - C. 发出声音（动词）
+   - D. 响亮的（形容词）
+
+2. 原文 `shoppers **temper** their spending` 中 **temper** 的含义是：
+   - A. 脾气
+   - B. 使缓和、节制
+   - C. 锻炼（金属）
+   - D. 激怒
+
+3. 原文 `Many folks see **silver linings** to this slowdown` 中 **silver linings** 的含义是：
+   - A. 银色的内衬
+   - B. 消极方面
+   - C. 一线希望、积极面
+   - D. 银色材料
+
+> [!abstract]- 答案
+> 1. **C** — 此处 sound 为动词，意为"发出声音"，sound the alarm 即"拉响警报"。A 和 B 是形容词用法，D 不构成考点干扰。
+> 2. **B** — temper 在原文中作动词，意为"节制、使缓和"。A（脾气）是常见义，但此处为动宾结构 temper their spending，与"脾气"无关。C 为专业术语义（金属热处理），D 与上下文不符。
+> 3. **C** — silver linings 出自谚语 every cloud has a silver lining，意为"每朵乌云都有一线银边"，引申为"困境中的积极面/一线希望"。A 为字面翻译（非习语义），B 与原文逻辑相反，D 为字面误导。
 
 ---
 
