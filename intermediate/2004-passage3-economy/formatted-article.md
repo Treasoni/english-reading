@@ -364,6 +364,46 @@ sources:
 > > 1. **嵌套状语从句的层级判断**：`because` 引导的原因状语从句修饰宾从内的 `not in despair`，而非主句的 `say`。判断依据：语义上"他们不绝望的原因"合理，"他们说的原因"则不通。
 > > 2. **`despite` 的让步用法**：嵌入原因状语从句内部，形成"尽管……仍然……"的转折逻辑，是考研阅读中常见的论证表达。
 
+> [!abstract]- 长难句分析
+> **原句**：In Manhattan, "there's a new **gold rush** happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses," says broker Barbara Corcoran.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | **主句 V** | says |
+> | **主句 S** | broker Barbara Corcoran |
+> | **主句 O** | "there's a new gold rush..., predominantly fed by..."（直接引语） |
+>
+> **主干简化**："...", says Barbara Corcoran.（倒装式引述分句）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 地点状语 | In Manhattan | 引语句 |
+> | 非谓语（V-ing） | happening | gold rush（后置定语） |
+> | 介短 | in...range | happening |
+> | 非谓语（V-ed） | fed | gold rush（后置定语） |
+> | 介短 | by...bonuses | fed |
+>
+> **结构图解**：
+> ```
+> 主句: says [V] broker Barbara Corcoran [S]（倒装：谓语 + 主语）
+>   └── 直接引语（宾语）: "there's a new gold rush happening, predominantly fed by..."
+>         ├── 地点状语: In Manhattan
+>         ├── 非谓语(V-ing): happening → 修饰 gold rush
+>         │     └── 介短: in the $4M to $10M range → 修饰 happening
+>         └── 非谓语(V-ed): predominantly fed by Wall Street bonuses → 修饰 gold rush
+> ```
+>
+> **参考译文**：在曼哈顿，"400万到1000万美元的范围内正出现新一轮的淘金热，主要由华尔街的奖金推动，"经纪人芭芭拉·科克伦说道。
+>
+> > [!tip] 考点提示
+> > 1. **倒装式引述分句**：`says broker Barbara Corcoran` 谓语动词前置、主语后置，是直接引语中的倒装结构。若主语为人称代词则不倒装（如 `she says`）。
+> > 2. **非谓语并列后置定语**：`happening in...`（V-ing 表主动）和 `predominantly fed by...`（V-ed 表被动）并列修饰 `gold rush`，注意识别修饰链。
+> > 3. **`gold rush` 的比喻用法**：字面义"淘金热"，此处比喻高端房产抢购热潮。
+
 (1) Many folks see **silver linings** to this slowdown. (2) Potential home buyers would cheer for lower interest rates. (3) Employers wouldn't mind a little fewer bubbles in the job market. (4) Many consumers seem to have been influenced by stock-market swings, which investors now view as a necessary ingredient to a **sustained boom**. (5) Diners might see an upside, too. (6) Getting a table at Manhattan's hot new Alain Ducasse restaurant need to be impossible. (7) Not anymore. (8) For that, Greenspan & Co. may still be worth **toasting**.
 
 ---
