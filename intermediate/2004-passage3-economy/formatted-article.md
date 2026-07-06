@@ -324,7 +324,45 @@ sources:
 > > 2. **`even as` 引导让步状语从句**：意为"即使当……时"，表示对比转折，不可误判为时间状语。
 > > 3. **`belt-tightening` 的隐喻用法**：字面义"勒紧腰带"，比喻义"节约开支"，是考研阅读形象化表达的高频考查点。
 
-(1) Consumers say they're not in despair because, despite the dreadful headlines, their own fortunes still feel pretty good. (2) Home prices are holding steady in most regions. (3) In Manhattan, "there's a new **gold rush** happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses," says broker Barbara Corcoran. (4) In San Francisco, prices are still rising even as **frenzied overbidding** quiets. (5) "Instead of 20 to 30 offers, now maybe you only get two or three," says john Deadly, a Bay Area real-estate broker. (6) And most folks still feel pretty comfortable about their ability to find and keep a job.
+(1) Consumers say they're not in despair because, despite the **dreadful** headlines, their own fortunes still feel pretty good. (2) Home prices are holding steady in most regions. (3) In Manhattan, "there's a new **gold rush** happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses," says broker Barbara Corcoran. (4) In San Francisco, prices are still rising even as **frenzied overbidding** quiets. (5) "Instead of 20 to 30 offers, now maybe you only get two or three," says john Deadly, a Bay Area real-estate broker. (6) And most folks still feel pretty comfortable about their ability to find and keep a job.
+
+> [!abstract]- 长难句分析
+> **原句**：Consumers say they're not in despair because, despite the dreadful headlines, their own fortunes still feel pretty good.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | **主句 S** | Consumers |
+> | **主句 V** | say |
+> | **主句 O** | (that) they're not in despair...（宾从） |
+> | **宾从 S** | they |
+> | **宾从 V** | 're (are) |
+> | **宾从 C** | not in despair |
+>
+> **主干简化**：Consumers say (that) they're not in despair.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 宾语从句 | (that) | say |
+> | 原因状从 | because | 宾从中 not in despair（说明原因） |
+> | 介短（让步） | despite | 状从中 feel good |
+>
+> **结构图解**：
+> ```
+> Consumers say [V] 
+>   └── 宾从: (that) they [S] 're [V] not in despair [C]
+>         └── 状从(原因): because their own fortunes still feel pretty good
+>               └── 介短(让步): despite the dreadful headlines → 修饰 feel
+> ```
+>
+> **参考译文**：消费者表示他们并未感到绝望，因为尽管有可怕的新闻头条，他们自身的境况仍然相当不错。
+>
+> > [!tip] 考点提示
+> > 1. **嵌套状语从句的层级判断**：`because` 引导的原因状语从句修饰宾从内的 `not in despair`，而非主句的 `say`。判断依据：语义上"他们不绝望的原因"合理，"他们说的原因"则不通。
+> > 2. **`despite` 的让步用法**：嵌入原因状语从句内部，形成"尽管……仍然……"的转折逻辑，是考研阅读中常见的论证表达。
 
 (1) Many folks see **silver linings** to this slowdown. (2) Potential home buyers would cheer for lower interest rates. (3) Employers wouldn't mind a little fewer bubbles in the job market. (4) Many consumers seem to have been influenced by stock-market swings, which investors now view as a necessary ingredient to a **sustained boom**. (5) Diners might see an upside, too. (6) Getting a table at Manhattan's hot new Alain Ducasse restaurant need to be impossible. (7) Not anymore. (8) For that, Greenspan & Co. may still be worth **toasting**.
 
