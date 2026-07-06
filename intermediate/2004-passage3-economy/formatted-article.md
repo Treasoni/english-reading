@@ -404,7 +404,7 @@ sources:
 > > 2. **非谓语并列后置定语**：`happening in...`（V-ing 表主动）和 `predominantly fed by...`（V-ed 表被动）并列修饰 `gold rush`，注意识别修饰链。
 > > 3. **`gold rush` 的比喻用法**：字面义"淘金热"，此处比喻高端房产抢购热潮。
 
-(1) Many folks see **silver linings** to this slowdown. (2) Potential home buyers would cheer for lower interest rates. (3) Employers wouldn't mind a little fewer bubbles in the job market. (4) Many consumers seem to have been influenced by stock-market swings, which investors now view as a necessary ingredient to a **sustained boom**. (5) Diners might see an upside, too. (6) Getting a table at Manhattan's hot new Alain Ducasse restaurant need to be impossible. (7) Not anymore. (8) For that, Greenspan & Co. may still be worth **toasting**.
+(1) Many folks see **silver linings** to this slowdown. (2) Potential home buyers would cheer for lower interest rates. (3) Employers wouldn't mind a little fewer **bubbles** in the job market. (4) Many consumers seem to have been influenced by stock-market swings, which investors now view as a necessary ingredient to a **sustained boom**. (5) Diners might see an upside, too. (6) Getting a table at Manhattan's hot new Alain Ducasse restaurant need to be impossible. (7) Not anymore. (8) For that, Greenspan & Co. may still be worth **toasting**.
 
 ---
 
