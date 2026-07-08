@@ -300,7 +300,46 @@ From the beginning of our history, says Hofstadter, our democratic and **populis
 > > 2. **drive sb to do sth 结构**：宾补不定式表结果，考研翻译中需识别 force/compel/drive 类使役动词 + 不定式的搭配。
 > > 3. **that 定语从句 + smell of 搭配**：`anything that smells of elitism` — that 从句修饰不定代词 anything，smell of 为"带有……气息"的固定搭配。
 
-Practicality, common sense, and native intelligence have been considered more noble qualities than anything you could learn from a book.
+Practicality, **common sense**, and **native intelligence** have been considered more **noble** qualities than anything you could learn from a book.
+
+> [!abstract]- 长难句分析
+> **原句**：Practicality, common sense, and native intelligence have been considered more noble qualities than anything you could learn from a book.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | Practicality, common sense, and native intelligence |
+> | V (谓语) | have been considered |
+> | C (主语补足语) | more noble qualities |
+> | A (比较状语) | than anything you could learn from a book |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 定语从句(省略 that) | (that) you could learn from a book | 修饰 anything |
+> | 介词短语 | from a book | 修饰 learn |
+>
+> **结构图解**：
+>
+> ```
+> 主句: [S: Practicality, common sense, and native intelligence]
+>       + [V: have been considered]
+>       + [C: more noble qualities]
+>   └── 比较结构: than anything
+>         └── 定从(省that): [you] + [could learn] + [from a book] → 修饰 [anything]
+> ```
+>
+> **参考译文**：实用性、常识和天资一直被视作比任何从书本上学到的东西更高尚的品质。
+>
+> **考点提示**：
+>
+> > [!tip]- 考点提示
+> > 1. **并列主语的主谓一致**：三个并列名词短语作主语，谓语用复数 `have been considered`。
+> > 2. **被动语态**：`have been considered` 为现在完成时被动语态，consider + O + OC → O + be considered + OC，`more noble qualities` 为主语补足语。
+> > 3. **省略关系词的定语从句**：`anything you could learn from a book` 中省略了作 `learn` 宾语的 `that/which` — 先行词为不定代词 `anything` 且关系词在从句中作宾语时可省略，考研阅读高频考点。
+> > 4. **比较结构**：`more...than...`，比较对象为"品质"与"从书本学到的东西"。
 
 Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and rigorous book learning put unnatural restraints on children: "We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing." Mark Twain's *Huckleberry Finn* exemplified American anti-intellectualism. Its hero avoids being civilized — going to school and learning to read — so he can preserve his innate goodness.
 
