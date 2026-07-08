@@ -895,7 +895,85 @@ but 除了表示"但是"，最常考的熟词生义是 **"除了……之外 (ex
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **a bellyful of** | phrase | 满腹的；一肚子的 | "We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with **a bellyful of** words and do not know a thing." |
+| **anti-intellectualism** | n. | 反智主义 | Symptoms of pervasive **anti-intellectualism** in our schools aren't difficult to find. |
+| **common sense** | n. | 常识 | Practicality, **common sense**, and native intelligence have been considered more noble qualities... |
+| **counterbalance** | n. | 抗衡力量 | "Schools could be a **counterbalance**." |
+| **distaste** | n. | 厌恶，反感 | ...anything but a counterbalance to the American **distaste** for intellectual pursuits. |
+| **innate** | adj. | 天生的，与生俱来的 | Its hero avoids being civilized...so he can preserve his **innate** goodness. |
+| **intellect** | n. | 才智，理智 | Americans today don't place a very high value on **intellect**. |
+| **intelligence** | n. | 智力 | Practicality, common sense, and **native intelligence** have been considered more noble qualities... |
+| **native intelligence** | n. | 天生智力 | **Intellect**, according to Hofstadter, is different from **native intelligence**, a quality we reluctantly admire. |
+| **noble** | adj. | 高尚的，高贵的 | ...have been considered more **noble** qualities than anything you could learn from a book. |
+| **populist** | adj. | 民粹主义的 | ...our democratic and **populist** urges have driven us to reject anything that smells of elitism. |
+| **rigorous** | adj. | 严格的，严密的 | Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and **rigorous** book learning put unnatural restraints on children. |
+| **Transcendentalist** | n./adj. | 超验主义者（的） | Ralph Waldo Emerson and other **Transcendentalist** philosophers thought schooling and rigorous book learning put unnatural restraints on children. |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> intellect / innate / rigorous / populist / counterbalance / distaste / noble / a bellyful of
+
+1. The professor's ___________ training in logic helped him analyze the problem from every angle.
+2. She has a deep ___________ for any form of dishonesty in academic research.
+3. The new policy was designed to serve as a ___________ to the growing economic inequality.
+4. His ___________ curiosity drove him to explore the natural world from an early age.
+5. In the eyes of many philosophers, the pursuit of truth is a ___________ goal.
+6. The ___________ movement often appeals to ordinary people who feel ignored by the elite.
+7. After reading the long and boring document, he felt he had ___________ useless information.
+8. While some people acquire wisdom through education, others rely on their ___________ intelligence.
+
+> [!abstract]- 答案
+> 1. **rigorous**（严格的）
+> 2. **distaste**（厌恶）
+> 3. **counterbalance**（抗衡力量）
+> 4. **intellect**（才智）
+> 5. **noble**（高尚的）
+> 6. **populist**（民粹主义的）
+> 7. **a bellyful of**（一肚子的）
+> 8. **innate**（天生的）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. common sense
+
+2. native intelligence
+
+3. anti-intellectualism
+
+> [!abstract]- 答案
+> 1. **common sense** = 常识
+> 2. **native intelligence** = 天生智力
+> 3. **anti-intellectualism** = 反智主义
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "Intellect is resented as a form of power or privilege" 中 **resented** 的含义最接近：
+   - A. 受欢迎
+   - B. 被视为
+   - C. 被憎恨 / 被厌恶
+   - D. 被重新定义
+
+2. "our democratic and populist urges have driven us to reject anything that smells of elitism" 中 **smells of** 的修辞含义是：
+   - A. 散发出……的气味
+   - B. 带有……的色彩 / 倾向
+   - C. 厌恶……
+   - D. 等同于……
+
+> [!abstract]- 答案
+> 1. **C** — resented 意为"被憎恨/被厌恶"，文中表示才智被人当作权力或特权来憎恨。
+> 2. **B** — smell of 在此为比喻用法，意为"带有……的色彩/倾向"，整句意思是"排斥任何带有精英主义气息的东西"。
 
 ---
 
