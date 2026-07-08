@@ -510,7 +510,111 @@ Mark Twain's *Huckleberry Finn* exemplified American anti-intellectualism. Its h
 
 Intelligence seeks to grasp, manipulate, re-order, and adjust, while intellect examines, ponders, wonders, theorizes, criticizes and imagines.
 
+> [!abstract]- 长难句分析
+> **原句**：Intelligence seeks to grasp, manipulate, re-order, and adjust, while intellect examines, ponders, wonders, theorizes, criticizes and imagines.
+>
+> **主干提取**：
+>
+> | 分句 | 连接词 | S (主语) | V (谓语) | O (宾语) |
+> |------|--------|----------|----------|----------|
+> | 分句 1 | — | Intelligence | seeks | to grasp, manipulate, re-order, and adjust (并列不定式) |
+> | 分句 2 | while (对比) | intellect | examines, ponders, wonders, theorizes, criticizes, imagines (六并列) | — (多数不及物) |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 并列不定式(宾语) | to grasp, manipulate, re-order, and adjust | 作 seeks 的宾语 |
+> | 对比状语从句 | while | 连接两个分句，表对比关系 |
+>
+> **结构图解**：
+>
+> ```
+> 分句 1 (Intelligence — 工具性):
+> [Intelligence] + [seeks] + [to grasp, manipulate, re-order, and adjust]
+>                                    └── 并列不定式(四个动词)
+>
+> while (对比转折)
+>
+> 分句 2 (Intellect — 思辨性):
+> [intellect] + [examines, ponders, wonders, theorizes, criticizes, imagines]
+>               └── 六重并列谓语 (均不及物)
+> ```
+>
+> **参考译文**：智力试图去掌握、操作、重组和调整，而理智则审视、沉思、好奇、推理、批判和想象。
+>
+> **考点提示**：
+>
+> > [!tip]- 考点提示
+> > 1. **While 引导对比状语从句**：此处 while 表"然而、而"，表示前后两个分句的对比关系（考研阅读中 while 还可表"当……时"和"尽管"），需根据语境判断。
+> > 2. **并列不定式作宾语**：`seek to do sth` 固定搭配，四个不定式并列，第二个及之后的不定式省略 to（原形动词）。
+> > 3. **六重并列谓语**：六个不及物动词并列，展示 intellect 的多种思辨活动，考研阅读中多重并列常用于排比强调。
+> > 4. **对比修辞手法**：intelligence 的动词（grasp/manipulate/re-order/adjust 工具性）与 intellect 的动词（examine/ponder/wonder/theorize/criticize/imagine 思辨性）形成鲜明对比，常考作者态度题。
+
 School remains a place where intellect is mistrusted. Hofstadter says our country's educational system is in the grips of people who "joyfully and militantly proclaim their hostility to intellect and their eagerness to identify with children who show the least intellectual promise."
+
+> [!abstract]- 长难句分析
+> **原句**：School remains a place where intellect is mistrusted. Hofstadter says our country's educational system is in the grips of people who "joyfully and militantly proclaim their hostility to intellect and their eagerness to identify with children who show the least intellectual promise."
+>
+> **主干提取**：
+>
+> **句子 1**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | School |
+> | V (系动词) | remains |
+> | C (表语) | a place where intellect is mistrusted |
+>
+> **句子 2**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | Hofstadter |
+> | V (谓语) | says |
+> | O (宾语从句) | (that) our country's educational system is in the grips of people who... |
+>
+> **简化主干**：S1: School remains a place. S2: Hofstadter says (that) system is in the grips of people.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 定语从句 | where intellect is mistrusted | 修饰 a place |
+> | 名词性从句(宾从,省略that) | (that) our country's educational system is... | 作 says 的宾语 |
+> | 定语从句(嵌套) | who "joyfully and militantly proclaim..." | 修饰宾从内的 people |
+> | 定语从句(嵌套第二层) | who show the least intellectual promise | 修饰 children |
+> | 介词短语 | to intellect | 修饰 hostility |
+> | 不定式短语(定语) | to identify with children | 修饰 eagerness |
+> | 副词状语 | joyfully and militantly | 修饰 proclaim |
+>
+> **结构图解**：
+>
+> ```
+> 句子 1:
+> [School] + [remains] + [a place]
+>   └── 定从: [where] + [intellect] + [is mistrusted] → 修饰 [place]
+>
+> 句子 2:
+> [Hofstadter] + [says]
+>   └── 宾从(省that): [our country's educational system] + [is] + [in the grips of people]
+>         └── 定从①: [who] + [proclaim] + [their hostility... and their eagerness...]
+>               ├── 副状: joyfully and militantly → 修饰 [proclaim]
+>               ├── 介短: to intellect → 修饰 [hostility]
+>               └── 不定式(定): to identify with children → 修饰 [eagerness]
+>                     └── 定从②: [who] + [show] + [the least intellectual promise] → 修饰 [children]
+> ```
+>
+> **参考译文**：学校仍然是理智遭到质疑的地方。霍夫斯塔特说，我们国家的教育体制掌握在这样一群人手中，他们"欢快而好斗地宣称自己对理智的敌视，宣称自己热衷于认同那些最没有理智潜质的孩子。"
+>
+> **考点提示**：
+>
+> > [!tip]- 考点提示
+> > 1. **多层嵌套定语从句**：`people who...children who...` — 两个 who 定语从句嵌套（①修饰 people ②修饰 children），考研翻译中需正确切分嵌套层级。
+> > 2. **where 引导定语从句**：`a place where intellect is mistrusted` — where 在此 = in which，引导定语从句修饰 place，注意区分于 where 状语从句。
+> > 3. **省略 that 的宾语从句**：`says our country's...` — says 后省略引导宾从的 that，考研阅读高频。
+> > 4. **并列宾语的歧义识别**：`their hostility to intellect and their eagerness to identify...` — 两个 `their + 名词` 为并列宾语，不要误读为 hostility to (intellect and their eagerness)。
+> > 5. **joyfully and militantly** — 两个副词并列修饰 proclaim，joyfully（欢快地）表喜悦态度 + militantly（好斗地）表攻击态度，选词矛盾暗示作者对这群人的讽刺——这是考研态度题的典型考点。
 
 ## Questions
 
