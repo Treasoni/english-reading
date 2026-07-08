@@ -204,7 +204,57 @@ Continuing along this path, says writer Earl Shorris, "We will become a second-r
 > > 2. **引述句倒装**：says + writer Earl Shorris 为主谓倒装，常见于引语插入，需快速识别说话人。
 > > 3. **直接引语中并列递进**：引号内两个独立分句，逻辑递进（先国家后社会）。
 
-"Intellect is resented as a form of power or privilege," writes historian and professor Richard Hofstadter in *Anti-Intellectualism in American Life*, a Pulitzer Prize winning book on the roots of anti-intellectualism in US politics, religion, and education. From the beginning of our history, says Hofstadter, our democratic and populist urges have driven us to reject anything that smells of elitism. Practicality, common sense, and native intelligence have been considered more noble qualities than anything you could learn from a book.
+"Intellect is resented as a form of power or privilege," writes historian and professor Richard Hofstadter in *Anti-Intellectualism in American Life*, a Pulitzer Prize winning book on the roots of anti-intellectualism in US politics, religion, and education.
+
+> [!abstract]- 长难句分析
+> **原句**："Intellect is resented as a form of power or privilege," writes historian and professor Richard Hofstadter in *Anti-Intellectualism in American Life*, a Pulitzer Prize winning book on the roots of anti-intellectualism in US politics, religion, and education.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | V (谓语) | writes |
+> | S (主语) | historian and professor Richard Hofstadter |
+> | O (宾语) | "Intellect is resented as a form of power or privilege" |
+> | A (地点状语) | in *Anti-Intellectualism in American Life* |
+>
+> 引语内部主干：Intellect is resented as a form of power or privilege
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 倒装结构 | writes + S (V+S) | 引述句 |
+> | 介词短语 | in *Anti-Intellectualism in American Life* | 修饰 writes，表出处 |
+> | 同位语 | a Pulitzer Prize winning book on the roots... | 修饰书名 |
+> | 非谓语(复合形容词) | Pulitzer Prize winning | 修饰 book |
+> | 介词短语 | on the roots of anti-intellectualism... | 修饰 book |
+> | 介词短语 | in US politics, religion, and education | 修饰 anti-intellectualism |
+>
+> **结构图解**：
+>
+> ```
+> 直接引语: [Intellect] + [is resented] + [as a form of power or privilege]
+>
+> 引述句: [writes] + [historian and professor Richard Hofstadter]   (倒装: V+S)
+>   └── 介短: (in *Anti-Intellectualism in American Life*) → 出处
+>         └── 同位语: [a book]
+>               ├── 复合定语: Pulitzer Prize winning → 修饰 [book]
+>               └── 介短: (on the roots...) → 修饰 [book]
+>                     └── 介短: (of anti-intellectualism) → 修饰 [roots]
+>                           └── 介短: (in US politics, religion, and education) → 修饰 [anti-intellectualism]
+> ```
+>
+> **参考译文**："理智被视为一种权力或特权的标志而遭到厌恶，"历史学家兼教授理查德·霍夫斯塔特在其著作《美国生活中的反智主义》中写道——这部普利策奖获奖作品探讨了美国政治、宗教和教育领域中反智主义的根源。
+>
+> **考点提示**：
+>
+> > [!tip]- 考点提示
+> > 1. **引述句倒装**：`writes historian and professor Richard Hofstadter` 为 V+S 倒装，引语前置将谓语提前，需识别倒装恢复主干。
+> > 2. **多层介短嵌套**：`on the roots of anti-intellectualism in US politics...` — 三个介短链式嵌套，考研翻译常考链式修饰的语序拆解。
+> > 3. **同位语长插入**：书名后同位语 `a Pulitzer Prize winning book...` 打断连贯性，需跳读识别语法功能。
+
+From the beginning of our history, says Hofstadter, our democratic and populist urges have driven us to reject anything that smells of elitism. Practicality, common sense, and native intelligence have been considered more noble qualities than anything you could learn from a book.
 
 Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and rigorous book learning put unnatural restraints on children: "We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing." Mark Twain's *Huckleberry Finn* exemplified American anti-intellectualism. Its hero avoids being civilized — going to school and learning to read — so he can preserve his innate goodness.
 
