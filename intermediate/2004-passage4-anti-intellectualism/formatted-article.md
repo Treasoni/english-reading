@@ -254,7 +254,7 @@ Continuing along this path, says writer Earl Shorris, "We will become a second-r
 > > 2. **多层介短嵌套**：`on the roots of anti-intellectualism in US politics...` — 三个介短链式嵌套，考研翻译常考链式修饰的语序拆解。
 > > 3. **同位语长插入**：书名后同位语 `a Pulitzer Prize winning book...` 打断连贯性，需跳读识别语法功能。
 
-From the beginning of our history, says Hofstadter, our democratic and populist urges have driven us to reject anything that smells of elitism. Practicality, common sense, and native intelligence have been considered more noble qualities than anything you could learn from a book.
+From the beginning of our history, says Hofstadter, our democratic and **populist** urges have driven us to reject anything that smells of elitism. Practicality, common sense, and native intelligence have been considered more noble qualities than anything you could learn from a book.
 
 Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and rigorous book learning put unnatural restraints on children: "We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing." Mark Twain's *Huckleberry Finn* exemplified American anti-intellectualism. Its hero avoids being civilized — going to school and learning to read — so he can preserve his innate goodness.
 
