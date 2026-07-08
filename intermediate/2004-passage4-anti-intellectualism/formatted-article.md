@@ -61,7 +61,7 @@ Americans today don't place a very high value on **intellect**. Our heroes are a
 
 Symptoms of pervasive anti-intellectualism in our schools aren't difficult to find.
 
-"Schools have always been in a society where practical is more important than intellectual," says education writer Diane Ravitch. "Schools could be a counterbalance." Ravitch's latest book, *Left Back: A Century of Failed School Reforms*, traces the roots of anti-intellectualism in our schools, concluding they are anything but a counterbalance to the American distaste for intellectual pursuits.
+"Schools have always been in a society where practical is more important than intellectual," says education writer Diane Ravitch. "Schools could be a **counterbalance**." Ravitch's latest book, *Left Back: A Century of Failed School Reforms*, traces the roots of anti-intellectualism in our schools, concluding they are anything but a counterbalance to the American distaste for intellectual pursuits.
 
 But they could and should be. Encouraging kids to reject the life of the mind leaves them vulnerable to exploitation and control. Without the ability to think critically, to defend their ideas and understand the ideas of others, they cannot fully participate in our democracy. Continuing along this path, says writer Earl Shorris, "We will become a second-rate country. We will have a less civil society."
 
