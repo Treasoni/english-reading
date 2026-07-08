@@ -17,7 +17,49 @@ sources:
 
 ## Passage
 
-Americans today don't place a very high value on **intellect**. Our heroes are athletes, entertainers, and entrepreneurs, not scholars. Even our schools are where we send our children to get a practical education — not to pursue knowledge for the sake of knowledge. Symptoms of pervasive anti-intellectualism in our schools aren't difficult to find.
+Americans today don't place a very high value on **intellect**. Our heroes are athletes, entertainers, and entrepreneurs, not scholars. Even our schools are where we send our children to get a practical education — not to pursue knowledge for the sake of knowledge.
+
+> [!abstract]- 长难句分析
+> **原句**：Even our schools are where we send our children to get a practical education — not to pursue knowledge for the sake of knowledge
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | our schools |
+> | V (系动词) | are |
+> | C (表语从句) | where we send our children to get a practical education — not to pursue knowledge... |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 副词 | Even | 修饰整个主句，表强调 |
+> | 名词性从句（表语从句） | where | 充当 are 的表语 |
+> | 目的状语 | to get a practical education | 修饰谓语 send |
+> | 否定并列 | not to pursue... | 与 to get... 并列，表否定对比 |
+> | 介词短语 | for the sake of knowledge | 修饰 to pursue，表目的 |
+>
+> **结构图解**：
+>
+> ```
+> 主句: [Even] + [our schools] + [are] + [where...表语从句]
+>   └── 表从: where [we] [send] [our children]
+>         ├── 目的状: to get a practical education
+>         └── 否定并列: — not to pursue knowledge
+>               └── 介短: for the sake of knowledge
+> ```
+>
+> **参考译文**：就连我们的学校，也不过是送孩子去接受实用教育的地方——而不是为了知识本身而追求知识。
+>
+> **考点提示**：
+>
+> > [!tip]- 考点提示
+> > 1. **Where 引导的表语从句**：where 在此引导名词性从句作表语，意为"……的地方"，注意区分于 where 引导的定语从句和状语从句。
+> > 2. **破折号的并列否定结构**：`— not to...` 是对前一个不定式 `to get...` 的否定并列，考研阅读中常出现破折号引导的补充/转折/否定结构。
+> > 3. **Even 的位置强调**：Even 置于句首修饰主句，暗含对比（"连学校都……"），考研阅读中此类副词常承载作者态度。
+
+Symptoms of pervasive anti-intellectualism in our schools aren't difficult to find.
 
 "Schools have always been in a society where practical is more important than intellectual," says education writer Diane Ravitch. "Schools could be a counterbalance." Ravitch's latest book, *Left Back: A Century of Failed School Reforms*, traces the roots of anti-intellectualism in our schools, concluding they are anything but a counterbalance to the American distaste for intellectual pursuits.
 
