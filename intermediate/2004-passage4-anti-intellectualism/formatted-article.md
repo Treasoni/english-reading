@@ -341,7 +341,7 @@ Practicality, **common sense**, and **native intelligence** have been considered
 > > 3. **省略关系词的定语从句**：`anything you could learn from a book` 中省略了作 `learn` 宾语的 `that/which` — 先行词为不定代词 `anything` 且关系词在从句中作宾语时可省略，考研阅读高频考点。
 > > 4. **比较结构**：`more...than...`，比较对象为"品质"与"从书本学到的东西"。
 
-Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and **rigorous** book learning put unnatural restraints on children: "We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing."
+Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and **rigorous** book learning put unnatural restraints on children: "We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with **a bellyful of** words and do not know a thing."
 
 > [!abstract]- 长难句分析
 > **原句**：Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and rigorous book learning put unnatural restraints on children: "We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing."
