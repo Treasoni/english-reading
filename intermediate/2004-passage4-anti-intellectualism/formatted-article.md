@@ -254,7 +254,53 @@ Continuing along this path, says writer Earl Shorris, "We will become a second-r
 > > 2. **多层介短嵌套**：`on the roots of anti-intellectualism in US politics...` — 三个介短链式嵌套，考研翻译常考链式修饰的语序拆解。
 > > 3. **同位语长插入**：书名后同位语 `a Pulitzer Prize winning book...` 打断连贯性，需跳读识别语法功能。
 
-From the beginning of our history, says Hofstadter, our democratic and **populist** urges have driven us to reject anything that smells of elitism. Practicality, common sense, and native intelligence have been considered more noble qualities than anything you could learn from a book.
+From the beginning of our history, says Hofstadter, our democratic and **populist** urges have driven us to reject anything that smells of elitism.
+
+> [!abstract]- 长难句分析
+> **原句**：From the beginning of our history, says Hofstadter, our democratic and **populist** urges have driven us to reject anything that smells of elitism.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | our democratic and populist urges |
+> | V (谓语) | have driven |
+> | O (宾语) | us |
+> | C (宾补) | to reject anything that smells of elitism |
+>
+> **简化主干**：our urges have driven us to reject anything
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语(时间状语) | From the beginning of our history | 修饰整个主句 |
+> | 插入语/引述倒装 | says Hofstadter | 打断主谓，表观点来源 |
+> | 定语从句 | that smells of elitism | 修饰 anything |
+> | 介词短语 | of elitism | 修饰 smells |
+>
+> **结构图解**：
+>
+> ```
+> 时间状: [From the beginning of our history]
+>
+> 主句: [our democratic and populist urges] + [have driven] + [us]
+>   ├── 插入语: (says Hofstadter) → 观点来源
+>   └── 宾补: [to reject anything]
+>         └── 定从: (that smells of elitism) → 修饰 [anything]
+>               └── 介短: (of elitism) → 修饰 [smells]
+> ```
+>
+> **参考译文**：霍夫斯塔特说，自我们历史之初，民主和平民的冲动就驱使我们排斥一切带有精英主义气息的事物。
+>
+> **考点提示**：
+>
+> > [!tip]- 考点提示
+> > 1. **插入语/引述倒装**：`says Hofstadter` 以双逗号插入，打断主谓连贯性，考研阅读中需学会跳读。
+> > 2. **drive sb to do sth 结构**：宾补不定式表结果，考研翻译中需识别 force/compel/drive 类使役动词 + 不定式的搭配。
+> > 3. **that 定语从句 + smell of 搭配**：`anything that smells of elitism` — that 从句修饰不定代词 anything，smell of 为"带有……气息"的固定搭配。
+
+Practicality, common sense, and native intelligence have been considered more noble qualities than anything you could learn from a book.
 
 Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and rigorous book learning put unnatural restraints on children: "We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing." Mark Twain's *Huckleberry Finn* exemplified American anti-intellectualism. Its hero avoids being civilized — going to school and learning to read — so he can preserve his innate goodness.
 
