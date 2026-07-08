@@ -61,7 +61,7 @@ Americans today don't place a very high value on **intellect**. Our heroes are a
 
 Symptoms of pervasive anti-intellectualism in our schools aren't difficult to find.
 
-"Schools have always been in a society where practical is more important than intellectual," says education writer Diane Ravitch. "Schools could be a **counterbalance**." Ravitch's latest book, *Left Back: A Century of Failed School Reforms*, traces the roots of **anti-intellectualism** in our schools, concluding they are anything but a counterbalance to the American distaste for intellectual pursuits.
+"Schools have always been in a society where practical is more important than intellectual," says education writer Diane Ravitch. "Schools could be a **counterbalance**." Ravitch's latest book, *Left Back: A Century of Failed School Reforms*, traces the roots of **anti-intellectualism** in our schools, concluding they are anything but a counterbalance to the American **distaste** for intellectual pursuits.
 
 > [!abstract]- 长难句分析
 > **原句**："Schools could be a **counterbalance**." Ravitch's latest book, *Left Back: A Century of Failed School Reforms*, traces the roots of anti-intellectualism in our schools, concluding they are anything but a counterbalance to the American distaste for intellectual pursuits.
