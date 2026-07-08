@@ -341,7 +341,60 @@ Practicality, **common sense**, and **native intelligence** have been considered
 > > 3. **省略关系词的定语从句**：`anything you could learn from a book` 中省略了作 `learn` 宾语的 `that/which` — 先行词为不定代词 `anything` 且关系词在从句中作宾语时可省略，考研阅读高频考点。
 > > 4. **比较结构**：`more...than...`，比较对象为"品质"与"从书本学到的东西"。
 
-Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and rigorous book learning put unnatural restraints on children: "We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing." Mark Twain's *Huckleberry Finn* exemplified American anti-intellectualism. Its hero avoids being civilized — going to school and learning to read — so he can preserve his innate goodness.
+Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and **rigorous** book learning put unnatural restraints on children: "We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing."
+
+> [!abstract]- 长难句分析
+> **原句**：Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and rigorous book learning put unnatural restraints on children: "We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing."
+>
+> **主干提取**：
+>
+> | 层级 | S (主语) | V (谓语) | O (宾语) | A (状语) |
+> |------|----------|----------|----------|----------|
+> | 主句 | Ralph Waldo Emerson and other Transcendentalist philosophers | thought | (that) 宾语从句 | — |
+> | 宾从内 | schooling and rigorous book learning | put | unnatural restraints | on children |
+>
+> 直接引语（冒号后爱默生原话，三个并列谓语）：
+>
+> | 分句 | S | V | A/O |
+> |------|---|---|-----|
+> | ① | We | are shut up (被动) | in schools and college recitation rooms for 10 or 15 years (状语) |
+> | ② | (We) | come out | at last with a bellyful of words (状语) |
+> | ③ | (We) | do not know | a thing (宾语) |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 名词性从句（宾语从句） | (that) 省略 | 作 thought 的宾语 |
+> | 介词短语 | on children | 修饰宾从内的 put |
+> | 冒号 + 直接引语 | : "..." | 详细说明宾从内容 |
+> | 介词短语 | in schools and college recitation rooms | 修饰引语①的 are shut up |
+> | 介词短语 | for 10 or 15 years | 修饰引语①的 are shut up |
+> | 介词短语 | at last → 时间 | 修饰引语②的 come out |
+> | 介词短语 | with a bellyful of words | 修饰引语②的 come out |
+>
+> **结构图解**：
+>
+> ```
+> 主句: [Ralph Waldo Emerson and other Transcendentalist philosophers] + [thought]
+>   └── 宾从(省that): [schooling and rigorous book learning] + [put] + [unnatural restraints] + [on children]
+>         └── 冒号 + 直接引语(解释说明):
+>               ① [We] + [are shut up] + [in schools...] + [for 10 or 15 years]
+>               ② and [(We)] + [come out] + [at last] + [with a bellyful of words]
+>               ③ and [(We)] + [do not know] + [a thing]
+> ```
+>
+> **参考译文**：拉尔夫·瓦尔多·爱默生和其他先验论哲学家认为，上学和严格的书本学习给孩子们施加了不自然的束缚："我们被关在学校和大学的背诵室里十年十五年，最后满肚子词汇出来，却什么都不懂。"
+>
+> **考点提示**：
+>
+> > [!tip]- 考点提示
+> > 1. **省略 that 的宾语从句**：`thought schooling...put...` 中省略了引导宾语从句的 that，考研阅读中需能自动补全省略引导词识别从句边界。
+> > 2. **并列主语**：`schooling and rigorous book learning` 两个并列名词短语作宾语从句的主语，谓语用复数 `put`。
+> > 3. **冒号 + 直接引语**：冒号后直接引语对前文进行具体说明，考研阅读中常见冒号引导的解释/例证关系。
+> > 4. **引语内并列谓语省略主语**：`come out` 和 `do not know` 与 `are shut up` 共享主语 `We`，考研翻译中需补译省略的主语。
+
+Mark Twain's *Huckleberry Finn* exemplified American anti-intellectualism. Its hero avoids being civilized — going to school and learning to read — so he can preserve his innate goodness.
 
 **Intellect**, according to Hofstadter, is different from native intelligence, a quality we reluctantly admire. Intellect is the critical, creative, and contemplative side of the mind.
 
