@@ -61,7 +61,54 @@ Americans today don't place a very high value on **intellect**. Our heroes are a
 
 Symptoms of pervasive anti-intellectualism in our schools aren't difficult to find.
 
-"Schools have always been in a society where practical is more important than intellectual," says education writer Diane Ravitch. "Schools could be a **counterbalance**." Ravitch's latest book, *Left Back: A Century of Failed School Reforms*, traces the roots of anti-intellectualism in our schools, concluding they are anything but a counterbalance to the American distaste for intellectual pursuits.
+"Schools have always been in a society where practical is more important than intellectual," says education writer Diane Ravitch. "Schools could be a **counterbalance**." Ravitch's latest book, *Left Back: A Century of Failed School Reforms*, traces the roots of **anti-intellectualism** in our schools, concluding they are anything but a counterbalance to the American distaste for intellectual pursuits.
+
+> [!abstract]- 长难句分析
+> **原句**："Schools could be a **counterbalance**." Ravitch's latest book, *Left Back: A Century of Failed School Reforms*, traces the roots of anti-intellectualism in our schools, concluding they are anything but a counterbalance to the American distaste for intellectual pursuits.
+>
+> **主干提取**：
+>
+> 本句包含两个独立句子（直接引语 + 主句）：
+>
+> | 分句 | 主语 | 谓语/系动词 | 宾语/表语 |
+> |------|------|------------|----------|
+> | 引语 | Schools | could be | a counterbalance |
+> | 主句 | Ravitch's latest book | traces | the roots |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 同位语 | *Left Back: ...* (书名, 双逗号分隔) | 修饰 Ravitch's latest book |
+> | 介词短语 | of anti-intellectualism in our schools | 修饰 roots |
+> | 现在分词(结果状语) | concluding... | 修饰整个主句，表自然结果 |
+> | 宾语从句 | (concluding) they are anything but... | 作 concluding 的宾语 |
+> | 固定搭配 | anything but | 意为"根本不，远非" |
+> | 介词短语 | to the American distaste for intellectual pursuits | 修饰 counterbalance |
+>
+> **结构图解**：
+>
+> ```
+> 句子 1 (直接引语):
+>   [Schools] + [could be] + [a counterbalance]
+>
+> 句子 2 (主句):
+>   [Ravitch's latest book] + [traces] + [the roots]
+>     ├── 同位语: *Left Back...* → 修饰 [book]
+>     ├── 介短: (of anti-intellectualism in our schools) → 修饰 [roots]
+>     └── 非谓语(结果状): concluding...
+>           └── 宾从: [they] + [are anything but] + [a counterbalance]
+>                 └── 介短: (to the American distaste...) → 修饰 [counterbalance]
+> ```
+>
+> **参考译文**："学校本来可以成为一种抗衡力量。" 拉维奇的新书《落后：百年失败的教育改革》追溯了学校里反智主义的根源，结论是：学校远非美国人厌恶求知追求的制衡力量。
+>
+> **考点提示**：
+>
+> > [!tip]- 考点提示
+> > 1. **anything but**：固定搭配，意为"根本不、远非"，与 nothing but（仅仅）相对，考研完形和翻译高频考点。
+> > 2. **同位语插入**：书名 *Left Back: ...* 由双逗号分隔作同位语，考研阅读中此类插入结构常打断主谓连贯性，注意识别主干。
+> > 3. **现在分词作结果状语**：concluding... 表示主句动作的自然结果，逻辑主语为主句主语 Ravitch's latest book，考研翻译中常见此类分词结构。
 
 But they could and should be. Encouraging kids to reject the life of the mind leaves them vulnerable to exploitation and control. Without the ability to think critically, to defend their ideas and understand the ideas of others, they cannot fully participate in our democracy. Continuing along this path, says writer Earl Shorris, "We will become a second-rate country. We will have a less civil society."
 
