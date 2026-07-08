@@ -178,7 +178,7 @@ Continuing along this path, says writer Earl Shorris, "We will become a second-r
 >
 > | 类型 | 引导词/标记 | 修饰对象 |
 > |------|------------|----------|
-> | 现在分词短语(条件状语) | Continuing along this path | 修饰整个引述句 |
+> | 非谓语(现在分词，条件状语) | Continuing along this path | 修饰整个引述句 |
 > | 介词短语 | along this path | 修饰 Continuing |
 > | 倒装结构 | says + writer Earl Shorris (V + S) | 引语插入 |
 > | 直接引语(并列句) | "We will become... We will have..." | 作 says 的宾语 |
