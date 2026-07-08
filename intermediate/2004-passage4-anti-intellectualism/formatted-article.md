@@ -394,7 +394,63 @@ Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling a
 > > 3. **冒号 + 直接引语**：冒号后直接引语对前文进行具体说明，考研阅读中常见冒号引导的解释/例证关系。
 > > 4. **引语内并列谓语省略主语**：`come out` 和 `do not know` 与 `are shut up` 共享主语 `We`，考研翻译中需补译省略的主语。
 
-Mark Twain's *Huckleberry Finn* exemplified American anti-intellectualism. Its hero avoids being civilized — going to school and learning to read — so he can preserve his innate goodness.
+Mark Twain's *Huckleberry Finn* exemplified American anti-intellectualism. Its hero avoids being civilized — going to school and learning to read — so he can preserve his **innate** goodness.
+
+> [!abstract]- 长难句分析
+> **原句**：Mark Twain's *Huckleberry Finn* exemplified American anti-intellectualism. Its hero avoids being civilized — going to school and learning to read — so he can preserve his innate goodness.
+>
+> **主干提取**：
+>
+> **句子 1**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | Mark Twain's *Huckleberry Finn* |
+> | V (谓语) | exemplified |
+> | O (宾语) | American anti-intellectualism |
+>
+> **句子 2**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | Its hero |
+> | V (谓语) | avoids |
+> | O (宾语) | being civilized (动名词短语) |
+> | — | 破折号插入: going to school and learning to read |
+> | 目的状语从句 | so he can preserve his innate goodness |
+>
+> **简化主干**：S1: Huckleberry Finn exemplified anti-intellectualism. S2: Its hero avoids being civilized so he can preserve his goodness.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 破折号插入语 | — going to school and learning to read — | 解释 being civilized 的具体内涵 |
+> | 目的状语从句 | so he can preserve his innate goodness | 修饰 avoids，表目的 |
+>
+> **结构图解**：
+>
+> ```
+> 句子 1:
+> [Mark Twain's *Huckleberry Finn*] + [exemplified] + [American anti-intellectualism]
+>
+> 句子 2:
+> [Its hero] + [avoids] + [being civilized]
+>   ├── 破折号插入: — going to school and learning to read —
+>   │     ├── 动名词: going to school
+>   │     └── and 动名词: learning to read
+>   └── 目的状从: [so] + [he] + [can preserve] + [his innate goodness]
+> ```
+>
+> **参考译文**：马克·吐温的《哈克贝利·费恩历险记》体现了美国的反智主义。主人公逃避文明化——即上学和读书识字——以保存他与生俱来的纯真。
+>
+> **考点提示**：
+>
+> > [!tip]- 考点提示
+> > 1. **动名词作宾语**：`avoids being civilized` — being civilized 为动名词短语作 avoids 的宾语，avoid + V-ing 是固定用法。
+> > 2. **破折号插入语的解释功能**：`— going to school and learning to read —` 用于具体解释 being civilized 的内涵，考研阅读中破折号常引导补充说明。
+> > 3. **so 引导目的状语从句**：`so he can preserve...` = so that 省略 that，考研翻译中注意表"以便"含义。
+> > 4. **文学实例论证功能**：该句以《哈克贝利·费恩》为例证美国反智主义传统，考研阅读常考"例子-论点"关系。
 
 **Intellect**, according to Hofstadter, is different from native intelligence, a quality we reluctantly admire. Intellect is the critical, creative, and contemplative side of the mind.
 
