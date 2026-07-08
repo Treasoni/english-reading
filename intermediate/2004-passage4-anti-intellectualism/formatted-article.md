@@ -160,6 +160,50 @@ But they could and should be. Encouraging kids to reject the life of the mind le
 
 Continuing along this path, says writer Earl Shorris, "We will become a second-rate country. We will have a less civil society."
 
+> [!abstract]- 长难句分析
+> **原句**：Continuing along this path, says writer Earl Shorris, "We will become a second-rate country. We will have a less civil society."
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | writer Earl Shorris |
+> | V (谓语) | says |
+> | O (宾语) | "We will become... We will have..." |
+> | A (条件状语) | Continuing along this path |
+>
+> **简化主干**：says writer Earl Shorris + 直接引语
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 现在分词短语(条件状语) | Continuing along this path | 修饰整个引述句 |
+> | 介词短语 | along this path | 修饰 Continuing |
+> | 倒装结构 | says + writer Earl Shorris (V + S) | 引语插入 |
+> | 直接引语(并列句) | "We will become... We will have..." | 作 says 的宾语 |
+>
+> **结构图解**：
+>
+> ```
+> 条件状: [Continuing] + [along this path]
+>   └── 介短: (along this path) → 修饰 [Continuing]
+>
+> 引述句: [says] + [writer Earl Shorris]   (倒装: V + S)
+>   └── 直接引语:
+>         ├── 分句 1: [We] + [will become] + [a second-rate country]
+>         └── 分句 2: [We] + [will have] + [a less civil society]
+> ```
+>
+> **参考译文**：沿着这条路走下去，作家厄尔·肖里斯说："我们将沦为二流国家。我们的社会将变得不那么文明。"
+>
+> **考点提示**：
+>
+> > [!tip]- 考点提示
+> > 1. **现在分词短语作条件状语**：Continuing... 置于句首相当于条件状语从句 If we continue...，分词逻辑主语与主句主语一致。
+> > 2. **引述句倒装**：says + writer Earl Shorris 为主谓倒装，常见于引语插入，需快速识别说话人。
+> > 3. **直接引语中并列递进**：引号内两个独立分句，逻辑递进（先国家后社会）。
+
 "Intellect is resented as a form of power or privilege," writes historian and professor Richard Hofstadter in *Anti-Intellectualism in American Life*, a Pulitzer Prize winning book on the roots of anti-intellectualism in US politics, religion, and education. From the beginning of our history, says Hofstadter, our democratic and populist urges have driven us to reject anything that smells of elitism. Practicality, common sense, and native intelligence have been considered more noble qualities than anything you could learn from a book.
 
 Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and rigorous book learning put unnatural restraints on children: "We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing." Mark Twain's *Huckleberry Finn* exemplified American anti-intellectualism. Its hero avoids being civilized — going to school and learning to read — so he can preserve his innate goodness.
