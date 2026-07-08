@@ -208,7 +208,63 @@ Continuing along this path, says writer Earl Shorris, "We will become a second-r
 
 Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and rigorous book learning put unnatural restraints on children: "We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing." Mark Twain's *Huckleberry Finn* exemplified American anti-intellectualism. Its hero avoids being civilized — going to school and learning to read — so he can preserve his innate goodness.
 
-**Intellect**, according to Hofstadter, is different from native intelligence, a quality we reluctantly admire. Intellect is the critical, creative, and contemplative side of the mind. Intelligence seeks to grasp, manipulate, re-order, and adjust, while intellect examines, ponders, wonders, theorizes, criticizes and imagines.
+**Intellect**, according to Hofstadter, is different from native intelligence, a quality we reluctantly admire. Intellect is the critical, creative, and contemplative side of the mind.
+
+> [!abstract]- 长难句分析
+> **原句**：**Intellect**, according to Hofstadter, is different from native intelligence, a quality we reluctantly admire. Intellect is the critical, creative, and contemplative side of the mind.
+>
+> **主干提取**：
+>
+> 句子 1：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | Intellect |
+> | V (系动词) | is |
+> | C (表语) | different from native intelligence |
+>
+> 句子 2：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | Intellect |
+> | V (系动词) | is |
+> | C (表语) | the critical, creative, and contemplative side of the mind |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 插入语 | according to Hofstadter | 修饰句子 1 主句，表观点来源 |
+> | 同位语 | a quality we reluctantly admire | 修饰句子 1 中的 native intelligence |
+> | 定语从句(省略 that) | (that) we reluctantly admire | 修饰 quality |
+> | 并列形容词(定语) | critical, creative, and contemplative | 修饰句子 2 中的 side |
+> | 介词短语 | of the mind | 修饰句子 2 中的 side |
+>
+> **结构图解**：
+>
+> ```
+> 句子 1:
+> [Intellect] + [is] + [different from native intelligence]
+>   ├── 插入语: (according to Hofstadter) → 观点来源
+>   └── 同位语: [a quality]
+>         └── 定从(省that): [we] + [reluctantly admire] → 修饰 [quality]
+>
+> 句子 2:
+> [Intellect] + [is] + [the side of the mind]
+>   └── 并列定语: critical, creative, and contemplative → 修饰 [side]
+> ```
+>
+> **参考译文**：霍夫斯塔特认为，理智不同于天生智力——一种我们并不情愿赞赏的品质。理智是头脑中批判性、创造性和沉思性的一面。
+>
+> **考点提示**：
+>
+> > [!tip]- 考点提示
+> > 1. **插入语分隔主谓**：`according to Hofstadter` 以双逗号插入，打断 Intellect 与 is 的连贯性，考研阅读中需学会跳读插入语提取主干。
+> > 2. **同位语 + 省略 that 定语从句**：`a quality we reluctantly admire` — 名词短语作同位语，内含省略 that 的定语从句。
+> > 3. **三重并列形容词前置定语**：`critical, creative, and contemplative` 并列修饰 side，考研阅读中常见多定语前置结构。
+
+Intelligence seeks to grasp, manipulate, re-order, and adjust, while intellect examines, ponders, wonders, theorizes, criticizes and imagines.
 
 School remains a place where intellect is mistrusted. Hofstadter says our country's educational system is in the grips of people who "joyfully and militantly proclaim their hostility to intellect and their eagerness to identify with children who show the least intellectual promise."
 
