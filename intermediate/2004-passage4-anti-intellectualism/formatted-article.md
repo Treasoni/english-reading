@@ -110,7 +110,55 @@ Symptoms of pervasive anti-intellectualism in our schools aren't difficult to fi
 > > 2. **同位语插入**：书名 *Left Back: ...* 由双逗号分隔作同位语，考研阅读中此类插入结构常打断主谓连贯性，注意识别主干。
 > > 3. **现在分词作结果状语**：concluding... 表示主句动作的自然结果，逻辑主语为主句主语 Ravitch's latest book，考研翻译中常见此类分词结构。
 
-But they could and should be. Encouraging kids to reject the life of the mind leaves them vulnerable to exploitation and control. Without the ability to think critically, to defend their ideas and understand the ideas of others, they cannot fully participate in our democracy. Continuing along this path, says writer Earl Shorris, "We will become a second-rate country. We will have a less civil society."
+But they could and should be. Encouraging kids to reject the life of the mind leaves them vulnerable to exploitation and control. Without the ability to think critically, to defend their ideas and understand the ideas of others, they cannot fully participate in our democracy.
+
+> [!abstract]- 长难句分析
+> **原句**：Without the ability to think critically, to defend their ideas and understand the ideas of others, they cannot fully participate in our democracy
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | they |
+> | V (谓语) | cannot participate |
+> | A (地点状语) | in our democracy |
+> | A (副词) | fully (修饰 cannot participate) |
+>
+> **简化主干**：they cannot fully participate in our democracy
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 |
+> |------|------------|----------|
+> | 介词短语(条件状语) | Without the ability... | 修饰整个主句，表条件 |
+> | 不定式(定语) | to think critically | 修饰 ability |
+> | 不定式(定语) | to defend their ideas | 修饰 ability，与 to think 并列 |
+> | 不定式(定语) | ([to] understand...) | 修饰 ability，与 to defend 并列(to 省略) |
+> | 介词短语 | of others | 修饰 ideas |
+>
+> **结构图解**：
+>
+> ```
+> 条件状: [Without] + [the ability]
+>   ├── 不定式(定): (to think critically) → 修饰 [ability]
+>   ├── 不定式(定): (to defend their ideas) → 修饰 [ability]
+>   └── 不定式(定): ([to] understand the ideas of others) → 修饰 [ability], 与 to defend 并列
+>         └── 介短: (of others) → 修饰 [ideas]
+>
+> 主句: [they] + [cannot participate] + [in our democracy]
+>   └── 副词: fully → 修饰 [cannot participate]
+> ```
+>
+> **参考译文**：如果没有批判性思考的能力，没有能力捍卫自己的观点和理解他人的想法，他们就无法充分参与我们的民主生活。
+>
+> **考点提示**：
+>
+> > [!tip]- 考点提示
+> > 1. **Without 介词短语作条件状语**：置于句首表"如果没有……"，相当于条件状语从句的省略形式（= If they don't have...），考研翻译中常考此类介词短语的状语功能。
+> > 2. **并列不定式的 to 省略**：`to think, to defend and [to] understand` — 三个不定式并列作定语修饰 ability，第三个省略 to，需正确识别并列关系。
+> > 3. **抽象名词 + 不定式作定语**：the ability + to do sth，考研写作中推荐句式。
+
+Continuing along this path, says writer Earl Shorris, "We will become a second-rate country. We will have a less civil society."
 
 "Intellect is resented as a form of power or privilege," writes historian and professor Richard Hofstadter in *Anti-Intellectualism in American Life*, a Pulitzer Prize winning book on the roots of anti-intellectualism in US politics, religion, and education. From the beginning of our history, says Hofstadter, our democratic and populist urges have driven us to reject anything that smells of elitism. Practicality, common sense, and native intelligence have been considered more noble qualities than anything you could learn from a book.
 
