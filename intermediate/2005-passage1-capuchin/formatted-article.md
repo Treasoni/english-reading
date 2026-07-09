@@ -126,7 +126,48 @@ Everybody loves a **fat pay rise**. Yet pleasure at your own can **vanish** if y
 > > 2. **多层介词短语嵌套**：`by → of → in` 逐层修饰，是考研阅读中典型的"长修饰"结构——需从后往前逆向拆解。
 > > 3. **分隔结构**：非限制性定语从句插在主语 `study` 和谓语 `suggests` 之间，造成主谓分隔。考生需跳过插入成分找到主谓关系。
 
-The researchers studied the behaviour of female brown **capuchin** monkeys. They look cute. They are **good-natured, co-operative** creatures, and they share their food readily. Above all, like their female human counterparts, they tend to pay much closer attention to the value of "goods and services" than males.
+The researchers studied the behaviour of female brown **capuchin** monkeys. They look cute. They are **good-natured, co-operative** creatures, and they share their food readily. Above all, like their female human **counterparts**, they tend to pay much closer attention to the value of "goods and services" than males.
+
+> [!abstract]- 长难句分析
+> **原句**：Above all, like their female human counterparts, they tend to pay much closer attention to the value of "goods and services" than males.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | they |
+> | V (谓语) | tend to pay |
+> | O (宾语) | much closer attention |
+> | A (方向状语) | to the value of "goods and services" |
+> | A (比较状语) | than males |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标志 | 修饰对象 | 说明 |
+> |------|-------------|----------|------|
+> | 连接性状语 | Above all | 整个主句 | 段落逻辑推进，递进关系 |
+> | 介词短语(类比) | like | 整个主句 | 与人类女性类比，like + 名词短语作状语 |
+> | 介词短语(方向) | to | attention | 固定搭配 pay attention to，说明注意力的指向 |
+> | 介词短语(所属) | of | value | 限定"商品和服务"的价值 |
+> | 比较状语(省略) | than | 整个谓语 | 比较级结构，than males 后省略 do |
+>
+> **结构图解**：
+> ```
+> 主句: [Above all,] (like...), they tend to pay much closer attention (to ...) than males
+>   ├── 连接性状语: Above all → 递进逻辑
+>   ├── 介短(类比): like their female human counterparts → 类比说明
+>   ├── 介短(方向): to the value (of "goods and services") → 修饰 attention
+>   │     └── 介短(所属): of "goods and services" → 修饰 value
+>   └── 比较状语(省略): than males → 比较结构
+> ```
+>
+> **参考译文**：最重要的是，与人类女性一样，它们往往比雄性更关注"商品和服务"的价值。
+>
+> **考点提示**：
+> > [!tip]- 考研语法考点
+> > 1. **比较结构省略**：`than males` 后省略了 `do`（完整为 `than males pay attention to...`）。考研阅读常考省略后的比较对象识别——需明确谁和谁在比较。
+> > 2. **like vs as 区分**：`like` 是介词，后接名词短语作类比状语（"像……一样"）；`as` 可作连词引导从句或作介词表示"作为"。考研语法常考二者的区别。
+> > 3. **连接性状语 Above all**：表示"最重要的是"，是递进关系的标志词，常出现在段落层层推进的关键节点。考研阅读中用于把握段落逻辑结构。
 
 Such characteristics make them perfect candidates for Dr. Brosnan's and Dr. de Waal's study. The researchers spent two years teaching their monkeys to exchange **tokens** for food. Normally, the monkeys were happy enough to exchange pieces of rock for slices of cucumber. However, when two monkeys were placed in separate but adjoining chambers, so that each could observe what the other was getting in return for its rock, their behaviour became markedly different.
 
