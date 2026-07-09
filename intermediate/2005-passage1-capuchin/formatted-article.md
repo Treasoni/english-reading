@@ -50,6 +50,42 @@ Everybody loves a **fat pay rise**. Yet pleasure at your own can **vanish** if y
 > > 2. **被动语态**：`has been given` 为现在完成时被动语态，注意 `a colleague` 是动作承受者。
 > > 3. **比较替代**：`a bigger one` 中的 `one` 替代前文的 `pay rise`，是考研英语中常见的替代手段。
 
+> [!abstract]- 长难句分析
+> **原句**：Such behaviour is regarded as "all too human", with the underlying assumption that other animals would not be capable of this finely developed sense of grievance.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | Such behaviour |
+> | V (谓语) | is regarded |
+> | C (主语补足语) | as "all too human" |
+> | A (伴随状语) | with the underlying assumption that other animals would not be capable of this finely developed sense of grievance |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|----------|------|
+> | 介词短语 | as | is regarded | 固定搭配 be regarded as...，引出主语补足语 |
+> | 介词短语(伴随) | with | 整个主句 | with + 名词 + 同位语从句，伴随说明"潜在假设" |
+> | 同位语从句 | that | assumption | 说明 assumption 的具体内容，that 在从句中不作成分 |
+>
+> **结构图解**：
+> ```
+> 主句: Such behaviour is regarded as "all too human"
+>   └── 介短(伴随): with the underlying assumption
+>         └── 同位从句: that other animals would not be capable of this finely developed sense of grievance → 修饰 assumption
+> ```
+>
+> **参考译文**：这种行为被认为是"人之常情"，其潜在假设是其他动物不会有这种高度发达的不满意识。
+>
+> **考点提示**：
+> > [!tip]- 考研语法考点
+> > 1. **同位语从句 vs 定语从句**：`that` 从句修饰抽象名词 `assumption`。同位语从句中 `that` 不作成分（不能替换为 `which`）；而定语从句中 `that/which` 要充当主语/宾语。考研阅读中常用此结构展开观点。
+> > 2. **with 伴随结构**：`with + 名词 + 同位语从句` 作伴随状语，补充说明主句的背景信息，是考研长难句中的高频结构。
+> > 3. **be regarded as 固定搭配**：被动语态中 `as` 引出主语补足语，译为"被认为是/被视为"。
+> > 4. **否定句的识别**：`would not be capable of` 为单重否定结构（`not` 否定 `be capable of`），译为"不会/不具有……的能力"。注意区分单重否定与双重否定（如 `not ... without`）。
+
 The researchers studied the behaviour of female brown **capuchin** monkeys. They look cute. They are **good-natured, co-operative** creatures, and they share their food readily. Above all, like their female human counterparts, they tend to pay much closer attention to the value of "goods and services" than males.
 
 Such characteristics make them perfect candidates for Dr. Brosnan's and Dr. de Waal's study. The researchers spent two years teaching their monkeys to exchange **tokens** for food. Normally, the monkeys were happy enough to exchange pieces of rock for slices of cucumber. However, when two monkeys were placed in separate but adjoining chambers, so that each could observe what the other was getting in return for its rock, their behaviour became markedly different.
