@@ -171,6 +171,44 @@ The researchers studied the behaviour of female brown **capuchin** monkeys. They
 
 Such characteristics make them perfect candidates for Dr. Brosnan's and Dr. de Waal's study. The researchers spent two years teaching their monkeys to exchange **tokens** for food. Normally, the monkeys were happy enough to exchange pieces of rock for slices of cucumber. However, when two monkeys were placed in separate but adjoining chambers, so that each could observe what the other was getting in return for its rock, their behaviour became markedly different.
 
+> [!abstract]- 长难句分析
+> **原句**：However, when two monkeys were placed in separate but adjoining chambers, so that each could observe what the other was getting in return for its rock, their behaviour became markedly different.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | their behaviour |
+> | V (谓语) | became |
+> | C (主语补足语) | markedly different |
+> | A (时间状语从句) | when two monkeys were placed in separate but adjoining chambers, so that each could observe what the other was getting in return for its rock |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|----------|------|
+> | 连接性状语 | However | 整个主句 | 转折逻辑，与前文"通常情况"对比 |
+> | 时间状语从句 | when | 主句 became | 设定行为变化发生的时间条件 |
+> | 目的状语从句 | so that | when 从句 | 说明猴舍分隔及相邻安排的目的 |
+> | 宾语从句 | what | observe | 充当 observe 的宾语，what = the thing that |
+> | 介词短语 | in return for | getting | 说明猴子"用石块换回什么" |
+>
+> **结构图解**：
+> ```
+> 主句: [However,] their behaviour became markedly different
+>   └── 状从(时间): when two monkeys were placed in separate but adjoining chambers
+>         └── 状从(目的): so that each could observe (what the other was getting in return for its rock)
+>               └── 名从(宾语): what the other was getting in return for its rock → observe 的宾语
+> ```
+>
+> **参考译文**：然而，当两只猴子被放置在分开但相邻的隔间中，以便每只都能观察到对方用石块换到了什么时，它们的行为变得明显不同。
+>
+> **考点提示**：
+> > [!tip]- 考研语法考点
+> > 1. **so that 目的状语从句 vs 结果状语从句**：本句中 `so that` 从句含情态动词 `could`，表目的（"以便……"）。考研常见考点：目的状语从句有情态动词，结果状语从句无此特征。
+> > 2. **时间状语从句中的被动语态**：`were placed`，注意主语 `monkeys` 是动作承受者，需与被动态的主谓一致。
+> > 3. **what 引导的名词性从句**：`what the other was getting` = `the thing that the other was getting`，在从句中作 `observe` 的宾语。`what` 引导的名词从句在考研阅读中高频出现。
+
 In the world of capuchins, grapes are **luxury goods** (and much preferable to cucumbers). So when one monkey was handed a grape in exchange for her token, the second was **reluctant** to hand hers over for a mere piece of cucumber. And if one received a grape without having to provide her token in exchange at all, the other either tossed her own token at the researcher or out of the chamber, or refused to accept the slice of cucumber. Indeed, the mere presence of a grape in the other chamber (without an actual monkey to eat it) was enough to induce **resentment** in a female capuchin.
 
 The researchers suggest that capuchin monkeys, like humans, are guided by **social emotions**. In the wild, they are a co-operative, group-living species. Such co-operation is likely to be stable only when each animal feels it is not being cheated. Feelings of **righteous indignation**, it seems, are not the preserve of people alone. Refusing a lesser reward completely makes these feelings abundantly clear to other members of the group. However, whether such a **sense of fairness** evolved independently in capuchins and humans, or whether it stems from the common ancestor that the species had 35 million years ago, is, as yet, an unanswered question.
