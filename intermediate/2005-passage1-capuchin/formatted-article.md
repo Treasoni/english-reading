@@ -13,7 +13,7 @@ sources:
 
 # Fairness in Capuchin Monkeys
 
-Everybody loves a **fat pay rise**. Yet pleasure at your own can **vanish** if you learn that a colleague has been given a bigger one. Indeed, if he has a reputation for slacking, you might even be **outraged**. Such behaviour is regarded as "all too human", with the underlying assumption that other animals would not be capable of this finely developed sense of **grievance**. But a study by Sarah Brosnan and Frans de Waal of Emory University in Atlanta, Georgia, which has just been published in *Nature*, suggests that it is all too monkey, as well.
+Everybody loves a **fat pay rise**. Yet pleasure at your own can **vanish** if you learn that a colleague has been given a bigger one. Indeed, if he has a reputation for **slacking**, you might even be **outraged**. Such behaviour is regarded as "all too human", with the underlying assumption that other animals would not be capable of this finely developed sense of **grievance**. But a study by Sarah Brosnan and Frans de Waal of Emory University in Atlanta, Georgia, which has just been published in *Nature*, suggests that it is all too monkey, as well.
 
 > [!abstract]- 长难句分析
 > **原句**：Yet pleasure at your own can vanish if you learn that a colleague has been given a bigger one.
