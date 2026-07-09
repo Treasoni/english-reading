@@ -86,6 +86,46 @@ Everybody loves a **fat pay rise**. Yet pleasure at your own can **vanish** if y
 > > 3. **be regarded as 固定搭配**：被动语态中 `as` 引出主语补足语，译为"被认为是/被视为"。
 > > 4. **否定句的识别**：`would not be capable of` 为单重否定结构（`not` 否定 `be capable of`），译为"不会/不具有……的能力"。注意区分单重否定与双重否定（如 `not ... without`）。
 
+> [!abstract]- 长难句分析
+> **原句**：But a study by Sarah Brosnan and Frans de Waal of Emory University in Atlanta, Georgia, which has just been published in *Nature*, suggests that it is all too monkey, as well.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | a study (by Sarah Brosnan and Frans de Waal of Emory University in Atlanta, Georgia) |
+> | V (谓语) | suggests |
+> | O (宾语) | that it is all too monkey |
+> | A (状语) | as well |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|----------|------|
+> | 介词短语 | by | study | 说明研究的作者，by 引导多层嵌套修饰 |
+> | 介词短语 | of | de Waal | 限定所属机构 |
+> | 介词短语 | in | Emory University | 限定大学所在地 |
+> | 非限制性定语从句 | which | study | 补充说明研究的发表信息，which 在从句中作主语 |
+> | 宾语从句 | that | suggests | 充当 suggests 的宾语 |
+>
+> **结构图解**：
+> ```
+> 主句: [But] a study ... suggests (that it is all too monkey, as well)
+>   ├── 介短: by Sarah Brosnan and Frans de Waal (of Emory University (in Atlanta, Georgia))
+>   │     └── 介短(嵌套): of Emory University → 修饰 de Waal
+>   │           └── 介短(嵌套): in Atlanta, Georgia → 修饰 Emory University
+>   ├── 定从(非限): which has just been published in Nature → 修饰 study (插入分隔)
+>   └── 名从(宾语): that it is all too monkey → suggests 的宾语
+> ```
+>
+> **参考译文**：但是，由佐治亚州亚特兰大埃默里大学的 Sarah Brosnan 和 Frans de Waal 进行的一项研究——刚刚发表在《自然》杂志上——表明，这也是"猴之常情"。
+>
+> **考点提示**：
+> > [!tip]- 考研语法考点
+> > 1. **非限制性定语从句**：`which` 引导的非限制性定语从句用逗号与先行词隔开，对 `study` 作补充说明。翻译可拆分为独立句或使用破折号插入。
+> > 2. **多层介词短语嵌套**：`by → of → in` 逐层修饰，是考研阅读中典型的"长修饰"结构——需从后往前逆向拆解。
+> > 3. **分隔结构**：非限制性定语从句插在主语 `study` 和谓语 `suggests` 之间，造成主谓分隔。考生需跳过插入成分找到主谓关系。
+
 The researchers studied the behaviour of female brown **capuchin** monkeys. They look cute. They are **good-natured, co-operative** creatures, and they share their food readily. Above all, like their female human counterparts, they tend to pay much closer attention to the value of "goods and services" than males.
 
 Such characteristics make them perfect candidates for Dr. Brosnan's and Dr. de Waal's study. The researchers spent two years teaching their monkeys to exchange **tokens** for food. Normally, the monkeys were happy enough to exchange pieces of rock for slices of cucumber. However, when two monkeys were placed in separate but adjoining chambers, so that each could observe what the other was getting in return for its rock, their behaviour became markedly different.
