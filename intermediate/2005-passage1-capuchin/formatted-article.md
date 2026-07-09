@@ -169,7 +169,7 @@ The researchers studied the behaviour of female brown **capuchin** monkeys. They
 > > 2. **like vs as 区分**：`like` 是介词，后接名词短语作类比状语（"像……一样"）；`as` 可作连词引导从句或作介词表示"作为"。考研语法常考二者的区别。
 > > 3. **连接性状语 Above all**：表示"最重要的是"，是递进关系的标志词，常出现在段落层层推进的关键节点。考研阅读中用于把握段落逻辑结构。
 
-Such characteristics make them perfect candidates for Dr. Brosnan's and Dr. de Waal's study. The researchers spent two years teaching their monkeys to exchange **tokens** for food. Normally, the monkeys were happy enough to exchange pieces of rock for slices of cucumber. However, when two monkeys were placed in separate but adjoining chambers, so that each could observe what the other was getting in return for its rock, their behaviour became markedly different.
+Such characteristics make them perfect candidates for Dr. Brosnan's and Dr. de Waal's study. The researchers spent two years teaching their monkeys to exchange **tokens** for food. Normally, the monkeys were happy enough to exchange pieces of rock for slices of cucumber. However, when two monkeys were placed in separate but **adjoining** **chambers**, so that each could observe what the other was getting in return for its rock, their behaviour became markedly different.
 
 > [!abstract]- 长难句分析
 > **原句**：However, when two monkeys were placed in separate but adjoining chambers, so that each could observe what the other was getting in return for its rock, their behaviour became markedly different.
