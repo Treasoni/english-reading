@@ -211,6 +211,47 @@ Such characteristics make them perfect candidates for Dr. Brosnan's and Dr. de W
 
 In the world of capuchins, grapes are **luxury goods** (and much preferable to cucumbers). So when one monkey was handed a grape in exchange for her token, the second was **reluctant** to hand hers over for a mere piece of cucumber. And if one received a grape without having to provide her token in exchange at all, the other either tossed her own token at the researcher or out of the chamber, or refused to accept the slice of cucumber. Indeed, the mere presence of a grape in the other chamber (without an actual monkey to eat it) was enough to induce **resentment** in a female capuchin.
 
+> [!abstract]- 长难句分析
+> **原句**：So when one monkey was handed a grape in exchange for her token, the second was reluctant to hand hers over for a mere piece of cucumber.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | the second |
+> | V (谓语) | was |
+> | C (表语) | reluctant |
+> | A (不定式补足语) | to hand hers over for a mere piece of cucumber |
+> | A (时间状语从句) | when one monkey was handed a grape in exchange for her token |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|----------|------|
+> | 连接性状语 | So | 整个主句 | 因果逻辑，引出上文观察结果的结论 |
+> | 时间状语从句 | when | 主句 was reluctant | 设定前提条件，说明第一种实验场景 |
+> | 介词短语 | in exchange for | was handed | 说明猴子获取葡萄的方式——用代币交换 |
+> | 不定式短语(补足) | to | reluctant | 说明 reluctant 所不愿做出的具体行为 |
+> | 介词短语 | for | hand over | 说明交换的标的物——区区一片黄瓜 |
+>
+> **结构图解**：
+> ```
+> 主句: [So] (when...), the second was reluctant (to hand hers over for...)
+>   ├── 连接性状语: So → 因果逻辑
+>   ├── 状从(时间): when one monkey was handed a grape (in exchange for her token)
+>   │     └── 介短: in exchange for her token → 修饰 was handed
+>   └── 不定式短语(补足): to hand hers over (for a mere piece of cucumber)
+>         └── 介短: for a mere piece of cucumber → 修饰 hand over
+> ```
+>
+> **参考译文**：所以当一只猴子用代币换到一颗葡萄时，另一只就不愿意为了区区一片黄瓜而交出她的代币。
+>
+> **考点提示**：
+> > [!tip]- 考研语法考点
+> > 1. **被动语态的双宾语结构**：`was handed a grape` 由主动结构 `hand sb sth` 变来——间接宾语 `one monkey` 变主语，直接宾语 `a grape` 保留为宾语。考研翻译中注意识别保留的宾语。
+> > 2. **形容词补足语 (to do)**：`reluctant to hand over`，不定式说明形容词所表达情感的具体指向，是考研阅读中说明态度/情绪的常见结构。
+> > 3. **省略**：`the second` 后省略 `monkey`，用序数词指代前文已出现的可数名词，考研阅读中常见的指代手段。
+
 The researchers suggest that capuchin monkeys, like humans, are guided by **social emotions**. In the wild, they are a co-operative, group-living species. Such co-operation is likely to be stable only when each animal feels it is not being cheated. Feelings of **righteous indignation**, it seems, are not the preserve of people alone. Refusing a lesser reward completely makes these feelings abundantly clear to other members of the group. However, whether such a **sense of fairness** evolved independently in capuchins and humans, or whether it stems from the common ancestor that the species had 35 million years ago, is, as yet, an unanswered question.
 
 ## 练习题
