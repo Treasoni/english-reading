@@ -252,6 +252,56 @@ In the world of capuchins, grapes are **luxury goods** (and much preferable to c
 > > 2. **形容词补足语 (to do)**：`reluctant to hand over`，不定式说明形容词所表达情感的具体指向，是考研阅读中说明态度/情绪的常见结构。
 > > 3. **省略**：`the second` 后省略 `monkey`，用序数词指代前文已出现的可数名词，考研阅读中常见的指代手段。
 
+> [!abstract]- 长难句分析
+> **原句**：And if one received a grape without having to provide her token in exchange at all, the other either tossed her own token at the researcher or out of the chamber, or refused to accept the slice of cucumber.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | the other |
+> | V1 (谓语1) | tossed |
+> | O1 (宾语1) | her own token |
+> | A1 (地点状语) | at the researcher or out of the chamber (并列) |
+> | V2 (谓语2) | refused |
+> | O2 (宾语2) | to accept the slice of cucumber |
+> | A (条件状语从句) | if one received a grape without having to provide her token in exchange at all |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|----------|------|
+> | 连接词 | And | 整个主句 | 并列衔接，与上一实验场景（葡萄换黄瓜）并列 |
+> | 条件状语从句 | if | 主句 tossed / refused | 设定前提——不劳而获的第一种情况 |
+> | 介词短语(否定伴随) | without | received | 说明获取方式——"无需提供代币" |
+> | 动名词短语 | having to provide...at all | without 的宾语 | 作 without 的介词宾语 |
+> | 介词短语 | in exchange | provide | 说明提供代币的目的——用于交换 |
+> | 介词短语 | at the researcher | tossed | 扔向研究人员 |
+> | 介词短语 | out of the chamber | tossed | 扔出隔间（与 at 并列） |
+> | 不定式短语(宾语) | to accept | refused | 充当 refused 的宾语 |
+>
+> **结构图解**：
+> ```
+> 主句: [And] (if...), the other either tossed ... or refused ...
+>   ├── 连接词: And → 并列衔接
+>   ├── 状从(条件): if one received a grape (without having to provide her token in exchange at all)
+>   │     └── 介短(否定伴随): without having to provide her token in exchange at all → 修饰 received
+>   │           └── 动名词: having to provide her token in exchange at all → without 的宾语
+>   └── 并列谓语:
+>         ├── [either] tossed her own token (at the researcher) or (out of the chamber)
+>         └── [or] refused (to accept the slice of cucumber)
+>               └── 不定式(宾语): to accept the slice of cucumber → refused 的宾语
+> ```
+>
+> **参考译文**：如果一只猴子完全不用交出代币就得到了葡萄，另一只要么把自己的代币扔向研究人员或扔出隔间，要么拒绝接受那片黄瓜。
+>
+> **考点提示**：
+> > [!tip]- 考研语法考点
+> > 1. **并列谓语 either...or...**：同一主语 `the other` 的两个并列谓语 `tossed` 和 `refused`，由 `either...or...` 连接。考研阅读中识别并列结构有助于跨越复杂状语快速定位主句。
+> > 2. **without + 动名词**：`without having to provide...at all`，介词后接动名词短语作宾语，表示"完全无需……"。否定介词结构在考研阅读中常表示条件/方式的对比。
+> > 3. **at all 强调否定**：与 `without` 搭配强化否定语气（"完全不用/根本不"），考研阅读中用于加强感情色彩和语气。
+> > 4. **条件状语从句嵌套复杂介词结构**：`if` 从句中包含 `without + 动名词 + in exchange` 三层结构，需逐层拆解。
+
 The researchers suggest that capuchin monkeys, like humans, are guided by **social emotions**. In the wild, they are a co-operative, group-living species. Such co-operation is likely to be stable only when each animal feels it is not being cheated. Feelings of **righteous indignation**, it seems, are not the preserve of people alone. Refusing a lesser reward completely makes these feelings abundantly clear to other members of the group. However, whether such a **sense of fairness** evolved independently in capuchins and humans, or whether it stems from the common ancestor that the species had 35 million years ago, is, as yet, an unanswered question.
 
 ## 练习题
