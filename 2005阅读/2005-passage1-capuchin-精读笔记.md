@@ -521,7 +521,114 @@ The researchers suggest that capuchin monkeys, like humans, are guided by **soci
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **adjoining chambers** | n. | 相邻的隔间 | when two monkeys were placed in separate but **adjoining chambers** |
+| **capuchin** | n. | 卷尾猴 | The researchers studied the behaviour of female brown **capuchin** monkeys. |
+| **come from** | v. | 来自（基础表达） | (通用表达) |
+| **co-operative** | adj. | 合作的；乐于合作的 | They are good-natured, **co-operative** creatures. |
+| **counterparts** | n. | 对应的人/物 | like their female human **counterparts** |
+| **fat pay rise** | n. | 大幅加薪 | Everybody loves a **fat pay rise**. |
+| **good-natured** | adj. | 性情温和的 | They are **good-natured**, co-operative creatures. |
+| **grievance** | n. | 不满；委屈 | this finely developed sense of **grievance** |
+| **luxury goods** | n. | 奢侈品 | grapes are **luxury goods** (and much preferable to cucumbers) |
+| **originate from** | v. | 起源于 | (正式用词，强调起源地/起源时间) |
+| **outraged** | adj. | 愤慨的；震怒的 | you might even be **outraged** |
+| **reluctant** | adj. | 不情愿的；勉强的 | the second was **reluctant** to hand hers over |
+| **resentment** | n. | 怨恨；不满 | enough to induce **resentment** in a female capuchin |
+| **righteous indignation** | n. | 义愤；正义的愤怒 | Feelings of **righteous indignation**, it seems, are not the preserve of people alone. |
+| **sense of fairness** | n. | 公平意识 | whether such a **sense of fairness** evolved independently |
+| **slack rivals** | n. | 懒惰的对手 | monkeys are also outraged by **slack rivals** |
+| **slacking** | n./v. | 偷懒；懈怠 | if he has a reputation for **slacking** |
+| **social emotions** | n. | 社会情感 | capuchin monkeys, like humans, are guided by **social emotions** |
+| **spring from** | v. | 源于（形象用法） | (spring 名词"泉水/春天"→ 动词"像泉水一样涌出") |
+| **stem from** | v. | 源于（学术用法） | whether it **stems from** the common ancestor that the species had 35 million years ago |
+| **tokens** | n. | 代币；象征 | teaching their monkeys to exchange **tokens** for food |
+| **vanish** | v. | 消失；消散 | pleasure at your own can **vanish** |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> vanish / reluctant / counterparts / grievance / tokens / resentment / outraged / stems / good-natured / co-operative
+
+1. The workers were __________ when they learned their salaries had been cut without notice.
+
+2. She felt a deep sense of __________ after being treated unfairly by her boss.
+
+3. The happiness of winning the lottery began to __________ as the tax deductions arrived.
+
+4. Our company is looking for __________ and __________ employees who can work well in teams.
+
+5. The success of the project __________ from years of careful planning and research.
+
+6. In many online games, players collect __________ to unlock special features.
+
+7. The children were __________ to share their toys with the new kid in class.
+
+8. The Chinese __________ of the British Prime Minister is the Premier of the State Council.
+
+> [!abstract]- 答案
+> 1. **outraged**（感到愤慨的）
+> 2. **grievance**（不满/委屈）
+> 3. **vanish**（消失）
+> 4. **co-operative**（善于合作的），**good-natured**（性情温和的）
+> 5. **stems**（源于）
+> 6. **tokens**（代币）
+> 7. **reluctant**（不情愿的）
+> 8. **counterparts**（对应人物）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. a sense of fairness
+
+2. righteous indignation
+
+3. luxury goods
+
+4. adjoining chambers
+
+5. slack rivals
+
+> [!abstract]- 答案
+> 1. **a sense of fairness** = 公平意识
+> 2. **righteous indignation** = 义愤；正义的愤怒
+> 3. **luxury goods** = 奢侈品
+> 4. **adjoining chambers** = 相邻的隔间
+> 5. **slack rivals** = 懒惰的对手
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. 原文中 "the mere presence of a grape in the other chamber was enough to induce **resentment** in a female capuchin" 中 **resentment** 的含义是：
+   - A. 同意
+   - B. 不满（正确）
+   - C. 惊喜
+   - D. 冷漠
+
+2. 原文中 "whether such a **sense of fairness** evolved independently in capuchins and humans" 中 **sense** 的含义是：
+   - A. 感官（视觉/听觉）
+   - B. 感觉/意识（正确）
+   - C. 道理
+   - D. 意义
+
+3. 原文中 "Such behaviour is regarded as 'all too human', with the underlying assumption that other animals would not be capable of this finely developed **sense of grievance**" 中 **grievance** 的含义是：
+   - A. 悲伤
+   - B. 恐惧
+   - C. 不满/委屈（正确）
+   - D. 罪恶感
+
+> [!abstract]- 答案
+> 1. **B** — resentment 指"不满/怨恨"，由 unfair treatment 所引发，符合实验情境。
+> 2. **B** — sense of fairness 是固定短语，意为"公平意识"；sense 在此指"感觉/意识"而非感官功能。
+> 3. **C** — grievance 表示"委屈/不满"，与 outraged（愤慨）形成递进关系。
 
 ## 心得
 
