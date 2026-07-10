@@ -302,7 +302,7 @@ In the world of capuchins, grapes are **luxury goods** (and much preferable to c
 > > 3. **at all 强调否定**：与 `without` 搭配强化否定语气（"完全不用/根本不"），考研阅读中用于加强感情色彩和语气。
 > > 4. **条件状语从句嵌套复杂介词结构**：`if` 从句中包含 `without + 动名词 + in exchange` 三层结构，需逐层拆解。
 
-The researchers suggest that capuchin monkeys, like humans, are guided by **social emotions**. In the wild, they are a co-operative, group-living species. Such co-operation is likely to be stable only when each animal feels it is not being cheated. Feelings of **righteous indignation**, it seems, are not the preserve of people alone. Refusing a lesser reward completely makes these feelings abundantly clear to other members of the group. However, whether such a **sense of fairness** evolved independently in capuchins and humans, or whether it stems from the common ancestor that the species had 35 million years ago, is, as yet, an unanswered question.
+The researchers suggest that capuchin monkeys, like humans, are guided by **social emotions**. In the wild, they are a co-operative, group-living species. Such co-operation is likely to be stable only when each animal feels it is not being cheated. Feelings of **righteous indignation**, it seems, are not the preserve of people alone. Refusing a lesser reward completely makes these feelings abundantly clear to other members of the group. However, whether such a **sense of fairness** evolved independently in capuchins and humans, or whether it **stems** from the common ancestor that the species had 35 million years ago, is, as yet, an unanswered question.
 
 > [!abstract]- 长难句分析
 > **原句**：Refusing a lesser reward completely makes these feelings abundantly clear to other members of the group.
@@ -346,6 +346,54 @@ The researchers suggest that capuchin monkeys, like humans, are guided by **soci
 > > 1. **动名词短语作主语**：`Refusing a lesser reward` 是动名词短语作主语，谓语动词用单数 (`makes`)。考研阅读中动名词作主语表示抽象/一般行为，需识别其动词性宾语 `a lesser reward`。
 > > 2. **make + 宾语 + 形容词(宾补)**：`make these feelings clear`，宾语补足语说明宾语的状态。被副词 `abundantly` 和介短 `to...` 扩展后，考生需还原裸露结构。
 > > 3. **副词修饰的层级关系**：`completely` 修饰谓语 `makes`，`abundantly` 修饰宾补 `clear`。不同副词修饰不同层级成分，考研翻译时需区分修饰对象。
+
+> [!abstract]- 长难句分析
+> **原句**：However, whether such a sense of fairness evolved independently in capuchins and humans, or whether it stems from the common ancestor that the species had 35 million years ago, is, as yet, an unanswered question.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | whether such a sense of fairness evolved independently in capuchins and humans, or whether it stems from the common ancestor that the species had 35 million years ago |
+> | V (谓语) | is |
+> | C (表语) | an unanswered question |
+> | A (时间状语) | as yet |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|----------|------|
+> | 连接性状语 | However | 整个主句 | 转折逻辑，与"义愤非人类独有"对比 |
+> | 主语从句1 | whether | 主句 is | 作主语，说明第一个可能性——"各自独立进化" |
+> | 副词 | independently | evolved | 修饰进化方式——"独立地" |
+> | 介词短语 | in | evolved | 限定进化范围——在卷尾猴和人类中 |
+> | 主语从句2 | whether | 主句 is | 作主语，与从句1由 or 并列，说明第二个可能性——"源于共同祖先" |
+> | 介词短语 | from | stems | 说明起源的源头——"来自于共同祖先" |
+> | 定语从句 | that | ancestor | 修饰 ancestor，说明共同祖先的所属时间 |
+> | 时间状语 | 35 million years ago | had | 修饰从句谓语 had |
+> | 时间状语 | as yet | is | 固定短语，"到目前为止" |
+>
+> **结构图解**：
+> ```
+> 主句: [However,] (whether ... or whether ...) is, [as yet], an unanswered question
+>   ├── 连接词: However → 转折
+>   ├── 并列主语从句(S):
+>   │     ├── [whether] such a sense of fairness evolved independently (in capuchins and humans)
+>   │     │     └── 介短: in capuchins and humans → 修饰 evolved
+>   │     └── [or] [whether] it stems (from the common ancestor (that...))
+>   │           └── 介短: from the common ancestor
+>   │                 └── 定从: that the species had 35 million years ago → 修饰 ancestor
+>   └── 时间状语: as yet → 修饰 is
+> ```
+>
+> **参考译文**：然而，这种公平意识是在卷尾猴和人类身上各自独立进化而来，还是源于3500万年前这两个物种的共同祖先，目前仍是一个未解之谜。
+>
+> **考点提示**：
+> > [!tip]- 考研语法考点
+> > 1. **whether 主语从句**：`whether...or whether...` 连接的并列主语从句共同作句子的主语，谓语动词用单数 (`is`)。注意与"形式主语 it"结构的区分——本句是主语从句前置。
+> > 2. **并列主语从句的识别**：两个 `whether` 从句由 `or` 连接，需识别到句末才能找到谓语 `is`。这是考研阅读中超长主语从句分隔结构的典型考点。
+> > 3. **定语从句关系词作宾语**：`that the species had` 中的 `that` 在从句中作 `had` 的宾语（= the common ancestor），可省略。考研语法中关系代词作宾语时的省略是常见考点。
+> > 4. **as yet 固定短语**：意为"到目前为止/至今"，相当于 `so far/until now`，考研翻译中的高频短语。
 
 ## 练习题
 
