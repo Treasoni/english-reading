@@ -304,6 +304,49 @@ In the world of capuchins, grapes are **luxury goods** (and much preferable to c
 
 The researchers suggest that capuchin monkeys, like humans, are guided by **social emotions**. In the wild, they are a co-operative, group-living species. Such co-operation is likely to be stable only when each animal feels it is not being cheated. Feelings of **righteous indignation**, it seems, are not the preserve of people alone. Refusing a lesser reward completely makes these feelings abundantly clear to other members of the group. However, whether such a **sense of fairness** evolved independently in capuchins and humans, or whether it stems from the common ancestor that the species had 35 million years ago, is, as yet, an unanswered question.
 
+> [!abstract]- 长难句分析
+> **原句**：Refusing a lesser reward completely makes these feelings abundantly clear to other members of the group.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S (主语) | Refusing a lesser reward |
+> | V (谓语) | makes |
+> | O (宾语) | these feelings |
+> | C (宾语补足语) | abundantly clear |
+> | A (方向/对象状语) | to other members of the group |
+>
+> **修饰成分**：
+>
+> | 类型 | 标志词 | 修饰对象 | 说明 |
+> |------|--------|----------|------|
+> | 动名词短语(主语) | Refusing | 整个谓语 | 动名词短语作主语，表抽象行为 |
+> | 副词 | completely | makes | 程度副词，强调"完全地"拒绝 |
+> | 副词 | abundantly | clear | 程度副词，强调"非常/极其"清楚 |
+> | 介词短语(对象) | to | makes clear | 说明向谁表达——群体中其他成员 |
+> | 介词短语(所属) | of | members | 限定群体归属 |
+>
+> **结构图解**：
+> ```
+> 主句: (Refusing a lesser reward) [completely] makes these feelings [abundantly] clear (to...)
+>   ├── 动名词(主语): Refusing a lesser reward → 表抽象行为
+>   ├── 副: completely → 修饰 makes
+>   ├── 宾语: these feelings
+>   ├── 宾补: [abundantly] clear → 说明 feelings 的状态
+>   │     └── 副: abundantly → 修饰 clear
+>   └── 介短(对象): to other members (of the group) → 修饰 makes clear
+>         └── 介短(所属): of the group → 修饰 members
+> ```
+>
+> **参考译文**：完全拒绝较少的报酬，可以清楚地向群体中的其他成员传达这些感受。
+>
+> **考点提示**：
+> > [!tip]- 考研语法考点
+> > 1. **动名词短语作主语**：`Refusing a lesser reward` 是动名词短语作主语，谓语动词用单数 (`makes`)。考研阅读中动名词作主语表示抽象/一般行为，需识别其动词性宾语 `a lesser reward`。
+> > 2. **make + 宾语 + 形容词(宾补)**：`make these feelings clear`，宾语补足语说明宾语的状态。被副词 `abundantly` 和介短 `to...` 扩展后，考生需还原裸露结构。
+> > 3. **副词修饰的层级关系**：`completely` 修饰谓语 `makes`，`abundantly` 修饰宾补 `clear`。不同副词修饰不同层级成分，考研翻译时需区分修饰对象。
+
 ## 练习题
 
 21．In the opening paragraph, the author introduces his topic by
