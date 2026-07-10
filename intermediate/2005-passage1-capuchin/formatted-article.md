@@ -404,7 +404,7 @@ The researchers suggest that capuchin monkeys, like humans, are guided by **soci
 [D] explaining a phenomenon
 
 22．The statement "it is all too monkey" (Last line, Paragraph 1) implies that
-[A] monkeys are also outraged by slack rivals
+[A] monkeys are also outraged by **slack rivals**
 [B] resenting unfairness is also monkeys' nature
 [C] monkeys, like humans, tend to be jealous of each other
 [D] no animals other than monkeys can develop such emotions
