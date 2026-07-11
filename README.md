@@ -50,6 +50,14 @@ intermediate/2000-text1/
 kaoyan-reading init-workflow path/to/2010真题.pdf --year 2010 --out intermediate
 ```
 
+一次处理多篇阅读时，可以开启篇章级并行：
+
+```bash
+kaoyan-reading init-workflow path/to/2010真题.pdf --year 2010 --out intermediate --jobs 4
+```
+
+建议把 `--jobs` 设为 2-4。每篇文章会写入独立的 `intermediate/<year>-textN/` 目录；跨篇语法总结、生词总表等汇总步骤仍建议最后串行执行。
+
 只提取文章和题目：
 
 ```bash

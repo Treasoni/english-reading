@@ -23,6 +23,7 @@ def main() -> None:
     workflow_parser.add_argument("--year", help="年份，如 2010")
     workflow_parser.add_argument("--out", default="intermediate", help="输出目录")
     workflow_parser.add_argument("--sentence-limit", type=int, default=8, help="每篇长难句候选数量")
+    workflow_parser.add_argument("--jobs", type=int, default=1, help="并行处理篇数，默认 1；多篇文章可设为 2-4")
 
     sentence_parser = subparsers.add_parser("sentences", help="从文章中筛选长难句候选并生成分析任务")
     sentence_parser.add_argument("source", help="文章文件，支持 .txt/.md/.docx/.pdf")
@@ -40,8 +41,14 @@ def main() -> None:
     if args.command == "extract":
         _cmd_extract(args)
     elif args.command == "init-workflow":
-        count = build_from_exam(args.source, args.out, year=args.year, sentence_limit=args.sentence_limit)
-        print(f"Initialized {count} passage workflow folder(s) under {args.out}")
+        count = build_from_exam(
+            args.source,
+            args.out,
+            year=args.year,
+            sentence_limit=args.sentence_limit,
+            jobs=args.jobs,
+        )
+        print(f"Initialized {count} passage workflow folder(s) under {args.out} with jobs={max(1, args.jobs)}")
     elif args.command == "sentences":
         text = read_source(args.source)
         candidates = find_complex_sentences(text, limit=args.limit)
@@ -76,4 +83,3 @@ def _cmd_extract(args: argparse.Namespace) -> None:
 
 if __name__ == "__main__":
     main()
-
