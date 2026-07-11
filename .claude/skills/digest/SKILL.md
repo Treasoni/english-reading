@@ -22,7 +22,12 @@ description: 自我学习阶段。回顾本次学习会话，记录学习心得�
 wc -l .learnings/LEARNINGS.md .learnings/ERRORS.md 2>/dev/null || echo "0 .learnings/LEARNINGS.md\n0 .learnings/ERRORS.md"
 ```
 
-如果任一文件超过 100 行，先执行压缩流程：
+如果任一文件超过 100 行，先判断是普通历史冗余还是重复错误复发：
+
+- 若只是旧条目堆积且规则已稳定，执行下方压缩流程。
+- 若同一 skill / 同类格式问题反复出现，或 `RULES.md` 已有规则但仍复发，停止单纯压缩；改用 `maintain-learnings` 先修对应 skill / 模板 / hook / 项目规则，验证后再归档移除。
+
+普通压缩流程：
 
 1. 读取 `.learnings/LEARNINGS.md` 和 `.learnings/ERRORS.md` 中的所有条目
 2. 按主题/模式分组，去重

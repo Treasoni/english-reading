@@ -16,6 +16,7 @@ from typing import Iterable
 ACTIVE_FILES = ("LEARNINGS.md", "ERRORS.md", "RULES.md")
 HEADING_RE = re.compile(r"^(#{2,4})\s+(.+?)\s*$", re.MULTILINE)
 ACTIVE_LINE_THRESHOLD = 100
+SKILLS_ROOT = ".claude"
 
 KEYWORD_CLUSTERS = {
     "obsidian-markdown": [
@@ -37,9 +38,9 @@ KEYWORD_CLUSTERS = {
         "用户反馈",
         "提问",
     ],
-    "codex-hook": [
+    "claude-hook": [
         "hook",
-        ".codex",
+        ".claude",
         "read-learnings",
         "上下文",
         "经验库提醒",
@@ -105,7 +106,7 @@ def line_number(text: str, index: int) -> int:
 
 
 def discover_skills(root: Path) -> list[str]:
-    skills_dir = root / ".agents" / "skills"
+    skills_dir = root / SKILLS_ROOT / "skills"
     if not skills_dir.exists():
         return []
     return sorted(p.name for p in skills_dir.iterdir() if (p / "SKILL.md").exists())
@@ -214,23 +215,23 @@ def active_line_counts(root: Path) -> dict[str, int]:
 
 def source_candidates(root: Path, cluster: str) -> list[str]:
     candidates: list[str] = []
-    skill_path = root / ".agents" / "skills" / cluster / "SKILL.md"
+    skill_path = root / SKILLS_ROOT / "skills" / cluster / "SKILL.md"
     if skill_path.exists():
-        candidates.append(f".agents/skills/{cluster}/SKILL.md")
-        ref_path = root / ".agents" / "skills" / cluster / "references"
+        candidates.append(f"{SKILLS_ROOT}/skills/{cluster}/SKILL.md")
+        ref_path = root / SKILLS_ROOT / "skills" / cluster / "references"
         if ref_path.exists():
-            candidates.append(f".agents/skills/{cluster}/references/")
+            candidates.append(f"{SKILLS_ROOT}/skills/{cluster}/references/")
 
     if cluster == "obsidian-markdown":
-        candidates.extend(["AGENTS.md", ".agents/skills/obsidian-markdown/"])
+        candidates.extend(["CLAUDE.md", "AGENTS.md", f"{SKILLS_ROOT}/skills/obsidian-markdown/"])
     elif cluster == "user-interaction":
-        candidates.append("AGENTS.md")
-    elif cluster == "codex-hook":
-        candidates.extend([".codex/hooks/read-learnings.sh", ".codex/hooks.json"])
+        candidates.extend(["CLAUDE.md", "AGENTS.md"])
+    elif cluster == "claude-hook":
+        candidates.extend([".claude/hooks/read-learnings.sh", ".claude/settings.json"])
     elif cluster == "tooling":
-        candidates.extend(["AGENTS.md", ".agents/skills/"])
+        candidates.extend(["CLAUDE.md", "AGENTS.md", f"{SKILLS_ROOT}/skills/"])
     elif cluster == "general":
-        candidates.extend(["AGENTS.md", ".learnings/RULES.md"])
+        candidates.extend(["CLAUDE.md", "AGENTS.md", ".learnings/RULES.md"])
 
     return list(dict.fromkeys(candidates))
 
@@ -326,7 +327,7 @@ def render_markdown(summary: dict) -> str:
     lines.append("| Cluster | Severity | Active | Total | Rules | Inspect |")
     lines.append("|---|---:|---:|---:|---:|---|")
     for cluster in summary["clusters"]:
-        inspect = ", ".join(f"`{item}`" for item in cluster["sources_to_inspect"]) or "`AGENTS.md`"
+        inspect = ", ".join(f"`{item}`" for item in cluster["sources_to_inspect"]) or "`CLAUDE.md`"
         lines.append(
             f"| `{cluster['cluster']}` | {cluster['severity']} | "
             f"{cluster['active_records']} | {cluster['total_records']} | "

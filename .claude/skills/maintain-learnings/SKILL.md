@@ -27,7 +27,7 @@ description: 维护 .learnings/ 经验库，把过多或反复出现的学习记
 然后运行审计脚本：
 
 ```bash
-python3 .agents/skills/maintain-learnings/scripts/audit_learnings.py --root .
+python3 .claude/skills/maintain-learnings/scripts/audit_learnings.py --root .
 ```
 
 脚本会输出：
@@ -52,13 +52,13 @@ python3 .agents/skills/maintain-learnings/scripts/audit_learnings.py --root .
 
 根据审计报告读取对应源文件：
 
-- skill 问题：`.agents/skills/<skill>/SKILL.md`
-- skill 模板问题：`.agents/skills/<skill>/references/`
-- 项目级规则问题：`AGENTS.md`
-- Codex hook 问题：`.codex/hooks/`
-- Obsidian 格式问题：优先检查 `.agents/skills/obsidian-markdown/`，再检查具体业务 skill
+- skill 问题：`.claude/skills/<skill>/SKILL.md`
+- skill 模板问题：`.claude/skills/<skill>/references/`
+- 项目级规则问题：`CLAUDE.md` / `AGENTS.md`
+- Claude Code hook 问题：`.claude/hooks/`
+- Obsidian 格式问题：优先检查 `.claude/skills/obsidian-markdown/`，再检查具体业务 skill
 
-如果准备同步 Claude Code 语义，必须先 `diff` 比对 `.agents/skills/<skill>/` 与 `.claude/skills/<skill>/`，保留 Claude 专属说明；不要用 Codex 版本覆盖 `.claude/`。
+如果准备同步 Codex 语义，必须先 `diff` 比对 `.claude/skills/<skill>/` 与 `.agents/skills/<skill>/`，保留 Claude Code 专属命令、Hook、工具说明和平台限制；不要用 Codex 版本覆盖 `.claude/`。
 
 ### Step 4: 修改机制，而不是只写提醒
 
@@ -67,7 +67,7 @@ python3 .agents/skills/maintain-learnings/scripts/audit_learnings.py --root .
 - 在对应 `SKILL.md` 中加入明确步骤、硬性约束或验证 checklist。
 - 修改 reference 模板，使正确格式自然生成。
 - 添加或修改校验脚本，让错误能被自动发现。
-- 更新 `AGENTS.md` 中的通用规则，但只用于跨 skill 的铁律。
+- 更新 `CLAUDE.md` / `AGENTS.md` 中的通用规则，但只用于跨 skill 的铁律。
 
 不要只把“下次注意”追加到 `.learnings/`。如果没有源头修改，不能清理对应错误记录。
 
@@ -78,7 +78,7 @@ python3 .agents/skills/maintain-learnings/scripts/audit_learnings.py --root .
 1. 运行 skill 结构校验：
 
 ```bash
-python3 /Users/zhqznc/.codex/skills/.system/skill-creator/scripts/quick_validate.py .agents/skills/<skill>
+python3 -c 'from pathlib import Path; p=Path(".claude/skills/<skill>/SKILL.md"); t=p.read_text(encoding="utf-8"); assert t.startswith("---\n") and "\n---" in t[4:]; assert "name:" in t and "description:" in t; print("skill metadata ok")'
 ```
 
 2. 用历史错误反查修复点：
@@ -91,19 +91,19 @@ python3 /Users/zhqznc/.codex/skills/.system/skill-creator/scripts/quick_validate
 如果本次修改了任何共享 skill，必须检查 Codex 与 Claude Code 两边是否都保留同等功能：
 
 ```bash
-python3 .agents/skills/maintain-learnings/scripts/sync_platform_skills.py --root . --skill <skill>
+python3 .claude/skills/maintain-learnings/scripts/sync_platform_skills.py --root . --skill <skill>
 ```
 
 若报告另一侧缺失，可先 dry-run：
 
 ```bash
-python3 .agents/skills/maintain-learnings/scripts/sync_platform_skills.py --root . --from-platform agents --to-platform claude --skill <skill>
+python3 .claude/skills/maintain-learnings/scripts/sync_platform_skills.py --root . --from-platform agents --to-platform claude --skill <skill>
 ```
 
 确认无误后再应用：
 
 ```bash
-python3 .agents/skills/maintain-learnings/scripts/sync_platform_skills.py --root . --from-platform agents --to-platform claude --skill <skill> --apply
+python3 .claude/skills/maintain-learnings/scripts/sync_platform_skills.py --root . --from-platform agents --to-platform claude --skill <skill> --apply
 ```
 
 同步后必须重新读取目标侧文件，保留平台专属内容：
@@ -130,7 +130,7 @@ python3 .agents/skills/maintain-learnings/scripts/sync_platform_skills.py --root
 - 不要为了“变短”直接清空 `.learnings/`。
 - 不要归档未修复的问题。
 - 不要把多个不同根因的错误合并成一条模糊规则。
-- 不要把只适用于某个 skill 的细节提升到 `AGENTS.md`。
+- 不要把只适用于某个 skill 的细节提升到 `CLAUDE.md` / `AGENTS.md`。
 - 不要在未比对差异的情况下修改 `.claude/`。
 
 ## 完成汇报
