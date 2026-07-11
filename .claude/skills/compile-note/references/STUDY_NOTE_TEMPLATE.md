@@ -36,25 +36,54 @@ related:
 
 ## 文章原文
 
-![[formatted-article]]
+> While tech companies push forward with ever more sophisticated algorithms, governments struggle to establish meaningful frameworks for oversight.
+
+> [!abstract]- 长难句分析
+> **原句**：While tech companies push forward with ever more sophisticated algorithms, governments struggle to establish meaningful frameworks for oversight.
+>
+> **主干提取**：
+> - 主句：governments + struggle + to establish frameworks
+> - 状从（让步）：While + tech companies + push forward + with algorithms
+>
+> **修饰成分**：
+>
+> | 成分 | 类型 | 引导词 | 修饰对象 |
+> |------|------|--------|---------|
+> | While tech companies...algorithms | 状从（让步） | While | 主句整体 |
+> | to establish...oversight | 非谓语（不定式） | to | struggle 的补语 |
+>
+> **结构图解**：
+> ```
+> While tech companies push forward [with ever more sophisticated algorithms],
+>   └── 介短: with algorithms → 伴随状语
+> 主句: governments struggle [to establish meaningful frameworks for oversight]
+>   └── 非谓语: to establish frameworks → 目的状语
+> ```
+>
+> **参考译文**：
+> 当科技公司不断推出越来越精密的算法时，各国政府却难以及时建立有效的监管框架。
+>
+> > [!tip] 考点提示
+> > While 的让步用法是考研高频考点。
 
 ---
 
 ## 翻译对照
 
-![[translation]]
-
----
-
-## 长难句分析
-
-![[sentence-analysis]]
+| 英文 | 中文 |
+|------|------|
+| While tech companies push forward with ever more sophisticated algorithms | 当科技公司不断推出越来越精密的算法时 |
+| governments struggle to establish meaningful frameworks for oversight | 各国政府却难以及时建立有效的监管框架 |
 
 ---
 
 ## 语法要点
 
-![[grammar-notes]]
+### 非谓语动词 (Non-finite Verbs)
+
+| 结构 | 用法 | 例句 |
+|------|------|------|
+| **to V** (不定式) | 目的/将来 | Tech companies move fast **to capture** market share. |
 
 ---
 
