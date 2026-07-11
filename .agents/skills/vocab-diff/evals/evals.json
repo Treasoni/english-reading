@@ -1,0 +1,23 @@
+{
+  "skill_name": "vocab-diff",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "emigrate和immigrate我总是记混，帮我整理一下",
+      "expected_output": "添加emigrate/immigrate易混淆词对到笔记中，包含词根解析、记忆方法、常见搭配和例句",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "principle和principal分不清，帮我添加到辨析笔记",
+      "expected_output": "添加principle/principal易混淆词对，包含详细辨析和记忆口诀",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "查看单词辨析笔记里关于STAT-系列的内容",
+      "expected_output": "读取并展示单词辨析笔记中STAT-系列形近词的所有内容",
+      "files": []
+    }
+  ]
+}
