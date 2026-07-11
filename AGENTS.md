@@ -6,9 +6,10 @@
 
 - **共享规则入口**：`AGENTS.md` 是 Codex 的项目规则入口；`CLAUDE.md` 通过 `@AGENTS.md` 引用同一套规则，避免两份规则漂移。
 - **Claude Code 配置保持原样**：`.claude/` 目录保留给 Claude Code 使用，不为 Codex 修改其中配置。
-- **Codex 技能目录**：Codex 使用 `.agents/skills/` 中的技能定义；该目录与 `.claude/skills/` 保持同名技能结构。
+- **平台目录隔离**：Codex 架构、Hook、技能适配只修改 `.agents/` 与 `.codex/`；不得用 Codex 版本覆盖 `.claude/`，避免 Claude Code 专属功能丢失。
+- **技能语义同步**：`.agents/skills/` 与 `.claude/skills/` 尽量保持同名技能和学习流程一致，但实现细节允许平台差异。
 - **Codex 经验库 Hook**：Codex 专用配置放在 `.codex/`，通过 `.codex/hooks.json` 调用 `.codex/hooks/read-learnings.sh`，读取 `.learnings/` 中的经验库。
-- **同步原则**：新增或更新技能时，优先保持 `.claude/skills/` 与 `.agents/skills/` 内容一致；若需要平台差异，只在必要处做最小改动，并在相关文件中说明原因。
+- **同步原则**：新增或更新通用学习规则时，可分别更新两套技能的对应语义；更新 Codex 架构或 Codex 专用能力时，只改 `.agents/` / `.codex/`。同步前必须先比对两边差异，保留 Claude Code 专属命令、Hook、工具说明和平台限制。
 
 ## 核心行为准则
 
