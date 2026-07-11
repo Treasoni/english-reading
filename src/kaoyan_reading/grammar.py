@@ -17,13 +17,13 @@ class GrammarHit:
 PATTERNS = [
     (
         "从句 (Clauses)",
-        re.compile(r"\b(which|that|who|whom|whose|where|when)\b", re.I),
+        re.compile(r"\b(which|that|who|whom|whose)\b", re.I),
         "定语从句/关系从句",
         "补充或限定名词信息",
     ),
     (
         "从句 (Clauses)",
-        re.compile(r"\b(although|because|if|while|whereas|unless|as|since)\b", re.I),
+        re.compile(r"\b(although|because|if|when|while|whereas|unless|as|since)\b", re.I),
         "状语从句",
         "表示时间、原因、条件、让步或对比",
     ),
@@ -41,7 +41,7 @@ PATTERNS = [
     ),
     (
         "非谓语动词 (Non-finite Verbs)",
-        re.compile(r"\b[a-z]+ing\b", re.I),
+        re.compile(r"(?:,\s*[a-z]+ing\b|\b[a-z]+ing\s+(?:of|to|from|with|by)\b)", re.I),
         "V-ing 分词/动名词",
         "表示主动、进行、结果、伴随或名词化动作",
     ),
@@ -150,4 +150,3 @@ def _category_tip(category: str) -> List[str]:
         "> 以下条目由本地规则从原文中抽取，适合作为人工精修或 Agent 继续整理的草稿。",
         "",
     ]
-
