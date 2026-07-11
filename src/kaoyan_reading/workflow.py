@@ -1,11 +1,12 @@
-from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
 from typing import Optional
 
 from .extract import extract_reading_passages, write_passage_json
 from .grammar import detect_grammar, render_grammar_notes
 from .io import read_source
 from .markdown import render_formatted_article
+from .models import Passage
 from .sentence_analysis import find_complex_sentences, render_sentence_prompt
 
 
@@ -25,11 +26,16 @@ def build_from_exam(
             _write_passage_workflow(passage, base, year, sentence_limit)
     else:
         with ThreadPoolExecutor(max_workers=worker_count) as executor:
-            list(executor.map(lambda passage: _write_passage_workflow(passage, base, year, sentence_limit), passages))
+            futures = [
+                executor.submit(_write_passage_workflow, passage, base, year, sentence_limit)
+                for passage in passages
+            ]
+            for future in futures:
+                future.result()
     return len(passages)
 
 
-def _write_passage_workflow(passage, base: Path, year: Optional[str], sentence_limit: int) -> None:
+def _write_passage_workflow(passage: Passage, base: Path, year: Optional[str], sentence_limit: int) -> None:
     topic = _topic_name(year, passage.index)
     target = base / topic
     target.mkdir(parents=True, exist_ok=True)
