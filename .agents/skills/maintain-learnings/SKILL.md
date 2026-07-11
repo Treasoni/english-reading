@@ -1,85 +1,117 @@
 ---
 name: maintain-learnings
-description: [TODO: Complete and informative explanation of what the skill does and when to use it. Include WHEN to use this skill - specific scenarios, file types, or tasks that trigger it.]
+description: 维护 .learnings/ 经验库，把过多或反复出现的学习记录、错误日志、铁律失效问题聚类诊断，追溯并修改对应 skill、模板、校验脚本或项目规则；修复并验证后再归档或移除已解决记录。用户提到 learnings 太多、错误反复犯、清理经验库、维护自我学习、压缩错误日志、从错误中修技能时触发。
 ---
 
-# Maintain Learnings
+# maintain-learnings（经验库维护）
 
-## Overview
+让 `.learnings/` 保持小而有用：它不是长期堆放错误的仓库，而是发现流程缺陷的雷达。重复错误必须优先修源头，验证有效后再清理活跃记录。
 
-[TODO: 1-2 sentences explaining what this skill enables]
+## 使用场景
 
-## Structuring This Skill
+- `.learnings/LEARNINGS.md` 或 `.learnings/ERRORS.md` 过长，已经影响上下文质量。
+- 同一 skill 或同类格式错误反复出现。
+- 某条规则已经写入 `.learnings/RULES.md`，但后续仍然犯同样的错。
+- 用户要求“清理 learnings”“维护自我学习”“把反复错误修掉”。
 
-[TODO: Choose the structure that best fits this skill's purpose. Common patterns:
+## 工作流
 
-**1. Workflow-Based** (best for sequential processes)
-- Works well when there are clear step-by-step procedures
-- Example: DOCX skill with "Workflow Decision Tree" -> "Reading" -> "Creating" -> "Editing"
-- Structure: ## Overview -> ## Workflow Decision Tree -> ## Step 1 -> ## Step 2...
+### Step 1: 审计经验库
 
-**2. Task-Based** (best for tool collections)
-- Works well when the skill offers different operations/capabilities
-- Example: PDF skill with "Quick Start" -> "Merge PDFs" -> "Split PDFs" -> "Extract Text"
-- Structure: ## Overview -> ## Quick Start -> ## Task Category 1 -> ## Task Category 2...
+先按项目规则静默读取：
 
-**3. Reference/Guidelines** (best for standards or specifications)
-- Works well for brand guidelines, coding standards, or requirements
-- Example: Brand styling with "Brand Guidelines" -> "Colors" -> "Typography" -> "Features"
-- Structure: ## Overview -> ## Guidelines -> ## Specifications -> ## Usage...
+- `.learnings/RULES.md`
+- `.learnings/LEARNINGS.md`
+- `.learnings/ERRORS.md`
 
-**4. Capabilities-Based** (best for integrated systems)
-- Works well when the skill provides multiple interrelated features
-- Example: Product Management with "Core Capabilities" -> numbered capability list
-- Structure: ## Overview -> ## Core Capabilities -> ### 1. Feature -> ### 2. Feature...
+然后运行审计脚本：
 
-Patterns can be mixed and matched as needed. Most skills combine patterns (e.g., start with task-based, add workflow for complex operations).
+```bash
+python3 .agents/skills/maintain-learnings/scripts/audit_learnings.py --root .
+```
 
-Delete this entire "Structuring This Skill" section when done - it's just guidance.]
+脚本会输出：
 
-## [TODO: Replace with the first main section based on chosen structure]
+- 活跃文件行数和是否超过阈值
+- 按 skill / 主题聚类的热点错误
+- 建议检查的源文件
+- 可归档候选记录
 
-[TODO: Add content here. See examples in existing skills:
-- Code samples for technical skills
-- Decision trees for complex workflows
-- Concrete examples with realistic user requests
-- References to scripts/templates/references as needed]
+### Step 2: 选择修复目标
 
-## Resources (optional)
+优先处理以下目标：
 
-Create only the resource directories this skill actually needs. Delete this section if no resources are required.
+1. 活跃记录中同一 skill 出现 2 次及以上。
+2. 历史归档和活跃记录合计出现 3 次及以上。
+3. 已写入 `RULES.md` 但仍在 `ERRORS.md` / `LEARNINGS.md` 中复发。
+4. 活跃文件超过 100 行且包含明显重复主题。
 
-### scripts/
-Executable code (Python/Bash/etc.) that can be run directly to perform specific operations.
+如果多个目标都符合，先修影响当前学习流程最多的 skill。只有用户明确要求全面维护时，才一次处理多个 cluster。
 
-**Examples from other skills:**
-- PDF skill: `fill_fillable_fields.py`, `extract_form_field_info.py` - utilities for PDF manipulation
-- DOCX skill: `document.py`, `utilities.py` - Python modules for document processing
+### Step 3: 追溯源头
 
-**Appropriate for:** Python scripts, shell scripts, or any executable code that performs automation, data processing, or specific operations.
+根据审计报告读取对应源文件：
 
-**Note:** Scripts may be executed without loading into context, but can still be read by Codex for patching or environment adjustments.
+- skill 问题：`.agents/skills/<skill>/SKILL.md`
+- skill 模板问题：`.agents/skills/<skill>/references/`
+- 项目级规则问题：`AGENTS.md`
+- Codex hook 问题：`.codex/hooks/`
+- Obsidian 格式问题：优先检查 `.agents/skills/obsidian-markdown/`，再检查具体业务 skill
 
-### references/
-Documentation and reference material intended to be loaded into context to inform Codex's process and thinking.
+如果准备同步 Claude Code 语义，必须先 `diff` 比对 `.agents/skills/<skill>/` 与 `.claude/skills/<skill>/`，保留 Claude 专属说明；不要用 Codex 版本覆盖 `.claude/`。
 
-**Examples from other skills:**
-- Product management: `communication.md`, `context_building.md` - detailed workflow guides
-- BigQuery: API reference documentation and query examples
-- Finance: Schema documentation, company policies
+### Step 4: 修改机制，而不是只写提醒
 
-**Appropriate for:** In-depth documentation, API references, database schemas, comprehensive guides, or any detailed information that Codex should reference while working.
+修复必须落到可执行机制之一：
 
-### assets/
-Files not intended to be loaded into context, but rather used within the output Codex produces.
+- 在对应 `SKILL.md` 中加入明确步骤、硬性约束或验证 checklist。
+- 修改 reference 模板，使正确格式自然生成。
+- 添加或修改校验脚本，让错误能被自动发现。
+- 更新 `AGENTS.md` 中的通用规则，但只用于跨 skill 的铁律。
 
-**Examples from other skills:**
-- Brand styling: PowerPoint template files (.pptx), logo files
-- Frontend builder: HTML/React boilerplate project directories
-- Typography: Font files (.ttf, .woff2)
+不要只把“下次注意”追加到 `.learnings/`。如果没有源头修改，不能清理对应错误记录。
 
-**Appropriate for:** Templates, boilerplate code, document templates, images, icons, fonts, or any files meant to be copied or used in the final output.
+### Step 5: 验证修复
 
----
+完成源头修改后，至少做两类验证：
 
-**Not every skill requires all three types of resources.**
+1. 运行 skill 结构校验：
+
+```bash
+python3 /Users/zhqznc/.codex/skills/.system/skill-creator/scripts/quick_validate.py .agents/skills/<skill>
+```
+
+2. 用历史错误反查修复点：
+   - 每条待移除记录都能对应到新的步骤、模板或校验逻辑。
+   - 若是 Markdown / Obsidian 格式问题，用 `rg` 或脚本抽查新模板中是否包含必要格式。
+   - 若无法验证，保留该记录，不归档。
+
+### Step 6: 清理活跃 learnings
+
+只处理已经验证修复的记录：
+
+1. 在 `.learnings/archive/YYYY-MM-DD-maintenance.md` 追加归档块，包含：
+   - 原记录摘要
+   - 修复的源文件路径
+   - 验证方式
+   - 处理结果：`resolved`
+2. 从 `.learnings/LEARNINGS.md` 或 `.learnings/ERRORS.md` 移除对应详细记录。
+3. 保留或更新 `.learnings/RULES.md` 中的简短铁律。
+4. 未修复、未验证或仍需观察的记录继续留在活跃文件中。
+
+## 禁止行为
+
+- 不要为了“变短”直接清空 `.learnings/`。
+- 不要归档未修复的问题。
+- 不要把多个不同根因的错误合并成一条模糊规则。
+- 不要把只适用于某个 skill 的细节提升到 `AGENTS.md`。
+- 不要在未比对差异的情况下修改 `.claude/`。
+
+## 完成汇报
+
+向用户报告：
+
+- 发现了哪些热点问题。
+- 修改了哪些 skill / 模板 / 规则。
+- 哪些记录已归档，哪些仍保留观察。
+- 执行了哪些验证。

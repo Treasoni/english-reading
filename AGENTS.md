@@ -35,7 +35,9 @@
 | 5 | `compile-note` | 根目录 `<topic>-精读笔记.md` | 整合为综合学习笔记 |
 | 6 | `extract-vocabulary` | 替换 `<!-- VOCABULARY_SLOT -->` | 提取去重词汇表 |
 
-附加：`digest` — 学习回顾，记录心得与错误到 `.learnings/`（用户明确要求时触发）
+附加：
+- `digest` — 学习回顾，记录心得与错误到 `.learnings/`（用户明确要求时触发）
+- `maintain-learnings` — 经验库维护。当 `.learnings/` 过长、同类错误反复出现、或铁律写入后仍复发时，先修对应 skill / 模板 / hook / 项目规则并验证，再归档或移除已解决记录。
 
 ## 目录结构
 
