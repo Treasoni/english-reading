@@ -8,7 +8,7 @@ tags:
   - bilingual
 difficulty: intermediate
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-13
 sources:
   - "2005年全国硕士研究生入学统一考试英语（一）试题"
 ---
@@ -54,3 +54,115 @@ Fortunately, the White House is starting to pay attention. But it's obvious that
 To serve as responsible stewards of the planet, we must press forward on deeper atmospheric and oceanic research. But research alone is inadequate. If the Administration won't take the **legislative initiative**, Congress should help to begin fashioning **conservation measures**. A bill by Democratic Senator Robert Byrd of West Virginia, which would offer **financial incentives** for private industry, is a promising start. Many see that the country is getting ready to build lots of new power plants to meet our energy needs. If we are ever going to protect the atmosphere, it is crucial that those new plants be **environmentally sound**.
 
 作为地球上负责任的管理者，我们必须推进对大气和海洋的深入研究。但仅仅研究是不够的，如果行政当局不争取立法上的主动权，国会就应该协助政府制定保护措施。来自西弗吉尼亚州的民主党参议员罗伯特·伯德提出了向私人企业提供资金支持的议案，这就是一个良好的开端。很多人看到国家正准备筹建许多发电厂以满足我们的能源需求。如果我们要保护大气，关键是确保这些新发电厂对环境无害。
+
+---
+
+## Questions 题目
+
+26. An argument made by supporters of smoking was that
+
+吸烟支持者提出的一个论点是：
+
+[A] there was no scientific evidence of the correlation between smoking and death
+
+[A] 没有科学证据表明吸烟与死亡之间存在关联
+
+[B] the number of early deaths of smokers in the past decades was insignificant
+
+[B] 过去几十年中吸烟者过早死亡的人数并不重要
+
+[C] people had the freedom to choose their own way of life
+
+[C] 人们有选择自己生活方式的自由
+
+[D] antismoking people were usually talking nonsense
+
+[D] 反吸烟人士通常是在胡说八道
+
+---
+
+27. According to Bruce Alberts, science can serve as
+
+根据布鲁斯·艾伯特的说法，科学可以充当：
+
+[A] a protector
+
+[A] 保护者
+
+[B] a judge
+
+[B] 裁判
+
+[C] a critic
+
+[C] 批评者
+
+[D] a guide
+
+[D] 指南
+
+---
+
+28. What does the author mean by “paralysis by analysis” (Last line, Paragraph 4)?
+
+作者所说的 “paralysis by analysis”（第四段最后一行）是什么意思？
+
+[A] Endless studies kill action.
+
+[A] 无休止的研究扼杀行动。
+
+[B] Careful investigation reveals truth.
+
+[B] 细致的调查揭示真相。
+
+[C] Prudent planning hinders progress.
+
+[C] 谨慎的计划阻碍进展。
+
+[D] Extensive research helps decision-making.
+
+[D] 广泛的研究有助于决策。
+
+---
+
+29. According to the author, what should the Administration do about global warming?
+
+作者认为，行政当局应该如何应对全球变暖？
+
+[A] Offer aid to build cleaner power plants.
+
+[A] 提供援助以建设更清洁的发电厂。
+
+[B] Raise public awareness of conservation.
+
+[B] 提高公众的环保意识。
+
+[C] Press for further scientific research.
+
+[C] 推动进一步的科学研究。
+
+[D] Take some legislative measures.
+
+[D] 采取一些立法措施。
+
+---
+
+30. The author associates the issue of global warming with that of smoking because
+
+作者把全球变暖问题与吸烟问题联系起来，是因为：
+
+[A] they both suffered from the government’s negligence
+
+[A] 二者都受到政府疏忽的影响
+
+[B] a lesson from the latter is applicable to the former
+
+[B] 后者的教训适用于前者
+
+[C] the outcome of the latter aggravates the former
+
+[C] 后者的结果加剧了前者
+
+[D] both of them have turned from bad to worse
+
+[D] 二者都已经变得越来越糟
