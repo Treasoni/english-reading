@@ -7,7 +7,7 @@ tags:
   - formatted-article
   - 2005
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-13
 sources:
   - "2005年全国硕士研究生入学统一考试英语（一）试题"
 ---
@@ -252,3 +252,55 @@ To serve as responsible stewards of the planet, we must press forward on deeper 
 > - **形式主语 it**：it is crucial that... 结构，真正的主语是 that 从句
 > - **真实条件句 + 虚拟语气从句嵌套**：if 引导真实条件句，主句中又嵌套虚拟语气从句
 > - **熟词僻义**：plants 在此意为"发电厂"而非"植物"，是考研阅读常见考点
+
+## Questions
+
+26. An argument made by supporters of smoking was that
+
+[A] there was no scientific evidence of the correlation between smoking and death
+
+[B] the number of early deaths of smokers in the past decades was insignificant
+
+[C] people had the freedom to choose their own way of life
+
+[D] antismoking people were usually talking nonsense
+
+27. According to Bruce Alberts, science can serve as
+
+[A] a protector
+
+[B] a judge
+
+[C] a critic
+
+[D] a guide
+
+28. What does the author mean by “paralysis by analysis” (Last line, Paragraph 4)?
+
+[A] Endless studies kill action.
+
+[B] Careful investigation reveals truth.
+
+[C] Prudent planning hinders progress.
+
+[D] Extensive research helps decision-making.
+
+29. According to the author, what should the Administration do about global warming?
+
+[A] Offer aid to build cleaner power plants.
+
+[B] Raise public awareness of conservation.
+
+[C] Press for further scientific research.
+
+[D] Take some legislative measures.
+
+30. The author associates the issue of global warming with that of smoking because
+
+[A] they both suffered from the government’s negligence
+
+[B] a lesson from the latter is applicable to the former
+
+[C] the outcome of the latter aggravates the former
+
+[D] both of them have turned from bad to worse
