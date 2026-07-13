@@ -14,7 +14,58 @@ sources:
 
 ## Text 2
 
-Do you remember all those years when scientists argued that smoking would kill us but the doubters insisted that we didn't know for sure? That the evidence was **inconclusive**, the science uncertain? That the antismoking lobby was out to destroy our way of life and the government should stay out of the way? Lots of Americans bought that nonsense, and over three decades, some 10 million smokers went to early graves.
+Do you remember all those years when scientists argued that smoking would kill us but the doubters insisted that we didn't know for sure? That the evidence was **inconclusive**, the science uncertain? That the antismoking lobby was out to destroy our way of life and the government should stay out of the way? Lots of Americans bought that nonsense, and over three decades, some 10 million smokers went to early **graves**.
+
+
+> [!abstract]- 长难句分析
+> **原句**：Lots of Americans bought that nonsense, and over three decades, some 10 million smokers went to early graves.
+>
+> ### 1. 主干提取
+>
+> | 成分 | 内容 |
+> |------|------|
+> | 并列分句 1 主语 | Lots of Americans |
+> | 并列分句 1 谓语 | bought |
+> | 并列分句 1 宾语 | that nonsense |
+> | 并列连词 | and |
+> | 并列分句 2 状语 | over three decades |
+> | 并列分句 2 主语 | some 10 million smokers |
+> | 并列分句 2 谓语 | went |
+> | 并列分句 2 状语 | to early graves |
+>
+> ### 2. 修饰成分
+>
+> | 修饰类型 | 内容 | 说明 |
+> |----------|------|------|
+> | 指示限定词 | that | 修饰 nonsense，回指前面怀疑者的说法，带有贬义评价 |
+> | 时间介词短语 | over three decades | 修饰第二个分句，表示“三十多年间” |
+> | 数量限定 | some 10 million | 修饰 smokers，some 表示“大约” |
+> | 介词短语 | to early graves | 作 went 的方向 / 结果状语，委婉表示“过早死亡” |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [并列分句 1] Lots of Americans bought that nonsense,
+>   ├── 主语：Lots of Americans
+>   ├── 谓语：bought
+>   └── 宾语：that nonsense
+> and
+> [并列分句 2] over three decades, some 10 million smokers went to early graves
+>   ├── 时间状语：over three decades
+>   ├── 主语：some 10 million smokers
+>   ├── 谓语：went
+>   └── 结果 / 方向状语：to early graves
+> ```
+>
+> ### 4. 参考译文
+> 许多美国人相信了那些胡言乱语；结果三十多年间，约有一千万吸烟者过早走向坟墓。
+>
+> ### 5. 考点提示
+> - **并列句的因果暗含**：and 表面连接两个并列事实，语义上暗含“相信错误说法 → 付出生命代价”的结果关系。
+> - **熟词生义 bought**：此处不是“购买”，而是 buy 的引申义“相信 / 接受”。
+> - **some 表示约数**：some 10 million = about 10 million，不能译为“一些一千万”。
+> - **委婉表达**：went to early graves 字面为“走向早坟”，实际表示“过早死亡”。
+
 
 > [!abstract]- 长难句分析
 > **原句**：Do you remember all those years when scientists argued that smoking would kill us but the doubters insisted that we didn't know for sure?
