@@ -14,8 +14,146 @@ sources:
 
 ## Text 2
 
-Do you remember all those years when scientists argued that smoking would kill us but the doubters insisted that we didn't know for sure? That the evidence was **inconclusive**, the science uncertain? That the antismoking lobby was out to destroy our way of life and the government should stay out of the way? Lots of Americans bought that nonsense, and over three decades, some 10 million smokers went to early **graves**.
+Do you remember all those years when scientists argued that smoking would kill us but the doubters insisted that we didn't know for sure?
 
+> [!abstract]- 长难句分析
+> **原句**：Do you remember all those years when scientists argued that smoking would kill us but the doubters insisted that we didn't know for sure?
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 第一层 | 主句（疑问句） | Do you remember all those years |
+> | 第二层 | 定语从句 | when scientists argued... but the doubters insisted... |
+> | 第三层 | 宾语从句 1 | that smoking would kill us |
+> | 第三层 | 宾语从句 2 | that we didn't know for sure |
+>
+> ### 2. 修饰成分
+>
+> | 修饰类型 | 内容 | 说明 |
+> |----------|------|------|
+> | 定语从句（关系副词 when） | when scientists argued that... but the doubters insisted that... | 修饰先行词 years |
+> | 宾语从句（argued 的宾语） | that smoking would kill us | 嵌套在定语从句内 |
+> | 宾语从句（insisted 的宾语） | that we didn't know for sure | 嵌套在定语从句内，与前句并列对比 |
+>
+> ### 3. 结构图解
+>
+> ```text
+> Do you remember all those years
+>   └── [定语从句] when
+>         ├── scientists argued
+>         │     └── [宾语从句] that smoking would kill us
+>         └── but the doubters insisted
+>               └── [宾语从句] that we didn't know for sure
+> ```
+>
+> ### 4. 参考译文
+> 你是否还记得那些年，科学家们争辩说吸烟会致命，而怀疑论者却坚称我们尚不能确定？
+>
+> ### 5. 考点提示
+> - **多重从句嵌套**：主句 → 定语从句 → 宾语从句，需逐层剥离
+> - **并列对比结构**：but 连接 argued 和 insisted 两个谓语，形成观点对立
+> - **修辞疑问句**：以问句开篇吸引读者，引出全文类比核心
+> - **省略结构识别**：后续两个 That... 句子省略了主句 Do you remember，需补全理解
+
+That the evidence was **inconclusive**, the science uncertain?
+
+> [!abstract]- 长难句分析
+> **原句**：That the evidence was inconclusive, the science uncertain?
+>
+> ### 1. 主干提取
+>
+> | 成分 | 内容 |
+> |------|------|
+> | 省略主句 | the doubters insisted / claimed |
+> | 宾语从句 | that the evidence was inconclusive, the science uncertain |
+> | 从句主语 1 | the evidence |
+> | 从句系动词 1 | was |
+> | 从句表语 1 | inconclusive |
+> | 并列省略结构 | the science uncertain = the science was uncertain |
+>
+> ### 2. 修饰成分
+>
+> | 修饰类型 | 内容 | 说明 |
+> |----------|------|------|
+> | 宾语从句（that 引导） | that the evidence was inconclusive, the science uncertain | 承接前文 the doubters insisted，概括怀疑者的另一项说法 |
+> | 并列省略 | the science uncertain | 与 the evidence was inconclusive 并列，省略了系动词 was |
+> | 形容词作表语 | inconclusive / uncertain | 分别说明 evidence 和 science 的状态 |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [省略主句] the doubters insisted / claimed
+>   └── [宾语从句] that...
+>         ├── the evidence was inconclusive
+>         │     ├── 主语：the evidence
+>         │     ├── 系动词：was
+>         │     └── 表语：inconclusive
+>         └── the science (was) uncertain
+>               ├── 主语：the science
+>               ├── 省略系动词：was
+>               └── 表语：uncertain
+> ```
+>
+> ### 4. 参考译文
+> 他们还说，证据并不确凿，科学结论也尚不确定？
+>
+> ### 5. 考点提示
+> - **承前省略**：本句不是独立完整句，而是省略了前文的 the doubters insisted / claimed，that 从句保留下来形成反问式片段。
+> - **that 引导宾语从句**：That 后面的内容整体充当前文省略谓语 insisted / claimed 的宾语。
+> - **并列中的系动词省略**：the science uncertain = the science was uncertain，翻译时必须补出“是 / 尚不”。
+> - **排比修辞**：连续的 That... 问句模拟怀疑者的辩解，阅读时要与前一句合并理解。
+
+That the antismoking lobby was out to destroy our way of life and the government should stay out of the way?
+
+> [!abstract]- 长难句分析
+> **原句**：That the antismoking lobby was out to destroy our way of life and the government should stay out of the way?
+>
+> ### 1. 主干提取
+>
+> | 成分 | 内容 |
+> |------|------|
+> | 省略主句 | the doubters insisted / claimed |
+> | 宾语从句 | that the antismoking lobby was out to destroy our way of life and the government should stay out of the way |
+> | 并列分句 1 主语 | the antismoking lobby |
+> | 并列分句 1 谓语 | was out |
+> | 并列分句 1 补足语 | to destroy our way of life |
+> | 并列分句 2 主语 | the government |
+> | 并列分句 2 谓语 | should stay |
+> | 并列分句 2 状语 | out of the way |
+>
+> ### 2. 修饰成分
+>
+> | 修饰类型 | 内容 | 说明 |
+> |----------|------|------|
+> | 宾语从句（that 引导） | that the antismoking lobby was out to destroy... and the government should stay... | 承接前文 the doubters insisted，概括怀疑者的另一项说法 |
+> | 并列结构 | the antismoking lobby was out... and the government should stay... | and 连接宾语从句内部的两个并列分句 |
+> | 不定式短语 | to destroy our way of life | 作 was out 的补足语，构成 be out to do，表示“企图 / 意图做某事” |
+> | 介词短语 | of life | 修饰 way，说明“生活方式” |
+> | 介词短语 / 固定表达 | out of the way | 作 stay 的状语，表示“不要干涉 / 别挡道” |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [省略主句] the doubters insisted / claimed
+>   └── [宾语从句] that...
+>         ├── [并列分句 1] the antismoking lobby was out
+>         │     └── [不定式补足语] to destroy our way of life
+>         │           └── [介词短语] of life → 修饰 way
+>         └── and [并列分句 2] the government should stay
+>               └── [状语] out of the way
+> ```
+>
+> ### 4. 参考译文
+> 他们还说，反吸烟游说团体企图摧毁我们的生活方式，而政府应该别来干涉？
+>
+> ### 5. 考点提示
+> - **承前省略**：本句与前一句 That... 一样，省略了前文的 the doubters insisted / claimed，不能孤立理解。
+> - **宾语从句内部并列**：that 从句中由 and 连接两个完整分句，阅读时要分别找主谓结构。
+> - **be out to do**：不是简单的“在外面”，而是固定表达，意为“企图 / 打算做某事”。
+> - **熟词短语**：stay out of the way 在语境中意为“不要插手 / 不要干涉”，对应前文政府是否介入控烟的问题。
+
+Lots of Americans bought that nonsense, and over three decades, some 10 million smokers went to early **graves**.
 
 > [!abstract]- 长难句分析
 > **原句**：Lots of Americans bought that nonsense, and over three decades, some 10 million smokers went to early graves.
@@ -65,142 +203,6 @@ Do you remember all those years when scientists argued that smoking would kill u
 > - **熟词生义 bought**：此处不是“购买”，而是 buy 的引申义“相信 / 接受”。
 > - **some 表示约数**：some 10 million = about 10 million，不能译为“一些一千万”。
 > - **委婉表达**：went to early graves 字面为“走向早坟”，实际表示“过早死亡”。
-
-
-> [!abstract]- 长难句分析
-> **原句**：Do you remember all those years when scientists argued that smoking would kill us but the doubters insisted that we didn't know for sure?
->
-> ### 1. 主干提取
->
-> | 层级 | 成分 | 内容 |
-> |------|------|------|
-> | 第一层 | 主句（疑问句） | Do you remember all those years |
-> | 第二层 | 定语从句 | when scientists argued... but the doubters insisted... |
-> | 第三层 | 宾语从句 1 | that smoking would kill us |
-> | 第三层 | 宾语从句 2 | that we didn't know for sure |
->
-> ### 2. 修饰成分
->
-> | 修饰类型 | 内容 | 说明 |
-> |----------|------|------|
-> | 定语从句（关系副词 when） | when scientists argued that... but the doubters insisted that... | 修饰先行词 years |
-> | 宾语从句（argued 的宾语） | that smoking would kill us | 嵌套在定语从句内 |
-> | 宾语从句（insisted 的宾语） | that we didn't know for sure | 嵌套在定语从句内，与前句并列对比 |
->
-> ### 3. 结构图解
->
-> ```text
-> Do you remember all those years
->   └── [定语从句] when
->         ├── scientists argued
->         │     └── [宾语从句] that smoking would kill us
->         └── but the doubters insisted
->               └── [宾语从句] that we didn't know for sure
-> ```
->
-> ### 4. 参考译文
-> 你是否还记得那些年，科学家们争辩说吸烟会致命，而怀疑论者却坚称我们尚不能确定？
->
-> ### 5. 考点提示
-> - **多重从句嵌套**：主句 → 定语从句 → 宾语从句，需逐层剥离
-> - **并列对比结构**：but 连接 argued 和 insisted 两个谓语，形成观点对立
-> - **修辞疑问句**：以问句开篇吸引读者，引出全文类比核心
-> - **省略结构识别**：后续两个 That... 句子省略了主句 Do you remember，需补全理解
-
-> [!abstract]- 长难句分析
-> **原句**：That the evidence was inconclusive, the science uncertain?
->
-> ### 1. 主干提取
->
-> | 成分 | 内容 |
-> |------|------|
-> | 省略主句 | the doubters insisted / claimed |
-> | 宾语从句 | that the evidence was inconclusive, the science uncertain |
-> | 从句主语 1 | the evidence |
-> | 从句系动词 1 | was |
-> | 从句表语 1 | inconclusive |
-> | 并列省略结构 | the science uncertain = the science was uncertain |
->
-> ### 2. 修饰成分
->
-> | 修饰类型 | 内容 | 说明 |
-> |----------|------|------|
-> | 宾语从句（that 引导） | that the evidence was inconclusive, the science uncertain | 承接前文 the doubters insisted，概括怀疑者的另一项说法 |
-> | 并列省略 | the science uncertain | 与 the evidence was inconclusive 并列，省略了系动词 was |
-> | 形容词作表语 | inconclusive / uncertain | 分别说明 evidence 和 science 的状态 |
->
-> ### 3. 结构图解
->
-> ```text
-> [省略主句] the doubters insisted / claimed
->   └── [宾语从句] that...
->         ├── the evidence was inconclusive
->         │     ├── 主语：the evidence
->         │     ├── 系动词：was
->         │     └── 表语：inconclusive
->         └── the science (was) uncertain
->               ├── 主语：the science
->               ├── 省略系动词：was
->               └── 表语：uncertain
-> ```
->
-> ### 4. 参考译文
-> 他们还说，证据并不确凿，科学结论也尚不确定？
->
-> ### 5. 考点提示
-> - **承前省略**：本句不是独立完整句，而是省略了前文的 the doubters insisted / claimed，that 从句保留下来形成反问式片段。
-> - **that 引导宾语从句**：That 后面的内容整体充当前文省略谓语 insisted / claimed 的宾语。
-> - **并列中的系动词省略**：the science uncertain = the science was uncertain，翻译时必须补出“是 / 尚不”。
-> - **排比修辞**：连续的 That... 问句模拟怀疑者的辩解，阅读时要与前一句合并理解。
-
-
-> [!abstract]- 长难句分析
-> **原句**：That the antismoking lobby was out to destroy our way of life and the government should stay out of the way?
->
-> ### 1. 主干提取
->
-> | 成分 | 内容 |
-> |------|------|
-> | 省略主句 | the doubters insisted / claimed |
-> | 宾语从句 | that the antismoking lobby was out to destroy our way of life and the government should stay out of the way |
-> | 并列分句 1 主语 | the antismoking lobby |
-> | 并列分句 1 谓语 | was out |
-> | 并列分句 1 补足语 | to destroy our way of life |
-> | 并列分句 2 主语 | the government |
-> | 并列分句 2 谓语 | should stay |
-> | 并列分句 2 状语 | out of the way |
->
-> ### 2. 修饰成分
->
-> | 修饰类型 | 内容 | 说明 |
-> |----------|------|------|
-> | 宾语从句（that 引导） | that the antismoking lobby was out to destroy... and the government should stay... | 承接前文 the doubters insisted，概括怀疑者的另一项说法 |
-> | 并列结构 | the antismoking lobby was out... and the government should stay... | and 连接宾语从句内部的两个并列分句 |
-> | 不定式短语 | to destroy our way of life | 作 was out 的补足语，构成 be out to do，表示“企图 / 意图做某事” |
-> | 介词短语 | of life | 修饰 way，说明“生活方式” |
-> | 介词短语 / 固定表达 | out of the way | 作 stay 的状语，表示“不要干涉 / 别挡道” |
->
-> ### 3. 结构图解
->
-> ```text
-> [省略主句] the doubters insisted / claimed
->   └── [宾语从句] that...
->         ├── [并列分句 1] the antismoking lobby was out
->         │     └── [不定式补足语] to destroy our way of life
->         │           └── [介词短语] of life → 修饰 way
->         └── and [并列分句 2] the government should stay
->               └── [状语] out of the way
-> ```
->
-> ### 4. 参考译文
-> 他们还说，反吸烟游说团体企图摧毁我们的生活方式，而政府应该别来干涉？
->
-> ### 5. 考点提示
-> - **承前省略**：本句与前一句 That... 一样，省略了前文的 the doubters insisted / claimed，不能孤立理解。
-> - **宾语从句内部并列**：that 从句中由 and 连接两个完整分句，阅读时要分别找主谓结构。
-> - **be out to do**：不是简单的“在外面”，而是固定表达，意为“企图 / 打算做某事”。
-> - **熟词短语**：stay out of the way 在语境中意为“不要插手 / 不要干涉”，对应前文政府是否介入控烟的问题。
-
 
 There are **upsetting parallels** today, as scientists in one wave after another try to awaken us to the growing threat of **global warming**. The latest was a panel from the National Academy of Sciences, enlisted by the White House, to tell us that the Earth's atmosphere is definitely warming and that the problem is largely **man-made**. The clear message is that we should get moving to protect ourselves. The president of the National Academy, Bruce Alberts, added this key point in the preface to the panel's report: "Science never has all the answers. But science does provide us with the best available guide to the future, and it is critical that our nation and the world base important policies on the best judgments that science can provide concerning the future consequences of present actions."
 
