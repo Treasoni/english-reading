@@ -1,5 +1,6 @@
 ---
 name: add-reading-tip
+category: 语法与词汇
 description: 向阅读心得.md添加新的阅读技巧。当用户提到"添加阅读技巧"、"新增心得"、"记录技巧"、"阅读技巧"时触发。
 ---
 

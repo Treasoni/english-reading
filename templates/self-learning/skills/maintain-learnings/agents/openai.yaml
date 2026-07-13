@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maintain Learnings"
+  short_description: "Audit and repair recurring learning errors"
+  default_prompt: "Use $maintain-learnings to audit .learnings, fix recurring skill issues, and verify Codex/Claude skill sync."

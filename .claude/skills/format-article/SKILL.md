@@ -1,5 +1,6 @@
 ---
 name: format-article
+category: 学习工作流
 description: 对英文文章进行美化排版，清理原始格式，添加正确的标题层级、段落分隔和列表结构，输出为规范的Obsidian Markdown格式，保存到 intermediate 目录。用户提供原始英文文章和主题名时触发。
 ---
 

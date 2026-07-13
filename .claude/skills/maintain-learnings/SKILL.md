@@ -1,5 +1,6 @@
 ---
 name: maintain-learnings
+category: 系统维护
 description: 维护 .learnings/ 经验库，把过多或反复出现的学习记录、错误日志、铁律失效问题聚类诊断，追溯并修改对应 skill、模板、校验脚本或项目规则；修复并验证后再归档或移除已解决记录；同时检查 .agents/skills 与 .claude/skills 的共享功能同步，防止更新 Codex 后 Claude Code 丢失对应能力。用户提到 learnings 太多、错误反复犯、清理经验库、维护自我学习、压缩错误日志、从错误中修技能、同步 Codex 和 Claude Code 技能时触发。
 ---
 

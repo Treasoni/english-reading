@@ -5,12 +5,6 @@ description: 自我学习阶段。回顾本次学习会话，记录学习心得�
 
 # Skill: digest（自我学习）
 
-## 触发时机
-用户审核通过 evaluate 产出后，且用户明确要求记录会话学习时。
-
-## 输入
-- `SYSTEM_ROOT`: StudySystem 根路径，如 `{VAULT_PATH}/StudySystem`
-- `topic`: 主题名称
 
 ## 执行步骤
 

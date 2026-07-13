@@ -1,5 +1,6 @@
 ---
 name: summarize-grammar
+category: 语法与词汇
 description: 读取 intermediate 下所有 grammar-notes.md，按语法类别（从句、非谓语动词等）去重合并，生成跨篇章的综合语法总结笔记。支持增量更新——新增篇章语法笔记后重新运行自动合并，不重复已有内容。用户提到"语法总结"、"汇总语法"、"语法笔记汇总"时触发。
 ---
 
