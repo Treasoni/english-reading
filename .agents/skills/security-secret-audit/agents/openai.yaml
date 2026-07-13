@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Secret Audit"
+  short_description: "Scan repositories for exposed secrets before commits"
+  default_prompt: "Use $security-secret-audit to scan this repository for exposed credentials before I commit."
