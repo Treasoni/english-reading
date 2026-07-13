@@ -102,6 +102,55 @@ Do you remember all those years when scientists argued that smoking would kill u
 > - **并列中的系动词省略**：the science uncertain = the science was uncertain，翻译时必须补出“是 / 尚不”。
 > - **排比修辞**：连续的 That... 问句模拟怀疑者的辩解，阅读时要与前一句合并理解。
 
+
+> [!abstract]- 长难句分析
+> **原句**：That the antismoking lobby was out to destroy our way of life and the government should stay out of the way?
+>
+> ### 1. 主干提取
+>
+> | 成分 | 内容 |
+> |------|------|
+> | 省略主句 | the doubters insisted / claimed |
+> | 宾语从句 | that the antismoking lobby was out to destroy our way of life and the government should stay out of the way |
+> | 并列分句 1 主语 | the antismoking lobby |
+> | 并列分句 1 谓语 | was out |
+> | 并列分句 1 补足语 | to destroy our way of life |
+> | 并列分句 2 主语 | the government |
+> | 并列分句 2 谓语 | should stay |
+> | 并列分句 2 状语 | out of the way |
+>
+> ### 2. 修饰成分
+>
+> | 修饰类型 | 内容 | 说明 |
+> |----------|------|------|
+> | 宾语从句（that 引导） | that the antismoking lobby was out to destroy... and the government should stay... | 承接前文 the doubters insisted，概括怀疑者的另一项说法 |
+> | 并列结构 | the antismoking lobby was out... and the government should stay... | and 连接宾语从句内部的两个并列分句 |
+> | 不定式短语 | to destroy our way of life | 作 was out 的补足语，构成 be out to do，表示“企图 / 意图做某事” |
+> | 介词短语 | of life | 修饰 way，说明“生活方式” |
+> | 介词短语 / 固定表达 | out of the way | 作 stay 的状语，表示“不要干涉 / 别挡道” |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [省略主句] the doubters insisted / claimed
+>   └── [宾语从句] that...
+>         ├── [并列分句 1] the antismoking lobby was out
+>         │     └── [不定式补足语] to destroy our way of life
+>         │           └── [介词短语] of life → 修饰 way
+>         └── and [并列分句 2] the government should stay
+>               └── [状语] out of the way
+> ```
+>
+> ### 4. 参考译文
+> 他们还说，反吸烟游说团体企图摧毁我们的生活方式，而政府应该别来干涉？
+>
+> ### 5. 考点提示
+> - **承前省略**：本句与前一句 That... 一样，省略了前文的 the doubters insisted / claimed，不能孤立理解。
+> - **宾语从句内部并列**：that 从句中由 and 连接两个完整分句，阅读时要分别找主谓结构。
+> - **be out to do**：不是简单的“在外面”，而是固定表达，意为“企图 / 打算做某事”。
+> - **熟词短语**：stay out of the way 在语境中意为“不要插手 / 不要干涉”，对应前文政府是否介入控烟的问题。
+
+
 There are **upsetting parallels** today, as scientists in one wave after another try to awaken us to the growing threat of **global warming**. The latest was a panel from the National Academy of Sciences, enlisted by the White House, to tell us that the Earth's atmosphere is definitely warming and that the problem is largely **man-made**. The clear message is that we should get moving to protect ourselves. The president of the National Academy, Bruce Alberts, added this key point in the preface to the panel's report: "Science never has all the answers. But science does provide us with the best available guide to the future, and it is critical that our nation and the world base important policies on the best judgments that science can provide concerning the future consequences of present actions."
 
 > [!abstract]- 长难句分析
