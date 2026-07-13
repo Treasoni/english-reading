@@ -63,8 +63,8 @@ Do you remember all those years when scientists argued that smoking would kill u
 >
 > | 成分 | 内容 |
 > |------|------|
-> | 省略主句 | Do you remember / Did they insist |
-> | 名词性从句 | That the evidence was inconclusive, the science uncertain |
+> | 省略主句 | the doubters insisted / claimed |
+> | 宾语从句 | that the evidence was inconclusive, the science uncertain |
 > | 从句主语 1 | the evidence |
 > | 从句系动词 1 | was |
 > | 从句表语 1 | inconclusive |
@@ -74,15 +74,15 @@ Do you remember all those years when scientists argued that smoking would kill u
 >
 > | 修饰类型 | 内容 | 说明 |
 > |----------|------|------|
-> | 名词性从句（that 引导） | That the evidence was inconclusive, the science uncertain | 承接前句省略的 Do you remember，也可理解为概括怀疑者坚持的说法 |
+> | 宾语从句（that 引导） | that the evidence was inconclusive, the science uncertain | 承接前文 the doubters insisted，概括怀疑者的另一项说法 |
 > | 并列省略 | the science uncertain | 与 the evidence was inconclusive 并列，省略了系动词 was |
 > | 形容词作表语 | inconclusive / uncertain | 分别说明 evidence 和 science 的状态 |
 >
 > ### 3. 结构图解
 >
 > ```text
-> [省略主句] Do you remember / Did they insist
->   └── [that 引导的名词性从句]
+> [省略主句] the doubters insisted / claimed
+>   └── [宾语从句] that...
 >         ├── the evidence was inconclusive
 >         │     ├── 主语：the evidence
 >         │     ├── 系动词：was
@@ -94,11 +94,11 @@ Do you remember all those years when scientists argued that smoking would kill u
 > ```
 >
 > ### 4. 参考译文
-> 还记得他们说证据并不确凿、科学结论尚不确定吗？
+> 他们还说，证据并不确凿，科学结论也尚不确定？
 >
 > ### 5. 考点提示
-> - **省略结构**：本句不是独立完整句，而是承接前文疑问句，省略了 Do you remember 或类似主句。
-> - **that 引导名词性从句**：That 后面的内容整体充当前文省略动词的宾语。
+> - **承前省略**：本句不是独立完整句，而是省略了前文的 the doubters insisted / claimed，that 从句保留下来形成反问式片段。
+> - **that 引导宾语从句**：That 后面的内容整体充当前文省略谓语 insisted / claimed 的宾语。
 > - **并列中的系动词省略**：the science uncertain = the science was uncertain，翻译时必须补出“是 / 尚不”。
 > - **排比修辞**：连续的 That... 问句模拟怀疑者的辩解，阅读时要与前一句合并理解。
 
