@@ -14,7 +14,7 @@ sources:
 
 ## Text 2
 
-Do you remember all those years when scientists argued that smoking would kill us but the doubters insisted that we didn't know for sure? That the evidence was inconclusive, the science uncertain? That the antismoking lobby was out to destroy our way of life and the government should stay out of the way? Lots of Americans bought that nonsense, and over three decades, some 10 million smokers went to early graves.
+Do you remember all those years when scientists argued that smoking would kill us but the doubters insisted that we didn't know for sure? That the evidence was **inconclusive**, the science uncertain? That the antismoking lobby was out to destroy our way of life and the government should stay out of the way? Lots of Americans bought that nonsense, and over three decades, some 10 million smokers went to early graves.
 
 > [!abstract]- 长难句分析
 > **原句**：Do you remember all those years when scientists argued that smoking would kill us but the doubters insisted that we didn't know for sure?
