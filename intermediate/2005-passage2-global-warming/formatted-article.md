@@ -334,7 +334,7 @@ The president of the National Academy, Bruce Alberts, added this key point in th
 > - **现在分词作后置定语**：concerning... 修饰 judgments，考研翻译常见考点
 > - **does 强调谓语**：does provide 表强调，译作"确实提供"
 
-Just as on smoking, voices now come from many quarters insisting that the science about global warming is incomplete, that it's OK to keep pouring fumes into the air until we know for sure. This is a ==dangerous game==: by the time 100 percent of the evidence is in, it may be too late. With the risks obvious and growing, a prudent people would take out an insurance policy now.
+Just as on smoking, voices now come from many quarters insisting that the science about global warming is incomplete, that it's OK to keep pouring **fume**s into the air until we know for sure. This is a ==dangerous game==: by the time 100 percent of the evidence is in, it may be too late. With the risks obvious and growing, a **prudent** people would take out an insurance policy now.
 
 > [!abstract]- 长难句分析
 > **原句**：With the risks obvious and growing, a prudent people would take out an insurance policy now.
