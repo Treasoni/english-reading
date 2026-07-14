@@ -7,7 +7,7 @@ tags:
   - formatted-article
   - 2005
 created: 2026-07-11
-updated: 2026-07-13
+updated: 2026-07-14
 sources:
   - "2005年全国硕士研究生入学统一考试英语（一）试题"
 ---
@@ -204,7 +204,7 @@ Lots of Americans bought that nonsense, and over three decades, some 10 million 
 > - **some 表示约数**：some 10 million = about 10 million，不能译为“一些一千万”。
 > - **委婉表达**：went to early graves 字面为“走向早坟”，实际表示“过早死亡”。
 
-There are **upsetting parallels** today, as scientists in one wave after another try to awaken us to the growing threat of **global warming**. The latest was a panel from the National Academy of Sciences, enlisted by the White House, to tell us that the Earth's atmosphere is definitely warming and that the problem is largely **man-made**. The clear message is that we should get moving to protect ourselves. The president of the National Academy, Bruce Alberts, added this key point in the preface to the panel's report: "Science never has all the answers. But science does provide us with the best available guide to the future, and it is critical that our nation and the world base important policies on the best judgments that science can provide concerning the future consequences of present actions."
+There are **upsetting parallels** today, as scientists in one wave after another try to awaken us to the growing threat of **global warming**.
 
 > [!abstract]- 长难句分析
 > **原句**：There are upsetting parallels today, as scientists in one wave after another try to awaken us to the growing threat of global warming.
@@ -239,6 +239,58 @@ There are **upsetting parallels** today, as scientists in one wave after another
 > - **as 引导的伴随状语从句**：表示"随着……的同时发生"，是考研阅读高频语法点
 > - **There be 句型引出话题**：议论文中用于引入新现象
 > - **parallels 的指代理解**：需联系前文吸烟争议，理解"相似之处"——即与前文科学界与怀疑论者对立的相同模式
+
+The latest was a panel from the National Academy of Sciences, enlisted by the White House, to tell us that the Earth's atmosphere is definitely warming and that the problem is largely **man-made**.
+
+> [!abstract]- 长难句分析
+> **原句**：The latest was a panel from the National Academy of Sciences, enlisted by the White House, to tell us that the Earth's atmosphere is definitely warming and that the problem is largely man-made.
+>
+> ### 1. 主干提取
+>
+> | 成分 | 内容 |
+> |------|------|
+> | 主语 | The latest |
+> | 系动词 | was |
+> | 表语 | a panel from the National Academy of Sciences |
+> | 过去分词短语 | enlisted by the White House |
+> | 不定式目的状语 | to tell us that... and that... |
+> | tell 的间接宾语 | us |
+> | tell 的直接宾语 1 | that the Earth's atmosphere is definitely warming |
+> | tell 的直接宾语 2 | that the problem is largely man-made |
+>
+> ### 2. 修饰成分
+>
+> | 修饰类型 | 内容 | 说明 |
+> |----------|------|------|
+> | 介词短语作后置定语 | from the National Academy of Sciences | 修饰 panel，说明专家小组来源 |
+> | 过去分词短语作后置定语 | enlisted by the White House | 修饰 panel，表示“受白宫征召 / 邀请” |
+> | 不定式短语作目的状语 | to tell us that... and that... | 说明该专家小组被征召的目的 |
+> | 宾语从句 1 | that the Earth's atmosphere is definitely warming | 作 tell 的直接宾语之一 |
+> | 宾语从句 2 | that the problem is largely man-made | 与第一个 that 从句并列，同作 tell 的直接宾语 |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [主句] The latest was a panel
+>   ├── [后置定语] from the National Academy of Sciences → 修饰 panel
+>   ├── [后置定语] enlisted by the White House → 修饰 panel
+>   └── [目的状语] to tell us
+>         ├── [宾语从句 1] that the Earth's atmosphere is definitely warming
+>         └── and [宾语从句 2] that the problem is largely man-made
+> ```
+>
+> ### 4. 参考译文
+> 最近的一次是一支来自美国国家科学院、由白宫征召的专家小组；他们告诉我们，地球大气确实正在变暖，而且这一问题在很大程度上是人为造成的。
+>
+> ### 5. 考点提示
+> - **主系表结构拉长**：主干是 The latest was a panel，后面多个后置成分都围绕 panel 展开。
+> - **过去分词作后置定语**：enlisted by the White House 修饰 panel，表示被动关系。
+> - **不定式作目的状语**：to tell us... 说明白宫征召该小组的目的。
+> - **并列宾语从句**：两个 that 从句并列作 tell 的直接宾语，第二个 that 不能漏读。
+
+The clear message is that we should get moving to protect ourselves.
+
+The president of the National Academy, Bruce Alberts, added this key point in the preface to the panel's report: "Science never has all the answers. But science does provide us with the best available guide to the future, and it is critical that our nation and the world base important policies on the best judgments that science can provide concerning the future consequences of present actions."
 
 > [!abstract]- 长难句分析
 > **原句**：But science does provide us with the best available guide to the future, and it is critical that our nation and the world base important policies on the best judgments that science can provide concerning the future consequences of present actions.
