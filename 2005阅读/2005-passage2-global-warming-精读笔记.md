@@ -832,7 +832,113 @@ To serve as responsible stewards of the planet, we must press forward on deeper 
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **conservation measures** | n. | 保护措施 | "Congress should help to begin fashioning **conservation measures**." |
+| **definitely** | adv. | 确实；肯定 | "the Earth's atmosphere is **definitely** warming" |
+| **environmentally sound** | adj. | 对环境无害的 | "it is crucial that those new plants be **environmentally sound**." |
+| **financial incentives** | n. | 财政激励；经济刺激 | "A bill... which would offer **financial incentives** for private industry" |
+| **fume** | n. | （浓烈或有害的）烟雾；废气 | "it's OK to keep pouring **fumes** into the air until we know for sure" |
+| **global warming** | n. | 全球变暖 | "try to awaken us to the growing threat of **global warming**" |
+| **grave** | n. | 坟墓 | "some 10 million smokers went to early **graves**" |
+| **inconclusive** | adj. | 非决定性的；不确定的 | "That the evidence was **inconclusive**, the science uncertain?" |
+| **legislative initiative** | n. | 立法主动权 | "If the Administration won't take the **legislative initiative**" |
+| **man-made** | adj. | 人为的 | "the problem is largely **man-made**" |
+| **paralysis by analysis** | n. | 过度分析导致的麻痹 | "a classic case of **'paralysis by analysis'**" |
+| **power plants** | n. | 发电厂 | "the country is getting ready to build lots of new **power plants**" |
+| **prudent** | adj. | 谨慎的；明智的 | "a **prudent** people would take out an insurance policy now" |
+| **steward** | n. | 管理者；负责人 | "To serve as responsible **stewards** of the planet" |
+| **upsetting parallels** | n. | 令人不安的相似之处 | "There are **upsetting parallels** today" |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> prudent / inconclusive / fumes / stewards / definitely / grave / man-made / paralysis by analysis / legislative initiative / financial incentives
+
+1. The test results were ________, so the doctors decided to run more tests before making a diagnosis.
+
+2. Car exhaust ________ are a major contributor to air pollution in urban areas.
+
+3. As ________ of the environment, we have a responsibility to protect natural resources for future generations.
+
+4. The company offered ________ to employees who exceeded their sales targets.
+
+5. The government took the ________ by proposing new environmental regulations before the crisis worsened.
+
+6. It is ________ not to invest all your money in a single stock.
+
+7. The project suffered from ________; the team spent so much time researching that they never actually started building.
+
+8. The evidence is ________ conclusive — there is no doubt about the outcome.
+
+9. The scientist argued that the recent floods were ________, caused by human activity rather than natural cycles.
+
+10. Smoking led millions of Americans to an early ________.
+
+> [!abstract]- 答案
+> 1. **inconclusive**（非决定性的）
+> 2. **fumes**（废气）
+> 3. **stewards**（管理者）
+> 4. **financial incentives**（财政激励）
+> 5. **legislative initiative**（立法主动权）
+> 6. **prudent**（谨慎的）
+> 7. **paralysis by analysis**（过度分析导致麻痹）
+> 8. **definitely**（确实）
+> 9. **man-made**（人为的）
+> 10. **grave**（坟墓）
+
+---
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. take out an insurance policy (文中比喻义)
+
+2. stay out of the way
+
+3. press for more research
+
+> [!abstract]- 答案
+> 1. **take out an insurance policy** = 字面义"购买保险"，文中比喻义为"采取预防性措施"
+> 2. **stay out of the way** = 不干涉；别插手
+> 3. **press for more research** = 迫切要求进行更多研究
+
+---
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "Lots of Americans **bought** that nonsense" 中 **bought** 的含义是：
+   - A. 购买
+   - B. 相信；接受
+   - C. 收买
+   - D. 获得
+
+2. "it is crucial that those new plants be **environmentally sound**" 中 **sound** 的含义是：
+   - A. 声音
+   - B. 发声的
+   - C. 健全的；无害的
+   - D. 彻底的
+
+3. "With the risks obvious and growing, a **prudent** people would take out an insurance policy now" 中 **prudent** 的含义是：
+   - A. 冲动的
+   - B. 谨慎的
+   - C. 激进的
+   - D. 乐观的
+
+> [!abstract]- 答案
+> 1. **B** — bought 此处为熟词生义，意为"相信/接受"，与 that nonsense（那些胡言乱语）搭配，讽刺意味明显。
+> 2. **C** — environmentally sound 意为"对环境无害/安全的"，sound 在此为形容词，意为"健全的、完好的"。
+> 3. **B** — prudent 意为"谨慎的"，与后文"买一份保险"的比喻相呼应，体现未雨绸缪的态度。
+
+---
 
 ## 心得
 
