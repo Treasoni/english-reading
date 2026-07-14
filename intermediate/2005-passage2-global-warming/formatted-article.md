@@ -240,7 +240,7 @@ There are **upsetting parallels** today, as scientists in one wave after another
 > - **There be 句型引出话题**：议论文中用于引入新现象
 > - **parallels 的指代理解**：需联系前文吸烟争议，理解"相似之处"——即与前文科学界与怀疑论者对立的相同模式
 
-The latest was a panel from the National Academy of Sciences, enlisted by the White House, to tell us that the Earth's atmosphere is definitely warming and that the problem is largely **man-made**.
+The latest was a panel from the National Academy of Sciences, enlisted by the White House, to tell us that the Earth's atmosphere is **definitely** warming and that the problem is largely **man-made**.
 
 > [!abstract]- 长难句分析
 > **原句**：The latest was a panel from the National Academy of Sciences, enlisted by the White House, to tell us that the Earth's atmosphere is definitely warming and that the problem is largely man-made.
