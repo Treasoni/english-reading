@@ -376,7 +376,53 @@ Just as on smoking, voices now come from many quarters insisting that the scienc
 
 Fortunately, the White House is starting to pay attention. But it's obvious that a majority of the president's advisers still don't take global warming seriously. Instead of a plan of action, they continue to press for more research — a classic case of **"paralysis by analysis."**
 
-To serve as responsible **stewards** of the planet, we must press forward on deeper atmospheric and oceanic research. But research alone is inadequate. If the Administration won't take the **legislative initiative**, Congress should help to begin fashioning **conservation measures**. A bill by Democratic Senator Robert Byrd of West Virginia, which would offer **financial incentives** for private industry, is a promising start. Many see that the country is getting ready to build lots of new **power plants** to meet our energy needs. If we are ever going to protect the atmosphere, it is crucial that those new plants be **environmentally sound**.
+To serve as responsible **stewards** of the planet, we must press forward on deeper atmospheric and oceanic research.
+
+But research alone is inadequate.
+
+If the Administration won't take the **legislative initiative**, Congress should help to begin fashioning **conservation measures**.
+
+> [!abstract]- 长难句分析
+> **原句**：If the Administration won't take the legislative initiative, Congress should help to begin fashioning conservation measures.
+>
+> ### 1. 主干提取
+>
+> | 成分 | 内容 |
+> |------|------|
+> | 条件状语从句 | If the Administration won't take the legislative initiative |
+> | 主句主语 | Congress |
+> | 主句谓语 | should help |
+> | 不定式宾语 / 补足语 | to begin fashioning conservation measures |
+> | begin 的宾语 | fashioning conservation measures |
+>
+> ### 2. 修饰成分
+>
+> | 修饰类型 | 内容 | 说明 |
+> |----------|------|------|
+> | 条件状语从句 | If the Administration won't take the legislative initiative | 说明国会应介入的前提条件 |
+> | 名词短语 | the legislative initiative | 作 take 的宾语，表示“立法主动权” |
+> | 不定式短语 | to begin fashioning conservation measures | 作 help 的宾语 / 补足语，说明“帮助做什么” |
+> | 动名词短语 | fashioning conservation measures | 作 begin 的宾语，表示“开始制定保护措施” |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [条件状语从句] If the Administration won't take the legislative initiative,
+> [主句] Congress should help
+>   └── [不定式结构] to begin
+>         └── [动名词宾语] fashioning conservation measures
+> ```
+>
+> ### 4. 参考译文
+> 如果行政当局不愿掌握立法主动权，国会就应当帮助开始制定保护措施。
+>
+> ### 5. 考点提示
+> - **If 条件状语从句**：先处理从句条件，再回到主句 Congress should help。
+> - **help to do 结构**：help 后可接带 to 或不带 to 的不定式，此处为 help to begin。
+> - **begin doing**：begin 后接动名词 fashioning，形成 begin fashioning conservation measures。
+> - **抽象名词具体化翻译**：initiative 与 measures 都是政策类抽象名词，需结合语境译为“主动权”“措施”。
+
+A bill by Democratic Senator Robert Byrd of West Virginia, which would offer **financial incentives** for private industry, is a promising start.
 
 > [!abstract]- 长难句分析
 > **原句**：A bill by Democratic Senator Robert Byrd of West Virginia, which would offer financial incentives for private industry, is a promising start.
@@ -414,6 +460,10 @@ To serve as responsible **stewards** of the planet, we must press forward on dee
 > - **非限制性定语从句**：which 引导，用逗号与主句隔开，对先行词进行补充说明，翻译时通常译为独立句子
 > - **主谓分隔**：主语 A bill 与系动词 is 之间插入较长修饰成分，需准确识别主谓关系
 > - **介词短语作后置定语**：by... 修饰 bill，说明法案发起人
+
+Many see that the country is getting ready to build lots of new **power plants** to meet our energy needs.
+
+If we are ever going to protect the atmosphere, it is crucial that those new plants be **environmentally sound**.
 
 > [!abstract]- 长难句分析
 > **原句**：If we are ever going to protect the atmosphere, it is crucial that those new plants be environmentally sound.
