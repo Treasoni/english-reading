@@ -349,7 +349,7 @@ Because our conscious mind is **occupied** with daily life we don’t always thi
 > | 原因状语从句 | Because our conscious mind is **occupied** with daily life | 说明我们不总是思考情绪意义的原因 |
 > | 主句主语 S | we | 动作发出者 |
 > | 主句谓语 V | don’t always think | 否定频率结构，表示“并不总是思考” |
-> | 主句状语 / 补足 A | about the emotional significance of the day’s events | think about 的宾语内容，说明思考对象 |
+> | 介词短语补足语 / 思考对象 | about the emotional significance of the day’s events | 补足 think 的意义，说明“思考什么” |
 > | 时间状语从句 | until, it appears, we begin to dream | 表示这种“不思考”持续到开始做梦时才发生变化 |
 > | 插入语 | it appears | 表示作者谨慎判断：“似乎 / 看来” |
 >
@@ -388,7 +388,7 @@ Because our conscious mind is **occupied** with daily life we don’t always thi
 > ```
 >
 > ### 4. 参考译文
-> 由于我们的意识被日常生活占据，我们并不总是思考当天事件所具有的情绪意义——直到看起来我们开始做梦时才会如此。
+> 由于我们的意识被日常生活占据，我们并不总会去思考当天事件所具有的情绪意义——看来，直到开始做梦时，我们才会这样做。
 >
 > ### 5. 考点提示
 > - **Because 引导原因状语从句**：句首 Because 从句不是主句，主句核心是 we don’t always think...。
