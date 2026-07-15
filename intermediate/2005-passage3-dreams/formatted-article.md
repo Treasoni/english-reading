@@ -339,6 +339,64 @@ Most people seem to have more bad dreams early in the night, progressing toward 
 
 Because our conscious mind is **occupied** with daily life we don’t always think about the emotional significance of the day’s events—until, it appears, we begin to dream.
 
+> [!abstract]- 长难句分析
+> **原句**：Because our conscious mind is **occupied** with daily life we don’t always think about the emotional significance of the day’s events—until, it appears, we begin to dream.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 原因状语从句 | Because our conscious mind is **occupied** with daily life | 说明我们不总是思考情绪意义的原因 |
+> | 主句主语 S | we | 动作发出者 |
+> | 主句谓语 V | don’t always think | 否定频率结构，表示“并不总是思考” |
+> | 主句状语 / 补足 A | about the emotional significance of the day’s events | think about 的宾语内容，说明思考对象 |
+> | 时间状语从句 | until, it appears, we begin to dream | 表示这种“不思考”持续到开始做梦时才发生变化 |
+> | 插入语 | it appears | 表示作者谨慎判断：“似乎 / 看来” |
+>
+> **简化主干**：Because our conscious mind is occupied with daily life, we don’t always think about the emotional significance—until we begin to dream.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 原因状语从句 | Because | 主句 we don’t always think... | 解释为什么清醒时不总思考事件的情绪意义 |
+> | 被动结构 | is occupied | our conscious mind | be occupied with 表示“被……占据 / 忙于……” |
+> | 介词短语 | with | occupied | with daily life 说明被什么占据 |
+> | 频率副词 | always | think | 与 don’t 构成部分否定：not always = 并不总是 |
+> | 介词短语 | about | think | think about... 表示“思考……” |
+> | 介词短语作后置定语 | of | significance | of the day’s events 修饰 significance |
+> | 所有格 | day’s | events | 表示“当天事件的” |
+> | 时间状语从句 | until | 主句谓语 don’t always think | 说明到开始做梦时才出现对情绪意义的处理 |
+> | 插入语 | it appears | until 从句 | 表示推测语气，翻译时可处理为“似乎 / 看来” |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [原因状语从句] Because our conscious mind is occupied with daily life
+>   ├── 主语：our conscious mind
+>   ├── 谓语：is occupied
+>   └── 介词短语：with daily life
+> [主句] we don’t always think about the emotional significance of the day’s events
+>   ├── 主语：we
+>   ├── 谓语：don’t always think
+>   └── 介词短语：about the emotional significance
+>         └── [后置定语] of the day’s events → 修饰 significance
+> [时间状语从句] until, it appears, we begin to dream
+>   ├── 连词：until
+>   ├── 插入语：it appears
+>   └── 从句主干：we begin to dream
+> ```
+>
+> ### 4. 参考译文
+> 由于我们的意识被日常生活占据，我们并不总是思考当天事件所具有的情绪意义——直到看起来我们开始做梦时才会如此。
+>
+> ### 5. 考点提示
+> - **Because 引导原因状语从句**：句首 Because 从句不是主句，主句核心是 we don’t always think...。
+> - **not always 部分否定**：don’t always think 译为“并不总是思考”，不能译成“总是不思考”。
+> - **think about 的宾语由介词短语承载**：about the emotional significance... 是思考对象。
+> - **until 引导时间状语从句**：表示前面状态持续到“开始做梦”这一时间点。
+> - **插入语识别**：it appears 打断 until 从句主干，阅读时可先跳过，抓住 we begin to dream。
+
 And this process need not be left to the unconscious. Cartwright believes one can exercise **conscious control** over recurring bad dreams. As soon as you awaken, identify what is upsetting about the dream. Visualize how you would like it to end instead; the next time it occurs, try to wake up just enough to control its course. With much practice people can learn to, literally, do it in their sleep.
 
 At the end of the day, there’s probably little reason to pay attention to our dreams at all unless they keep us from sleeping or “we wake up in a panic,” Cartwright says. Terrorism, economic uncertainties and general feelings of insecurity have increased people’s anxiety. Those suffering from persistent nightmares should seek help from a therapist. For the rest of us, the brain has its ways of working through bad feelings. Sleep—or rather dream—on it and you’ll feel better in the morning.
