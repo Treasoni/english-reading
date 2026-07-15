@@ -470,7 +470,7 @@ Visualize how you would like it to end instead; the next time it occurs, try to 
 > | 宾语从句宾补 C | to end instead | 说明希望梦以何种方式结束 |
 > | 第二分句时间状语 | the next time it occurs | 表示下一次该梦出现时 |
 > | 第二分句谓语 V | try | 祈使句谓语，省略主语 you |
-> | 第二分句补足成分 C | to wake up just enough to control its course | try 后的不定式，说明尝试做什么 |
+> | 第二分句不定式宾语 / 补足成分 | to wake up just enough to control its course | try 后接不定式，说明尝试做什么；just enough 后的不定式说明“足够到可以控制”的程度 |
 >
 > **简化主干**：Visualize how you would like it to end; try to wake up enough to control its course.
 >
@@ -482,11 +482,11 @@ Visualize how you would like it to end instead; the next time it occurs, try to 
 > | 宾语从句 | how | Visualize | how you would like it to end instead 整体作 Visualize 的宾语 |
 > | 不定式补足语 | to end | it | 作 would like 的宾语补足语，说明希望梦“如何结束” |
 > | 副词 | instead | end | 表示“以另一种方式 / 作为替代” |
-> | 时间状语从句 / 名词短语引导结构 | the next time | try | the next time it occurs 表示“下一次它出现时” |
+> | 连词性名词短语 / 时间状语从句 | the next time | try | the next time it occurs 整体作时间状语，表示“下一次它出现时” |
 > | 不定式短语 | to wake up | try | try to do 结构，表示“试着醒来” |
-> | 程度副词短语 | just enough | wake up | 表示醒到“刚好足够”的程度 |
-> | 不定式目的状语 | to control | just enough / wake up | 说明“醒到足够程度”的目的：控制梦境进程 |
-> | 介词短语 / 后置定语 | of | course | its course 中 its 指 dream，course 表示梦的发展进程 |
+> | 程度副词短语 | just enough | wake up | 修饰 wake up 的程度，表示醒到“刚好足够”的程度 |
+> | enough 后接不定式 / 目的结果关系 | to control | just enough | to control its course 补足 enough，说明“足够到可以控制梦境进程”的程度，兼有目的 / 结果意味 |
+> | 代词限定语 | its | course | its 指 dream，its course 表示梦的发展进程；此处没有 of 介词短语 |
 >
 > ### 3. 结构图解
 >
@@ -506,8 +506,9 @@ Visualize how you would like it to end instead; the next time it occurs, try to 
 >   │     └── 谓语：occurs
 >   ├── 省略主语：you
 >   ├── 谓语：try
->   └── 补足语：to wake up just enough
->         └── [目的状语] to control its course
+>   └── 不定式宾语 / 补足成分：to wake up just enough to control its course
+>         ├── 程度副词短语：just enough → 修饰 wake up 的程度
+>         └── enough 后接不定式：to control its course → 说明“足够到可以控制”的程度
 >               ├── 谓语：control
 >               └── 宾语：its course (= the dream's course)
 > ```
@@ -519,8 +520,8 @@ Visualize how you would like it to end instead; the next time it occurs, try to 
 > - **分号连接两个祈使句**：Visualize... 与 try... 都是省略主语 you 的祈使结构，表示操作步骤。
 > - **how 引导宾语从句**：how you would like it to end instead 整体作 Visualize 的宾语，how 表示“以怎样的方式”。
 > - **would like + 宾语 + to do**：it to end 是 “would like + O + OC” 结构，it 指前文的 dream。
-> - **the next time 引导时间状语**：相当于 when next time，表示“下一次……时”。
-> - **just enough to do**：enough 后接不定式，表示“足够……以便……”，to control its course 是目的 / 结果。
+> - **the next time 引导时间状语从句**：the next time 可作连词性短语，表示“下一次……时”，不需要再加 when。
+> - **just enough to do**：enough 后接不定式，表示“足够到可以……”，to control its course 补足 enough，说明醒来的程度，兼有目的 / 结果意味。
 
 With much practice people can learn to, literally, do it in their sleep.
 
