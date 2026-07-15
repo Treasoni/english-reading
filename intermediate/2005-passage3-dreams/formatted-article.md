@@ -397,7 +397,63 @@ Because our conscious mind is **occupied** with daily life we don’t always thi
 > - **until 引导时间状语从句**：表示前面状态持续到“开始做梦”这一时间点。
 > - **插入语识别**：it appears 打断 until 从句主干，阅读时可先跳过，抓住 we begin to dream。
 
-And this process need not be left to the unconscious. Cartwright believes one can exercise **conscious control** over recurring bad dreams. As soon as you awaken, identify what is upsetting about the dream. Visualize how you would like it to end instead; the next time it occurs, try to wake up just enough to control its course. With much practice people can learn to, literally, do it in their sleep.
+And this process need not be left to the unconscious. Cartwright believes one can exercise **conscious control** over recurring bad dreams. As soon as you awaken, identify what is upsetting about the dream.
+
+> [!abstract]- 长难句分析
+> **原句**：As soon as you awaken, identify what is upsetting about the dream.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 时间状语从句 | As soon as you awaken | 表示动作发生的时间：“一醒来就……” |
+> | 主句谓语 V | identify | 祈使句谓语，省略主语 you |
+> | 主句宾语 O | what is upsetting about the dream | what 引导的宾语从句，作 identify 的宾语 |
+> | 宾语从句主语 S | what | 表示“使人不安的东西 / 内容” |
+> | 宾语从句系动词 V | is | 连接主语与表语 |
+> | 宾语从句表语 C | upsetting | 说明 what 的性质：令人不安 |
+> | 宾语从句状语 / 补足 A | about the dream | 说明 upsetting 所涉及的对象 |
+>
+> **简化主干**：Identify what is upsetting about the dream.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 时间状语从句 | As soon as | 主句 identify... | 表示“一……就……”，强调动作紧接发生 |
+> | 祈使句省略主语 | identify | 主句 | 主语 you 被省略，直接给出建议 / 指令 |
+> | 名词性从句 / 宾语从句 | what | identify | what is upsetting about the dream 整体作 identify 的宾语 |
+> | 形容词化现在分词 | upsetting | what | upsetting 表示“令人不安的”，作表语 |
+> | 介词短语 | about | upsetting | about the dream 说明不安的来源或对象 |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [时间状语从句] As soon as you awaken
+>   ├── 连词：As soon as
+>   ├── 主语：you
+>   └── 谓语：awaken
+> [主句 / 祈使句] identify what is upsetting about the dream
+>   ├── 省略主语：you
+>   ├── 谓语：identify
+>   └── [宾语从句] what is upsetting about the dream
+>         ├── 主语：what
+>         ├── 系动词：is
+>         ├── 表语：upsetting
+>         └── 介词短语：about the dream
+> ```
+>
+> ### 4. 参考译文
+> 一醒来，就找出梦中让你不安的地方。
+>
+> ### 5. 考点提示
+> - **As soon as 引导时间状语从句**：表示“一……就……”，主句动作紧随从句动作发生。
+> - **祈使句主语省略**：identify 前省略了 you，语气是建议或指令。
+> - **what 引导宾语从句**：what is upsetting about the dream 整体作 identify 的宾语，what 在从句中作主语。
+> - **upsetting 的词性判断**：此处为形容词化现在分词，表示“令人不安的”，不是进行时谓语。
+> - **介词短语补足含义**：about the dream 说明“不安”与梦的内容相关。
+
+Visualize how you would like it to end instead; the next time it occurs, try to wake up just enough to control its course. With much practice people can learn to, literally, do it in their sleep.
 
 At the end of the day, there’s probably little reason to pay attention to our dreams at all unless they keep us from sleeping or “we wake up in a panic,” Cartwright says. Terrorism, economic uncertainties and general feelings of insecurity have increased people’s anxiety. Those suffering from persistent nightmares should seek help from a therapist. For the rest of us, the brain has its ways of working through bad feelings. Sleep—or rather dream—on it and you’ll feel better in the morning.
 
