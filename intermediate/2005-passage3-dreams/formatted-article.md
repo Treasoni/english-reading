@@ -337,7 +337,7 @@ Most people seem to have more bad dreams early in the night, progressing toward 
 > - **that 宾语从句**：that they are working through... 作 suggesting 的宾语，说明推论内容。
 > - **过去分词后置定语**：generated during the day 修饰 negative feelings，表示“白天产生的负面情绪”。
 
-Because our conscious mind is occupied with daily life we don’t always think about the emotional significance of the day’s events—until, it appears, we begin to dream.
+Because our conscious mind is **occupied** with daily life we don’t always think about the emotional significance of the day’s events—until, it appears, we begin to dream.
 
 And this process need not be left to the unconscious. Cartwright believes one can exercise **conscious control** over recurring bad dreams. As soon as you awaken, identify what is upsetting about the dream. Visualize how you would like it to end instead; the next time it occurs, try to wake up just enough to control its course. With much practice people can learn to, literally, do it in their sleep.
 
