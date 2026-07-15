@@ -200,7 +200,72 @@ Now researchers suspect that dreams are part of the mind’s **emotional thermos
 
 “It’s your dream,” says Rosalind Cartwright, chair of psychology at Chicago’s Medical Center. “If you don’t like it, change it.”
 
-Evidence from **brain imaging** supports this view. The brain is as active during **REM (rapid eye movement) sleep**—when most vivid dreams occur—as it is when fully awake, says Dr. Eric Nofzinger at the University of Pittsburgh. But not all parts of the brain are equally involved; the **limbic system** (the “emotional brain”) is especially active, while the **prefrontal cortex** (the center of intellect and reasoning) is relatively quiet. “We wake up from dreams happy or depressed, and those feelings can stay with us all day,” says Stanford sleep researcher Dr. William Dement.
+Evidence from **brain imaging** supports this view.
+
+The brain is as active during **REM (rapid eye movement) sleep**—when most vivid dreams occur—as it is when fully awake, says Dr. Eric Nofzinger at the University of Pittsburgh.
+
+> [!abstract]- 长难句分析
+> **原句**：The brain is as active during **REM (rapid eye movement) sleep**—when most vivid dreams occur—as it is when fully awake, says Dr. Eric Nofzinger at the University of Pittsburgh.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 陈述内容主语 S | The brain | 被描述的对象 |
+> | 陈述内容系动词 V | is | 连接主语与表语 |
+> | 陈述内容表语 C | as active during **REM (rapid eye movement) sleep** as it is when fully awake | as...as 比较结构，说明大脑在 REM 睡眠中与清醒时一样活跃 |
+> | 比较结构第一部分 | as active during **REM (rapid eye movement) sleep** | 表示“在 REM 睡眠中同样活跃” |
+> | 比较结构第二部分 | as it is when fully awake | 比较对象：大脑完全清醒时的活跃程度 |
+> | 插入说明 | when most vivid dreams occur | 补充说明 REM 睡眠是多数生动梦境发生的阶段 |
+> | 报道分句 | says Dr. Eric Nofzinger at the University of Pittsburgh | 倒装式引语来源，说明观点出处 |
+>
+> **简化主干**：The brain is as active during REM sleep as it is when fully awake, says Dr. Eric Nofzinger.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | as...as 比较结构 | as...as | active | 比较 REM 睡眠时与完全清醒时的大脑活跃程度 |
+> | 介词短语 | during | active | during REM sleep 作时间状语，说明活跃发生的阶段 |
+> | 括号同位解释 | (rapid eye movement) | REM | 解释 REM 的全称 |
+> | 非限制性定语从句 / 时间说明从句 | when | REM sleep | when = during which，说明最生动的梦多发生在 REM 睡眠期 |
+> | 比较从句 | as | active | as it is... 中 it 指 The brain，is 后省略 active |
+> | 省略时间状语从句 | when | it is | when fully awake = when it is fully awake |
+> | 报道分句倒装 | says | 整个前置陈述 | says + 主语置于句末，标明信息来源 |
+> | 介词短语作后置定语 | at | Dr. Eric Nofzinger | at the University of Pittsburgh 说明其任职 / 所属机构 |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [陈述内容] The brain is as active during REM sleep as it is when fully awake
+>   ├── 主语：The brain
+>   ├── 系动词：is
+>   └── 表语 / 比较结构：as active ... as ...
+>         ├── 第一比较项：as active during REM sleep
+>         │     ├── 时间状语：during REM sleep
+>         │     ├── 同位解释：REM = rapid eye movement
+>         │     └── [非限制性说明] when most vivid dreams occur → 修饰 REM sleep
+>         └── 第二比较项：as it is when fully awake
+>               ├── it = the brain
+>               ├── is 后省略 active
+>               └── when fully awake = when it is fully awake
+> [报道分句] says Dr. Eric Nofzinger at the University of Pittsburgh
+>   ├── 谓语：says
+>   ├── 主语：Dr. Eric Nofzinger
+>   └── 后置定语：at the University of Pittsburgh
+> ```
+>
+> ### 4. 参考译文
+> 匹兹堡大学的埃里克·诺夫辛格博士说，在快速眼动睡眠（REM）期间——最生动的梦大多发生在这一阶段——大脑的活跃程度与完全清醒时一样高。
+>
+> ### 5. 考点提示
+> - **as...as 比较结构**：核心是 as active...as...，比较的是“大脑活跃程度”，不要把第二个 as 误解为“因为”。
+> - **比较从句中的省略**：as it is when fully awake 中 is 后省略 active；when fully awake 省略 it is。
+> - **破折号插入说明**：when most vivid dreams occur 补充解释 REM sleep，阅读时可先跳过以抓主干。
+> - **句末报道分句倒装**：says Dr. Eric Nofzinger... 是信息来源，不是前面比较结构的一部分。
+> - **REM 术语识别**：REM (rapid eye movement) sleep 指“快速眼动睡眠”，是理解论据的关键词。
+
+But not all parts of the brain are equally involved; the **limbic system** (the “emotional brain”) is especially active, while the **prefrontal cortex** (the center of intellect and reasoning) is relatively quiet. “We wake up from dreams happy or depressed, and those feelings can stay with us all day,” says Stanford sleep researcher Dr. William Dement.
 
 The link between dreams and emotions shows up among the patients in Cartwright’s clinic. Most people seem to have more bad dreams early in the night, progressing toward happier ones before awakening, suggesting that they are working through negative feelings generated during the day. Because our conscious mind is occupied with daily life we don’t always think about the emotional significance of the day’s events—until, it appears, we begin to dream.
 
