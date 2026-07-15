@@ -150,9 +150,9 @@ Now researchers suspect that dreams are part of the mind’s **emotional thermos
 > | 主句谓语 V | says | 引出宾语从句 |
 > | 宾语从句 | that these intensely powerful mental events can be not only harnessed but actually brought under **conscious control**, to help us sleep and feel better | says 的宾语，说明权威人士的观点 |
 > | 从句主语 S | these intensely powerful mental events | 指前文 dreams / mental events |
-> | 从句谓语 V | can be harnessed / can be brought | 情态动词 can + 被动语态 be + 过去分词 |
-> | 从句补足成分 C | under **conscious control** | brought 的方向 / 状态补足，表示“置于有意识控制之下” |
-> | 目的状语 A | to help us sleep and feel better | 说明控制梦境的目的或结果 |
+> | 从句谓语 V | can be harnessed / can be brought | 情态动词 can + be + 过去分词；harnessed 与 brought 构成并列被动谓语 |
+> | brought 的补足成分 C | under **conscious control** | 介词短语作 brought 的结果 / 状态补足，表示“置于有意识控制之下” |
+> | 目的状语 A | to help us sleep and feel better | 说明利用并控制这些心理事件的目的 |
 >
 > **简化主干**：one leading authority says that these mental events can be harnessed and brought under conscious control.
 >
@@ -166,8 +166,8 @@ Now researchers suspect that dreams are part of the mind’s **emotional thermos
 > | 指示限定词 | these | mental events | 回指前文 dreams，突出这些心理事件 |
 > | 并列被动结构 | not only... but actually... | can be | harnessed 与 brought 并列，共用 can be |
 > | 介词短语 / 补足语 | under | brought | brought under conscious control 表示“被置于有意识控制之下” |
-> | 非谓语不定式短语 | to help | 整个宾语从句动作 | 表示目的：帮助我们睡眠并感觉更好 |
-> | 并列动词 | and | sleep / feel | sleep 与 feel better 并列，共同作 help us 后的宾语补足成分 |
+> | 非谓语不定式短语 | to help | 整个“harnessed / brought under conscious control”动作 | 作目的状语：说明利用并控制这些心理事件的目的 |
+> | help 复合结构 | help + us + sleep / feel | sleep 与 feel better 是省略 to 的动词原形并列，共同构成 help us do sth. 结构 |
 >
 > ### 3. 结构图解
 >
@@ -180,12 +180,12 @@ Now researchers suspect that dreams are part of the mind’s **emotional thermos
 >             ├── 主语：these intensely powerful mental events
 >             │     └── 前置修饰：these / intensely powerful
 >             ├── 情态被动结构：can be
->             ├── 并列谓语补足：not only harnessed
->             ├── 并列谓语补足：but actually brought under conscious control
->             │     └── 介词短语：under conscious control
+>             ├── 并列被动谓语①：not only harnessed
+>             ├── 并列被动谓语②：but actually brought under conscious control
+>             │     └── 结果 / 状态补足：under conscious control
 >             └── [目的状语] to help us sleep and feel better
 >                   ├── 宾语：us
->                   └── 宾补并列：sleep and feel better
+>                   └── help + 宾语 + 省略 to 的动词原形：sleep and feel better
 > ```
 >
 > ### 4. 参考译文
@@ -196,7 +196,7 @@ Now researchers suspect that dreams are part of the mind’s **emotional thermos
 > - **情态动词 + 被动语态**：can be harnessed / can be brought 共用 can be，表示“可以被……”。
 > - **not only... but actually... 并列**：harnessed 与 brought under conscious control 并列，翻译时要保留“不仅……而且实际上……”的递进语气。
 > - **过去分词并列省略**：第二个分词 brought 前省略重复的 can be，阅读时要补出被动结构。
-> - **to help 作目的状语**：to help us sleep and feel better 说明控制这些心理事件的目的或效果。
+> - **to help 作目的状语**：to help us sleep and feel better 说明利用并控制这些心理事件的目的；help 后接 us，再接省略 to 的并列动词原形 sleep and feel。
 
 “It’s your dream,” says Rosalind Cartwright, chair of psychology at Chicago’s Medical Center. “If you don’t like it, change it.”
 
