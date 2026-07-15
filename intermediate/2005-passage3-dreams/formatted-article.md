@@ -267,7 +267,77 @@ The brain is as active during **REM (rapid eye movement) sleep**—when most viv
 
 But not all parts of the brain are equally involved; the **limbic system** (the “emotional brain”) is especially active, while the **prefrontal cortex** (the center of intellect and reasoning) is relatively quiet. “We wake up from dreams happy or depressed, and those feelings can stay with us all day,” says Stanford sleep researcher Dr. William Dement.
 
-The link between dreams and emotions shows up among the patients in Cartwright’s clinic. Most people seem to have more bad dreams early in the night, progressing toward happier ones before awakening, suggesting that they are working through negative feelings generated during the day. Because our conscious mind is occupied with daily life we don’t always think about the emotional significance of the day’s events—until, it appears, we begin to dream.
+The link between dreams and emotions shows up among the patients in Cartwright’s clinic.
+
+Most people seem to have more bad dreams early in the night, progressing toward happier ones before awakening, suggesting that they are working through negative feelings generated during the day.
+
+> [!abstract]- 长难句分析
+> **原句**：Most people seem to have more bad dreams early in the night, progressing toward happier ones before awakening, suggesting that they are working through negative feelings generated during the day.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 主句主语 S | Most people | “多数人” |
+> | 主句谓语 V | seem | 系动词性谓语，表示“似乎” |
+> | 主句补足成分 C | to have more bad dreams early in the night | 不定式短语作 seem 的补足语，说明多数人的梦境特点 |
+> | 不定式内部谓语 | have | 与 Most people 构成逻辑主谓关系 |
+> | 不定式内部宾语 O | more bad dreams | have 的宾语 |
+> | 时间状语 A | early in the night | 说明 bad dreams 较多出现的时间 |
+> | 伴随 / 发展过程状语 | progressing toward happier ones before awakening | 补充说明梦境从坏梦逐渐转向较愉快的梦 |
+> | 结果 / 解释性状语 | suggesting that they are working through negative feelings generated during the day | 整个前述现象“表明”人们正在处理白天产生的负面情绪 |
+>
+> **简化主干**：Most people seem to have more bad dreams early in the night.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 非谓语不定式短语 | to have | seem | to have... 作 seem 的补足语 |
+> | 时间状语 | early in | have more bad dreams | 表示“在夜晚早些时候” |
+> | 现在分词短语 | progressing | 前述梦境过程 / dream pattern | 表示梦境发展趋势：逐渐转向较愉快的梦 |
+> | 介词短语 | toward | progressing | toward happier ones 表示发展方向 |
+> | 代词替代 | ones | dreams | happier ones = happier dreams |
+> | 介词短语 / 时间状语 | before | progressing | before awakening 表示“醒来之前” |
+> | 现在分词短语 | suggesting | 前面整个现象 | 表示前述现象带来的推论：“这表明……” |
+> | 宾语从句 | that | suggesting | that they are working through... 作 suggesting 的宾语 |
+> | 进行时谓语 | are working through | they | 表示“正在逐步处理 / 消化” |
+> | 过去分词短语 | generated | negative feelings | generated during the day 作后置定语，修饰 negative feelings |
+> | 时间状语 | during | generated | during the day 说明负面情绪产生的时间 |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [主句] Most people seem to have more bad dreams early in the night
+>   ├── 主语：Most people
+>   ├── 谓语：seem
+>   └── 补足语：to have more bad dreams early in the night
+>         ├── 动词：have
+>         ├── 宾语：more bad dreams
+>         └── 时间状语：early in the night
+> [现在分词状语 1] progressing toward happier ones before awakening
+>   ├── 逻辑对象：前述梦境过程 / dream pattern
+>   ├── 方向状语：toward happier ones (= happier dreams)
+>   └── 时间状语：before awakening
+> [现在分词状语 2] suggesting that...
+>   └── [宾语从句] that they are working through negative feelings
+>         ├── 主语：they (= most people)
+>         ├── 谓语：are working through
+>         └── 宾语：negative feelings
+>               └── [过去分词后置定语] generated during the day
+> ```
+>
+> ### 4. 参考译文
+> 多数人似乎在夜晚早些时候会做更多噩梦，而在醒来之前逐渐转向较愉快的梦，这表明他们正在逐步处理白天产生的负面情绪。
+>
+> ### 5. 考点提示
+> - **seem to do 结构**：Most people seem to have... 中真正动作是 have，seem 表示说话者判断。
+> - **现在分词作状语**：progressing... 和 suggesting... 都不是并列谓语，而是对主句现象的补充说明。
+> - **分词逻辑主语判断**：progressing 的语义对象不是 people 本身，而是前文所说的梦境发展过程；suggesting 指“整个现象表明”。
+> - **that 宾语从句**：that they are working through... 作 suggesting 的宾语，说明推论内容。
+> - **过去分词后置定语**：generated during the day 修饰 negative feelings，表示“白天产生的负面情绪”。
+
+Because our conscious mind is occupied with daily life we don’t always think about the emotional significance of the day’s events—until, it appears, we begin to dream.
 
 And this process need not be left to the unconscious. Cartwright believes one can exercise **conscious control** over recurring bad dreams. As soon as you awaken, identify what is upsetting about the dream. Visualize how you would like it to end instead; the next time it occurs, try to wake up just enough to control its course. With much practice people can learn to, literally, do it in their sleep.
 
