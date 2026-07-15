@@ -78,11 +78,11 @@ A century ago, Freud formulated his revolutionary theory that dreams were the **
 > | 第一并列分句主语 S | Freud | 动作发出者 |
 > | 第一并列分句谓语 V | formulated | “提出 / 构想出” |
 > | 第一并列分句宾语 O | his revolutionary theory | formulated 的宾语 |
-> | 宾语补充说明 | that dreams were the **disguised** shadows of our **unconscious desires and fears** | 说明 theory 的具体内容 |
+> | 同位语从句 / 内容从句 | that dreams were the **disguised** shadows of our **unconscious desires and fears** | 解释抽象名词 theory 的具体内容 |
 > | 第二并列分句状语 | by the late 1970s | 表示观点转变完成的时间界限 |
 > | 第二并列分句主语 S | neurologists | 动作发出者 |
 > | 第二并列分句谓语 V | had switched | 过去完成时，表示到 20 世纪 70 年代末已经完成转变 |
-> | 第二并列分句补足语 C | to thinking of them as just “**mental noise**” | switched to 的宾语，说明“转向何种看法” |
+> | 第二并列分句介词短语补足成分 | to thinking of them as just “**mental noise**” | switch to doing 结构；to 是介词，thinking 才是介词宾语 |
 > | 同位语 | the random byproducts of the neural-repair work that goes on during sleep | 解释 “mental noise” 的具体含义 |
 >
 > **简化主干**：Freud formulated his theory; neurologists had switched to thinking of them as “mental noise.”
@@ -117,8 +117,10 @@ A century ago, Freud formulated his revolutionary theory that dreams were the **
 >   ├── 时间状语：by the late 1970s
 >   ├── 主语：neurologists
 >   ├── 谓语：had switched
->   └── 介词宾语：to thinking of them as just “mental noise”
->         └── think of A as B：them = dreams, B = mental noise
+>   └── 介词短语补足成分：to thinking of them as just “mental noise”
+>         ├── to：介词（不是不定式标志）
+>         └── 介词宾语：thinking of them as just “mental noise”
+>               └── think of A as B：them = dreams, B = mental noise
 > — [同位语] the random byproducts
 >     └── [后置定语] of the neural-repair work
 >           └── [定语从句] that goes on during sleep → 修饰 work
