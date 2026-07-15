@@ -63,7 +63,78 @@ Of all the components of a good night’s sleep, **dreams** seem to be least wit
 > - **least 的比较含义**：least 与 Of all... 呼应，表示“最不……”，不能漏译比较范围。
 > - **介词短语表状态**：within our control 作 be 的表语成分，整体表示“在控制范围内”。
 
-In dreams, a window opens into a world where logic is suspended and dead people speak. A century ago, Freud formulated his revolutionary theory that dreams were the **disguised** shadows of our **unconscious desires and fears**; by the late 1970s, neurologists had switched to thinking of them as just “**mental noise**”—the random byproducts of the neural-repair work that goes on during sleep. Now researchers suspect that dreams are part of the mind’s **emotional thermostat**, regulating moods while the brain is “off-line.” And one leading authority says that these intensely powerful mental events can be not only harnessed but actually brought under **conscious control**, to help us sleep and feel better. “It’s your dream,” says Rosalind Cartwright, chair of psychology at Chicago’s Medical Center. “If you don’t like it, change it.”
+In dreams, a window opens into a world where logic is suspended and dead people speak.
+
+A century ago, Freud formulated his revolutionary theory that dreams were the **disguised** shadows of our **unconscious desires and fears**; by the late 1970s, neurologists had switched to thinking of them as just “**mental noise**”—the random byproducts of the neural-repair work that goes on during sleep.
+
+> [!abstract]- 长难句分析
+> **原句**：A century ago, Freud formulated his revolutionary theory that dreams were the **disguised** shadows of our **unconscious desires and fears**; by the late 1970s, neurologists had switched to thinking of them as just “**mental noise**”—the random byproducts of the neural-repair work that goes on during sleep.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 第一并列分句状语 | A century ago | 表示 Freud 提出理论的时间 |
+> | 第一并列分句主语 S | Freud | 动作发出者 |
+> | 第一并列分句谓语 V | formulated | “提出 / 构想出” |
+> | 第一并列分句宾语 O | his revolutionary theory | formulated 的宾语 |
+> | 宾语补充说明 | that dreams were the **disguised** shadows of our **unconscious desires and fears** | 说明 theory 的具体内容 |
+> | 第二并列分句状语 | by the late 1970s | 表示观点转变完成的时间界限 |
+> | 第二并列分句主语 S | neurologists | 动作发出者 |
+> | 第二并列分句谓语 V | had switched | 过去完成时，表示到 20 世纪 70 年代末已经完成转变 |
+> | 第二并列分句补足语 C | to thinking of them as just “**mental noise**” | switched to 的宾语，说明“转向何种看法” |
+> | 同位语 | the random byproducts of the neural-repair work that goes on during sleep | 解释 “mental noise” 的具体含义 |
+>
+> **简化主干**：Freud formulated his theory; neurologists had switched to thinking of them as “mental noise.”
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 时间状语 | A century ago | 第一并列分句 | 表示 Freud 理论形成的时间 |
+> | 同位语从句 / 内容从句 | that | theory | 解释 theory 的具体内容：梦是什么 |
+> | 介词短语作后置定语 | of | shadows | of our unconscious desires and fears 修饰 shadows |
+> | 时间状语 | by | 第二并列分句 | by the late 1970s 表示“到……为止” |
+> | 动名词短语 | thinking of them as just “mental noise” | switched to | to 是介词，后接动名词 thinking |
+> | 介词短语 / 宾补结构 | as | them | think of A as B：把 A 看作 B |
+> | 破折号同位语 | — | “mental noise” | the random byproducts... 解释 “mental noise” |
+> | 介词短语作后置定语 | of | byproducts | of the neural-repair work 修饰 byproducts |
+> | 定语从句 | that | neural-repair work | that goes on during sleep 修饰 work |
+> | 时间状语 | during | goes on | during sleep 表示神经修复工作发生的时间 |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [并列分句 1] A century ago, Freud formulated his revolutionary theory
+>   ├── 时间状语：A century ago
+>   ├── 主语：Freud
+>   ├── 谓语：formulated
+>   └── 宾语：his revolutionary theory
+>         └── [同位语从句 / 内容从句] that dreams were the disguised shadows
+>               └── [后置定语] of our unconscious desires and fears → 修饰 shadows
+> ;
+> [并列分句 2] by the late 1970s, neurologists had switched to thinking of them as just “mental noise”
+>   ├── 时间状语：by the late 1970s
+>   ├── 主语：neurologists
+>   ├── 谓语：had switched
+>   └── 介词宾语：to thinking of them as just “mental noise”
+>         └── think of A as B：them = dreams, B = mental noise
+> — [同位语] the random byproducts
+>     └── [后置定语] of the neural-repair work
+>           └── [定语从句] that goes on during sleep → 修饰 work
+> ```
+>
+> ### 4. 参考译文
+> 一个世纪以前，弗洛伊德提出了他的革命性理论，认为梦是我们无意识欲望和恐惧经过伪装后的影子；到 20 世纪 70 年代末，神经学家已经转而把梦仅仅看作“心理噪音”——睡眠中进行的神经修复工作所产生的随机副产品。
+>
+> ### 5. 考点提示
+> - **分号连接并列分句**：前后各有完整主谓结构，阅读时应先拆成 Freud 的观点和 neurologists 的观点转变两部分。
+> - **that 从句说明抽象名词 theory**：that dreams were... 不是修饰普通名词的限制性定语从句，而是解释 theory 内容的同位语 / 内容从句。
+> - **by + 过去时间与过去完成时**：by the late 1970s 与 had switched 呼应，强调“到那时已经转变”。
+> - **switch to doing**：to 在 switched to 中是介词，后面用动名词 thinking，而不是动词原形。
+> - **破折号同位语解释术语**：破折号后的 the random byproducts... 是对 “mental noise” 的具体解释，不能误作新的主句。
+
+Now researchers suspect that dreams are part of the mind’s **emotional thermostat**, regulating moods while the brain is “off-line.” And one leading authority says that these intensely powerful mental events can be not only harnessed but actually brought under **conscious control**, to help us sleep and feel better. “It’s your dream,” says Rosalind Cartwright, chair of psychology at Chicago’s Medical Center. “If you don’t like it, change it.”
 
 Evidence from **brain imaging** supports this view. The brain is as active during **REM (rapid eye movement) sleep**—when most vivid dreams occur—as it is when fully awake, says Dr. Eric Nofzinger at the University of Pittsburgh. But not all parts of the brain are equally involved; the **limbic system** (the “emotional brain”) is especially active, while the **prefrontal cortex** (the center of intellect and reasoning) is relatively quiet. “We wake up from dreams happy or depressed, and those feelings can stay with us all day,” says Stanford sleep researcher Dr. William Dement.
 
