@@ -412,7 +412,7 @@ And this process need not be left to the unconscious. Cartwright believes one ca
 > | 宾语从句主语 S | what | 表示“使人不安的东西 / 内容” |
 > | 宾语从句系动词 V | is | 连接主语与表语 |
 > | 宾语从句表语 C | upsetting | 说明 what 的性质：令人不安 |
-> | 宾语从句状语 / 补足 A | about the dream | 说明 upsetting 所涉及的对象 |
+> | 宾语从句中介词短语补足语 | about the dream | 补足形容词 upsetting，说明“不安”所针对的对象 |
 >
 > **简化主干**：Identify what is upsetting about the dream.
 >
@@ -424,7 +424,7 @@ And this process need not be left to the unconscious. Cartwright believes one ca
 > | 祈使句省略主语 | identify | 主句 | 主语 you 被省略，直接给出建议 / 指令 |
 > | 名词性从句 / 宾语从句 | what | identify | what is upsetting about the dream 整体作 identify 的宾语 |
 > | 形容词化现在分词 | upsetting | what | upsetting 表示“令人不安的”，作表语 |
-> | 介词短语 | about | upsetting | about the dream 说明不安的来源或对象 |
+> | 介词短语 / 形容词补足语 | about | 形容词 upsetting | about the dream 补足 upsetting，说明“不安”针对梦的内容 |
 >
 > ### 3. 结构图解
 >
@@ -440,7 +440,7 @@ And this process need not be left to the unconscious. Cartwright believes one ca
 >         ├── 主语：what
 >         ├── 系动词：is
 >         ├── 表语：upsetting
->         └── 介词短语：about the dream
+>         └── 介词短语补足语：about the dream → 补足 upsetting 的对象
 > ```
 >
 > ### 4. 参考译文
@@ -451,7 +451,7 @@ And this process need not be left to the unconscious. Cartwright believes one ca
 > - **祈使句主语省略**：identify 前省略了 you，语气是建议或指令。
 > - **what 引导宾语从句**：what is upsetting about the dream 整体作 identify 的宾语，what 在从句中作主语。
 > - **upsetting 的词性判断**：此处为形容词化现在分词，表示“令人不安的”，不是进行时谓语。
-> - **介词短语补足含义**：about the dream 说明“不安”与梦的内容相关。
+> - **形容词后的介词短语补足语**：about the dream 补足 upsetting，说明“不安”针对梦的内容，而不是修饰整句动作。
 
 Visualize how you would like it to end instead; the next time it occurs, try to wake up just enough to control its course. With much practice people can learn to, literally, do it in their sleep.
 
