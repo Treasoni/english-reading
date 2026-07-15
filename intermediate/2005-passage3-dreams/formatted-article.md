@@ -453,7 +453,76 @@ And this process need not be left to the unconscious. Cartwright believes one ca
 > - **upsetting 的词性判断**：此处为形容词化现在分词，表示“令人不安的”，不是进行时谓语。
 > - **形容词后的介词短语补足语**：about the dream 补足 upsetting，说明“不安”针对梦的内容，而不是修饰整句动作。
 
-Visualize how you would like it to end instead; the next time it occurs, try to wake up just enough to control its course. With much practice people can learn to, literally, do it in their sleep.
+Visualize how you would like it to end instead; the next time it occurs, try to wake up just enough to control its course.
+
+> [!abstract]- 长难句分析
+> **原句**：Visualize how you would like it to end instead; the next time it occurs, try to wake up just enough to control its course.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 第一分句谓语 V | Visualize | 祈使句谓语，省略主语 you |
+> | 第一分句宾语 O | how you would like it to end instead | how 引导的宾语从句，说明“想象什么” |
+> | 宾语从句主语 S | you | 从句中的动作发出者 |
+> | 宾语从句谓语 V | would like | 表示“希望 / 想要” |
+> | 宾语从句宾语 O | it | 指代前文的 dream / bad dream |
+> | 宾语从句宾补 C | to end instead | 说明希望梦以何种方式结束 |
+> | 第二分句时间状语 | the next time it occurs | 表示下一次该梦出现时 |
+> | 第二分句谓语 V | try | 祈使句谓语，省略主语 you |
+> | 第二分句补足成分 C | to wake up just enough to control its course | try 后的不定式，说明尝试做什么 |
+>
+> **简化主干**：Visualize how you would like it to end; try to wake up enough to control its course.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 祈使句省略主语 | Visualize / try | 两个主句 | 两个分句都省略主语 you，语气为建议 / 指令 |
+> | 宾语从句 | how | Visualize | how you would like it to end instead 整体作 Visualize 的宾语 |
+> | 不定式补足语 | to end | it | 作 would like 的宾语补足语，说明希望梦“如何结束” |
+> | 副词 | instead | end | 表示“以另一种方式 / 作为替代” |
+> | 时间状语从句 / 名词短语引导结构 | the next time | try | the next time it occurs 表示“下一次它出现时” |
+> | 不定式短语 | to wake up | try | try to do 结构，表示“试着醒来” |
+> | 程度副词短语 | just enough | wake up | 表示醒到“刚好足够”的程度 |
+> | 不定式目的状语 | to control | just enough / wake up | 说明“醒到足够程度”的目的：控制梦境进程 |
+> | 介词短语 / 后置定语 | of | course | its course 中 its 指 dream，course 表示梦的发展进程 |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [并列分句 1 / 祈使句] Visualize how you would like it to end instead
+>   ├── 省略主语：you
+>   ├── 谓语：Visualize
+>   └── [宾语从句] how you would like it to end instead
+>         ├── 主语：you
+>         ├── 谓语：would like
+>         ├── 宾语：it (= the dream)
+>         └── 宾补：to end instead
+> ;
+> [并列分句 2 / 祈使句] the next time it occurs, try to wake up just enough to control its course
+>   ├── 时间状语：the next time it occurs
+>   │     ├── 主语：it (= the dream)
+>   │     └── 谓语：occurs
+>   ├── 省略主语：you
+>   ├── 谓语：try
+>   └── 补足语：to wake up just enough
+>         └── [目的状语] to control its course
+>               ├── 谓语：control
+>               └── 宾语：its course (= the dream's course)
+> ```
+>
+> ### 4. 参考译文
+> 想象你希望它以另一种方式结束；下一次它出现时，试着让自己醒到刚好足以控制其进程的程度。
+>
+> ### 5. 考点提示
+> - **分号连接两个祈使句**：Visualize... 与 try... 都是省略主语 you 的祈使结构，表示操作步骤。
+> - **how 引导宾语从句**：how you would like it to end instead 整体作 Visualize 的宾语，how 表示“以怎样的方式”。
+> - **would like + 宾语 + to do**：it to end 是 “would like + O + OC” 结构，it 指前文的 dream。
+> - **the next time 引导时间状语**：相当于 when next time，表示“下一次……时”。
+> - **just enough to do**：enough 后接不定式，表示“足够……以便……”，to control its course 是目的 / 结果。
+
+With much practice people can learn to, literally, do it in their sleep.
 
 At the end of the day, there’s probably little reason to pay attention to our dreams at all unless they keep us from sleeping or “we wake up in a panic,” Cartwright says. Terrorism, economic uncertainties and general feelings of insecurity have increased people’s anxiety. Those suffering from persistent nightmares should seek help from a therapist. For the rest of us, the brain has its ways of working through bad feelings. Sleep—or rather dream—on it and you’ll feel better in the morning.
 
