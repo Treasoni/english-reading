@@ -1,0 +1,28 @@
+{
+  "version": "1",
+  "description": "Replace the disabled example with stable, representative requests before using this as a regression suite.",
+  "cases": [
+    {
+      "id": "replace-with-a-stable-case-id",
+      "enabled": false,
+      "request_type": "replace-with-request-type",
+      "template_id": "replace-with-template-id",
+      "input_fixture": "fixtures/replace-with-safe-input.md",
+      "parameters": {
+        "replace_with_stable_fields": "replace-with-safe-value"
+      },
+      "quality_checks": [
+        "Describe the observable output requirement here."
+      ],
+      "baseline": {
+        "input_tokens": null,
+        "cache_read_tokens": null,
+        "output_tokens": null,
+        "latency_ms": null,
+        "cost_usd": null,
+        "quality_score": null
+      }
+    }
+  ]
+}
+
