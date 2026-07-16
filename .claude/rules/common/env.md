@@ -27,7 +27,7 @@
 4. **只保留项目需要的变量**：代码或工作流没有用到的服务变量不要默认加入；可选集成放到明确的 Optional 区块，并保持空值。
 5. **标注必填与来源**：必填变量用注释说明用途和获取来源；敏感变量只放空值或 `your-...-here`，禁止示例真实格式过于接近可用密钥。
 6. **路径自适应**：所有项目内路径默认相对项目根目录；只有用户明确要发布到外部目录时，才允许在本地 `.env` 写绝对路径。
-7. **同步规则**：如果修改 `.claude/rules/**`、`.claude/skills/**`、`.claude/agents/**` 或 `.claude/scripts/**`，按项目规则运行 `.claude/scripts/sync-codex-to-claude.sh`。
+7. **同步规则**：修改共享 skill 后，运行 `python3 .agents/skills/maintain-learnings/scripts/sync_platform_skills.py --root . --skill <skill> --strict`。只同步共享语义；不要覆盖另一平台的 Hook、设置或平台专属 frontmatter。
 
 推荐扫描命令：
 

@@ -1,7 +1,7 @@
 ---
 title: "2003-passage1-spying 英语精读笔记"
 type: study-note
-topic: "spying"
+topic: "2003-passage1-spying"
 tags:
   - english-reading
   - intensive-reading

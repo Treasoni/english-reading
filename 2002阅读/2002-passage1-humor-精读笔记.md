@@ -1,7 +1,7 @@
 ---
 title: "2002-passage1-humor 英语精读笔记"
 type: study-note
-topic: "humor"
+topic: "2002-passage1-humor"
 tags:
   - english-reading
   - intensive-reading

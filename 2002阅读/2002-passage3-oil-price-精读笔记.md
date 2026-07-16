@@ -10,7 +10,7 @@ tags:
   - oil-price
 difficulty: intermediate
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-07-16
 sources:
   - "2002阅读/passage_3.md"
   - "intermediate/2002-passage3-oil-price/formatted-article.md"

@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import filecmp
+import re
 import shutil
 from dataclasses import dataclass
 from pathlib import Path
@@ -34,6 +35,8 @@ TEXT_SUFFIXES = {
     ".yml",
     ".txt",
 }
+
+PLATFORM_FRONTMATTER_FIELDS = {"category"}
 
 
 @dataclass
@@ -104,6 +107,16 @@ def normalized_text(text: str) -> str:
         "`CLAUDE.md`": "`{PROJECT_RULES}`",
     }
     normalized = text.replace("\r\n", "\n")
+    if normalized.startswith("---\n"):
+        frontmatter, separator, body = normalized[4:].partition("\n---\n")
+        if separator:
+            frontmatter = "\n".join(
+                line
+                for line in frontmatter.splitlines()
+                if not re.match(r"^([A-Za-z][A-Za-z0-9_-]*):", line)
+                or line.split(":", 1)[0] not in PLATFORM_FRONTMATTER_FIELDS
+            )
+            normalized = f"---\n{frontmatter}{separator}{body}"
     for old, new in replacements.items():
         normalized = normalized.replace(old, new)
     return normalized.strip()

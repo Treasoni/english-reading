@@ -1,7 +1,7 @@
 ---
 title: "2002-passage4-physician-assisted-suicide 英语精读笔记"
 type: study-note
-topic: "physician-assisted-suicide"
+topic: "2002-passage4-physician-assisted-suicide"
 tags:
   - english-reading
   - intensive-reading

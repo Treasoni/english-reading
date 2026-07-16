@@ -1,7 +1,7 @@
 ---
 title: Fairness in Capuchin Monkeys 英语精读笔记
 type: study-note
-topic: capuchin
+topic: "2005-passage1-capuchin"
 tags:
   - english-reading
   - intensive-reading

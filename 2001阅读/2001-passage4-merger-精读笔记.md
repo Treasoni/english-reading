@@ -1,7 +1,7 @@
 ---
 title: "2001 Passage 4 Mergers and Acquisitions 英语精读笔记"
 type: study-note
-topic: merger
+topic: "2001-passage4-merger"
 tags:
   - english-reading
   - intensive-reading
