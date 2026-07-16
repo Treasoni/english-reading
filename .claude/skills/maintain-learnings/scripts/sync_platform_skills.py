@@ -105,6 +105,13 @@ def normalized_text(text: str) -> str:
         "`AGENTS.md`": "`{PROJECT_RULES}`",
         "`CLAUDE.md` / `AGENTS.md`": "`{PROJECT_RULES}`",
         "`CLAUDE.md`": "`{PROJECT_RULES}`",
+        "AGENTS.md": "{PROJECT_RULES}",
+        "CLAUDE.md": "{PROJECT_RULES}",
+        "同步 Claude Code 语义": "同步平台语义",
+        "同步 Codex 语义": "同步平台语义",
+        "`{PROJECT_RULES}` / `{PROJECT_RULES}`": "`{PROJECT_RULES}`",
+        "保留 Claude 专属说明": "保留平台专属说明",
+        "保留 Claude Code 专属命令、Hook、工具说明和平台限制": "保留平台专属说明",
     }
     normalized = text.replace("\r\n", "\n")
     if normalized.startswith("---\n"):

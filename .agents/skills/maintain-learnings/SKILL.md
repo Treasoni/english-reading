@@ -78,7 +78,7 @@ python3 .agents/skills/maintain-learnings/scripts/audit_learnings.py --root .
 1. 运行 skill 结构校验：
 
 ```bash
-python3 /Users/zhqznc/.codex/skills/.system/skill-creator/scripts/quick_validate.py .agents/skills/<skill>
+python3 -c 'from pathlib import Path; p=Path(".agents/skills/<skill>/SKILL.md"); t=p.read_text(encoding="utf-8"); assert t.startswith("---\n") and "\n---" in t[4:]; assert "name:" in t and "description:" in t; print("skill metadata ok")'
 ```
 
 2. 用历史错误反查修复点：

@@ -16,7 +16,18 @@ from typing import Iterable
 ACTIVE_FILES = ("LEARNINGS.md", "ERRORS.md", "RULES.md")
 HEADING_RE = re.compile(r"^(#{2,4})\s+(.+?)\s*$", re.MULTILINE)
 ACTIVE_LINE_THRESHOLD = 100
-SKILLS_ROOT = ".claude"
+SKILLS_ROOT = next(
+    (directory for directory in (".agents", ".claude") if directory in Path(__file__).parts),
+    ".agents",
+)
+IS_CODEX = SKILLS_ROOT == ".agents"
+PROJECT_RULES = ["AGENTS.md"] if IS_CODEX else ["CLAUDE.md", "AGENTS.md"]
+HOOK_CLUSTER = "codex-hook" if IS_CODEX else "claude-hook"
+HOOK_SOURCES = (
+    [".codex/hooks/read-learnings.sh", ".codex/hooks.json"]
+    if IS_CODEX
+    else [".claude/hooks/read-learnings.sh", ".claude/settings.json"]
+)
 
 KEYWORD_CLUSTERS = {
     "obsidian-markdown": [
@@ -38,9 +49,9 @@ KEYWORD_CLUSTERS = {
         "用户反馈",
         "提问",
     ],
-    "claude-hook": [
+    HOOK_CLUSTER: [
         "hook",
-        ".claude",
+        SKILLS_ROOT,
         "read-learnings",
         "上下文",
         "经验库提醒",
@@ -223,15 +234,15 @@ def source_candidates(root: Path, cluster: str) -> list[str]:
             candidates.append(f"{SKILLS_ROOT}/skills/{cluster}/references/")
 
     if cluster == "obsidian-markdown":
-        candidates.extend(["CLAUDE.md", "AGENTS.md", f"{SKILLS_ROOT}/skills/obsidian-markdown/"])
+        candidates.extend([*PROJECT_RULES, f"{SKILLS_ROOT}/skills/obsidian-markdown/"])
     elif cluster == "user-interaction":
-        candidates.extend(["CLAUDE.md", "AGENTS.md"])
-    elif cluster == "claude-hook":
-        candidates.extend([".claude/hooks/read-learnings.sh", ".claude/settings.json"])
+        candidates.extend(PROJECT_RULES)
+    elif cluster == HOOK_CLUSTER:
+        candidates.extend(HOOK_SOURCES)
     elif cluster == "tooling":
-        candidates.extend(["CLAUDE.md", "AGENTS.md", f"{SKILLS_ROOT}/skills/"])
+        candidates.extend([*PROJECT_RULES, f"{SKILLS_ROOT}/skills/"])
     elif cluster == "general":
-        candidates.extend(["CLAUDE.md", "AGENTS.md", ".learnings/RULES.md"])
+        candidates.extend([*PROJECT_RULES, ".learnings/RULES.md"])
 
     return list(dict.fromkeys(candidates))
 
@@ -327,7 +338,7 @@ def render_markdown(summary: dict) -> str:
     lines.append("| Cluster | Severity | Active | Total | Rules | Inspect |")
     lines.append("|---|---:|---:|---:|---:|---|")
     for cluster in summary["clusters"]:
-        inspect = ", ".join(f"`{item}`" for item in cluster["sources_to_inspect"]) or "`CLAUDE.md`"
+        inspect = ", ".join(f"`{item}`" for item in cluster["sources_to_inspect"]) or f"`{PROJECT_RULES[0]}`"
         lines.append(
             f"| `{cluster['cluster']}` | {cluster['severity']} | "
             f"{cluster['active_records']} | {cluster['total_records']} | "
