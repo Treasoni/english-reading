@@ -102,6 +102,7 @@ USER
 WORKFLOW_DIR
 WORKFLOW_ID
 WORKFLOW_STATE_FILE
+ZIP_PATH
 EOF
 
 awk '
@@ -128,7 +129,11 @@ extract_vars() {
 
 rg -n --hidden --no-heading \
   -g '!.git/**' \
+  -g '!.agents/**' \
+  -g '!.codex/**' \
   -g '!.claude/**' \
+  -g '!.codebuddy/**' \
+  -g '!template_ai/**' \
   -g '!node_modules/**' \
   -g '!dist/**' \
   -g '!build/**' \
