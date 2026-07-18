@@ -186,7 +186,7 @@ In his latest book, *Doing Our Own Thing: The Degradation of Language and Music 
 > - **responsible for 的语义转换**：在此不是“负责任的”直译，而是“对……负有责任 / 是……的原因”，与后文 decline 构成因果判断。
 > - **多重 of 短语层层后置**：`the triumph of...`、`the decline of...` 都是名词后置修饰，翻译时需前置为“……的胜利 / ……的衰落”。
 
-Blaming the permissive 1960s is nothing new, but this is not yet another criticism against the decline in education. Mr. McWhorter’s academic speciality is **language history and change**, and he sees the gradual disappearance of “**whom**”, for example, to be natural and no more regrettable than the loss of the case — endings of Old English.
+Blaming the **permissive** 1960s is nothing new, but this is not yet another criticism against the decline in education. Mr. McWhorter’s academic speciality is **language history and change**, and he sees the gradual disappearance of “**whom**”, for example, to be natural and no more regrettable than the loss of the case — endings of Old English.
 
 But the cult of the **authentic** and the personal, “doing our own thing”, has spelt the death of **formal speech**, **writing**, **poetry** and **music**. While even the modestly educated sought an **elevated tone** when they put pen to paper before the 1960s, even the most well regarded writing since then has sought to capture **spoken English** on the page. Equally, in poetry, the highly personal, **performative genre** is the only form that could claim real liveliness. In both oral and written English, **talking** is triumphing over **speaking**, **spontaneity** over **craft**.
 
