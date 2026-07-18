@@ -67,7 +67,63 @@ Americans no longer expect **public figures**, whether in speech or in writing, 
 > - **command 的熟词僻义**：此处不是“命令”，而是“熟练掌握 / 驾驭”。考研阅读常考熟词僻义，需要结合宾语 `the English language` 判断。
 > - **with + 抽象名词作方式状语**：`with skill and gift` 说明驾驭语言的方式和水平，翻译为“熟练而富有才华地”。
 
-Nor do they aspire to such command themselves. In his latest book, *Doing Our Own Thing: The Degradation of Language and Music and Why We Should, Like, Care*, John McWhorter, a **linguist** and **controversialist** of mixed liberal and conservative views, sees the triumph of 1960s **counter-culture** as responsible for the decline of **formal English**.
+Nor do they aspire to such command themselves.
+
+> [!abstract]- 长难句分析
+> **原句**：Nor do they aspire to such command themselves.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 连接 / 否定成分 | Nor | 承接上一句的否定，表示“也不”；置于句首触发部分倒装 |
+> | 助动词 / 倒装标志 | do | 因否定词 Nor 置于句首而提前到主语前 |
+> | 主句主语 S | they | 指代 Americans |
+> | 主句谓语 V | aspire | 实义动词，表示“渴望 / 追求” |
+> | 介词补足成分 | to such command | aspire to 的固定搭配，表示“追求这种驾驭能力” |
+> | 强调成分 | themselves | 反身代词作同位强调，强调“他们自己”也不追求 |
+>
+> **还原语序**：They do not aspire to such command themselves.
+>
+> **简化主干**：they do not aspire to such command.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 否定副词 / 并列连接 | Nor | 整个句子 | 承接上文 no longer，表示“也不”，形成连续否定 |
+> | 部分倒装 | Nor + do + S + V | 主句结构 | 否定词 Nor 位于句首，助动词 do 提前，主语 they 后置 |
+> | 介词短语 / 固定搭配补足语 | to | aspire | aspire to sth. 表示“渴望 / 追求某事物”，to 是介词 |
+> | 指示限定语 | such | command | such command 回指上一句的 command the English language with skill and gift |
+> | 反身代词强调 | themselves | they | 不是宾语，而是强调主语“他们自己” |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [否定连接] Nor
+>   └── 承接上一句：Americans no longer expect...
+> [倒装主句] do they aspire to such command themselves
+>   ├── 助动词提前：do
+>   ├── 主语：they (= Americans)
+>   ├── 谓语：aspire
+>   ├── 介词补足成分：to such command
+>   │     ├── to：介词，构成 aspire to sth.
+>   │     └── such command：回指“熟练而富有才华地驾驭英语”
+>   └── 强调成分：themselves → 强调 they
+>
+> [还原语序] They do not aspire to such command themselves.
+> ```
+>
+> ### 4. 参考译文
+> 他们自己也不再追求这种驾驭语言的能力。
+>
+> ### 5. 考点提示
+> - **否定词置首引起部分倒装**：`Nor do they...` 的正常语序是 `They do not...`。考研中遇到 Nor / Neither / Never / Seldom 等否定词置首，要先还原语序再理解。
+> - **Nor 的承接关系**：Nor 不是单纯的“但是”，而是承接上一句否定，表示“也不”，形成“公众不期待；他们自己也不追求”的递进否定。
+> - **aspire to 中 to 是介词**：`aspire to such command` 中 to 后接名词短语，不是不定式标志；固定搭配译为“渴望 / 追求……”。
+> - **themselves 作强调而非宾语**：这里强调 Americans 自身也不追求这种语言能力，不能译成“追求他们自己”。
+
+In his latest book, *Doing Our Own Thing: The Degradation of Language and Music and Why We Should, Like, Care*, John McWhorter, a **linguist** and **controversialist** of mixed liberal and conservative views, sees the triumph of 1960s **counter-culture** as responsible for the decline of **formal English**.
 
 Blaming the permissive 1960s is nothing new, but this is not yet another criticism against the decline in education. Mr. McWhorter’s academic speciality is **language history and change**, and he sees the gradual disappearance of “**whom**”, for example, to be natural and no more regrettable than the loss of the case — endings of Old English.
 
