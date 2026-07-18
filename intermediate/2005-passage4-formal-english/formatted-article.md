@@ -186,7 +186,72 @@ In his latest book, *Doing Our Own Thing: The Degradation of Language and Music 
 > - **responsible for 的语义转换**：在此不是“负责任的”直译，而是“对……负有责任 / 是……的原因”，与后文 decline 构成因果判断。
 > - **多重 of 短语层层后置**：`the triumph of...`、`the decline of...` 都是名词后置修饰，翻译时需前置为“……的胜利 / ……的衰落”。
 
-Blaming the **permissive** 1960s is nothing new, but this is not yet another criticism against the decline in education. Mr. McWhorter’s academic speciality is **language history and change**, and he sees the gradual disappearance of “**whom**”, for example, to be natural and no more regrettable than the loss of the case — endings of Old English.
+Blaming the **permissive** 1960s is nothing new, but this is not yet another criticism against the decline in education.
+
+> [!abstract]- 长难句分析
+> **原句**：Blaming the **permissive** 1960s is nothing new, but this is not yet another criticism against the decline in education.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 第一分句主语 S | Blaming the **permissive** 1960s | 动名词短语作主语，表示“责怪放任的 20 世纪 60 年代”这一行为 |
+> | 第一分句系动词 V | is | 连接主语与表语 |
+> | 第一分句表语 C | nothing new | 表示“并不是什么新鲜事” |
+> | 并列连词 | but | 连接前后两个并列分句，构成转折 |
+> | 第二分句主语 S | this | 指代前面“责怪 60 年代”这一话题 / 做法在本文中的具体讨论 |
+> | 第二分句系动词 V | is | 连接主语与表语 |
+> | 第二分句表语 C | not yet another criticism against the decline in education | 说明“这并不是又一种对教育衰落的批评” |
+>
+> **简化主干**：Blaming the 1960s is nothing new, but this is not another criticism.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 动名词短语 | Blaming | 第一分句主语 | Blaming... 整体名词化，作句子主语 |
+> | 名词短语作宾语 | the **permissive** 1960s | Blaming | blame 的宾语，表示被归咎的时代 |
+> | 形容词前置定语 | **permissive** | 1960s | 表示“放任的 / 纵容的”，带有对 60 年代文化氛围的评价 |
+> | 表语结构 | nothing new | Blaming... | nothing + adjective 表示“并不……” |
+> | 并列连词 / 转折 | but | 两个分句 | 前句承认“责怪 60 年代并不新鲜”，后句转折说明本文不是普通教育批评 |
+> | 限定词短语 | yet another | criticism | yet another 表示“又一个 / 又一种”，常带有“老调重弹”的意味 |
+> | 介词短语作后置定语 | against | criticism | against the decline in education 修饰 criticism，说明批评所针对的问题 |
+> | 介词短语作后置定语 | in | decline | in education 修饰 decline，说明“教育领域的衰落” |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [并列分句 1] Blaming the permissive 1960s is nothing new
+>   ├── 主语：Blaming the permissive 1960s
+>   │     ├── 动名词：Blaming
+>   │     └── 宾语：the permissive 1960s
+>   │           └── 前置定语：permissive → 修饰 1960s
+>   ├── 系动词：is
+>   └── 表语：nothing new
+>
+> but
+>
+> [并列分句 2] this is not yet another criticism against the decline in education
+>   ├── 主语：this
+>   ├── 系动词：is
+>   └── 表语：not yet another criticism against the decline in education
+>         ├── 核心名词：criticism
+>         ├── 限定：not yet another → 不是又一种 / 并非老调重弹式的
+>         └── 后置定语：against the decline in education
+>               └── in education → 修饰 decline
+> ```
+>
+> ### 4. 参考译文
+> 把责任归咎于放任的 20 世纪 60 年代并不是什么新鲜事，但这并不是又一种针对教育衰落的批评。
+>
+> ### 5. 考点提示
+> - **动名词短语作主语**：`Blaming the permissive 1960s` 是主语，谓语是 `is`；不要把 Blaming 当成现在分词状语。
+> - **but 连接并列分句**：前后都有完整主系表结构，阅读时应拆成“承认旧观点”与“排除误解”两层。
+> - **nothing new 的否定表达**：不是“没有新东西”，而是“并不新鲜 / 老生常谈”。
+> - **yet another 的语气**：表示“又一个 / 又一种”，常暗含“重复、老套”的语气。
+> - **against 的修饰关系**：`against the decline in education` 修饰 `criticism`，表示“针对教育衰落的批评”，不是“反对教育衰落本身”。
+
+Mr. McWhorter’s academic speciality is **language history and change**, and he sees the gradual disappearance of “**whom**”, for example, to be natural and no more regrettable than the loss of the case — endings of Old English.
 
 But the cult of the **authentic** and the personal, “doing our own thing”, has spelt the death of **formal speech**, **writing**, **poetry** and **music**. While even the modestly educated sought an **elevated tone** when they put pen to paper before the 1960s, even the most well regarded writing since then has sought to capture **spoken English** on the page. Equally, in poetry, the highly personal, **performative genre** is the only form that could claim real liveliness. In both oral and written English, **talking** is triumphing over **speaking**, **spontaneity** over **craft**.
 
