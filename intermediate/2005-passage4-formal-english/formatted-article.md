@@ -35,7 +35,7 @@ Americans no longer expect **public figures**, whether in speech or in writing, 
 >
 > | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
 > |------|--------------|----------|------|
-> | 插入语 / 省略状语结构 | whether...or... | to command / public figures 的表达场景 | whether in speech or in writing 省略了完整谓语，表示“无论是在演讲中还是写作中” |
+> | 插入语 / 省略状语结构 | whether...or... | command the English language 的表达场景 | whether in speech or in writing 省略了完整谓语，表示“无论是在演讲中还是写作中”，限定“驾驭英语”发生的语境 |
 > | 非谓语短语 | to command | public figures | expect + O + to do 复合宾语结构，to command 作宾语补足语 |
 > | 名词短语作宾语 | the **English language** | command | command 的宾语，表示“驾驭英语” |
 > | 介词短语 | with | command | with skill and gift 修饰 command，说明“以技巧和天赋”驾驭语言 |
