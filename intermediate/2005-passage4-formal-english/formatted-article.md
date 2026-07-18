@@ -125,6 +125,67 @@ Nor do they aspire to such command themselves.
 
 In his latest book, *Doing Our Own Thing: The Degradation of Language and Music and Why We Should, Like, Care*, John McWhorter, a **linguist** and **controversialist** of mixed liberal and conservative views, sees the triumph of 1960s **counter-culture** as responsible for the decline of **formal English**.
 
+> [!abstract]- 长难句分析
+> **原句**：In his latest book, *Doing Our Own Thing: The Degradation of Language and Music and Why We Should, Like, Care*, John McWhorter, a **linguist** and **controversialist** of mixed liberal and conservative views, sees the triumph of 1960s **counter-culture** as responsible for the decline of **formal English**.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 句首状语 A | In his latest book, *Doing Our Own Thing: The Degradation of Language and Music and Why We Should, Like, Care* | 说明观点出现的载体：在其最新著作中 |
+> | 主句主语 S | John McWhorter | 观点的提出者 |
+> | 同位语 | a **linguist** and **controversialist** of mixed liberal and conservative views | 补充说明 John McWhorter 的身份与立场特点 |
+> | 主句谓语 V | sees | “认为 / 看作”，后接 see A as B 结构 |
+> | 宾语 O | the triumph of 1960s **counter-culture** | 被看作原因的对象，即“20 世纪 60 年代反主流文化的胜利” |
+> | 宾语补足语 C | as responsible for the decline of **formal English** | as 引出的宾语补足语，说明他如何评价这个 triumph |
+>
+> **简化主干**：John McWhorter sees the triumph as responsible for the decline.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 介词短语 / 句首状语 | In | 整个主句 | In his latest book 表示观点来源或出现位置 |
+> | 同位语 / 书名说明 | 逗号 + 书名 | his latest book | 书名解释 latest book 的具体所指 |
+> | 同位语 | 逗号 | John McWhorter | a linguist and controversialist... 补充说明人物身份 |
+> | 介词短语作后置定语 | of | controversialist / views | of mixed liberal and conservative views 说明其观点兼具自由派和保守派色彩 |
+> | 介词短语作后置定语 | of | triumph | of 1960s counter-culture 修饰 triumph，说明“什么的胜利” |
+> | 介词短语 / 宾补标志 | as | the triumph | see A as B 结构中的 as 引出宾语补足语 |
+> | 介词短语作补足成分 | for | responsible | responsible for... 说明“对……负责 / 是……的原因” |
+> | 介词短语作后置定语 | of | decline | of formal English 修饰 decline，说明“正式英语的衰落” |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [句首状语] In his latest book
+>   └── [同位语 / 书名] Doing Our Own Thing: The Degradation of Language and Music and Why We Should, Like, Care
+>
+> [主句] John McWhorter sees the triumph as responsible for the decline
+>   ├── 主语：John McWhorter
+>   │     └── [同位语] a linguist and controversialist of mixed liberal and conservative views
+>   │           ├── 身份 1：a linguist
+>   │           ├── 身份 2：controversialist
+>   │           └── 后置定语：of mixed liberal and conservative views
+>   ├── 谓语：sees
+>   └── 复合宾语：the triumph ... as responsible ...
+>         ├── 宾语：the triumph
+>         │     └── 后置定语：of 1960s counter-culture
+>         └── 宾语补足语：as responsible for the decline of formal English
+>               ├── as：引出评价结果
+>               ├── responsible for the decline：对衰落负有责任 / 是衰落原因
+>               └── of formal English → 修饰 decline
+> ```
+>
+> ### 4. 参考译文
+> 在其最新著作《我行我素：语言与音乐的退化，以及我们为什么，呃，应该在意》中，约翰·麦克沃特——一位观点兼有自由派和保守派色彩的语言学家兼争议性评论家——认为 20 世纪 60 年代反主流文化的胜利导致了正式英语的衰落。
+>
+> ### 5. 考点提示
+> - **see A as B 复合宾语结构**：`the triumph` 是宾语，`as responsible...` 是宾语补足语，核心意思是“把 A 看作 B / 认为 A 是 B”。
+> - **长主语前后插入信息多**：句首状语、书名同位语、人物同位语都容易遮蔽主干；阅读时先抓 `John McWhorter sees the triumph as responsible`。
+> - **同位语识别**：`a linguist and controversialist...` 不是新主语，而是对 John McWhorter 的补充说明。
+> - **responsible for 的语义转换**：在此不是“负责任的”直译，而是“对……负有责任 / 是……的原因”，与后文 decline 构成因果判断。
+> - **多重 of 短语层层后置**：`the triumph of...`、`the decline of...` 都是名词后置修饰，翻译时需前置为“……的胜利 / ……的衰落”。
+
 Blaming the permissive 1960s is nothing new, but this is not yet another criticism against the decline in education. Mr. McWhorter’s academic speciality is **language history and change**, and he sees the gradual disappearance of “**whom**”, for example, to be natural and no more regrettable than the loss of the case — endings of Old English.
 
 But the cult of the **authentic** and the personal, “doing our own thing”, has spelt the death of **formal speech**, **writing**, **poetry** and **music**. While even the modestly educated sought an **elevated tone** when they put pen to paper before the 1960s, even the most well regarded writing since then has sought to capture **spoken English** on the page. Equally, in poetry, the highly personal, **performative genre** is the only form that could claim real liveliness. In both oral and written English, **talking** is triumphing over **speaking**, **spontaneity** over **craft**.
