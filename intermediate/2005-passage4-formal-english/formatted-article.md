@@ -14,7 +14,60 @@ sources:
 
 ## Text 4
 
-Americans no longer expect **public figures**, whether in speech or in writing, to command the **English language** with skill and gift. Nor do they aspire to such command themselves. In his latest book, *Doing Our Own Thing: The Degradation of Language and Music and Why We Should, Like, Care*, John McWhorter, a **linguist** and **controversialist** of mixed liberal and conservative views, sees the triumph of 1960s **counter-culture** as responsible for the decline of **formal English**.
+Americans no longer expect **public figures**, whether in speech or in writing, to command the **English language** with skill and gift.
+
+> [!abstract]- 长难句分析
+> **原句**：Americans no longer expect **public figures**, whether in speech or in writing, to command the **English language** with skill and gift.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 主句主语 S | Americans | 动作和心理预期的发出者 |
+> | 状语 A | no longer | 修饰 expect，表示“不再” |
+> | 主句谓语 V | expect | 谓语动词，后接复合宾语结构 |
+> | 宾语 O | **public figures** | expect 的宾语，即被期待具备能力的人 |
+> | 宾语补足语 C | to command the **English language** with skill and gift | 不定式短语作宾语补足语，说明公众人物应具备的能力 |
+>
+> **简化主干**：Americans no longer expect public figures to command the English language.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 插入语 / 省略状语结构 | whether...or... | to command / public figures 的表达场景 | whether in speech or in writing 省略了完整谓语，表示“无论是在演讲中还是写作中” |
+> | 非谓语短语 | to command | public figures | expect + O + to do 复合宾语结构，to command 作宾语补足语 |
+> | 名词短语作宾语 | the **English language** | command | command 的宾语，表示“驾驭英语” |
+> | 介词短语 | with | command | with skill and gift 修饰 command，说明“以技巧和天赋”驾驭语言 |
+> | 并列名词 | and | skill / gift | skill 与 gift 并列作 with 的宾语，分别强调训练所得的技巧与天赋 |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [主句] Americans no longer expect public figures to command the English language with skill and gift
+>   ├── 主语：Americans
+>   ├── 状语：no longer → 修饰 expect
+>   ├── 谓语：expect
+>   └── 复合宾语：public figures to command the English language with skill and gift
+>         ├── 宾语：public figures
+>         └── 宾语补足语：to command the English language with skill and gift
+>               ├── 动词：command（驾驭 / 熟练掌握）
+>               ├── 宾语：the English language
+>               └── 方式状语：with skill and gift
+> [插入语 / 场景状语] whether in speech or in writing
+>   └── 表示范围：无论在口头表达还是书面表达中
+> ```
+>
+> ### 4. 参考译文
+> 美国人不再期望公众人物无论是在演讲中还是写作中，都能熟练而富有才华地驾驭英语。
+>
+> ### 5. 考点提示
+> - **expect + 宾语 + to do**：这是典型复合宾语结构，`public figures` 是 expect 的宾语，`to command...` 是宾语补足语，不要误判为目的状语。
+> - **whether...or... 的省略结构**：`whether in speech or in writing` 中省略了完整谓语，插入句中补充表达场景，翻译时可前置为“无论……还是……”。
+> - **command 的熟词僻义**：此处不是“命令”，而是“熟练掌握 / 驾驭”。考研阅读常考熟词僻义，需要结合宾语 `the English language` 判断。
+> - **with + 抽象名词作方式状语**：`with skill and gift` 说明驾驭语言的方式和水平，翻译为“熟练而富有才华地”。
+
+Nor do they aspire to such command themselves. In his latest book, *Doing Our Own Thing: The Degradation of Language and Music and Why We Should, Like, Care*, John McWhorter, a **linguist** and **controversialist** of mixed liberal and conservative views, sees the triumph of 1960s **counter-culture** as responsible for the decline of **formal English**.
 
 Blaming the permissive 1960s is nothing new, but this is not yet another criticism against the decline in education. Mr. McWhorter’s academic speciality is **language history and change**, and he sees the gradual disappearance of “**whom**”, for example, to be natural and no more regrettable than the loss of the case — endings of Old English.
 
