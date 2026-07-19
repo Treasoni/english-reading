@@ -503,7 +503,63 @@ In both oral and written English, **talking** is triumphing over **speaking**, *
 > - **both...and... 范围扩展**：`both oral and written English` 表明口语和书面语都受到这种趋势影响，不只是说话方式改变。
 > - **抽象名词对照**：`spontaneity` 与 `craft` 是价值取向的对比，前者指自然随意，后者指经过训练和打磨的表达技艺。
 
-Illustrated with an entertaining array of examples from both high and low culture, the trend that Mr. McWhorter documents is unmistakable. But it is less clear, to take the question of his subtitle, why we should, like, care. As a linguist, he acknowledges that all varieties of human language, including non-standard ones like **Black English**, can be powerfully expressive — there exists no language or dialect in the world that cannot convey complex ideas. He is not arguing, as many do, that we can no longer think straight because we do not talk proper.
+Illustrated with an entertaining array of examples from both high and low culture, the trend that Mr. McWhorter documents is unmistakable.
+
+> [!abstract]- 长难句分析
+> **原句**：Illustrated with an entertaining array of examples from both high and low culture, the trend that Mr. McWhorter documents is unmistakable.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 句首非谓语状语 A | Illustrated with an entertaining array of examples from both high and low culture | 过去分词短语，说明这个 trend 是如何被展示 / 佐证的 |
+> | 主句主语 S | the trend that Mr. McWhorter documents | “麦克沃特先生所记录的这一趋势” |
+> | 主句系动词 V | is | 连接主语和表语 |
+> | 主句表语 C | unmistakable | “明显的 / 不容误认的” |
+>
+> **简化主干**：The trend is unmistakable.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 过去分词短语作状语 | Illustrated | the trend / 整个主句 | 逻辑主语是 `the trend`，可理解为 “the trend is illustrated with...” |
+> | 介词短语 | with | Illustrated | `with an entertaining array...` 说明“用一系列有趣例子来说明” |
+> | 介词短语作后置定语 | of | array | `of examples` 说明 array 的内容是一组例子 |
+> | 介词短语作后置定语 | from | examples | `from both high and low culture` 说明例子来自高雅文化和通俗文化两个层面 |
+> | 并列结构 | both...and... | high culture / low culture | 强调例子来源覆盖范围广，既有高雅文化也有通俗文化 |
+> | 定语从句 | that | trend | `that Mr. McWhorter documents` 修饰 trend；that 在从句中作 `documents` 的宾语 |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [主句] the trend ... is unmistakable
+> ├── 句首状语：Illustrated with an entertaining array of examples from both high and low culture
+> │     ├── 过去分词：Illustrated
+> │     └── with 短语：with an entertaining array
+> │           └── 后置定语：of examples
+> │                 └── 来源：from both high and low culture
+> │                       └── both...and...：high culture + low culture
+> ├── 主语：the trend
+> │     └── 定语从句：that Mr. McWhorter documents
+> │           ├── 主语：Mr. McWhorter
+> │           ├── 谓语：documents
+> │           └── 宾语：that → 指代 trend
+> ├── 系动词：is
+> └── 表语：unmistakable
+> ```
+>
+> ### 4. 参考译文
+> 以一系列来自高雅文化和通俗文化的有趣例子为佐证，麦克沃特先生所记录的这一趋势是显而易见的。
+>
+> ### 5. 考点提示
+> - **句首过去分词短语**：`Illustrated with...` 不是谓语，真正谓语是 `is`；阅读时先跳过句首非谓语，抓主干 `the trend is unmistakable`。
+> - **非谓语的逻辑主语**：`Illustrated` 的逻辑主语是 `the trend`，可还原为 `the trend is illustrated with...`。
+> - **定语从句识别**：`that Mr. McWhorter documents` 修饰 `the trend`，that 在从句中作宾语，因此从句主干是 `Mr. McWhorter documents the trend`。
+> - **with 短语的工具 / 方式含义**：`with an entertaining array of examples` 表示“用一系列有趣例子”，不是简单的伴随“带着”。
+> - **both high and low culture**：指例子既来自高雅文化，也来自通俗文化，说明作者举例范围广，服务于后面的 `unmistakable`。
+
+But it is less clear, to take the question of his subtitle, why we should, like, care. As a linguist, he acknowledges that all varieties of human language, including non-standard ones like **Black English**, can be powerfully expressive — there exists no language or dialect in the world that cannot convey complex ideas. He is not arguing, as many do, that we can no longer think straight because we do not talk proper.
 
 Russians have a deep love for their own language and carry large chunks of **memorized poetry** in their heads, while Italian politicians tend to elaborate speech that would seem old-fashioned to most English-speakers. Mr. McWhorter acknowledges that **formal language** is not strictly necessary, and proposes no radical education reforms — he is really grieving over the loss of something beautiful more than useful. We now take our English “on paper plates instead of china”. A shame, perhaps, but probably an inevitable one.
 
