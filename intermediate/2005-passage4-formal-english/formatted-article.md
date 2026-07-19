@@ -445,7 +445,63 @@ While even the modestly educated sought an **elevated tone** when they put pen t
 > - **seek to do 结构**：`has sought to capture...` 中 `to capture` 是 seek 的宾语内容，表示“试图做……”，不是目的状语。
 > - **spoken English on the page 的矛盾张力**：`spoken English` 属口语，`on the page` 属书面页面，二者并置正好体现“书面表达口语化”的趋势。
 
-Equally, in poetry, the highly personal, **performative genre** is the only form that could claim real liveliness. In both oral and written English, **talking** is triumphing over **speaking**, **spontaneity** over **craft**.
+Equally, in poetry, the highly personal, **performative genre** is the only form that could claim real liveliness.
+
+In both oral and written English, **talking** is triumphing over **speaking**, **spontaneity** over **craft**.
+
+> [!abstract]- 长难句分析
+> **原句**：In both oral and written English, **talking** is triumphing over **speaking**, **spontaneity** over **craft**.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 句首状语 A | In both oral and written English | 限定讨论范围：在口头英语和书面英语两方面 |
+> | 并列分句 1 主语 S | **talking** | 动名词名词化，指随意、口语化的“闲谈 / 说话方式” |
+> | 并列分句 1 谓语 V | is triumphing | 现在进行时，表示正在占上风 / 正在获胜 |
+> | 并列分句 1 状语 / 补足成分 | over **speaking** | `triumph over...` 表示“胜过 / 战胜……”，speaking 指较正式、有技巧的表达 |
+> | 并列分句 2 主语 S | **spontaneity** | “自发性 / 随意性” |
+> | 并列分句 2 省略谓语 V | is triumphing | 承前省略，完整形式为 `spontaneity is triumphing over craft` |
+> | 并列分句 2 状语 / 补足成分 | over **craft** | 表示“胜过精心打磨的技艺” |
+>
+> **简化主干**：Talking is triumphing over speaking, and spontaneity is triumphing over craft.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 介词短语作范围状语 | In | 整个句子 | `In ... English` 说明这种趋势发生在英语表达领域 |
+> | 并列结构 | both...and... | oral / written English | 同时涵盖口语英语和书面英语，强调影响范围全面 |
+> | 动名词名词化 | -ing | talking / speaking | 两者都作名词使用，但语义不同：talking 偏随意闲谈，speaking 偏正式表达 |
+> | 固定搭配 | triumph over | speaking / craft | 表示“胜过 / 压倒”，不是普通的空间意义“在……上方” |
+> | 省略结构 | 逗号 | spontaneity over craft | 后半部分省略了 `is triumphing`，与前半句形成平行结构 |
+> | 抽象名词对比 | spontaneity / craft | 整个判断 | spontaneity 与 craft 构成价值取向对立：即兴随意压过精心技艺 |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [并列 / 省略结构]
+> ├── 范围状语：In both oral and written English
+> │     └── both...and...：oral English + written English
+> ├── 分句 1：talking is triumphing over speaking
+> │     ├── 主语：talking
+> │     ├── 谓语：is triumphing
+> │     └── over 短语：over speaking
+> └── 分句 2：spontaneity [is triumphing] over craft
+>       ├── 主语：spontaneity
+>       ├── 省略谓语：[is triumphing]
+>       └── over 短语：over craft
+> ```
+>
+> ### 4. 参考译文
+> 无论是在口头英语还是书面英语中，“闲谈式表达”正在压倒“正式表达”，即兴随意正在压倒精心技艺。
+>
+> ### 5. 考点提示
+> - **省略与平行结构**：`spontaneity over craft` 省略了前面的 `is triumphing`，还原后是 `spontaneity is triumphing over craft`；考研阅读中这类省略常依靠前半句补全。
+> - **talking 与 speaking 的语义对比**：两者都可指“说话”，但此处 talking 偏随意、口语化，speaking 偏正式、讲究技巧的表达，与全文“formal English 衰落”主题呼应。
+> - **triumph over 熟词搭配**：不是“在……上方凯旋”，而是“战胜 / 压倒 / 占上风”。
+> - **both...and... 范围扩展**：`both oral and written English` 表明口语和书面语都受到这种趋势影响，不只是说话方式改变。
+> - **抽象名词对照**：`spontaneity` 与 `craft` 是价值取向的对比，前者指自然随意，后者指经过训练和打磨的表达技艺。
 
 Illustrated with an entertaining array of examples from both high and low culture, the trend that Mr. McWhorter documents is unmistakable. But it is less clear, to take the question of his subtitle, why we should, like, care. As a linguist, he acknowledges that all varieties of human language, including non-standard ones like **Black English**, can be powerfully expressive — there exists no language or dialect in the world that cannot convey complex ideas. He is not arguing, as many do, that we can no longer think straight because we do not talk proper.
 
