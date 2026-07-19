@@ -262,27 +262,28 @@ Mr. McWhorter’s academic speciality is **language history and change**, and he
 > |------|------|------|
 > | 并列分句 1 主语 S | Mr. McWhorter’s academic speciality | “麦克沃特先生的学术专长” |
 > | 并列分句 1 系动词 V | is | 连接主语和表语 |
-> | 并列分句 1 表语 C | **language history and change** | 说明其专业研究方向是“语言史与语言变化” |
-> | 并列连词 | and | 连接两个并列分句 |
+> | 并列分句 1 表语 C | **language history and change** | 整体说明其专业方向是“语言史与语言变化” |
+> | 并列连词 | and | 连接两个完整并列分句 |
 > | 并列分句 2 主语 S | he | 指 Mr. McWhorter |
-> | 并列分句 2 谓语 V | sees | “认为 / 看待”，后接 see + O + to be + C 结构 |
+> | 并列分句 2 谓语 V | sees | “认为 / 看作”，后接 `see + O + to be + C` 复合宾语结构 |
 > | 并列分句 2 宾语 O | the gradual disappearance of “**whom**” | 被评价的语言现象，即 whom 的逐渐消失 |
-> | 并列分句 2 宾语补足语 C | to be natural and no more regrettable than the loss of the case — endings of Old English | 说明他对该现象的判断：自然，且并不比古英语格尾的消失更令人遗憾 |
+> | 并列分句 2 宾语补足语 C | to be natural and no more regrettable than the loss of the case — endings of Old English | 说明他对该现象的判断：自然，而且并不比古英语格尾的消失更令人遗憾 |
 >
-> **简化主干**：Mr. McWhorter’s academic speciality is language history and change, and he sees the disappearance of “whom” to be natural and no more regrettable.
+> **简化主干**：Mr. McWhorter’s academic speciality is language history and change, and he sees the disappearance of “whom” to be natural and no more regrettable than the loss of Old English case-endings.
 >
 > ### 2. 修饰成分
 >
 > | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
 > |------|--------------|----------|------|
 > | 名词所有格 | ’s | academic speciality | 表示“麦克沃特先生的学术专长” |
-> | 并列名词结构 | and | history / change | language history and change 是并列表语，合起来说明其研究领域 |
-> | 介词短语作后置定语 | of | disappearance | of “whom” 说明“什么的消失” |
-> | 插入语 | for example | the gradual disappearance of “whom” | 举例说明语言变化中的一个具体案例 |
-> | 非谓语 / 宾补结构 | to be | the gradual disappearance of “whom” | see + O + to be + C，to be natural... 作宾语补足语 |
-> | 比较结构 | no more...than... | regrettable | 表示“两者都不更值得遗憾 / A 并不比 B 更令人惋惜” |
-> | 介词短语作后置定语 | of | loss | of the case — endings of Old English 说明“古英语格尾的消失” |
-> | 介词短语作后置定语 | of | case — endings | of Old English 说明这些格尾属于古英语 |
+> | 名词短语内部并列 | and | history / change | `language` 限定研究领域，`history` 与 `change` 并列，共同构成表语中心 |
+> | 介词短语作后置定语 | of | disappearance | `of “whom”` 说明“什么的消失” |
+> | 插入语 | for example | 整个 `the gradual disappearance of “whom”` 这一例子 | 举例说明语言变化中的具体案例，不参与主干 |
+> | 不定式短语作宾语补足语 | to be | the gradual disappearance of “whom” | `see + O + to be + C`，说明“认为 O 是 C”，不是目的状语 |
+> | 表语内部并列 | and | natural / no more regrettable... | `natural` 与 `no more regrettable...` 共同作 `to be` 后的补足语内容 |
+> | 比较结构 | no more...than... | regrettable | 表示“A 并不比 B 更令人遗憾”，不可误译为“更不令人遗憾” |
+> | 介词短语作后置定语 | of | loss | `of the case — endings of Old English` 说明“古英语格尾的消失” |
+> | 介词短语作后置定语 | of | case — endings | `of Old English` 说明这些格尾属于古英语 |
 >
 > ### 3. 结构图解
 >
@@ -292,30 +293,33 @@ Mr. McWhorter’s academic speciality is **language history and change**, and he
 > │     ├── 主语：Mr. McWhorter’s academic speciality
 > │     ├── 系动词：is
 > │     └── 表语：language history and change
-> │           └── 并列名词：history and change
+> │           ├── 前置限定：language
+> │           └── 并列中心：history and change
 > ├── 并列连词：and
-> └── 分句 2：he sees the gradual disappearance of “whom” to be natural and no more regrettable...
+> └── 分句 2：he sees the gradual disappearance of “whom”, for example, to be natural and no more regrettable...
 >       ├── 主语：he
 >       ├── 谓语：sees
->       └── 复合宾语：the gradual disappearance ... to be natural and no more regrettable...
->             ├── 宾语：the gradual disappearance
->             │     └── 后置定语：of “whom”
->             │           └── 插入语：for example
->             └── 宾语补足语：to be natural and no more regrettable than...
->                   ├── 表语 1：natural
->                   ├── 表语 2：no more regrettable
->                   └── 比较对象：than the loss of the case — endings of Old English
->                         └── 后置定语：of Old English
+>       ├── 宾语：the gradual disappearance of “whom”
+>       │     ├── 前置修饰：gradual
+>       │     └── 后置定语：of “whom”
+>       ├── 插入语：for example → 说明 whom 的消失只是一个例子
+>       └── 宾语补足语：to be natural and no more regrettable than...
+>             ├── 补足语 1：natural
+>             └── 补足语 2：no more regrettable than the loss of the case — endings of Old English
+>                   ├── 比较核心：no more regrettable
+>                   └── 比较基准：than the loss of the case — endings of Old English
+>                         └── loss 的后置定语：of the case — endings of Old English
+>                               └── case — endings 的后置定语：of Old English
 > ```
 >
 > ### 4. 参考译文
-> 麦克沃特先生的学术专长是语言史与语言变化；例如，他认为 “whom” 一词逐渐消失是自然现象，并不比古英语格尾的消失更值得惋惜。
+> 麦克沃特先生的学术专长是语言史与语言变化；例如，他认为 “whom” 一词的逐渐消失是一种自然现象，并不比古英语格尾的消失更值得惋惜。
 >
 > ### 5. 考点提示
 > - **并列句拆分**：`and` 连接两个完整分句，前一分句是主系表结构，后一分句是 `see + O + to be + C` 复合宾语结构。
-> - **see + O + to be + C**：`the gradual disappearance of “whom”` 是宾语，`to be natural and no more regrettable...` 是宾语补足语，阅读时不要把 `to be` 误判为目的状语。
-> - **no more...than... 比较结构**：这里不是简单的“更不令人遗憾”，而是表达“并不比……更令人遗憾”，暗含两种语言变化都属于自然演变。
-> - **插入语 for example**：插在宾语后，只是举例说明，不改变句子主干；可先跳过再抓主干。
+> - **see + O + to be + C**：`the gradual disappearance of “whom”` 是宾语，`to be natural and no more regrettable...` 是宾语补足语；阅读时不要把 `to be` 误判为目的状语。
+> - **no more...than... 比较结构**：这里表示“并不比……更令人遗憾”，借古英语格尾消失这一历史变化来说明 whom 的消失也属自然演变，不应译成“更不令人遗憾”。
+> - **插入语 for example**：插在宾语后，对 `the gradual disappearance of “whom”` 作例证说明；可先跳过插入语，再抓 `he sees O to be C` 主干。
 > - **of 短语层层后置**：`disappearance of “whom”`、`loss of the case — endings of Old English` 都是名词 + of 后置定语，翻译时应前置为“whom 的消失 / 古英语格尾的消失”。
 
 But the cult of the **authentic** and the personal, “doing our own thing”, has spelt the death of **formal speech**, **writing**, **poetry** and **music**. While even the modestly educated sought an **elevated tone** when they put pen to paper before the 1960s, even the most well regarded writing since then has sought to capture **spoken English** on the page. Equally, in poetry, the highly personal, **performative genre** is the only form that could claim real liveliness. In both oral and written English, **talking** is triumphing over **speaking**, **spontaneity** over **craft**.
