@@ -380,7 +380,72 @@ But the cult of the **authentic** and the personal, “doing our own thing”, h
 > - **spell 的熟词僻义**：`has spelt the death of...` 中 spell 不是“拼写”，而是“意味着 / 导致”，相当于 `has caused`。
 > - **同位语插入识别**：`“doing our own thing”` 被逗号隔开，是对前面 cult 的解释，阅读时可先跳过，抓主干 `the cult has spelt the death`。
 
-While even the modestly educated sought an **elevated tone** when they put pen to paper before the 1960s, even the most well regarded writing since then has sought to capture **spoken English** on the page. Equally, in poetry, the highly personal, **performative genre** is the only form that could claim real liveliness. In both oral and written English, **talking** is triumphing over **speaking**, **spontaneity** over **craft**.
+While even the modestly educated sought an **elevated tone** when they put pen to paper before the 1960s, even the most well regarded writing since then has sought to capture **spoken English** on the page.
+
+> [!abstract]- 长难句分析
+> **原句**：While even the modestly educated sought an **elevated tone** when they put pen to paper before the 1960s, even the most well regarded writing since then has sought to capture **spoken English** on the page.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 让步 / 对比状语从句 | While even the modestly educated sought an **elevated tone** when they put pen to paper before the 1960s | 先交代 20 世纪 60 年代以前的写作取向：即使受教育程度不高的人写作时也追求高雅语调 |
+> | 主句主语 S | even the most well regarded writing since then | “自那以后，即便是最受推崇的文字作品” |
+> | 主句谓语 V | has sought | 现在完成时，表示从那以后延续至今的写作倾向；`seek to do` 意为“试图 / 力图做……” |
+> | 主句宾语 O | to capture **spoken English** on the page | 不定式短语作 seek 的宾语，表示“试图在书面上捕捉口语英语” |
+>
+> **简化主干**：While the modestly educated sought an elevated tone, even the most well regarded writing has sought to capture spoken English.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 让步 / 对比状语从句 | While | 整个主句 | `While... , ...` 形成“过去追求高雅语调”与“后来追求口语化”的对比 |
+> | 名词化形容词 | the + 形容词 | the modestly educated | 表示“一类人”：受教育程度一般的人 |
+> | 副词修饰 | even | the modestly educated / the most well regarded writing | 两个 even 构成强烈对照：过去连普通受教育者都追求高雅；后来连最受推崇的作品也追求口语化 |
+> | 时间状语从句 | when | sought an elevated tone | `when they put pen to paper` 说明追求高雅语调发生在“动笔写作时” |
+> | 习语结构 | put pen to paper | they | 表示“动笔写作”，不是字面上的“把笔放到纸上” |
+> | 时间状语 | before the 1960s | sought / put pen to paper | 限定前半句所描述的时代背景：20 世纪 60 年代以前 |
+> | 后置时间状语 | since then | writing / has sought | 说明主句所谈的是“自那以后”的写作趋势 |
+> | 非谓语短语作宾语 | to capture | has sought | `seek to do` 结构，to capture 是 sought 的宾语内容 |
+> | 介词短语作地点状语 | on | capture **spoken English** | `on the page` 表示把口语英语呈现在书面页面上 |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [复合句]
+> ├── 让步 / 对比状语从句：While even the modestly educated sought an elevated tone...
+> │     ├── 引导词：While
+> │     ├── 主语：even the modestly educated
+> │     │     └── the + 形容词：the modestly educated → 受教育程度一般的人
+> │     ├── 谓语：sought
+> │     ├── 宾语：an elevated tone
+> │     └── 时间状语从句：when they put pen to paper before the 1960s
+> │           ├── 主语：they
+> │           ├── 谓语习语：put pen to paper
+> │           └── 时间状语：before the 1960s
+> └── 主句：even the most well regarded writing since then has sought to capture spoken English on the page
+>       ├── 主语：even the most well regarded writing
+>       │     └── 时间限定：since then
+>       ├── 谓语：has sought
+>       └── 宾语：to capture spoken English on the page
+>             ├── 动词：capture
+>             ├── 宾语：spoken English
+>             └── 地点状语：on the page
+> ```
+>
+> ### 4. 参考译文
+> 在 20 世纪 60 年代以前，即使受教育程度一般的人动笔写作时也会追求一种高雅的语调；而自那以后，即便是最受推崇的文字作品，也一直力图在纸面上捕捉口语英语。
+>
+> ### 5. 考点提示
+> - **While 引导对比 / 让步状语从句**：这里不是单纯的“当……时候”，而是把 60 年代以前与之后的写作风格对照起来，译为“虽然 / 而”。
+> - **两个 even 的对照作用**：`even the modestly educated` 与 `even the most well regarded writing` 形成反差，突出正式书面语标准的变化之大。
+> - **the + 形容词表示一类人**：`the modestly educated` 指“受教育程度一般的人”，不是某个具体的人。
+> - **put pen to paper 习语**：表示“动笔写作”，常见于阅读理解中的熟词短语，不能逐词硬译。
+> - **seek to do 结构**：`has sought to capture...` 中 `to capture` 是 seek 的宾语内容，表示“试图做……”，不是目的状语。
+> - **spoken English on the page 的矛盾张力**：`spoken English` 属口语，`on the page` 属书面页面，二者并置正好体现“书面表达口语化”的趋势。
+
+Equally, in poetry, the highly personal, **performative genre** is the only form that could claim real liveliness. In both oral and written English, **talking** is triumphing over **speaking**, **spontaneity** over **craft**.
 
 Illustrated with an entertaining array of examples from both high and low culture, the trend that Mr. McWhorter documents is unmistakable. But it is less clear, to take the question of his subtitle, why we should, like, care. As a linguist, he acknowledges that all varieties of human language, including non-standard ones like **Black English**, can be powerfully expressive — there exists no language or dialect in the world that cannot convey complex ideas. He is not arguing, as many do, that we can no longer think straight because we do not talk proper.
 
