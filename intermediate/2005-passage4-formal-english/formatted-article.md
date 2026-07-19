@@ -614,7 +614,80 @@ But it is less clear, to take the question of his subtitle, why we should, like,
 > - **because 引导原因状语从句**：原因从句解释宾语从句中的“不能清晰思考”，构成“语言不规范 → 思维不清晰”的被否定论点。
 > - **proper 的非标准用法**：`talk proper` 本身故意使用非标准表达，相当于 `talk properly`，与文章主题“正式英语衰落”形成呼应。
 
-Russians have a deep love for their own language and carry large chunks of **memorized poetry** in their heads, while Italian politicians tend to elaborate speech that would seem old-fashioned to most English-speakers. Mr. McWhorter acknowledges that **formal language** is not strictly necessary, and proposes no radical education reforms — he is really grieving over the loss of something beautiful more than useful. We now take our English “on paper plates instead of china”. A shame, perhaps, but probably an inevitable one.
+Russians have a deep love for their own language and carry large chunks of **memorized poetry** in their heads, while Italian politicians tend to elaborate speech that would seem old-fashioned to most English-speakers.
+
+> [!abstract]- 长难句分析
+> **原句**：Russians have a deep love for their own language and carry large chunks of **memorized poetry** in their heads, while Italian politicians tend to elaborate speech that would seem old-fashioned to most English-speakers.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 第一分句主语 S | Russians | 俄罗斯人 |
+> | 第一分句谓语 V1 | have | 与后面的 `carry` 并列，表示“拥有” |
+> | 第一分句宾语 O1 | a deep love for their own language | have 的宾语，表示“对本国语言的深厚热爱” |
+> | 第一分句谓语 V2 | carry | 与 `have` 并列，表示“携带 / 记着” |
+> | 第一分句宾语 O2 | large chunks of **memorized poetry** | carry 的宾语，表示“大段背熟的诗歌” |
+> | 第一分句地点状语 A | in their heads | 修饰 carry，表示“记在脑子里” |
+> | 第二分句连接标志 | while | 连接前后两个分句，此处偏对比含义 |
+> | 第二分句主语 S | Italian politicians | 意大利政治家 |
+> | 第二分句谓语 V | tend to elaborate | tend to do 结构，表示“往往 / 倾向于精心组织” |
+> | 第二分句宾语 O | speech that would seem old-fashioned to most English-speakers | elaborate 的宾语，核心是 speech，后接定语从句 |
+>
+> **简化主干**：Russians have a love and carry poetry, while Italian politicians tend to elaborate speech.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 并列谓语 | and | have / carry | `have` 与 `carry` 共用主语 Russians，说明俄罗斯人与本国语言关系的两个表现 |
+> | 介词短语作后置定语 | for | love | `for their own language` 修饰 love，说明热爱的对象 |
+> | 介词短语作后置定语 | of | chunks | `of memorized poetry` 修饰 chunks，说明“大段内容”的性质 |
+> | 过去分词作前置定语 | memorized | poetry | 表示“已经背熟的 / 记住的”诗歌 |
+> | 介词短语作地点状语 | in | carry | `in their heads` 表示诗歌储存在脑中，即“熟记于心” |
+> | 对比状语从句 / 并列连接 | while | 前后两个分句 | while 在此不是单纯时间“当……时”，而是对比俄罗斯人与意大利政治家的语言文化现象 |
+> | tend to do 结构 | tend to | elaborate | `tend to do` 表示“倾向于 / 往往会做某事”，其中 `elaborate` 是动词，作 `to` 后的不定式核心 |
+> | 定语从句 | that | speech | `that would seem old-fashioned to most English-speakers` 修饰 speech，that 在从句中作主语 |
+> | 情态动词 | would | seem | 表示从多数英语使用者角度推测出的评价，“会显得” |
+> | 介词短语作评价视角状语 | to | would seem old-fashioned | `to most English-speakers` 说明“在谁看来显得过时” |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [对比复合句]
+> ├── 分句 1：Russians have a deep love ... and carry large chunks ... in their heads
+> │     ├── 主语：Russians
+> │     ├── 并列谓语 1：have
+> │     │     └── 宾语：a deep love for their own language
+> │     │           └── 后置定语：for their own language
+> │     └── 并列谓语 2：carry
+> │           ├── 宾语：large chunks of memorized poetry
+> │           │     ├── 后置定语：of memorized poetry
+> │           │     └── 前置定语：memorized → 修饰 poetry
+> │           └── 地点状语：in their heads
+> ├── 连接词：while（对比）
+> └── 分句 2：Italian politicians tend to elaborate speech that would seem old-fashioned...
+>       ├── 主语：Italian politicians
+>       ├── 谓语：tend to elaborate
+>       └── 宾语：speech
+>             └── 定语从句：that would seem old-fashioned to most English-speakers
+>                   ├── 主语：that (= speech)
+>                   ├── 系动词：would seem
+>                   ├── 表语：old-fashioned
+>                   └── 评价对象 / 视角：to most English-speakers
+> ```
+>
+> ### 4. 参考译文
+> 俄罗斯人深深热爱自己的语言，并在脑中记着大段背熟的诗歌；而意大利政治家则往往会精心组织一套在多数英语使用者看来显得过时的讲话。
+>
+> ### 5. 考点提示
+> - **while 的对比含义**：这里不是时间状语“当……时候”，而是连接两个民族 / 文化现象，表示“而 / 相比之下”。
+> - **并列谓语识别**：`have` 和 `carry` 共用主语 Russians；不要把 `carry` 误解为修饰 love 的非谓语。
+> - **定语从句中的 that 作主语**：`that would seem old-fashioned...` 修饰 `speech`，从句主干是 `speech would seem old-fashioned`。
+> - **tend to do 结构**：表示倾向或常态，翻译为“往往会 / 倾向于”；这里 `elaborate` 是动词，后接抽象名词 `speech`。
+> - **抽象名词 speech 的语境义**：此处不是“演讲活动”本身，而是“讲话方式 / 言辞表达”，与正式语言风格相关。
+
+Mr. McWhorter acknowledges that **formal language** is not strictly necessary, and proposes no radical education reforms — he is really grieving over the loss of something beautiful more than useful. We now take our English “on paper plates instead of china”. A shame, perhaps, but probably an inevitable one.
 
 ## Questions
 
