@@ -687,7 +687,77 @@ Russians have a deep love for their own language and carry large chunks of **mem
 > - **tend to do 结构**：表示倾向或常态，翻译为“往往会 / 倾向于”；这里 `elaborate` 是动词，后接抽象名词 `speech`。
 > - **抽象名词 speech 的语境义**：此处不是“演讲活动”本身，而是“讲话方式 / 言辞表达”，与正式语言风格相关。
 
-Mr. McWhorter acknowledges that **formal language** is not strictly necessary, and proposes no radical education reforms — he is really grieving over the loss of something beautiful more than useful. We now take our English “on paper plates instead of china”. A shame, perhaps, but probably an inevitable one.
+Mr. McWhorter acknowledges that **formal language** is not strictly necessary, and proposes no radical education reforms — he is really grieving over the loss of something beautiful more than useful.
+
+> [!abstract]- 长难句分析
+> **原句**：Mr. McWhorter acknowledges that **formal language** is not strictly necessary, and proposes no radical education reforms — he is really grieving over the loss of something beautiful more than useful.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 第一分句主语 S | Mr. McWhorter | 动作发出者 |
+> | 第一分句谓语 V1 | acknowledges | 谓语动词，后接 that 宾语从句 |
+> | 第一分句宾语 O1 | that **formal language** is not strictly necessary | that 引导的宾语从句，说明他承认的内容 |
+> | 并列谓语 V2 | proposes | 与 acknowledges 共用主语 Mr. McWhorter |
+> | 并列谓语宾语 O2 | no radical education reforms | proposes 的宾语；`no` 否定宾语，整体表示“没有提出激进的教育改革” |
+> | 破折号后分句主语 S | he | 指 Mr. McWhorter |
+> | 破折号后分句谓语 V | is really grieving | 现在进行时，表示“真正感到悲伤 / 惋惜” |
+> | 破折号后状语 A | over the loss of something beautiful more than useful | over 引出的原因 / 对象状语，说明他悲伤的对象 |
+>
+> **简化主干**：Mr. McWhorter acknowledges that formal language is not necessary, and proposes no reforms — he is grieving over the loss.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 宾语从句 / 名词性从句 | that | acknowledges | `that formal language is not strictly necessary` 作 acknowledges 的宾语，说明他承认的事实 |
+> | 否定副词 | not | strictly necessary | 构成否定判断，“并非严格必要 / 并非绝对必要” |
+> | 程度副词 | strictly | necessary | 限定 necessary，表示“严格意义上 / 绝对地”必要 |
+> | 并列连词 | and | acknowledges / proposes | 连接两个并列谓语；`acknowledges` 与 `proposes` 共用主语 Mr. McWhorter |
+> | 否定限定词 | no | radical education reforms | 表示“没有任何激进的教育改革方案” |
+> | 前置定语 / 名词作定语 | radical / education | reforms | radical 是形容词前置定语，education 是名词作定语，限定 reforms 的领域 |
+> | 破折号解释说明 | — | 前半句整体 | 破折号后分句解释他并非主张改革，而是在哀悼一种美的丧失 |
+> | 程度副词 | really | is grieving | 强调真正的心理状态，与前文“并非提出改革”形成对照 |
+> | 介词短语作对象 / 原因状语 | over | is grieving | `over the loss...` 表示悲伤所针对的对象或原因 |
+> | 介词短语作后置定语 | of | loss | `of something beautiful more than useful` 说明“什么东西的失去” |
+> | 后置形容词短语 / 比较结构 | beautiful more than useful | something | 不定代词 something 后置修饰；`more than` 表示“与其说……不如说……”，突出 beautiful 而弱化 useful |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [并列谓语主句] Mr. McWhorter acknowledges ... and proposes ...
+> ├── 主语：Mr. McWhorter
+> ├── 谓语 1：acknowledges
+> │     └── 宾语从句：that formal language is not strictly necessary
+> │           ├── 主语：formal language
+> │           ├── 系动词：is
+> │           └── 表语：not strictly necessary
+> ├── 并列连词：and
+> └── 谓语 2：proposes
+>       └── 宾语：no radical education reforms
+>
+> [破折号解释分句] he is really grieving over the loss of something beautiful more than useful
+> ├── 主语：he (= Mr. McWhorter)
+> ├── 谓语：is grieving
+> │     └── 程度副词：really
+> └── 对象 / 原因状语：over the loss of something beautiful more than useful
+>       ├── 中心名词：loss
+>       └── 后置定语：of something beautiful more than useful
+>             └── something 的后置修饰：beautiful more than useful
+> ```
+>
+> ### 4. 参考译文
+> 麦克沃特先生承认，正式语言并非绝对必要，也没有提出什么激进的教育改革方案——他真正哀叹的，是某种与其说有用、不如说美好的东西正在失去。
+>
+> ### 5. 考点提示
+> - **acknowledge + that 宾语从句**：`that formal language is not strictly necessary` 是 acknowledge 的宾语，不要把 that 从句误判为定语从句。
+> - **并列谓语共用主语**：`acknowledges` 和 `proposes` 共用主语 Mr. McWhorter，第二个谓语前省略了主语。
+> - **破折号解释作者真实立场**：破折号后 `he is really grieving...` 对前文进行解释，说明他不是主张激进改革，而是在惋惜正式语言的审美价值流失。
+> - **grieve over sth.**：`over` 引出悲伤的对象或原因，译为“为……悲伤 / 哀叹”。
+> - **more than 的比较语义**：`beautiful more than useful` 不是简单“更美且更有用”，而是“与其说有用，不如说美好”，强调审美价值高于实用价值。
+
+We now take our English “on paper plates instead of china”. A shame, perhaps, but probably an inevitable one.
 
 ## Questions
 
