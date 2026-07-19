@@ -561,6 +561,59 @@ Illustrated with an entertaining array of examples from both high and low cultur
 
 But it is less clear, to take the question of his subtitle, why we should, like, care. As a linguist, he acknowledges that all varieties of human language, including non-standard ones like **Black English**, can be powerfully expressive — there exists no language or dialect in the world that cannot convey complex ideas. He is not arguing, as many do, that we can no longer think straight because we do not talk proper.
 
+> [!abstract]- 长难句分析
+> **原句**：He is not arguing, as many do, that we can no longer think straight because we do not talk proper.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 主句主语 S | He | 指 Mr. McWhorter |
+> | 主句谓语 V | is not arguing | 现在进行时的否定形式，表示“他并不是在主张 / 论证” |
+> | 宾语 O | that we can no longer think straight because we do not talk proper | that 引导的宾语从句，说明他并未提出的观点 |
+> | 插入成分 | as many do | 省略结构，表示“正如许多人所做的那样”，补充说明这种观点很常见 |
+>
+> **简化主干**：He is not arguing that we can no longer think straight.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 插入语 / 方式比较从句 | as | is not arguing | `as many do` 中 `do` 代替前面的 `argue`，完整含义是“as many people argue”，说明许多人确实如此主张 |
+> | 宾语从句 / 名词性从句 | that | arguing | `that we can no longer think straight...` 作 argue 的宾语，说明被否定的论点内容 |
+> | 否定状语 | no longer | can think | 表示“不再”，修饰宾语从句中的谓语结构 |
+> | 副词 / 方式状语 | straight | think | 修饰 think，表示“清晰地 / 正常地”思考 |
+> | 原因状语从句 | because | can no longer think straight | `because we do not talk proper` 解释“不能清晰思考”的原因 |
+> | 非标准副词用法 | proper | talk | `talk proper` 是非正式 / 非标准表达，标准说法应为 `talk properly`，此处呼应文章对非正式英语的讨论 |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [主句] He is not arguing that...
+> ├── 主语：He (= Mr. McWhorter)
+> ├── 谓语：is not arguing
+> ├── 插入语：as many do
+> │     └── 省略还原：as many people argue
+> └── 宾语从句：that we can no longer think straight because we do not talk proper
+>       ├── 从句主语：we
+>       ├── 情态谓语：can no longer think
+>       │     └── 方式状语：straight
+>       └── 原因状语从句：because we do not talk proper
+>             ├── 主语：we
+>             ├── 谓语：do not talk
+>             └── 方式状语：proper（非标准用法，相当于 properly）
+> ```
+>
+> ### 4. 参考译文
+> 他并不是像许多人那样主张：因为我们说话不规范，所以我们就不再能够清晰地思考。
+>
+> ### 5. 考点提示
+> - **否定范围与作者立场**：`He is not arguing that...` 否定的是“他在主张该观点”这一动作，而不是把宾语从句内部简单改成反义。阅读时要把握作者在排除误解。
+> - **that 宾语从句**：`that we can no longer think straight...` 是 argue 的内容，遇到长宾语从句时先回到主干 `He is not arguing that...`。
+> - **as many do 的省略**：`do` 代替前面的 `argue`，避免重复；翻译时补出“像许多人那样主张”。
+> - **because 引导原因状语从句**：原因从句解释宾语从句中的“不能清晰思考”，构成“语言不规范 → 思维不清晰”的被否定论点。
+> - **proper 的非标准用法**：`talk proper` 本身故意使用非标准表达，相当于 `talk properly`，与文章主题“正式英语衰落”形成呼应。
+
 Russians have a deep love for their own language and carry large chunks of **memorized poetry** in their heads, while Italian politicians tend to elaborate speech that would seem old-fashioned to most English-speakers. Mr. McWhorter acknowledges that **formal language** is not strictly necessary, and proposes no radical education reforms — he is really grieving over the loss of something beautiful more than useful. We now take our English “on paper plates instead of china”. A shame, perhaps, but probably an inevitable one.
 
 ## Questions
