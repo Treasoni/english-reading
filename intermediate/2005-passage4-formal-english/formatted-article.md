@@ -322,7 +322,65 @@ Mr. McWhorter’s academic speciality is **language history and change**, and he
 > - **插入语 for example**：插在宾语后，对 `the gradual disappearance of “whom”` 作例证说明；可先跳过插入语，再抓 `he sees O to be C` 主干。
 > - **of 短语层层后置**：`disappearance of “whom”`、`loss of the case — endings of Old English` 都是名词 + of 后置定语，翻译时应前置为“whom 的消失 / 古英语格尾的消失”。
 
-But the cult of the **authentic** and the personal, “doing our own thing”, has spelt the death of **formal speech**, **writing**, **poetry** and **music**. While even the modestly educated sought an **elevated tone** when they put pen to paper before the 1960s, even the most well regarded writing since then has sought to capture **spoken English** on the page. Equally, in poetry, the highly personal, **performative genre** is the only form that could claim real liveliness. In both oral and written English, **talking** is triumphing over **speaking**, **spontaneity** over **craft**.
+But the cult of the **authentic** and the personal, “doing our own thing”, has spelt the death of **formal speech**, **writing**, **poetry** and **music**.
+
+> [!abstract]- 长难句分析
+> **原句**：But the cult of the **authentic** and the personal, “doing our own thing”, has spelt the death of **formal speech**, **writing**, **poetry** and **music**.
+>
+> ### 1. 主干提取
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 转折连接词 | But | 承接上文：虽然 McWhorter 承认语言变化有自然性，但他仍批评某种文化倾向造成了正式表达的衰落 |
+> | 主语 S | the cult of the **authentic** and the personal | “崇尚真实与个人化的风气 / 崇拜” |
+> | 同位语 | “doing our own thing” | 对这种 cult 的具体说明，即“我行我素、做自己的事”的观念 |
+> | 谓语 V | has spelt | 现在完成时，spell 在此意为“导致 / 意味着” |
+> | 宾语 O | the death of **formal speech**, **writing**, **poetry** and **music** | “正式演说、写作、诗歌和音乐的消亡” |
+>
+> **简化主干**：But the cult has spelt the death of formal speech, writing, poetry and music.
+>
+> ### 2. 修饰成分
+>
+> | 类型 | 引导词 / 标志 | 修饰对象 | 说明 |
+> |------|--------------|----------|------|
+> | 介词短语作后置定语 | of | cult | `of the authentic and the personal` 说明崇拜的对象：真实感与个人化 |
+> | 名词化形容词 | the | authentic / personal | `the authentic`、`the personal` 表示抽象概念：“真实的东西 / 个人化的东西” |
+> | 同位语 / 插入说明 | 逗号 + 引号短语 | the cult of the authentic and the personal | `doing our own thing` 解释这种文化风气的口号或核心精神 |
+> | 介词短语作后置定语 | of | death | `of formal speech, writing, poetry and music` 说明“哪些东西的消亡” |
+> | 并列名词结构 | 逗号 + and | formal speech / writing / poetry / music | 四个名词并列，共同作 `of` 的宾语，表示受影响的正式艺术与表达形式 |
+>
+> ### 3. 结构图解
+>
+> ```text
+> [主句] But the cult ... has spelt the death ...
+> ├── 转折：But → 与上文“whom 的消失属自然变化”形成语义转折
+> ├── 主语：the cult
+> │     └── 后置定语：of the authentic and the personal
+> │           ├── 名词化形容词 1：the authentic
+> │           └── 名词化形容词 2：the personal
+> ├── 同位语：“doing our own thing”
+> │     └── 解释 cult 的文化口号：我行我素 / 做自己的事
+> ├── 谓语：has spelt
+> │     └── 现在完成时：表示这种影响已经造成结果
+> └── 宾语：the death
+>       └── 后置定语：of formal speech, writing, poetry and music
+>             ├── formal speech
+>             ├── writing
+>             ├── poetry
+>             └── music
+> ```
+>
+> ### 4. 参考译文
+> 但是，对“真实”与“个人化”的崇尚——也就是“我行我素”——已经导致了正式演说、写作、诗歌和音乐的消亡。
+>
+> ### 5. 考点提示
+> - **But 的转折方向**：上文说 McWhorter 认为某些语言形式消失属自然变化；本句转而指出，他真正哀叹的是 20 世纪 60 年代后“崇尚个人真实”的文化风气摧毁了正式表达。
+> - **cult 的抽象含义**：这里不是“邪教”，而是“狂热崇拜 / 风气 / 潮流”；`the cult of...` 常译为“对……的崇尚”。
+> - **名词化形容词**：`the authentic`、`the personal` 用 `the + 形容词` 表抽象概念，不能机械译为“真实的人 / 个人的人”。
+> - **spell 的熟词僻义**：`has spelt the death of...` 中 spell 不是“拼写”，而是“意味着 / 导致”，相当于 `has caused`。
+> - **同位语插入识别**：`“doing our own thing”` 被逗号隔开，是对前面 cult 的解释，阅读时可先跳过，抓主干 `the cult has spelt the death`。
+
+While even the modestly educated sought an **elevated tone** when they put pen to paper before the 1960s, even the most well regarded writing since then has sought to capture **spoken English** on the page. Equally, in poetry, the highly personal, **performative genre** is the only form that could claim real liveliness. In both oral and written English, **talking** is triumphing over **speaking**, **spontaneity** over **craft**.
 
 Illustrated with an entertaining array of examples from both high and low culture, the trend that Mr. McWhorter documents is unmistakable. But it is less clear, to take the question of his subtitle, why we should, like, care. As a linguist, he acknowledges that all varieties of human language, including non-standard ones like **Black English**, can be powerfully expressive — there exists no language or dialect in the world that cannot convey complex ideas. He is not arguing, as many do, that we can no longer think straight because we do not talk proper.
 
