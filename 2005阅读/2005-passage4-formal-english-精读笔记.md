@@ -1253,7 +1253,126 @@ Russians have a deep love for their own language and carry large chunks of **mem
 > [!note]
 > 联动复习：`degrade / degradation` 与本篇标题 *The Degradation of Language and Music* 直接呼应；`gradual` 又可联动文章中语言变化“逐渐消失”的表达。
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **authentic** | adj. | 真实的；真正的；可信的 | But the cult of the **authentic** and the personal, “doing our own thing”, has spelt the death of formal speech, writing, poetry and music. |
+| **Black English** | n. | 黑人英语；非标准英语的一种 | ...including non-standard ones like **Black English**, can be powerfully expressive... |
+| **counter-culture** | n. | 反主流文化 | ...sees the triumph of 1960s **counter-culture** as responsible for the decline of formal English. |
+| **controversialist** | n. | 争议性评论家；爱争论者 | John McWhorter, a linguist and **controversialist** of mixed liberal and conservative views... |
+| **craft** | n. | 技艺；技巧；精心雕琢 | ...we forgot how to sing in our supposed original key, with **craft**. |
+| **elevated** | adj. | 高雅的；提升的；高尚的 | ...the modestly educated sought an **elevated tone** when they put pen to paper... |
+| **elevated tone** | n. phrase | 高雅的语调；较正式的表达风格 | ...the modestly educated sought an **elevated tone** when they put pen to paper before the 1960s... |
+| **English language** | n. phrase | 英语；英语语言 | Americans no longer expect public figures... to command the **English language** with skill and gift. |
+| **figure** | n. | 人物；数字；形象 | Americans no longer expect **public figures**... to command the English language... |
+| **formal** | adj. | 正式的；规范的 | Mr. McWhorter acknowledges that **formal language** is not strictly necessary... |
+| **formal English** | n. phrase | 正式英语；规范英语 | ...responsible for the decline of **formal English**. |
+| **formal language** | n. phrase | 正式语言；规范语言 | Mr. McWhorter acknowledges that **formal language** is not strictly necessary... |
+| **formal speech** | n. phrase | 正式演说；正式口语表达 | ...has spelt the death of **formal speech**, writing, poetry and music. |
+| **genre** | n. | 体裁；类型 | Equally, in poetry, the highly personal, performative **genre** is the only form that could claim real liveliness. |
+| **language history and change** | n. phrase | 语言史与语言变化 | Mr. McWhorter’s academic speciality is **language history and change**... |
+| **linguist** | n. | 语言学家 | John McWhorter, a **linguist** and controversialist of mixed liberal and conservative views... |
+| **memorized** | adj. | 背熟的；记住的 | Russians... carry large chunks of **memorized poetry** in their heads... |
+| **memorized poetry** | n. phrase | 背熟的诗歌；熟记的诗篇 | Russians... carry large chunks of **memorized poetry** in their heads... |
+| **music** | n. | 音乐 | ...has spelt the death of formal speech, writing, poetry and **music**. |
+| **performative** | adj. | 表演性的；强调表演效果的 | ...the highly personal, **performative genre** is the only form that could claim real liveliness. |
+| **performative genre** | n. phrase | 表演性质的体裁 | ...the highly personal, **performative genre** is the only form that could claim real liveliness. |
+| **permissive** | adj. | 放任的；纵容的 | Blaming the **permissive** 1960s is nothing new... |
+| **poetry** | n. | 诗歌 | ...has spelt the death of formal speech, writing, **poetry** and music. |
+| **public figures** | n. phrase | 公众人物 | Americans no longer expect **public figures**, whether in speech or in writing... |
+| **speaking** | n. | 正式表达；说话方式 | Talking, as opposed to **speaking**, is what we are allowed to do... |
+| **speech** | n. | 言语；演说；讲话方式 | Italian politicians tend to elaborate speech that would seem old-fashioned to most English-speakers. |
+| **spoken** | adj. | 口头的；口语的 | ...writing since then has sought to capture **spoken English** on the page. |
+| **spoken English** | n. phrase | 口语英语 | ...writing since then has sought to capture **spoken English** on the page. |
+| **spontaneity** | n. | 自发性；自然流露 | ...a performance in the sense that it “speaks for itself”, where its **spontaneity** and personal authenticity are privileged. |
+| **talking** | n. | 随意交谈；非正式说话 | Equally, in poetry, the highly personal... genre is the only form that could claim real liveliness. **Talking** is the most dangerous thing... |
+| **tone** | n. | 语调；风格；基调 | ...the modestly educated sought an elevated **tone** when they put pen to paper... |
+| **whom** | pron. | 谁；宾格 who | ...he sees the gradual disappearance of “**whom**”... to be natural... |
+| **writing** | n. | 写作；文字作品 | ...has spelt the death of formal speech, **writing**, poetry and music. |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> authentic / permissive / spontaneity / craft / linguist / counter-culture / elevated / genre / memorized / controversialist
+
+1. A good translator needs not only accuracy but also literary ________.
+
+2. The 1960s ________ challenged many traditional social norms.
+
+3. The professor is a well-known ________ who studies language change.
+
+4. In formal writing, students should avoid slang and use a more ________ tone.
+
+5. The speaker’s ________ made the speech sound natural rather than rehearsed.
+
+6. Some critics blamed the ________ atmosphere of the decade for cultural decline.
+
+7. Poetry is a literary ________ with its own conventions and history.
+
+8. He carried several ________ poems in his head and could recite them anytime.
+
+9. The essay values an ________ voice rather than empty ornament.
+
+10. As a ________, he often publishes arguments that attract strong disagreement.
+
+> [!abstract]- 答案
+> 1. **craft**（技艺；精心雕琢）
+> 2. **counter-culture**（反主流文化）
+> 3. **linguist**（语言学家）
+> 4. **elevated**（高雅的；提升的）
+> 5. **spontaneity**（自发性；自然流露）
+> 6. **permissive**（放任的；纵容的）
+> 7. **genre**（体裁）
+> 8. **memorized**（背熟的）
+> 9. **authentic**（真实的；真正的）
+> 10. **controversialist**（争议性评论家）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. **public figures**
+
+2. **elevated tone**
+
+3. take our English “on paper plates instead of china”
+
+> [!abstract]- 答案
+> 1. **public figures** = 公众人物
+> 2. **elevated tone** = 高雅的语调；较正式的表达风格
+> 3. **take our English “on paper plates instead of china”** = 用“纸盘”而非“瓷器”盛放英语；比喻只追求功能便利，而放弃语言的艺术性和精致感
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. “Blaming the **permissive** 1960s is nothing new...” 中 **permissive** 的含义是：
+   - A. 精确的
+   - B. 放任的；纵容的
+   - C. 可允许进入的
+   - D. 有说服力的
+
+2. “...the triumph of 1960s **counter-culture**...” 中 **counter-culture** 的含义是：
+   - A. 反主流文化
+   - B. 柜台文化
+   - C. 计算文化
+   - D. 传统礼仪文化
+
+3. “...we forgot how to sing... with **craft**.” 中 **craft** 的含义是：
+   - A. 小船
+   - B. 诡计
+   - C. 技艺；精心雕琢
+   - D. 手工课
+
+> [!abstract]- 答案
+> 1. **B** — 这里修饰 1960s，指 20 世纪 60 年代文化氛围“放任、纵容”。
+> 2. **A** — `counter-` 有“反、对抗”含义，`counter-culture` 指挑战主流价值的反主流文化。
+> 3. **C** — 文章将自发随意与正式表达的技巧对比，`craft` 在此指语言 / 音乐表达中的技艺和雕琢。
+
 
 ## 心得
 
