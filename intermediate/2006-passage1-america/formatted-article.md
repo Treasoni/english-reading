@@ -11,7 +11,35 @@ sources:
   - "2006年考研英语阅读 Passage 1"
 ---
 
-In spite of "endless talk of difference," American society is an amazing machine for **homogenizing** people. There is "the democratizing uniformity of dress and discourse, and the casualness and absence of deference" characteristic of popular culture. People are absorbed into "a culture of consumption" launched by the 19th-century department stores that offered "vast arrays of goods in an elegant atmosphere. Instead of intimate shops catering to a knowledgeable elite," these were stores "anyone could enter, regardless of class or background. This turned shopping into a public and democratic act." The mass media, advertising and sports are other forces for **homogenization**.
+In spite of "endless talk of difference," American society is an amazing machine for **homogenizing** people.
+
+> [!abstract]- 长难句分析
+> **原句**：In spite of "endless talk of difference," American society is an amazing machine for **homogenizing** people.
+>
+> **主干提取**：American society is an amazing machine.
+> - **S (Subject)**：American society
+> - **V (Linking Verb)**：is
+> - **C (Subject Complement)**：an amazing machine
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介短(让步状语) | In spite of "endless talk of difference" | 修饰整句 |
+> | 介短(定语) | for homogenizing people | 修饰 machine |
+>
+> **结构图解**：
+> ```
+> 主句: American society is an amazing machine
+>   ├── 介短(让步状语): In spite of "endless talk of difference"
+>   └── 介短(定语): for homogenizing people → 修饰 machine
+> ```
+>
+> **参考译文**：尽管人们"无休止地谈论差异"，美国社会却是一台令人惊叹的同质化人的机器。
+>
+> **考点提示**：句首 `In spite of...` 是介词短语作让步状语，修饰整句；句末 `for homogenizing people` 是介词短语作定语，修饰 `machine`。考研阅读常考同一介词短语结构的不同语法功能辨析——状语修饰动作/整句，定语修饰名词。
+
+There is "the democratizing uniformity of dress and discourse, and the casualness and absence of deference" characteristic of popular culture. People are absorbed into "a culture of consumption" launched by the 19th-century department stores that offered "vast arrays of goods in an elegant atmosphere. Instead of intimate shops catering to a knowledgeable elite," these were stores "anyone could enter, regardless of class or background. This turned shopping into a public and democratic act." The mass media, advertising and sports are other forces for **homogenization**.
 
 Immigrants are quickly fitting into this common culture, which may not be altogether elevating but is hardly poisonous. Writing for the National Immigration Forum, Gregory Rodriguez reports that today's immigration is neither at unprecedented level nor resistant to **assimilation**. In 1998 immigrants were 9.8 percent of population; in 1900, 13.6 percent. In the 10 years prior to 1990, 3.1 immigrants arrived for every 1,000 residents; in the 10 years prior to 1890, 9.2 for every 1,000. Now, consider three indices of **assimilation**—language, home ownership and intermarriage.
 
