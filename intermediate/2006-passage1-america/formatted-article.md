@@ -39,7 +39,44 @@ In spite of "endless talk of difference," American society is an amazing machine
 >
 > **考点提示**：句首 `In spite of...` 是介词短语作让步状语，修饰整句；句末 `for homogenizing people` 是介词短语作定语，修饰 `machine`。考研阅读常考同一介词短语结构的不同语法功能辨析——状语修饰动作/整句，定语修饰名词。
 
-There is "the democratizing **uniformity** of dress and **discourse**, and the casualness and absence of deference" characteristic of popular culture. People are absorbed into "a culture of consumption" launched by the 19th-century department stores that offered "vast arrays of goods in an elegant atmosphere. Instead of intimate shops catering to a knowledgeable elite," these were stores "anyone could enter, regardless of class or background. This turned shopping into a public and democratic act." The mass media, advertising and sports are other forces for **homogenization**.
+There is "the democratizing **uniformity** of dress and **discourse**, and the **casualness** and absence of **deference**" characteristic of popular culture.
+
+> [!abstract]- 长难句分析
+> **原句**：There is "the democratizing **uniformity** of dress and **discourse**, and the **casualness** and absence of **deference**" characteristic of popular culture.
+>
+> **主干提取**（There be 句型）：
+> - **引导词**：There
+> - **V (Verb)**：is
+> - **S (Real Subject)**："the democratizing uniformity of dress and discourse, and the casualness and absence of deference"
+> - **后置定语**：characteristic of popular culture（形容词短语，修饰整个主语）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/成分 | 修饰对象 |
+> |------|------------|----------|
+> | 介短(定语) | of dress and discourse | 修饰 uniformity |
+> | 并列结构 | the democratizing uniformity... **and** the casualness... | 两个名词短语并列，共同作主语 |
+> | 形容词短语(后置定语) | characteristic of popular culture | 修饰整个主语名词短语 |
+>
+> **结构图解**：
+> ```
+> 主句(There be): There is [Real Subject] [后置定语]
+>   ├── Real Subject (引号内):
+>         ├── 核心1: the democratizing uniformity
+>         │     └── 介短(定语): of dress and discourse → 修饰 uniformity
+>         ├── 并列: and
+>         └── 核心2: the casualness and absence of deference
+>               ├── 核心: the casualness
+>               └── 并列: and absence of deference
+>                     └── 介短(定语): of deference → 修饰 absence
+>   └── 形容词短语(后置定语): characteristic of popular culture
+> ```
+>
+> **参考译文**：流行文化的特征是"服饰和话语的民主化统一，以及随意和不拘礼节"。
+>
+> **考点提示**：本句考查三个语法点：① **There be 句型**的真正主语识别——引号内的长名词短语才是主语，There 仅为形式主语；② **并列结构**的边界——and 连接了两个名词短语，需识别正确的并列层次；③ **后置形容词短语** characteristic of popular culture 作定语修饰整个主语，考研阅读常将此类后置定语与先行词分离以增加理解难度。
+
+People are absorbed into "a culture of consumption" launched by the 19th-century department stores that offered "vast arrays of goods in an elegant atmosphere. Instead of intimate shops catering to a knowledgeable elite," these were stores "anyone could enter, regardless of class or background. This turned shopping into a public and democratic act." The mass media, advertising and sports are other forces for **homogenization**.
 
 Immigrants are quickly fitting into this common culture, which may not be altogether elevating but is hardly poisonous. Writing for the National Immigration Forum, Gregory Rodriguez reports that today's immigration is neither at unprecedented level nor resistant to **assimilation**. In 1998 immigrants were 9.8 percent of population; in 1900, 13.6 percent. In the 10 years prior to 1990, 3.1 immigrants arrived for every 1,000 residents; in the 10 years prior to 1890, 9.2 for every 1,000. Now, consider three indices of **assimilation**—language, home ownership and intermarriage.
 
