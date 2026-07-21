@@ -236,7 +236,7 @@ Rodriguez notes that children in remote villages around world are fans of supers
 >
 > **考点提示**：本句考查四个语法点：① **并列句转折关系**——yet 连接两个独立分句，语义上表示"对比转折"；② **双重宾语从句嵌套**——两个分句各含一个 that 引导的名词从句作宾语；③ **现在分词短语后置定语**——living within the United States 修饰 immigrants，表主动进行，相当于 who live within the United States；④ **形容词短语作表语**——immune to... 为形容词短语，remain 为系动词，构成"系表结构"。
 
-Are there divisive issues and pockets of seething anger in America? Indeed. It is big enough to have a bit of everything. But particularly when viewed against America's turbulent past, today's social indices hardly suggest a dark and deteriorating social environment.
+Are there **divisive** issues and pockets of seething anger in America? Indeed. It is big enough to have a bit of everything. But particularly when viewed against America's turbulent past, today's social indices hardly suggest a dark and deteriorating social environment.
 
 ## 题目
 
