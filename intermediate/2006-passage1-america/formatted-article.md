@@ -236,7 +236,46 @@ Rodriguez notes that children in remote villages around world are fans of supers
 >
 > **考点提示**：本句考查四个语法点：① **并列句转折关系**——yet 连接两个独立分句，语义上表示"对比转折"；② **双重宾语从句嵌套**——两个分句各含一个 that 引导的名词从句作宾语；③ **现在分词短语后置定语**——living within the United States 修饰 immigrants，表主动进行，相当于 who live within the United States；④ **形容词短语作表语**——immune to... 为形容词短语，remain 为系动词，构成"系表结构"。
 
-Are there **divisive** issues and pockets of seething anger in America? Indeed. It is big enough to have a bit of everything. But particularly when viewed against America's turbulent past, today's social indices hardly suggest a dark and deteriorating social environment.
+Are there **divisive** issues and pockets of seething anger in America? Indeed. It is big enough to have a bit of everything.
+
+But particularly when viewed against America's turbulent past, today's social indices hardly suggest a dark and deteriorating social environment.
+
+> [!abstract]- 长难句分析
+> **原句**：But particularly when viewed against America's turbulent past, today's social indices hardly suggest a dark and deteriorating social environment.
+>
+> **主干提取**：
+> - **S (Subject)**: today's social indices
+> - **V (Verb)**: suggest
+> - **O (Object)**: a dark and deteriorating social environment
+> - **A (Adverbial)**: hardly（否定副词，修饰 suggest）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 并列连词 | But | 连接上下文，表转折 |
+> | 省略式状语从句 | when (viewed) | 修饰 suggest，表时间背景 |
+> | 程度副词 | particularly | 修饰 when viewed...，强调"尤其" |
+> | 介词短语 | against...past | 修饰 viewed，表对比参照 |
+>
+> **结构图解**：
+> ```
+> Sentence:
+> ├── But [转折连词]
+> ├── 状从(省略式): particularly when viewed against America's turbulent past
+> │     └── 介短: against America's turbulent past → 修饰 viewed
+> └── 主句: today's social indices hardly suggest a dark and deteriorating social environment
+>       ├── S: today's social indices
+>       ├── A: hardly (否定副词)
+>       ├── V: suggest
+>       └── O: a dark and deteriorating social environment
+>             ├── 定: dark (adj.)
+>             └── 定: deteriorating (现在分词作定语)
+> ```
+>
+> **参考译文**：但是，特别是当与美国动荡的过去相比时，今天的社会指数几乎无法说明社会环境是黑暗且日益恶化的。
+>
+> **考点提示**：本句核心考点是**省略式状语从句**——当状语从句的主语与主句主语一致，且从句谓语包含 be 动词时，可省略从句主语和 be 动词。此处 when (they are) viewed 省略了 they are。判断标志：when/while/though/if 等连词直接 + V-ed/V-ing，省略的是"主语 + be"。
 
 ## 题目
 
