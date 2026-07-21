@@ -76,7 +76,48 @@ There is "the democratizing **uniformity** of dress and **discourse**, and the *
 >
 > **考点提示**：本句考查三个语法点：① **There be 句型**的真正主语识别——引号内的长名词短语才是主语，There 仅为形式主语；② **并列结构**的边界——and 连接了两个名词短语，需识别正确的并列层次；③ **后置形容词短语** characteristic of popular culture 作定语修饰整个主语，考研阅读常将此类后置定语与先行词分离以增加理解难度。
 
-People are absorbed into "a culture of consumption" launched by the 19th-century department stores that offered "vast arrays of goods in an elegant atmosphere. Instead of intimate shops catering to a knowledgeable elite," these were stores "anyone could enter, regardless of class or background. This turned shopping into a public and democratic act." The mass media, advertising and sports are other forces for **homogenization**.
+People are absorbed into "a culture of consumption" launched by the 19th-century department stores that offered "vast arrays of goods in an elegant atmosphere. Instead of intimate shops catering to a knowledgeable elite," these were stores "anyone could enter, regardless of class or background.
+
+> [!abstract]- 长难句分析
+> **原句**：People are absorbed into "a culture of consumption" launched by the 19th-century department stores that offered "vast arrays of goods in an elegant atmosphere. Instead of intimate shops catering to a knowledgeable elite," these were stores "anyone could enter, regardless of class or background.
+>
+> **主干提取**（并列句，含两个独立分句）：
+> - **Clause 1**：People are absorbed into "a culture of consumption"
+>   - **S**：People
+>   - **V**：are absorbed（被动语态）
+>   - **A**：into "a culture of consumption"（介短作状语）
+> - **Clause 2**：these were stores
+>   - **S**：these
+>   - **V**：were
+>   - **C**：stores
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/成分 | 修饰对象 |
+> |------|------------|----------|
+> | 非谓语(过去分词短语) | launched by the 19th-century department stores | 修饰 "a culture of consumption"（后置定语，表被动） |
+> | 定语从句 | that offered "vast arrays...elite," | 修饰 the 19th-century department stores |
+> | 引语(同位说明) | "anyone could enter, regardless of class or background" | 对 stores 的内容作补充说明 |
+> | 介短(状语) | regardless of class or background | 修饰 enter |
+>
+> **结构图解**：
+> ```
+> Sentence (并列句):
+>   ├── Clause 1: People are absorbed into "a culture of consumption"
+>   │     └── 非谓语(过去分词): launched by the 19th-century department stores
+>   │           └── 定从: that offered "vast arrays...elite," → 修饰 department stores
+>   │                 └── 引语(并列): "vast arrays of goods in an elegant atmosphere.
+>   │                     Instead of intimate shops catering to a knowledgeable elite,"
+>   └── Clause 2: these were stores
+>         └── 引语(同位说明): "anyone could enter, regardless of class or background"
+>               └── 介短(状语): regardless of class or background → 修饰 enter
+> ```
+>
+> **参考译文**：人们被吸纳进由19世纪百货商店发起的"消费文化"之中——这些商店提供"品种繁多的商品，环境优雅。与迎合知识精英的私密小店不同，"这些是"任何人不论等级或背景均可进入"的商店。
+>
+> **考点提示**：本句考查三个语法点：① **过去分词短语后置定语** launched by... 表被动，相当于 which was launched by...，修饰紧邻的名词短语；② **定语从句嵌套** that offered... 进一步修饰 department stores，与前面的过去分词构成多层嵌套修饰结构；③ **并列句识别**——逗号分隔的两个独立分句（People are absorbed... / these were stores...），需分别识别各自的谓语动词。
+
+This turned shopping into a public and democratic act." The mass media, advertising and sports are other forces for **homogenization**.
 
 Immigrants are quickly fitting into this common culture, which may not be altogether elevating but is hardly poisonous. Writing for the National Immigration Forum, Gregory Rodriguez reports that today's immigration is neither at unprecedented level nor resistant to **assimilation**. In 1998 immigrants were 9.8 percent of population; in 1900, 13.6 percent. In the 10 years prior to 1990, 3.1 immigrants arrived for every 1,000 residents; in the 10 years prior to 1890, 9.2 for every 1,000. Now, consider three indices of **assimilation**—language, home ownership and intermarriage.
 
