@@ -173,6 +173,69 @@ Foreign-born Asians and Hispanics "have higher rates of **intermarriage** than d
 
 Rodriguez notes that children in remote villages around world are fans of superstars like Arnold Schwarzenegger and Garth Brooks, yet "some Americans fear that immigrants living within the United States remain somehow immune to the nation's assimilative power."
 
+> [!abstract]- 长难句分析
+> **原句**：Rodriguez notes that children in remote villages around world are fans of superstars like Arnold Schwarzenegger and Garth Brooks, yet "some Americans fear that immigrants living within the United States remain somehow immune to the nation's assimilative power."
+>
+> **主干提取**（并列句，yet 连接两个独立分句）：
+> - **Clause 1**：Rodriguez notes [宾语从句]
+>   - **S**：Rodriguez
+>   - **V**：notes
+>   - **O**：[宾语从句] that children ... are fans ...
+> - **Clause 2**："some Americans fear [宾语从句]"
+>   - **S**：some Americans
+>   - **V**：fear
+>   - **O**：[宾语从句] that immigrants ... remain ... immune ...
+>
+> **宾语从句内部**：
+> - **Clause 1 宾语从句**：that children in remote villages around world are fans of superstars like Arnold Schwarzenegger and Garth Brooks
+>   - **S**：children in remote villages around world（介短作定语修饰 children）
+>   - **V**：are
+>   - **C**：fans of superstars like Arnold Schwarzenegger and Garth Brooks
+> - **Clause 2 宾语从句**：that immigrants living within the United States remain somehow immune to the nation's assimilative power
+>   - **S**：immigrants living within the United States（非谓语作定语修饰 immigrants）
+>   - **V**：remain（系动词）
+>   - **C**：immune to the nation's assimilative power（形容词短语作表语）
+>   - **A**：somehow
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/成分 | 修饰对象 |
+> |------|------------|----------|
+> | 名从(宾语从句) | that children ... are fans ... | 作 notes 的宾语 |
+> | 介短(定语) | in remote villages around world | 修饰 children |
+> | 介短(定语) | like Arnold Schwarzenegger and Garth Brooks | 修饰 superstars |
+> | 并列连词(转折) | yet | 连接两个并列分句 |
+> | 名从(宾语从句) | that immigrants ... remain immune ... | 作 fear 的宾语 |
+> | 非谓语(现在分词短语) | living within the United States | 修饰 immigrants（表主动） |
+> | 介短(状语) | to the nation's assimilative power | 修饰 immune |
+>
+> **结构图解**：
+> ```
+> Sentence (并列句, yet 表转折):
+>   ├── Clause 1: Rodriguez notes [宾语从句]
+>   │     └── 名从(宾语从句): that children ... are fans ...
+>   │           ├── S: children in remote villages around world
+>   │           │     └── 介短(定语): in remote villages around world → 修饰 children
+>   │           ├── V: are
+>   │           └── C: fans of superstars like Arnold Schwarzenegger and Garth Brooks
+>   │                 └── 介短(定语): like Arnold Schwarzenegger and Garth Brooks → 修饰 superstars
+>   │
+>   ├── 并列连词(转折): yet
+>   │
+>   └── Clause 2: "some Americans fear [宾语从句]"
+>         └── 名从(宾语从句): that immigrants ... remain ... immune ...
+>               ├── S: immigrants living within the United States
+>               │     └── 非谓语(现在分词): living within the United States → 修饰 immigrants
+>               ├── V: remain
+>               ├── A: somehow
+>               └── C: immune to the nation's assimilative power
+>                     └── 介短(状语): to the nation's assimilative power → 修饰 immune
+> ```
+>
+> **参考译文**：罗德里格斯指出，世界各地偏远村庄的孩子都是阿诺德·施瓦辛格和加思·布鲁克斯这类超级巨星的粉丝，然而"一些美国人担心，生活在美国境内的移民在某种程度上仍然对该国的同化力量免疫。"
+>
+> **考点提示**：本句考查四个语法点：① **并列句转折关系**——yet 连接两个独立分句，语义上表示"对比转折"；② **双重宾语从句嵌套**——两个分句各含一个 that 引导的名词从句作宾语；③ **现在分词短语后置定语**——living within the United States 修饰 immigrants，表主动进行，相当于 who live within the United States；④ **形容词短语作表语**——immune to... 为形容词短语，remain 为系动词，构成"系表结构"。
+
 Are there divisive issues and pockets of seething anger in America? Indeed. It is big enough to have a bit of everything. But particularly when viewed against America's turbulent past, today's social indices hardly suggest a dark and deteriorating social environment.
 
 ## 题目
