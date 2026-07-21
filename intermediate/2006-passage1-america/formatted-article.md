@@ -79,7 +79,7 @@ There is "the democratizing **uniformity** of dress and **discourse**, and the *
 People are absorbed into "a culture of consumption" launched by the 19th-century department stores that offered "vast arrays of goods in an elegant atmosphere. Instead of intimate shops catering to a knowledgeable elite," these were stores "anyone could enter, regardless of class or background.
 
 > [!abstract]- 长难句分析
-> **原句**：People are absorbed into "a culture of consumption" launched by the 19th-century department stores that offered "vast arrays of goods in an elegant atmosphere. Instead of intimate shops catering to a knowledgeable elite," these were stores "anyone could enter, regardless of class or background.
+> **原句**：People are absorbed into "a culture of consumption" launched by the 19th-century department stores that offered "vast arrays of goods in an elegant atmosphere. Instead of intimate shops catering to a knowledgeable elite," these were stores "anyone could enter, regardless of class or background."
 >
 > **主干提取**（并列句，含两个独立分句）：
 > - **Clause 1**：People are absorbed into "a culture of consumption"
@@ -97,7 +97,7 @@ People are absorbed into "a culture of consumption" launched by the 19th-century
 > |------|------------|----------|
 > | 非谓语(过去分词短语) | launched by the 19th-century department stores | 修饰 "a culture of consumption"（后置定语，表被动） |
 > | 定语从句 | that offered "vast arrays...elite," | 修饰 the 19th-century department stores |
-> | 引语(同位说明) | "anyone could enter, regardless of class or background" | 对 stores 的内容作补充说明 |
+> | 定语从句(省略关系代词) | (that) anyone could enter, regardless of class or background | 修饰 stores（原文为引语，从句法功能看是省略关系代词 that 的定语从句） |
 > | 介短(状语) | regardless of class or background | 修饰 enter |
 >
 > **结构图解**：
@@ -109,13 +109,13 @@ People are absorbed into "a culture of consumption" launched by the 19th-century
 >   │                 └── 引语(并列): "vast arrays of goods in an elegant atmosphere.
 >   │                     Instead of intimate shops catering to a knowledgeable elite,"
 >   └── Clause 2: these were stores
->         └── 引语(同位说明): "anyone could enter, regardless of class or background"
+>         └── 定从(省略关系代词): "anyone could enter, regardless of class or background"
 >               └── 介短(状语): regardless of class or background → 修饰 enter
 > ```
 >
 > **参考译文**：人们被吸纳进由19世纪百货商店发起的"消费文化"之中——这些商店提供"品种繁多的商品，环境优雅。与迎合知识精英的私密小店不同，"这些是"任何人不论等级或背景均可进入"的商店。
 >
-> **考点提示**：本句考查三个语法点：① **过去分词短语后置定语** launched by... 表被动，相当于 which was launched by...，修饰紧邻的名词短语；② **定语从句嵌套** that offered... 进一步修饰 department stores，与前面的过去分词构成多层嵌套修饰结构；③ **并列句识别**——逗号分隔的两个独立分句（People are absorbed... / these were stores...），需分别识别各自的谓语动词。
+> **考点提示**：本句考查四个语法点：① **过去分词短语后置定语** launched by... 表被动，相当于 which was launched by...，修饰紧邻的名词短语；② **定语从句嵌套** that offered... 进一步修饰 department stores，与前面的过去分词构成多层嵌套修饰结构；③ **并列句识别**——逗号分隔的两个独立分句（People are absorbed... / these were stores...），需分别识别各自的谓语动词；④ **定语从句关系代词省略** stores (that) anyone could enter 中，关系代词 that 因在从句中作宾语而被省略，考研阅读中此类省略结构常见，需注意识别先行词与从句之间的修饰关系。
 
 This turned shopping into a public and democratic act." The mass media, advertising and sports are other forces for **homogenization**.
 
