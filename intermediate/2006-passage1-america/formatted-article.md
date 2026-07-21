@@ -121,7 +121,53 @@ This turned shopping into a public and democratic act." The mass media, advertis
 
 Immigrants are quickly fitting into this common culture, which may not be altogether elevating but is hardly poisonous. Writing for the National Immigration Forum, Gregory Rodriguez reports that today's immigration is neither at unprecedented level nor resistant to **assimilation**. In 1998 immigrants were 9.8 percent of population; in 1900, 13.6 percent. In the 10 years prior to 1990, 3.1 immigrants arrived for every 1,000 residents; in the 10 years prior to 1890, 9.2 for every 1,000. Now, consider three **indices** of **assimilation**—language, home ownership and intermarriage.
 
-The 1990 Census revealed that "a majority of immigrants from each of the fifteen most common countries of origin spoke English 'well' or 'very well' after ten years of residence." The children of immigrants tend to be **bilingual** and proficient in English. "By the third generation, the original language is lost in the majority of immigrant families." Hence the description of America as a "==graveyard==" for languages. By 1996 foreign-born immigrants who had arrived before 1970 had a home ownership rate of 75.6 percent, higher than the 69.8 percent rate among native-born Americans.
+The 1990 Census revealed that "a majority of immigrants from each of the fifteen most common countries of origin spoke English 'well' or 'very well' after ten years of residence."
+
+> [!abstract]- 长难句分析
+> **原句**：The 1990 Census revealed that "a majority of immigrants from each of the fifteen most common countries of origin spoke English 'well' or 'very well' after ten years of residence."
+>
+> **主干提取**：
+> - **S (Subject)**：The 1990 Census
+> - **V (Verb)**：revealed
+> - **O (Object)**：[宾语从句] that "a majority of immigrants ... spoke English 'well' or 'very well' after ten years of residence."
+>
+> **宾语从句内部**：
+> - **S**：a majority of immigrants from each of the fifteen most common countries of origin
+> - **V**：spoke
+> - **O**：English
+> - **A(方式状语)**：'well' or 'very well'
+> - **A(时间状语)**：after ten years of residence
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/成分 | 修饰对象 |
+> |------|------------|----------|
+> | 名从(宾语从句) | that "a majority ... spoke English 'well' or 'very well' ..." | 作 revealed 的宾语 |
+> | 介短(定语) | of immigrants | 修饰 majority |
+> | 介短(定语) | from each of the fifteen most common countries of origin | 修饰 immigrants |
+> | 介短(定语) | of origin | 修饰 countries |
+> | 介短(时间状语) | after ten years of residence | 修饰 spoke |
+>
+> **结构图解**：
+> ```
+> 主句: The 1990 Census revealed [宾语从句]
+>   └── 名从(宾语从句): that a majority ... spoke English 'well' or 'very well' after ten years of residence
+>         ├── S: a majority of immigrants from each of the fifteen most common countries of origin
+>         │     ├── 介短(定语): of immigrants → 修饰 majority
+>         │     └── 介短(定语): from each of the fifteen most common countries of origin → 修饰 immigrants
+>         │           └── 介短(定语): of origin → 修饰 countries
+>         ├── V: spoke
+>         ├── O: English
+>         ├── A(方式): 'well' or 'very well'
+>         └── A(时间): after ten years of residence
+>               └── 介短(定语): of residence → 修饰 ten years
+> ```
+>
+> **参考译文**：1990年的人口普查显示，"来自十五个最常见原籍国的移民中，大多数在居住十年后英语说得'不错'或'非常好'。"
+>
+> **考点提示**：本句考查三个语法点：① **宾语从句**——that 引导的从句作 revealed 的宾语，that 在从句中不充当成分；② **多层嵌套介词短语后置定语**——a majority **of** immigrants **from** each of the fifteen most common countries **of** origin，多个 of/from 介词短语层层后置修饰，需从右向左逐层拆解；③ **引语内并列状语**——'well' or 'very well' 两个副词并列作方式状语，修饰 spoke，这类并列在引语中常被忽略。
+
+The children of immigrants tend to be **bilingual** and proficient in English. "By the third generation, the original language is lost in the majority of immigrant families." Hence the description of America as a "==graveyard==" for languages. By 1996 foreign-born immigrants who had arrived before 1970 had a home ownership rate of 75.6 percent, higher than the 69.8 percent rate among native-born Americans.
 
 Foreign-born Asians and Hispanics "have higher rates of **intermarriage** than do U.S.-born whites and blacks." By the third generation, one third of Hispanic women are married to non-Hispanics, and 41 percent of Asian-American women are married to non-Asians.
 
