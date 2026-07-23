@@ -267,7 +267,46 @@ It is the playgoers, the RSC contends, who bring in much of the town's revenue b
 
 The **sightseers** can take in everything and get out of town by nightfall.
 
-The townsfolk don't see it this way and local council does not contribute directly to the **subsidy** of the Royal Shakespeare Company. Stratford **cries poor** traditionally. Nevertheless every hotel in town seems to be adding a new wing or cocktail lounge. Hilton is building its own hotel there, which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive.
+The townsfolk don't see it this way and local council does not contribute directly to the **subsidy** of the Royal Shakespeare Company.
+
+> [!abstract]- 长难句分析
+> **原句**：The townsfolk don't see it this way and local council does not contribute directly to the **subsidy** of the Royal Shakespeare Company.
+>
+> **主干提取**：并列句（and 连接两个分句）
+>
+> | 分句 | S | V | O/A |
+> |------|---|----|-----|
+> | 分句 1 | The townsfolk | don't see | it (O) + this way (A) |
+> | 分句 2 | local council | does not contribute | to the subsidy... (介短) |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 | 说明 |
+> |------|------------|---------|------|
+> | 并列连词 | and | 两个分句 | 连接两个并列事实，表并列递进 |
+> | 介词短语 | to | contribute | to the subsidy... 作 contribute 的间接宾语 |
+> | 介词短语 | of | subsidy | of the Royal Shakespeare Company 修饰 subsidy |
+> | 副词 | directly | contribute | 修饰 contribute 的程度 |
+>
+> **结构图解**：
+>
+> ```
+> Compound Sentence (并列句，由 and 连接)
+> │
+> ├── 分句 1: [S: The townsfolk] + [V: don't see] + [O: it] + [A: this way]
+> │
+> └── and (并列连词)
+>     │
+>     └── 分句 2: [S: local council] + [V: does not contribute] + [A: directly]
+>         │
+>         └── 介短: [to the subsidy of the Royal Shakespeare Company]
+> ```
+>
+> **参考译文**：当地居民并不这么看，地方议会也没有直接资助皇家莎士比亚公司。
+>
+> **考点提示**：1) it 的指代——it 回指上一段 RSC 的主张（playgoers 带来收入），句中 "this way" 共同构成指代链，考研阅读中代词的指代对象常在上文，需往前找；2) and 连接的并列结构——前后两个分句共表"当地人不认同、政府不资助"，为后文"Stratford 哭穷但实际在扩建"做铺垫，and 前后是语义递进而非转折；3) contribute to——在考研翻译中可译为"资助"或"贡献于"，此处结合 subsidy 取"资助"义。
+
+Stratford **cries poor** traditionally. Nevertheless every hotel in town seems to be adding a new wing or cocktail lounge. Hilton is building its own hotel there, which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive.
 
 Anyway, the townsfolk can't understand why the Royal Shakespeare Company needs a subsidy. (The theatre has broken **attendance records** for three years in a row. Last year its 1,431 seats were 94 percent occupied all year long and this year they'll do better.) The reason, of course, is that costs have **rocketed** and ticket prices have stayed low.
 
