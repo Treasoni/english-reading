@@ -134,7 +134,7 @@ And there are the **townsfolk** who largely **live off** the **tourists** who co
 >
 > **考点提示**：1) 嵌套定语从句——两个 who 分别修饰 townsfolk 和 tourists，形成"居民→游客"的修饰链，嵌套定语从句是考研阅读长难句的典型结构；2) not...but...并列不定式结构，表示"不是……而是……"，考研翻译中必须将否定与肯定两部分都译出；3) And 并列 there be 结构：And there are 与前句 There is 平行，介绍两个对立分支。
 
-The worthy residents of Stratford doubt that the theatre adds a penny to their revenue. They frankly dislike the RSC's actors, them with their long hair and beards and sandals and noisiness. It's all **deliciously ironic** when you consider that Shakespeare, who earns their living, was himself an actor (with a beard) and did his share of noise-making.
+The worthy residents of Stratford doubt that the theatre adds a penny to their revenue. They **frankly** dislike the RSC's actors, them with their long hair and beards and sandals and noisiness. It's all **deliciously ironic** when you consider that Shakespeare, who earns their living, was himself an actor (with a beard) and did his share of noise-making.
 
 The tourist streams are not entirely separate. The sightseers who come by bus—and often take in Warwick Castle and Blenheim Palace on the side—don't usually see the plays, and some of them are even surprised to find a theatre in Stratford. However, the **playgoers** do manage a little sight-seeing along with their playgoing. It is the playgoers, the RSC contends, who bring in much of the town's revenue because they spend the night (some of them four or five nights) pouring cash into the hotels and restaurants. The **sightseers** can take in everything and get out of town by nightfall.
 
