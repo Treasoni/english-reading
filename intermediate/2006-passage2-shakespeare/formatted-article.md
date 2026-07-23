@@ -176,7 +176,53 @@ It's all **deliciously ironic** when you consider that Shakespeare, who earns th
 >
 > **考点提示**：1) 分隔结构——非限制性定语从句 who earns their living 插入在 that 从句主语 Shakespeare 与谓语 was 之间，考研阅读中这种插入式定语从句容易干扰主干识别，需跳过插入语抓主谓；2) It 的指代——句首 It 指代 when 从句整体情况，翻译时先译 when 从句再译主句；3) 并列谓语——was an actor 和 did his share 由 and 连接，注意不要漏译第二个谓语。
 
-The tourist streams are not entirely separate. The sightseers who come by bus—and often take in Warwick Castle and Blenheim Palace on the side—don't usually see the plays, and some of them are even surprised to find a theatre in Stratford. However, the **playgoers** do manage a little sight-seeing along with their playgoing. It is the playgoers, the RSC contends, who bring in much of the town's revenue because they spend the night (some of them four or five nights) pouring cash into the hotels and restaurants. The **sightseers** can take in everything and get out of town by nightfall.
+The tourist streams are not entirely separate.
+
+The sightseers who come by bus—and often take in Warwick Castle and Blenheim Palace on the side—don't usually see the plays, and some of them are even surprised to find a theatre in Stratford.
+
+> [!abstract]- 长难句分析
+> **原句**：The sightseers who come by bus—and often take in Warwick Castle and Blenheim Palace on the side—don't usually see the plays, and some of them are even surprised to find a theatre in Stratford.
+>
+> **主干提取**：并列复合句（and 连接两个分句）
+>
+> | 分句 | S | V | O/C |
+> |------|---|----|-----|
+> | 分句 1 | The sightseers + (who 定从) | don't...see | the plays |
+> | 分句 2 | some of them | are surprised | (to find a theatre) |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 | 说明 |
+> |------|------------|---------|------|
+> | 限制性定语从句 | who | sightseers | who come by bus，说明是哪类观光客 |
+> | 双破折号插入语 | —— | come（定从谓语） | and often take in...on the side，补充说明行程 |
+> | 并列连词 | and | 两个分句 | 连接两个并列分句，表递进 |
+> | 不定式短语（原因状语） | to | are surprised | to find a theatre in Stratford 说明惊讶的原因 |
+>
+> **结构图解**：
+>
+> ```
+> Compound Sentence (并列复合句，由 and 连接)
+> │
+> ├── 分句 1: [S: The sightseers] + [V: don't...see] + [O: the plays]
+> │   │
+> │   └── 限制性定从: [who come by bus]
+> │       │
+> │       └── 插入语: [—and often take in Warwick Castle and
+> │                     Blenheim Palace on the side—]
+> │
+> └── and (并列连词)
+>     │
+>     └── 分句 2: [S: some of them] + [V: are surprised]
+>         │
+>         └── 不定式（原因状语）: [to find a theatre in Stratford]
+> ```
+>
+> **参考译文**：乘大巴来的观光客——通常还会顺道游览沃里克城堡和布莱尼姆宫——通常不看戏，有些人甚至惊讶地发现斯特拉特福还有剧院。
+>
+> **考点提示**：1) 双破折号插入语——将定语从句 who come by bus 的主谓拆开，属于"割裂结构"，考研阅读中破折号之间的内容可先跳过，读完主谓宾后再回头理解插入信息；2) 定语从句 who come by bus 修饰 sightseers，限定"哪类观光客"；3) and 并列两个分句，前后为递进关系，先说不看戏，再说甚至不知道有剧院，体现讽刺意味。
+
+However, the **playgoers** do manage a little sight-seeing along with their playgoing. It is the playgoers, the RSC contends, who bring in much of the town's revenue because they spend the night (some of them four or five nights) pouring cash into the hotels and restaurants. The **sightseers** can take in everything and get out of town by nightfall.
 
 The townsfolk don't see it this way and local council does not contribute directly to the **subsidy** of the Royal Shakespeare Company. Stratford **cries poor** traditionally. Nevertheless every hotel in town seems to be adding a new wing or cocktail lounge. Hilton is building its own hotel there, which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive.
 
