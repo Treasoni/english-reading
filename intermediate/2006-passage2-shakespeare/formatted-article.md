@@ -87,7 +87,7 @@ There is the **Royal Shakespeare Company (RSC)**, which presents superb producti
 >
 > **考点提示**：which 引导的非限制性定语从句，which 指代先行词 RSC，在从句中作主语。非限制性定语从句与先行词之间用逗号隔开，翻译时可独立成句，这是考研翻译中的常见处理方式。
 
-And there are the **townsfolk** who largely live off the **tourists** who come, not to see the plays, but to look at **Anne Hathaway's Cottage**, Shakespeare's birthplace and the other sights.
+And there are the **townsfolk** who largely **live off** the **tourists** who come, not to see the plays, but to look at **Anne Hathaway's Cottage**, Shakespeare's birthplace and the other sights.
 
 > [!abstract]- 长难句分析
 > **原句**：And there are the **townsfolk** who largely live off the **tourists** who come, not to see the plays, but to look at **Anne Hathaway's Cottage**, Shakespeare's birthplace and the other sights.
@@ -116,16 +116,18 @@ And there are the **townsfolk** who largely live off the **tourists** who come, 
 > 主句: [And] + [There be: there are] + [S: the townsfolk]
 > │
 > └── 限制性定从 1: [who largely live off the tourists]
-> │   └── who → 修饰 townsfolk
-> │
-> └── 限制性定从 2（嵌套）: [who come]
->     │   └── who → 修饰 tourists
+>     ├── who → 修饰 townsfolk（主语）
 >     │
->     └── 并列不定式（目的状语）:
->         ├── not [to see the plays]
->         └── but [to look at Anne Hathaway's Cottage]
->             ├── 同位语: [Shakespeare's birthplace] → 同 Cottage
->             └── 并列宾语: [and the other sights]
+>     └── O: the tourists
+>         │
+>         └── 限制性定从 2（嵌套）: [who come]
+>             ├── who → 修饰 tourists（主语）
+>             │
+>             └── 并列不定式（目的状语）:
+>                 ├── not [to see the plays]
+>                 └── but [to look at Anne Hathaway's Cottage]
+>                     ├── 同位语: [Shakespeare's birthplace] → 同 Cottage
+>                     └── 并列宾语: [and the other sights]
 > ```
 >
 > **参考译文**：另一方则是当地居民，他们主要靠那些不是来看戏、而是来参观安妮·海瑟薇小屋、莎士比亚出生地及其他景点的游客为生。
