@@ -11,7 +11,126 @@ sources:
   - "2006年考研英语阅读 Passage 2"
 ---
 
-**Stratford-on-Avon**, as we all know, has only one industry—**William Shakespeare**—but there are two distinctly separate and increasingly hostile branches. There is the **Royal Shakespeare Company (RSC)**, which presents superb productions of the plays at the **Shakespeare Memorial Theatre** on the Avon. And there are the townsfolk who largely live off the tourists who come, not to see the plays, but to look at **Anne Hathaway's Cottage**, Shakespeare's birthplace and the other sights.
+**Stratford-on-Avon**, as we all know, has only one industry—**William Shakespeare**—but there are two distinctly separate and increasingly hostile branches.
+
+> [!abstract]- 长难句分析
+> **原句**：**Stratford-on-Avon**, as we all know, has only one industry—**William Shakespeare**—but there are two distinctly separate and increasingly hostile branches.
+>
+> **主干提取**：
+>
+> | 分句 | S（主语） | V（谓语） | O（宾语） |
+> |------|----------|----------|----------|
+> | 分句 1（but 前） | Stratford-on-Avon | has | only one industry |
+> | 分句 2（but 后） | two...branches（there be 逻辑主语） | are | — |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 | 说明 |
+> |------|------------|---------|------|
+> | 非限制性定语从句 | as | 整个分句 1 | as we all know，as 指代"Straford有一个产业"的事实 |
+> | 同位语 | 双破折号 —— | industry | William Shakespeare 补充说明"唯一产业"的具体内容 |
+> | 前置形容词 | — | branches | distinctly separate / increasingly hostile |
+>
+> **结构图解**：
+>
+> ```
+> Compound Sentence (并列复合句，由 but 连接)
+> │
+> ├── 分句 1: [S: Stratford-on-Avon] + [V: has] + [O: only one industry]
+> │   ├── 插入语: [as we all know] (非限制性定语从句)
+> │   └── 同位语: [—William Shakespeare—] (破折号补充说明)
+> │
+> ├── but (并列连词，转折对比)
+> │
+> └── 分句 2: [There be: there are] + [S: two distinctly separate and increasingly hostile branches]
+>     └── 前置定语: distinctly separate / increasingly hostile → 修饰 branches
+> ```
+>
+> **参考译文**：众所周知，埃文河畔斯特拉特福只有一项产业——威廉·莎士比亚——但却有两个泾渭分明且日益对立的分支。
+>
+> **考点提示**：1) as 引导的非限制性定语从句（as we all know 为固定插入语，as 指代整个主句，在从句中作 know 的宾语）；2) but 连接的并列对比结构，前半句说"只有一个"，but 引出"两个对立"，揭示矛盾；3) 双破折号代替逗号做同位语分隔，语气更强，在考研阅读中表示强调或补充说明。
+
+There is the **Royal Shakespeare Company (RSC)**, which presents superb productions of the plays at the **Shakespeare Memorial Theatre** on the Avon.
+
+> [!abstract]- 长难句分析
+> **原句**：There is the **Royal Shakespeare Company (RSC)**, which presents superb productions of the plays at the **Shakespeare Memorial Theatre** on the Avon.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S（逻辑主语） | the Royal Shakespeare Company (RSC) |
+> | V（谓语） | is (there be) |
+> | 非限制性定从 | which presents superb productions of the plays at the Shakespeare Memorial Theatre on the Avon |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|---------|------|
+> | 非限制性定语从句 | which | RSC | which 在从句中作主语，说明 RSC 的活动内容 |
+> | 介词短语 | of | productions | of the plays 修饰 productions |
+> | 介词短语 | at | presents | at the Shakespeare Memorial Theatre 作地点状语 |
+> | 介词短语 | on | Theatre | on the Avon 修饰 Theatre |
+>
+> **结构图解**：
+>
+> ```
+> 主句: [There be: There is] + [S: the Royal Shakespeare Company (RSC)]
+> │
+> └── 非限制性定从: [which presents superb productions of the plays]
+>     │   └── 介短: [of the plays] → 修饰 productions
+>     └── 介短: [at the Shakespeare Memorial Theatre] → 地点状语
+>         └── 介短: [on the Avon] → 修饰 Theatre
+> ```
+>
+> **参考译文**：一方是皇家莎士比亚公司（RSC），在埃文河畔的莎士比亚纪念剧院上演着精彩的莎剧。
+>
+> **考点提示**：which 引导的非限制性定语从句，which 指代先行词 RSC，在从句中作主语。非限制性定语从句与先行词之间用逗号隔开，翻译时可独立成句，这是考研翻译中的常见处理方式。
+
+And there are the **townsfolk** who largely live off the **tourists** who come, not to see the plays, but to look at **Anne Hathaway's Cottage**, Shakespeare's birthplace and the other sights.
+
+> [!abstract]- 长难句分析
+> **原句**：And there are the **townsfolk** who largely live off the **tourists** who come, not to see the plays, but to look at **Anne Hathaway's Cottage**, Shakespeare's birthplace and the other sights.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S（逻辑主语） | the townsfolk |
+> | V（谓语） | are (there be) |
+> | 限制性定从 1 | who largely live off the tourists（修饰 townsfolk） |
+> | 限制性定从 2 | who come...（嵌套在定从 1 中，修饰 tourists） |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|---------|------|
+> | 限制性定语从句 1 | who | townsfolk | who 在从句中作主语，live off 为"靠……为生" |
+> | 限制性定语从句 2 | who | tourists | who 在从句中作主语，嵌套在定从 1 内部 |
+> | 并列不定式（目的状语） | not...but... | come（从句谓语） | not to see...but to look at... |
+> | 同位语 | 逗号 | Cottage | Shakespeare's birthplace 补充说明 Anne Hathaway's Cottage |
+>
+> **结构图解**：
+>
+> ```
+> 主句: [And] + [There be: there are] + [S: the townsfolk]
+> │
+> └── 限制性定从 1: [who largely live off the tourists]
+> │   └── who → 修饰 townsfolk
+> │
+> └── 限制性定从 2（嵌套）: [who come]
+>     │   └── who → 修饰 tourists
+>     │
+>     └── 并列不定式（目的状语）:
+>         ├── not [to see the plays]
+>         └── but [to look at Anne Hathaway's Cottage]
+>             ├── 同位语: [Shakespeare's birthplace] → 同 Cottage
+>             └── 并列宾语: [and the other sights]
+> ```
+>
+> **参考译文**：另一方则是当地居民，他们主要靠那些不是来看戏、而是来参观安妮·海瑟薇小屋、莎士比亚出生地及其他景点的游客为生。
+>
+> **考点提示**：1) 嵌套定语从句——两个 who 分别修饰 townsfolk 和 tourists，形成"居民→游客"的修饰链，嵌套定语从句是考研阅读长难句的典型结构；2) not...but...并列不定式结构，表示"不是……而是……"，考研翻译中必须将否定与肯定两部分都译出；3) And 并列 there be 结构：And there are 与前句 There is 平行，介绍两个对立分支。
 
 The worthy residents of Stratford doubt that the theatre adds a penny to their revenue. They frankly dislike the RSC's actors, them with their long hair and beards and sandals and noisiness. It's all **deliciously ironic** when you consider that Shakespeare, who earns their living, was himself an actor (with a beard) and did his share of noise-making.
 
