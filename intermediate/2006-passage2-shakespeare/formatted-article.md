@@ -134,7 +134,47 @@ And there are the **townsfolk** who largely **live off** the **tourists** who co
 >
 > **考点提示**：1) 嵌套定语从句——两个 who 分别修饰 townsfolk 和 tourists，形成"居民→游客"的修饰链，嵌套定语从句是考研阅读长难句的典型结构；2) not...but...并列不定式结构，表示"不是……而是……"，考研翻译中必须将否定与肯定两部分都译出；3) And 并列 there be 结构：And there are 与前句 There is 平行，介绍两个对立分支。
 
-The worthy residents of Stratford doubt that the theatre adds a penny to their revenue. They **frankly** dislike the RSC's actors, them with their long hair and beards and sandals and noisiness. It's all **deliciously ironic** when you consider that Shakespeare, who earns their living, was himself an actor (with a beard) and did his share of noise-making.
+The worthy residents of Stratford doubt that the theatre adds a penny to their revenue. They **frankly** dislike the RSC's actors, them with their long hair and beards and sandals and noisiness.
+
+It's all **deliciously ironic** when you consider that Shakespeare, who earns their living, was himself an actor (with a beard) and did his share of noise-making.
+
+> [!abstract]- 长难句分析
+> **原句**：It's all **deliciously ironic** when you consider that Shakespeare, who earns their living, was himself an actor (with a beard) and did his share of noise-making.
+>
+> **主干提取**：
+>
+> | 层级 | 成分 | 内容 |
+> |------|------|------|
+> | 主句 | S + V + C | It is all deliciously ironic |
+> | 时间状从 | S + V + O（宾从） | when you consider + that-clause |
+> | 宾语从句 | S + V1 + C + V2 + O | Shakespeare was an actor and did his share |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 | 说明 |
+> |------|--------|---------|------|
+> | 时间状语从句 | when | 主句 is | when you consider... |
+> | 名词性从句（宾语从句） | that | consider | 作 consider 的宾语 |
+> | 非限制性定语从句 | who | Shakespeare | 插入在 that 从句的主谓之间 |
+> | 介词短语 | with | actor | (with a beard) 后置定语 |
+>
+> **结构图解**：
+>
+> ```
+> 主句: [It] + [is] + [C: all deliciously ironic]
+> │
+> └── 时间状从: [when you consider + 宾语从句]
+>     │
+>     └── 名从（宾语从句）: [that Shakespeare...was...and did...]
+>         ├── S: Shakespeare
+>         │   └── 非限制性定从: [who earns their living] → 修饰 Shakespeare
+>         ├── V1 + C: was himself an actor (with a beard)
+>         └── V2 + O: did his share of noise-making
+> ```
+>
+> **参考译文**：想想莎士比亚——这位让他们赖以谋生的人——本人也曾是个演员（也留过胡子），也曾制造过噪音，这真是绝妙的讽刺。
+>
+> **考点提示**：1) 分隔结构——非限制性定语从句 who earns their living 插入在 that 从句主语 Shakespeare 与谓语 was 之间，考研阅读中这种插入式定语从句容易干扰主干识别，需跳过插入语抓主谓；2) It 的指代——句首 It 指代 when 从句整体情况，翻译时先译 when 从句再译主句；3) 并列谓语——was an actor 和 did his share 由 and 连接，注意不要漏译第二个谓语。
 
 The tourist streams are not entirely separate. The sightseers who come by bus—and often take in Warwick Castle and Blenheim Palace on the side—don't usually see the plays, and some of them are even surprised to find a theatre in Stratford. However, the **playgoers** do manage a little sight-seeing along with their playgoing. It is the playgoers, the RSC contends, who bring in much of the town's revenue because they spend the night (some of them four or five nights) pouring cash into the hotels and restaurants. The **sightseers** can take in everything and get out of town by nightfall.
 
