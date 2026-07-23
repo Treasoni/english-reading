@@ -222,7 +222,50 @@ The sightseers who come by bus—and often take in Warwick Castle and Blenheim P
 >
 > **考点提示**：1) 双破折号插入语——将定语从句 who come by bus 的主谓拆开，属于"割裂结构"，考研阅读中破折号之间的内容可先跳过，读完主谓宾后再回头理解插入信息；2) 定语从句 who come by bus 修饰 sightseers，限定"哪类观光客"；3) and 并列两个分句，前后为递进关系，先说不看戏，再说甚至不知道有剧院，体现讽刺意味。
 
-However, the **playgoers** do manage a little sight-seeing along with their playgoing. It is the playgoers, the RSC contends, who bring in much of the town's revenue because they spend the night (some of them four or five nights) pouring cash into the hotels and restaurants. The **sightseers** can take in everything and get out of town by nightfall.
+However, the **playgoers** do manage a little sight-seeing along with their playgoing.
+
+It is the playgoers, the RSC contends, who bring in much of the town's revenue because they spend the night (some of them four or five nights) pouring cash into the hotels and restaurants.
+
+> [!abstract]- 长难句分析
+> **原句**：It is the playgoers, the RSC contends, who bring in much of the town's revenue because they spend the night (some of them four or five nights) pouring cash into the hotels and restaurants.
+>
+> **主干提取**：强调句型 It is...who... + 原因状语从句
+>
+> | 层级 | 结构 | 内容 |
+> |------|------|------|
+> | 强调句主干 | It is + 强调部分 + who + 谓语 | It is the playgoers who bring in much of the town's revenue |
+> | 非强调还原 | S + V + O | The playgoers bring in much of the town's revenue |
+> | 原因状从 | because + S + V + O + 伴随 | because they spend the night pouring cash |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 | 说明 |
+> |------|------------|---------|------|
+> | 强调句型 | It is...who | the playgoers | 强调主语 playgoers，not sightseers |
+> | 插入语 | 逗号 | 整个句子 | the RSC contends，表明观点来源 |
+> | 原因状语从句 | because | brings（强调句谓语） | 说明为什么 playgoers 带来收入 |
+> | V-ing 伴随状语 | — | spend | pouring cash into...修饰 spend the night 的方式 |
+> | 插入语（括号） | () | night | some of them four or five nights 补充说明过夜时长 |
+>
+> **结构图解**：
+>
+> ```
+> 强调句: [It is] + [强调部分: the playgoers] + [who bring in much of the town's revenue]
+> │   ├── 插入语: [, the RSC contends,]（观点来源）
+> │   │
+> │   └── 原因状从: [because they spend the night pouring cash]
+> │       ├── S: they (= playgoers)
+> │       ├── V: spend
+> │       ├── O: the night
+> │       │   └── 插入语: (some of them four or five nights)
+> │       └── 伴随状语: [pouring cash into the hotels and restaurants]
+> ```
+>
+> **参考译文**：RSC认为，正是看戏的人为小镇带来了大部分收入，因为他们会过夜（有些人会住四到五个晚上），把大把的钱花在酒店和餐馆里。
+>
+> **考点提示**：1) 强调句型 It is...who...——强调主语 the playgoers，突出"是看戏的人（而非观光客）带来收入"，考研阅读中强调句去掉 It is...who 后应能还原为完整句子；2) 插入语 the RSC contends——表明观点归属，暗示后文所述是 RSC 的主张而非客观事实，考研阅读中此类插入语常提示"观点与事实"的区别；3) V-ing 伴随状语 pouring cash...——说明 spend the night 的具体方式。
+
+The **sightseers** can take in everything and get out of town by nightfall.
 
 The townsfolk don't see it this way and local council does not contribute directly to the **subsidy** of the Royal Shakespeare Company. Stratford **cries poor** traditionally. Nevertheless every hotel in town seems to be adding a new wing or cocktail lounge. Hilton is building its own hotel there, which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive.
 
