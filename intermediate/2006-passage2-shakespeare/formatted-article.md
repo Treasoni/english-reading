@@ -382,7 +382,46 @@ The reason, of course, is that costs have **rocketed** and ticket prices have st
 >
 > **考点提示**：1) that 引导的表语从句——that 在从句中不充当成分，只起连接作用，不可省略；2) 表语从句内部的 and 并列——两个并列分句说明"reason"的两个方面（成本涨 + 票价低 = 需要补贴），考研阅读中表语从句常用来解释前文提出的问题；3) , of course, 插入语——表示这层因果关系显而易见，呼应上文的"上座率高但仍然需要补贴"的矛盾。
 
-It would be a shame to raise prices too much because it would drive away the young people who are Stratford's most attractive **clientele**. They come entirely for the plays, not the sights. They all seem to look alike (though they come from all over)—lean, pointed, dedicated faces, wearing jeans and sandals, eating their buns and bedding down for the night on the flagstones outside the theatre to buy the 20 seats and 80 standing-room tickets held for the sleepers and sold to them when the box office opens at 10:30 a.m.
+It would be a shame to raise prices too much because it would drive away the young people who are Stratford's most attractive **clientele**.
+
+> [!abstract]- 长难句分析
+> **原句**：It would be a shame to raise prices too much because it would drive away the young people who are Stratford's most attractive **clientele**.
+>
+> **主干提取**：形式主语 It + 系表 + 真实主语 + 原因状语从句（嵌套定语从句）
+>
+> | 层级 | 结构 | 内容 |
+> |------|------|------|
+> | 主句（形式主语） | It + V + C | It would be a shame |
+> | 真实主语 | 不定式短语 | to raise prices too much |
+> | 原因状从 | because S + V + O | because it would drive away the young people |
+> | 限制性定从 | who + V + C | who are Stratford's most attractive clientele |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 | 说明 |
+> |------|------------|---------|------|
+> | 形式主语 | It | to raise prices too much | It 作形式主语，不定式为真实主语 |
+> | 原因状语从句 | because | would be (主句谓语) | because it would drive away...解释"遗憾"的原因 |
+> | 限制性定语从句 | who | the young people | who 在从句中作主语 |
+> | 不定式短语 | to | It (形式主语) | to raise prices too much 作真实主语 |
+>
+> **结构图解**：
+>
+> ```
+> 主句: [It] + [would be] + [C: a shame] + [真实主语: to raise prices too much]
+> │
+> └── 原因状从: [because it would drive away the young people]
+>     │   └── it = to raise prices too much
+>     │
+>     └── 限制性定从: [who are Stratford's most attractive clientele]
+>         └── who → 修饰 the young people
+> ```
+>
+> **参考译文**：票价提得太高将会令人遗憾，因为这会赶走那些年轻人——他们是斯特拉特福最吸引人的顾客群。
+>
+> **考点提示**：1) It 作形式主语——It would be a shame to...，真正主语是 to raise prices too much。考研翻译中需识别 It 的指代：此处 It 指代不定式"提高票价"这件事，应译为"……是令人遗憾的"；2) because 从句中的 it 指代——it 指代前文的 to raise prices too much（提高票价），注意与句首 It 的区别，考研阅读中同一段落内 it 两次出现但指代不同对象，需结合上下文判断；3) who 引导的限制性定语从句——修饰 the young people，说明这群年轻人的特征（最吸引人的顾客群）。
+
+They come entirely for the plays, not the sights. They all seem to look alike (though they come from all over)—lean, pointed, dedicated faces, wearing jeans and sandals, eating their buns and bedding down for the night on the flagstones outside the theatre to buy the 20 seats and 80 standing-room tickets held for the sleepers and sold to them when the box office opens at 10:30 a.m.
 
 ## 考题
 
