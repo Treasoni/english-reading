@@ -421,7 +421,58 @@ It would be a shame to raise prices too much because it would drive away the you
 >
 > **考点提示**：1) It 作形式主语——It would be a shame to...，真正主语是 to raise prices too much。考研翻译中需识别 It 的指代：此处 It 指代不定式"提高票价"这件事，应译为"……是令人遗憾的"；2) because 从句中的 it 指代——it 指代前文的 to raise prices too much（提高票价），注意与句首 It 的区别，考研阅读中同一段落内 it 两次出现但指代不同对象，需结合上下文判断；3) who 引导的限制性定语从句——修饰 the young people，说明这群年轻人的特征（最吸引人的顾客群）。
 
-They come entirely for the plays, not the sights. They all seem to look alike (though they come from all over)—lean, pointed, dedicated faces, wearing jeans and sandals, eating their buns and bedding down for the night on the flagstones outside the theatre to buy the 20 seats and 80 standing-room tickets held for the sleepers and sold to them when the box office opens at 10:30 a.m.
+They come entirely for the plays, not the sights.
+
+They all seem to look alike (though they come from all over)—lean, pointed, dedicated faces, wearing jeans and sandals, eating their buns and bedding down for the night on the flagstones outside the theatre to buy the 20 seats and 80 standing-room tickets held for the sleepers and sold to them when the box office opens at 10:30 a.m.
+
+> [!abstract]- 长难句分析
+> **原句**：They all seem to look alike (though they come from all over)—lean, pointed, dedicated faces, wearing jeans and sandals, eating their buns and bedding down for the night on the flagstones outside the theatre to buy the 20 seats and 80 standing-room tickets held for the sleepers and sold to them when the box office opens at 10:30 a.m.
+>
+> **主干提取**：主系表 + though 让步从句 + 破折号引导的长串并列描述（名词短语 + V-ing + 不定式）
+>
+> | 层级 | 结构 | 内容 |
+> |------|------|------|
+> | 主句 | S + V + C | They all seem to look alike |
+> | 让步从句 | though + S + V | (though they come from all over) |
+> | 同位描述 | 名词短语 | lean, pointed, dedicated faces |
+> | 伴随 1 | V-ing | wearing jeans and sandals |
+> | 伴随 2 | V-ing | eating their buns |
+> | 伴随 3 | V-ing + 目的 | bedding down for the night to buy tickets |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 | 说明 |
+> |------|------------|---------|------|
+> | 让步状语从句 | though | seem | (though they come from all over) 表让步 |
+> | 破折号同位描述 | —— | look alike | 破折号后一系列短语具体说明"看起来一样" |
+> | 后置定语（V-ed） | — | tickets | held for the sleepers 修饰 tickets |
+> | 后置定语（V-ed） | — | tickets | sold to them 修饰 tickets |
+> | 时间状语从句 | when | sold | when the box office opens at 10:30 a.m. 修饰 sold |
+> | 不定式（目的状语） | to | bedding down | to buy...说明露宿的目的 |
+>
+> **结构图解**：
+>
+> ```
+> 主句: They all seem to look alike
+> │   └── 让步状从: (though they come from all over)
+> │
+> └── 破折号同位描述 (具体说明 look alike):
+>     ├── 名词短语: [lean, pointed, dedicated faces]
+>     ├── V-ing 1: [wearing jeans and sandals]
+>     ├── V-ing 2: [eating their buns]
+>     └── V-ing 3: [bedding down for the night on the flagstones outside the theatre]
+>         │
+>         └── 不定式（目的）: [to buy the 20 seats and 80 standing-room tickets]
+>             │
+>             ├── V-ed 后置定语: [held for the sleepers] → 修饰 tickets
+>             └── V-ed 后置定语: [sold to them]
+>                 │
+>                 └── 时间状从: [when the box office opens at 10:30 a.m.]
+> ```
+>
+> **参考译文**：他们看起来似乎都一个样（尽管来自各地）——消瘦、棱角分明、专注的面孔，穿着牛仔裤和凉鞋，啃着面包，晚上露宿在剧院外的石板路上，只为买到为过夜者预留的20张坐票和80张站票，这些票在售票处上午10:30开门时卖给他们。
+>
+> **考点提示**：1) 破折号后的多重同位描述——破折号后通过名词短语和三个 V-ing 短语逐层展开，具体描绘年轻观众的形象，构成"总→分"的描述结构。考研阅读中破折号后的内容通常是对前文的具体化；2) V-ed 后置定语（held / sold）——两个过去分词短语并列修饰 tickets，相当于省略了 which are 的定语从句，考研翻译中需补充为主动态，译作"为……预留的"和"卖给……的"；3) 嵌套成分链：主句 → 让步从句 → 同位描述 → V-ing → 不定式 → V-ed 定从 → 时间状从，全句共六层嵌套，是典型的考研长难句。
 
 ## 考题
 
