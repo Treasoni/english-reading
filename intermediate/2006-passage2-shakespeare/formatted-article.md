@@ -306,7 +306,7 @@ The townsfolk don't see it this way and local council does not contribute direct
 >
 > **考点提示**：1) it 的指代——it 回指上一段 RSC 的主张（playgoers 带来收入），句中 "this way" 共同构成指代链，考研阅读中代词的指代对象常在上文，需往前找；2) and 连接的并列结构——前后两个分句共表"当地人不认同、政府不资助"，为后文"Stratford 哭穷但实际在扩建"做铺垫，and 前后是语义递进而非转折；3) contribute to——在考研翻译中可译为"资助"或"贡献于"，此处结合 subsidy 取"资助"义。
 
-Stratford **cries poor** traditionally. Nevertheless every hotel in town seems to be adding a new wing or cocktail lounge. Hilton is building its own hotel there, which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive.
+Stratford **cries poor** traditionally. Nevertheless every hotel in town seems to be adding a new **wing** or cocktail **lounge**. Hilton is building its own hotel there, which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive.
 
 Anyway, the townsfolk can't understand why the Royal Shakespeare Company needs a subsidy. (The theatre has broken **attendance records** for three years in a row. Last year its 1,431 seats were 94 percent occupied all year long and this year they'll do better.) The reason, of course, is that costs have **rocketed** and ticket prices have stayed low.
 
