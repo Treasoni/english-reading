@@ -306,7 +306,43 @@ The townsfolk don't see it this way and local council does not contribute direct
 >
 > **考点提示**：1) it 的指代——it 回指上一段 RSC 的主张（playgoers 带来收入），句中 "this way" 共同构成指代链，考研阅读中代词的指代对象常在上文，需往前找；2) and 连接的并列结构——前后两个分句共表"当地人不认同、政府不资助"，为后文"Stratford 哭穷但实际在扩建"做铺垫，and 前后是语义递进而非转折；3) contribute to——在考研翻译中可译为"资助"或"贡献于"，此处结合 subsidy 取"资助"义。
 
-Stratford **cries poor** traditionally. Nevertheless every hotel in town seems to be adding a new **wing** or cocktail **lounge**. Hilton is building its own hotel there, which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive.
+Stratford **cries poor** traditionally. Nevertheless every hotel in town seems to be adding a new **wing** or cocktail **lounge**.
+
+Hilton is building its own hotel there, which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive.
+
+> [!abstract]- 长难句分析
+> **原句**：Hilton is building its own hotel there, which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive.
+>
+> **主干提取**：
+>
+> | 成分 | 内容 |
+> |------|------|
+> | S（主语） | Hilton |
+> | V（谓语） | is building |
+> | O（宾语） | its own hotel |
+> | A（地点状语） | there |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 | 说明 |
+> |------|-------------|---------|------|
+> | 非限制性定语从句 | which | hotel | which 在从句中作主语，说明酒店的未来装饰与价格 |
+> | 插入语 | you may be sure | 定从中插入 | 打断 which 与 will be decorated，表"你大可放心" |
+> | 并列谓语 | and | will be (expensive) | 与 will be decorated 并列，共享受 which 作主语 |
+> | 并列名词短语 | — | decorated with | 列举三个以莎剧人物命名的主题空间 |
+>
+> **结构图解**：
+> ```
+> 主句: Hilton is building its own hotel there
+> └── 定从(非限制性): which [插入语: you may be sure] will be decorated with ...
+>       └── 并列列举: Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room... → 修饰 decorated
+>       └── and 并列: [which] will be very expensive
+>             │   (which 同时作 will be decorated 和 will be 的主语)
+> ```
+>
+> **参考译文**：希尔顿正在那里建造自己的酒店，你大可放心，这家酒店一定会用哈姆雷特汉堡吧、李尔休闲厅、班柯宴会厅等来装饰，而且价格会非常昂贵。
+>
+> **考点提示**：本句核心语法点是**定语从句中的插入语**。关系代词 which 引导非限制性定语从句修饰 hotel，但从句的主谓之间插入了 you may be sure，使得 which 与 will be decorated 被隔开。识别方法：去掉插入语 you may be sure，还原为 which will be decorated...and will be...，即可看清定语从句的完整结构。这种"引导词 + 插入语 + 谓语"的句式在考研阅读中常见，是快速抓取主干需要训练的识别能力。
 
 Anyway, the townsfolk can't understand why the Royal Shakespeare Company needs a subsidy. (The theatre has broken **attendance records** for three years in a row. Last year its 1,431 seats were 94 percent occupied all year long and this year they'll do better.) The reason, of course, is that costs have **rocketed** and ticket prices have stayed low.
 
