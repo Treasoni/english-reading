@@ -1,0 +1,14 @@
+name: cline
+description: Built-in profile for Cline projects.
+agent_dir: .cline
+skills_dir: .cline/skills
+rules_dir: .clinerules
+scripts_dir: .cline/scripts
+hooks_dir: ""
+entry_file: AGENTS.md
+hook_config: ""
+hook_template: ""
+include_openai_yaml: false
+env_template: codex
+skill_registry: .clinerules/common/skill-invocation.md
+prompt_cache_rule: .clinerules/common/prompt-cache.md

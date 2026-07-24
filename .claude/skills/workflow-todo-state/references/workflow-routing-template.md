@@ -5,8 +5,8 @@ Use this rule file to decide which named workflow to use and where to find activ
 ## Workflow Directory Layout
 
 ```text
-__AGENT_DIR__/workflows/{workflow-id}/workflow.md        # workflow definition
-__AGENT_DIR__/workflows/{workflow-id}/state-template.md # state file template
+__WORKFLOWS_DIR__/{workflow-id}/workflow.md        # workflow definition
+__WORKFLOWS_DIR__/{workflow-id}/state-template.md # state file template
 workspace/workflow-runs/*.workflow.md                   # active or historical run state
 ```
 
@@ -26,9 +26,9 @@ workspace/workflow-runs/*.workflow.md                   # active or historical r
 - If no run exists, create a named state file from the workflow's `state-template.md`.
 - Name state files after the task or feature, not `todo.md`, unless the project has exactly one workflow.
 - Every phase must read the active state file before acting.
-- Phase state must be changed only through `__AGENT_DIR__/scripts/todo-state.sh`.
+- Phase state must be changed only through `__SCRIPTS_DIR__/todo-state.sh`.
 - Each workflow directory must have a `routing.yaml`; it is the source of truth for the generated table above.
-- After creating, changing, renaming, or deleting a workflow, run `__AGENT_DIR__/scripts/sync-workflow-routing.sh`. Use `__AGENT_DIR__/scripts/sync-workflow-routing.sh --check` in pre-commit or CI.
+- After creating, changing, renaming, or deleting a workflow, run `__SCRIPTS_DIR__/sync-workflow-routing.sh`. Use `__SCRIPTS_DIR__/sync-workflow-routing.sh --check` in pre-commit or CI.
 
 ## Active Runs
 

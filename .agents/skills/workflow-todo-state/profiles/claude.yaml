@@ -1,0 +1,14 @@
+name: claude
+description: Built-in profile for Claude Code-style projects.
+agent_dir: .claude
+skills_dir: .claude/skills
+rules_dir: .claude/rules
+scripts_dir: .claude/scripts
+hooks_dir: .claude/hooks
+entry_file: CLAUDE.md
+hook_config: .claude/settings.json
+hook_template: claude-settings.json.template
+include_openai_yaml: false
+env_template: claude
+skill_registry: .claude/rules/common/skill-invocation.md
+prompt_cache_rule: .claude/rules/common/prompt-cache.md

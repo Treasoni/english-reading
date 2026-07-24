@@ -30,7 +30,7 @@ blocked_reason: ""
 - [ ] Inputs are available
 - [ ] Output location is confirmed
 
-> [P0] ⬜ 未开始
+> [P0] ⬜ 未开始 {not_started}
 
 ---
 
@@ -39,7 +39,7 @@ blocked_reason: ""
 - [ ] Source quality is checked
 - [ ] Collection notes are saved
 
-> [P1] ⬜ 未开始
+> [P1] ⬜ 未开始 {not_started}
 
 ---
 
@@ -48,7 +48,7 @@ blocked_reason: ""
 - [ ] Local validation is complete
 - [ ] User confirmation gate is satisfied
 
-> [P2] ⬜ 未开始
+> [P2] ⬜ 未开始 {not_started}
 
 ---
 

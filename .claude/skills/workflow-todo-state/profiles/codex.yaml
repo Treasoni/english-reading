@@ -1,0 +1,14 @@
+name: codex
+description: Built-in profile for Codex-style projects.
+agent_dir: .codex
+skills_dir: .agents/skills
+rules_dir: .codex/rules
+scripts_dir: .codex/scripts
+hooks_dir: .codex/hooks
+entry_file: AGENTS.md
+hook_config: .codex/hooks.json
+hook_template: codex-hooks.json.template
+include_openai_yaml: true
+env_template: codex
+skill_registry: .codex/rules/common/skill-invocation.md
+prompt_cache_rule: .codex/rules/common/prompt-cache.md

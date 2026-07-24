@@ -1,0 +1,14 @@
+name: qwen-code
+description: Built-in profile for Qwen Code projects.
+agent_dir: .qwen
+skills_dir: .qwen/skills
+rules_dir: .qwen/rules
+scripts_dir: .qwen/scripts
+hooks_dir: ""
+entry_file: QWEN.md
+hook_config: ""
+hook_template: ""
+include_openai_yaml: false
+env_template: codex
+skill_registry: .qwen/rules/common/skill-invocation.md
+prompt_cache_rule: .qwen/rules/common/prompt-cache.md

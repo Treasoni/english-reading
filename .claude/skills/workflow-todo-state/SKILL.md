@@ -15,7 +15,7 @@ Install into another project:
 skills/workflow-todo-state/scripts/install.sh /path/to/target-project --agent-dir .agent --with-skill --init-layout --update-agents
 ```
 
-Use `--profile codex|claude|generic` for built-in layouts, or `--agent-dir`, `--skills-dir`, and `--entry-file` for a custom layout. The Codex profile correctly separates `.agents/skills` from `.codex`; omitting profile options keeps the historical `.claude` + `CLAUDE.md` default.
+Use `--profile <name>` for any built-in layout in `profiles/*.yaml`, or `--agent-dir`, `--skills-dir`, and `--entry-file` for a custom layout. The Codex profile correctly separates `.agents/skills` from `.codex`; omitting profile options keeps the historical `.claude` + `CLAUDE.md` default.
 
 Then:
 

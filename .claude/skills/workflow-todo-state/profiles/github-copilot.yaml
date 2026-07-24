@@ -1,0 +1,14 @@
+name: github-copilot
+description: Built-in profile for GitHub Copilot projects.
+agent_dir: .github
+skills_dir: .github/skills
+rules_dir: .github/instructions
+scripts_dir: .github/scripts
+hooks_dir: ""
+entry_file: .github/copilot-instructions.md
+hook_config: ""
+hook_template: ""
+include_openai_yaml: false
+env_template: codex
+skill_registry: .github/instructions/common/skill-invocation.md
+prompt_cache_rule: .github/instructions/common/prompt-cache.md

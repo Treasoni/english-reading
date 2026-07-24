@@ -10,7 +10,7 @@ Options:
   --with-skill      Copy the whole workflow-todo-state skill into the target project.
   --init-layout     Create agent workflows, workspace/workflow-runs, and workflow-routing.md.
   --update-agents   Add an idempotent Workflow Todo State block to the entry file.
-  --profile NAME    Use codex, claude, or generic directory defaults.
+  --profile NAME    Use a built-in profile from profiles/*.yaml when available.
   --agent-dir DIR   Agent configuration directory in the target project (default: .claude).
   --skills-dir DIR  Skill installation directory (default: <agent-dir>/skills; Codex profile: .agents/skills).
   --entry-file FILE Project instruction file to update (default: CLAUDE.md for the historical .claude profile).
@@ -37,7 +37,72 @@ UPDATE_AGENTS=false
 FORCE=false
 AGENT_DIR=".claude"
 SKILLS_DIR=".claude/skills"
+RULES_DIR=".claude/rules"
+SCRIPTS_DIR=".claude/scripts"
+WORKFLOWS_DIR=".claude/workflows"
 ENTRY_FILE="CLAUDE.md"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SKILL_DIR="$(cd "${SCRIPT_DIR}/.." && pwd)"
+PROFILE_ROOT="${WORKFLOW_PROFILE_ROOT:-}"
+
+if [ -z "$PROFILE_ROOT" ]; then
+  for candidate in "$SKILL_DIR/profiles" "$SCRIPT_DIR/../../profiles" "$SCRIPT_DIR/../../../profiles" "$SCRIPT_DIR/../../../../profiles"; do
+    if [ -d "$candidate" ]; then
+      PROFILE_ROOT="$(cd "$candidate" && pwd)"
+      break
+    fi
+  done
+fi
+
+profile_value() {
+  local profile_file="$1"
+  local key="$2"
+  sed -n "s/^${key}:[[:space:]]*//p" "$profile_file" | head -n 1 | sed "s/^['\"]//; s/['\"]$//"
+}
+
+set_agent_dir_defaults() {
+  AGENT_DIR="${1%/}"
+  SKILLS_DIR="${AGENT_DIR}/skills"
+  RULES_DIR="${AGENT_DIR}/rules"
+  SCRIPTS_DIR="${AGENT_DIR}/scripts"
+  WORKFLOWS_DIR="${AGENT_DIR}/workflows"
+}
+
+load_profile() {
+  local name="$1"
+  local profile_file="${PROFILE_ROOT}/${name}.yaml"
+
+  if [ -f "$profile_file" ]; then
+    AGENT_DIR="$(profile_value "$profile_file" agent_dir)"
+    SKILLS_DIR="$(profile_value "$profile_file" skills_dir)"
+    RULES_DIR="$(profile_value "$profile_file" rules_dir)"
+    SCRIPTS_DIR="$(profile_value "$profile_file" scripts_dir)"
+    ENTRY_FILE="$(profile_value "$profile_file" entry_file)"
+    if [ -z "$AGENT_DIR" ] || [ -z "$SKILLS_DIR" ] || [ -z "$RULES_DIR" ] || [ -z "$ENTRY_FILE" ]; then
+      echo "install: invalid profile contract: $profile_file" >&2
+      exit 2
+    fi
+    SCRIPTS_DIR="${SCRIPTS_DIR:-${AGENT_DIR}/scripts}"
+    WORKFLOWS_DIR="${AGENT_DIR}/workflows"
+    return
+  fi
+
+  case "$name" in
+    codex)
+      AGENT_DIR=".codex"; SKILLS_DIR=".agents/skills"; RULES_DIR=".codex/rules"; SCRIPTS_DIR=".codex/scripts"; WORKFLOWS_DIR=".codex/workflows"; ENTRY_FILE="AGENTS.md"
+      ;;
+    claude)
+      AGENT_DIR=".claude"; SKILLS_DIR=".claude/skills"; RULES_DIR=".claude/rules"; SCRIPTS_DIR=".claude/scripts"; WORKFLOWS_DIR=".claude/workflows"; ENTRY_FILE="CLAUDE.md"
+      ;;
+    generic)
+      AGENT_DIR=".agent"; SKILLS_DIR=".agent/skills"; RULES_DIR=".agent/rules"; SCRIPTS_DIR=".agent/scripts"; WORKFLOWS_DIR=".agent/workflows"; ENTRY_FILE="AGENTS.md"
+      ;;
+    *)
+      echo "install: unknown profile: $name (expected a profiles/<name>.yaml contract)" >&2
+      exit 2
+      ;;
+  esac
+}
 
 while [ "$#" -gt 0 ]; do
   case "$1" in
@@ -46,15 +111,10 @@ while [ "$#" -gt 0 ]; do
     --update-agents) UPDATE_AGENTS=true ;;
     --profile)
       if [ "$#" -lt 2 ]; then
-        echo "install: --profile requires codex, claude, or generic" >&2
+        echo "install: --profile requires a profile name" >&2
         exit 2
       fi
-      case "$2" in
-        codex) AGENT_DIR=".codex"; SKILLS_DIR=".agents/skills"; ENTRY_FILE="AGENTS.md" ;;
-        claude) AGENT_DIR=".claude"; SKILLS_DIR=".claude/skills"; ENTRY_FILE="CLAUDE.md" ;;
-        generic) AGENT_DIR=".agent"; SKILLS_DIR=".agent/skills"; ENTRY_FILE="AGENTS.md" ;;
-        *) echo "install: unknown profile: $2" >&2; exit 2 ;;
-      esac
+      load_profile "$2"
       shift
       ;;
     --agent-dir)
@@ -62,8 +122,7 @@ while [ "$#" -gt 0 ]; do
         echo "install: --agent-dir requires a directory" >&2
         exit 2
       fi
-      AGENT_DIR="${2%/}"
-      SKILLS_DIR="${AGENT_DIR}/skills"
+      set_agent_dir_defaults "$2"
       shift
       ;;
     --skills-dir)
@@ -96,8 +155,6 @@ while [ "$#" -gt 0 ]; do
   shift
 done
 
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-SKILL_DIR="$(cd "${SCRIPT_DIR}/.." && pwd)"
 STAMP="$(date +%Y%m%d%H%M%S)"
 
 if [ ! -d "$TARGET_PROJECT" ]; then
@@ -142,7 +199,7 @@ backup_existing_path() {
 }
 
 install_state_script() {
-  local target_dir="${TARGET_PROJECT}/${AGENT_DIR}/scripts"
+  local target_dir="${TARGET_PROJECT}/${SCRIPTS_DIR}"
   local target_script="${target_dir}/todo-state.sh"
 
   mkdir -p "$target_dir"
@@ -155,15 +212,22 @@ install_state_script() {
 }
 
 install_routing_sync_script() {
-  local target_dir="${TARGET_PROJECT}/${AGENT_DIR}/scripts"
+  local target_dir="${TARGET_PROJECT}/${SCRIPTS_DIR}"
   local target_script="${target_dir}/sync-workflow-routing.sh"
   local source_script="${SCRIPT_DIR}/sync-workflow-routing.sh"
+  local rendered_script
 
   mkdir -p "$target_dir"
-  if ! backup_existing_file "$target_script" "$source_script"; then
+  rendered_script="$(mktemp "${TMPDIR:-/tmp}/sync-workflow-routing.XXXXXX")"
+  sed \
+    -e "s#^DEFAULT_WORKFLOWS_DIR=\"__DEFAULT_WORKFLOWS_DIR__\"#DEFAULT_WORKFLOWS_DIR=\"${WORKFLOWS_DIR}\"#" \
+    -e "s#^DEFAULT_RULES_DIR=\"__DEFAULT_RULES_DIR__\"#DEFAULT_RULES_DIR=\"${RULES_DIR}\"#" \
+    "$source_script" > "$rendered_script"
+  if ! backup_existing_file "$target_script" "$rendered_script"; then
+    rm -f "$rendered_script"
     return
   fi
-  cp "$source_script" "$target_script"
+  mv "$rendered_script" "$target_script"
   chmod +x "$target_script"
   echo "installed: ${target_script}"
 }
@@ -173,17 +237,29 @@ install_skill() {
   local target_skill="${target_skills}/workflow-todo-state"
 
   mkdir -p "$target_skills"
-  if ! backup_existing_path "$target_skill" "$SKILL_DIR"; then
-    return
+  if [ -e "$target_skill" ]; then
+    if diff -qr -x profiles "$SKILL_DIR" "$target_skill" >/dev/null 2>&1 \
+      && { [ -z "$PROFILE_ROOT" ] || { [ -d "$target_skill/profiles" ] && diff -qr "$PROFILE_ROOT" "$target_skill/profiles" >/dev/null 2>&1; }; }; then
+      echo "skipped: unchanged ${target_skill}"
+      return
+    fi
+    if [ "$FORCE" != true ]; then
+      echo "install: already exists, use --force to replace: $target_skill" >&2
+      exit 1
+    fi
+    mv "$target_skill" "${target_skill}.bak.${STAMP}"
   fi
   cp -R "$SKILL_DIR" "$target_skill"
+  if [ -n "$PROFILE_ROOT" ] && [ -d "$PROFILE_ROOT" ]; then
+    cp -R "$PROFILE_ROOT" "$target_skill/profiles"
+  fi
   chmod +x "${target_skill}/scripts/todo-state.sh" "${target_skill}/scripts/install.sh"
   echo "installed: ${target_skill}"
 }
 
 init_layout() {
-  local workflows_dir="${TARGET_PROJECT}/${AGENT_DIR}/workflows"
-  local rules_dir="${TARGET_PROJECT}/${AGENT_DIR}/rules"
+  local workflows_dir="${TARGET_PROJECT}/${WORKFLOWS_DIR}"
+  local rules_dir="${TARGET_PROJECT}/${RULES_DIR}"
   local runs_dir="${TARGET_PROJECT}/workspace/workflow-runs"
   local routing_file="${rules_dir}/workflow-routing.md"
   local routing_template="${SKILL_DIR}/references/workflow-routing-template.md"
@@ -192,7 +268,10 @@ init_layout() {
   mkdir -p "$workflows_dir" "$rules_dir" "$runs_dir"
 
   rendered_template="$(mktemp "${TMPDIR:-/tmp}/workflow-routing.XXXXXX")"
-  sed "s#__AGENT_DIR__#${AGENT_DIR}#g" "$routing_template" > "$rendered_template"
+  sed \
+    -e "s#__WORKFLOWS_DIR__#${WORKFLOWS_DIR}#g" \
+    -e "s#__SCRIPTS_DIR__#${SCRIPTS_DIR}#g" \
+    "$routing_template" > "$rendered_template"
 
   if ! backup_existing_file "$routing_file" "$rendered_template"; then
     rm -f "$rendered_template"
@@ -208,22 +287,25 @@ init_layout() {
 }
 
 workflow_agents_block() {
-  sed "s#__AGENT_DIR__#${AGENT_DIR}#g" <<'AGENTS_BLOCK'
+  sed \
+    -e "s#__WORKFLOWS_DIR__#${WORKFLOWS_DIR}#g" \
+    -e "s#__RULES_DIR__#${RULES_DIR}#g" \
+    -e "s#__SCRIPTS_DIR__#${SCRIPTS_DIR}#g" <<'AGENTS_BLOCK'
 <!-- workflow-todo-state:start -->
 ## Workflow Todo State
 
 Named workflow state files are the source of truth for every routed workflow.
 
-- Workflow definitions live under `__AGENT_DIR__/workflows/{workflow-id}/`.
+- Workflow definitions live under `__WORKFLOWS_DIR__/{workflow-id}/`.
 - Workflow state files live under `workspace/workflow-runs/` and should be named after the task, for example `payment-refactor.workflow.md`.
-- Before any action that changes project files, runs project commands, or calls external services, read `__AGENT_DIR__/rules/workflow-routing.md` and match the user's original request against its triggers and exclusions.
+- Before any action that changes project files, runs project commands, or calls external services, read `__RULES_DIR__/workflow-routing.md` and match the user's original request against its triggers and exclusions.
 - When a `Required: yes` workflow matches, read its `workflow.md`, create or resume its state file, and start the current phase before doing the work. Do not take the ordinary execution path instead.
 - If the route is ambiguous, ask the user before acting.
 - Read the active workflow state file before starting any phase; do not skip prerequisite phases.
-- Change phase state only through `__AGENT_DIR__/scripts/todo-state.sh`.
+- Change phase state only through `__SCRIPTS_DIR__/todo-state.sh`.
 - Use one unique phase status line per phase, for example `> [P0] ⬜ 未开始`.
 - On resume after interruption, inspect the YAML frontmatter and current phase before acting.
-- Each workflow directory must contain a `routing.yaml`. After creating, changing, renaming, or deleting a workflow, run `__AGENT_DIR__/scripts/sync-workflow-routing.sh`; the update is incomplete until `__AGENT_DIR__/scripts/sync-workflow-routing.sh --check` passes.
+- Each workflow directory must contain a `routing.yaml`. After creating, changing, renaming, or deleting a workflow, run `__SCRIPTS_DIR__/sync-workflow-routing.sh`; the update is incomplete until `__SCRIPTS_DIR__/sync-workflow-routing.sh --check` passes.
 <!-- workflow-todo-state:end -->
 AGENTS_BLOCK
 }
@@ -281,9 +363,9 @@ cat <<EOF
 Done.
 
 Next:
-  1. Create a workflow definition under ${AGENT_DIR}/workflows/{workflow-id}/.
-  2. Add routing metadata at ${AGENT_DIR}/workflows/{workflow-id}/routing.yaml.
-  3. Run ${AGENT_DIR}/scripts/sync-workflow-routing.sh.
+  1. Create a workflow definition under ${WORKFLOWS_DIR}/{workflow-id}/.
+  2. Add routing metadata at ${WORKFLOWS_DIR}/{workflow-id}/routing.yaml.
+  3. Run ${SCRIPTS_DIR}/sync-workflow-routing.sh.
   4. Create a named state file under workspace/workflow-runs/{task}.workflow.md.
-  5. Test: ${AGENT_DIR}/scripts/todo-state.sh workspace/workflow-runs/{task}.workflow.md start P0
+  5. Test: ${SCRIPTS_DIR}/todo-state.sh workspace/workflow-runs/{task}.workflow.md start P0
 EOF

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Cache Optimizer"
+  short_description: "Audit and optimize LLM prompt caching and token cost"
+  default_prompt: "Use $prompt-cache-optimizer to audit and improve this project's LLM cache hit rate and token cost."

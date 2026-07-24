@@ -149,14 +149,14 @@ replace_phase_status() {
 
 phase_has_status() {
   local label="$1"
-  grep -qF "> [$PHASE] $label" "$TODO_FILE"
+  grep -qE "^> \\[$PHASE\\] .* \\{$label\\}$" "$TODO_FILE"
 }
 
 previous_open_phase_before() {
   PHASE_NUM="$PHASE_NUM" perl -ne '
-    if (/^> \[P(\d+)\] (.*)$/ && $1 < $ENV{PHASE_NUM}) {
+    if (/^> \[P(\d+)\] .* \{([^}]+)\}$/ && $1 < $ENV{PHASE_NUM}) {
       my $status = $2;
-      if ($status !~ /^✅ 已完成/ && $status !~ /^⏭️ 跳过/) {
+      if ($status ne "complete" && $status ne "skipped") {
         print "P$1\n";
         exit;
       }
@@ -175,7 +175,7 @@ ensure_previous_phases_closed() {
 
 next_pending_phase_after() {
   PHASE_NUM="$PHASE_NUM" perl -ne '
-    if (/^> \[P(\d+)\] .*⬜ 未开始/ && $1 > $ENV{PHASE_NUM}) {
+    if (/^> \[P(\d+)\] .* \{not_started\}$/ && $1 > $ENV{PHASE_NUM}) {
       print "P$1\n";
       exit;
     }
@@ -203,25 +203,25 @@ ensure_exception_table() {
 case "$ACTION" in
   start)
     ensure_previous_phases_closed
-    if phase_has_status "✅ 已完成" || phase_has_status "⏭️ 跳过"; then
+    if phase_has_status "complete" || phase_has_status "skipped"; then
       echo "todo-state: cannot start completed or skipped phase: $PHASE" >&2
       exit 1
     fi
-    replace_phase_status "🔲 进行中"
+    replace_phase_status "🔲 进行中 {in_progress}"
     set_recovery_state "$PHASE" "in_progress"
     set_visible_current_phase "$PHASE"
     ;;
   complete)
     ensure_previous_phases_closed
-    if phase_has_status "⏭️ 跳过"; then
+    if phase_has_status "skipped"; then
       echo "todo-state: cannot complete skipped phase: $PHASE" >&2
       exit 1
     fi
-    if ! phase_has_status "🔲 进行中"; then
+    if ! phase_has_status "in_progress"; then
       echo "todo-state: phase must be in progress before complete: $PHASE" >&2
       exit 1
     fi
-    replace_phase_status "✅ 已完成"
+    replace_phase_status "✅ 已完成 {complete}"
     NEXT_PHASE="$(next_pending_phase_after || true)"
     if [ -n "$NEXT_PHASE" ]; then
       set_recovery_state "$NEXT_PHASE" "ready"
@@ -234,11 +234,11 @@ case "$ACTION" in
   skip)
     ensure_previous_phases_closed
     ensure_exception_table
-    if phase_has_status "✅ 已完成"; then
+    if phase_has_status "complete"; then
       echo "todo-state: cannot skip completed phase: $PHASE" >&2
       exit 1
     fi
-    replace_phase_status "⏭️ 跳过"
+    replace_phase_status "⏭️ 跳过 {skipped}"
     append_exception_record "跳过阶段：${REASON:-未填写原因}" "继续推进到下一未完成阶段"
     NEXT_PHASE="$(next_pending_phase_after || true)"
     if [ -n "$NEXT_PHASE" ]; then
@@ -252,11 +252,11 @@ case "$ACTION" in
   block)
     ensure_previous_phases_closed
     ensure_exception_table
-    if phase_has_status "✅ 已完成" || phase_has_status "⏭️ 跳过"; then
+    if phase_has_status "complete" || phase_has_status "skipped"; then
       echo "todo-state: cannot block completed or skipped phase: $PHASE" >&2
       exit 1
     fi
-    replace_phase_status "🔲 进行中"
+    replace_phase_status "🔲 进行中 {blocked}"
     set_recovery_state "$PHASE" "blocked" "$REASON"
     set_visible_current_phase "$PHASE"
     append_exception_record "阻塞：${REASON:-未填写原因}" "停在当前阶段，等待用户确认或补充资料"

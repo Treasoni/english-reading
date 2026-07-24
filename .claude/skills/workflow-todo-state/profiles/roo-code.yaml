@@ -1,0 +1,14 @@
+name: roo-code
+description: Built-in profile for Roo Code projects.
+agent_dir: .roo
+skills_dir: .roo/skills
+rules_dir: .roo/rules
+scripts_dir: .roo/scripts
+hooks_dir: ""
+entry_file: AGENTS.md
+hook_config: ""
+hook_template: ""
+include_openai_yaml: false
+env_template: codex
+skill_registry: .roo/rules/common/skill-invocation.md
+prompt_cache_rule: .roo/rules/common/prompt-cache.md

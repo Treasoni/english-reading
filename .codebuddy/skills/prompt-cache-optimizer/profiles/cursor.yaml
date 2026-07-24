@@ -1,0 +1,14 @@
+name: cursor
+description: Built-in profile for Cursor projects.
+agent_dir: .cursor
+skills_dir: .cursor/skills
+rules_dir: .cursor/rules
+scripts_dir: .cursor/scripts
+hooks_dir: ""
+entry_file: AGENTS.md
+hook_config: ""
+hook_template: ""
+include_openai_yaml: false
+env_template: codex
+skill_registry: .cursor/rules/common/skill-invocation.md
+prompt_cache_rule: .cursor/rules/common/prompt-cache.md

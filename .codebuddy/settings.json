@@ -7,6 +7,10 @@
           {
             "type": "command",
             "command": "bash .codebuddy/hooks/read-learnings.sh"
+          },
+          {
+            "type": "command",
+            "command": "python3 '.codebuddy/hooks/read_learnings.py'"
           }
         ]
       }

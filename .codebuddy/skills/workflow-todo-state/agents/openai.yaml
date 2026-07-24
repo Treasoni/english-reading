@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workflow Todo State"
+  short_description: "Reusable named workflow state files"
+  default_prompt: "Use $workflow-todo-state to add named recoverable workflow state files to this project."

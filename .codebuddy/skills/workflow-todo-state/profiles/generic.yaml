@@ -1,0 +1,14 @@
+name: generic
+description: Portable default profile for agents without a dedicated layout.
+agent_dir: .agent
+skills_dir: .agent/skills
+rules_dir: .agent/rules
+scripts_dir: .agent/scripts
+hooks_dir: .agent/hooks
+entry_file: AGENTS.md
+hook_config: ""
+hook_template: ""
+include_openai_yaml: false
+env_template: codex
+skill_registry: .agent/rules/common/skill-invocation.md
+prompt_cache_rule: .agent/rules/common/prompt-cache.md

@@ -1,0 +1,14 @@
+name: codebuddy
+description: Built-in profile for Tencent Cloud CodeBuddy Code projects.
+agent_dir: .codebuddy
+skills_dir: .codebuddy/skills
+rules_dir: .codebuddy/rules
+scripts_dir: .codebuddy/scripts
+hooks_dir: .codebuddy/hooks
+entry_file: CODEBUDDY.md
+hook_config: .codebuddy/settings.json
+hook_template: codebuddy-hooks.json.template
+include_openai_yaml: false
+env_template: codex
+skill_registry: .codebuddy/rules/common/skill-invocation.md
+prompt_cache_rule: .codebuddy/rules/common/prompt-cache.md

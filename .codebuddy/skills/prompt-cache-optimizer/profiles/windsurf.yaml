@@ -1,0 +1,14 @@
+name: windsurf
+description: Built-in profile for Windsurf Cascade projects.
+agent_dir: .windsurf
+skills_dir: .windsurf/skills
+rules_dir: .windsurf/rules
+scripts_dir: .windsurf/scripts
+hooks_dir: ""
+entry_file: AGENTS.md
+hook_config: ""
+hook_template: ""
+include_openai_yaml: false
+env_template: codex
+skill_registry: .windsurf/rules/common/skill-invocation.md
+prompt_cache_rule: .windsurf/rules/common/prompt-cache.md

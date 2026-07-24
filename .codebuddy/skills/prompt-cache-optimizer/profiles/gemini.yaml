@@ -1,0 +1,14 @@
+name: gemini
+description: Built-in profile for Gemini CLI projects.
+agent_dir: .gemini
+skills_dir: .gemini/skills
+rules_dir: .gemini/rules
+scripts_dir: .gemini/scripts
+hooks_dir: ""
+entry_file: GEMINI.md
+hook_config: ""
+hook_template: ""
+include_openai_yaml: false
+env_template: codex
+skill_registry: .gemini/rules/common/skill-invocation.md
+prompt_cache_rule: .gemini/rules/common/prompt-cache.md

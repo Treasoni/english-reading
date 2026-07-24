@@ -7,6 +7,10 @@
           {
             "type": "command",
             "command": "bash '/Users/zhqznc/Documents/考研英语阅读/.codex/hooks/read-learnings.sh'"
+          },
+          {
+            "type": "command",
+            "command": "python3 '.codex/hooks/read_learnings.py'"
           }
         ]
       }

@@ -1,0 +1,14 @@
+name: opencode
+description: Built-in profile for OpenCode projects.
+agent_dir: .opencode
+skills_dir: .opencode/skills
+rules_dir: .opencode/rules
+scripts_dir: .opencode/scripts
+hooks_dir: ""
+entry_file: AGENTS.md
+hook_config: ""
+hook_template: ""
+include_openai_yaml: false
+env_template: codex
+skill_registry: .opencode/rules/common/skill-invocation.md
+prompt_cache_rule: .opencode/rules/common/prompt-cache.md
