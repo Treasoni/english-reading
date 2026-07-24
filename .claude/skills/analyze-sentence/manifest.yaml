@@ -1,0 +1,19 @@
+apiVersion: agent-platform/v1
+kind: Skill
+metadata:
+  name: analyze-sentence
+  version: 1.0.0
+  description: "对考研英语文章中的长难句进行结构分析，提取主干、标记修饰成分、绘制结构图解、给出参考译文和考点提示"
+spec:
+  entrypoint: SKILL.md
+  capabilities:
+    - skill.execute
+  permissions:
+    filesystem: write
+    network: none
+    subprocess: none
+    git: none
+  dependsOn: []
+  lifecycle:
+    discoverable: true
+    deprecated: false

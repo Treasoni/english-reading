@@ -1,0 +1,20 @@
+apiVersion: agent-platform/v1
+kind: Hook
+metadata:
+  name: read-learnings
+  version: 1.0.0
+  description: "在每个 agent 启动前读取 .learnings/ 经验库文件并注入到上下文中"
+spec:
+  entrypoint: ../read-learnings.sh
+  capabilities:
+    - learnings.read
+  permissions:
+    filesystem: read
+    network: none
+    subprocess: none
+    git: none
+  dependsOn: []
+  lifecycle:
+    discoverable: true
+    deprecated: false
+  event: SessionStart
