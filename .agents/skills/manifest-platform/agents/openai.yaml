@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manifest Platform"
+  short_description: "Install and validate agent platform manifests"
+  default_prompt: "Use $manifest-platform to add a portable manifest registry to this project."

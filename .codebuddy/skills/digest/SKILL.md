@@ -5,12 +5,6 @@ description: 自我学习阶段。回顾本次学习会话，记录学习心得�
 
 # Skill: digest（自我学习）
 
-## 触发时机
-用户审核通过 evaluate 产出后，且用户明确要求记录会话学习时。
-
-## 输入
-- `SYSTEM_ROOT`: StudySystem 根路径，如 `{VAULT_PATH}/StudySystem`
-- `topic`: 主题名称
 
 ## 执行步骤
 
@@ -22,7 +16,12 @@ description: 自我学习阶段。回顾本次学习会话，记录学习心得�
 wc -l .learnings/LEARNINGS.md .learnings/ERRORS.md 2>/dev/null || echo "0 .learnings/LEARNINGS.md\n0 .learnings/ERRORS.md"
 ```
 
-如果任一文件超过 100 行，先执行压缩流程：
+如果任一文件超过 100 行，先判断是普通历史冗余还是重复错误复发：
+
+- 若只是旧条目堆积且规则已稳定，执行下方压缩流程。
+- 若同一 skill / 同类格式问题反复出现，或 `RULES.md` 已有规则但仍复发，停止单纯压缩；改用 `maintain-learnings` 先修对应 skill / 模板 / hook / 项目规则，验证后再归档移除。
+
+普通压缩流程：
 
 1. 读取 `.learnings/LEARNINGS.md` 和 `.learnings/ERRORS.md` 中的所有条目
 2. 按主题/模式分组，去重
@@ -32,7 +31,7 @@ wc -l .learnings/LEARNINGS.md .learnings/ERRORS.md 2>/dev/null || echo "0 .learn
    - `## Watch For` — 需要特别注意的情况
    - 每行一条规则，合并重复出现：`(3x) 用 X 而非 Y`
    - 丢弃只出现一次的孤立噪声
-4. 如果某规则对核心 Study System 流程至关重要，提升到 CLAUDE.md
+4. 如果某规则对核心 Study System 流程至关重要，提升到 CODEBUDDY.md
 5. 归档旧条目到 `.learnings/archive/YYYY-MM-DD.md`
 6. 截断 `.learnings/LEARNINGS.md` 和 `.learnings/ERRORS.md` 只保留头部
 

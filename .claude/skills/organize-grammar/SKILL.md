@@ -1,6 +1,5 @@
 ---
 name: organize-grammar
-category: 学习工作流
 description: 整理零散的英语语法笔记，按类别（时态、语态、从句等）组织为结构化参考。使用Obsidian callouts突出关键点，使用表格展示语法模式，保存到 intermediate 目录。用户提供语法笔记和主题名时触发。
 ---
 

@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/agent-platform/manifest-v1.json",
+  "title": "Agent Platform Manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["apiVersion", "kind", "metadata", "spec"],
+  "properties": {
+    "apiVersion": { "const": "agent-platform/v1" },
+    "kind": { "enum": ["Workflow", "Skill", "Subagent", "Hook"] },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "version", "description"],
+      "properties": {
+        "name": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "version": { "type": "string", "pattern": "^(?:0|[1-9]\\d*)\\.(?:0|[1-9]\\d*)\\.(?:0|[1-9]\\d*)(?:-[0-9A-Za-z.-]+)?(?:\\+[0-9A-Za-z.-]+)?$" },
+        "description": { "type": "string", "minLength": 1 }
+      }
+    },
+    "spec": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["entrypoint", "capabilities", "permissions", "dependsOn", "lifecycle"],
+      "properties": {
+        "entrypoint": { "type": "string", "minLength": 1 },
+        "capabilities": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1, "uniqueItems": true },
+        "permissions": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["filesystem", "network", "subprocess", "git"],
+          "properties": {
+            "filesystem": { "enum": ["none", "read", "write"] },
+            "network": { "enum": ["none", "allow"] },
+            "subprocess": { "enum": ["none", "allow"] },
+            "git": { "enum": ["none", "read", "write"] }
+          }
+        },
+        "dependsOn": { "type": "array", "items": { "type": "string", "pattern": "^(Workflow|Skill|Subagent|Hook)/[a-z0-9]+(?:-[a-z0-9]+)*$" }, "uniqueItems": true },
+        "lifecycle": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["discoverable", "deprecated"],
+          "properties": { "discoverable": { "type": "boolean" }, "deprecated": { "type": "boolean" } }
+        },
+        "event": { "enum": ["SessionStart", "Stop"] }
+      }
+    }
+  },
+  "allOf": [{
+    "if": { "properties": { "kind": { "const": "Hook" } } },
+    "then": { "properties": { "spec": { "required": ["event"] } } },
+    "else": { "properties": { "spec": { "not": { "required": ["event"] } } } }
+  }]
+}

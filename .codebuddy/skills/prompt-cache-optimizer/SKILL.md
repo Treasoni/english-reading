@@ -1,6 +1,6 @@
 ---
 name: prompt-cache-optimizer
-description: 审计并优化 LLM 提示缓存命中率、输入 token、延迟与调用成本。用于用户要求“优化缓存命中”“降低 token 成本”“审计 LLM 调用”“提示词缓存优化”“优化 AI 调用费用”，或需要为可自动读取 API 调用指标的应用建立可观测性和固定回归样本时。
+description: 审计并优化 LLM 提示缓存命中率、输入 token、延迟与调用成本。用于用户要求“优化缓存命中”“降低 token 成本”“审计 LLM 调用”“提示词缓存优化”“优化 AI 调用费用”，或需要为任意 agent profile 与应用代码建立可观测性和固定回归样本时。
 ---
 
 # Prompt Cache Optimizer
@@ -9,7 +9,7 @@ description: 审计并优化 LLM 提示缓存命中率、输入 token、延迟�
 
 ## Resources
 
-- 运行 `scripts/prompt-cache-bootstrap.sh` 安装或检查规则；只有已接通自动 usage 采集时才加 `--with-observability` 安装调用事件 schema 与回归样本模板。
+- 运行 `scripts/prompt-cache-bootstrap.sh` 安装或检查规则、调用事件 schema 与回归样本模板。
 - 需要接入指标或解释比较方式时，读取 `references/measurement.md`。
 - 使用 `assets/llm-usage-event.schema.json` 作为调用日志字段合同。
 - 使用 `assets/prompt-cache-regression-cases.json` 创建脱敏、稳定的回归样本。
@@ -19,10 +19,9 @@ description: 审计并优化 LLM 提示缓存命中率、输入 token、延迟�
 ### 1. Establish Scope
 
 1. Read the target project's entry instructions and check `git status --short` before editing.
-2. Identify the LLM provider, request entry points, model settings, prompt templates, tool definitions, subagent prompts, and whether provider usage can be captured automatically.
-3. Enable observability only when an existing structured log or an API request boundary can automatically record provider usage. For direct Codex use without a project API, do not create `/.llm` and do not ask the user to transcribe token or cost data.
-4. Treat absent cache metrics as a data gap. Do not estimate a cache hit rate from prompt text alone.
-5. Preserve user changes, secrets, output quality, and safety constraints. Do not commit or push unless explicitly requested.
+2. Identify the LLM provider, request entry points, model settings, prompt templates, tool definitions, subagent prompts, and available usage logs.
+3. Treat absent cache metrics as a data gap. Do not estimate a cache hit rate from prompt text alone.
+4. Preserve user changes, secrets, output quality, and safety constraints. Do not commit or push unless explicitly requested.
 
 ### 2. Install and Inspect Foundation
 
@@ -35,13 +34,12 @@ bash scripts/prompt-cache-bootstrap.sh --check --platform both --target <target-
 2. When the target lacks the foundation and the user authorizes changes, install it:
 
 ```bash
-bash scripts/prompt-cache-bootstrap.sh --apply --platform both --with-skill --target <target-project>
+bash scripts/prompt-cache-bootstrap.sh --apply --platform both --target <target-project>
 ```
 
 3. For a single built-in profile, replace `both` with `codex` or `claude`.
-4. For a custom agent profile, use `--platform none --agent name,agent_dir,entry_file --with-skill`; the skill is copied to `<agent_dir>/skills`.
-5. After the agent has connected automatic usage collection, install or check its contracts with `--with-observability`. Do not use this option merely to create forms for manual entry.
-6. Keep platform-specific rule entry files in their own profile directories; do not manually mirror generated files between profiles.
+4. For a custom agent profile, use `--platform none --agent name,agent_dir,entry_file`.
+5. Keep platform-specific rule entry files in their own profile directories; do not manually mirror generated files between profiles.
 
 ### 3. Audit High-Value Requests
 
@@ -55,8 +53,8 @@ bash scripts/prompt-cache-bootstrap.sh --apply --platform both --with-skill --ta
 ### 4. Measure and Build Regression Coverage
 
 1. Read `references/measurement.md` before adding telemetry or interpreting cache metrics.
-2. Have the agent record template version, model, input/output token counts, cache read/write token counts when supplied, latency, and cost from the provider response or existing logs; never ask the user to fill these fields manually.
-3. Replace the disabled regression example with 3-10 representative, stable, and sanitized high-frequency requests only when the agent can rerun them and collect their metrics automatically.
+2. Record template version, model, input/output token counts, cache read/write token counts when supplied, latency, and cost without logging raw prompts or sensitive data.
+3. Replace the disabled regression example with 3-10 representative, stable, and sanitized high-frequency requests.
 4. Define output quality checks before accepting a token or cache improvement.
 
 ### 5. Report, Change, and Validate
@@ -70,7 +68,7 @@ bash scripts/prompt-cache-bootstrap.sh --apply --platform both --with-skill --ta
 ## Completion Criteria
 
 - The target has a stable prompt-cache rule and entry-point reference for the selected platform.
-- When automatic telemetry is supported, usage events use the schema or an explicitly documented compatible equivalent; otherwise `/.llm` is absent.
-- When automatic regression runs are supported, regression cases cover representative high-frequency requests and include quality expectations.
+- Usage events use the schema or an explicitly documented compatible equivalent.
+- Regression cases cover representative high-frequency requests and include quality expectations.
 - Findings and changes are traceable to files and measured metrics.
 - No claim of savings is made without comparable before-and-after data.

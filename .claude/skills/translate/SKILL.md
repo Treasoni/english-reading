@@ -1,6 +1,5 @@
 ---
 name: translate
-category: 学习工作流
 description: 将考研英语阅读文章翻译为中文，按段落生成中英对照格式，保存到 intermediate 目录。用户粘贴英文文本或提供文件路径，并指定主题名(topic)时触发。
 ---
 

@@ -1,6 +1,5 @@
 ---
 name: extract-vocabulary
-category: 学习工作流
 description: 扫描整合笔记中加粗的生词，提取去重后生成词汇表，替换笔记中的<!-- VOCABULARY_SLOT -->占位符。原地修改笔记文件，不改变其他内容。
 ---
 

@@ -1,0 +1,13 @@
+id: codex
+name: Codex
+canonical: true
+mcp_format: codex-toml
+paths:
+  skills: .agents/skills
+  rules: .codex/rules
+  hooks: .codex/hooks
+  hook_config: .codex/hooks.json
+  scripts: .codex/scripts
+  workflows: .codex/workflows
+  instructions: AGENTS.md
+  mcp: .codex/config.toml

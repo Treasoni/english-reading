@@ -1,6 +1,5 @@
 ---
 name: digest
-category: 系统维护
 description: 自我学习阶段。回顾本次学习会话，记录学习心得和错误到 .learnings/，当文件超阈值时自动压缩去重，更新 RULES.md，促进系统持续改进。触发时机：用户审核通过 evaluate 产出并明确要求记录学习后，Phase 6。
 ---
 

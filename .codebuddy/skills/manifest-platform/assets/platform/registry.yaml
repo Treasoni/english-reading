@@ -1,0 +1,27 @@
+apiVersion: agent-platform/v1
+discovery:
+  kindDirectories:
+    Workflow: .codebuddy/workflows
+    Skill: .codebuddy/skills
+    Subagent: .codex/agents
+    Hook: .codebuddy/hooks
+policy:
+  hooksConfig: .codebuddy/settings.json
+  allowedPermissions:
+    filesystem:
+      - none
+      - read
+      - write
+    network:
+      - none
+      - allow
+    subprocess:
+      - none
+      - allow
+    git:
+      - none
+      - read
+      - write
+  hookEvents:
+    - SessionStart
+    - Stop

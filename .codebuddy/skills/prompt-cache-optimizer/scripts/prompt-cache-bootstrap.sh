@@ -7,54 +7,33 @@ MODE="check"
 PLATFORM="both"
 TARGET_DIR="."
 CUSTOM_AGENTS=()
-WITH_SKILL=false
-WITH_OBSERVABILITY=false
-OVERWRITE=false
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-SKILL_DIR="$(cd "${SCRIPT_DIR}/.." && pwd)"
 ASSET_DIR="${PROMPT_CACHE_ASSET_DIR:-$SCRIPT_DIR}"
 
 if [ ! -f "$ASSET_DIR/llm-usage-event.schema.json" ] && [ -d "$SCRIPT_DIR/../assets" ]; then
   ASSET_DIR="$SCRIPT_DIR/../assets"
 fi
 
-PROFILE_ROOT="${PROMPT_CACHE_PROFILE_ROOT:-}"
-
-if [ -z "$PROFILE_ROOT" ]; then
-  for candidate in "$SKILL_DIR/profiles" "$SCRIPT_DIR/../../profiles" "$SCRIPT_DIR/../../../profiles"; do
-    if [ -d "$candidate" ]; then
-      PROFILE_ROOT="$(cd "$candidate" && pwd)"
-      break
-    fi
-  done
-fi
-
 usage() {
   cat <<'USAGE'
 Usage:
-  prompt-cache-bootstrap.sh [--check|--apply] [--platform PROFILE|both|all|none] [--target DIR]
+  prompt-cache-bootstrap.sh [--check|--apply] [--platform codex|claude|both|none] [--target DIR]
 
 Modes:
   --check              Report missing cache configuration and suspicious prompt content (default).
-  --apply              Install rules, entry-point references, and selected optional assets.
+  --apply              Install rules, entry-point references, telemetry assets, and regression cases.
 
 Options:
-  --with-skill         Copy prompt-cache-optimizer into every selected profile's skills directory.
-  --overwrite          Replace existing prompt-cache rules, optional assets, and copied skills. Requires --apply.
-  --with-observability Install or check `.llm/prompt-cache` contracts. Use only after automatic
-                       provider-usage collection has been connected; this script does not collect it.
-  --platform PLATFORM  Configure one built-in profile, `both` (codex + claude), `all`, or `none` (default: both).
+  --platform PLATFORM  Configure built-in profiles: codex, claude, both, or none (default: both).
   --agent SPEC         Add a custom agent profile: name,agent_dir,entry_file[,rule_path].
-                       Example: generic,.agent,AGENTS.md
+                       Example: generic,.agent,CODEBUDDY.md
   --target DIR         Target project root (default: current directory).
   --help               Show this help message.
 
 Examples:
   bash prompt-cache-bootstrap.sh --check --target ../my-project
-  bash prompt-cache-bootstrap.sh --apply --platform both --with-skill --target ../my-project
-  bash prompt-cache-bootstrap.sh --apply --platform both --with-skill --with-observability --target ../my-project
-  bash prompt-cache-bootstrap.sh --apply --platform gemini --target ../my-project
-  bash prompt-cache-bootstrap.sh --apply --platform none --agent myagent,.agent,AGENTS.md --target ../my-project
+  bash prompt-cache-bootstrap.sh --apply --platform both --target ../my-project
+  bash prompt-cache-bootstrap.sh --apply --platform none --agent generic,.agent,CODEBUDDY.md --target ../my-project
 USAGE
 }
 
@@ -66,70 +45,6 @@ warn() {
   printf '%s\n' "prompt-cache: warning: $*" >&2
 }
 
-profile_value() {
-  local profile_file="$1"
-  local key="$2"
-  sed -n "s/^${key}:[[:space:]]*//p" "$profile_file" | head -n 1 | sed "s/^['\"]//; s/['\"]$//"
-}
-
-emit_profile_spec() {
-  local name="$1"
-  local profile_file="${PROFILE_ROOT}/${name}.yaml"
-  local agent_dir entry_file rule_path rules_dir skills_dir
-
-  if [ -n "$PROFILE_ROOT" ] && [ -f "$profile_file" ]; then
-    agent_dir="$(profile_value "$profile_file" agent_dir)"
-    entry_file="$(profile_value "$profile_file" entry_file)"
-    rule_path="$(profile_value "$profile_file" prompt_cache_rule)"
-    rules_dir="$(profile_value "$profile_file" rules_dir)"
-    skills_dir="$(profile_value "$profile_file" skills_dir)"
-    rule_path="${rule_path:-${rules_dir}/common/prompt-cache.md}"
-    if [ -z "$agent_dir" ] || [ -z "$entry_file" ] || [ -z "$rule_path" ] || [ -z "$skills_dir" ]; then
-      warn "invalid profile contract: $profile_file"
-      return 1
-    fi
-    printf '%s\t%s\t%s\t%s\t%s\n' "$name" "$agent_dir" "$entry_file" "$rule_path" "$skills_dir"
-    return
-  fi
-
-  case "$name" in
-    codex) printf '%s\n' $'codex\t.codex\tAGENTS.md\t.codex/rules/common/prompt-cache.md\t.agents/skills' ;;
-    claude) printf '%s\n' $'claude\t.claude\tCLAUDE.md\t.claude/rules/common/prompt-cache.md\t.claude/skills' ;;
-    generic) printf '%s\n' $'generic\t.agent\tAGENTS.md\t.agent/rules/common/prompt-cache.md\t.agent/skills' ;;
-    *)
-      warn "unknown profile: $name (profiles directory unavailable: ${PROFILE_ROOT:-none})"
-      return 1
-      ;;
-  esac
-}
-
-selected_profile_specs() {
-  local profile_file name
-  case "$PLATFORM" in
-    none)
-      return
-      ;;
-    both)
-      emit_profile_spec codex
-      emit_profile_spec claude
-      ;;
-    all)
-      if [ -z "$PROFILE_ROOT" ] || [ ! -d "$PROFILE_ROOT" ]; then
-        warn "--platform all requires this repository's profiles directory"
-        return 1
-      fi
-      for profile_file in "$PROFILE_ROOT"/*.yaml; do
-        [ -f "$profile_file" ] || continue
-        name="$(profile_value "$profile_file" name)"
-        emit_profile_spec "${name:-$(basename "${profile_file%.yaml}")}"
-      done
-      ;;
-    *)
-      emit_profile_spec "$PLATFORM"
-      ;;
-  esac
-}
-
 while [ "$#" -gt 0 ]; do
   case "$1" in
     --check)
@@ -138,18 +53,9 @@ while [ "$#" -gt 0 ]; do
     --apply)
       MODE="apply"
       ;;
-    --with-skill)
-      WITH_SKILL=true
-      ;;
-    --with-observability)
-      WITH_OBSERVABILITY=true
-      ;;
-    --overwrite)
-      OVERWRITE=true
-      ;;
     --platform)
       if [ "$#" -lt 2 ]; then
-        warn "--platform requires a profile name, both, all, or none"
+        warn "--platform requires codex, claude, both, or none"
         exit 2
       fi
       PLATFORM="$2"
@@ -184,14 +90,13 @@ while [ "$#" -gt 0 ]; do
   shift
 done
 
-if [ "$OVERWRITE" = true ] && [ "$MODE" != "apply" ]; then
-  warn "--overwrite requires --apply"
-  exit 2
-fi
-
-if ! selected_profile_specs >/dev/null; then
-  exit 2
-fi
+case "$PLATFORM" in
+  codex|claude|both|none) ;;
+  *)
+    warn "platform must be codex, claude, both, or none"
+    exit 2
+    ;;
+esac
 
 if [ ! -d "$TARGET_DIR" ]; then
   warn "target directory not found: $TARGET_DIR"
@@ -199,6 +104,11 @@ if [ ! -d "$TARGET_DIR" ]; then
 fi
 
 TARGET_DIR="$(cd "$TARGET_DIR" && pwd)"
+
+platform_enabled() {
+  local name="$1"
+  [ "$PLATFORM" = "both" ] || [ "$PLATFORM" = "$name" ]
+}
 
 target_path() {
   case "$1" in
@@ -273,28 +183,20 @@ RULES
 install_asset() {
   local source_file="$1"
   local target_file="$2"
-  local existed=false
 
   if [ ! -f "$source_file" ]; then
     warn "template asset is missing: $source_file"
     exit 1
   fi
 
-  if [ -f "$target_file" ] && [ "$OVERWRITE" != true ]; then
+  if [ -f "$target_file" ]; then
     log "kept existing $target_file"
     return
-  fi
-  if [ -f "$target_file" ]; then
-    existed=true
   fi
 
   mkdir -p "$(dirname "$target_file")"
   cp "$source_file" "$target_file"
-  if [ "$existed" = true ]; then
-    log "updated $target_file"
-  else
-    log "created $target_file"
-  fi
+  log "created $target_file"
 }
 
 install_observability() {
@@ -305,16 +207,15 @@ install_observability() {
 }
 
 entry_block() {
-  local name="$1"
-  local rule_path="$2"
+  local rule_path="$1"
   cat <<RULES
-<!-- prompt-cache-bootstrap:${name}:begin -->
+<!-- prompt-cache-bootstrap:begin -->
 ## Prompt Cache
 
 - Follow \`$rule_path\` for high-frequency prompt design.
 - Keep stable instructions and output formats before dynamic user input, file excerpts, dates, IDs, and runtime state.
 - Reuse canonical templates and load long context only when needed.
-<!-- prompt-cache-bootstrap:${name}:end -->
+<!-- prompt-cache-bootstrap:end -->
 RULES
 }
 
@@ -325,8 +226,6 @@ install_rule() {
   local relative_rule_path="$4"
   local rule_file
   local entry_path
-  local start_marker="<!-- prompt-cache-bootstrap:${name}:begin -->"
-  local legacy_marker="<!-- prompt-cache-bootstrap:begin -->"
 
   rule_file="$(target_path "$rule_path")"
   entry_path="$(target_path "$entry_file")"
@@ -335,19 +234,12 @@ install_rule() {
     mkdir -p "$(dirname "$rule_file")"
     rule_content > "$rule_file"
     log "created $rule_file for $name"
-  elif [ "$OVERWRITE" = true ]; then
-    rule_content > "$rule_file"
-    log "updated $rule_file for $name"
   else
     log "kept existing $rule_file for $name"
   fi
 
-  if [ -f "$entry_path" ] && grep -qF "$start_marker" "$entry_path"; then
+  if [ -f "$entry_path" ] && grep -qF '<!-- prompt-cache-bootstrap:begin -->' "$entry_path"; then
     log "entry block already present in $entry_path"
-    return
-  fi
-  if { [ "$name" = "codex" ] || [ "$name" = "claude" ]; } && [ -f "$entry_path" ] && grep -qF "$legacy_marker" "$entry_path"; then
-    log "legacy entry block already present in $entry_path"
     return
   fi
 
@@ -357,7 +249,7 @@ install_rule() {
 
   {
     printf '\n'
-    entry_block "$name" "$relative_rule_path"
+    entry_block "$relative_rule_path"
   } >> "$entry_path"
   log "updated $entry_path"
 }
@@ -368,8 +260,6 @@ check_rule() {
   local entry_file="$3"
   local rule_file
   local entry_path
-  local start_marker="<!-- prompt-cache-bootstrap:${name}:begin -->"
-  local legacy_marker="<!-- prompt-cache-bootstrap:begin -->"
 
   rule_file="$(target_path "$rule_path")"
   entry_path="$(target_path "$entry_file")"
@@ -380,10 +270,8 @@ check_rule() {
     warn "missing $rule_file for $name"
   fi
 
-  if [ -f "$entry_path" ] && grep -qF "$start_marker" "$entry_path"; then
+  if [ -f "$entry_path" ] && grep -qF '<!-- prompt-cache-bootstrap:begin -->' "$entry_path"; then
     log "found cache entry block in $entry_path"
-  elif { [ "$name" = "codex" ] || [ "$name" = "claude" ]; } && [ -f "$entry_path" ] && grep -qF "$legacy_marker" "$entry_path"; then
-    log "found legacy cache entry block in $entry_path"
   else
     warn "missing cache entry block in $entry_path"
   fi
@@ -402,31 +290,7 @@ EOF
   if [ -z "${rule_path:-}" ]; then
     rule_path="${agent_dir%/}/rules/common/prompt-cache.md"
   fi
-  printf '%s\t%s\t%s\t%s\t%s\n' "$name" "$agent_dir" "$entry_file" "$rule_path" "${agent_dir%/}/skills"
-}
-
-install_skill() {
-  local skills_dir="$1"
-  local target_skill
-
-  if [ "$WITH_SKILL" != true ]; then
-    return 0
-  fi
-  target_skill="$(target_path "${skills_dir%/}/prompt-cache-optimizer")"
-  if [ -e "$target_skill" ] && [ "$OVERWRITE" != true ]; then
-    log "kept existing $target_skill"
-    return
-  fi
-  if [ -e "$target_skill" ]; then
-    rm -rf "$target_skill"
-  fi
-  mkdir -p "$(dirname "$target_skill")"
-  cp -R "$SKILL_DIR" "$target_skill"
-  if [ -n "$PROFILE_ROOT" ] && [ -d "$PROFILE_ROOT" ]; then
-    cp -R "$PROFILE_ROOT" "$target_skill/profiles"
-  fi
-  chmod +x "$target_skill/scripts/prompt-cache-bootstrap.sh"
-  log "installed $target_skill"
+  printf '%s\t%s\t%s\t%s\n' "$name" "$agent_dir" "$entry_file" "$rule_path"
 }
 
 run_profile() {
@@ -435,11 +299,9 @@ run_profile() {
   local agent_dir="$3"
   local entry_file="$4"
   local rule_path="$5"
-  local skills_dir="$6"
 
   if [ "$action" = "apply" ]; then
     install_rule "$name" "$rule_path" "$entry_file" "$rule_path"
-    install_skill "$skills_dir"
   else
     check_rule "$name" "$rule_path" "$entry_file"
   fi
@@ -447,18 +309,20 @@ run_profile() {
 
 run_profiles() {
   local action="$1"
-  local spec name agent_dir entry_file rule_path skills_dir
+  local spec name agent_dir entry_file rule_path
 
-  while IFS=$'\t' read -r name agent_dir entry_file rule_path skills_dir; do
-    [ -n "${name:-}" ] || continue
-    run_profile "$action" "$name" "$agent_dir" "$entry_file" "$rule_path" "$skills_dir"
-  done < <(selected_profile_specs)
+  if platform_enabled codex; then
+    run_profile "$action" "codex" ".codex" "CODEBUDDY.md" ".codebuddy/rules/common/prompt-cache.md"
+  fi
+  if platform_enabled claude; then
+    run_profile "$action" "claude" ".claude" "CLAUDE.md" ".claude/rules/common/prompt-cache.md"
+  fi
   if [ "${#CUSTOM_AGENTS[@]}" -gt 0 ]; then
     for spec in "${CUSTOM_AGENTS[@]}"; do
-      IFS=$'\t' read -r name agent_dir entry_file rule_path skills_dir <<EOF
+      IFS=$'\t' read -r name agent_dir entry_file rule_path <<EOF
 $(parse_custom_agent "$spec")
 EOF
-      run_profile "$action" "$name" "$agent_dir" "$entry_file" "$rule_path" "$skills_dir"
+      run_profile "$action" "$name" "$agent_dir" "$entry_file" "$rule_path"
     done
   fi
 }
@@ -481,15 +345,17 @@ scan_prompts() {
   local prompt_dir
   local found=0
   local prompt_dirs=("$root/prompts")
-  local spec name agent_dir entry_file rule_path skills_dir
+  local spec name agent_dir entry_file rule_path
 
-  while IFS=$'\t' read -r name agent_dir entry_file rule_path skills_dir; do
-    [ -n "${name:-}" ] || continue
-    prompt_dirs+=("$root/${agent_dir%/}/prompts")
-  done < <(selected_profile_specs)
+  if platform_enabled codex; then
+    prompt_dirs+=("$root/.co""dex/prompts")
+  fi
+  if platform_enabled claude; then
+    prompt_dirs+=("$root/.claude/prompts")
+  fi
   if [ "${#CUSTOM_AGENTS[@]}" -gt 0 ]; then
     for spec in "${CUSTOM_AGENTS[@]}"; do
-      IFS=$'\t' read -r name agent_dir entry_file rule_path skills_dir <<EOF
+      IFS=$'\t' read -r name agent_dir entry_file rule_path <<EOF
 $(parse_custom_agent "$spec")
 EOF
       prompt_dirs+=("$root/${agent_dir%/}/prompts")
@@ -513,18 +379,10 @@ EOF
 
 if [ "$MODE" = "apply" ]; then
   run_profiles apply
-  if [ "$WITH_OBSERVABILITY" = true ]; then
-    install_observability
-  else
-    log "observability not selected; skipped /.llm/prompt-cache"
-  fi
+  install_observability
   log "installation complete; run --check to review the project"
 else
   run_profiles check
-  if [ "$WITH_OBSERVABILITY" = true ]; then
-    check_observability
-  else
-    log "observability not selected; skipped /.llm/prompt-cache check"
-  fi
+  check_observability
   scan_prompts "$TARGET_DIR"
 fi

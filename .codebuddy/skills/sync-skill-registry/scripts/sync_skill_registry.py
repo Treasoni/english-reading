@@ -21,63 +21,27 @@ from __future__ import annotations
 
 import argparse
 import json
-import pathlib
 import re
-import shutil
+import pathlib
 import sys
 
 SCRIPT_DERIVED_SKILL_DIR = pathlib.Path(__file__).resolve().parent.parent.parent  # e.g. .claude/skills/
 SCRIPT_DERIVED_INVOCATION_FILE = SCRIPT_DERIVED_SKILL_DIR.parent / "rules" / "common" / "skill-invocation.md"
-SOURCE_SKILL_DIR = pathlib.Path(__file__).resolve().parent.parent
-PROFILE_ROOT = SOURCE_SKILL_DIR / "profiles"
-if not PROFILE_ROOT.is_dir():
-    PROFILE_ROOT = pathlib.Path(__file__).resolve().parents[3] / "profiles"
 
-
-def parse_flat_yaml(path: pathlib.Path) -> dict[str, str]:
-    """Read the repository's scalar-only profile format without PyYAML."""
-    values: dict[str, str] = {}
-    for raw_line in path.read_text(encoding="utf-8").splitlines():
-        line = raw_line.strip()
-        if not line or line.startswith("#") or ":" not in line:
-            continue
-        key, value = line.split(":", 1)
-        values[key.strip()] = value.strip().strip('"\'')
-    return values
-
-
-def load_agent_profiles() -> dict[str, dict[str, str]]:
-    profiles: dict[str, dict[str, str]] = {}
-    for path in sorted(PROFILE_ROOT.glob("*.yaml")):
-        values = parse_flat_yaml(path)
-        name = values.get("name", path.stem)
-        skills_dir = values.get("skills_dir")
-        rules_dir = values.get("rules_dir")
-        if not skills_dir or not rules_dir:
-            continue
-        profiles[name] = {
-            "skills_dir": skills_dir,
-            "registry_file": values.get("skill_registry") or f"{rules_dir}/common/skill-invocation.md",
-        }
-    if profiles:
-        return profiles
-    return {
-        "codex": {
-            "skills_dir": ".agents/skills",
-            "registry_file": ".codex/rules/common/skill-invocation.md",
-        },
-        "claude": {
-            "skills_dir": ".claude/skills",
-            "registry_file": ".claude/rules/common/skill-invocation.md",
-        },
-        "generic": {
-            "skills_dir": ".agent/skills",
-            "registry_file": ".agent/rules/common/skill-invocation.md",
-        },
-    }
-
-
-AGENT_PROFILES = load_agent_profiles()
+AGENT_PROFILES = {
+    "codex": {
+        "skills_dir": ".codebuddy/skills",
+        "registry_file": ".codebuddy/rules/common/skill-invocation.md",
+    },
+    "claude": {
+        "skills_dir": ".claude/skills",
+        "registry_file": ".claude/rules/common/skill-invocation.md",
+    },
+    "generic": {
+        "skills_dir": ".agent/skills",
+        "registry_file": ".agent/rules/common/skill-invocation.md",
+    },
+}
 
 # 已知技能的默认分类回退（用于 symlink 技能或未声明 category 的情况）
 FALLBACK_CATEGORIES = {
@@ -413,11 +377,6 @@ def parse_args(argv=None):
         help="如果注册表文件不存在，则创建最小骨架。",
     )
     parser.add_argument(
-        "--with-skill",
-        action="store_true",
-        help="将 sync-skill-registry skill 复制到所选 profile 的 skills 目录；已有目录保留。",
-    )
-    parser.add_argument(
         "--dry-run",
         action="store_true",
         help="仅预览变更，不写入文件",
@@ -468,25 +427,6 @@ def registry_skeleton_text(list_heading: str, next_heading: str) -> str:
     )
 
 
-def install_skill(skills_dir: pathlib.Path, dry_run: bool) -> None:
-    """Copy this self-contained skill before scanning it into the registry."""
-    target = skills_dir / SOURCE_SKILL_DIR.name
-    if target.resolve() == SOURCE_SKILL_DIR.resolve():
-        print(f"跳过已在安装目录中的 skill: {target}")
-        return
-    if target.exists():
-        print(f"跳过已有 skill: {target}")
-        return
-    if dry_run:
-        print(f"Dry run: 将复制 skill: {target}")
-        return
-    skills_dir.mkdir(parents=True, exist_ok=True)
-    shutil.copytree(SOURCE_SKILL_DIR, target)
-    if PROFILE_ROOT.is_dir():
-        shutil.copytree(PROFILE_ROOT, target / "profiles")
-    print(f"已复制 skill: {target}")
-
-
 def create_registry_skeleton(path: pathlib.Path, list_heading: str, next_heading: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(registry_skeleton_text(list_heading, next_heading), encoding="utf-8")
@@ -496,9 +436,6 @@ def main():
     args = parse_args()
     skills_dir, invocation_file = default_paths(args)
     text = None
-
-    if args.with_skill:
-        install_skill(skills_dir, args.dry_run)
 
     if not invocation_file.exists():
         if args.create:
@@ -614,7 +551,7 @@ def main():
 
     # Step 10: Write back
     invocation_file.write_text(new_text, encoding="utf-8")
-    print(f"\n[OK] 已更新 {invocation_file}")
+    print(f"\n✓ 已更新 {invocation_file}")
 
     if added_names or removed_names:
         print("\n提示：如果同一项目有多个 agent profile，请同步其他 profile 的技能目录或注册表。")

@@ -1,0 +1,22 @@
+apiVersion: agent-platform/v1
+kind: Skill
+metadata:
+  name: manifest-platform
+  version: 0.2.0
+  description: "Install, configure, migrate, and validate the portable agent manifest registry."
+spec:
+  entrypoint: SKILL.md
+  capabilities:
+    - manifest.install
+    - manifest.validate
+    - manifest.migrate
+    - manifest.portable-install
+  permissions:
+    filesystem: write
+    network: none
+    subprocess: allow
+    git: none
+  dependsOn: []
+  lifecycle:
+    discoverable: true
+    deprecated: false

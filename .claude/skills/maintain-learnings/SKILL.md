@@ -1,7 +1,6 @@
 ---
 name: maintain-learnings
-category: 系统维护
-description: 维护 .learnings/ 经验库，把过多或反复出现的学习记录、错误日志、铁律失效问题聚类诊断，追溯并修改对应 skill、模板、校验脚本或项目规则；修复并验证后再归档或移除已解决记录；同时检查 .agents/skills 与 .claude/skills 的共享功能同步，防止更新 Codex 后 Claude Code 丢失对应能力。用户提到 learnings 太多、错误反复犯、清理经验库、维护自我学习、压缩错误日志、从错误中修技能、同步 Codex 和 Claude Code 技能时触发。
+description: 维护 .learnings/ 经验库，把过多或反复出现的学习记录、错误日志、铁律失效问题聚类诊断，追溯并修改对应 skill、模板、校验脚本或项目规则；修复并验证后再归档或移除已解决记录；同时检查 .claude/skills 与 .claude/skills 的共享功能同步，防止更新 Codex 后 Claude Code 丢失对应能力。用户提到 learnings 太多、错误反复犯、清理经验库、维护自我学习、压缩错误日志、从错误中修技能、同步 Codex 和 Claude Code 技能时触发。
 ---
 
 # maintain-learnings（经验库维护）
@@ -55,11 +54,11 @@ python3 .claude/skills/maintain-learnings/scripts/audit_learnings.py --root .
 
 - skill 问题：`.claude/skills/<skill>/SKILL.md`
 - skill 模板问题：`.claude/skills/<skill>/references/`
-- 项目级规则问题：`CLAUDE.md` / `AGENTS.md`
+- 项目级规则问题：`CLAUDE.md`
 - Claude Code hook 问题：`.claude/hooks/`
 - Obsidian 格式问题：优先检查 `.claude/skills/obsidian-markdown/`，再检查具体业务 skill
 
-如果准备同步 Codex 语义，必须先 `diff` 比对 `.claude/skills/<skill>/` 与 `.agents/skills/<skill>/`，保留 Claude Code 专属命令、Hook、工具说明和平台限制；不要用 Codex 版本覆盖 `.claude/`。
+如果准备同步 Claude Code 语义，必须先 `diff` 比对 `.claude/skills/<skill>/` 与 `.claude/skills/<skill>/`，保留 Claude 专属说明；不要用 Codex 版本覆盖 `.claude/`。
 
 ### Step 4: 修改机制，而不是只写提醒
 
@@ -68,7 +67,7 @@ python3 .claude/skills/maintain-learnings/scripts/audit_learnings.py --root .
 - 在对应 `SKILL.md` 中加入明确步骤、硬性约束或验证 checklist。
 - 修改 reference 模板，使正确格式自然生成。
 - 添加或修改校验脚本，让错误能被自动发现。
-- 更新 `CLAUDE.md` / `AGENTS.md` 中的通用规则，但只用于跨 skill 的铁律。
+- 更新 `CLAUDE.md` 中的通用规则，但只用于跨 skill 的铁律。
 
 不要只把“下次注意”追加到 `.learnings/`。如果没有源头修改，不能清理对应错误记录。
 
@@ -131,7 +130,7 @@ python3 .claude/skills/maintain-learnings/scripts/sync_platform_skills.py --root
 - 不要为了“变短”直接清空 `.learnings/`。
 - 不要归档未修复的问题。
 - 不要把多个不同根因的错误合并成一条模糊规则。
-- 不要把只适用于某个 skill 的细节提升到 `CLAUDE.md` / `AGENTS.md`。
+- 不要把只适用于某个 skill 的细节提升到 `CLAUDE.md`。
 - 不要在未比对差异的情况下修改 `.claude/`。
 
 ## 完成汇报

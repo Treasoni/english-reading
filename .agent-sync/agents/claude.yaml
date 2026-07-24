@@ -1,0 +1,13 @@
+id: claude
+name: Claude Code
+canonical: false
+mcp_format: project-json
+paths:
+  skills: .claude/skills
+  rules: .claude/rules
+  hooks: .claude/hooks
+  hook_config: .claude/settings.json
+  scripts: .claude/scripts
+  workflows: .claude/workflows
+  instructions: CLAUDE.md
+  mcp: .mcp.json

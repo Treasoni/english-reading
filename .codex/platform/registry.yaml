@@ -1,0 +1,27 @@
+apiVersion: agent-platform/v1
+discovery:
+  kindDirectories:
+    Workflow: .codex/workflows
+    Skill: .agents/skills
+    Subagent: .codex/agents
+    Hook: .codex/hooks
+policy:
+  hooksConfig: .codex/hooks.json
+  allowedPermissions:
+    filesystem:
+      - none
+      - read
+      - write
+    network:
+      - none
+      - allow
+    subprocess:
+      - none
+      - allow
+    git:
+      - none
+      - read
+      - write
+  hookEvents:
+    - SessionStart
+    - Stop

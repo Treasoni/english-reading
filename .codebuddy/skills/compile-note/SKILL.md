@@ -80,16 +80,18 @@ sources:
    - 从 formatted-article.md 中读取正文内容，**直接插入到当前笔记中**
    - 去除源文件的 YAML frontmatter（第一个 `---` 到第二个 `---` 之间），只保留正文
    - 保留原文的所有格式（标题、粗体、高亮、引用等）
+   - **长难句分析 callout 保留在原位**：若 formatted-article.md 中包含 `> [!abstract]- 长难句分析` callout（由 analyze-sentence 插入），保持其在对应段落之后的位置，**不要**将其移出或汇总到其他章节
 
 4. **`## 翻译对照`** — 中英对照翻译（来自 translate）：
    - 从 translation.md 中读取内容，去 frontmatter 后直接插入
    - 保留中英对照格式和 `> [!note]` 翻译说明
    - 若文件中包含行内 `> [!abstract]- 长难句分析` callout（由 analyze-sentence 技能插入），保留在原位
 
-5. **`## 长难句分析`** — 句子结构分析：
-   - 若 sentence-analysis.md 存在：读取内容，去 frontmatter 后直接插入
-   - 若不存在但文章原文/翻译中包含 `> [!abstract]- 长难句分析` callout：在此章节汇总列出所有 callout，原文中的 callout 可保留或去除重复
-   - 若以上均不存在：输出占位提示 `> [!note] 提示：使用 /analyze-sentence 添加长难句分析内容`
+5. **`## 长难句分析`** — 句子结构分析（仅 sentence-analysis.md 独立内容）：
+   - **不在此章节汇总 callout**：formatted-article.md 或 translation.md 中的内联 callout 已保留在各自章节中，不在本处重复
+   - 若 sentence-analysis.md 存在且包含 formatted-article.md 中未涉及的补充分析内容：读取后插入本章节
+   - 若 sentence-analysis.md 存在但其内容已全部内联在 formatted-article.md 中：跳过本条目，不在笔记中创建此章节
+   - 若 sentence-analysis.md 不存在且原文/翻译中无 callout：输出占位提示 `> [!note] 提示：使用 /analyze-sentence 添加长难句分析内容`
 
 6. **`## 语法要点`** — 结构化语法笔记（来自 organize-grammar）：
    - 从 grammar-notes.md 中读取内容，去 frontmatter 后直接插入
@@ -143,6 +145,7 @@ sources:
 
 - **直接包含源内容**：所有源文件内容直接嵌入到最终笔记中，不使用 `![[wikilink]]`。笔记完全自包含，不依赖外部文件的 Obsidian 链接解析。读取源文件后去除 YAML frontmatter，仅保留正文。
 - **`<!-- VOCABULARY_SLOT -->`**：HTML 注释不会被 Obsidian 显示，但 Skill 5 可以准确定位插入位置。
+- **长难句分析保持内联**：formatted-article.md 或 translation.md 中的 `> [!abstract]-` callout 保留在原位（文章原文 / 翻译对照章节），不单独汇总到长难句分析章节。
 - **遵循格式参考**：章节命名和结构对标 `C:\办公\Study-Notes\AI实战` 下的笔记标准（背景、心得、延伸、思考题）。
 
 ## 输出格式
