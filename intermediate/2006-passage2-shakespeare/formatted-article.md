@@ -344,7 +344,43 @@ Hilton is building its own hotel there, which you may be sure will be decorated 
 >
 > **考点提示**：本句核心语法点是**定语从句中的插入语**。关系代词 which 引导非限制性定语从句修饰 hotel，但从句的主谓之间插入了 you may be sure，使得 which 与 will be decorated 被隔开。识别方法：去掉插入语 you may be sure，还原为 which will be decorated...and will be...，即可看清定语从句的完整结构。这种"引导词 + 插入语 + 谓语"的句式在考研阅读中常见，是快速抓取主干需要训练的识别能力。
 
-Anyway, the townsfolk can't understand why the Royal Shakespeare Company needs a subsidy. (The theatre has broken **attendance records** for three years in a row. Last year its 1,431 seats were 94 percent occupied all year long and this year they'll do better.) The reason, of course, is that costs have **rocketed** and ticket prices have stayed low.
+Anyway, the townsfolk can't understand why the Royal Shakespeare Company needs a subsidy. (The theatre has broken **attendance records** for three years in a row. Last year its 1,431 seats were 94 percent occupied all year long and this year they'll do better.)
+
+The reason, of course, is that costs have **rocketed** and ticket prices have stayed low.
+
+> [!abstract]- 长难句分析
+> **原句**：The reason, of course, is that costs have **rocketed** and ticket prices have stayed low.
+>
+> **主干提取**：主系表结构 + that 表语从句
+>
+> | 层级 | 结构 | 内容 |
+> |------|------|------|
+> | 主句 | S + V + C | The reason is + that-clause |
+> | 表语从句 | S1 + V1 + and + S2 + V2 | costs have rocketed and ticket prices have stayed low |
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/标记 | 修饰对象 | 说明 |
+> |------|------------|---------|------|
+> | 表语从句 | that | is | 说明 reason 的具体内容 |
+> | 插入语 | 逗号 | is | of course，语气插入，表"当然" |
+> | 并列连词 | and | 两个从句分句 | 连接两个并列原因 |
+>
+> **结构图解**：
+>
+> ```
+> 主句: [S: The reason] + [V: is] + [C: that-clause]
+> │   └── 插入语: [, of course,]
+> │
+> └── 表语从句 (that 引导):
+>     ├── 分句 1: [S: costs] + [V: have rocketed]
+>     └── and (并列)
+>         └── 分句 2: [S: ticket prices] + [V: have stayed low]
+> ```
+>
+> **参考译文**：原因当然是成本飞涨而票价依然维持在低水平。
+>
+> **考点提示**：1) that 引导的表语从句——that 在从句中不充当成分，只起连接作用，不可省略；2) 表语从句内部的 and 并列——两个并列分句说明"reason"的两个方面（成本涨 + 票价低 = 需要补贴），考研阅读中表语从句常用来解释前文提出的问题；3) , of course, 插入语——表示这层因果关系显而易见，呼应上文的"上座率高但仍然需要补贴"的矛盾。
 
 It would be a shame to raise prices too much because it would drive away the young people who are Stratford's most attractive **clientele**. They come entirely for the plays, not the sights. They all seem to look alike (though they come from all over)—lean, pointed, dedicated faces, wearing jeans and sandals, eating their buns and bedding down for the night on the flagstones outside the theatre to buy the 20 seats and 80 standing-room tickets held for the sleepers and sold to them when the box office opens at 10:30 a.m.
 
