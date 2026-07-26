@@ -37,6 +37,7 @@ Then:
    <agent-dir>/scripts/todo-state.sh "${WORKFLOW_STATE_FILE}" skip P2 "not needed"
    <agent-dir>/scripts/todo-state.sh "${WORKFLOW_STATE_FILE}" block P3 "waiting for user input"
    ```
+   On Windows, use `todo-state.cmd` or `python todo-state.py` with the same arguments.
 
 ## Recommended Layout
 
@@ -56,6 +57,9 @@ Use separate files for workflow definitions and workflow runs:
   rules/
     workflow-routing.md
   scripts/
+    todo-state.py
+    todo-state.cmd
+    todo-state.sh
     sync-workflow-routing.sh
 workspace/
   workflow-runs/
@@ -114,6 +118,7 @@ The first command regenerates only the marked block in `<agent-dir>/rules/workfl
 - `block PN` marks an open phase in progress, writes `current_status: blocked`, and records a reason; completed and skipped phases are terminal.
 - After `complete` or `skip`, the script advances `current_phase` to the next `⬜ 未开始` phase, or to `done` when no pending phase remains.
 - `validate` checks required frontmatter, unique and ordered phase lines, recovery metadata consistency, and workflow-specific artifacts for completed phases.
+- `todo-state.py` is the portable implementation; `todo-state.sh` and `todo-state.cmd` are platform wrappers.
 
 ## When Retrofitting A Project
 

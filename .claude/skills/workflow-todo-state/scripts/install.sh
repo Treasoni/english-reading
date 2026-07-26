@@ -200,15 +200,21 @@ backup_existing_path() {
 
 install_state_script() {
   local target_dir="${TARGET_PROJECT}/${SCRIPTS_DIR}"
-  local target_script="${target_dir}/todo-state.sh"
+  local script_name
+  local source_script
+  local target_script
 
   mkdir -p "$target_dir"
-  if ! backup_existing_file "$target_script" "${SCRIPT_DIR}/todo-state.sh"; then
-    return
-  fi
-  cp "${SCRIPT_DIR}/todo-state.sh" "$target_script"
-  chmod +x "$target_script"
-  echo "installed: ${target_script}"
+  for script_name in todo-state.sh todo-state.py todo-state.cmd; do
+    source_script="${SCRIPT_DIR}/${script_name}"
+    target_script="${target_dir}/${script_name}"
+    if backup_existing_file "$target_script" "$source_script"; then
+      cp "$source_script" "$target_script"
+      echo "installed: ${target_script}"
+    fi
+  done
+
+  chmod +x "${target_dir}/todo-state.sh" "${target_dir}/todo-state.py"
 }
 
 install_routing_sync_script() {
@@ -253,7 +259,7 @@ install_skill() {
   if [ -n "$PROFILE_ROOT" ] && [ -d "$PROFILE_ROOT" ]; then
     cp -R "$PROFILE_ROOT" "$target_skill/profiles"
   fi
-  chmod +x "${target_skill}/scripts/todo-state.sh" "${target_skill}/scripts/install.sh"
+  chmod +x "${target_skill}/scripts/todo-state.sh" "${target_skill}/scripts/todo-state.py" "${target_skill}/scripts/install.sh"
   echo "installed: ${target_skill}"
 }
 
@@ -303,6 +309,7 @@ Named workflow state files are the source of truth for every routed workflow.
 - If the route is ambiguous, ask the user before acting.
 - Read the active workflow state file before starting any phase; do not skip prerequisite phases.
 - Change phase state only through `__SCRIPTS_DIR__/todo-state.sh`.
+- On Windows, use `__SCRIPTS_DIR__/todo-state.cmd` or `python __SCRIPTS_DIR__/todo-state.py` with the same arguments.
 - Use one unique phase status line per phase, for example `> [P0] ⬜ 未开始`.
 - On resume after interruption, inspect the YAML frontmatter and current phase before acting.
 - Each workflow directory must contain a `routing.yaml`. After creating, changing, renaming, or deleting a workflow, run `__SCRIPTS_DIR__/sync-workflow-routing.sh`; the update is incomplete until `__SCRIPTS_DIR__/sync-workflow-routing.sh --check` passes.
@@ -368,4 +375,5 @@ Next:
   3. Run ${SCRIPTS_DIR}/sync-workflow-routing.sh.
   4. Create a named state file under workspace/workflow-runs/{task}.workflow.md.
   5. Test: ${SCRIPTS_DIR}/todo-state.sh workspace/workflow-runs/{task}.workflow.md start P0
+     Windows: python ${SCRIPTS_DIR}/todo-state.py workspace/workflow-runs/{task}.workflow.md start P0
 EOF

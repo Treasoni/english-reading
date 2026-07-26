@@ -29,6 +29,7 @@ workspace/workflow-runs/*.workflow.md                   # active or historical r
 - Name state files after the task or feature, not `todo.md`, unless the project has exactly one workflow.
 - Every phase must read the active state file before acting.
 - Phase state must be changed only through `.codex/scripts/todo-state.sh`.
+- On Windows, use `.codex/scripts/todo-state.cmd` or `python .codex/scripts/todo-state.py` with the same arguments.
 - Before reporting completion for a routed workflow, run `.codex/scripts/todo-state.sh <state-file> validate`; failed validation blocks completion.
 - Each workflow directory must have a `routing.yaml`; it is the source of truth for the generated table above.
 - After creating, changing, renaming, or deleting a workflow, run `.codex/scripts/sync-workflow-routing.sh`. Use `.codex/scripts/sync-workflow-routing.sh --check` in pre-commit or CI.

@@ -84,6 +84,7 @@ Named workflow state files are the source of truth for every routed workflow.
 - If the route is ambiguous, ask the user before acting.
 - Read the active workflow state file before starting any phase; do not skip prerequisite phases.
 - Change phase state only through `.codex/scripts/todo-state.sh`.
+- On Windows, use `.codex/scripts/todo-state.cmd` or `python .codex/scripts/todo-state.py` with the same arguments.
 - Before reporting a routed workflow complete, run `.codex/scripts/todo-state.sh <state-file> validate`; failed validation blocks completion.
 - Use one unique phase status line per phase, for example `> [P0] ⬜ 未开始`.
 - On resume after interruption, inspect the YAML frontmatter and current phase before acting.

@@ -21,8 +21,10 @@ Manual fallback:
 ```bash
 mkdir -p /path/to/target-project/.agent/scripts
 cp skills/workflow-todo-state/scripts/todo-state.sh /path/to/target-project/.agent/scripts/todo-state.sh
+cp skills/workflow-todo-state/scripts/todo-state.py /path/to/target-project/.agent/scripts/todo-state.py
+cp skills/workflow-todo-state/scripts/todo-state.cmd /path/to/target-project/.agent/scripts/todo-state.cmd
 cp skills/workflow-todo-state/scripts/sync-workflow-routing.sh /path/to/target-project/.agent/scripts/sync-workflow-routing.sh
-chmod +x /path/to/target-project/.agent/scripts/todo-state.sh /path/to/target-project/.agent/scripts/sync-workflow-routing.sh
+chmod +x /path/to/target-project/.agent/scripts/todo-state.sh /path/to/target-project/.agent/scripts/todo-state.py /path/to/target-project/.agent/scripts/sync-workflow-routing.sh
 ```
 
 ## Recommended Layout
@@ -38,12 +40,15 @@ Use named workflow definitions and named run state files:
 .agent/rules/
   workflow-routing.md
 .agent/scripts/
+  todo-state.py
+  todo-state.cmd
+  todo-state.sh
   sync-workflow-routing.sh
 workspace/workflow-runs/
   payment-refactor.workflow.md
 ```
 
-`todo-state.sh` accepts any Markdown state file path, so the run file does not need to be named `todo.md`.
+`todo-state.py` accepts any Markdown state file path, so the run file does not need to be named `todo.md`. Use `todo-state.sh` on POSIX shells and `todo-state.cmd` or `python todo-state.py` on Windows.
 
 ## Register Workflows From Metadata
 
@@ -110,9 +115,11 @@ Before any action that changes project files, runs project commands, or calls ex
    <agent-dir>/scripts/todo-state.sh "${WORKFLOW_STATE_FILE}" skip P3 "optional phase not needed"
    <agent-dir>/scripts/todo-state.sh "${WORKFLOW_STATE_FILE}" block P3 "waiting for confirmation"
    ```
+   On Windows, use `python <agent-dir>/scripts/todo-state.py "${WORKFLOW_STATE_FILE}" start P3` or `<agent-dir>\scripts\todo-state.cmd`.
 
 ## Validation Checklist
 
+- `python -m py_compile <agent-dir>/scripts/todo-state.py`
 - `bash -n <agent-dir>/scripts/todo-state.sh`
 - Start and complete P0 on a copied workflow state file.
 - Try starting P2 before P1 is complete; it should fail.

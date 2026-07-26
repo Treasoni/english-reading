@@ -3,6 +3,8 @@ set -u
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 SCRIPT="$ROOT_DIR/.codex/scripts/todo-state.sh"
+PY_SCRIPT="$ROOT_DIR/.codex/scripts/todo-state.py"
+PYTHON_BIN="${PYTHON:-python3}"
 TEMPLATE="$ROOT_DIR/.codex/workflows/reading-note-generation/state-template.md"
 TEST_ROOT="$(mktemp -d "${TMPDIR:-/tmp}/todo-state-test.XXXXXX")"
 STATE_DIR="$TEST_ROOT/workspace/workflow-runs"
@@ -121,9 +123,22 @@ test_validate_accepts_complete_single_reading_note_run() {
   assert_success "valid run validates" "$SCRIPT" "$state" validate
 }
 
+test_python_entry_supports_cross_platform_state_flow() {
+  local state
+  state="$(make_state python-run)"
+  write_required_artifacts
+
+  assert_success "python entry starts P0" "$PYTHON_BIN" "$PY_SCRIPT" --root "$TEST_ROOT" "$state" start P0
+  assert_success "python entry completes P0" "$PYTHON_BIN" "$PY_SCRIPT" --root "$TEST_ROOT" "$state" complete P0
+  assert_success "python entry starts P1" "$PYTHON_BIN" "$PY_SCRIPT" --root "$TEST_ROOT" "$state" start P1
+  assert_success "python entry completes P1" "$PYTHON_BIN" "$PY_SCRIPT" --root "$TEST_ROOT" "$state" complete P1
+  assert_success "python entry validates" "$PYTHON_BIN" "$PY_SCRIPT" --root "$TEST_ROOT" "$state" validate
+}
+
 test_validate_rejects_out_of_order_phase
 test_complete_rejects_missing_artifact
 test_validate_accepts_complete_single_reading_note_run
+test_python_entry_supports_cross_platform_state_flow
 
 if [ "$FAILURES" -gt 0 ]; then
   printf '%s test(s) failed\n' "$FAILURES" >&2

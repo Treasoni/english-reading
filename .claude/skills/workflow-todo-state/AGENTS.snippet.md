@@ -11,7 +11,7 @@
    - 查找 `workspace/workflow-runs/` 中该任务的已有 run，存在则恢复；
    - 不存在则由 `state-template.md` 创建 run；
    - 读取 run 的 YAML frontmatter 与当前 phase；
-   - 使用 `<agent-dir>/scripts/todo-state.sh` 将当前 phase 标记为 `start`；
+   - 使用 `<agent-dir>/scripts/todo-state.sh` 将当前 phase 标记为 `start`；Windows 使用 `<agent-dir>/scripts/todo-state.cmd` 或 `python <agent-dir>/scripts/todo-state.py`；
    - 只执行该 phase 允许的操作。
 4. 在当前 phase 完成、跳过或阻塞前，不得执行下一 phase。
 5. 无法确定是否命中时，必须先询问用户；不得以“不确定”为由绕过工作流。

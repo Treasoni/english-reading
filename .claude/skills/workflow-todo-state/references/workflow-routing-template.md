@@ -27,6 +27,7 @@ workspace/workflow-runs/*.workflow.md                   # active or historical r
 - Name state files after the task or feature, not `todo.md`, unless the project has exactly one workflow.
 - Every phase must read the active state file before acting.
 - Phase state must be changed only through `__SCRIPTS_DIR__/todo-state.sh`.
+- On Windows, use `__SCRIPTS_DIR__/todo-state.cmd` or `python __SCRIPTS_DIR__/todo-state.py` with the same arguments.
 - Each workflow directory must have a `routing.yaml`; it is the source of truth for the generated table above.
 - After creating, changing, renaming, or deleting a workflow, run `__SCRIPTS_DIR__/sync-workflow-routing.sh`. Use `__SCRIPTS_DIR__/sync-workflow-routing.sh --check` in pre-commit or CI.
 
