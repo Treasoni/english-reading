@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  width: 750px; height: 1000px;
+  background: #faf8f3;
+  font-family: -apple-system, "PingFang SC", "Helvetica Neue", sans-serif;
+  padding: 40px 36px;
+  overflow: hidden;
+}
+.header {
+  display: flex; align-items: center; gap: 10px;
+  margin-bottom: 24px; padding-bottom: 16px;
+  border-bottom: 2px solid #2c3e50;
+}
+.header .tag {
+  background: #8e44ad; color: #fff;
+  font-size: 12px; font-weight: 600;
+  padding: 4px 12px; border-radius: 4px;
+}
+.header h1 {
+  font-size: 20px; color: #2c3e50; font-weight: 700;
+}
+.section-title {
+  font-size: 14px; color: #2c3e50; font-weight: 700;
+  margin-bottom: 12px;
+  display: flex; align-items: center; gap: 8px;
+}
+.section-title .num {
+  background: #8e44ad; color: #fff;
+  width: 24px; height: 24px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 12px;
+}
+.word-box {
+  background: #fff; border-radius: 8px;
+  padding: 16px; margin-bottom: 22px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+}
+.word-box .words {
+  display: flex; flex-wrap: wrap; gap: 8px;
+  margin-bottom: 16px;
+}
+.word-box .word-chip {
+  background: #f0e6f6; color: #8e44ad;
+  font-size: 12px; font-weight: 600;
+  padding: 6px 12px; border-radius: 16px;
+}
+.exercise {
+  font-size: 13.5px; line-height: 2.2; color: #2c3e50;
+}
+.exercise .blank {
+  display: inline-block;
+  border-bottom: 2px solid #8e44ad;
+  min-width: 100px; text-align: center;
+  color: #8e44ad; font-weight: 600;
+}
+.exercise .num-label {
+  color: #95a5a6; font-weight: 700;
+  margin-right: 6px;
+}
+.answer-box {
+  background: #eafaf1; border-left: 4px solid #27ae60;
+  padding: 14px 16px; border-radius: 0 6px 6px 0;
+  margin-bottom: 22px;
+}
+.answer-box .answer-title {
+  font-size: 13px; color: #27ae60; font-weight: 700;
+  margin-bottom: 8px;
+}
+.answer-box .answer-item {
+  font-size: 13px; line-height: 1.9; color: #2c3e50;
+}
+.answer-box .answer-item b { color: #27ae60; }
+.translate-section {
+  background: #fff; border-radius: 8px;
+  padding: 16px; margin-bottom: 22px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+.translate-section h3 {
+  font-size: 14px; color: #2c3e50; margin-bottom: 12px;
+  font-weight: 700;
+}
+.translate-item {
+  font-size: 13px; line-height: 1.9; color: #2c3e50;
+  margin-bottom: 8px;
+}
+.translate-item .arrow { color: #e74c3c; margin: 0 6px; }
+.translate-item b { color: #3498db; }
+.context-section {
+  background: #fff; border-radius: 8px;
+  padding: 16px; box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+.context-section h3 {
+  font-size: 14px; color: #2c3e50; margin-bottom: 12px;
+  font-weight: 700;
+}
+.context-item {
+  font-size: 13px; line-height: 1.8; color: #2c3e50;
+  margin-bottom: 10px;
+}
+.context-item .options {
+  display: flex; gap: 12px; margin-top: 4px;
+  font-size: 12px; color: #7f8c8d;
+}
+.context-item .correct {
+  background: #eafaf1; color: #27ae60;
+  padding: 2px 8px; border-radius: 3px;
+  font-weight: 600;
+}
+.footer {
+  position: absolute; bottom: 20px; left: 36px; right: 36px;
+  display: flex; justify-content: space-between; align-items: center;
+  font-size: 11px; color: #bdc3c7;
+  border-top: 1px solid #ecf0f1; padding-top: 12px;
+}
+.footer .brand { font-weight: 600; color: #95a5a6; }
+</style>
+</head>
+<body>
+<div class="header">
+  <span class="tag">生词练习</span>
+  <h1>选词填空 + 短语翻译</h1>
+</div>
+
+<div class="section-title">
+  <span class="num">1</span> 选词填空（每词限用一次）
+</div>
+<div class="word-box">
+  <div class="words">
+    <span class="word-chip">live off</span>
+    <span class="word-chip">clientele</span>
+    <span class="word-chip">rocketed</span>
+    <span class="word-chip">subsidy</span>
+    <span class="word-chip">frankly</span>
+    <span class="word-chip">cries poor</span>
+    <span class="word-chip">sightseers</span>
+    <span class="word-chip">take in</span>
+    <span class="word-chip">wing</span>
+  </div>
+  <div class="exercise">
+    <span class="num-label">1.</span>Many college graduates have to <span class="blank">______</span> their parents until they find a job.<br>
+    <span class="num-label">2.</span>The restaurant's regular <span class="blank">______</span> includes many celebrities.<br>
+    <span class="num-label">3.</span>The company <span class="blank">______</span> to avoid paying taxes despite plenty of revenue.<br>
+    <span class="num-label">4.</span>The price of housing has <span class="blank">______</span> in recent years.<br>
+    <span class="num-label">5.</span>I must <span class="blank">______</span> say that I don't agree with your opinion.<br>
+  </div>
+</div>
+
+<div class="answer-box">
+  <div class="answer-title">答案（折叠展示）</div>
+  <div class="answer-item"><b>1.</b> live off（依靠……生活）</div>
+  <div class="answer-item"><b>2.</b> clientele（顾客群）</div>
+  <div class="answer-item"><b>3.</b> cries poor（哭穷）</div>
+  <div class="answer-item"><b>4.</b> rocketed（飞涨）</div>
+  <div class="answer-item"><b>5.</b> frankly（坦白地）</div>
+</div>
+
+<div class="section-title">
+  <span class="num">2</span> 短语翻译
+</div>
+<div class="translate-section">
+  <div class="translate-item">
+    <b>bedding down for the night on the flagstones</b>
+    <span class="arrow">→</span> 露宿在石板路上过夜
+  </div>
+  <div class="translate-item">
+    <b>break attendance records for three years in a row</b>
+    <span class="arrow">→</span> 连续三年打破上座率纪录
+  </div>
+  <div class="translate-item">
+    <b>take on new responsibilities</b> vs <b>take over the business</b>
+    <span class="arrow">→</span> 承担新责任 vs 接管业务
+  </div>
+</div>
+
+<div class="section-title">
+  <span class="num">3</span> 语境理解（熟词生义）
+</div>
+<div class="context-section">
+  <div class="context-item">
+    "sightseers can <strong>take in</strong> everything and get out of town" 中 take in 的含义：
+    <div class="options">
+      <span>A. 吸收信息</span>
+      <span>B. 欺骗</span>
+      <span>C. 容纳</span>
+      <span class="correct">D. 参观游览 ✓</span>
+    </div>
+  </div>
+  <div class="context-item">
+    "adding a new <strong>wing</strong>" 中 wing 的含义：
+    <div class="options">
+      <span>A. 翅膀</span>
+      <span class="correct">B. 侧翼建筑 ✓</span>
+      <span>C. 飞行</span>
+      <span>D. 派系</span>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <span class="brand">每篇笔记含练习题+答案 · 学完即练</span>
+  <span>27篇精读笔记完整版</span>
+</div>
+</body>
+</html>
