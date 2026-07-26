@@ -14,7 +14,7 @@
 | `digest` | 自我学习阶段。回顾本次学习会话，记录学习心得和错误到 .learnings/，当文件超阈值时自动压缩去重，更新 RULES.md | 自我学习阶段 |
 | `extract-vocabulary` | 扫描整合笔记中加粗的生词，提取去重后生成词汇表，替换笔记中的<!-- VOCABULARY_SLOT -->占位符。原地修改笔记文件，不改变其他内容。 | 扫描整合笔记中加粗的生词，提取去重后生成词汇表，替换笔记中的<!-- VOCAB… |
 | `format-article` | 对英文文章进行美化排版，清理原始格式，添加正确的标题层级、段落分隔和列表结构，输出为规范的Obsidian Markdown格式 | 对英文文章进行美化排版，清理原始格式，添加正确的标题层级、段落分隔和列表结构，输… |
-| `generate-reading-note` | Use when generating a complete 考研英语阅读精读笔记 from an English reading passage | Use when generating a complete 考研英语阅读精读笔… |
+| `generate-reading-note` | Use when generating complete 考研英语阅读精读笔记 from one or many English reading pass… | Use when generating complete 考研英语阅读精读笔记 … |
 | `json-canvas` | Create and edit JSON Canvas files (.canvas) with nodes, edges, groups | Create and edit JSON Canvas files (.canv… |
 | `maintain-learnings` | 维护 .learnings/ 经验库，把过多或反复出现的学习记录、错误日志、铁律失效问题聚类诊断，追溯并修改对应 skill、模板、校验脚本或项目规则； | 维护 .learnings/ 经验库，把过多或反复出现的学习记录、错误日志、铁律… |
 | `manifest-platform` | Install, configure, migrate, and validate a portable manifest registry for ag… | Install, configure, migrate, and validat… |

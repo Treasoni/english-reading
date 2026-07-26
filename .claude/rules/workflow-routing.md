@@ -15,6 +15,7 @@ workspace/workflow-runs/*.workflow.md                   # active or historical r
 <!-- workflow-routing:generated:start -->
 | Workflow ID | Required | When To Use | Positive Triggers | Excludes | Definition | State File Pattern |
 | --- | --- | --- | --- | --- | --- | --- |
+| `reading-note-batch-generation` | yes | Generating complete 考研英语阅读精读笔记 for multiple English reading passages or a source directory | 批量生成考研阅读笔记; 处理大量英语笔记; 多篇精读笔记; batch reading notes; directory reading note generation; fork subagent | single passage only; one sentence analysis only; read-only inspection; vocabulary distinction only | `.claude/workflows/reading-note-batch-generation/workflow.md` | `workspace/workflow-runs/reading-note-batch-{batch_id}.workflow.md` |
 | `reading-note-generation` | yes | Generating complete 考研英语阅读精读笔记 from an English reading passage | 生成考研阅读笔记; 启动精读工作流; 完整精读笔记; reading note generation; generate-reading-note; 排版 翻译 语法 长难句 整合 生词 | single-step translation only; single sentence analysis only; vocabulary distinction only; add reading tip only; read-only inspection | `.claude/workflows/reading-note-generation/workflow.md` | `workspace/workflow-runs/reading-note-{year}-passage{passage}-{topic}.workflow.md` |
 <!-- workflow-routing:generated:end -->
 

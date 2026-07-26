@@ -1,19 +1,22 @@
 ---
 name: generate-reading-note
-description: Use when generating a complete 考研英语阅读精读笔记 from an English reading passage, especially when the user asks to 启动精读工作流, 生成考研阅读笔记, or 串联排版、翻译、语法、长难句、整合、生词提取。
+description: Use when generating complete 考研英语阅读精读笔记 from one or many English reading passages, especially when the user asks to 启动精读工作流, 批量生成考研阅读笔记, 处理大量英语笔记, or 串联排版、翻译、语法、长难句、整合、生词提取。
 ---
 
 # Generate Reading Note
 
-Start or resume the recoverable workflow that turns one English reading passage into a complete 考研英语阅读精读笔记.
+Start or resume the recoverable workflow that turns English reading passages into complete 考研英语阅读精读笔记. Route single-passage requests to the single workflow and multi-passage requests to the batch workflow.
 
 ## When to Use
 
-Use this skill when the user asks for any full-note workflow:
+Use this skill when the user asks for:
 
 - 生成考研阅读笔记
 - 启动精读工作流
 - 完整精读笔记
+- 批量生成考研阅读笔记
+- 处理大量英语笔记
+- 多篇精读笔记
 - 从英文阅读文章生成学习笔记
 - 串联排版、翻译、语法、长难句、整合、生词提取
 
@@ -23,12 +26,28 @@ Do not use this skill for a single isolated step such as only translation, only 
 
 Choose paths by the active runtime:
 
-| Runtime | Routing File | Workflow File | State Script |
-|---------|--------------|---------------|--------------|
-| Codex | `.codex/rules/workflow-routing.md` | `.codex/workflows/reading-note-generation/workflow.md` | `.codex/scripts/todo-state.sh` |
-| Claude Code | `.claude/rules/workflow-routing.md` | `.claude/workflows/reading-note-generation/workflow.md` | `.claude/scripts/todo-state.sh` |
+| Runtime | Routing File | Single Workflow | Batch Workflow | State Script |
+|---------|--------------|-----------------|----------------|--------------|
+| Codex | `.codex/rules/workflow-routing.md` | `.codex/workflows/reading-note-generation/workflow.md` | `.codex/workflows/reading-note-batch-generation/workflow.md` | `.codex/scripts/todo-state.sh` |
+| Claude Code | `.claude/rules/workflow-routing.md` | `.claude/workflows/reading-note-generation/workflow.md` | `.claude/workflows/reading-note-batch-generation/workflow.md` | `.claude/scripts/todo-state.sh` |
 
-Use the same workflow id on both platforms: `reading-note-generation`.
+Workflow ids:
+
+- Single passage: `reading-note-generation`
+- Multiple passages or source directory: `reading-note-batch-generation`
+
+## Workflow Selection
+
+Use `reading-note-generation` when the user provides or refers to one passage.
+
+Use `reading-note-batch-generation` when the request mentions any batch signal:
+
+- multiple passages, many notes, 大量英语笔记, 批量, 多篇
+- a source directory of English reading files
+- a backlog of note generation tasks
+- fork subagent planning for reading notes
+
+If the request could be either single or batch, ask one plain text question: "这是处理一篇文章，还是处理多个文件/一个目录？"
 
 ## Preflight
 
@@ -36,9 +55,9 @@ Before changing files, running project commands, or calling external services:
 
 1. Read `.learnings/RULES.md`, `.learnings/LEARNINGS.md`, and `.learnings/ERRORS.md`.
 2. Read the active runtime's routing file from the Platform Paths table.
-3. Match the user request against `reading-note-generation`.
-4. Read the active runtime's workflow file from the Platform Paths table.
-5. Create or resume the state file under `workspace/workflow-runs/`.
+3. Select the matching workflow id.
+4. Read the selected workflow file from the Platform Paths table.
+5. Create or resume the matching state file under `workspace/workflow-runs/`.
 6. Read the active state file before starting each phase.
 
 Change phase state only with the active runtime's state script:
@@ -49,9 +68,15 @@ Change phase state only with the active runtime's state script:
 <state-script> <state-file> block P4 "waiting for confirmed long sentences"
 ```
 
-## Input Collection
+## Single-Passage Mode
 
-Collect these fields once at the workflow entrance instead of asking each downstream skill again:
+Use the state pattern:
+
+```text
+workspace/workflow-runs/reading-note-{year}-passage{passage}-{topic}.workflow.md
+```
+
+Collect these fields once at the workflow entrance:
 
 - English article text or source file path.
 - Year, passage number, and topic slug.
@@ -59,45 +84,78 @@ Collect these fields once at the workflow entrance instead of asking each downst
 - Final output path. This must be explicitly provided or confirmed by the user.
 - Grammar notes input. If absent, ask whether to infer exam-relevant grammar points from the article.
 
-Ask custom paths and filenames with plain text questions. Do not use preset-choice UI for custom paths.
+Then follow `reading-note-generation`.
 
-## State File
+## Batch Mode
 
-Use the pattern:
+Use the state pattern:
 
 ```text
-workspace/workflow-runs/reading-note-{year}-passage{passage}-{topic}.workflow.md
+workspace/workflow-runs/reading-note-batch-{batch_id}.workflow.md
 ```
 
-If the file exists, resume it. If it does not exist, create it from the active runtime's `state-template.md` and replace the template tokens with the collected values.
+Collect these fields once at the workflow entrance:
+
+- Source directory or explicit file list.
+- Batch id, or permission to derive one from date and source name.
+- Default output root for final notes.
+- Default topic naming rule.
+- Fork subagent concurrency. Default to 3 and never exceed 5.
+- Whether global summary notes should be updated after per-note completion.
+
+Then follow `reading-note-batch-generation`.
 
 ## Phase Handoff
 
-| Phase | Action | Skill | Output |
-|------|--------|-------|--------|
-| P0 | Collect inputs and initialize state | generate-reading-note | workflow run file |
-| P1 | Format article | format-article | formatted-article.md |
-| P2 | Translate article | translate | translation.md |
-| P3 | Organize grammar notes | organize-grammar | grammar-notes.md |
-| P4 | Propose candidate long sentences | generate-reading-note | confirmed sentence list |
-| P5 | Analyze confirmed sentences inline | analyze-sentence | callouts in formatted-article.md |
-| P6 | Compile final note | compile-note | final study note |
-| P7 | Extract vocabulary and exercises | extract-vocabulary | 生词表 and 生词练习 |
-| P8 | Verify and close | generate-reading-note | completed state |
+| Mode | Phase Range | Coordinator | Reused Skills |
+|------|-------------|-------------|---------------|
+| Single | P0-P8 | main agent | format-article, translate, organize-grammar, analyze-sentence, compile-note, extract-vocabulary |
+| Batch | P0-P8 | main agent with fork subagents | reading-note-generation per article plus the same core skills |
+
+## Fork Subagent Rules For Batch Mode
+
+Use fork-mode subagents only for independent, bounded work. In Codex, use forked context when dispatching a subagent. In Claude Code, use fork subagent mode when available.
+
+Good fork subagent tasks:
+
+- Read-only inventory for a subset of files.
+- P1 formatted-article draft or check for one topic directory.
+- P2 translation for one topic directory.
+- P3 grammar extraction or grammar-notes draft for one topic directory.
+- P4 candidate long sentences for one source article.
+- Read-only QA for one final note.
+
+Main-agent-only tasks:
+
+- Batch state files and per-article state files.
+- User confirmation prompts.
+- Long-sentence insertion into `formatted-article.md`.
+- Final compile when a final note path could collide.
+- Vocabulary slot replacement.
+- Global summary notes such as `语法总结笔记.md`, `固定搭配与词组笔记.md`, `阅读心得.md`, and `单词辨析.md`.
+
+Dispatch constraints:
+
+- Default concurrency is 3. Maximum concurrency is 5.
+- Give each subagent one article or one read-only file group.
+- Tell each subagent its exact write scope.
+- Do not let two subagents write the same topic directory, final note, or shared summary file.
+- Require each subagent to report changed files, skipped files, blockers, and recommended next phase.
+- Main agent reviews every report before writing state, inserting callouts, compiling notes, or updating global files.
 
 ## Long-Sentence Gate
 
 The long-sentence mode is always `AI 候选 + 用户确认`.
 
-In P4:
+In candidate phases:
 
-1. Read `formatted-article.md`.
-2. Propose 5-10 candidate long sentences.
+1. Read `formatted-article.md` or the source article.
+2. Propose 5-10 candidate long sentences per article.
 3. Give a short reason for each candidate.
-4. Ask the user to confirm, remove, or add sentences.
-5. Block P4 if the user has not confirmed.
+4. Ask the user to confirm, remove, add, defer, or skip sentences.
+5. Block or mark `needs_confirmation` if the user has not confirmed.
 
-In P5:
+In insertion phases:
 
 - Use `analyze-sentence` only on confirmed sentences.
 - Insert each analysis block after its corresponding sentence in the article original section.
@@ -108,20 +166,21 @@ In P5:
 
 ## Recovery Rules
 
-- Missing article text or source file path blocks P0.
-- Missing final output path blocks P0 or P6.
+- Missing article text, source directory, or file list blocks P0.
+- Missing final output path blocks single mode P0 or P6.
+- Missing batch output root blocks batch mode P0.
 - Missing intermediate output returns to the phase that should produce it.
-- Unconfirmed long-sentence candidates block P4.
-- A sentence that cannot be located in `formatted-article.md` blocks P5 until the user clarifies.
-- Vocabulary count of 0 in P7 must be reported honestly.
+- Unconfirmed long-sentence candidates block single mode P4 or mark a batch article as `needs_confirmation`.
+- A sentence that cannot be located in `formatted-article.md` blocks insertion until the user clarifies.
+- Vocabulary count of 0 must be reported honestly.
 
 ## Final Verification
 
 Before reporting completion:
 
-- Confirm `formatted-article.md`, `translation.md`, `grammar-notes.md`, and the final study note exist.
-- Confirm the final study note no longer contains `<!-- VOCABULARY_SLOT -->`.
+- Confirm expected intermediate and final files exist.
+- Confirm final notes no longer contain `<!-- VOCABULARY_SLOT -->`.
 - Confirm Markdown headings have a space after `#`.
 - Confirm YAML frontmatter uses simple strings and lists.
 - Confirm every Markdown table has a blank line before it.
-- Complete P8 with the active runtime's state script.
+- Complete the final phase with the active runtime's state script.

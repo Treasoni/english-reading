@@ -34,7 +34,7 @@
 
 **Interfaces:**
 - Consumes: existing single-article workflow `reading-note-generation`.
-- Produces: batch workflow phases B0 through B8 and a batch state template.
+- Produces: batch workflow phases P0 through P8 and a batch state template.
 
 - [ ] **Step 1: Write routing metadata**
 
@@ -51,7 +51,7 @@ state_file_pattern: "workspace/workflow-runs/reading-note-batch-{batch_id}.workf
 
 - [ ] **Step 2: Write workflow and state templates**
 
-Define B0 through B8 exactly as in the design: input, inventory, single-run initialization, independent generation, confirmation gate, serial write/compile, QA, global updates, closeout.
+Define P0 through P8 exactly as in the design: input, inventory, single-run initialization, independent generation, confirmation gate, serial write/compile, QA, global updates, closeout.
 
 - [ ] **Step 3: Sync workflow routing**
 
@@ -114,7 +114,7 @@ python3 .agents/skills/maintain-learnings/scripts/sync_platform_skills.py --root
 
 - [ ] **Step 2: Run state smoke tests**
 
-Copy the Codex and Claude batch state templates to `/tmp`, replace tokens, and advance B0 to B1 with each platform's `todo-state.sh`.
+Copy the Codex and Claude batch state templates to `/tmp`, replace tokens, and advance P0 to P1 with each platform's `todo-state.sh`.
 
 - [ ] **Step 3: Run Markdown checks**
 

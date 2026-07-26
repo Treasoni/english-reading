@@ -57,25 +57,25 @@ workspace/workflow-runs/reading-note-batch-{batch_id}.workflow.md
 
 ## 阶段设计
 
-### B0 批量输入与状态初始化
+### P0 批量输入与状态初始化
 
 - 读取经验库与 workflow routing。
 - 收集目录或文件清单。
 - 让用户确认并发上限，默认 3，最高 5。
 - 创建或恢复批量状态文件。
 
-### B1 清单盘点
+### P1 清单盘点
 
 - 可以使用 fork subagent 只读扫描不同文件组。
 - 每个 subagent 输出标准清单：source、year、passage、topic、建议 intermediate 目录、建议输出路径。
 - 主 agent 合并清单并消重。
 
-### B2 单篇 run 初始化
+### P2 单篇 run 初始化
 
 - 主 agent 为每篇文章创建或恢复 `reading-note-generation` 单篇状态文件。
 - 不使用 subagent 写状态文件，避免重复创建或命名漂移。
 
-### B3 独立内容生成
+### P3 独立内容生成
 
 适合 fork subagent 并行：
 
@@ -90,13 +90,13 @@ workspace/workflow-runs/reading-note-batch-{batch_id}.workflow.md
 - 每个 subagent 必须写报告到对应 topic 目录或批量状态指定的报告路径。
 - subagent 不更新共享汇总文件。
 
-### B4 人工确认关口
+### P4 人工确认关口
 
 - 主 agent 汇总每篇文章的长难句候选。
 - 用户按篇确认、增删或暂跳过。
 - 未确认的文章停在 needs_confirmation，不进入插入阶段。
 
-### B5 串行写入与整合
+### P5 串行写入与整合
 
 必须由主 agent 串行执行：
 
@@ -110,7 +110,7 @@ workspace/workflow-runs/reading-note-batch-{batch_id}.workflow.md
 - 最终笔记同一文件不能多 agent 并发写。
 - 生词表替换必须只改目标区域。
 
-### B6 批量 QA
+### P6 批量 QA
 
 适合 fork reviewer 并行：
 
@@ -119,7 +119,7 @@ workspace/workflow-runs/reading-note-batch-{batch_id}.workflow.md
 
 主 agent 汇总 reviewer 报告并串行修复。
 
-### B7 全局汇总更新
+### P7 全局汇总更新
 
 必须串行：
 
@@ -130,7 +130,7 @@ workspace/workflow-runs/reading-note-batch-{batch_id}.workflow.md
 
 如果用户没有要求更新全局汇总，批量工作流只报告建议，不自动改全局文件。
 
-### B8 收尾
+### P8 收尾
 
 - 检查每篇单篇 run 状态。
 - 汇总完成、阻塞、跳过清单。

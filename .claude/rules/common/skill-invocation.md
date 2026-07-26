@@ -54,7 +54,7 @@
 
 | 技能 | 触发场景 | 关键触发词 |
 |------|----------|-----------|
-| `generate-reading-note` | Use when generating a complete 考研英语阅读精读笔记 from an English reading passage | Use when generating a complete 考研英语阅读精读笔… |
+| `generate-reading-note` | Use when generating complete 考研英语阅读精读笔记 from one or many English reading pass… | Use when generating complete 考研英语阅读精读笔记 … |
 | `manifest-platform` | Install, configure, migrate, and validate a portable manifest registry for ag… | Install, configure, migrate, and validat… |
 | `prompt-cache-optimizer` | 审计并优化 LLM 提示缓存命中率、输入 token、延迟与调用成本。 | 优化缓存命中、降低 token 成本、审计 LLM 调用、提示词缓存优化、优化 AI 调用费用 |
 | `security-secret-audit` | Audit a Git repository for exposed API keys, tokens, passwords, private keys | Audit a Git repository for exposed API k… |

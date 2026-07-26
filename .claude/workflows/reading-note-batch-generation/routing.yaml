@@ -1,0 +1,6 @@
+workflow_id: reading-note-batch-generation
+required: true
+when_to_use: "Generating complete 考研英语阅读精读笔记 for multiple English reading passages or a source directory"
+triggers: "批量生成考研阅读笔记; 处理大量英语笔记; 多篇精读笔记; batch reading notes; directory reading note generation; fork subagent"
+excludes: "single passage only; one sentence analysis only; read-only inspection; vocabulary distinction only"
+state_file_pattern: "workspace/workflow-runs/reading-note-batch-{batch_id}.workflow.md"
