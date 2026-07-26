@@ -15,6 +15,7 @@ workspace/workflow-runs/*.workflow.md                   # active or historical r
 <!-- workflow-routing:generated:start -->
 | Workflow ID | Required | When To Use | Positive Triggers | Excludes | Definition | State File Pattern |
 | --- | --- | --- | --- | --- | --- | --- |
+| `reading-note-generation` | yes | Generating complete 考研英语阅读精读笔记 from an English reading passage | 生成考研阅读笔记; 启动精读工作流; 完整精读笔记; reading note generation; generate-reading-note; 排版 翻译 语法 长难句 整合 生词 | single-step translation only; single sentence analysis only; vocabulary distinction only; add reading tip only; read-only inspection | `.codex/workflows/reading-note-generation/workflow.md` | `workspace/workflow-runs/reading-note-{year}-passage{passage}-{topic}.workflow.md` |
 <!-- workflow-routing:generated:end -->
 
 ## Routing Rules

@@ -1,0 +1,6 @@
+workflow_id: reading-note-generation
+required: true
+when_to_use: "Generating complete 考研英语阅读精读笔记 from an English reading passage"
+triggers: "生成考研阅读笔记; 启动精读工作流; 完整精读笔记; reading note generation; generate-reading-note; 排版 翻译 语法 长难句 整合 生词"
+excludes: "single-step translation only; single sentence analysis only; vocabulary distinction only; add reading tip only; read-only inspection"
+state_file_pattern: "workspace/workflow-runs/reading-note-{year}-passage{passage}-{topic}.workflow.md"
