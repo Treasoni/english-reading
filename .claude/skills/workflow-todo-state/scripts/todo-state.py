@@ -582,7 +582,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("todo_file", nargs="?")
     parser.add_argument("action", nargs="?")
     parser.add_argument("phase", nargs="?")
-    parser.add_argument("reason", nargs="?")
+    parser.add_argument("reason", nargs=argparse.REMAINDER)
     args = parser.parse_args(argv)
 
     if not args.todo_file or not args.action:
@@ -614,9 +614,9 @@ def main(argv: list[str] | None = None) -> int:
         elif args.action == "complete":
             state.complete(args.phase)
         elif args.action == "skip":
-            state.skip(args.phase, args.reason or "")
+            state.skip(args.phase, " ".join(args.reason))
         elif args.action == "block":
-            state.block(args.phase, args.reason or "")
+            state.block(args.phase, " ".join(args.reason))
         return 0
     except TodoStateError as error:
         print(str(error), file=sys.stderr)

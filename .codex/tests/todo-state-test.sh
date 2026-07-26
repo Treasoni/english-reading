@@ -51,6 +51,18 @@ assert_failure_contains() {
   fi
 }
 
+assert_file_contains() {
+  local description="$1"
+  local path="$2"
+  local expected="$3"
+  if grep -qF "$expected" "$path"; then
+    pass "$description"
+  else
+    fail "$description"
+    printf 'expected file to contain: %s\nfile: %s\n' "$expected" "$path" >&2
+  fi
+}
+
 make_state() {
   local name="$1"
   local state="$STATE_DIR/${name}.workflow.md"
@@ -135,10 +147,26 @@ test_python_entry_supports_cross_platform_state_flow() {
   assert_success "python entry validates" "$PYTHON_BIN" "$PY_SCRIPT" --root "$TEST_ROOT" "$state" validate
 }
 
+test_python_entry_preserves_multi_word_reason() {
+  local state
+  state="$(make_state python-reason)"
+
+  assert_success "reason run starts P0" "$PYTHON_BIN" "$PY_SCRIPT" --root "$TEST_ROOT" "$state" start P0
+  assert_success "reason run completes P0" "$PYTHON_BIN" "$PY_SCRIPT" --root "$TEST_ROOT" "$state" complete P0
+  assert_success \
+    "python entry skips with multi-word reason" \
+    "$PYTHON_BIN" "$PY_SCRIPT" --root "$TEST_ROOT" "$state" skip P1 waiting for Windows confirmation
+  assert_file_contains \
+    "python entry records full multi-word reason" \
+    "$state" \
+    "waiting for Windows confirmation"
+}
+
 test_validate_rejects_out_of_order_phase
 test_complete_rejects_missing_artifact
 test_validate_accepts_complete_single_reading_note_run
 test_python_entry_supports_cross_platform_state_flow
+test_python_entry_preserves_multi_word_reason
 
 if [ "$FAILURES" -gt 0 ]; then
   printf '%s test(s) failed\n' "$FAILURES" >&2
