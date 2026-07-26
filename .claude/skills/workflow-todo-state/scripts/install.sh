@@ -12,7 +12,7 @@ Options:
   --update-agents   Add an idempotent Workflow Todo State block to the entry file.
   --profile NAME    Use a built-in profile from profiles/*.yaml when available.
   --agent-dir DIR   Agent configuration directory in the target project (default: .claude).
-  --skills-dir DIR  Skill installation directory (default: <agent-dir>/skills; Codex profile: .agents/skills).
+  --skills-dir DIR  Skill installation directory (default: <agent-dir>/skills; Codex profile: .claude/skills).
   --entry-file FILE Project instruction file to update (default: CLAUDE.md for the historical .claude profile).
   --force           Replace existing installed files by moving them to timestamped backups.
 
@@ -89,7 +89,7 @@ load_profile() {
 
   case "$name" in
     codex)
-      AGENT_DIR=".codex"; SKILLS_DIR=".agents/skills"; RULES_DIR=".codex/rules"; SCRIPTS_DIR=".codex/scripts"; WORKFLOWS_DIR=".codex/workflows"; ENTRY_FILE="AGENTS.md"
+      AGENT_DIR=".codex"; SKILLS_DIR=".claude/skills"; RULES_DIR=".codex/rules"; SCRIPTS_DIR=".codex/scripts"; WORKFLOWS_DIR=".codex/workflows"; ENTRY_FILE="AGENTS.md"
       ;;
     claude)
       AGENT_DIR=".claude"; SKILLS_DIR=".claude/skills"; RULES_DIR=".claude/rules"; SCRIPTS_DIR=".claude/scripts"; WORKFLOWS_DIR=".claude/workflows"; ENTRY_FILE="CLAUDE.md"

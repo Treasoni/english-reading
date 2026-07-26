@@ -7,6 +7,7 @@ Use this workflow when a user wants complete 考研英语阅读精读笔记 for 
 - Before each phase, read the active batch state file under `workspace/workflow-runs/`.
 - Create a state file from `state-template.md` if no matching batch run exists.
 - Change batch phase state only with `.codex/scripts/todo-state.sh`.
+- Run `.codex/scripts/todo-state.sh <state-file> validate` before reporting batch completion.
 - Create and update per-article single-run state files from `reading-note-generation`.
 - Ask path, file list, output-root, and concurrency questions as plain text questions.
 - Do not dispatch more than 5 fork subagents at once.
@@ -121,6 +122,7 @@ Use this workflow when a user wants complete 考研英语阅读精读笔记 for 
 3. Report final note paths and per-article state paths.
 4. Verify the batch state file is updated.
 5. Complete P8.
+6. Run `.codex/scripts/todo-state.sh <state-file> validate`.
 
 ## Fork Subagent Rules
 

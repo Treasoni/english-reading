@@ -15,7 +15,7 @@ Install into another project:
 skills/workflow-todo-state/scripts/install.sh /path/to/target-project --agent-dir .agent --with-skill --init-layout --update-agents
 ```
 
-Use `--profile <name>` for any built-in layout in `profiles/*.yaml`, or `--agent-dir`, `--skills-dir`, and `--entry-file` for a custom layout. The Codex profile correctly separates `.agents/skills` from `.codex`; omitting profile options keeps the historical `.claude` + `CLAUDE.md` default.
+Use `--profile <name>` for any built-in layout in `profiles/*.yaml`, or `--agent-dir`, `--skills-dir`, and `--entry-file` for a custom layout. The Codex profile correctly separates `.claude/skills` from `.codex`; omitting profile options keeps the historical `.claude` + `CLAUDE.md` default.
 
 Then:
 
@@ -31,6 +31,7 @@ Then:
 7. Make every workflow skill or agent route the task, then read the relevant workflow state file before starting work.
 8. Update state only through the script:
    ```bash
+   <agent-dir>/scripts/todo-state.sh "${WORKFLOW_STATE_FILE}" validate
    <agent-dir>/scripts/todo-state.sh "${WORKFLOW_STATE_FILE}" start P1
    <agent-dir>/scripts/todo-state.sh "${WORKFLOW_STATE_FILE}" complete P1
    <agent-dir>/scripts/todo-state.sh "${WORKFLOW_STATE_FILE}" skip P2 "not needed"
@@ -112,6 +113,7 @@ The first command regenerates only the marked block in `<agent-dir>/rules/workfl
 - `skip PN` refuses completed phases and records a reason.
 - `block PN` marks an open phase in progress, writes `current_status: blocked`, and records a reason; completed and skipped phases are terminal.
 - After `complete` or `skip`, the script advances `current_phase` to the next `⬜ 未开始` phase, or to `done` when no pending phase remains.
+- `validate` checks required frontmatter, unique and ordered phase lines, recovery metadata consistency, and workflow-specific artifacts for completed phases.
 
 ## When Retrofitting A Project
 

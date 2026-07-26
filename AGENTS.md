@@ -84,6 +84,7 @@ Named workflow state files are the source of truth for every routed workflow.
 - If the route is ambiguous, ask the user before acting.
 - Read the active workflow state file before starting any phase; do not skip prerequisite phases.
 - Change phase state only through `.codex/scripts/todo-state.sh`.
+- Before reporting a routed workflow complete, run `.codex/scripts/todo-state.sh <state-file> validate`; failed validation blocks completion.
 - Use one unique phase status line per phase, for example `> [P0] ⬜ 未开始`.
 - On resume after interruption, inspect the YAML frontmatter and current phase before acting.
 - Each workflow directory must contain a `routing.yaml`. After creating, changing, renaming, or deleting a workflow, run `.codex/scripts/sync-workflow-routing.sh`; the update is incomplete until `.codex/scripts/sync-workflow-routing.sh --check` passes.

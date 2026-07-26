@@ -8,6 +8,7 @@ Use this workflow when a user wants a complete 考研英语阅读精读笔记 fr
 - Create a state file from `state-template.md` if no matching run exists.
 - Resume the first phase whose status is not complete or skipped.
 - Change phase state only with `.codex/scripts/todo-state.sh`.
+- Run `.codex/scripts/todo-state.sh <state-file> validate` before reporting workflow completion.
 - Ask path and filename questions as plain text questions.
 - Do not proceed from P4 to P5 until the user confirms the long-sentence list.
 
@@ -117,7 +118,8 @@ Use this workflow when a user wants a complete 考研英语阅读精读笔记 fr
 3. Verify the final study note no longer contains `<!-- VOCABULARY_SLOT -->`.
 4. Check Markdown heading spacing, simple YAML frontmatter, and blank lines before tables.
 5. Complete P8.
-6. Report the intermediate directory, final output path, and any skipped or blocked phases.
+6. Run `.codex/scripts/todo-state.sh <state-file> validate`.
+7. Report the intermediate directory, final output path, and any skipped or blocked phases.
 
 ## Blocking Rules
 

@@ -4,7 +4,7 @@ Profiles describe how reusable templates map into a target agent project.
 
 | Profile | Skills | Rules | Hooks | Entry |
 | --- | --- | --- | --- | --- |
-| `codex` | `.agents/skills` | `.codex/rules` | `.codex/hooks` | `AGENTS.md` |
+| `codex` | `.claude/skills` | `.codex/rules` | `.codex/hooks` | `AGENTS.md` |
 | `claude` | `.claude/skills` | `.claude/rules` | `.claude/hooks` | `CLAUDE.md` |
 | `codebuddy` | `.codebuddy/skills` | `.codebuddy/rules` | `.codebuddy/hooks` | `CODEBUDDY.md` |
 | `cursor` | `.cursor/skills` | `.cursor/rules` | — | `AGENTS.md` |
