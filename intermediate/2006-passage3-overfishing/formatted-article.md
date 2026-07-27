@@ -141,7 +141,46 @@ That means a higher proportion of what is in the sea is being caught, so the rea
 > > 2. **`of what...` 双层嵌套**：`of what is in the sea` 中，`what` 引导的名词性从句作介词 `of` 的宾语，整体修饰 `proportion`。这是考研真题中常见的"介短内含名从"嵌套结构。
 > > 3. **`the one` 替代与后置定语**：`the one` 替代前文的 `difference`，后接 `recorded by...` (V-ed短语) 作后置定语，表"被……所记录的"。
 
-In the early days, too, **longlines** would have been more saturated with fish. Some individuals would therefore not have been caught, since no **baited hooks** would have been available to trap them, leading to an underestimate of fish stocks in the past. Furthermore, in the early days of longline fishing, a lot of fish were lost to sharks after they had been hooked. That is no longer a problem, because there are fewer sharks around now.
+In the early days, too, **longlines** would have been more saturated with fish.
+
+Some individuals would therefore not have been caught, since no **baited hooks** would have been available to trap them, leading to an underestimate of fish stocks in the past.
+
+> [!abstract]- 长难句分析
+> **原句**：Some individuals would therefore not have been caught, since no **baited hooks** would have been available to trap them, leading to an underestimate of fish stocks in the past.
+>
+> **主干提取**：
+> - **S (Subject)**：Some individuals
+> - **V (Verb/Predicate)**：would not have been caught（过去将来完成时被动语态，表与过去事实相反的推测）
+> - **A (Adverbial)**：therefore（连接副词，承上表结果）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 状从(原因) | since | 修饰主句谓语 would not have been caught |
+> | 非谓语(V-ing) | leading to... | 修饰整个主句，表结果 |
+> | 不定式 | to trap them | 修饰 would have been available，表目的 |
+> | 介短 | of fish stocks | 修饰 an underestimate |
+> | 介短 | in the past | 修饰 fish stocks |
+>
+> **结构图解**：
+> ```
+> [主句] Some individuals + would not have been caught (therefore)
+>   ├── 状从(原因): since no baited hooks + would have been available
+>   │     └── 不定式(目的): to trap them → 修饰 available
+>   └── 非谓语(V-ing 结果): leading to an underestimate of fish stocks in the past
+>         └── 介短: of fish stocks in the past → 修饰 underestimate
+> ```
+>
+> **参考译文**：因此，有些鱼原本不会被捕获，因为没有足够的诱饵钩可用，从而导致对过去鱼类资源量的低估。
+>
+> **考点提示**：
+> > [!tip]
+> > 1. **`would have been` 虚拟语气**：主句 `would not have been caught` 表示与过去事实相反的推测（"本不会被捕获"——实际被捕获了）。考研阅读中虚拟语气常传达隐含对比（事实 vs 假设）。
+> > 2. **`since` 引导原因状语从句**：`since` 在此表"因为/由于"，引导原因状语。考研中需区分 `since` 表原因 vs 表时间（"自从"）。
+> > 3. **`leading to...` 分词作结果状语**：现在分词短语 `leading to...` 修饰整个主句，表示自然而然的结果。判断标志：分词前有逗号，逻辑主语是主句整体。
+
+Furthermore, in the early days of longline fishing, a lot of fish were lost to sharks after they had been hooked. That is no longer a problem, because there are fewer sharks around now.
 
 Dr. Myers and Dr. Worm argue that their work gives a correct **baseline**, which future management efforts must take into account. They believe the data support an idea current among marine biologists, that of the "**shifting baseline**." The notion is that people have failed to detect the massive changes which have happened in the ocean because they have been looking back only a relatively short time into the past. That matters because theory suggests that the **maximum sustainable yield** that can be cropped from a fishery comes when the biomass of a target species is about 50% of its original levels. Most fisheries are well below that, which is a bad way to do business.
 
