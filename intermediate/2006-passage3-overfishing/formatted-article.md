@@ -182,7 +182,47 @@ Some individuals would therefore not have been caught, since no **baited hooks**
 
 Furthermore, in the early days of longline fishing, a lot of fish were lost to sharks after they had been hooked. That is no longer a problem, because there are fewer sharks around now.
 
-Dr. Myers and Dr. Worm argue that their work gives a correct **baseline**, which future management efforts must take into account. They believe the data support an idea current among marine biologists, that of the "**shifting baseline**." The notion is that people have failed to detect the massive changes which have happened in the ocean because they have been looking back only a relatively short time into the past. That matters because theory suggests that the **maximum sustainable yield** that can be cropped from a fishery comes when the biomass of a target species is about 50% of its original levels. Most fisheries are well below that, which is a bad way to do business.
+Dr. Myers and Dr. Worm argue that their work gives a correct **baseline**, which future management efforts must take into account.
+
+They believe the data support an idea current among marine biologists, that of the "**shifting baseline**."
+
+> [!abstract]- 长难句分析
+> **原句**：They believe the data support an idea current among marine biologists, that of the "**shifting baseline**."
+>
+> **主干提取**：
+> - **S (Subject)**：They
+> - **V (Verb/Predicate)**：believe
+> - **O (Object)**：(that) the data support an idea（省略 `that` 的宾语从句）
+>   - 宾语从句内：the data (S) + support (V) + an idea (O)
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 名从(宾语从句) | (that) | 修饰主句谓语 believe |
+> | 形容词短语(后置定语) | current among... | 修饰 an idea |
+> | 同位语 | that of... | 补充说明 an idea |
+>
+> **结构图解**：
+> ```
+> [主句] They + believe + [宾语从句]
+>   └── 宾从: (that) the data + support + an idea
+>         └── O: an idea
+>               ├── 形容词短语(后置定语): current among marine biologists → 修饰 idea
+>               └── 同位语: that of the "shifting baseline" → 说明 idea 的内容
+>                     ├── that (替代 the idea)
+>                     └── 介短: of the "shifting baseline" → 修饰 that
+> ```
+>
+> **参考译文**：他们认为这些数据支持了海洋生物学家中流行的一个概念，即"变动基线"。
+>
+> **考点提示**：
+> > [!tip]
+> > 1. **省略 `that` 的宾语从句**：`believe` 后省略了 `that`，`the data support...` 是完整的宾语从句。考研阅读中 `believe/think/say` 等动词后的 `that` 常省略，需快速识别从句边界。
+> > 2. **形容词短语后置定语**：`current among marine biologists` 是形容词短语后置修饰 `an idea`，相当于 `an idea that is current among...`。后置定语是考研阅读中常见的紧凑表达方式。
+> > 3. **`that of...` 同位语**：`that` 替代前文的 `idea`，`that of the "shifting baseline"` 整体作 `an idea` 的同位语。`that/those of` 结构在考研翻译中需准确识别替代对象。
+
+The notion is that people have failed to detect the massive changes which have happened in the ocean because they have been looking back only a relatively short time into the past. That matters because theory suggests that the **maximum sustainable yield** that can be cropped from a fishery comes when the biomass of a target species is about 50% of its original levels. Most fisheries are well below that, which is a bad way to do business.
 
 ## 题目
 
