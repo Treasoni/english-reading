@@ -7,7 +7,7 @@ tags:
   - formatted-article
   - 2006
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-07-27
 sources:
   - 2006年考研英语阅读 Passage 3
 ---
@@ -18,7 +18,40 @@ sources:
 
 When prehistoric man arrived in new parts of the world, something strange happened to the large animals. They suddenly became **extinct**. Smaller species survived. The large, slow-growing animals were easy game, and were quickly hunted to **extinction**. Now something similar could be happening in the oceans.
 
-That the seas are being **overfished** has been known for years. What researchers such as Ransom Myers and Boris Worm have shown is just how fast things are changing. They have looked at half a century of data from fisheries around the world. Their methods do not attempt to estimate the actual **biomass** (the amount of living biological matter) of fish species in particular parts of the ocean, but rather changes in that biomass over time. According to their latest paper published in *Nature*, the biomass of large **predators** (animals that kill and eat other animals) in a new fishery is reduced on average by 80% within 15 years of the start of exploitation. In some long-fished areas, it has halved again since then.
+That the seas are being **overfished** has been known for years.
+
+> [!abstract]- 长难句分析
+> **原句**：That the seas are being **overfished** has been known for years.
+>
+> **主干提取**：
+> - **S (Subject)**：That the seas are being overfished（主语从句）
+> - **V (Verb/Predicate)**：has been known（现在完成时被动语态）
+> - **A (Adverbial)**：for years（时间状语）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 名从(主语从句) | That | 主句谓语 has been known 的主语 |
+> | 介短 | for years | 修饰主句谓语 has been known |
+>
+> **结构图解**：
+> ```
+> 主句: [主语从句] + has been known + for years
+>   └── 名从(主语从句): That the seas are being overfished
+>         ├── S: the seas
+>         └── V: are being overfished (被动语态进行时)
+> ```
+>
+> **参考译文**：海洋被过度捕捞这一事实多年来已为人所知。
+>
+> **考点提示**：
+> > [!tip]
+> > 1. **主语从句识别**：句首的 `That` 引导的是主语从句而非定语从句。判断标准：`That` 在从句中不作成分（不充当主语/宾语），仅起连接作用。
+> > 2. **`are being overfished`**：被动语态与进行时的叠加结构 `be + being + V-ed`，表"正在被……"。考研翻译中这种叠加时态容易出现漏译。
+> > 3. **主谓一致**：主语从句作主语时，主句谓语用第三人称单数（`has been` 而非 `have been`）。
+
+What researchers such as Ransom Myers and Boris Worm have shown is just how fast things are changing. They have looked at half a century of data from fisheries around the world. Their methods do not attempt to estimate the actual **biomass** (the amount of living biological matter) of fish species in particular parts of the ocean, but rather changes in that biomass over time. According to their latest paper published in *Nature*, the biomass of large **predators** (animals that kill and eat other animals) in a new fishery is reduced on average by 80% within 15 years of the start of exploitation. In some long-fished areas, it has halved again since then.
 
 Dr. Worm acknowledges that these figures are **conservative**. One reason for this is that fishing technology has improved. Today's vessels can find their prey using satellites and sonar, which were not available 50 years ago. That means a higher proportion of what is in the sea is being caught, so the real difference between present and past is likely to be worse than the one recorded by changes in catch sizes. In the early days, too, **longlines** would have been more saturated with fish. Some individuals would therefore not have been caught, since no **baited hooks** would have been available to trap them, leading to an underestimate of fish stocks in the past. Furthermore, in the early days of longline fishing, a lot of fish were lost to sharks after they had been hooked. That is no longer a problem, because there are fewer sharks around now.
 
