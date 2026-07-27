@@ -260,7 +260,51 @@ The notion is that people have failed to detect the massive changes which have h
 > > 2. **嵌套状语从句**：`because` 从句嵌套在表语从句内部，修饰表语从句中的 `have failed`。多层级从句嵌套时，需逐层剥离：主句 → 表语从句 → 原因状语从句。
 > > 3. **`have been looking back` 现在完成进行时**：表"一直在回顾"，强调动作从过去持续到现在的延续性和未完成性。考研翻译中需译出这种"持续进行"的语义色彩。
 
-That matters because theory suggests that the **maximum sustainable yield** that can be cropped from a fishery comes when the biomass of a target species is about 50% of its original levels. Most fisheries are well below that, which is a bad way to do business.
+That matters because theory suggests that the **maximum sustainable yield** that can be cropped from a fishery comes when the biomass of a target species is about 50% of its original levels.
+
+> [!abstract]- 长难句分析
+> **原句**：That matters because theory suggests that the **maximum sustainable yield** that can be cropped from a fishery comes when the biomass of a target species is about 50% of its original levels.
+>
+> **主干提取**：
+> - **S (Subject)**：That（指代前文所述事实）
+> - **V (Verb/Predicate)**：matters
+> - **A (Adverbial)**：because...（原因状语从句）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 状从(原因) | because | 修饰主句谓语 matters |
+> | 名从(宾语从句) | that | 修饰 suggests |
+> | 定从 | that | 修饰 the maximum sustainable yield |
+> | 状从(时间) | when | 修饰 comes（宾语从句内） |
+> | 介短 | from a fishery | 修饰 can be cropped |
+> | 介短 | of a target species | 修饰 the biomass |
+> | 介短 | of its original levels | 修饰 50% |
+>
+> **结构图解**：
+> ```
+> [主句] That + matters
+>   └── 状从(原因): because theory + suggests + [宾语从句]
+>         └── 宾从: that the maximum sustainable yield... + comes
+>               ├── 定从: that can be cropped from a fishery → 修饰 yield
+>               │     └── 介短: from a fishery → 修饰 can be cropped
+>               └── 状从(时间): when the biomass...is about 50%...
+>                     ├── S: the biomass of a target species
+>                     │     └── 介短: of a target species → 修饰 biomass
+>                     └── C: about 50% of its original levels
+>                           └── 介短: of its original levels → 修饰 50%
+> ```
+>
+> **参考译文**：这很关键，因为理论表明，当目标物种的生物量达到其原始水平的约 50% 时，渔场才能维持最大可持续产量。
+>
+> **考点提示**：
+> > [!tip]
+> > 1. **多层嵌套从句**：本句包含 4 层从句嵌套（原因状语 → 宾语从句 → 定语从句 + 时间状语从句）。考研阅读中遇到多层嵌套时，应逐层剥离，从最外层（主句）向内层层解析。
+> > 2. **`that` 一词三用**：句中 `that` 出现了三次——① 主句主语指代词（那/这）、② 宾语从句引导词、③ 定语从句引导词。考研阅读中需要根据上下文迅速判断每个 `that` 的功能。
+> > 3. **`when` 时间状语从句**：`when` 从句修饰 `comes`，说明"最大可持续产量出现的时间条件"。注意 `when` 引导的是状语从句而非定语从句（先行词并非某个名词，而是一个事件/情况）。
+
+Most fisheries are well below that, which is a bad way to do business.
 
 ## 题目
 
