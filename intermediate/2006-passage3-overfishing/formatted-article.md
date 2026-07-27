@@ -51,7 +51,48 @@ That the seas are being **overfished** has been known for years.
 > > 2. **`are being overfished`**：被动语态与进行时的叠加结构 `be + being + V-ed`，表"正在被……"。考研翻译中这种叠加时态容易出现漏译。
 > > 3. **主谓一致**：主语从句作主语时，主句谓语用第三人称单数（`has been` 而非 `have been`）。
 
-What researchers such as Ransom Myers and Boris Worm have shown is just how fast things are changing. They have looked at half a century of data from fisheries around the world. Their methods do not attempt to estimate the actual **biomass** (the amount of living biological matter) of fish species in particular parts of the ocean, but rather changes in that biomass over time. According to their latest paper published in *Nature*, the biomass of large **predators** (animals that kill and eat other animals) in a new fishery is reduced on average by 80% within 15 years of the start of exploitation. In some long-fished areas, it has halved again since then.
+What researchers such as Ransom Myers and Boris Worm have shown is just how fast things are changing. They have looked at half a century of data from fisheries around the world.
+
+Their methods do not attempt to estimate the actual **biomass** (the amount of living biological matter) of fish species in particular parts of the ocean, but rather changes in that biomass over time.
+
+> [!abstract]- 长难句分析
+> **原句**：Their methods do not attempt to estimate the actual **biomass** (the amount of living biological matter) of fish species in particular parts of the ocean, but rather changes in that biomass over time.
+>
+> **主干提取**：
+> - **S (Subject)**：Their methods
+> - **V (Verb/Predicate)**：do not attempt
+> - **O (Object)**：to estimate the actual biomass..., but rather [to estimate] changes...（`not...but rather...` 并列结构，第二段省略 `to estimate`）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 同位语 | ( ) | the actual biomass（解释 biomass 的含义） |
+> | 介短 | of fish species | 修饰 the actual biomass |
+> | 介短 | in particular parts of the ocean | 修饰 fish species |
+> | 介短 | in that biomass | 修饰 changes |
+> | 介短 | over time | 修饰 changes |
+>
+> **结构图解**：
+> ```
+> 主句: Their methods + do not attempt + [to estimate A, but rather B]
+>   └── O(不定式短语): to estimate the actual biomass..., but rather changes...
+>         ├── A: the actual biomass (of fish species in particular parts of the ocean)
+>         │     ├── 同位语: (the amount of living biological matter) → biomass
+>         │     └── 介短: of fish species in particular parts of the ocean
+>         └── B: changes (in that biomass over time)
+>               └── 介短: in that biomass over time
+> ```
+>
+> **参考译文**：他们的方法并非试图估算海洋特定区域鱼类实际的生物量（活的生物物质总量），而是估算该生物量随时间发生的变化。
+>
+> **考点提示**：
+> > [!tip]
+> > 1. **`not...but rather...` 平行结构**：`do not attempt to estimate A, but rather B` 中 B 前省略了 `to estimate`，需识别 A 与 B 的并列关系。考研翻译中省略的平行成分易导致理解偏差。
+> > 2. **同位语插入**：括号内 `(the amount of living biological matter)` 是对 `biomass` 的补充说明，考研阅读中插入成分常作考点——跳过括号直接读主干是关键阅读策略。
+> > 3. **介短链式修饰**：`the actual biomass of fish species in particular parts of the ocean` 中多个介词短语层层嵌套，需理清修饰链：biomass → of fish species → in particular parts of the ocean。
+
+According to their latest paper published in *Nature*, the biomass of large **predators** (animals that kill and eat other animals) in a new fishery is reduced on average by 80% within 15 years of the start of exploitation. In some long-fished areas, it has halved again since then.
 
 Dr. Worm acknowledges that these figures are **conservative**. One reason for this is that fishing technology has improved. Today's vessels can find their prey using satellites and sonar, which were not available 50 years ago. That means a higher proportion of what is in the sea is being caught, so the real difference between present and past is likely to be worse than the one recorded by changes in catch sizes. In the early days, too, **longlines** would have been more saturated with fish. Some individuals would therefore not have been caught, since no **baited hooks** would have been available to trap them, leading to an underestimate of fish stocks in the past. Furthermore, in the early days of longline fishing, a lot of fish were lost to sharks after they had been hooked. That is no longer a problem, because there are fewer sharks around now.
 
