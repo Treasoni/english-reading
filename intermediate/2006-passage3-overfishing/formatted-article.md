@@ -94,7 +94,54 @@ Their methods do not attempt to estimate the actual **biomass** (the amount of l
 
 According to their latest paper published in *Nature*, the biomass of large **predators** (animals that kill and eat other animals) in a new fishery is reduced on average by 80% within 15 years of the start of exploitation. In some long-fished areas, it has halved again since then.
 
-Dr. Worm acknowledges that these figures are **conservative**. One reason for this is that fishing technology has improved. Today's vessels can find their prey using satellites and sonar, which were not available 50 years ago. That means a higher proportion of what is in the sea is being caught, so the real difference between present and past is likely to be worse than the one recorded by changes in catch sizes. In the early days, too, **longlines** would have been more saturated with fish. Some individuals would therefore not have been caught, since no **baited hooks** would have been available to trap them, leading to an underestimate of fish stocks in the past. Furthermore, in the early days of longline fishing, a lot of fish were lost to sharks after they had been hooked. That is no longer a problem, because there are fewer sharks around now.
+Dr. Worm acknowledges that these figures are **conservative**. One reason for this is that fishing technology has improved. Today's vessels can find their prey using satellites and sonar, which were not available 50 years ago.
+
+That means a higher proportion of what is in the sea is being caught, so the real difference between present and past is likely to be worse than the one recorded by changes in catch sizes.
+
+> [!abstract]- 长难句分析
+> **原句**：That means a higher proportion of what is in the sea is being caught, so the real difference between present and past is likely to be worse than the one recorded by changes in catch sizes.
+>
+> **主干提取**：
+> - **Clause 1 (SVO)**：That (S) + means (V) + [宾语从句] (O)
+>   - 宾语从句内：a higher proportion (S) + is being caught (V)
+> - **Clause 2 (SVC)**：so + the real difference (S) + is likely to be (V) + worse (C)
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 名从(宾语从句) | (that) | 修饰主句谓语 means |
+> | 名从(介宾从句) | what | 作介词 of 的宾语 |
+> | 介短 | of what is in the sea | 修饰 proportion |
+> | 介短 | between present and past | 修饰 difference |
+> | 比较状语 | than... | 修饰 worse |
+> | 非谓语(V-ed) | recorded | 修饰 the one（替代 difference） |
+> | 介短 | in catch sizes | 修饰 changes |
+>
+> **结构图解**：
+> ```
+> [Clause 1] That + means + [宾语从句]
+> │   └── 宾从: (that) a higher proportion of what is in the sea is being caught
+> │         ├── S: a higher proportion
+> │         │     └── 介短: of [what is in the sea] → 修饰 proportion
+> │         │           └── 名从: what is in the sea → 作 of 的宾语
+> │         └── V: is being caught (被动进行时)
+> │
+> └── [Clause 2] so + the real difference + is likely to be + worse + than...
+>       ├── 介短: between present and past → 修饰 difference
+>       └── 比较: than the one recorded by changes in catch sizes
+>             └── 非谓语(V-ed): recorded... → 修饰 the one
+> ```
+>
+> **参考译文**：这意味着海洋中更高比例的鱼类正在被捕获，因此现在与过去之间的实际差异可能比渔获量变化所记录的数据更糟。
+>
+> **考点提示**：
+> > [!tip]
+> > 1. **`so` 连接并列句**：`so` 在此连接两个并列分句，表因果关系（前因后果）。考研阅读中需区分 `so` 作并列连词 vs `so that` 引导目的/结果状语从句。
+> > 2. **`of what...` 双层嵌套**：`of what is in the sea` 中，`what` 引导的名词性从句作介词 `of` 的宾语，整体修饰 `proportion`。这是考研真题中常见的"介短内含名从"嵌套结构。
+> > 3. **`the one` 替代与后置定语**：`the one` 替代前文的 `difference`，后接 `recorded by...` (V-ed短语) 作后置定语，表"被……所记录的"。
+
+In the early days, too, **longlines** would have been more saturated with fish. Some individuals would therefore not have been caught, since no **baited hooks** would have been available to trap them, leading to an underestimate of fish stocks in the past. Furthermore, in the early days of longline fishing, a lot of fish were lost to sharks after they had been hooked. That is no longer a problem, because there are fewer sharks around now.
 
 Dr. Myers and Dr. Worm argue that their work gives a correct **baseline**, which future management efforts must take into account. They believe the data support an idea current among marine biologists, that of the "**shifting baseline**." The notion is that people have failed to detect the massive changes which have happened in the ocean because they have been looking back only a relatively short time into the past. That matters because theory suggests that the **maximum sustainable yield** that can be cropped from a fishery comes when the biomass of a target species is about 50% of its original levels. Most fisheries are well below that, which is a bad way to do business.
 
