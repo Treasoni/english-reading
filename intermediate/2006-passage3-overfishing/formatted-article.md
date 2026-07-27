@@ -222,7 +222,45 @@ They believe the data support an idea current among marine biologists, that of t
 > > 2. **形容词短语后置定语**：`current among marine biologists` 是形容词短语后置修饰 `an idea`，相当于 `an idea that is current among...`。后置定语是考研阅读中常见的紧凑表达方式。
 > > 3. **`that of...` 同位语**：`that` 替代前文的 `idea`，`that of the "shifting baseline"` 整体作 `an idea` 的同位语。`that/those of` 结构在考研翻译中需准确识别替代对象。
 
-The notion is that people have failed to detect the massive changes which have happened in the ocean because they have been looking back only a relatively short time into the past. That matters because theory suggests that the **maximum sustainable yield** that can be cropped from a fishery comes when the biomass of a target species is about 50% of its original levels. Most fisheries are well below that, which is a bad way to do business.
+The notion is that people have failed to detect the massive changes which have happened in the ocean because they have been looking back only a relatively short time into the past.
+
+> [!abstract]- 长难句分析
+> **原句**：The notion is that people have failed to detect the massive changes which have happened in the ocean because they have been looking back only a relatively short time into the past.
+>
+> **主干提取**：
+> - **S (Subject)**：The notion
+> - **V (Verb/Predicate)**：is
+> - **C (Complement)**：that people have failed to detect the massive changes（表语从句）
+>   - 表语从句内：people (S) + have failed (V) + to detect the massive changes (O)
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 名从(表语从句) | that | 主句主语 The notion 的补语 |
+> | 定从 | which | 修饰 the massive changes |
+> | 状从(原因) | because | 修饰 have failed (表语从句内) |
+> | 介短 | into the past | 修饰 have been looking back |
+>
+> **结构图解**：
+> ```
+> [主句] The notion + is + [表语从句]
+>   └── 表从: that people + have failed + to detect the massive changes
+>         ├── O(不定式): to detect the massive changes
+>         │     └── 定从: which have happened in the ocean → 修饰 changes
+>         └── 状从(原因): because they have been looking back...into the past
+>               └── 介短: into the past → 修饰 looking back
+> ```
+>
+> **参考译文**：这一概念的意思是，人们未能察觉海洋中发生的巨大变化，因为他们回顾过去的时限相对较短。
+>
+> **考点提示**：
+> > [!tip]
+> > 1. **`that` 表语从句**：`The notion is that...` 中 `that` 引导表语从句，对主语 `The notion` 进行解释说明。考研阅读中需区分 `that` 引导的表语从句 vs 定语从句——表语从句前是系动词 `is`，且 `that` 在从句中不作成分。
+> > 2. **嵌套状语从句**：`because` 从句嵌套在表语从句内部，修饰表语从句中的 `have failed`。多层级从句嵌套时，需逐层剥离：主句 → 表语从句 → 原因状语从句。
+> > 3. **`have been looking back` 现在完成进行时**：表"一直在回顾"，强调动作从过去持续到现在的延续性和未完成性。考研翻译中需译出这种"持续进行"的语义色彩。
+
+That matters because theory suggests that the **maximum sustainable yield** that can be cropped from a fishery comes when the biomass of a target species is about 50% of its original levels. Most fisheries are well below that, which is a bad way to do business.
 
 ## 题目
 
