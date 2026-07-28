@@ -22,9 +22,9 @@ But the weirdest may be this: artists' only job is to **explore emotions**, and 
 > **原句**：But the weirdest may be this: artists' only job is to **explore emotions**, and yet they choose to focus on the ones that feel bad.
 >
 > **主干提取**：
-> - S: the weirdest
-> - V: may be
-> - C: this（冒号后为同位语解释）
+> - 主语 S: the weirdest
+> - 谓语 V: may be
+> - 补语 C: this
 >
 > **修饰成分**：
 >
@@ -56,11 +56,11 @@ But somewhere in the 19th century onward, more artists began seeing happiness as
 > **原句**：But somewhere in the 19th century onward, more artists began seeing happiness as **insipid**, **phony** or, worst of all, boring as we went from Wordsworth's daffodils to Baudelaire's flowers of evil.
 >
 > **主干提取**：
-> - S: more artists
-> - V: began seeing
-> - O: happiness
-> - C: as insipid, phony or boring
-> - A: somewhere in the 19th century onward
+> - 主语 S: more artists
+> - 谓语 V: began seeing
+> - 宾语 O: happiness
+> - 补语 C: as insipid, phony or boring
+> - 状语 A: somewhere in the 19th century onward
 >
 > **修饰成分**：
 >
@@ -95,9 +95,9 @@ The rise of **anti-happy art** almost exactly tracks the emergence of **mass med
 > **原句**：The rise of **anti-happy art** almost exactly tracks the emergence of **mass media**, and with it, a **commercial culture** in which happiness is not just an ideal but an **ideology**.
 >
 > **主干提取**：
-> - S: The rise of anti-happy art
-> - V: tracks
-> - O: the emergence of mass media, and (tracks) with it, a commercial culture
+> - 主语 S: The rise of anti-happy art
+> - 谓语 V: tracks
+> - 宾语 O: the emergence of mass media, and (tracks) with it, a commercial culture
 >
 > **修饰成分**：
 >
@@ -128,11 +128,11 @@ In the West, before mass communication and literacy, the most powerful mass medi
 > **原句**：In the West, before mass communication and literacy, the most powerful mass medium was the church, which reminded worshippers that their souls were in peril and that they would someday be meat for worms.
 >
 > **主干提取**：
-> - S: the most powerful mass medium
-> - V: was
-> - C: the church
-> - A: In the West
-> - A: before mass communication and literacy
+> - 主语 S: the most powerful mass medium
+> - 谓语 V: was
+> - 补语 C: the church
+> - 状语 A: In the West
+> - 状语 A: before mass communication and literacy
 >
 > **修饰成分**：
 >
@@ -168,10 +168,10 @@ And since these messages have an agenda — to lure us to open our wallets — t
 > **原句**：And since these messages have an agenda — to lure us to open our wallets — they make the very idea of happiness seem unreliable.
 >
 > **主干提取**：
-> - S: they
-> - V: make
-> - O: the very idea of happiness
-> - C: seem unreliable
+> - 主语 S: they
+> - 谓语 V: make
+> - 宾语 O: the very idea of happiness
+> - 补语 C: seem unreliable
 >
 > **修饰成分**：
 >
@@ -201,9 +201,9 @@ But what we forget — what our economy depends on us forgetting — is that hap
 > **原句**：But what we forget — what our economy depends on us forgetting — is that happiness is more than pleasure without pain.
 >
 > **主干提取**：
-> - S: what we forget（主语从句）
-> - V: is
-> - C: that happiness is more than pleasure without pain（表语从句）
+> - 主语 S: what we forget（主语从句）
+> - 谓语 V: is
+> - 补语 C: that happiness is more than pleasure without pain（表语从句）
 >
 > **修饰成分**：
 >
@@ -232,10 +232,10 @@ Today, surrounded by promises of easy happiness, we need someone to tell us as r
 > **原句**：Today, surrounded by promises of easy happiness, we need someone to tell us as religion once did, **Memento mori**: remember that you will die, that everything ends, and that happiness comes not in denying this but in living with it.
 >
 > **主干提取**：
-> - S: we
-> - V: need
-> - O: someone
-> - C: to tell us（不定式短语作宾补）
+> - 主语 S: we
+> - 谓语 V: need
+> - 宾语 O: someone
+> - 补语 C: to tell us（不定式短语作宾补）
 >
 > **修饰成分**：
 >
