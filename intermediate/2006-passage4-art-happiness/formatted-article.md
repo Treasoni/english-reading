@@ -85,7 +85,65 @@ But somewhere in the 19th century onward, more artists began seeing happiness as
 > 2. `as` 引导时间/伴随状语从句：此处 `as we went...` 表"随着……"
 > 3. 文学隐喻词义推断：Wordsworth's daffodils（欢乐）↔ Baudelaire's flowers of evil（丑恶），利用对比推断作者意图
 
-You could argue that art became more **skeptical** of happiness because modern times have seen such misery. But it's not as if earlier times didn't know **perpetual** war, disaster and the **massacre** of innocents. The reason, in fact, may be just the opposite: there is too much damn happiness in the world today.
+You could argue that art became more **skeptical** of happiness because modern times have seen such misery.
+
+But it's not as if earlier times didn't know **perpetual** war, disaster and the **massacre** of innocents.
+
+> [!abstract]- 长难句分析
+> **原句**：But it's not as if earlier times didn't know **perpetual** war, disaster and the **massacre** of innocents.
+>
+> **主干提取**：
+> - 主语 S: It
+> - 谓语 V: is ('s)
+> - 补语 C: not as if earlier times didn't know perpetual war, disaster and the massacre of innocents
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 表语从句 | as if | 作主句的表语 |
+>
+> **结构图解**：
+> ```
+> 主句: It is not as if ...
+>   └── 表语从句(as if): earlier times didn't know perpetual war, disaster and the massacre of innocents → 作主句的表语
+> ```
+>
+> **参考译文**：但这并非是说早期时代就没有经历过无休止的战争、灾难和对无辜者的大屠杀。
+>
+> **考点提示**：
+> 1. `It's not as if...` 固定句式：意为"并非好像……"，表达对某种假设的否定
+> 2. 双重否定结构：`not as if ... didn't know` 实质表肯定，强调"过去也知道同样的苦难"
+
+The reason, in fact, may be just the opposite: there is too much damn happiness in the world today.
+
+> [!abstract]- 长难句分析
+> **原句**：The reason, in fact, may be just the opposite: there is too much damn happiness in the world today.
+>
+> **主干提取**：
+> - 主语 S: The reason
+> - 谓语 V: may be
+> - 补语 C: just the opposite
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 插入语 | 逗号分隔 | in fact，插入修饰 |
+> | 同位语 | 冒号 | 补充说明 the opposite |
+>
+> **结构图解**：
+> ```
+> 主句: The reason may be just the opposite
+>   ├── 插入语: in fact → 强调语气
+>   └── 同位语(冒号): there is too much damn happiness in the world today → 解释 the opposite
+> ```
+>
+> **参考译文**：事实上，原因可能恰恰相反：当今世界有太多该死的幸福了。
+>
+> **考点提示**：
+> 1. 插入语识别：`in fact` 置于主谓之间，阅读时可先跳过，连读主干
+> 2. 冒号同位语结构：冒号后内容具体说明 `the opposite` 是什么
 
 After all, what is the one modern form of expression almost completely dedicated to depicting happiness? ==Advertising.==
 
