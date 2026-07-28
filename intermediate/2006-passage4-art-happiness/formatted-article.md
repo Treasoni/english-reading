@@ -145,7 +145,38 @@ The reason, in fact, may be just the opposite: there is too much damn happiness 
 > 1. 插入语识别：`in fact` 置于主谓之间，阅读时可先跳过，连读主干
 > 2. 冒号同位语结构：冒号后内容具体说明 `the opposite` 是什么
 
-After all, what is the one modern form of expression almost completely dedicated to depicting happiness? ==Advertising.==
+After all, what is the one modern form of expression almost completely dedicated to **depicting** happiness? ==Advertising.==
+
+> [!abstract]- 长难句分析
+> **原句**：After all, what is the one modern form of expression almost completely dedicated to **depicting** happiness? ==Advertising.==
+>
+> **主干提取**：
+> - 主语 S: the one modern form of expression
+> - 谓语 V: is
+> - 补语 C: what
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 话语标记 | After all | 逻辑衔接，修饰全句 |
+> | 非谓语（过去分词短语） | dedicated to | 后置定语，修饰 expression |
+>
+> **结构图解**：
+> ```
+> 疑问句: what is the one modern form of expression ...
+>   ├── 话语标记: After all → 逻辑衔接
+>   ├── 主语: the one modern form of expression
+>   │     └── 非谓语(过去分词): dedicated to depicting happiness → 后置定语修饰 expression
+>   └── 独立回答: Advertising. → 省略句，回答what
+> ```
+>
+> **参考译文**：说到底，几乎完全致力于描绘幸福的现代表达形式是什么？广告。
+>
+> **考点提示**：
+> 1. 设问修辞（rhetorical question）：作者自问自答，考研阅读中常利用这种结构强调核心论点
+> 2. 过去分词短语作后置定语：`dedicated to depicting happiness` 修饰 `expression`
+> 3. 省略句回答：`Advertising.` 单独成句，省略了系表结构
 
 The rise of **anti-happy art** almost exactly tracks the emergence of **mass media**, and with it, a **commercial culture** in which happiness is not just an ideal but an **ideology**.
 
