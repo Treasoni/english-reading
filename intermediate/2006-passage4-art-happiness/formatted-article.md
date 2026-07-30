@@ -280,7 +280,7 @@ Today the messages the average Westerner is surrounded with are not religious bu
 > 2. `not...but...` 结构：意为"不是……而是……"，考研阅读中表对比
 > 3. `be surrounded with` 短语：介词 `with` 不可省略
 
-Fast-food eaters, news anchors, text messengers, all smiling, smiling, smiling. Our magazines feature beaming celebrities and happy families in perfect homes.
+Fast-food eaters, news anchors, text messengers, all smiling, smiling, smiling. Our magazines feature beaming celebrities and happy families in perfect homes. 
 
 And since these messages have an agenda — to lure us to open our wallets — they make the very idea of happiness seem unreliable.
 
