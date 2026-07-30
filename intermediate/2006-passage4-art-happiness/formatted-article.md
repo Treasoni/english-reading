@@ -249,7 +249,38 @@ In the West, before mass communication and literacy, the most powerful mass medi
 > 2. 双宾语从句并列：`reminded worshippers that...and that...`
 > 3. `meat for worms` 修辞：借喻死亡的卑微与必然，考研阅读常考比喻义推断
 
-Today the messages the average Westerner is surrounded with are not religious but commercial, and forever happy. Fast-food eaters, news anchors, text messengers, all smiling, smiling, smiling. Our magazines feature beaming celebrities and happy families in perfect homes.
+Today the messages the average Westerner is surrounded with are not religious but commercial, and forever happy.
+
+> [!abstract]- 长难句分析
+> **原句**：Today the messages the average Westerner is surrounded with are not religious but commercial, and forever happy.
+>
+> **主干提取**：
+> - 主语 S: the messages (the average Westerner is surrounded with)
+> - 谓语 V: are
+> - 补语 C: not religious but commercial, and forever happy
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 定语从句 | 省略 that/which | the messages |
+> | 时间状语 | Today | 修饰全句 |
+>
+> **结构图解**：
+> ```
+> 主句: the messages are not religious but commercial, and forever happy
+>   ├── 时间状语: Today → 修饰全句
+>   └── 定从(省略关系代词): (that/which) the average Westerner is surrounded with → 修饰 the messages
+> ```
+>
+> **参考译文**：如今，普通西方人周围的信息不是宗教性的，而是商业性的，而且永远是快乐的。
+>
+> **考点提示**：
+> 1. 定语从句关系代词省略：关系代词作宾语时可省略
+> 2. `not...but...` 结构：意为"不是……而是……"，考研阅读中表对比
+> 3. `be surrounded with` 短语：介词 `with` 不可省略
+
+Fast-food eaters, news anchors, text messengers, all smiling, smiling, smiling. Our magazines feature beaming celebrities and happy families in perfect homes.
 
 And since these messages have an agenda — to lure us to open our wallets — they make the very idea of happiness seem unreliable.
 
