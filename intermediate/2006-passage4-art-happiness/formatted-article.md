@@ -211,7 +211,7 @@ The rise of **anti-happy art** almost exactly tracks the emergence of **mass med
 
 People in earlier eras were surrounded by reminders of misery. They worked until exhausted, lived with few protections and died young.
 
-In the West, before mass communication and literacy, the most powerful mass medium was the church, which reminded worshippers that their souls were in peril and that they would someday be meat for worms.
+In the West, before mass communication and literacy, the most powerful mass medium was the church, which reminded worshippers that their souls were in **peril** and that they would someday be meat for worms.
 
 > [!abstract]- 长难句分析
 > **原句**：In the West, before mass communication and literacy, the most powerful mass medium was the church, which reminded worshippers that their souls were in peril and that they would someday be meat for worms.
