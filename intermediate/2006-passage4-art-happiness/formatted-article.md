@@ -315,6 +315,39 @@ And since these messages have an agenda — to lure us to open our wallets — t
 > 3. `make + O + do` 结构：省略 `to` 的不定式作宾补
 > 4. `the very idea`：`very` 为形容词，表"正是/恰恰是"，起强调作用
 
+"Celebrate!" commanded the ads for the arthritis drug Celebrex, before we found out it could increase the risk of heart attacks.
+
+> [!abstract]- 长难句分析
+> **原句**："Celebrate!" commanded the ads for the arthritis drug Celebrex, before we found out it could increase the risk of heart attacks.
+>
+> **主干提取**：
+> - 主语 S: the ads for the arthritis drug Celebrex
+> - 谓语 V: commanded
+> - 宾语 O: "Celebrate!"
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 状语从句 | before | 时间状语，修饰全句 |
+>
+> **结构图解**：
+> ```
+> 主句(倒装): "Celebrate!" commanded the ads ...
+>   ├── 宾语前置: "Celebrate!" → 为强调而倒装至句首
+>   └── 主谓倒装: commanded the ads → 主语在谓语之后
+>         └── 介短: for the arthritis drug Celebrex → 修饰 the ads
+>   └── 状从(before): before we found out it could increase the risk of heart attacks → 时间状语
+>         └── 名从(省略that): (that) it could increase the risk → found out 的宾语
+> ```
+>
+> **参考译文**："庆祝吧！"关节炎药物 Celebrex 的广告这样命令道，然而后来我们发现它可能增加心脏病的风险。
+>
+> **考点提示**：
+> 1. 倒装结构：引语前置时主谓倒装，正常语序为 `the ads commanded "Celebrate!"`
+> 2. `before` 的转折用法：此处不表"在……之前"，而表"然而/后来才发现"
+> 3. 双关修辞：药名 `Celebrex` 与广告词 `Celebrate!` 形似
+
 But what we forget — what our economy depends on us forgetting — is that happiness is more than pleasure without pain.
 
 > [!abstract]- 长难句分析
