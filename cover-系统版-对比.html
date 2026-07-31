@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { width: 750px; height: 1000px; font-family: "PingFang SC", "Helvetica Neue", "Microsoft YaHei", sans-serif; background: #0f172a; overflow: hidden; }
+
+  .cover {
+    width: 750px; height: 1000px; position: relative;
+    background: linear-gradient(160deg, #0f172a 0%, #1e1b4b 55%, #0f172a 100%);
+    padding: 44px 40px 30px; display: flex; flex-direction: column; align-items: center;
+  }
+  .deco { position: absolute; border-radius: 50%; }
+  .deco-1 { top: -120px; right: -100px; width: 360px; height: 360px; background: radial-gradient(circle, rgba(129,140,248,0.18) 0%, transparent 70%); }
+  .deco-2 { bottom: -90px; left: -90px; width: 300px; height: 300px; background: radial-gradient(circle, rgba(244,114,182,0.12) 0%, transparent 70%); }
+
+  .badge-row { z-index: 1; display: flex; gap: 10px; margin-bottom: 18px; }
+  .badge { padding: 6px 15px; border-radius: 18px; font-size: 12.5px; font-weight: 600; }
+  .b1 { background: rgba(129,140,248,0.18); color: #a5b4fc; border: 1px solid rgba(129,140,248,0.4); }
+  .b2 { background: rgba(52,211,153,0.12); color: #6ee7b7; border: 1px solid rgba(52,211,153,0.3); }
+
+  .title { z-index: 1; text-align: center; }
+  .title h1 { font-size: 38px; font-weight: 800; color: #f8fafc; letter-spacing: 1px; }
+  .title .hl { background: linear-gradient(90deg,#a5b4fc,#c084fc,#f472b6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+  .subtitle { z-index: 1; font-size: 15px; color: #94a3b8; margin-top: 8px; text-align: center; letter-spacing: .5px; }
+
+  /* 对比区 */
+  .compare { z-index: 1; width: 100%; margin-top: 26px; display: flex; flex-direction: column; gap: 14px; }
+  .row { display: flex; align-items: stretch; gap: 12px; }
+  .col-label { width: 64px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 13px; font-weight: 700; writing-mode: vertical-rl; letter-spacing: 3px; }
+  .col-old { background: rgba(239,68,68,0.12); color: #fca5a5; border: 1px solid rgba(239,68,68,0.25); }
+  .col-new { background: rgba(52,211,153,0.14); color: #6ee7b7; border: 1px solid rgba(52,211,153,0.3); }
+  .col-body { flex: 1; background: rgba(30,41,59,0.7); border-radius: 12px; padding: 14px 16px; border: 1px solid rgba(99,102,241,0.12); }
+  .col-body .head { font-size: 14px; font-weight: 700; margin-bottom: 8px; }
+  .col-body.old .head { color: #fca5a5; }
+  .col-body.new .head { color: #6ee7b7; }
+  .col-body ul { list-style: none; }
+  .col-body li { font-size: 12.5px; color: #cbd5e1; line-height: 1.7; display: flex; gap: 6px; }
+  .col-body.old li { color: #fca5a5; }
+  .col-body.new li { color: #a7f3d0; }
+  .dot { flex-shrink: 0; }
+  .old .dot { color: #ef4444; }
+  .new .dot { color: #34d399; }
+
+  /* 流程区 */
+  .flow-title { z-index: 1; width: 100%; margin: 24px 0 12px; font-size: 13px; color: #818cf8; display: flex; align-items: center; gap: 8px; }
+  .flow-title::before { content: ""; width: 4px; height: 15px; background: #818cf8; border-radius: 2px; }
+  .pipeline { z-index: 1; width: 100%; display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; }
+  .step { background: rgba(129,140,248,0.12); border: 1px solid rgba(129,140,248,0.3); border-radius: 10px; padding: 8px 12px; font-size: 12.5px; color: #c7d2fe; font-weight: 600; }
+  .step .n { color: #818cf8; margin-right: 4px; }
+
+  /* 底部 */
+  .bottom { z-index: 1; width: 100%; margin-top: auto; display: flex; align-items: center; justify-content: space-between; padding: 18px 24px; background: linear-gradient(135deg, rgba(129,140,248,0.16), rgba(192,132,252,0.1)); border-radius: 16px; border: 1px solid rgba(129,140,248,0.3); }
+  .b-left { display: flex; flex-direction: column; }
+  .b-label { font-size: 11.5px; color: #94a3b8; margin-bottom: 2px; }
+  .b-price { font-size: 34px; font-weight: 800; color: #f472b6; line-height: 1; }
+  .b-price .s { font-size: 16px; }
+  .b-right { text-align: right; }
+  .b-right .m { font-size: 15px; font-weight: 700; color: #f8fafc; margin-bottom: 3px; }
+  .b-right .s { font-size: 11.5px; color: #94a3b8; line-height: 1.5; }
+
+  .wm { position: absolute; bottom: 10px; left: 0; right: 0; text-align: center; font-size: 9.5px; color: rgba(100,116,139,0.5); letter-spacing: 2px; }
+</style>
+</head>
+<body>
+  <div class="cover">
+    <div class="deco deco-1"></div>
+    <div class="deco deco-2"></div>
+
+    <div class="badge-row">
+      <span class="badge b1">CodeBuddy / Claude 专用</span>
+      <span class="badge b2">一键安装 · 即装即用</span>
+    </div>
+
+    <div class="title">
+      <h1>考研英语精读 <span class="hl">Skill 包</span></h1>
+    </div>
+    <div class="subtitle">把真题原文变成逐句精读笔记的 AI 工作流</div>
+
+    <div class="compare">
+      <div class="row">
+        <div class="col-label col-old">传统做法</div>
+        <div class="col-body old">
+          <div class="head">❌ 直接让 AI 做笔记</div>
+          <ul>
+            <li><span class="dot">✕</span><span>每次格式都不一样，乱</span></li>
+            <li><span class="dot">✕</span><span>生词、语法无法跨篇章积累</span></li>
+            <li><span class="dot">✕</span><span>长难句分析深浅不一</span></li>
+            <li><span class="dot">✕</span><span>一篇要反复调 prompt 3 小时</span></li>
+          </ul>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-label col-new">用本技能包</div>
+        <div class="col-body new">
+          <div class="head">✅ 装好直接跑工作流</div>
+          <ul>
+            <li><span class="dot">✓</span><span>六步标准化，篇篇同款质量</span></li>
+            <li><span class="dot">✓</span><span>生词/语法自动汇总成知识库</span></li>
+            <li><span class="dot">✓</span><span>长难句树形拆解 + 考点提示</span></li>
+            <li><span class="dot">✓</span><span>粘贴真题，10 分钟出笔记</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="flow-title">六步精读流水线</div>
+    <div class="pipeline">
+      <div class="step"><span class="n">1</span>格式化</div>
+      <div class="step"><span class="n">2</span>翻译对照</div>
+      <div class="step"><span class="n">3</span>语法总结</div>
+      <div class="step"><span class="n">4</span>长难句拆解</div>
+      <div class="step"><span class="n">5</span>笔记整合</div>
+      <div class="step"><span class="n">6</span>生词练习</div>
+    </div>
+
+    <div class="bottom">
+      <div class="b-left">
+        <div class="b-label">全套方案（含 27 篇示例笔记 + 安装教程）</div>
+        <div class="b-price"><span class="s">¥</span>99</div>
+      </div>
+      <div class="b-right">
+        <div class="m">买回去就能生成自己的笔记</div>
+        <div class="s">支持任意年份真题 · 持续更新</div>
+      </div>
+    </div>
+
+    <div class="wm">考研英语精读 Skill 包 · CodeBuddy / Claude 专用</div>
+  </div>
+</body>
+</html>
