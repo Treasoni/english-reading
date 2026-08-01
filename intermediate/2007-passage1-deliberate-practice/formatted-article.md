@@ -357,7 +357,7 @@ Or, put another way, expert performers—whether in memory or surgery, ballet or
 22. The word "mania" (Para. 2) most probably means ____.
     - [A] fun
     - [B] craze
-    - [C] hysteria
+    - [C] **hysteria**
     - [D] excitement
 
 23. According to Ericsson, good memory ____.
