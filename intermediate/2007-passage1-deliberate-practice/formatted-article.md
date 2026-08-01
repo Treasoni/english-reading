@@ -220,7 +220,7 @@ In other words, whatever **inborn** differences two people may exhibit in their 
 > | 类型 | 引导词 | 修饰对象 |
 > |------|--------|----------|
 > | 状语从句 | whatever | 让步状语，修饰主句 |
-> | 介词短语 | in | 修饰 abilities |
+> | 介词短语 | in | 方面状语，修饰 exhibit |
 > | 非谓语（不定式） | to memorize | 后置定语，修饰 abilities |
 > | 名词性从句 | how | 作介词 by 的宾语 |
 >
@@ -228,8 +228,8 @@ In other words, whatever **inborn** differences two people may exhibit in their 
 > ```
 > 主句: those differences are swamped by how well each person "encodes" the information
 >   ├── 状从(whatever): whatever inborn differences two people may exhibit in their abilities to memorize → 让步状语
->   │     ├── 介短(in): in their abilities → 修饰 exhibit
->   │     └── 非谓语(不定式): to memorize → 后置定语修饰 abilities
+>   │     └── 介短(in): in their abilities → 方面状语，修饰 exhibit
+>   │           └── 非谓语(不定式): to memorize → 后置定语修饰 abilities
 >   └── 介短(by) + 名从(how): by how well each person "encodes" the information → 引出动作执行者
 > ```
 >
