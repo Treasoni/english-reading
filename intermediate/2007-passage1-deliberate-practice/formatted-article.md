@@ -241,7 +241,45 @@ In other words, whatever **inborn** differences two people may exhibit in their 
 > 3. `in other words`：标志性短语，提示下文是对上文的同义改写，考研阅读重点信息
 > 4. `encode` 词义：此处意为"（将信息）编码"，指对信息的加工处理，与下文的 `encode information` 呼应
 
-And the best way to learn how to encode information meaningfully, Ericsson determined, was a process known as **deliberate practice**. Deliberate practice **entails** more than simply repeating a task. Rather, it involves setting specific goals, obtaining **immediate feedback** and concentrating as much on technique as on outcome.
+And the best way to learn how to encode information meaningfully, Ericsson determined, was a process known as **deliberate practice**.
+
+> [!abstract]- 长难句分析
+> **原句**：And the best way to learn how to encode information meaningfully, Ericsson determined, was a process known as **deliberate practice**.
+>
+> **主干提取**：
+> - 主语 S: the best way to learn how to encode information meaningfully
+> - 谓语 V: was
+> - 补语 C: a process known as deliberate practice
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 插入语 | 逗号 | Ericsson determined，补充信息来源 |
+> | 非谓语（不定式） | to learn | 后置定语，修饰 the best way |
+> | 特殊疑问词+不定式 | how to | 作 learn 的宾语 |
+> | 非谓语（过去分词短语） | known as | 后置定语，修饰 a process |
+>
+> **结构图解**：
+> ```
+> 主句: the best way was a process known as deliberate practice
+>   ├── 主语 S: the best way
+>   │     └── 非谓语(不定式): to learn how to encode information meaningfully → 后置定语修饰 the best way
+>   │           └── 名从(how): how to encode information meaningfully → 作 learn 的宾语
+>   ├── 插入语: Ericsson determined → 主谓插入语，补充信息来源
+>   └── 表语 C: a process
+>         └── 非谓语(过去分词): known as deliberate practice → 后置定语修饰 a process
+> ```
+>
+> **参考译文**：埃里克森认定，学习如何有意义地编码信息的最佳方法，就是被称为"刻意练习"的过程。
+>
+> **考点提示**：
+> 1. 插入语识别："Ericsson determined" 为"主谓插入语"，阅读时可先跳过，直接连读主干 the best way... was a process
+> 2. 不定式短语作后置定语："to learn how to encode information meaningfully" 修饰 the best way
+> 3. 特殊疑问词+不定式："how to encode information meaningfully" 作 learn 的宾语，相当于宾语从句
+> 4. 过去分词短语作后置定语："known as deliberate practice" 修饰 a process，相当于 which is known as...
+
+Deliberate practice **entails** more than simply repeating a task. Rather, it involves setting specific goals, obtaining **immediate feedback** and concentrating as much on technique as on outcome.
 
 Ericsson and his colleagues have thus taken to studying expert performers in a wide range of **pursuits**, including soccer. They gather all the data they can, not just performance statistics and **biographical** details but also the results of their own laboratory experiments with high achievers.
 
