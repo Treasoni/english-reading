@@ -491,7 +491,134 @@ Ericsson and his colleagues have thus taken to studying expert performers in a w
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **account for** | v. 短语 | 解释；说明（原因） | "What might **account for** this strange phenomenon?" |
+| **assertion** | n. | 论断；断言 | "Their work makes a rather startling **assertion**" |
+| **astrological** | adj. | 占星的；星象的 | "certain **astrological** signs confer superior soccer skills" |
+| **astrological signs** | n. 短语 | 星座 | "certain **astrological signs** confer superior soccer skills" |
+| **biographical** | adj. | 传记的；生平的 | "not just performance statistics and **biographical** details" |
+| **capacity** | n. | 能力；容量 | "winter-born babies tend to have higher oxygen **capacity**" |
+| **cognitive** | adj. | 认知的 | "more of a **cognitive** exercise than an intuitive one" |
+| **conceive** | v. | 怀孕；构想 | "soccer-mad parents are more likely to **conceive** children in springtime" |
+
+### D-F
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **deliberate** | adj. | 深思熟虑的；故意的 | "a process known as **deliberate** practice" |
+| **deliberate practice** | n. 短语 | 刻意练习 | "was a process known as **deliberate practice**" |
+| **digit** | n. | 数字；位数 | "his **digit** span had risen from 7 to 20" |
+| **digit span** | n. 短语 | 数字记忆广度 | "his **digit span** had risen from 7 to 20" |
+| **encode** | v. | 编码；加工（信息） | "by how well each person '**encodes**' the information" |
+| **entail** | v. | 需要；必然涉及 | "Deliberate practice **entails** more than simply repeating a task" |
+| **feedback** | n. | 反馈 | "obtaining immediate **feedback**" |
+
+### G-L
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **genetically** | adv. | 基因方面；遗传地 | "memory itself is not **genetically** determined" |
+| **hysteria** | n. | 歇斯底里；病态兴奋 | "[C] **hysteria**" |
+| **immediate feedback** | n. 短语 | 即时反馈 | "obtaining **immediate feedback**" |
+| **inborn** | adj. | 天生的；先天的 | "whatever **inborn** differences two people may exhibit" |
+| **intuitive** | adj. | 直觉的 | "more of a cognitive exercise than an **intuitive** one" |
+
+### M-R
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **mania** | n. | 狂热；热衷 | "at the annual peak of soccer **mania**" |
+| **noteworthy** | adj. | 值得注意的 | "you would most likely find a **noteworthy** quirk" |
+| **overrated** | adj. | 被高估的 | "talent is highly **overrated**" |
+| **oxygen capacity** | n. 短语 | 携氧能力 | "winter-born babies tend to have higher **oxygen capacity**" |
+| **pronounced** | adj. | 显著的；明显的 | "this strange phenomenon to be even more **pronounced**" |
+| **pursuit** | n. | 追求；职业领域 | "expert performers in a wide range of **pursuits**" |
+| **quirk** | n. | 怪癖；奇特之处 | "find a **noteworthy quirk**" |
+
+### S-Z
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **stamina** | n. | 耐力；持久力 | "which increases soccer **stamina**" |
+| **startling** | adj. | 惊人的 | "Their work makes a rather **startling** assertion" |
+| **startling assertion** | n. 短语 | 惊人的论断 | "Their work makes a rather **startling assertion**" |
+| **swamp** | v. | 淹没；使难以承受 | "those differences are **swamped** by how well each person..." |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> conceive / entails / stamina / quirk / cognitive / inborn / overrated / pronounced / swamped
+
+1. Natural talent is highly ________; expert performers are made, not born.
+2. Regular training can improve your ________ and help you last longer in matches.
+3. Deliberate practice ________ setting specific goals and obtaining feedback.
+4. Soccer-mad parents are more likely to ________ children in the spring.
+5. The birthday phenomenon was even more ________ in the European youth teams.
+6. Whatever ________ differences people may have, they can be overcome by training.
+7. Memorizing is more of a ________ exercise than an intuitive one.
+8. It is a strange ________ that elite players are born in the earlier months.
+9. The individual differences are ________ by how well each person encodes information.
+
+> [!abstract]- 答案
+> 1. **overrated**（被高估的）
+> 2. **stamina**（耐力）
+> 3. **entails**（需要；必然涉及）
+> 4. **conceive**（怀孕）
+> 5. **pronounced**（明显的）
+> 6. **inborn**（天生的）
+> 7. **cognitive**（认知的）
+> 8. **quirk**（怪癖；奇特之处）
+> 9. **swamped**（淹没）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. account for
+
+2. deliberate practice
+
+3. put another way
+
+> [!abstract]- 答案
+> 1. **account for** = 解释；说明（原因）
+> 2. **deliberate practice** = 刻意练习
+> 3. **put another way** = 换句话说
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "at the annual peak of soccer **mania**" 中 **mania** 的含义是：
+   - A. 乐趣 fun
+   - B. 狂热 craze
+   - C. 歇斯底里 hysteria
+   - D. 兴奋 excitement
+
+2. "those differences are **swamped** by how well each person encodes the information" 中 **swamped** 的含义是：
+   - A. 增强 enhanced
+   - B. 淹没 overwhelmed
+   - C. 识别 recognized
+   - D. 揭示 revealed
+
+3. "Deliberate practice **entails** more than simply repeating a task" 中 **entails** 的含义是：
+   - A. 排除 excludes
+   - B. 需要 entails
+   - C. 建议 suggests
+   - D. 拒绝 refuses
+
+> [!abstract]- 答案
+> 1. **B** — "mania" 由 "annual peak"（年度高峰）及上下文语境推知为"狂热"，与 craze 同义；hysteria 带病态贬义色彩，不符合语境。
+> 2. **B** — "be swamped by" 意为"被……淹没/盖过"，此处表示先天差异被后天的编码能力所掩盖。
+> 3. **B** — "entail" 意为"需要；必然涉及"，下文 "setting specific goals, obtaining immediate feedback..." 列举了刻意练习涉及的内容。
 
 ## 心得
 
