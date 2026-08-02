@@ -56,3 +56,11 @@ Parameters:
 - Current state: {dynamic_state}
 - Extra constraints: {dynamic_constraints}
 ```
+
+## Usage Events
+
+- Append one event per LLM call to `.llm/prompt-cache/usage-events.jsonl` (one JSON object per line) following `llm-usage-event.schema.json`.
+- Record `timestamp`, `request_type`, `template_id`, `template_version`, `model`, `input_tokens`, `output_tokens`, and `latency_ms`.
+- Record `cache_read_tokens` / `cache_write_tokens` only when the provider returns them; never fabricate zeros.
+- Record `cost_usd` only when the provider returns it or when using a documented project-wide estimate.
+- Never log raw prompts, user input, model output, or secrets. Use `input_reference` for a safe path or fixture id.

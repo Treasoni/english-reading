@@ -38,7 +38,7 @@ Use this workflow when a user wants complete 考研英语阅读精读笔记 for 
 
 ## P0 批量输入与状态初始化
 
-1. Read `.learnings/RULES.md`, `.learnings/LEARNINGS.md`, `.learnings/ERRORS.md`, and `.codex/rules/workflow-routing.md`.
+1. Confirm `.learnings/RULES.md`, `.learnings/LEARNINGS.md`, `.learnings/ERRORS.md`, and `.codex/rules/workflow-routing.md` are already in context from session start; re-read them only if absent.
 2. Collect source directory or file list.
 3. Confirm batch id, output root, topic naming rule, and concurrency.
 4. Clamp concurrency to 1-5. Use 3 if the user does not specify.
@@ -127,6 +127,7 @@ Use this workflow when a user wants complete 考研英语阅读精读笔记 for 
 ## Fork Subagent Rules
 
 - Use fork-mode subagents for independent, bounded work.
+- Compose each fork prompt from the stable template in `prompts/fork-subagent.md`; keep the fixed prefix byte-stable and fill only the final `Parameters` block per subagent.
 - Default concurrency is 3. The maximum is 5.
 - Give each subagent one article or one read-only file group.
 - Tell each subagent its exact write scope.

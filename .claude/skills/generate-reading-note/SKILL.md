@@ -53,7 +53,7 @@ If the request could be either single or batch, ask one plain text question: "è¿
 
 Before changing files, running project commands, or calling external services:
 
-1. Read `.learnings/RULES.md`, `.learnings/LEARNINGS.md`, and `.learnings/ERRORS.md`.
+1. Confirm `.learnings/RULES.md`, `.learnings/LEARNINGS.md`, and `.learnings/ERRORS.md` are already in context from session start; re-read them only if absent.
 2. Read the active runtime's routing file from the Platform Paths table.
 3. Select the matching workflow id.
 4. Read the selected workflow file from the Platform Paths table.
@@ -136,6 +136,7 @@ Main-agent-only tasks:
 
 Dispatch constraints:
 
+- Compose each fork prompt from the stable template in `prompts/fork-subagent.md`; keep the fixed prefix byte-stable and fill only the final `Parameters` block per subagent.
 - Default concurrency is 3. Maximum concurrency is 5.
 - Give each subagent one article or one read-only file group.
 - Tell each subagent its exact write scope.

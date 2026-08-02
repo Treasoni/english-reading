@@ -1,18 +1,156 @@
 {
   "version": "1",
-  "description": "Replace the disabled example with stable, representative requests before using this as a regression suite.",
+  "description": "Representative, stable, sanitized regression cases for the vault's high-frequency reading-note pipeline skills. Fixtures live under .llm/prompt-cache/fixtures/. Baselines are null until first measured run.",
   "cases": [
     {
-      "id": "replace-with-a-stable-case-id",
-      "enabled": false,
-      "request_type": "replace-with-request-type",
-      "template_id": "replace-with-template-id",
-      "input_fixture": "fixtures/replace-with-safe-input.md",
+      "id": "skill-format-article-v1",
+      "enabled": true,
+      "request_type": "format_article",
+      "template_id": "skill:format-article",
+      "template_version": "v1",
+      "input_fixture": "fixtures/reading-passage.md",
       "parameters": {
-        "replace_with_stable_fields": "replace-with-safe-value"
+        "topic": "regression-sample",
+        "source": "fixtures/reading-passage.md"
       },
       "quality_checks": [
-        "Describe the observable output requirement here."
+        "Every sentence of the source passage is preserved verbatim; nothing removed or added.",
+        "Obsidian headings use a space after '#' (e.g. '# Title', not '#Title').",
+        "Paragraphs are separated by exactly one blank line.",
+        "YAML frontmatter is present with simple string/list values only."
+      ],
+      "baseline": {
+        "input_tokens": null,
+        "cache_read_tokens": null,
+        "output_tokens": null,
+        "latency_ms": null,
+        "cost_usd": null,
+        "quality_score": null
+      }
+    },
+    {
+      "id": "skill-translate-v1",
+      "enabled": true,
+      "request_type": "translate",
+      "template_id": "skill:translate",
+      "template_version": "v1",
+      "input_fixture": "fixtures/reading-passage.md",
+      "parameters": {
+        "topic": "regression-sample",
+        "source": "fixtures/reading-passage.md",
+        "output_dir": "intermediate/regression-sample"
+      },
+      "quality_checks": [
+        "Each English paragraph is followed by its Chinese translation, separated by a blank line.",
+        "The full English source is preserved; no paragraph merged or dropped.",
+        "YAML frontmatter uses type: translation and the provided topic.",
+        "No explanatory content is added outside '> [!note]' blocks."
+      ],
+      "baseline": {
+        "input_tokens": null,
+        "cache_read_tokens": null,
+        "output_tokens": null,
+        "latency_ms": null,
+        "cost_usd": null,
+        "quality_score": null
+      }
+    },
+    {
+      "id": "skill-organize-grammar-v1",
+      "enabled": true,
+      "request_type": "organize_grammar",
+      "template_id": "skill:organize-grammar",
+      "template_version": "v1",
+      "input_fixture": "fixtures/reading-passage.md",
+      "parameters": {
+        "topic": "regression-sample",
+        "source": "fixtures/reading-passage.md"
+      },
+      "quality_checks": [
+        "Grammar points are grouped into flat '### 从句：定语从句' style headings, not nested '####' sub-entries.",
+        "Teaching details (terms, etymology notes, examples, exam context) are preserved.",
+        "Callouts and tables are valid; every table has a blank line before it.",
+        "Related grammar points are grouped in one section even if from different sentences."
+      ],
+      "baseline": {
+        "input_tokens": null,
+        "cache_read_tokens": null,
+        "output_tokens": null,
+        "latency_ms": null,
+        "cost_usd": null,
+        "quality_score": null
+      }
+    },
+    {
+      "id": "skill-analyze-sentence-v1",
+      "enabled": true,
+      "request_type": "analyze_sentence",
+      "template_id": "skill:analyze-sentence",
+      "template_version": "v1",
+      "input_fixture": "fixtures/reading-passage.md",
+      "parameters": {
+        "sentences": [
+          "The problem of teacher shortage has become more acute as school districts across the country struggle to fill classrooms with qualified instructors.",
+          "Teachers, who once enjoyed considerable autonomy in the classroom, now find themselves accountable to standardized tests, parental demands, and administrative oversight."
+        ]
+      },
+      "quality_checks": [
+        "Each analysis callout begins with '> **原句**：' followed by the full English sentence.",
+        "主干提取 uses the '- 中文名 缩写: 内容' format (e.g. '- 主语 S: ...').",
+        "Every table inside a callout has a blank line before it.",
+        "Multiple sentences use the alternating original-sentence/callout structure."
+      ],
+      "baseline": {
+        "input_tokens": null,
+        "cache_read_tokens": null,
+        "output_tokens": null,
+        "latency_ms": null,
+        "cost_usd": null,
+        "quality_score": null
+      }
+    },
+    {
+      "id": "skill-compile-note-v1",
+      "enabled": true,
+      "request_type": "compile_note",
+      "template_id": "skill:compile-note",
+      "template_version": "v1",
+      "input_fixture": "fixtures/reading-passage.md",
+      "parameters": {
+        "topic": "regression-sample",
+        "intermediate_dir": "intermediate/regression-sample",
+        "output_path": "regression-sample-精读笔记.md"
+      },
+      "quality_checks": [
+        "All template sections are present: 背景, 文章原文, 翻译对照, 语法要点, 心得, 延伸, 思考题, 相关笔记.",
+        "Exactly one '<!-- VOCABULARY_SLOT -->' appears before the 心得 section.",
+        "Inline '> [!abstract]-' long-sentence callouts stay in 文章原文 after their sentence; none are moved to a summary section.",
+        "YAML frontmatter uses simple strings and lists."
+      ],
+      "baseline": {
+        "input_tokens": null,
+        "cache_read_tokens": null,
+        "output_tokens": null,
+        "latency_ms": null,
+        "cost_usd": null,
+        "quality_score": null
+      }
+    },
+    {
+      "id": "skill-extract-vocabulary-v1",
+      "enabled": true,
+      "request_type": "extract_vocabulary",
+      "template_id": "skill:extract-vocabulary",
+      "template_version": "v1",
+      "input_fixture": "fixtures/reading-passage.md",
+      "parameters": {
+        "note_path": "regression-sample-精读笔记.md"
+      },
+      "quality_checks": [
+        "'<!-- VOCABULARY_SLOT -->' is replaced by both '## 生词表' and '### 生词练习'.",
+        "Vocabulary entries are deduplicated and sorted; words inside phrases also get standalone entries.",
+        "No invented words; a zero-vocabulary result is reported honestly.",
+        "No other content in the note is modified."
       ],
       "baseline": {
         "input_tokens": null,
@@ -25,4 +163,3 @@
     }
   ]
 }
-

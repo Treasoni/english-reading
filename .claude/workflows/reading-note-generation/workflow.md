@@ -36,7 +36,7 @@ Use this workflow when a user wants a complete 考研英语阅读精读笔记 fr
 
 ## P0 输入收集与状态初始化
 
-1. Read `.learnings/RULES.md`, `.learnings/LEARNINGS.md`, `.learnings/ERRORS.md`, and `.claude/rules/workflow-routing.md`.
+1. Confirm `.learnings/RULES.md`, `.learnings/LEARNINGS.md`, `.learnings/ERRORS.md`, and `.claude/rules/workflow-routing.md` are already in context from session start; re-read them only if absent.
 2. Collect the article text or source file path.
 3. Collect or infer year, passage number, and topic slug.
 4. Confirm the intermediate directory.
