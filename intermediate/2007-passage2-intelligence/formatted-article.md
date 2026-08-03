@@ -56,7 +56,7 @@ People are invited to query Marilyn vos Savant, who at age 10 had tested at a **
 > 2. 分号连接两个独立分句，`that` 指代前句所述内容，指代对象判断为常考点
 > 3. 破折号同位语解释说明前文名词，阅读时可先跳过细节
 
-IQ tests ask you to complete **verbal and visual analogies**, to **envision** paper after it has been folded and cut, and to **deduce** numerical sequences, among other similar tasks.
+IQ tests ask you to complete **verbal and visual analogies**, to **envision** paper after it has been folded and cut, and to **deduce** numerical sequences, **among** other similar tasks.
 
 So it is a bit confusing when vos Savant fields such queries from the average Joe (whose IQ is 100) as, What's the difference between love and fondness? Or what is the nature of luck and coincidence?
 
