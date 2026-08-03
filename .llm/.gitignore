@@ -1,2 +1,3 @@
 # Usage-event telemetry (local; contains timing/cost metadata). Never commit.
 prompt-cache/usage-events*.jsonl
+prompt-cache/events/
