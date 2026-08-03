@@ -82,10 +82,10 @@ So it is a bit confusing when vos Savant fields such queries from the average Jo
 > **结构图解**：
 > ```
 > 主句: it is a bit confusing
->   ├── 状从(when): when vos Savant fields such queries from the average Joe → 时间/情景状语
->   │     ├── 介短(from): from the average Joe → 说明提问来源
->   │     └── 非限定定从(whose): whose IQ is 100 → 修饰 the average Joe
->   └── such...as 结构: as, "What's the difference...? Or what is the nature...?" → 具体说明 such queries
+>   └── 状从(when): when vos Savant fields such queries from the average Joe → 时间/情景状语
+>         ├── 介短(from): from the average Joe → 说明提问来源
+>         ├── 非限定定从(whose): whose IQ is 100 → 修饰 the average Joe
+>         └── such...as 结构: as, "What's the difference...? Or what is the nature...?" → 具体说明 such queries
 > ```
 >
 > **参考译文**：因此，当沃斯·萨万特回答普通人（智商为 100）提出的诸如"爱与喜欢有什么区别？"或"运气与巧合的本质是什么？"这类问题时，多少有些令人困惑。
@@ -164,7 +164,7 @@ The defining term of intelligence in humans still seems to be the IQ score, even
 > | 介词短语 | in humans | 范围定语，修饰 intelligence |
 > | 让步状语从句 | even though | 主句与从句构成转折让步 |
 > | 比较结构 | as often as | 施测频率的对比 |
-> | 时间状语从句 | as they used to be | 与过去频率相比（省略 given） |
+> | 比较状语从句 | as they used to be | 与过去频率相比（省略 given） |
 >
 > **结构图解**：
 > ```
@@ -209,7 +209,7 @@ Superhigh scores like vos Savant's are no longer possible, because scoring is no
 > | 介词短语 | on a statistical population distribution | 与 is based 构成搭配 |
 > | 介词短语 | among age peers | 后置定语，修饰 population distribution |
 > | 并列结构 | rather than | 连接 based on... 与 dividing.../multiplying... |
-> | 非谓语（动名词） | dividing / multiplying | 与 based on... 并列的分词短语 |
+> | 非谓语（动名词） | dividing / multiplying | 与 based on... 并列的动名词短语 |
 >
 > **结构图解**：
 > ```
