@@ -95,7 +95,7 @@ So it is a bit confusing when vos Savant fields such queries from the average Jo
 > 2. `such...as` 搭配：as 后列举具体例子，识别 such...as 的呼应关系为考点
 > 3. 直接引语作名词性成分，两个疑问句整体理解为 queries 的内容
 
-It's not obvious how the capacity to visualize objects and to figure out numerical patterns suits one to answer questions that have eluded some of the best poets and philosophers.
+It's not obvious how the capacity to visualize objects and to figure out numerical patterns suits one to answer questions that have **eluded** some of the best poets and philosophers.
 
 > [!abstract]- 长难句分析
 > **原句**：It's not obvious how the capacity to visualize objects and to figure out numerical patterns suits one to answer questions that have eluded some of the best poets and philosophers.
