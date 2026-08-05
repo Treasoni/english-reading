@@ -325,7 +325,7 @@ Research has found that IQ predicted **leadership skills** when the tests were g
 > 2. `when` 时间状语从句插入分句1，理解时注意主谓间隔
 > 3. `that is` 引导解释说明，破折号后内容为理解负相关含义的关键
 
-Anyone who has toiled through SAT will testify that test-taking skill also matters, whether it's knowing when to guess or what questions to skip.
+Anyone who has **toiled** through SAT will testify that test-taking skill also **matters**, whether it's knowing when to guess or what questions to skip.
 
 > [!abstract]- 长难句分析
 > **原句**：Anyone who has toiled through SAT will testify that test-taking skill also matters, whether it's knowing when to guess or what questions to skip.
