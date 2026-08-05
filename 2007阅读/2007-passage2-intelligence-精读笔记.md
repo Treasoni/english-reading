@@ -576,7 +576,135 @@ Such standardized tests may not assess all the important elements necessary to s
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **among** | prep. | 在……之中 | "to **deduce** numerical sequences, **among** other similar tasks" |
+| **analytical** | adj. | 分析的；善于分析的 | "traditional tests best assess **analytical** and verbal skills" |
+| **analytical and verbal skills** | n. 短语 | 分析和语言能力 | "traditional tests best assess **analytical and verbal skills**" |
+| **chronological age** | n. 短语 | 生理年龄；实足年龄 | "rather than simply dividing the mental age by the **chronological age**" |
+| **correlated** | adj. | 相关的；关联的 | "IQ was negatively **correlated** with leadership" |
+| **creativity** | n. | 创造力 | "fail to measure **creativity** and practical knowledge" |
+
+### D-F
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **deduce** | v. | 推断；演绎 | "to **deduce** numerical sequences" |
+| **eluded** | v. | 难倒；使……无法理解 | "questions that have **eluded** some of the best poets and philosophers" |
+| **encompasses** | v. | 包含；涵盖 | "intelligence **encompasses** more than a score on a test" |
+| **envision** | v. | 想象；设想 | "to **envision** paper after it has been folded and cut" |
+
+### G-L
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **genetics** | n. | 遗传学 | "from neurology, **genetics**, computer science and other fields" |
+| **Impartial** | adj. | 不偏不倚的；公正的 | "[C] **Impartial**." |
+| **IQ** | n. 缩写 | 智商（intelligence quotient） | "that gave her an **IQ** of 228" |
+| **leadership skills** | n. 短语 | 领导能力 | "IQ predicted **leadership skills**" |
+
+### M-R
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **matters** | v. | 重要；要紧 | "test-taking skill also **matters**" |
+| **mental age** | n. 短语 | 心理年龄 | "dividing the **mental age** by the chronological age" |
+| **mental level** | n. 短语 | 智力水平 | "tested at a **mental level** of someone about 23 years old" |
+| **negatively correlated** | adj. 短语 | 呈负相关的 | "IQ was **negatively correlated** with leadership" |
+| **neurology** | n. | 神经学 | "from **neurology**, genetics, computer science and other fields" |
+| **practical knowledge** | n. 短语 | 实践知识 | "fail to measure creativity and **practical knowledge**" |
+
+### S-Z
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **standardized** | adj. | 标准化的 | "Other **standardized** tests" |
+| **standardized tests** | n. 短语 | 标准化测试 | "Other **standardized tests**, such as the SAT" |
+| **statistical population distribution** | n. 短语 | 统计总体分布 | "scoring is now based on a **statistical population distribution** among age peers" |
+| **toiled** | v. | 辛苦劳作；艰难前进 | "Anyone who has **toiled** through SAT" |
+| **verbal** | adj. | 言语的；口头的 | "best assess analytical and **verbal** skills" |
+| **verbal and visual analogies** | n. 短语 | 言语和视觉类比 | "complete **verbal and visual analogies**" |
+| **visual** | adj. | 视觉的 | "complete verbal and **visual** analogies" |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> encompasses / deduce / envision / eluded / toiled / matters / impartial / correlated
+
+1. Intelligence ________ more than a single test score; it also includes creativity and practical knowledge.
+
+2. In IQ tests, you may be asked to ________ numerical sequences from given patterns.
+
+3. It is not easy to ________ how a piece of paper will look after being folded and cut.
+
+4. The nature of luck and coincidence has ________ some of the best philosophers.
+
+5. Anyone who has ________ through SAT knows that test-taking skill really matters.
+
+6. What ________ is not the score itself, but whether the test measures what it claims to.
+
+7. A good judge should remain ________ and put aside personal bias.
+
+8. Under high-stress conditions, IQ was negatively ________ with leadership.
+
+> [!abstract]- 答案
+> 1. **encompasses**（包含；涵盖）
+> 2. **deduce**（推断；演绎）
+> 3. **envision**（想象；设想）
+> 4. **eluded**（难倒；使……无法理解）
+> 5. **toiled**（辛苦劳作）
+> 6. **matters**（重要；要紧）
+> 7. **impartial**（不偏不倚的；公正的）
+> 8. **correlated**（相关的）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. mental age / chronological age
+
+2. statistical population distribution
+
+3. verbal and visual analogies
+
+> [!abstract]- 答案
+> 1. **mental age / chronological age** = 心理年龄 / 生理年龄（实足年龄）
+> 2. **statistical population distribution** = 统计总体分布
+> 3. **verbal and visual analogies** = 言语和视觉类比
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "questions that have **eluded** some of the best poets and philosophers" 中 **eluded** 的含义是：
+   - A. 被……解答 solved by
+   - B. 难倒；使……无法理解 escaped the understanding of
+   - C. 使……混淆 confused
+   - D. 使……想起 reminded
+
+2. "IQ was **negatively correlated** with leadership" 中 **negatively correlated** 的含义是：
+   - A. 与……正相关 positively related
+   - B. 与……负相关 inversely related
+   - C. 与……无关 unrelated
+   - D. 与……等同 equal to
+
+3. "intelligence **encompasses** more than a score on a test" 中 **encompasses** 的含义是：
+   - A. 等同于 equals
+   - B. 包含；涵盖 includes
+   - C. 排除 excludes
+   - D. 限制 limits
+
+> [!abstract]- 答案
+> 1. **B** — "elude" 意为"使……无法理解/难倒"，此处指这些问题连最优秀的诗人和哲学家都未能解答；"confused" 表"混淆"，对象不同，不符合语境。
+> 2. **B** — "negatively correlated with" 为统计术语，意为"与……呈负相关"，即一个上升、另一个下降；"positively related" 方向相反。
+> 3. **B** — "encompass" 意为"包含、涵盖"，下文 "more than a score" 提示智力包含的内容不止分数一项；"equals" 意为"等同于"，与原意不符。
 
 ## 心得
 
