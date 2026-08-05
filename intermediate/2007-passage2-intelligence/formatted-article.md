@@ -395,5 +395,5 @@ Anyone who has **toiled** through SAT will testify that test-taking skill also *
 30. What is the author's attitude towards IQ tests?
     - [A] Supportive.
     - [B] Skeptical.
-    - [C] Impartial.
+    - [C] **Impartial**.
     - [D] Biased.
