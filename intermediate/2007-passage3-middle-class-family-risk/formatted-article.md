@@ -42,6 +42,7 @@ During the past generation, the American middle-class family that once could **c
 >   │           ├── 谓语 V: could count on
 >   │           ├── 宾语 O: hard work and fair play
 >   │           └── 目的状语: to keep itself financially secure
+>   ├── 谓语 V: has been transformed（被动语态）
 >   └── 被动施动者: by economic risk and new realities
 > ```
 >
@@ -83,13 +84,16 @@ As a result, they have lost the **parachute** they once had in times of **financ
 > ```
 > 主句: they have lost the parachute
 >   ├── 结果状语: As a result
->   ├── 定从(省略that): (that) they once had in times of financial setback → 修饰 the parachute
->   │     └── 时间状语: in times of financial setback
->   │           └── 介短(of): of financial setback → 修饰 times
->   └── 同位语(破折号): a back-up earner (usually Mom)
->         └── 定从(who): who could go into the workforce if the primary earner got laid off or fell sick → 修饰 back-up earner
->               ├── 介短(into): into the workforce → 与 go 搭配
->               └── 条件状从(if): if the primary earner got laid off or fell sick
+>   ├── 主语 S: they
+>   ├── 谓语 V: have lost
+>   └── 宾语 O: the parachute
+>         ├── 定从(省略that): (that) they once had in times of financial setback → 修饰 the parachute
+>         │     └── 时间状语: in times of financial setback
+>         │           └── 介短(of): of financial setback → 修饰 times
+>         └── 同位语(破折号): a back-up earner (usually Mom)
+>               └── 定从(who): who could go into the workforce if the primary earner got laid off or fell sick → 修饰 back-up earner
+>                     ├── 介短(into): into the workforce → 与 go 搭配
+>                     └── 条件状从(if): if the primary earner got laid off or fell sick
 > ```
 >
 > **参考译文**：结果，他们失去了在经济困难时期曾经拥有的保护伞——备用挣钱者（通常是母亲），在主挣钱者失业或生病时可以进入劳动力市场。
@@ -117,7 +121,7 @@ This “**added-worker effect**” could support the **safety net** offered by *
 > | 介词短语 | by unemployment insurance or disability insurance | 施动者，修饰 offered |
 > | 非谓语（不定式） | to help | 目的状语，修饰 could support |
 > | 非谓语（不定式） | weather | 作 help 的宾语补足语（help sb. do 结构） |
-> | 介词短语 | or | 并列连接 unemployment insurance 与 disability insurance |
+> | 并列连词 | or | 并列连接 unemployment insurance 与 disability insurance |
 >
 > **结构图解**：
 > ```
@@ -161,7 +165,6 @@ Steelworkers, airline employees, and now those in the auto industry are joining 
 > | 介词短语 | about | 与 worry 构成搭配，引出担忧对象 |
 > | 并列连词 | and | 连接 interest rates / stock market fluctuation / the harsh reality 三个宾语 |
 > | 同位语从句 | that | 解释说明 the harsh reality 的内容 |
-> | 介词短语 | of | 后置定语，修饰 the reality（无，此处 that 从句为同位语） |
 >
 > **结构图解**：
 > ```
@@ -252,7 +255,7 @@ Both the **absolute cost** of **healthcare** and the share of it borne by famili
 > | 介词短语 | by families | 施动者，修饰 borne |
 > | 破折号 + 并列连词 | and | 连接两个并列分句（破折号起强调作用） |
 > | 介词短语 | from / to | 说明 spreading 的起止范围 |
-> | with 介词短语 | with | 伴随状语，补充说明新计划的特点 |
+> | 介词短语 | with | 伴随状语，补充说明新计划的特点 |
 > | 介词短语 | for families' future healthcare | 后置定语，说明风险针对的对象 |
 >
 > **结构图解**：
