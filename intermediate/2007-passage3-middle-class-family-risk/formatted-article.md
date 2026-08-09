@@ -405,6 +405,6 @@ From the middle-class family **perspective**, much of this, understandably, look
 
 35. Which of the following is the best title for this text?
     - [A] The Middle Class on the Alert
-    - [B] The Middle Class on the Cliff
+    - [B] The Middle Class on the **Cliff**
     - [C] The Middle Class in Conflict
     - [D] The Middle Class in Ruins
