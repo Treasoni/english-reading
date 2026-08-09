@@ -633,7 +633,169 @@ From the middle-class family **perspective**, much of this, understandably, look
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **absorb** | v. | 吸收；承担（风险） | "families have been asked to **absorb** much more risk in their retirement income." |
+| **absolute cost** | n. 短语 | 绝对成本 | "Both the **absolute cost** of healthcare and the share of it borne by families have risen." |
+| **acceleration** | n. | 加速；加快 | "a good deal more like a frightening **acceleration** of the wholesale shift of financial risk." |
+| **added-worker effect** | n. 短语 | 附加劳动者效应 | "This '**added-worker effect**' could support the safety net offered by unemployment insurance." |
+| **back-up earner** | n. 短语 | 备用挣钱者 | "they have lost the parachute—a **back-up earner** (usually Mom) who could go into the workforce." |
+| **count on** | v. 短语 | 依靠；指望 | "the American middle-class family that once could **count on** hard work and fair play." |
+
+### D-F
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **deductibles** | n. | 免赔额 | "with much higher **deductibles** and a large new dose of investment risk." |
+| **demographics** | n. | 人口结构；人口统计数据 | "Even **demographics** are working against the middle class family." |
+| **diagnosis** | n. | 诊断；诊断结果 | "a bad **diagnosis**, or a disappearing spouse can reduce a family from solidly middle class to newly poor." |
+| **disability insurance** | n. 短语 | 伤残保险 | "the safety net offered by unemployment insurance or **disability insurance**." |
+| **disappearing spouse** | n. 短语 | 消失的配偶（离婚/出走） | "a pink slip, a bad diagnosis, or a **disappearing spouse** can reduce a family." |
+| **disruption** | n. | 扰乱；中断 | "a **disruption** to family fortunes can no longer be made up." |
+| **economic risk** | n. 短语 | 经济风险 | "has been transformed by **economic risk** and new realities." |
+| **eightfold** | adv. | 八倍地 | "have jumped **eightfold** in just one generation." |
+| **elderly parent** | n. 短语 | 年迈的父母 | "the odds of having a weak **elderly parent**." |
+| **exercise** | v. | 行使（权利/责任） | "an opportunity to **exercise** more financial responsibility." |
+| **fair play** | n. 短语 | 公平竞争；公平对待 | "count on hard work and **fair play** to keep itself financially secure." |
+| **fallout** | n. | （不良）后果；余波 | "The financial **fallout** has begun, and the political fallout may not be far behind." |
+| **financial responsibility** | n. 短语 | 财务责任 | "an opportunity to exercise more **financial responsibility**." |
+| **financial setback** | n. 短语 | 财务挫折；经济困难 | "the parachute they once had in times of **financial setback**." |
+| **financially secure** | adj. 短语 | 经济上有保障的 | "to keep itself **financially secure**." |
+| **fluctuation** | n. | 波动；起伏 | "must worry about interest rates, stock market **fluctuation**, and the harsh reality." |
+
+### G-I
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **guaranteed payments** | n. 短语 | 有保障的付款 | "retirees trading much or all of their **guaranteed payments** for payments." |
+| **healthcare** | n. | 医疗保健 | "Both the absolute cost of **healthcare** and the share of it borne by families have risen." |
+| **health-saving plans** | n. 短语 | 健康储蓄计划 | "newly fashionable **health-saving plans** are spreading from legislative halls to Wal-Mart workers." |
+| **interest rates** | n. 短语 | 利率 | "who must worry about **interest rates**, stock market fluctuation." |
+| **investment returns** | n. 短语 | 投资回报 | "for payments depending on **investment returns**." |
+| **investment risk** | n. 短语 | 投资风险 | "a large new dose of **investment risk** for families' future healthcare." |
+
+### J-L
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **laid off** | v. 短语 | 被解雇（lay off 的被动） | "if the primary earner got **laid off** or fell sick." |
+
+### M-O
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **made up** | v. 短语 | 弥补（make up for 的被动） | "a disruption to family fortunes can no longer be **made up** with extra income." |
+| **odds** | n. | 几率；可能性 | "as the **odds** of having a weak elderly parent have jumped eightfold." |
+| **outlive** | v. | 比……活得久 | "the harsh reality that they may **outlive** their retirement money." |
+| **overburdened** | adj. | 负担过重的 | "onto their already **overburdened** shoulders." |
+
+### P-R
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **parachute** | n. | 降落伞；（比喻）保护伞 | "they have lost the **parachute** they once had in times of financial setback." |
+| **perspective** | n. | 视角；观点 | "From the middle-class family **perspective**, much of this looks..." |
+| **pink slip** | n. 短语 | 解雇通知书 | "Now a **pink slip**, a bad diagnosis, or a disappearing spouse can reduce a family." |
+| **retirement income** | n. 短语 | 退休收入 | "families have been asked to absorb much more risk in their **retirement income**." |
+
+### S-U
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **safety net** | n. 短语 | 安全网；保障措施 | "This 'added-worker effect' could support the **safety net** offered by unemployment insurance." |
+| **savings-account model** | n. 短语 | 储蓄账户模式 | "campaigned to move Social Security to a **savings-account model**." |
+| **side effect** | n. 短语 | 副作用；意外后果 | "few have looked at the **side effect**: family risk has risen as well." |
+| **Social Security** | n. 短语 | 社会保障制度 | "campaigned to move **Social Security** to a savings-account model." |
+| **transforming** | v. | 改变；转变 | "millions of mothers have gone to work, **transforming** basic family economics." |
+| **two-paycheck** | adj. | 双薪的 | "budgeted to the limits of their new **two-paycheck** status." |
+| **unemployment insurance** | n. 短语 | 失业保险 | "the safety net offered by **unemployment insurance** or disability insurance." |
+
+### V-Z
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **weather** | v. | 平安渡过；经受住 | "to help families **weather** bad times." |
+| **wholesale shift** | n. 短语 | 大规模转移 | "a frightening acceleration of the **wholesale shift** of financial risk." |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> absorb / fluctuation / odds / outlive / overburdened / perspective / disruption / weather
+
+1. Without proper planning, young couples may ________ their retirement savings.
+
+2. The factory was forced to ________ the rising cost of raw materials.
+
+3. From a long-term ________, the reform brings more uncertainty than security.
+
+4. The sudden power ________ halted the entire production line.
+
+5. Many office workers feel ________ by endless meetings and overtime.
+
+6. The ________ of the stock market made investors uneasy last quarter.
+
+7. Families must learn to ________ the storm of economic downturn.
+
+8. The ________ of developing a chronic disease increase with age.
+
+> [!abstract]- 答案
+> 1. **outlive**（比……活得久）— 没有合理规划，年轻夫妇可能比退休储蓄"活得久"。
+> 2. **absorb**（吸收；承担）— 工厂被迫承担上涨的原材料成本。
+> 3. **perspective**（视角；观点）— 从长远视角看，改革带来的不确定性多于安全感。
+> 4. **disruption**（中断；扰乱）— 突然断电使整条生产线瘫痪。
+> 5. **overburdened**（负担过重的）— 许多上班族感到被无休止的会议和加班压得不堪重负。
+> 6. **fluctuation**（波动）— 股市波动让投资者上个季度忧心忡忡。
+> 7. **weather**（平安渡过）— 家庭必须学会渡过经济低迷的风暴。
+> 8. **odds**（几率）— 患慢性病的几率随年龄增长而上升。
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. count on hard work and fair play
+
+2. the wholesale shift of financial risk
+
+3. weather bad times
+
+> [!abstract]- 答案
+> 1. **count on hard work and fair play** = 依靠勤奋工作和公平竞争
+> 2. **the wholesale shift of financial risk** = 财务风险的大规模转移
+> 3. **weather bad times** = 渡过艰难时期（平安度过低谷）
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "Now a **pink slip**, a bad diagnosis, or a disappearing spouse can reduce a family..." 中 **pink slip** 的含义是：
+   - A. 粉红色的纸条
+   - B. 解雇通知书
+   - C. 情书
+   - D. 罚款通知单
+
+2. "the harsh reality that they may **outlive** their retirement money" 中 **outlive** 的含义是：
+   - A. 比……活得久
+   - B. 提前耗尽
+   - C. 预先存入
+   - D. 投资增值
+
+3. "The financial **fallout** has begun, and the political fallout may not be far behind." 中 **fallout** 的含义是：
+   - A. 放射性尘埃
+   - B. （不良）后果；余波
+   - C. 财政拨款
+   - D. 股价下跌
+
+> [!abstract]- 答案
+> 1. **B** — pink slip 指"解雇通知书"（源自解雇通知单通常为粉红色），与诊断结果、配偶离去并列，都是"使家庭由稳转贫"的变故。
+> 2. **A** — outlive 意为"比……活得久"，指退休金不足以支撑到生命结束，即"活得比退休金久"。
+> 3. **B** — fallout 本义"放射性沉降物"，此处引申为"（不良）后果、余波"，与 political fallout（政治后果）呼应。
 
 ## 心得
 
