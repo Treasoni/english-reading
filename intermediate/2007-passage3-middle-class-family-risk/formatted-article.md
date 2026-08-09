@@ -375,7 +375,7 @@ From the middle-class family **perspective**, much of this, understandably, look
 > 2. 介词短语链条 `of the wholesale shift of financial risk onto...` 层层后置修饰，翻译时拆为短句
 > 3. `understandably` 为评注性状语插入主谓之间，翻译时置于句首作"可以理解的是"
 
-==The financial fallout has begun, and the political fallout may not be far behind.==
+==The financial **fallout** has begun, and the political fallout may not be far behind.==
 
 ## 阅读理解问题
 
