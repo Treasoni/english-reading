@@ -95,8 +95,8 @@ Left, until now, to odd, low-level IT staff to **put right**, and seen as a conc
 > 主句: information protection is now high on the boss's agenda in businesses of every variety
 >   ├── 过去分词状语(Left): Left, until now, to odd, low-level IT staff to put right
 >   │     ├── 时间状语: until now
->   │     └── 介短(to): to odd, low-level IT staff → 引出处理对象
->   │           └── 不定式(to put right): to put right → 目的
+>   │     ├── 介短(to): to odd, low-level IT staff → 引出处理对象
+>   │     └── 不定式(to put right): to put right → 目的
 >   ├── 过去分词状语(seen): seen as a concern only of data-rich industries
 >   │     └── 介短(as): as a concern ... → 引出认知内容
 >   │           └── 介短(of): of data-rich industries such as banking, telecoms and air travel → 修饰 concern
@@ -107,7 +107,7 @@ Left, until now, to odd, low-level IT staff to **put right**, and seen as a conc
 >   └── 范围状语: in businesses of every variety
 > ```
 >
-> **参考译文**：此前，数据安全问题一直被留给古怪的底层 IT 员工去处理，并被视为只有银行业、电信业和航空业等数据密集型行业才需要担心的问题；而现在，信息保护已成为各类企业老板议程上的头等大事。
+> **参考译文**：此前，数据安全问题一直被留给处理杂务的底层 IT 员工去处理，并被视为只有银行业、电信业和航空业等数据密集型行业才需要担心的问题；而现在，信息保护已成为各类企业老板议程上的头等大事。
 >
 > **考点提示**：
 > 1. 过去分词 Left / seen 作状语，逻辑主语为 information protection，表被动——判断非谓语逻辑主语与语态是高频考点
@@ -193,7 +193,7 @@ The mystery is that this should come as a surprise to any boss. Surely it should
 >   ├── 谓语 V: should be
 >   ├── 表语 C: obvious
 >   ├── 介短: to the dimmest executive → 表对象
->   └── 真实主语(that 名从1): that trust, that most valuable of economic assets,
+>   ├── 真实主语(that 名从1): that trust, that most valuable of economic assets,
 >         is easily destroyed and hugely expensive to restore
 >         ├── 主语 S: trust
 >         ├── 同位语: that most valuable of economic assets → 解释 trust
