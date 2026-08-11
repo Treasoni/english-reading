@@ -447,7 +447,7 @@ The current state of affairs may have been encouraged—though not justified—b
 | **Just as + 完整句子** | 用大家熟悉的事物 A，烘托或解释事物 B | **Just as** you sow, **so shall** you reap. → 种瓜得瓜，种豆得豆。 |
 
 > [!note] 联动复习
-> 类比结构中 **so** 后的部分倒装，见 [[#倒装与强调：so 后的部分倒装|倒装与强调：so 后的部分倒装]]；与只能接名词或代词的 **Just like** 对比，见 [[#介词与连词：Just as vs. Just like|介词与连词：Just as vs. Just like]]。
+> 类比结构中 **so** 后的部分倒装，见 [[2007-passage4-data-security-精读笔记#倒装与强调：so 后的部分倒装|倒装与强调：so 后的部分倒装]]；与只能接名词或代词的 **Just like** 对比，见 [[2007-passage4-data-security-精读笔记#介词与连词：Just as vs. Just like|介词与连词：Just as vs. Just like]]。
 
 ---
 
@@ -470,7 +470,7 @@ The current state of affairs may have been encouraged—though not justified—b
 在 **Just as ..., so ...** 结构中，后半句的 **so** 后面可以接**部分倒装**，即 **so + 助动词 + 主语**。
 
 > [!tip] 识别方法
-> 看到 **so + 助动词 / 情态动词 + 主语**，通常可判断为部分倒装。该结构与 [[#从句：类比状语从句 (Just as ... so ...)|Just as ... so ... 类比结构]] 联动复习。
+> 看到 **so + 助动词 / 情态动词 + 主语**，通常可判断为部分倒装。该结构与 [[2007-passage4-data-security-精读笔记#从句：类比状语从句 (Just as ... so ...)|Just as ... so ... 类比结构]] 联动复习。
 
 | 结构 | 用法 | 例句 |
 |------|------|------|
@@ -509,7 +509,178 @@ The current state of affairs may have been encouraged—though not justified—b
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+> [!note] 提取说明
+> 词汇来自文章原文中的重点粗体标记；短语中的核心生词另列独立词条，便于分别记忆。
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **accounting** | n./adj. | 会计（的） | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **accounting and compliance troubles** | phr. | 会计与合规方面的难题 | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **adequate** | adj. | 充分的；足够的 | Meanwhile, the **theft** of information about some 40 million **credit-card accounts** in America, disclosed on June 17th, **overshadowed** a hugely important decision a day earlier by America's **Federal Trade Commission (FTC)** that puts corporate America **on notice** that regulators will act if firms fail to provide **adequate data security**. |
+| **adequate data security** | phr. | 充分的数据安全保障 | Meanwhile, the **theft** of information about some 40 million **credit-card accounts** in America, disclosed on June 17th, **overshadowed** a hugely important decision a day earlier by America's **Federal Trade Commission (FTC)** that puts corporate America **on notice** that regulators will act if firms fail to provide **adequate data security**. |
+| **agenda** | n. | 议程；待办事项 | Left, until now, to odd, low-level IT staff to **put right**, and seen as a concern only of **data-rich industries** such as banking, telecoms and air travel, **information protection** is now **high on the boss's agenda** in businesses of every variety. |
+| **asset** | n. | 资产；有价值的资源 | “Data is becoming an **asset** which needs to be **guarded** as much as any other asset,” says Haim Mendelson of Stanford University's business school. |
+| **behalf** | n. | 代表；利益 | The ability to guard customer data is the key to **market value**, which the board is responsible for **on behalf of shareholders**. |
+| **compliance** | n. | 合规；遵从 | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **corporation** | n. | 公司；法人团体 | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **corporation governance** | phr. | 企业治理 | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **credit-card accounts** | phr. | 信用卡账户 | Meanwhile, the **theft** of information about some 40 million **credit-card accounts** in America, disclosed on June 17th, **overshadowed** a hugely important decision a day earlier by America's **Federal Trade Commission (FTC)** that puts corporate America **on notice** that regulators will act if firms fail to provide **adequate data security**. |
+
+
+### D-F
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **data insecurity** | phr. | 数据不安全；数据安全风险 | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **data leakage** | phr. | 数据泄露 | The current state of affairs may have been encouraged—though not justified—by the lack of **legal penalty** (in America, but not Europe) for **data leakage**. |
+| **data-rich industries** | phr. | 数据密集型行业 | Left, until now, to odd, low-level IT staff to **put right**, and seen as a concern only of **data-rich industries** such as banking, telecoms and air travel, **information protection** is now **high on the boss's agenda** in businesses of every variety. |
+| **dimmest** | adj. | 最迟钝的；最不敏锐的 | Surely it should be obvious to the **dimmest** executive that **trust**, that most valuable of **economic assets**, is easily destroyed and hugely **expensive to restore**—and that few things are more likely to destroy trust than a company letting **sensitive personal data** get into the **wrong hands**. |
+| **doing the rounds** | idiom | 流传；被传阅讨论 | That may change fast: lots of proposed data-security legislation is now **doing the rounds** in Washington, D. C. |
+| **economic assets** | phr. | 经济资产；具有经济价值的资源 | Surely it should be obvious to the **dimmest** executive that **trust**, that most valuable of **economic assets**, is easily destroyed and hugely **expensive to restore**—and that few things are more likely to destroy trust than a company letting **sensitive personal data** get into the **wrong hands**. |
+| **executive** | n./adj. | 高管；执行层的 | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **executive suite** | phr. | 高管层；执行管理层 | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **expensive to restore** | phr. | 恢复成本高昂 | Surely it should be obvious to the **dimmest** executive that **trust**, that most valuable of **economic assets**, is easily destroyed and hugely **expensive to restore**—and that few things are more likely to destroy trust than a company letting **sensitive personal data** get into the **wrong hands**. |
+| **Federal Trade Commission (FTC)** | n. | 美国联邦贸易委员会 | Meanwhile, the **theft** of information about some 40 million **credit-card accounts** in America, disclosed on June 17th, **overshadowed** a hugely important decision a day earlier by America's **Federal Trade Commission (FTC)** that puts corporate America **on notice** that regulators will act if firms fail to provide **adequate data security**. |
+
+
+### G-L
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **GASP, Generally Accepted Security Practices** | n. | 公认安全实践（仿 GAAP 造词） | Indeed, just as there is the concept of Generally Accepted Accounting Principles (GAAP), perhaps it is time for GASP, Generally Accepted Security Practices. |
+| **Generally Accepted Accounting Principles (GAAP)** | n. | 公认会计原则 | Indeed, just as there is the concept of Generally Accepted Accounting Principles (GAAP), perhaps it is time for GASP, Generally Accepted Security Practices. |
+| **governance** | n. | 治理；管理 | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **guarded** | v./adj. | 保护；受到保护的 | “Data is becoming an **asset** which needs to be **guarded** as much as any other asset,” says Haim Mendelson of Stanford University's business school. |
+| **headlines** | n. | 新闻头条 | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **heads rolling** | idiom | 高管被撤职或问责（字面：人头滚落） | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **high on the boss's agenda** | phr. | 老板议程上的头等大事；优先事项 | Left, until now, to odd, low-level IT staff to **put right**, and seen as a concern only of **data-rich industries** such as banking, telecoms and air travel, **information protection** is now **high on the boss's agenda** in businesses of every variety. |
+| **industries** | n. | 行业；产业 | Left, until now, to odd, low-level IT staff to **put right**, and seen as a concern only of **data-rich industries** such as banking, telecoms and air travel, **information protection** is now **high on the boss's agenda** in businesses of every variety. |
+| **information protection** | phr. | 信息保护 | Left, until now, to odd, low-level IT staff to **put right**, and seen as a concern only of **data-rich industries** such as banking, telecoms and air travel, **information protection** is now **high on the boss's agenda** in businesses of every variety. |
+| **insecurity** | n. | 不安全；不稳定感 | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **intricate** | adj. | 错综复杂的；复杂精细的 | Several massive **leakages** of customer and employee data this year—from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley—have left managers hurriedly peering into their **intricate IT systems** and business processes in search of **potential vulnerabilities**. |
+| **legal penalty** | phr. | 法律惩罚；法律制裁 | The current state of affairs may have been encouraged—though not justified—by the lack of **legal penalty** (in America, but not Europe) for **data leakage**. |
+
+
+### M-R
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **market value** | phr. | 市场价值 | The ability to guard customer data is the key to **market value**, which the board is responsible for **on behalf of shareholders**. |
+| **nasty** | adj. | 恶劣的；令人不快的 | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **on behalf of shareholders** | phr. | 代表股东；以股东利益为代表 | The ability to guard customer data is the key to **market value**, which the board is responsible for **on behalf of shareholders**. |
+| **on notice** | phr. | 被正式告知；受到警告 | Meanwhile, the **theft** of information about some 40 million **credit-card accounts** in America, disclosed on June 17th, **overshadowed** a hugely important decision a day earlier by America's **Federal Trade Commission (FTC)** that puts corporate America **on notice** that regulators will act if firms fail to provide **adequate data security**. |
+| **overshadowed** | v. | 使黯然失色；盖过 | Meanwhile, the **theft** of information about some 40 million **credit-card accounts** in America, disclosed on June 17th, **overshadowed** a hugely important decision a day earlier by America's **Federal Trade Commission (FTC)** that puts corporate America **on notice** that regulators will act if firms fail to provide **adequate data security**. |
+| **peer into** | phr. | 仔细查看；审视 | Several massive **leakages** of customer and employee data this year—from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley—have left managers hurriedly peering into their **intricate IT systems** and business processes in search of **potential vulnerabilities**. |
+| **potential vulnerabilities** | phr. | 潜在漏洞 | Several massive **leakages** of customer and employee data this year—from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley—have left managers hurriedly peering into their **intricate IT systems** and business processes in search of **potential vulnerabilities**. |
+| **protection** | n. | 保护；防护 | Left, until now, to odd, low-level IT staff to **put right**, and seen as a concern only of **data-rich industries** such as banking, telecoms and air travel, **information protection** is now **high on the boss's agenda** in businesses of every variety. |
+| **put right** | phr. | 纠正；修复；摆平 | Left, until now, to odd, low-level IT staff to **put right**, and seen as a concern only of **data-rich industries** such as banking, telecoms and air travel, **information protection** is now **high on the boss's agenda** in businesses of every variety. |
+| **recovery** | n. | 恢复；复原 | Setting the proper investment level for security, **redundancy**, and **recovery** is a management issue, not a technical one. |
+| **redundancy** | n. | 冗余；备份与容错能力 | Setting the proper investment level for security, **redundancy**, and **recovery** is a management issue, not a technical one. |
+| **restore** | v. | 恢复；修复 | Surely it should be obvious to the **dimmest** executive that **trust**, that most valuable of **economic assets**, is easily destroyed and hugely **expensive to restore**—and that few things are more likely to destroy trust than a company letting **sensitive personal data** get into the **wrong hands**. |
+
+
+### S-Z
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **sensitive personal data** | phr. | 敏感的个人数据 | Surely it should be obvious to the **dimmest** executive that **trust**, that most valuable of **economic assets**, is easily destroyed and hugely **expensive to restore**—and that few things are more likely to destroy trust than a company letting **sensitive personal data** get into the **wrong hands**. |
+| **shareholders** | n. | 股东 | The ability to guard customer data is the key to **market value**, which the board is responsible for **on behalf of shareholders**. |
+| **sorted out** | phr. | 解决；处理好 | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **suite** | n. | 套房；（高管）办公层 | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **theft** | n. | 盗窃；偷窃事件 | Meanwhile, the **theft** of information about some 40 million **credit-card accounts** in America, disclosed on June 17th, **overshadowed** a hugely important decision a day earlier by America's **Federal Trade Commission (FTC)** that puts corporate America **on notice** that regulators will act if firms fail to provide **adequate data security**. |
+| **troubles** | n. | 问题；麻烦；困难 | It never rains but it pours. Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. |
+| **trust** | n. | 信任；信托 | Surely it should be obvious to the **dimmest** executive that **trust**, that most valuable of **economic assets**, is easily destroyed and hugely **expensive to restore**—and that few things are more likely to destroy trust than a company letting **sensitive personal data** get into the **wrong hands**. |
+| **vulnerabilities** | n. | 漏洞；脆弱点 | Several massive **leakages** of customer and employee data this year—from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley—have left managers hurriedly peering into their **intricate IT systems** and business processes in search of **potential vulnerabilities**. |
+| **went astray** | phr. | 走失；出错；（数据）丢失或泄露 | American firms did not have to tell anyone, even the victim, when data **went astray**. |
+| **wrong hands** | phr. | 不当之手；不该得到数据的人手中 | Surely it should be obvious to the **dimmest** executive that **trust**, that most valuable of **economic assets**, is easily destroyed and hugely **expensive to restore**—and that few things are more likely to destroy trust than a company letting **sensitive personal data** get into the **wrong hands**. |
+
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> vulnerabilities / compliance / governance / asset / redundancy / recovery / sensitive / astray / overshadowed / adequate
+
+1. The company strengthened its ________ procedures after the leakage.
+
+2. Good corporate ________ requires the board to take responsibility for data protection.
+
+3. Customer information is an important ________ that needs to be guarded.
+
+4. The security team searched the system for potential ________.
+
+5. The firm invested in ________ and backup systems to reduce the risk of service interruption.
+
+6. A clear ________ plan can limit the damage caused by a cyberattack.
+
+7. Companies must handle ________ personal data with particular care.
+
+8. The report explained how the data went ________ and reached unauthorized users.
+
+9. The data-leakage scandal ________ the company's earlier public-relations announcement.
+
+10. Regulators require firms to provide ________ data security.
+
+> [!abstract]- 答案
+> 1. **compliance**（合规）
+> 2. **governance**（治理）
+> 3. **asset**（资产）
+> 4. **vulnerabilities**（漏洞）
+> 5. **redundancy**（冗余与备份）
+> 6. **recovery**（恢复）
+> 7. **sensitive**（敏感的）
+> 8. **astray**（出错；丢失）
+> 9. **overshadowed**（使……黯然失色）
+> 10. **adequate**（充分的）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. sort out accounting and compliance troubles
+
+2. peer into intricate IT systems in search of potential vulnerabilities
+
+3. put corporate America on notice
+
+> [!abstract]- 答案
+> 1. **sort out accounting and compliance troubles** = 解决会计与合规方面的难题
+> 2. **peer into intricate IT systems in search of potential vulnerabilities** = 仔细审视复杂的 IT 系统以寻找潜在漏洞
+> 3. **put corporate America on notice** = 正式告知 / 警告美国企业界
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. “a new problem threatens to earn them ... nasty headlines that inevitably lead to **heads rolling**” 中 **heads rolling** 的含义是：
+   - A. 高管层被撤职或问责
+   - B. 公司扩大招聘规模
+   - C. 员工获得晋升机会
+   - D. 董事会召开例行会议
+
+2. “information protection is now **high on the boss's agenda**” 中该短语的含义是：
+   - A. 被老板暂时搁置
+   - B. 成为老板议程上的优先事项
+   - C. 由 IT 员工单独负责
+   - D. 只适用于数据密集型行业
+
+3. “that puts corporate America **on notice**” 中 **on notice** 的含义是：
+   - A. 被正式告知或警告
+   - B. 被允许暂缓执行
+   - C. 被列入新闻头条
+   - D. 被要求修复 IT 系统
+
+> [!abstract]- 答案
+> 1. **A** — **heads rolling** 是“人头滚落”的比喻说法，本文指高管因数据安全问题被撤职或问责。
+> 2. **B** — **high on the agenda** 表示某事是议程上的优先事项，说明信息保护已成为管理层的重要任务。
+> 3. **A** — **put ... on notice** 表示正式告知或警告某方，使其明确监管机构可能采取行动。
+
 
 ## 心得
 
@@ -530,9 +701,9 @@ The current state of affairs may have been encouraged—though not justified—b
 ---
 ## 延伸
 
-- 复习本文的中英对照：[[intermediate/2007-passage4-data-security/translation|2007 Passage 4 中英对照翻译]]
-- 回顾原文排版与长难句分析：[[intermediate/2007-passage4-data-security/formatted-article|2007 Passage 4 排版原文]]
-- 专项复习 **Just as** 的类比、时间和倒装用法：[[intermediate/2007-passage4-data-security/grammar-notes|Just as 语法整理]]
+- 复习本文的中英对照：[[../intermediate/2007-passage4-data-security/translation|2007 Passage 4 中英对照翻译]]
+- 回顾原文排版与长难句分析：[[../intermediate/2007-passage4-data-security/formatted-article|2007 Passage 4 排版原文]]
+- 专项复习 **Just as** 的类比、时间和倒装用法：[[../intermediate/2007-passage4-data-security/grammar-notes|Just as 语法整理]]
 - 主题拓展：企业数据治理、个人信息保护、数据泄露后的信任修复、监管与合规。
 - 后续学习建议：围绕“科技治理与商业伦理”主题，继续积累涉及 **privacy、regulation、compliance、accountability、recovery** 的考研阅读文章。
 
@@ -552,6 +723,6 @@ The current state of affairs may have been encouraged—though not justified—b
 ---
 ## 相关笔记
 
-- [[intermediate/2007-passage4-data-security/grammar-notes|Just as 语法整理]]
-- [[intermediate/2007-passage4-data-security/translation|中英对照翻译]]
-- [[intermediate/2007-passage4-data-security/formatted-article|排版原文与长难句分析]]
+- [[../intermediate/2007-passage4-data-security/grammar-notes|Just as 语法整理]]
+- [[../intermediate/2007-passage4-data-security/translation|中英对照翻译]]
+- [[../intermediate/2007-passage4-data-security/formatted-article|排版原文与长难句分析]]
