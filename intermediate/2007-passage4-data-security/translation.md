@@ -12,7 +12,7 @@ updated: 2026-08-10
 sources:
   - 2007年考研英语阅读 Passage 4
 ---
-
+ 
 # Data Insecurity: Corporate America's New Challenge 数据不安全：美国企业的新挑战 中英对照
 
 ==It never rains but it pours.== Just as bosses and boards have finally **sorted out** their worst **accounting and compliance troubles**, and improved their feeble **corporation governance**, a new problem threatens to earn them—especially in America—the sort of **nasty headlines** that inevitably lead to **heads rolling** in the **executive suite**: **data insecurity**. Left, until now, to odd, low-level IT staff to **put right**, and seen as a concern only of **data-rich industries** such as banking, telecoms and air travel, **information protection** is now **high on the boss's agenda** in businesses of every variety.
