@@ -42,7 +42,7 @@ SKILL_SOURCE_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 SOURCE_DIR="$(cd "$SCRIPT_DIR/../assets/platform" && pwd)"
 
 is_python3() {
-  "$1" -c 'import sys; raise SystemExit(0 if sys.version_info[0] == 3 else 1)' >/dev/null 2>&1
+  "$1" -c 'import sys; raise SystemExit(0 if sys.version_info >= (3, 10) else 1)' >/dev/null 2>&1
 }
 
 find_python() {
@@ -234,7 +234,7 @@ fi
 echo "Installed Agent Platform registry at ${TARGET_DIR#$TARGET_ROOT/}."
 if [ "$VALIDATE" -eq 1 ]; then
   PYTHON_BIN="$(find_python)" || {
-    echo "Python 3 is required (python3 or python)" >&2
+    echo "Python 3.10+ is required (python3 or python)" >&2
     exit 1
   }
   "$PYTHON_BIN" "$TARGET_DIR/manifest-registry.py" --root "$TARGET_ROOT" validate

@@ -9,9 +9,14 @@
   "managed_files": {
     ".agent-sync/agents/claude.yaml": "5154d30722d5b40aa3717c33ba5b485213fe1bac54a744ec565c0f0cb00d3157",
     ".agent-sync/agents/codebuddy.yaml": "ead9c484f434331a701756ff009010b0ab6305fe976c97564634ed31445aafd7",
-    ".agent-sync/agents/codex.yaml": "4249e7fdf6e1bcc8341e204378606e8fdfae21ae4d3918ce21907306ce6d7ab8",
+    ".agent-sync/agents/codex.yaml": "00f1ab76cb6af9a6b267fbb28c18f664854b558bb52cc6cc4ff85731c99ad1d2",
+    ".agent-sync/bootstrap.py": "1be3d76196f40e21b1e9e1a7d1fdc1ab39545e5f3e69d295807f6a104425bb62",
+    ".agent-sync/hook-templates/claude.json": "394713bae7c04288bfa5cd263b8807eb1ac61bd1850b36a0ffccf266656c1c80",
+    ".agent-sync/hook-templates/codebuddy.json": "394713bae7c04288bfa5cd263b8807eb1ac61bd1850b36a0ffccf266656c1c80",
+    ".agent-sync/hook-templates/codex.json": "394713bae7c04288bfa5cd263b8807eb1ac61bd1850b36a0ffccf266656c1c80",
     ".agent-sync/mcp-servers.json": "d8e397af03b5b032f21d0aa967086f0c78b33c87b76f2e9898ae0a144df7de02",
-    ".agent-sync/sync_agents.py": "bbe8c1f05518987211d08a9ba163dd70194e9bec518fbc915e2d677c17337d2b",
+    ".agent-sync/sync_agents.py": "3c07250fbf269075f9ecddc9ade91a3a99747eecd22f2cf9d3ea91ed2dee7bef",
+    ".agent-sync/validate_portability.py": "528949b8e5edd412113cc654761e856821f14deeda76526df0ba32b49e6b41b7",
     ".agents/skills/manifest-platform/SKILL.md": "5124f765f687f1a31bffbb50c45f01a6e05e77358e60d8ae1c67831be7fd2eca",
     ".agents/skills/manifest-platform/agents/openai.yaml": "09ae4fb37336296a0946d748987da89993f0cf0b981acf66bfe5252c1f690319",
     ".agents/skills/manifest-platform/assets/platform/README.md": "49139fadc2c5ae9546e4971c57b5f43fdc74dddb2d5c5b0110c9e106c3e4a55d",
@@ -20,7 +25,7 @@
     ".agents/skills/manifest-platform/assets/platform/registry.yaml": "09f078d5d4a1bce746c150b2d2bc845f6be12f6806e44ca762f1e71984450e58",
     ".agents/skills/manifest-platform/manifest.yaml": "1e7d0f016064437b0306a9426b5e71a2590c9c7099b07ed3ffe96b750d60da65",
     ".agents/skills/manifest-platform/references/manifest-contract.md": "85177329d63e463750c0b22c5d77f95839d7af9d3692f6039f1141b730385c07",
-    ".agents/skills/manifest-platform/scripts/install.sh": "197f59ad1fbdcd84f94f600d08add03abf46af9a2db7898f30b0d004e8f6475d",
+    ".agents/skills/manifest-platform/scripts/install.sh": "38632503bec7e2d7e56aadc064e15357354df1203c8227d146f50ce87a20afaf",
     ".codex/platform/README.md": "49139fadc2c5ae9546e4971c57b5f43fdc74dddb2d5c5b0110c9e106c3e4a55d",
     ".codex/platform/manifest-registry.py": "0c1f9a990d6e10b70f576195cd46ac1cee425fa785f7c15d66d3442dbe2e327d",
     ".codex/platform/manifest.schema.json": "f0ca0f5395020723b94159c40e1deda4b991d1a391c71d68e090f50705498ccf",
@@ -35,6 +40,6 @@
     "codex"
   ],
   "schema_version": 2,
-  "source_version": "47a3b28",
-  "updated_at": "2026-07-24T08:29:53.164685+00:00"
+  "source_version": "197210a",
+  "updated_at": "2026-08-11T13:32:51.913894+00:00"
 }

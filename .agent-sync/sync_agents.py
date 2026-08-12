@@ -7,11 +7,11 @@ import argparse
 import json
 import sys
 from dataclasses import dataclass
-from pathlib import Path
+from pathlib import Path, PurePosixPath, PureWindowsPath
 from typing import Any, Iterable
 
 
-TEXT_SUFFIXES = {".md", ".py", ".sh", ".json", ".yaml", ".yml", ".txt"}
+TEXT_SUFFIXES = {".md", ".py", ".sh", ".json", ".yaml", ".yml", ".toml", ".txt"}
 PRIVATE_SKILL_PARTS = {"agents"}
 MCP_BEGIN = "# BEGIN agent-sync:mcp"
 MCP_END = "# END agent-sync:mcp"
@@ -33,6 +33,25 @@ def yaml_scalar(value: str) -> Any:
         return False
     if (value.startswith('"') and value.endswith('"')) or (value.startswith("'") and value.endswith("'")):
         return value[1:-1]
+    return value
+
+
+def validate_profile_path(value: Any, *, label: str) -> str:
+    """Return a safe project-relative POSIX profile path."""
+
+    if not isinstance(value, str) or not value.strip():
+        raise ValueError(f"{label} must be a non-empty project-relative POSIX path")
+    if "\\" in value:
+        raise ValueError(f"{label} must use forward slashes")
+    if "\x00" in value:
+        raise ValueError(f"{label} contains an invalid null byte")
+
+    posix_path = PurePosixPath(value)
+    windows_path = PureWindowsPath(value)
+    if not posix_path.parts or posix_path.is_absolute() or windows_path.drive:
+        raise ValueError(f"{label} must be a project-relative POSIX path")
+    if ".." in posix_path.parts:
+        raise ValueError(f"{label} must not contain '..'")
     return value
 
 
@@ -69,6 +88,17 @@ def load_profile(path: Path) -> dict[str, Any]:
         raise ValueError(f"{path}: missing " + ", ".join(missing))
     if not isinstance(profile["id"], str) or not profile["id"]:
         raise ValueError(f"{path}: id must be a non-empty string")
+    for key in sorted(paths):
+        paths[key] = validate_profile_path(
+            paths[key],
+            label=f"{path}: paths.{key}",
+        )
+    canonical_scopes = profile.get("canonical_scopes", "")
+    if not isinstance(canonical_scopes, str):
+        raise ValueError(f"{path}: canonical_scopes must be a comma-separated string")
+    invalid_scopes = scope_values(profile) - (set(SCOPES) - {"mcp"})
+    if invalid_scopes:
+        raise ValueError(f"{path}: canonical_scopes contains unsupported scopes: {', '.join(sorted(invalid_scopes))}")
     return profile
 
 
@@ -85,6 +115,27 @@ def load_profiles(root: Path) -> list[dict[str, Any]]:
     if len(canonicals) != 1:
         raise ValueError("exactly one agent profile must set canonical: true")
     return profiles
+
+
+def scope_values(profile: dict[str, Any]) -> set[str]:
+    raw = profile.get("canonical_scopes", "")
+    return {item.strip() for item in raw.split(",") if item.strip()}
+
+
+def source_for_scope(
+    profiles: list[dict[str, Any]], scope: str, source_id: str | None = None
+) -> dict[str, Any]:
+    if source_id is not None:
+        match = next((profile for profile in profiles if profile["id"] == source_id), None)
+        if match is None:
+            raise ValueError(f"unknown --from profile {source_id!r}")
+        return match
+    explicit = [profile for profile in profiles if scope in scope_values(profile)]
+    if len(explicit) == 1:
+        return explicit[0]
+    if len(explicit) > 1:
+        raise ValueError(f"exactly one profile must own canonical scope {scope!r}")
+    return next(profile for profile in profiles if profile["canonical"] is True)
 
 
 def transform(text: str, source: dict[str, Any], target: dict[str, Any]) -> str:
@@ -158,6 +209,8 @@ def sync_tree(root: Path, source_root: Path, target_root: Path, source: dict[str
 
 def sync_instructions(root: Path, source: dict[str, Any], target: dict[str, Any], apply: bool) -> list[Finding]:
     source_path = root / source["paths"]["instructions"]
+    if not source_path.is_file():
+        return []
     target_path = root / target["paths"]["instructions"]
     expected = rendered_bytes(source_path, source, target)
     actual = target_path.read_bytes() if target_path.exists() else None
@@ -165,30 +218,6 @@ def sync_instructions(root: Path, source: dict[str, Any], target: dict[str, Any]
         return []
     if apply:
         target_path.write_bytes(expected)
-    return [Finding("DRIFT", f"{'updated' if actual is not None else 'created'}: {target_path.relative_to(root)}")]
-
-
-def sync_hook_config(root: Path, source: dict[str, Any], target: dict[str, Any], apply: bool) -> list[Finding]:
-    source_path = root / source["paths"]["hook_config"]
-    target_path = root / target["paths"]["hook_config"]
-    source_data = json.loads(source_path.read_text(encoding="utf-8"))
-    if not isinstance(source_data, dict) or "hooks" not in source_data:
-        raise ValueError(f"{source_path} must be a JSON object with a hooks key")
-    transformed_hooks = json.loads(transform(json.dumps(source_data["hooks"], ensure_ascii=False), source, target))
-    target_data: dict[str, Any] = {}
-    if target_path.exists():
-        current = json.loads(target_path.read_text(encoding="utf-8"))
-        if not isinstance(current, dict):
-            raise ValueError(f"{target_path} must be a JSON object")
-        target_data = current
-    target_data["hooks"] = transformed_hooks
-    expected = json.dumps(target_data, ensure_ascii=False, indent=2) + "\n"
-    actual = target_path.read_text(encoding="utf-8") if target_path.exists() else None
-    if actual == expected:
-        return []
-    if apply:
-        target_path.parent.mkdir(parents=True, exist_ok=True)
-        target_path.write_text(expected, encoding="utf-8")
     return [Finding("DRIFT", f"{'updated' if actual is not None else 'created'}: {target_path.relative_to(root)}")]
 
 
@@ -268,18 +297,26 @@ def sync_mcp(root: Path, profiles: list[dict[str, Any]], apply: bool) -> list[Fi
 
 def synchronize(root: Path, scopes: list[str], apply: bool, source_id: str | None = None) -> list[Finding]:
     profiles = load_profiles(root)
-    source = next(profile for profile in profiles if profile["canonical"] is True)
-    if source_id is not None:
-        source = next((profile for profile in profiles if profile["id"] == source_id), None)
-        if source is None:
-            known = ", ".join(profile["id"] for profile in profiles)
-            raise ValueError(f"unknown --from profile {source_id!r}; configured profiles: {known}")
-    targets = [profile for profile in profiles if profile is not source]
+    sources: dict[str, dict[str, Any]] = {}
+    for scope in scopes:
+        if scope == "mcp":
+            continue
+        source = source_for_scope(profiles, scope, source_id)
+        source_root = root / source["paths"][scope]
+        if not source_root.is_dir():
+            raise ValueError(
+                f"{source['id']}: canonical {scope} root does not exist: "
+                f"{source['paths'][scope]}"
+            )
+        sources[scope] = source
+
     findings: list[Finding] = []
     for scope in scopes:
         if scope == "mcp":
             findings.extend(sync_mcp(root, profiles, apply))
             continue
+        source = sources[scope]
+        targets = [profile for profile in profiles if profile is not source]
         for target in targets:
             if scope == "rules":
                 findings.extend(sync_tree(root, root / source["paths"]["rules"], root / target["paths"]["rules"], source, target, profiles, apply))
@@ -288,7 +325,6 @@ def synchronize(root: Path, scopes: list[str], apply: bool, source_id: str | Non
                 findings.extend(sync_tree(root, root / source["paths"]["skills"], root / target["paths"]["skills"], source, target, profiles, apply, skill_mode=True))
             elif scope == "hooks":
                 findings.extend(sync_tree(root, root / source["paths"]["hooks"], root / target["paths"]["hooks"], source, target, profiles, apply))
-                findings.extend(sync_hook_config(root, source, target, apply))
             else:
                 findings.extend(sync_tree(root, root / source["paths"][scope], root / target["paths"][scope], source, target, profiles, apply))
     return findings
@@ -304,6 +340,8 @@ def main(argv: Iterable[str] | None = None) -> int:
     args = parser.parse_args(argv)
     if args.apply and args.check:
         parser.error("--apply and --check cannot be used together")
+    if args.source_id and not args.scope:
+        parser.error("--from requires at least one --scope")
     try:
         findings = synchronize(Path(args.root).resolve(), args.scope or list(SCOPES), args.apply, args.source_id)
     except (OSError, ValueError, json.JSONDecodeError) as error:
