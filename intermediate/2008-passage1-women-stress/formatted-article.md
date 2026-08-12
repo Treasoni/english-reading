@@ -362,7 +362,7 @@ I was living in so much **frustration** that that was my **escape**, to go to sc
 > |------|--------|----------|
 > | 介词短语 | in so much frustration | 状态状语，修饰 was living |
 > | 结果状语从句 | so...that | so much frustration that ... |
-> | 名词性从句（主语从句） | that | that was my escape（第二个 that 作从句主语） |
+> | 指示代词作主语 | that | that was my escape（第二个 that 为指示代词，作结果从句主语，指"上学这件事"） |
 > | 非谓语（不定式） | to go to school | 同位语，解释 escape 的内容 |
 > | 并列连词 | and | get ahead and do better 并列 |
 >
@@ -373,13 +373,13 @@ I was living in so much **frustration** that that was my **escape**, to go to sc
 >   ├── 谓语 V: was living
 >   └── 介短(in): in so much frustration → 状态状语
 > 结果状从(so...that): that that was my escape, to go to school, and get ahead and do better
->   ├── 结果引导词: that（so...that 结构）
->   ├── 主语从句(that): that was my escape
->   │     ├── 主语 S: that（指示代词，指"上学这件事"）
->   │     ├── 谓语 V: was
->   │     └── 表语 C: my escape
->   │           └── 不定式同位语(to): to go to school, and get ahead and do better → 解释 escape
->   └── 并列不定式: to go to school / (to) get ahead / (to) do better
+>   ├── 结果引导词: that（so...that 结构，第一个 that）
+>   └── 从句主体: that was my escape（第二个 that 为指示代词作主语）
+>         ├── 主语 S: that（指示代词，指"上学这件事"）
+>         ├── 谓语 V: was
+>         └── 表语 C: my escape
+>               └── 不定式同位语(to): to go to school, and get ahead and do better → 解释 escape
+>                     └── 并列省略 to: (to) get ahead / (to) do better
 > ```
 >
 > **参考译文**：我生活在极大的挫败感之中，以至于上学、取得进步、做得更好成了我的逃避方式。
