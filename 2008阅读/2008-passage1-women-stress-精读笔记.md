@@ -726,7 +726,143 @@ Not everyone experiences the kinds of severe chronic stresses Alvarez describes.
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **anxiety disorders** | n. | 焦虑症 | "Women are particularly **susceptible** to developing **depression** and **anxiety disorders** in response to **stress** compared to men." |
+| **chronic** | adj. | 慢性的；长期的 | "the kinds of things that women are exposed to tend to be in more of a **chronic** or **repeated** nature." |
+| **combat stress** | n. | 战斗压力 | "Men go to war and are exposed to **combat stress**." |
+| **cope** | v. | 应付，应对 | "It's not necessarily that women don't **cope** as well. It's just that they have so much more to **cope** with." |
+
+### D-F
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **depression** | n. | 抑郁症；沮丧 | "Women are particularly **susceptible** to developing **depression** and **anxiety disorders** in response to stress compared to men." |
+| **determined** | adj. | 下定决心的 | "Adeline Alvarez married at 18 and gave birth to a son, but was **determined** to finish college." |
+| **devastating** | adj. | 毁灭性的 | "The **wear-and-tear** that comes from these longer relationships can be quite **devastating**." |
+| **diffuse** | v. | 疏导；缓解 | "...finding ways to **diffuse stress** before it threatens your health and your ability to function." |
+| **domestic situations** | n. | 家庭环境 | "The kinds of interpersonal violence that women are exposed to tend to be in **domestic situations**, by, unfortunately, parents or other family members..." |
+| **escape** | n./v. | 逃避；出路 | "I was living in so much frustration that that was my **escape**, to go to school, and get ahead and do better." |
+| **frustration** | n. | 挫败感 | "I was living in so much **frustration** that that was my escape..." |
+
+### I-O
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **interpersonal violence** | n. | 人际暴力 | "The kinds of **interpersonal violence** that women are exposed to tend to be in domestic situations..." |
+| **obligations** | n. | 义务，职责 | "But most women today are coping with a lot of **obligations**, with few breaks, and feeling the strain." |
+| **one-shot deals** | n. | 一次性事件 | "...and they tend not to be **one-shot deals**." |
+| **ovaries** | n. | 卵巢 | "when stressed-out female rats had their **ovaries** (the female reproductive organs) removed..." |
+
+### P-R
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **paycheck** | n. | 工资支票；薪水 | "I lived from **paycheck** to paycheck." |
+| **paycheck to paycheck** | 短语 | 收入仅够勉强度日；月月光 | "I lived from **paycheck to paycheck**." |
+| **physical violence** | n. | 身体暴力 | "Men are exposed to more acts of random **physical violence**." |
+| **psychiatrist** | n. | 精神科医生 | "...according to Dr. Yehuda, chief **psychiatrist** at New York's Veteran's Administration Hospital." |
+| **repeated** | adj. | 反复的；重复的 | "...tend to be in more of a chronic or **repeated** nature." |
+| **reproductive organs** | n. | 生殖器官 | "...had their ovaries (the female **reproductive organs**) removed..." |
+
+### S
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **sex hormones** | n. | 性激素 | "Studies of both animals and humans have shown that **sex hormones** somehow affect the stress response..." |
+| **single mother** | n. | 单亲母亲 | "Later, her marriage ended and she became a **single mother**." |
+| **spheres** | n. | 领域，范围 | "While still catching up to men in some **spheres** of modern life..." |
+| **strain** | n./v. | 压力；紧张；拉伤 | "...most women today are coping with a lot of obligations, with few breaks, and feeling the **strain**." |
+| **stress response** | n. | 压力反应 | "sex hormones somehow affect the **stress response**..." |
+| **stressed-out** | adj. | 压力过大的；焦虑不堪的 | "when **stressed-out** female rats had their ovaries removed..." |
+| **susceptible** | adj. | 易受影响的；易患…的 | "Women are particularly **susceptible** to developing depression and anxiety disorders..." |
+
+### T-Z
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **threatens** | v. | 威胁 | "...finding ways to diffuse stress before it **threatens** your health and your ability to function." |
+| **tolerate** | v. | 忍受，容忍 | "Their capacity for **tolerating stress** may even be greater than men's." |
+| **trigger chemicals** | n. | 引发应激的化学物质 | "...causing females under stress to produce more of the **trigger chemicals** than do males..." |
+| **undesirable category** | n. | 不受欢迎的类别 | "...women appear to be way ahead in at least one **undesirable category**." |
+| **wear-and-tear** | n. | 磨损；消耗 | "The **wear-and-tear** that comes from these longer relationships can be quite devastating." |
+| **worn** | adj. | 疲惫的；磨损的（wear 的过去分词） | "...they become **worn** out from it more visibly and sooner." |
+| **worn out** | adj. | 筋疲力尽的 | "...they become **worn out** from it more visibly and sooner." |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> susceptible / chronic / devastating / determined / frustration / strain / cope / diffuse / obligations / escape
+
+1. Some people are particularly _____ to catching a cold when the weather changes.
+2. He suffered from a _____ back problem that troubled him for years.
+3. The tsunami had a _____ impact on the small island nation.
+4. She was _____ to pursue a career in medicine despite all the difficulties.
+5. Repeated failure left him in deep _____ and self-doubt.
+6. Working overtime every day puts great _____ on both body and mind.
+7. It takes time to learn how to _____ with unexpected setbacks.
+8. Yoga and meditation are effective ways to _____ stress.
+9. As a working mother, she has to balance countless _____ every day.
+10. For many students, reading has become an _____ from academic pressure.
+
+> [!abstract]- 答案
+> 1. **susceptible**（易受影响的）
+> 2. **chronic**（慢性的）
+> 3. **devastating**（毁灭性的）
+> 4. **determined**（下定决心的）
+> 5. **frustration**（挫败感）
+> 6. **strain**（压力）
+> 7. **cope**（应付）
+> 8. **diffuse**（疏导）
+> 9. **obligations**（义务）
+> 10. **escape**（逃避）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. one-shot deals
+2. paycheck to paycheck
+3. wear-and-tear
+
+> [!abstract]- 答案
+> 1. **one-shot deals** = 一次性事件（只发生一次的事情）
+> 2. **paycheck to paycheck** = 收入仅够勉强糊口；月月光（指每次发薪就花光）
+> 3. **wear-and-tear** = 磨损；消耗（长期使用或长期关系中产生的损耗）
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "It's not necessarily that women don't **cope** as well." 中 **cope** 的含义是：
+   - A. 应付，应对
+   - B. 复制
+   - C. 覆盖
+   - D. 合作
+
+2. "...with few breaks, and feeling the **strain**." 中 **strain** 的含义是：
+   - A. 压力，紧张
+   - B. 物种
+   - C. 领土
+   - D. 战略
+
+3. "...finding ways to **diffuse** stress before it threatens your health..." 中 **diffuse** 的含义是：
+   - A. 缓解，疏导
+   - B. 混淆
+   - C. 拒绝
+   - D. 防御
+
+> [!abstract]- 答案
+> 1. **A** — cope 在此意为"应付、应对"，常与 with 搭配；与"复制 copy、覆盖 cover、合作 cooperate"无关。
+> 2. **A** — strain 在此意为"压力、紧张"，feel the strain = 感到压力；"物种 species、领土 territory、战略 strategy"均不符合语境。
+> 3. **A** — diffuse 此处意为"缓解、疏导"（使压力消散）；"混淆 confuse、拒绝 refuse、防御 defend"均不匹配。
 
 ## 心得
 
