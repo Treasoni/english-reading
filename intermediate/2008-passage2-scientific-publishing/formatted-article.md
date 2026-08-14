@@ -45,14 +45,14 @@ It used to be so straightforward. A team of researchers working together in the 
 >   ├── 破折号插入成分: (and pressure from funding agencies)
 >   │     └── 定从: (who are questioning ... ) → 修饰 funding agencies
 >   │           └── 宾语从句: (why commercial publishers are making money ...)
->   │           └── 介短/动名词结构: (by restricting access to it) → 说明商业出版商获利的方式
+>   │                 └── 介短/动名词结构: (by restricting access to it) → 说明商业出版商获利的方式
 >   └── 使役结构: (make + access + a reality)
 > ```
 >
 > **参考译文**：互联网以及资助机构施加的压力——这些机构质疑商业出版商为何通过限制人们获取政府资助的研究成果来赚钱——正使获取科学研究成果成为现实。
 >
 > > [!tip] 考点提示
-> > 1. 破折号内是插入性的并列成分，不要误判为主句谓语。
+> > 1. 破折号内是插入性的补充成分，不要误判为主句谓语。
 > > 2. `who ...` 修饰 funding agencies；`why ...` 是 questioning 的宾语从句。
 > > 3. `make + O + C` 表示“使……成为……”，本句为 `make access ... a reality`。
 >
@@ -145,7 +145,8 @@ This is now changing. According to the OECD report, some $75\%$ of scholarly jou
 > - 补语 C: 无
 > - 后置实义主语：the so-called big deal
 > - 定语从句主干：institutional subscribers pay for access
-> - 状语 A: through site-licensing agreements
+> - 状语 A: 无（主句级别；`through site-licensing agreements` 属于定语从句）
+> - 从句状语 A: through site-licensing agreements
 >
 > **修饰成分**
 >
