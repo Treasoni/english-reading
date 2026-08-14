@@ -25,18 +25,19 @@ It used to be so straightforward. A team of researchers working together in the 
 > - 谓语 V: is making
 > - 宾语 O: access to scientific results
 > - 补语 C: a reality
-> - 状语 A: by restricting access to it（方式/手段）
+> - 状语 A: 无（主句级别）
 > - 简化主干：The Internet and pressure are making access a reality.
 >
 > **修饰成分**
 >
 > | 类型 | 引导词/标记 | 修饰对象 |
 > |------|-------------|----------|
-> | 插入语 | —and pressure from funding agencies, ...— | 补充说明主语，与 The Internet 并列 |
+> | 破折号并列主语 | —and pressure from funding agencies, ...— | 与 The Internet 构成并列主语 |
 > | 定语从句 | who are questioning ... | 修饰 funding agencies |
 > | 宾语从句 | why commercial publishers are making money ... | 作 questioning 的宾语 |
 > | 介词短语 | from government-funded research | 修饰 making money，说明获利来源 |
-> | 非谓语短语 | by restricting access to it | 修饰 is making，说明实现结果的手段 |
+> | 非谓语短语 | by restricting access to it | 修饰 are making money，说明商业出版商获利的方式 |
+> | 介词短语 | to it | 修饰 access，it 指代 government-funded research |
 >
 > **结构图解**
 > ```text
@@ -44,7 +45,8 @@ It used to be so straightforward. A team of researchers working together in the 
 >   ├── 插入并列成分: (and pressure from funding agencies)
 >   │     └── 定从: (who are questioning ... ) → 修饰 funding agencies
 >   │           └── 宾语从句: (why commercial publishers are making money ...)
->   └── 介短/非谓语: (by restricting access to it) → 说明实现结果的方式
+>   │     └── 介短/非谓语: (by restricting access to it) → 说明商业出版商获利的方式
+>   └── 使役结构: (make + access + a reality)
 > ```
 >
 > **参考译文**：互联网以及资助机构施加的压力——这些机构质疑商业出版商为何通过限制人们获取政府资助的研究成果来赚钱——正使获取科学研究成果成为现实。
@@ -63,7 +65,8 @@ The Organization for Economic Co-operation and Development (OECD) has just issue
 > - 主语 S: The report
 > - 谓语 V: makes
 > - 宾语 O: heavy reading
-> - 状语 A: for publishers
+> - 状语 A: 无（主句级别）
+> - 补足语 C: for publishers（说明这种“沉重的阅读”对谁而言）
 > - 简化主干：The report makes heavy reading for publishers.
 >
 > **修饰成分**
@@ -100,7 +103,7 @@ The value of knowledge and the return on the public investment in research depen
 > - 主语 S: The value of knowledge and the return on the public investment in research
 > - 谓语 V: depends
 > - 状语 A: in part
-> - 介词补足语: upon wide distribution and ready access
+> - 补足语 C: upon wide distribution and ready access（介词补足语）
 > - 简化主干：The value and the return depend upon wide distribution and ready access.
 >
 > **修饰成分**
@@ -137,7 +140,8 @@ This is now changing. According to the OECD report, some $75\%$ of scholarly jou
 > **主干提取**
 > - 主语 S: the so-called big deal（存在句中的实义主语）
 > - 谓语 V: is
-> - 补语 C: there（形式主语/存在句引导词）
+> - 主语 S: There（形式主语/存在句引导词）
+> - 后置实义主语：the so-called big deal
 > - 定语从句主干：institutional subscribers pay for access
 > - 状语 A: through site-licensing agreements
 >
@@ -145,7 +149,7 @@ This is now changing. According to the OECD report, some $75\%$ of scholarly jou
 >
 > | 类型 | 引导词/标记 | 修饰对象 |
 > |------|-------------|----------|
-> | 存在句 | There is | 引出后置实义主语 the so-called big deal |
+> | 存在句 | There is | there 作形式主语，引出后置实义主语 the so-called big deal |
 > | 定语从句 | where institutional subscribers ... | 说明 big deal 的运作方式 |
 > | 介词短语 | to a collection of online journal titles | 修饰 access |
 > | 介词短语 | of online journal titles | 修饰 collection |
@@ -188,7 +192,7 @@ There is **open-access publishing**, typically supported by asking the author (o
 > | 定语从句 | where journals allow ... | 说明 delayed open-access 的运行方式 |
 > | 非谓语短语 | before making it freely available ... | 时间状语，逻辑主语为 journals |
 > | 不定式结构 | allow only subscribers to read a paper | `allow + 宾语 + to do`，说明允许的对象和行为 |
-> | 时间状语 | for the first six months | 修饰 read，限定时间 |
+> | 时间状语 | for the first six months | 修饰 allow/read，限定允许阅读的期限 |
 > | 定语从句 | who wishes to see it | 修饰 everyone |
 >
 > **结构图解**
