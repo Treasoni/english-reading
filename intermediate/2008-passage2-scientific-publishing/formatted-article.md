@@ -21,31 +21,31 @@ It used to be so straightforward. A team of researchers working together in the 
 > **原句**：The Internet—and pressure from funding agencies, who are questioning why commercial publishers are making money from **government-funded research** by restricting access to it—is making access to scientific results a reality.
 >
 > **主干提取**
-> - 主语 S: The Internet—and pressure from funding agencies...
+> - 主语 S: The Internet（核心主语；破折号内的 `and pressure ...` 为插入的附加作用因素）
 > - 谓语 V: is making
 > - 宾语 O: access to scientific results
 > - 补语 C: a reality
 > - 状语 A: 无（主句级别）
-> - 简化主干：The Internet and pressure are making access a reality.
+> - 简化主干：The Internet, together with pressure from funding agencies, is making access a reality.
 >
 > **修饰成分**
 >
 > | 类型 | 引导词/标记 | 修饰对象 |
 > |------|-------------|----------|
-> | 破折号并列主语 | —and pressure from funding agencies, ...— | 与 The Internet 构成并列主语 |
+> | 破折号插入成分 | —and pressure from funding agencies, ...— | 补充说明与 Internet 共同起作用的因素；主句谓语仍与 Internet 一致 |
 > | 定语从句 | who are questioning ... | 修饰 funding agencies |
 > | 宾语从句 | why commercial publishers are making money ... | 作 questioning 的宾语 |
 > | 介词短语 | from government-funded research | 修饰 making money，说明获利来源 |
-> | 非谓语短语 | by restricting access to it | 修饰 are making money，说明商业出版商获利的方式 |
+> | 介词短语/动名词结构 | by restricting access to it | 修饰 are making money，说明商业出版商获利的方式 |
 > | 介词短语 | to it | 修饰 access，it 指代 government-funded research |
 >
 > **结构图解**
 > ```text
-> 主句: [The Internet + pressure] + is making + [access to scientific results] + [a reality]
->   ├── 插入并列成分: (and pressure from funding agencies)
+> 主句: [The Internet] + is making + [access to scientific results] + [a reality]
+>   ├── 破折号插入成分: (and pressure from funding agencies)
 >   │     └── 定从: (who are questioning ... ) → 修饰 funding agencies
 >   │           └── 宾语从句: (why commercial publishers are making money ...)
->   │     └── 介短/非谓语: (by restricting access to it) → 说明商业出版商获利的方式
+>   │           └── 介短/动名词结构: (by restricting access to it) → 说明商业出版商获利的方式
 >   └── 使役结构: (make + access + a reality)
 > ```
 >
@@ -65,8 +65,8 @@ The Organization for Economic Co-operation and Development (OECD) has just issue
 > - 主语 S: The report
 > - 谓语 V: makes
 > - 宾语 O: heavy reading
-> - 状语 A: 无（主句级别）
-> - 补足语 C: for publishers（说明这种“沉重的阅读”对谁而言）
+> - 补足语 C: 无
+> - 状语 A: for publishers（说明这种“沉重的阅读”对谁而言）
 > - 简化主干：The report makes heavy reading for publishers.
 >
 > **修饰成分**
@@ -102,6 +102,7 @@ The value of knowledge and the return on the public investment in research depen
 > **主干提取**
 > - 主语 S: The value of knowledge and the return on the public investment in research
 > - 谓语 V: depends
+> - 宾语 O: 无（depend 不直接带宾语）
 > - 状语 A: in part
 > - 补足语 C: upon wide distribution and ready access（介词补足语）
 > - 简化主干：The value and the return depend upon wide distribution and ready access.
@@ -138,9 +139,10 @@ This is now changing. According to the OECD report, some $75\%$ of scholarly jou
 > **原句**：There is the so-called big deal, where institutional subscribers pay for access to a collection of online journal titles through site-licensing agreements.
 >
 > **主干提取**
-> - 主语 S: the so-called big deal（存在句中的实义主语）
-> - 谓语 V: is
 > - 主语 S: There（形式主语/存在句引导词）
+> - 谓语 V: is
+> - 宾语 O: 无
+> - 补语 C: 无
 > - 后置实义主语：the so-called big deal
 > - 定语从句主干：institutional subscribers pay for access
 > - 状语 A: through site-licensing agreements
@@ -157,7 +159,7 @@ This is now changing. According to the OECD report, some $75\%$ of scholarly jou
 >
 > **结构图解**
 > ```text
-> 存在句: There is + [the so-called big deal]
+> 存在句: There（形式主语）+ is + [the so-called big deal（后置实义主语）]
 >   └── 定从: (where institutional subscribers pay for access ...)
 >         ├── 主干: institutional subscribers + pay + for access
 >         ├── 介短: (to a collection of online journal titles) → 修饰 access
@@ -178,9 +180,11 @@ There is **open-access publishing**, typically supported by asking the author (o
 > **主干提取**
 > - 主语 S: Other models
 > - 谓语 V: exist
+> - 宾语 O: 无（主句级别）
+> - 补语 C: 无（主句级别）
 > - 定语: that are hybrids of these three
 > - 同位语举例: such as delayed open-access
-> - 状语 A: before making it freely available ...
+> - 状语 A: 无（主句级别）
 > - 从句主干：journals allow only subscribers to read a paper
 >
 > **修饰成分**
@@ -202,7 +206,7 @@ There is **open-access publishing**, typically supported by asking the author (o
 >   ├── 举例同位语: (such as delayed open-access)
 >   │     └── 定从: (where journals allow only subscribers to read a paper ...)
 >   │           ├── 主干: journals + allow + only subscribers + to read a paper
->   │           ├── 时间状语: (for the first six months) → 修饰 read
+>   │           ├── 时间状语: (for the first six months) → 修饰 allow/read
 >   │           └── 非谓语: (before making it freely available ...) → 时间状语
 >   │                 └── 定从: (who wishes to see it) → 修饰 everyone
 > ```
