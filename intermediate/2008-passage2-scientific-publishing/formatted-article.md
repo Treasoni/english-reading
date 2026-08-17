@@ -58,6 +58,8 @@ It used to be so straightforward. A team of researchers working together in the 
 >
 The Organization for Economic Co-operation and Development (OECD) has just issued a report describing the far-reaching consequences of this. The report, by John Houghton of Victoria University in Australia and Graham Vickery of the OECD, makes heavy reading for publishers who have, so far, made handsome profits.
 
+The Organization for Economic Co-operation and Development (OECD) has just issued a report describing the far-reaching consequences of this. The report, by John Houghton of Victoria University in Australia and Graham Vickery of the OECD, makes heavy reading for publishers who have, so far, made handsome profits. But it goes further than that. It signals a change in what has, until now, been a key element of **scientific endeavor**.
+
 > [!abstract]- 长难句分析
 > **原句**：The report, by John Houghton of Victoria University in Australia and Graham Vickery of the OECD, makes heavy reading for publishers who have, so far, made handsome profits.
 >
