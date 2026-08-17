@@ -51,14 +51,14 @@ It used to be so straightforward. A team of researchers working together in the 
 >
 > **参考译文**：互联网以及资助机构施加的压力——这些机构质疑商业出版商为何通过限制人们获取政府资助的研究成果来赚钱——正使获取科学研究成果成为现实。
 >
-> > [!tip] 考点提示
-> > 1. 破折号内是插入性的补充成分，不要误判为主句谓语。
-> > 2. `who ...` 修饰 funding agencies；`why ...` 是 questioning 的宾语从句。
-> > 3. `make + O + C` 表示“使……成为……”，本句为 `make access ... a reality`。
->
+> **考点提示**
+> 1. 破折号内是插入性的补充成分，不要误判为主句谓语。
+> 2. `who ...` 修饰 funding agencies；`why ...` 是 questioning 的宾语从句。
+> 3. `make + O + C` 表示“使……成为……”，本句为 `make access ... a reality`。
+
+
 The Organization for Economic Co-operation and Development (OECD) has just issued a report describing the far-reaching consequences of this. The report, by John Houghton of Victoria University in Australia and Graham Vickery of the OECD, makes heavy reading for publishers who have, so far, made handsome profits.
 
-The Organization for Economic Co-operation and Development (OECD) has just issued a report describing the far-reaching consequences of this. The report, by John Houghton of Victoria University in Australia and Graham Vickery of the OECD, makes heavy reading for publishers who have, so far, made handsome profits. But it goes further than that. It signals a change in what has, until now, been a key element of **scientific endeavor**.
 
 > [!abstract]- 长难句分析
 > **原句**：The report, by John Houghton of Victoria University in Australia and Graham Vickery of the OECD, makes heavy reading for publishers who have, so far, made handsome profits.
@@ -91,9 +91,10 @@ The Organization for Economic Co-operation and Development (OECD) has just issue
 >
 > **参考译文**：这份由澳大利亚维多利亚大学的约翰·霍顿和OECD的格雷厄姆·维克里撰写的报告，对那些迄今为止获利丰厚的出版商来说，读起来相当沉重。
 >
-> > [!tip] 考点提示
-> > `makes heavy reading for ...` 是语境表达，不能机械译为“制作沉重的阅读材料”；结合上下文应理解为“对……不是好消息/令……感到沉重”。
->
+> **考点提示**
+> `makes heavy reading for ...` 是语境表达，不能机械译为“制作沉重的阅读材料”；结合上下文应理解为“对……不是好消息/令……感到沉重”。
+
+
 But it goes further than that. It signals a change in what has, until now, been a key element of **scientific endeavor**.
 
 The value of knowledge and the return on the public investment in research depends, in part, upon **wide distribution and ready access**.
@@ -129,10 +130,11 @@ The value of knowledge and the return on the public investment in research depen
 >
 > **参考译文**：知识的价值以及公众在科研上的投资回报，部分取决于知识的广泛传播和便捷获取。
 >
-> > [!tip] 考点提示
-> > 1. `depend upon` 表示“取决于”，后接并列名词短语 `wide distribution and ready access`。
-> > 2. `the value ... and the return ...` 形式上是两个并列主语，严格主谓一致通常应使用 `depend`；原文使用 `depends`，可视为将二者作为一个整体概念，或为文本中的一致性问题。阅读时应先抓住“价值和回报取决于……”这一主干。
->
+> **考点提示**
+> 1. `depend upon` 表示“取决于”，后接并列名词短语 `wide distribution and ready access`。
+> 2. `the value ... and the return ...` 形式上是两个并列主语，严格主谓一致通常应使用 `depend`；原文使用 `depends`，可视为将二者作为一个整体概念，或为文本中的一致性问题。阅读时应先抓住“价值和回报取决于……”这一主干。
+
+
 It is big business. In America, the core scientific publishing market is estimated at between $7 billion and $11 billion. The International Association of Scientific, Technical and Medical Publishers says that there are more than 2,000 publishers worldwide specializing in these subjects. They publish more than 1.2 million articles each year in some 16,000 journals.
 
 This is now changing. According to the OECD report, some $75\%$ of scholarly journals are now online. Entirely new business models are emerging; three main ones were identified by the report's authors. There is the so-called big deal, where institutional subscribers pay for access to a collection of online journal titles through site-licensing agreements.
@@ -172,9 +174,10 @@ This is now changing. According to the OECD report, some $75\%$ of scholarly jou
 >
 > **参考译文**：一种是所谓的“大宗交易”模式，即机构订阅者通过网站许可协议付费，以获取一系列在线期刊的阅读权限。
 >
-> > [!tip] 考点提示
-> > `There is/are ...` 是存在句，`there` 不是实际意义上的主语；真正被引出的名词是 `the so-called big deal`。`where` 在此引导说明运作方式的定语从句，可理解为“在这种模式下”。
->
+> **考点提示**
+> `There is/are ...` 是存在句，`there` 不是实际意义上的主语；真正被引出的名词是 `the so-called big deal`。`where` 在此引导说明运作方式的定语从句，可理解为“在这种模式下”。
+
+
 There is **open-access publishing**, typically supported by asking the author (or his employer) to pay for the paper to be published. Finally, there are **open-access archives**, where organisations such as universities or international laboratories support institutional repositories. Other models exist that are hybrids of these three, such as delayed open-access, where journals allow only subscribers to read a paper for the first six months, before making it freely available to everyone who wishes to see it.
 
 > [!abstract]- 长难句分析
@@ -216,11 +219,12 @@ There is **open-access publishing**, typically supported by asking the author (o
 >
 > **参考译文**：此外，还存在这三种模式的混合形式，例如延迟开放获取：期刊只允许订阅者在论文发表后的前六个月阅读，之后再向所有希望阅读的人免费开放。
 >
-> > [!tip] 考点提示
-> > 1. `that are hybrids ...` 修饰 `models`；`where ...` 进一步解释 `delayed open-access` 的具体运行方式。
-> > 2. `allow + 宾语 + to do` 是重要结构：允许订阅者阅读论文。
-> > 3. `before making ...` 是省略主语的时间状语，逻辑主语与 `journals` 一致；其中 `it` 指代 `a paper`，不是 subscribers。
->
+> **考点提示**
+> 1. `that are hybrids ...` 修饰 `models`；`where ...` 进一步解释 `delayed open-access` 的具体运行方式。
+> 2. `allow + 宾语 + to do` 是重要结构：允许订阅者阅读论文。
+> 3. `before making ...` 是省略主语的时间状语，逻辑主语与 `journals` 一致；其中 `it` 指代 `a paper`，不是 subscribers。
+
+
 All this could change the traditional form of the **peer-review process**, at least for the publication of papers.
 
 ## Questions
