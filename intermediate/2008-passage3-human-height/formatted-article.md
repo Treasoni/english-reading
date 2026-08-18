@@ -192,7 +192,7 @@ And they aren't likely to get any taller.
 > - 引用内容主语 S: we
 > - 引用内容谓语 V: have gone
 > - 引用内容状语 A: In the general population today; at this genetic, environmental level; pretty much
-> - 引用内容补语 C: as far as we can go
+> - 引用内容程度状语 A: as far as we can go
 > - 主句谓语 V: says
 > - 主句主语 S: anthropologist William Cameron Chumlea
 >
@@ -202,7 +202,7 @@ And they aren't likely to get any taller.
 > |---|---|---|
 > | 介词短语 | In the general population today | 限定讨论范围 |
 > | 介词短语 | at this genetic, environmental level | 说明条件层面 |
-> | 比较结构 | as far as we can go | 作 gone 的程度补语 |
+> | 比较结构 | as far as we can go | 作 gone 的程度状语，表示所达到的程度 |
 > | of 短语 | of Wright State University | 修饰 anthropologist |
 >
 > **结构图解**：
@@ -421,7 +421,7 @@ Moreover, even though humans have been upright for millions of years, our feet a
 > **主干提取**
 > - 主语 S: our feet and back
 > - 谓语 V1: continue to struggle
-> - 宾语/介词宾语: with bipedal posture
+> - 介词补语 C1: with bipedal posture
 > - 谓语 V2: cannot easily withstand
 > - 宾语 O2: repeated strain
 >
@@ -527,7 +527,7 @@ Claire C. Gordon, senior anthropologist at the Army Research Center in Natick, M
 >
 > **参考译文**：马萨诸塞州纳蒂克市陆军研究中心的资深人类学家克莱尔·C·戈登确保，90%的军服和工作站无需改动就能适合新兵。
 >
-> **考点提示**：that 引导宾语从句；主语中心是 90 percent，谓语 fit 与 uniforms and workstations 保持复数；without alteration 表示“无需改动”。
+> **考点提示**：that 引导宾语从句；90 percent of 后接复数名词 uniforms and workstations，因此谓语用复数 fit；without alteration 表示“无需改动”。
 
 She says that, unlike those for basketball, the length of military uniforms has not changed for some time.
 
@@ -565,17 +565,20 @@ And if you need to predict human height in the near future to design a piece of 
 > **主干提取**
 > - 条件从句主语 S: you
 > - 条件从句谓语 V: need
-> - 条件从句宾语 O: to predict human height
+> - 条件从句不定式补语 C: to predict human height
 > - 主句主语 S: Gordon
 > - 主句谓语 V: says
-> - 宾语从句谓语: could use ... and feel ...
+> - 宾语从句主语 S: you
+> - 宾语从句谓语 V: could use ... and feel ...
+> - 宾语从句宾语 O: today’s data
+> - 宾语从句补语 C: fairly confident
 >
 > **修饰成分**：
 >
 > | 修饰成分 | 形式/引导词 | 作用 |
 > |---|---|---|
 > | 条件状语从句 | if you need... | 提出假设条件 |
-> | 不定式短语 | to predict human height | 作 need 的宾语/目的内容 |
+> | 不定式短语 | to predict human height | 作 need 的补语 |
 > | 不定式短语 | to design a piece of equipment | 表示预测身高的目的 |
 > | 宾语从句 | that ... you could use today's data... | 作 says 的宾语 |
 > | 插入副词短语 | by and large | 表示总体判断 |
@@ -589,7 +592,7 @@ And if you need to predict human height in the near future to design a piece of 
 >
 > **参考译文**：如果你需要预测人类在不久将来的身高，以便设计某种设备，戈登说，总的来说，“你可以使用今天的数据，并对此相当有把握。”
 >
-> **考点提示**：if 引导条件状语从句；to predict 是 need 的不定式宾语，to design 表目的；that 引导 says 的宾语从句，could 同时支配 use 和 feel。
+> **考点提示**：if 引导条件状语从句；to predict 是 need 的不定式补语，to design 表目的；that 引导 says 的宾语从句，could 同时支配 use 和 feel。
 
 ## Comprehension Questions
 
