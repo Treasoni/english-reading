@@ -40,7 +40,9 @@ In the early 1960s Wilt Chamberlain was one of the only three players in the Nat
 >
 > **参考译文**：20世纪60年代初，威尔特·张伯伦是美国国家篮球协会（NBA）仅有的三名身高超过7英尺的球员之一。
 >
-> **考点提示**：过去分词短语 listed at... 后置修饰 players；one of + 复数名词表示“……之一”。 If he had played last season, however, he would have been one of 42.
+> **考点提示**：过去分词短语 listed at... 后置修饰 players；one of + 复数名词表示“……之一”。
+
+If he had played last season, however, he would have been one of 42.
 
 > [!abstract]- 长难句分析
 > **原句**：If he had played last season, however, he would have been one of 42.
@@ -65,7 +67,9 @@ In the early 1960s Wilt Chamberlain was one of the only three players in the Nat
 >
 > **参考译文**：然而，如果他参加的是上个赛季的比赛，那么他将成为42名身高超过7英尺的球员之一。
 >
-> **考点提示**：第三条件句：If + had done，主句用 would have done，表示与过去事实相反的假设；however 是插入的转折副词。 The bodies playing major professional sports have changed dramatically over the years, and managers have been more than willing to adjust team uniforms to fit the growing numbers of bigger, longer frames.
+> **考点提示**：第三条件句：If + had done，主句用 would have done，表示与过去事实相反的假设；however 是插入的转折副词。
+
+The bodies playing major professional sports have changed dramatically over the years, and managers have been more than willing to adjust team uniforms to fit the growing numbers of bigger, longer frames.
 
 > [!abstract]- 长难句分析
 > **原句**：The bodies playing major professional sports have changed dramatically over the years, and managers have been more than willing to adjust team uniforms to fit the growing numbers of bigger, longer frames.
@@ -123,7 +127,9 @@ The trend in sports, though, may be obscuring an unrecognized reality: Americans
 >
 > **参考译文**：然而，体育运动中的这一趋势可能掩盖了一个尚未被人们认识到的事实：美国人的身高总体上已经停止增长。
 >
-> **考点提示**：冒号后的完整句子说明 reality 的具体内容，可理解为同位语从句；may be doing 表示“可能正在……”。 Though typically about two inches taller now than 140 years ago, today's people—especially those born to families who have lived in the U. S. for many generations—apparently reached their limit in the early 1960s.
+> **考点提示**：冒号后的完整句子说明 reality 的具体内容，可理解为同位语从句；may be doing 表示“可能正在……”。
+
+Though typically about two inches taller now than 140 years ago, today's people—especially those born to families who have lived in the U. S. for many generations—apparently reached their limit in the early 1960s.
 
 > [!abstract]- 长难句分析
 > **原句**：Though typically about two inches taller now than 140 years ago, today's people—especially those born to families who have lived in the U. S. for many generations—apparently reached their limit in the early 1960s.
@@ -150,7 +156,9 @@ The trend in sports, though, may be obscuring an unrecognized reality: Americans
 >
 > **参考译文**：尽管如今的人们通常比140年前高约两英寸，但如今的人——尤其是那些出生于在美国生活了许多代的家庭中的人——显然在20世纪60年代初达到了身高极限。
 >
-> **考点提示**：Though 引导的让步结构省略了主语和系动词；those born... 中 born 是过去分词；who 引导定语从句修饰 families。 And they aren't likely to get any taller.
+> **考点提示**：Though 引导的让步结构省略了主语和系动词；those born... 中 born 是过去分词；who 引导定语从句修饰 families。
+
+And they aren't likely to get any taller.
 
 > [!abstract]- 长难句分析
 > **原句**：And they aren't likely to get any taller.
@@ -173,7 +181,9 @@ The trend in sports, though, may be obscuring an unrecognized reality: Americans
 >
 > **参考译文**：他们的身高不太可能继续增加。
 >
-> **考点提示**：be likely to do 是高频结构；否定句中的 any 与比较级 taller 连用，表示“再高一些”。 “In the general population today, at this genetic, environmental level, we've pretty much gone as far as we can go,” says anthropologist William Cameron Chumlea of Wright State University.
+> **考点提示**：be likely to do 是高频结构；否定句中的 any 与比较级 taller 连用，表示“再高一些”。
+
+“In the general population today, at this genetic, environmental level, we've pretty much gone as far as we can go,” says anthropologist William Cameron Chumlea of Wright State University.
 
 > [!abstract]- 长难句分析
 > **原句**：“In the general population today, at this genetic, environmental level, we've pretty much gone as far as we can go,” says anthropologist William Cameron Chumlea of Wright State University.
@@ -203,7 +213,9 @@ The trend in sports, though, may be obscuring an unrecognized reality: Americans
 >
 > **参考译文**：赖特州立大学的人类学家威廉·卡梅隆·丘姆利亚说：“就今天的普通人群而言，在目前这种遗传和环境条件下，我们基本上已经走到了能够达到的极限。”
 >
-> **考点提示**：as far as...表示“达到……的程度/范围”；直接引语置于主句谓语 says 之前，注意倒装式的引述结构。 In the case of NBA players, their increase in height appears to result from the increasingly common practice of recruiting players from all over the world.
+> **考点提示**：as far as...表示“达到……的程度/范围”；直接引语置于主句谓语 says 之前，注意倒装式的引述结构。
+
+In the case of NBA players, their increase in height appears to result from the increasingly common practice of recruiting players from all over the world.
 
 > [!abstract]- 长难句分析
 > **原句**：In the case of NBA players, their increase in height appears to result from the increasingly common practice of recruiting players from all over the world.
@@ -260,7 +272,9 @@ Growth, which rarely continues beyond the age of 20, demands calories and nutrie
 >
 > **参考译文**：生长很少会持续到20岁以后，它需要热量和营养物质，尤其是蛋白质，以供给不断扩大的组织。
 >
-> **考点提示**：which 引导非限制性定语从句；破折号中的 notably, protein 是插入说明；to feed 表目的。 At the start of the 20th century, under-nutrition and childhood infections got in the way.
+> **考点提示**：which 引导非限制性定语从句；破折号中的 notably, protein 是插入说明；to feed 表目的。
+
+At the start of the 20th century, under-nutrition and childhood infections got in the way.
 
 > [!abstract]- 长难句分析
 > **原句**：At the start of the 20th century, under-nutrition and childhood infections got in the way.
@@ -283,7 +297,9 @@ Growth, which rarely continues beyond the age of 20, demands calories and nutrie
 >
 > **参考译文**：在20世纪初，营养不良和儿童感染疾病阻碍了生长。
 >
-> **考点提示**：get in the way 是固定搭配，意为“妨碍、阻碍”；主语由两个并列名词构成。 But as diet and health improved, children and adolescents have, on average, increased in height by about an inch and a half every 20 years, a pattern known as the secular trend in height.
+> **考点提示**：get in the way 是固定搭配，意为“妨碍、阻碍”；主语由两个并列名词构成。
+
+But as diet and health improved, children and adolescents have, on average, increased in height by about an inch and a half every 20 years, a pattern known as the secular trend in height.
 
 > [!abstract]- 长难句分析
 > **原句**：But as diet and health improved, children and adolescents have, on average, increased in height by about an inch and a half every 20 years, a pattern known as the secular trend in height.
@@ -310,7 +326,9 @@ Growth, which rarely continues beyond the age of 20, demands calories and nutrie
 >
 > **参考译文**：但随着饮食和健康状况的改善，儿童和青少年的身高平均每20年增加约1.5英寸，这种现象被称为“身高的世俗趋势”。
 >
-> **考点提示**：as 可引导时间/伴随变化的从句；a pattern... 是前面整个增长事实的同位语；known as 是过去分词短语作后置定语。 Yet according to the Centers for Disease Control and Prevention, average height—5' 9" for men, 5' 4" for women—hasn't really changed since 1960.
+> **考点提示**：as 可引导时间/伴随变化的从句；a pattern... 是前面整个增长事实的同位语；known as 是过去分词短语作后置定语。
+
+Yet according to the Centers for Disease Control and Prevention, average height—5' 9" for men, 5' 4" for women—hasn't really changed since 1960.
 
 > [!abstract]- 长难句分析
 > **原句**：Yet according to the Centers for Disease Control and Prevention, average height—5' 9" for men, 5' 4" for women—hasn't really changed since 1960.
@@ -365,7 +383,9 @@ Genetically speaking, there are advantages to avoiding substantial height.
 >
 > **参考译文**：从遗传学角度来说，避免身材过高具有一定优势。
 >
-> **考点提示**：There be 句型中真正的主语是 advantages；to 是介词，后接动名词 avoiding，而不是不定式。 During childbirth, larger babies have more difficulty passing through the birth canal.
+> **考点提示**：There be 句型中真正的主语是 advantages；to 是介词，后接动名词 avoiding，而不是不定式。
+
+During childbirth, larger babies have more difficulty passing through the birth canal.
 
 > [!abstract]- 长难句分析
 > **原句**：During childbirth, larger babies have more difficulty passing through the birth canal.
@@ -391,7 +411,9 @@ Genetically speaking, there are advantages to avoiding substantial height.
 >
 > **参考译文**：在分娩过程中，体形较大的婴儿更难通过产道。
 >
-> **考点提示**：have difficulty (in) doing 是固定结构；passing 是动名词，介词 in 常被省略。 Moreover, even though humans have been upright for millions of years, our feet and back continue to struggle with bipedal posture and cannot easily withstand repeated strain imposed by oversize limbs.
+> **考点提示**：have difficulty (in) doing 是固定结构；passing 是动名词，介词 in 常被省略。
+
+Moreover, even though humans have been upright for millions of years, our feet and back continue to struggle with bipedal posture and cannot easily withstand repeated strain imposed by oversize limbs.
 
 > [!abstract]- 长难句分析
 > **原句**：Moreover, even though humans have been upright for millions of years, our feet and back continue to struggle with bipedal posture and cannot easily withstand repeated strain imposed by oversize limbs.
@@ -420,7 +442,9 @@ Genetically speaking, there are advantages to avoiding substantial height.
 >
 > **参考译文**：此外，尽管人类直立行走已经有数百万年的历史，但我们的脚和背部仍然难以适应双足直立的姿势，也无法轻易承受过大的四肢反复施加的压力。
 >
-> **考点提示**：even though 引导让步从句；and 连接两个并列谓语；imposed by oversize limbs 是过去分词短语作 strain 的后置定语。 “There are some real constraints that are set by the genetic architecture of the individual organism,” says anthropologist William Leonard of Northwestern University.
+> **考点提示**：even though 引导让步从句；and 连接两个并列谓语；imposed by oversize limbs 是过去分词短语作 strain 的后置定语。
+
+“There are some real constraints that are set by the genetic architecture of the individual organism,” says anthropologist William Leonard of Northwestern University.
 
 > [!abstract]- 长难句分析
 > **原句**：“There are some real constraints that are set by the genetic architecture of the individual organism,” says anthropologist William Leonard of Northwestern University.
@@ -476,7 +500,9 @@ Genetic maximums can change, but don't expect this to happen soon.
 >
 > **参考译文**：遗传上的身高极限可能会发生变化，但不要指望这种变化很快出现。
 >
-> **考点提示**：but 连接两个并列分句；don't expect 是祈使句，省略主语 you；expect 后接复合宾语 this to happen。 Claire C. Gordon, senior anthropologist at the Army Research Center in Natick, Mass., ensures that 90 percent of the uniforms and workstations fit recruits without alteration.
+> **考点提示**：but 连接两个并列分句；don't expect 是祈使句，省略主语 you；expect 后接复合宾语 this to happen。
+
+Claire C. Gordon, senior anthropologist at the Army Research Center in Natick, Mass., ensures that 90 percent of the uniforms and workstations fit recruits without alteration.
 
 > [!abstract]- 长难句分析
 > **原句**：Claire C. Gordon, senior anthropologist at the Army Research Center in Natick, Mass., ensures that 90 percent of the uniforms and workstations fit recruits without alteration.
@@ -501,7 +527,9 @@ Genetic maximums can change, but don't expect this to happen soon.
 >
 > **参考译文**：马萨诸塞州纳蒂克市陆军研究中心的资深人类学家克莱尔·C·戈登确保，90%的军服和工作站无需改动就能适合新兵。
 >
-> **考点提示**：that 引导宾语从句；主语中心是 90 percent，谓语 fit 与 uniforms and workstations 保持复数；without alteration 表示“无需改动”。 She says that, unlike those for basketball, the length of military uniforms has not changed for some time.
+> **考点提示**：that 引导宾语从句；主语中心是 90 percent，谓语 fit 与 uniforms and workstations 保持复数；without alteration 表示“无需改动”。
+
+She says that, unlike those for basketball, the length of military uniforms has not changed for some time.
 
 > [!abstract]- 长难句分析
 > **原句**：She says that, unlike those for basketball, the length of military uniforms has not changed for some time.
@@ -527,7 +555,9 @@ Genetic maximums can change, but don't expect this to happen soon.
 >
 > **参考译文**：她说，与篮球服不同，军服的长度已经有一段时间没有变化了。
 >
-> **考点提示**：unlike 引导比较关系；those 代替前面的 uniforms，避免重复；宾语从句的主语中心是 length，因此谓语用 has。 And if you need to predict human height in the near future to design a piece of equipment, Gordon says that by and large, “you could use today’s data and feel fairly confident.”
+> **考点提示**：unlike 引导比较关系；those 代替前面的 uniforms，避免重复；宾语从句的主语中心是 length，因此谓语用 has。
+
+And if you need to predict human height in the near future to design a piece of equipment, Gordon says that by and large, “you could use today’s data and feel fairly confident.”
 
 > [!abstract]- 长难句分析
 > **原句**：And if you need to predict human height in the near future to design a piece of equipment, Gordon says that by and large, “you could use today’s data and feel fairly confident.”
