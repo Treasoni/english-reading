@@ -413,7 +413,7 @@ During childbirth, larger babies have more difficulty passing through the birth 
 >
 > **考点提示**：have difficulty (in) doing 是固定结构；passing 是动名词，介词 in 常被省略。
 
-Moreover, even though humans have been upright for millions of years, our feet and back continue to struggle with bipedal posture and cannot easily withstand repeated strain imposed by oversize limbs.
+Moreover, even though humans have been upright for millions of years, our feet and back continue to struggle with **bipedal** posture and cannot easily withstand repeated strain imposed by oversize limbs.
 
 > [!abstract]- 长难句分析
 > **原句**：Moreover, even though humans have been upright for millions of years, our feet and back continue to struggle with bipedal posture and cannot easily withstand repeated strain imposed by oversize limbs.
