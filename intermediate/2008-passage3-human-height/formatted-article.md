@@ -299,7 +299,7 @@ At the start of the 20th century, under-nutrition and childhood infections got i
 >
 > **考点提示**：get in the way 是固定搭配，意为“妨碍、阻碍”；主语由两个并列名词构成。
 
-But as diet and health improved, children and adolescents have, on average, increased in height by about an inch and a half every 20 years, a pattern known as the secular trend in height.
+But as diet and health improved, children and adolescents have, on average, increased in height by about an inch and a half every 20 years, a pattern known as the **secular** trend in height.
 
 > [!abstract]- 长难句分析
 > **原句**：But as diet and health improved, children and adolescents have, on average, increased in height by about an inch and a half every 20 years, a pattern known as the secular trend in height.
