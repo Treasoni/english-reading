@@ -49,7 +49,40 @@ So he hired a dentist to transplant nine teeth into his jaw—having extracted t
 >
 > **考点提示**：`to transplant` 是目的不定式；`having + 过去分词` 表示先于主句发生的动作。注意分词短语的逻辑主语通常与主句主语一致，但本句中 `having extracted` 的实际施动者应根据语义判断为 dentist。
 
-That's a far different image from the cherry-tree-chopping George most people remember from their history books. But recently, many historians have begun to focus on the roles slavery played in the lives of the founding generation. They have been spurred in part by DNA evidence made available in 1998, which almost certainly proved Thomas Jefferson had fathered at least one child with his slave Sally Hemings.
+That's a far different image from the cherry-tree-chopping George most people remember from their history books.
+
+> [!abstract]- 长难句分析
+> **原句**：That's a far different image from the cherry-tree-chopping George most people remember from their history books.
+>
+> **主干提取**：
+> - 主语 S：That
+> - 系动词 V：is
+> - 表语 C：a far different image
+> - 表语补充 C：from the cherry-tree-chopping George
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |---|---|---|
+> | 介词短语 | from the cherry-tree-chopping George | 补充说明 image 与什么形象不同 |
+> | 复合形容词 | cherry-tree-chopping | 修饰 George，意为“砍樱桃树的” |
+> | 省略关系从句 | most people remember from their history books | 修饰 George，完整形式可理解为 George whom/that most people remember... |
+> | 介词短语 | from their history books | 修饰 remember，表示记忆来源 |
+>
+> **结构图解**：
+> ```text
+> 主句: That is a far different image
+>   └── 介词短语: from the cherry-tree-chopping George
+>         ├── 复合形容词: cherry-tree-chopping → 修饰 George
+>         └── 省略关系从句: most people remember...
+>               └── 介词短语: from their history books
+> ```
+>
+> **参考译文**：这与大多数人在历史课本中记得的那个“砍樱桃树的乔治”形象大相径庭。
+>
+> **考点提示**：`George most people remember...` 是“名词 + 省略关系代词的定语从句”，`George` 在从句中作 `remember` 的宾语。`cherry-tree-chopping` 是由名词和现在分词构成的复合形容词，整体修饰 George。
+
+But recently, many historians have begun to focus on the roles slavery played in the lives of the founding generation. They have been spurred in part by DNA evidence made available in 1998, which almost certainly proved Thomas Jefferson had fathered at least one child with his slave Sally Hemings.
 
 > [!abstract]- 长难句分析
 > **原句**：They have been spurred in part by DNA evidence made available in 1998, which almost certainly proved Thomas Jefferson had fathered at least one child with his slave Sally Hemings.
