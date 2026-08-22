@@ -313,7 +313,45 @@ For one thing, the South could not afford to part with its slaves. Owning slaves
 >
 > **考点提示**：`would have signed` 构成与过去事实相反的虚拟语气；`without` 引导含蓄条件，相当于“if there had been no...”。`including` 是现在分词短语，补充说明前面 protections 的内容。
 
-And the statesmen's political lives depended on slavery. The three-fifths formula handed Jefferson his narrow victory in the presidential election of 1800 by inflating the votes of the southern states in the Electoral College. Once in office, Jefferson extended slavery with the Louisiana Purchase in 1803; the new land was carved into 13 states, including three slave states.
+And the statesmen's political lives depended on slavery. The three-fifths formula handed Jefferson his narrow victory in the presidential election of 1800 by inflating the votes of the southern states in the Electoral College.
+
+> [!abstract]- 长难句分析
+> **原句**：The three-fifths formula handed Jefferson his narrow victory in the presidential election of 1800 by inflating the votes of the southern states in the Electoral College.
+>
+> **主干提取**：
+> - 主语 S：The three-fifths formula
+> - 谓语 V：handed
+> - 间接宾语 O：Jefferson
+> - 直接宾语 O：his narrow victory
+> - 时间/范围状语 A：in the presidential election of 1800
+> - 方式状语 A：by inflating the votes of the southern states in the Electoral College
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |---|---|---|
+> | 双宾语结构 | handed Jefferson his narrow victory | handed + 人 + 物，表示“使某人获得某物” |
+> | 介词短语 | in the presidential election of 1800 | 修饰 victory，说明胜利发生的选举及时间 |
+> | 介词短语 | of 1800 | 修饰 election |
+> | 介词短语 | by inflating... | 表示取得胜利的方式或原因 |
+> | 动名词短语 | inflating the votes... | 作 by 的宾语，说明“增加票数”这一行为 |
+> | 介词短语 | in the Electoral College | 修饰 votes，说明选票所属的选举人团体系 |
+>
+> **结构图解**：
+> ```text
+> 主句: The three-fifths formula handed Jefferson his narrow victory
+>   ├── 间接宾语: Jefferson
+>   ├── 直接宾语: his narrow victory
+>   │     └── 介词短语: in the presidential election of 1800
+>   └── 方式状语: by inflating the votes...
+>         └── 介词短语: in the Electoral College
+> ```
+>
+> **参考译文**： “五分之三”条款通过增加南方各州在选举人团中的票数，使杰斐逊在1800年的总统选举中险胜。
+>
+> **考点提示**：`hand` 可接双宾语，结构为 `hand + 人 + 物`；`by + 动名词` 常表示“通过做某事”，说明方式或手段。`narrow victory` 中 `narrow` 表示“勉强的、险胜的”，不是“狭窄的”。
+
+Once in office, Jefferson extended slavery with the Louisiana Purchase in 1803; the new land was carved into 13 states, including three slave states.
 
 Still, Jefferson freed Hemings's children—though not Hemings herself or his approximately 150 other slaves. Washington, who had begun to believe that all men were created equal after observing the bravery of the black soldiers during the Revolutionary War, overcame the strong opposition of his relatives to grant his slaves their freedom in his will.
 
