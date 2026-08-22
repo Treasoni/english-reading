@@ -195,7 +195,7 @@ And only over the past 30 years have scholars examined history from the bottom u
 >
 > **考点提示**：`only + 状语` 位于句首时，主句使用部分倒装，即 `have scholars examined` 的语序；还原后是 `scholars have examined history only over the past 30 years`。`from the bottom up` 是固定表达，意为“自下而上地”，此处指从普通民众或社会底层的视角研究历史。
 
-Works of several historians reveal the moral compromises made by the nation's early leaders and the fragile nature of the country's infancy. More significantly, they argue that many of the Founding Fathers knew slavery was wrong—and yet most did little to fight it.
+Works of several historians reveal the moral compromises made by the nation's early leaders and the fragile nature of the country's **infancy**. More significantly, they argue that many of the Founding Fathers knew slavery was wrong—and yet most did little to fight it.
 
 > [!abstract]- 长难句分析
 > **原句**：More significantly, they argue that many of the Founding Fathers knew slavery was wrong—and yet most did little to fight it.
