@@ -159,7 +159,43 @@ They have been spurred in part by DNA evidence made available in 1998, which alm
 >
 > **考点提示**：`which` 引导非限制性定语从句，指代前面的 `DNA evidence`；`proved` 后面的完整句子是宾语从句，省略了连接词 `that`。`had fathered` 使用过去完成时，表示生育行为发生在“证据证明”之前。
 
-And only over the past 30 years have scholars examined history from the bottom up. Works of several historians reveal the moral compromises made by the nation's early leaders and the fragile nature of the country's infancy. More significantly, they argue that many of the Founding Fathers knew slavery was wrong—and yet most did little to fight it.
+And only over the past 30 years have scholars examined history from the bottom up.
+
+> [!abstract]- 长难句分析
+> **原句**：And only over the past 30 years have scholars examined history from the bottom up.
+>
+> **主干提取**：
+> - 并列连词：And
+> - 时间状语 A：only over the past 30 years
+> - 主语 S：scholars
+> - 谓语 V：have examined
+> - 宾语 O：history
+> - 方式/范围状语 A：from the bottom up
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |---|---|---|
+> | 并列连词 | And | 承接前文，补充说明历史研究的变化 |
+> | 限制性时间状语 | only over the past 30 years | 限定 have examined 的时间范围 |
+> | 方式状语 | from the bottom up | 修饰 examined，表示“自下而上地”研究 |
+> | 部分倒装 | only + 状语置于句首 | 将助动词 have 提到主语 scholars 前 |
+>
+> **结构图解**：
+> ```text
+> 并列分句: And only over the past 30 years have scholars examined history
+>   ├── 时间状语: only over the past 30 years
+>   ├── 主语: scholars
+>   ├── 谓语: have examined
+>   ├── 宾语: history
+>   └── 方式状语: from the bottom up
+> ```
+>
+> **参考译文**：而且，直到过去30年，学者们才开始自下而上地研究历史。
+>
+> **考点提示**：`only + 状语` 位于句首时，主句使用部分倒装，即 `have scholars examined` 的语序；还原后是 `scholars have examined history only over the past 30 years`。`from the bottom up` 是固定表达，意为“自下而上地”，此处指从普通民众或社会底层的视角研究历史。
+
+Works of several historians reveal the moral compromises made by the nation's early leaders and the fragile nature of the country's infancy. More significantly, they argue that many of the Founding Fathers knew slavery was wrong—and yet most did little to fight it.
 
 > [!abstract]- 长难句分析
 > **原句**：More significantly, they argue that many of the Founding Fathers knew slavery was wrong—and yet most did little to fight it.
