@@ -82,7 +82,46 @@ That's a far different image from the cherry-tree-chopping George most people re
 >
 > **考点提示**：`George most people remember...` 是“名词 + 省略关系代词的定语从句”，`George` 在从句中作 `remember` 的宾语。`cherry-tree-chopping` 是由名词和现在分词构成的复合形容词，整体修饰 George。
 
-But recently, many historians have begun to focus on the roles slavery played in the lives of the founding generation. They have been spurred in part by DNA evidence made available in 1998, which almost certainly proved Thomas Jefferson had fathered at least one child with his slave Sally Hemings.
+But recently, many historians have begun to focus on the roles slavery played in the lives of the founding generation.
+
+> [!abstract]- 长难句分析
+> **原句**：But recently, many historians have begun to focus on the roles slavery played in the lives of the founding generation.
+>
+> **主干提取**：
+> - 转折连词：But
+> - 时间状语 A：recently
+> - 主语 S：many historians
+> - 谓语 V：have begun to focus
+> - 介词宾语 O：the roles slavery played in the lives of the founding generation
+>
+> 宾语内部：
+> - 核心名词：the roles
+> - 定语从句：slavery played in the lives of the founding generation
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |---|---|---|
+> | 转折状语 | But | 与前文形成转折 |
+> | 时间状语 | recently | 修饰 have begun，表示“最近” |
+> | 不定式短语 | to focus on... | 作 begun 的补足成分，说明开始做什么 |
+> | 省略关系代词的定语从句 | slavery played... | 修饰 roles，完整形式可理解为 roles that/which slavery played... |
+> | 介词短语 | in the lives of the founding generation | 与 played 搭配，说明奴隶制发挥作用的范围 |
+>
+> **结构图解**：
+> ```text
+> 主句: many historians have begun to focus on the roles
+>   ├── 转折状语: But
+>   ├── 时间状语: recently
+>   └── 定语从句: slavery played in the lives of the founding generation
+>         └── 介词短语: in the lives of the founding generation
+> ```
+>
+> **参考译文**：但是，最近许多历史学家开始关注奴隶制在建国一代人的生活中所扮演的角色。
+>
+> **考点提示**：`slavery played...` 是修饰 `roles` 的定语从句，关系代词在从句中作 `played` 的宾语而被省略；不要误把 `slavery` 识别为 `roles` 的同位语。`begin to do` 表示“开始做某事”，其中 `to focus on` 不是目的状语，而是 `begin` 的补足成分。
+
+They have been spurred in part by DNA evidence made available in 1998, which almost certainly proved Thomas Jefferson had fathered at least one child with his slave Sally Hemings.
 
 > [!abstract]- 长难句分析
 > **原句**：They have been spurred in part by DNA evidence made available in 1998, which almost certainly proved Thomas Jefferson had fathered at least one child with his slave Sally Hemings.
