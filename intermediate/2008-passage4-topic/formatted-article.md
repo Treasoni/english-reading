@@ -280,7 +280,7 @@ More than anything, the historians say, the founders were hampered by the cultur
 
 
 
-For one thing, the South could not afford to part with its slaves. Owning slaves was “like having a large bank account,” says Wiencek, author of An Imperfect God: George Washington, His Slaves, and the Creation of America. The southern states would not have signed the Constitution without protections for the “peculiar institution,” including a clause that counted a slave as three fifths of a man for purposes of congressional representation.
+For one thing, the South could not afford to part with its slaves. Owning slaves was “like having a large bank account,” says Wiencek, author of An Imperfect God: George Washington, His Slaves, and the Creation of America. The southern states would not have signed the **Constitution** without protections for the “peculiar institution,” including a clause that counted a slave as three fifths of a man for purposes of congressional representation.
 
 > [!abstract]- 长难句分析
 > **原句**：The southern states would not have signed the Constitution without protections for the “peculiar institution,” including a clause that counted a slave as three fifths of a man for purposes of congressional representation.
