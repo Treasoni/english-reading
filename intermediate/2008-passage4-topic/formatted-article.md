@@ -239,7 +239,46 @@ Works of several historians reveal the moral compromises made by the nation's ea
 >
 > **考点提示**：一个句子中连续出现多个宾语从句时，要根据谓语动词判断从句层级；`and yet` 表示“然而”，揭示“认识到错误”与“缺乏行动”之间的矛盾。`did little` 中的 `did` 是代动词，代替前文的实义动词，避免重复。
 
-More than anything, the historians say, the founders were hampered by the culture of their time. While Washington and Jefferson privately expressed distaste for slavery, they also understood that it was part of the political and economic bedrock of the country they helped to create.
+More than anything, the historians say, the founders were hampered by the culture of their time. While Washington and Jefferson privately expressed **distaste** for slavery, they also understood that it was part of the political and economic **bedrock** of the country they helped to create.
+
+> [!abstract]- 长难句分析
+> **原句**：While Washington and Jefferson privately expressed distaste for slavery, they also understood that it was part of the political and economic bedrock of the country they helped to create.
+>
+> **主干提取**：
+> - 让步状语从句：While Washington and Jefferson privately expressed distaste for slavery
+> - 主语 S：they
+> - 谓语 V：understood
+> - 宾语 O：that it was part of the political and economic bedrock of the country they helped to create
+>
+> 宾语从句内部：
+> - 主语 S：it（指 slavery）
+> - 系动词 V：was
+> - 表语 C：part of the political and economic bedrock of the country they helped to create
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象 |
+> |---|---|---|
+> | 让步状语从句 | While... | 表示“虽然”私下厌恶奴隶制，但仍承认其重要性 |
+> | 宾语从句 | that it was part... | 作 understood 的宾语 |
+> | 介词短语 | of the political and economic bedrock | 修饰 part，说明所属关系 |
+> | 介词短语 | of the country... | 修饰 bedrock，说明这一政治经济基础属于哪个国家 |
+> | 省略关系代词的定语从句 | they helped to create | 修饰 country，完整形式可理解为 country that/which they helped to create |
+>
+> **结构图解**：
+> ```text
+> 让步状语从句: While Washington and Jefferson expressed distaste for slavery
+> 主句: they understood...
+>   └── 宾语从句: it was part of the political and economic bedrock
+>         └── 介词短语: of the country...
+>               └── 定语从句: they helped to create
+> ```
+>
+> **参考译文**：华盛顿和杰斐逊虽然私下表达过对奴隶制的厌恶，但他们也明白，奴隶制是他们参与创建的这个国家赖以建立的政治和经济基础的一部分。
+>
+> **考点提示**：`while` 在句首引导让步状语从句，不能只理解为“当……时”。`understood that...` 后接宾语从句；在 `the country they helped to create` 中，关系代词被省略，`country` 是 `create` 的宾语。
+
+
 
 For one thing, the South could not afford to part with its slaves. Owning slaves was “like having a large bank account,” says Wiencek, author of An Imperfect God: George Washington, His Slaves, and the Creation of America. The southern states would not have signed the Constitution without protections for the “peculiar institution,” including a clause that counted a slave as three fifths of a man for purposes of congressional representation.
 
