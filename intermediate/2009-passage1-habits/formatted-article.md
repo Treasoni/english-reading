@@ -146,7 +146,7 @@ The current emphasis on standardized testing highlights analysis and procedure, 
 
 “This breaks the major rule in the American belief system—that anyone can do anything,” explains M. J. Ryan, author of the 2006 book This Year I Will…and Ms. Markova’s business partner. “That’s a lie that we have **perpetuated**, and it fosters **commonness**. Knowing what you’re good at and doing even more of it creates excellence.” This is where developing new habits comes in.
 
-21. In Wordsworth's view, “habits” is characterized by being _.
+21. In Wordsworth's view, “habits” is **characterized** by being _.
 [A] casual
 [B] familiar
 [C] mechanical
