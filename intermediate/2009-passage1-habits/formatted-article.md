@@ -11,7 +11,7 @@ sources:
   - "2009阅读/passage_1.md"
 ---
 
-Habits are a funny thing. We reach for them mindlessly, setting our brains on auto-pilot and relaxing into the unconscious comfort of familiar routine. “Not choice, but habit rules the unreflecting herd,” William Wordsworth said in the 19th century. In the ever-changing 21st century, even the word “habit” carries a negative implication.
+Habits are a funny thing. We reach for them mindlessly, setting our brains on auto-pilot and relaxing into the unconscious comfort of familiar routine. “Not choice, but habit rules the unreflecting **herd**,” William Wordsworth said in the 19th century. In the ever-changing 21st century, even the word “habit” carries a negative implication.
 
 So it seems paradoxical to talk about habits in the same context as creativity and innovation. But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks.
 
