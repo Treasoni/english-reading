@@ -78,6 +78,35 @@ In fact, the more new things we try—the more we step outside our comfort zone�
 
 But don't bother trying to kill off old habits; once those ruts of procedure are worn into the brain, they're there to stay. Instead, the new habits we deliberately press into ourselves create parallel pathways that can bypass those old roads.
 
+> [!abstract]- 长难句分析
+> **原句**：Instead, the new habits we deliberately press into ourselves create parallel pathways that can bypass those old roads.
+>
+> **主干提取**
+> - 主语 S: the new habits
+> - 谓语 V: create
+> - 宾语 O: parallel pathways
+> - 状语 A: deliberately；instead
+> - 主句简化：The new habits create parallel pathways.
+>
+> **修饰成分**
+>
+> | 类型 | 引导词/形式 | 修饰对象与作用 |
+> | --- | --- | --- |
+> | 副词 | Instead | 修饰 create，表示“相反/而是” |
+> | 定语从句 | that | 修饰 parallel pathways，说明这些路径能够绕开旧路径 |
+> | 插入成分 | we deliberately press into ourselves | 省略关系代词 that 的定语从句，修饰 the new habits |
+> | 介词短语 | into ourselves | 与 press 构成 press into，表示“刻意灌输给自己” |
+>
+> **结构图解**
+> 主句：the new habits + create + parallel pathways
+>   ├── 定语从句：we deliberately press into ourselves → 修饰 the new habits
+>   └── 定语从句：that can bypass those old roads → 修饰 parallel pathways
+>
+> **参考译文**：相反，我们有意灌输给自己的新习惯会形成平行的路径，从而绕开那些旧有的思维道路。
+>
+> **考点提示**：句中有两个定语从句：第一个省略了关系代词 that，第二个由 that 引导。判断第一个从句时，可观察 press 的宾语缺位；翻译时应将两个定语从句分别还原，避免把 we 误判为主句主语。
+
+
 “The first thing needed for innovation is a fascination with wonder,” says Dawna Markova, author of The Open Mind. “But we are taught instead to ‘decide,’ just as our president calls himself ‘the Decider’.” She adds, however, that “to decide is to kill off all possibilities but one. A good innovational thinker is always exploring the many other possibilities.”
 
 All of us work through problems in ways of which we're unaware, she says. Researchers in the late 1960s discovered that humans are born with the capacity to approach challenges in four primary ways: analytically, procedurally, relationally (or collaboratively) and innovatively. At the end of adolescence, however, the brain shuts down half of that capacity, preserving only those modes of thought that have seemed most valuable during the first decade or so of life.
