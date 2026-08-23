@@ -107,7 +107,7 @@ But don't bother trying to kill off old habits; once those ruts of procedure are
 > **考点提示**：句中有两个定语从句：第一个省略了关系代词 that，第二个由 that 引导。判断第一个从句时，可观察 press 的宾语缺位；翻译时应将两个定语从句分别还原，避免把 we 误判为主句主语。
 
 
-“The first thing needed for innovation is a fascination with wonder,” says Dawna Markova, author of The Open Mind. “But we are taught instead to ‘decide,’ just as our president calls himself ‘the Decider’.” She adds, however, that “to decide is to kill off all possibilities but one. A good innovational thinker is always exploring the many other possibilities.”
+“The first thing needed for innovation is a **fascination** with **wonder**,” says Dawna Markova, author of The Open Mind. “But we are taught instead to ‘decide,’ just as our president calls himself ‘the Decider’.” She adds, however, that “to decide is to kill off all possibilities but one. A good innovational thinker is always exploring the many other possibilities.”
 
 All of us work through problems in ways of which we're unaware, she says. Researchers in the late 1960s discovered that humans are born with the capacity to approach challenges in four primary ways: analytically, procedurally, relationally (or collaboratively) and innovatively. At the end of adolescence, however, the brain shuts down half of that capacity, preserving only those modes of thought that have seemed most valuable during the first decade or so of life.
 
