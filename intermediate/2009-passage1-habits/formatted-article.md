@@ -74,7 +74,7 @@ Rather than dismissing ourselves as unchangeable creatures of habit, we can inst
 >
 > **考点提示**：Rather than 后接动名词，表示选择或对比；as 短语在这里是宾语补足语，不是原因状语；by + 动名词常考作方式状语。
 
-In fact, the more new things we try—the more we step outside our comfort zone—the more inherently creative we become, both in the workplace and in our personal lives.
+In fact, the more new things we try—the more we step outside our comfort zone—the more **inherently** creative we become, both in the workplace and in our personal lives.
 
 But don't bother trying to kill off old habits; once those ruts of procedure are worn into the brain, they're there to stay. Instead, the new habits we deliberately press into ourselves create parallel pathways that can bypass those old roads.
 
