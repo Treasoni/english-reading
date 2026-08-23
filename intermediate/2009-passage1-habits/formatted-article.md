@@ -15,7 +15,65 @@ Habits are a funny thing. We reach for them mindlessly, setting our brains on au
 
 So it seems paradoxical to talk about habits in the same context as creativity and innovation. But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks.
 
-Rather than dismissing ourselves as unchangeable creatures of habit, we can instead direct our own change by consciously developing new habits. In fact, the more new things we try—the more we step outside our comfort zone—the more inherently creative we become, both in the workplace and in our personal lives.
+> [!abstract]- 长难句分析
+> **原句**：But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks.
+>
+> **主干提取**
+> - 主语 S: brain researchers
+> - 谓语 V: have discovered
+> - 宾语 O: that 从句
+> - 主句简化：Brain researchers have discovered that...
+>
+> **修饰成分**
+>
+> | 类型 | 引导词/形式 | 修饰对象与作用 |
+> | --- | --- | --- |
+> | 名词性从句 | that | 作 discovered 的宾语，说明研究者发现的内容 |
+> | 状语从句 | when | 作 develop 的时间状语，表示“当……时” |
+> | 定语从句 | that | 修饰 parallel paths and entirely new brain cells，说明这些路径和脑细胞的作用 |
+> | 插入成分 | and even entirely new brain cells | 插入主句宾语 create parallel paths，补充说明新形成的脑通路及脑细胞 |
+>
+> **结构图解**
+> 主句：brain researchers + have discovered + [that 从句]
+>   └── 宾语从句：when we consciously develop new habits, we create parallel paths and new brain cells
+>       ├── 时间状语从句：when we consciously develop new habits
+>       └── 定语从句：that can jump our trains of thought onto new, innovative tracks → 修饰 paths 和 brain cells
+>
+> **参考译文**：但是，脑科学研究人员发现，当我们有意识地培养新习惯时，就会形成平行的思维路径，甚至产生全新的脑细胞；这些路径和脑细胞能够把我们的思维列车引向新的、富有创新性的轨道。
+>
+> **考点提示**：重点是 that 引导的宾语从句、when 引导的时间状语从句，以及关系代词 that 引导的定语从句。句中的插入成分使宾语结构被拉长，翻译时应先确定 create 的并列宾语，再处理末尾定语从句。
+
+
+Rather than dismissing ourselves as unchangeable creatures of habit, we can instead direct our own change by consciously developing new habits.
+
+> [!abstract]- 长难句分析
+> **原句**：Rather than dismissing ourselves as unchangeable creatures of habit, we can instead direct our own change by consciously developing new habits.
+>
+> **主干提取**
+> - 主语 S: we
+> - 谓语 V: can direct
+> - 宾语 O: our own change
+> - 状语 A: instead；by consciously developing new habits
+> - 主句简化：We can direct our own change.
+>
+> **修饰成分**
+>
+> | 类型 | 引导词/形式 | 修饰对象与作用 |
+> | --- | --- | --- |
+> | 介词短语 | Rather than + -ing | 作让步/取舍状语，表示“不……而……” |
+> | 介词短语 | as | 作 dismissing 的宾语补足语，说明把 ourselves 看作什么 |
+> | 非谓语短语 | by developing | 作方式状语，说明如何 direct our own change |
+> | 非谓语短语 | consciously developing | developing 的副词修饰，表示“有意识地培养” |
+>
+> **结构图解**
+> 主句：we + can direct + our own change
+>   ├── Rather than dismissing ourselves as unchangeable creatures of habit → 让步/取舍状语
+>   └── by consciously developing new habits → 方式状语
+>
+> **参考译文**：我们不必把自己看成一成不变的习惯动物，而可以通过有意识地培养新习惯来主动促成自身的改变。
+>
+> **考点提示**：Rather than 后接动名词，表示选择或对比；as 短语在这里是宾语补足语，不是原因状语；by + 动名词常考作方式状语。
+ In fact, the more new things we try—the more we step outside our comfort zone—the more inherently creative we become, both in the workplace and in our personal lives.
 
 But don't bother trying to kill off old habits; once those ruts of procedure are worn into the brain, they're there to stay. Instead, the new habits we deliberately press into ourselves create parallel pathways that can bypass those old roads.
 
