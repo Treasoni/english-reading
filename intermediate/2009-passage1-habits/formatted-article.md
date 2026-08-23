@@ -111,7 +111,40 @@ But don't bother trying to kill off old habits; once those ruts of procedure are
 
 All of us work through problems in ways of which we're unaware, she says. Researchers in the late 1960s discovered that humans are born with the capacity to approach challenges in four primary ways: analytically, procedurally, relationally (or collaboratively) and innovatively. At the end of adolescence, however, the brain shuts down half of that capacity, preserving only those modes of thought that have seemed most valuable during the first decade or so of life.
 
-The current emphasis on standardized testing highlights analysis and procedure, meaning that few of us inherently use our innovative and collaborative modes of thought. “This breaks the major rule in the American belief system—that anyone can do anything,” explains M. J. Ryan, author of the 2006 book This Year I Will…and Ms. Markova’s business partner. “That’s a lie that we have perpetuated, and it fosters commonness. Knowing what you’re good at and doing even more of it creates excellence.” This is where developing new habits comes in.
+The current emphasis on standardized testing highlights analysis and procedure, meaning that few of us inherently use our innovative and collaborative modes of thought.
+
+> [!abstract]- 长难句分析
+> **原句**：The current emphasis on standardized testing highlights analysis and procedure, meaning that few of us inherently use our innovative and collaborative modes of thought.
+>
+> **主干提取**
+> - 主语 S: The current emphasis on standardized testing
+> - 谓语 V: highlights
+> - 宾语 O: analysis and procedure
+> - 结果说明 A: meaning that few of us inherently use...
+> - 主句简化：The emphasis highlights analysis and procedure.
+>
+> **修饰成分**
+>
+> | 类型 | 引导词/形式 | 修饰对象与作用 |
+> | --- | --- | --- |
+> | 介词短语 | on standardized testing | 修饰 emphasis，说明“强调”的对象 |
+> | 非谓语短语 | meaning... | 现在分词短语，表示前面整件事造成的结果或推论 |
+> | 名词性从句 | that | 作 meaning 的宾语，说明具体结果 |
+> | 介词短语 | of thought | 修饰 modes，表示“思维模式” |
+> | 并列修饰语 | innovative and collaborative | 并列修饰 modes of thought |
+>
+> **结构图解**
+> 主句：The current emphasis on standardized testing + highlights + analysis and procedure
+>   └── 结果说明：meaning [that few of us inherently use our innovative and collaborative modes of thought]
+>       ├── 从句主语：few of us
+>       ├── 从句谓语：use
+>       └── 从句宾语：our innovative and collaborative modes of thought
+>
+> **参考译文**：当前对标准化考试的重视突出了分析能力和程序性思维，这意味着我们中很少有人会自然而然地运用创新性和协作性的思维方式。
+>
+> **考点提示**：meaning 是现在分词，逻辑主语是前面的整个主句，而不是 procedure；that 引导宾语从句。注意 few 表示“很少的”，带有否定意味；standardized testing 和 modes of thought 中的介词短语分别作后置定语。
+
+“This breaks the major rule in the American belief system—that anyone can do anything,” explains M. J. Ryan, author of the 2006 book This Year I Will…and Ms. Markova’s business partner. “That’s a lie that we have **perpetuated**, and it fosters **commonness**. Knowing what you’re good at and doing even more of it creates excellence.” This is where developing new habits comes in.
 
 21. In Wordsworth's view, “habits” is characterized by being _.
 [A] casual
