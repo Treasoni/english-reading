@@ -38,14 +38,14 @@ It is a wise father that knows his own child, but today a man can **boost** his 
 > | 省略结构 | or at least confirm... | 与 can boost 并列，共用 can；完整形式为 can at least confirm... |
 >
 > **结构图解**：
-> `text
+> ```text
 > 复合句
 > ├── 分句一：It is a wise father that knows his own child
 > │   ├── 强调成分：a wise father
 > │   └── that 从句：knows his own child
 > └── but 分句二：today a man can boost his paternal wisdom
 >     └── or（省略 can）at least confirm [that he’s the kid’s dad]
-> `
+> ```
 >
 > **参考译文**：只有聪明的父亲才了解自己的孩子；但如今，一个男人可以增强自己作为父亲的“智慧”——或者至少确认自己就是孩子的父亲。
 >
@@ -76,13 +76,13 @@ More than 60,000 people have purchased the **PTKs** since they first became avai
 > | 定语从句 | which makes the over-the-counter kits | 修饰 Identigene |
 >
 > **结构图解**：
-> `text
+> ```text
 > 主句：More than 60,000 people have purchased the PTKs
 > ├── since 从句：they first became available without prescriptions last year
 > ├── according to Doug Fogg
 > │   └── 同位语：chief operating officer of Identigene
 > │       └── 定从：which makes the over-the-counter kits
-> `
+> ```
 >
 > **参考译文**：Identigene 公司首席运营官道格·福格表示，自这些亲子鉴定工具包去年首次可以无需处方购买以来，已有超过 6 万人购买。
 >
@@ -113,13 +113,13 @@ Among the most popular: **paternity and kinship testing**, which adopted childre
 > | 过去分词短语 | put up for adoption | 修饰 kids，意为被送养的孩子 |
 >
 > **结构图解**：
-> `text
-> 省略倒装结构：Among the most popular [are] paternity and kinship testing
+> ```text
+> 冒号后的省略结构：Among the most popular [are] paternity and kinship testing
 > └── which 定从：
 >     ├── adopted children can use [it] to find their biological relatives
 >     └── families can use [it] to track down kids
 >         └── put up for adoption
-> `
+> ```
 >
 > **参考译文**：其中最受欢迎的项目包括亲子关系和亲属关系检测。被收养的孩子可以利用这类检测寻找自己的生物学亲属，家庭也可以借此追踪那些被送养的孩子。
 >
@@ -152,12 +152,12 @@ But some observers are skeptical. “There’s a kind of **false precision** bei
 > | 介词短语 | from mothers | 说明线粒体 DNA 的传递来源 |
 >
 > **结构图解**：
-> `text
+> ```text
 > 主句：most ancestry testing only considers a single lineage
 > └── 同位语：either the Y chromosome or mitochondrial DNA
 >     ├── 过去分词短语：inherited through men in a father’s line
 >     └── which 定从：which is passed down only from mothers
-> `
+> ```
 >
 > **参考译文**：然而，大多数祖源检测只考虑单一谱系：要么是沿父系男性传递的 Y 染色体，要么是只由母亲传递的线粒体 DNA。
 >
@@ -187,11 +187,11 @@ Critics also argue that commercial genetic testing is only as good as the **refe
 > | 被动结构 | a sample is compared | sample 是 compare 的承受者，完整含义为 compared to the collections |
 >
 > **结构图解**：
-> `text
+> ```text
 > 主句：Critics also argue [宾语从句]
 > └── commercial genetic testing is only as good as the reference collections
 >     └── to which a sample is compared
-> `
+> ```
 >
 > **参考译文**：批评者还认为，商业基因检测的质量取决于样本所比对的参考数据库。
 >
