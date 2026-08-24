@@ -127,7 +127,7 @@ Among the most popular: **paternity and kinship testing**, which adopted childre
 
 **DNA testing** is also the latest rage among passionate genealogists—and supports businesses that offer to search for a family’s geographic roots.
 
-Most tests require collecting cells by swabbing saliva in the mouth and sending it to the company for testing. All tests require a potential candidate with whom to compare DNA.
+Most tests require collecting cells by **swabbing** saliva in the mouth and sending it to the company for testing. All tests require a potential **candidate** with whom to compare DNA.
 
 But some observers are skeptical. “There’s a kind of **false precision** being hawked by people claiming they are doing **ancestry testing**,” says Troy Duster, a New York University sociologist. He notes that each individual has many ancestors—numbering in the hundreds just a few centuries back. Yet most ancestry testing only considers a single lineage, either the Y chromosome inherited through men in a father’s line or mitochondrial DNA, which is passed down only from mothers.
 
