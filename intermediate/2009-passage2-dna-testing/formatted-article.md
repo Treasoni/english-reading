@@ -15,7 +15,7 @@ sources:
 
 ## Reading Passage
 
-It is a wise father that knows his own child, but today a man can boost his paternal (fatherly) wisdom—or at least confirm that he’s the kid’s dad. All he needs to do is shell out $30 for a **paternity testing kit (PTK)** at his local drugstore—and another $120 to get the results.
+It is a wise father that knows his own child, but today a man can **boost** his paternal (fatherly) wisdom—or at least confirm that he’s the kid’s dad. All he needs to do is shell out $30 for a **paternity testing kit (PTK)** at his local drugstore—and another $120 to get the results.
 
 More than 60,000 people have purchased the **PTKs** since they first became available without prescriptions last year, according to Doug Fogg, chief operating officer of Identigene, which makes the over-the-counter kits. More than two dozen companies sell **DNA tests** directly to the public, ranging in price from a few hundred dollars to more than $2,500.
 
