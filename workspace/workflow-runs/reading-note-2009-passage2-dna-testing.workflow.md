@@ -8,8 +8,8 @@ task: "整合 2009 Passage 2 DNA testing 精读笔记"
 created_from: ".codex/workflows/reading-note-generation/state-template.md"
 created_at: "2026-08-26"
 last_updated: "2026-08-26"
-current_phase: P7
-current_status: ready
+current_phase: done
+current_status: complete
 mode: guided
 blocked_reason: ""
 article_source: "intermediate/2009-passage2-dna-testing/formatted-article.md"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：整合 2009 Passage 2 DNA testing 精读笔记
 > 运行标识：2009-passage2-dna-testing
 > 创建时间：2026-08-26
-> 当前阶段：阶段 7
+> 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -118,7 +118,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `### 生词练习`
 - [ ] 已补充短语内重要独立词条
 
-> [P7] ⬜ 未开始 {not_started}
+> [P7] ✅ 已完成 {complete}
 
 ---
 
@@ -130,7 +130,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已检查 Markdown 标题、YAML 和表格格式
 - [ ] 已向用户报告输出路径
 
-> [P8] ⬜ 未开始 {not_started}
+> [P8] ✅ 已完成 {complete}
 
 ---
 
