@@ -197,7 +197,7 @@ Critics also argue that commercial genetic testing is only as good as the **refe
 >
 > **考点提示**：识别 `argue that...` 引导的宾语从句；`only as good as...` 是“与……一样好/其好坏取决于……”的比较结构；`to which` 是“介词 + 关系代词”引导的定语从句，不能将 `to` 遗漏。
 
-Databases used by some companies don't rely on data collected systematically but rather lump together information from different research projects. This means that a DNA database may have a lot of data from some regions and not others, so a person's test results may differ depending on the company that processes the results. In addition, the computer programs a company uses to estimate relationships may be patented and not subject to **peer review** or outside evaluation.
+Databases used by some companies don't rely on data collected systematically but rather **lump** together information from different research projects. This means that a DNA database may have a lot of data from some regions and not others, so a person's test results may differ depending on the company that processes the results. In addition, the computer programs a company uses to estimate relationships may be patented and not subject to **peer review** or outside evaluation.
 
 ## Reading Comprehension Questions
 
