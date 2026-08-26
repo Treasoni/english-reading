@@ -23,7 +23,7 @@ The relationship between formal education and economic growth in poor countries 
 > **主干提取**
 > - 主语 S: Progress in both areas
 > - 谓语 V: is
-> - 补语 C: necessary for the social, political, and intellectual development...
+> - 补语 C: necessary for the social, political, and intellectual development of these and all other societies
 > - 转折分句主语 S: the conventional view
 > - 转折分句谓语 V: is
 > - 转折分句补语 C: wrong
@@ -122,7 +122,7 @@ Ironically, the first evidence for this idea appeared in the United States. Not 
 >   └── 并列补语: poorly educated + one of the primary causes ...
 > ```
 >
-> **参考译文**：不久前，美国正步入衰退期，而日本处于泡沫破裂前的峰值，美国劳动力因受教育程度低而遭到嘲讽，并被认为是美国经济表现不佳的主要原因之一。
+> **参考译文**：不久前，正值美国步入衰退期、日本处于泡沫破裂前的峰值之际，美国劳动力被嘲讽为受教育程度低，并被视为美国经济表现不佳的主要原因之一。
 >
 > **考点提示**：with + 名词 + 分词/介词短语构成独立主格结构；was derided as...表示“被嘲讽为/被认为是……”；poorly educated 与 one of... 是并列补语。
 
@@ -195,7 +195,7 @@ As education improved, humanity's productivity potential increased as well. When
 >               └── 介短: (by advanced economic performance)
 > ```
 >
-> **参考译文**：这种不断提高的教育水平，很可能是建立先进经济表现所需要的复杂政治制度的必要条件，但不是充分条件。
+> **参考译文**：这种不断提高的教育水平，很可能是复杂政治制度的必要条件，但不是充分条件；而这些制度正是先进经济运行所需要的。
 >
 > **考点提示**：necessary but not sufficient 是“必要但不充分”的固定逻辑表达；required by...是过去分词短语作后置定语，可还原为 which are required by...。
 
