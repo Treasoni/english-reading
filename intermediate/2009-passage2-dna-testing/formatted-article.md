@@ -6,7 +6,7 @@ tags:
   - english-reading
   - formatted-article
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-26
 sources:
   - "2009年考研英语阅读 Passage 2"
 ---
@@ -197,7 +197,44 @@ Critics also argue that commercial genetic testing is only as good as the **refe
 >
 > **考点提示**：识别 `argue that...` 引导的宾语从句；`only as good as...` 是“与……一样好/其好坏取决于……”的比较结构；`to which` 是“介词 + 关系代词”引导的定语从句，不能将 `to` 遗漏。
 
-Databases used by some companies don't rely on data collected systematically but rather **lump** together information from different research projects. This means that a DNA database may have a lot of data from some regions and not others, so a person's test results may differ depending on the company that processes the results. In addition, the computer programs a company uses to estimate relationships may be patented and not subject to **peer review** or outside evaluation.
+Databases used by some companies don't rely on data collected systematically but rather **lump** together information from different research projects.
+
+> [!abstract]- 长难句分析
+> **原句**：Databases used by some companies don't rely on data collected systematically but rather lump together information from different research projects.
+>
+> **主干提取**
+> - 主语 S: Databases
+> - 谓语 V: don't rely on / lump together（两个并列谓语）
+> - 宾语 O: data collected systematically；information from different research projects（分别对应两个谓语）
+> - 补语 C: 无
+> - 状语 A: 无（`by some companies` 和 `systematically` 分别属于内部修饰成分）
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 具体结构 | 修饰对象/功能 |
+> |---|---|---|
+> | 过去分词短语 | used by some companies | 修饰 Databases，意为“被一些公司使用的” |
+> | 过去分词短语 | collected systematically | 修饰 data，意为“被系统收集的数据” |
+> | 介词短语 | from different research projects | 修饰 information，说明信息来源 |
+> | 对比并列结构 | don’t rely on A but rather lump together B | 连接两个并列谓语，表示“不是依赖 A，而是把 B 混在一起” |
+>
+> **结构图解**：
+> ```text
+> 主句：Databases don't rely on data but rather lump together information
+> ├── 主语：Databases
+> │   └── 过去分词短语：used by some companies
+> ├── 谓语一：don't rely on data
+> │   └── data
+> │       └── 过去分词短语：collected systematically
+> └── but rather 谓语二：lump together information
+>     └── 介词短语：from different research projects
+> ```
+>
+> **参考译文**：一些公司使用的数据库并不依赖系统收集的数据，而是把来自不同研究项目的信息混杂在一起。
+>
+> **考点提示**：重点掌握 `not...but rather...` 的“不是……而是……”结构；`used` 和 `collected` 都是过去分词作后置定语；`lump together` 表示“把……混在一起”。
+
+This means that a DNA database may have a lot of data from some regions and not others, so a person's test results may differ depending on the company that processes the results. In addition, the computer programs a company uses to estimate relationships may be patented and not subject to **peer review** or outside evaluation.
 
 ## Reading Comprehension Questions
 
