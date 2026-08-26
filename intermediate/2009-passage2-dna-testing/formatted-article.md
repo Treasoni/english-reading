@@ -234,7 +234,42 @@ Databases used by some companies don't rely on data collected systematically but
 >
 > **考点提示**：重点掌握 `not...but rather...` 的“不是……而是……”结构；`used` 和 `collected` 都是过去分词作后置定语；`lump together` 表示“把……混在一起”。
 
-This means that a DNA database may have a lot of data from some regions and not others, so a person's test results may differ depending on the company that processes the results. In addition, the computer programs a company uses to estimate relationships may be patented and not subject to **peer review** or outside evaluation.
+This means that a DNA database may have a lot of data from some regions and not others, so a person's test results may differ depending on the company that processes the results.
+
+In addition, the computer programs a company uses to estimate relationships may be patented and not subject to **peer review** or outside evaluation.
+
+> [!abstract]- 长难句分析
+> **原句**：In addition, the computer programs a company uses to estimate relationships may be patented and not subject to peer review or outside evaluation.
+>
+> **主干提取**
+> - 主语 S: the computer programs
+> - 谓语 V: may be patented and (may be) not subject to...
+> - 宾语 O: 无
+> - 补语 C: patented；not subject to peer review or outside evaluation
+> - 状语 A: In addition
+>
+> **修饰成分**：
+>
+> | 修饰类型 | 具体结构 | 修饰对象/功能 |
+> |---|---|---|
+> | 定语从句 | (that) a company uses to estimate relationships | 修饰 the computer programs；关系代词 that 作 uses 的宾语，被省略 |
+> | 不定式短语 | to estimate relationships | 表示一家公司使用这些程序的目的 |
+> | 并列谓语 | may be patented and (may be) not subject to... | 两个谓语共用主语和情态动词 may |
+> | 介词短语 | to peer review or outside evaluation | 作 subject to 的宾语，说明程序不接受的审查方式 |
+>
+> **结构图解**：
+> `text
+> 主句：the computer programs may be patented and not subject to peer review or outside evaluation
+> ├── 主语：the computer programs
+> │   └── 定语从句：（that）a company uses
+> │       └── 不定式短语：to estimate relationships
+> ├── 谓语一：may be patented
+> └── 谓语二：（may be）not subject to peer review or outside evaluation
+> `
+>
+> **参考译文**：此外，一家公司用来估算亲缘关系的计算机程序可能已经获得专利，因此不接受同行评审或外部评估。
+>
+> **考点提示**：`a company uses` 是修饰 `computer programs` 的定语从句，关系代词作宾语时可以省略；`may be patented and (may be) not subject to...` 是并列谓语，第二个 `may be` 被省略；`subject to` 表示“受……影响/接受……的审查”。
 
 ## Reading Comprehension Questions
 
