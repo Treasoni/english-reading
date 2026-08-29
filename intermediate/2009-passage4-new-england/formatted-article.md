@@ -81,8 +81,8 @@ To take this approach to the New Englanders normally means to start with the Pur
 >   ├── 主语不定式: To take this approach to the New Englanders
 >   ├── 状语: normally
 >   └── 补足成分不定式: to start with
->         ├── 并列宾语: the Puritans' theological innovations
->         └── 并列宾语: their distinctive ideas about the church
+>         ├── with 的并列宾语: the Puritans' theological innovations
+>         └── with 的并列宾语: their distinctive ideas about the church
 >               └── 同位语: important subjects
 >                     └── 定语从句: that we may not neglect
 > ```
@@ -102,7 +102,7 @@ The early settlers of Massachusetts Bay included men of impressive education and
 > - 主语 S: political leaders like John Winthrop
 > - 谓语 V: were（there be 结构中的谓语）
 > - 宾语 O: 无
-> - 补语 C: an educated gentleman, lawyer, and official of the Crown（John Winthrop 的同位说明）
+> - 补语 C: 无（后置同位语不属于主句补语）
 > - 状语 A: Besides the ninety or so learned ministers...；before he journeyed to Boston
 > - 简化句：There were political leaders like John Winthrop.
 >
@@ -145,7 +145,8 @@ We should not forget, however, that most New Englanders were less well educated.
 > - 谓语 V: is
 > - 宾语 O: 无
 > - 补语 C: obvious
-> - 状语 A: While few craftsmen or farmers...；that their views were less fully intellectualized（真正主语从句）
+> - 状语 A: While few craftsmen or farmers, let alone dependents and servants, left literary compositions to be analyzed
+> - 真正主语（后置主语）: that their views were less fully intellectualized
 > - 简化句：It is obvious that their views were less fully intellectualized.
 >
 > **修饰成分**：
