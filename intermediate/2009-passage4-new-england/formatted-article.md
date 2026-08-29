@@ -48,7 +48,7 @@ The most thoroughly studied **intellectuals** in the history of the New World ar
 >
 > **考点提示**：否定意义的地点状语 **nowhere else** 置于句首时，主句采用部分倒装，将系动词 **was** 提到主语 **so much importance** 之前；同时要识别 **attach importance to** 的被动形式。
 
-According to many books and articles, New England’s leaders established the basic themes and **preoccupations** of an unfolding, dominant **Puritan tradition** in American intellectual life.
+According to many books and articles, New England’s leaders established the basic themes and preoccupations of an unfolding, dominant **Puritan tradition** in American intellectual life.
 
 To take this approach to the New Englanders normally means to start with the Puritans' **theological innovations** and their distinctive ideas about the church—important subjects that we may not neglect.
 
@@ -126,7 +126,6 @@ But in keeping with our examination of southern intellectual life, we may consid
 > **参考译文**：新英格兰殖民地曾是许多重要事件的舞台；这些事件发生在追求普遍认同的文明与精湛技艺理想的过程中。
 >
 > **考点提示**：**be the scene(s) of...** 中 **of** 短语修饰表语名词 **scenes**，不能误判为谓语 **were** 的宾语；多个介词短语层层嵌套时，要沿着中心名词逐级确定修饰对象。**widely understood** 是过去分词短语作前置定语，可还原为 **ideals that are widely understood**。
-
 
 The early settlers of Massachusetts Bay included men of impressive education and influence in England. Besides the ninety or so learned ministers who came to Massachusetts churches in the decade after 1629, there were political leaders like John Winthrop, an educated gentleman, lawyer, and official of the Crown before he journeyed to Boston.
 
