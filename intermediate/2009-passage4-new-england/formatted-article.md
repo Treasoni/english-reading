@@ -48,7 +48,7 @@ The most thoroughly studied **intellectuals** in the history of the New World ar
 >
 > **考点提示**：否定意义的地点状语 **nowhere else** 置于句首时，主句采用部分倒装，将系动词 **was** 提到主语 **so much importance** 之前；同时要识别 **attach importance to** 的被动形式。
 
-According to many books and articles, New England’s leaders established the basic themes and preoccupations of an unfolding, dominant **Puritan tradition** in American intellectual life.
+According to many books and articles, New England’s leaders established the basic themes and **preoccupations** of an unfolding, dominant **Puritan tradition** in American intellectual life.
 
 To take this approach to the New Englanders normally means to start with the Puritans' **theological innovations** and their distinctive ideas about the church—important subjects that we may not neglect.
 
