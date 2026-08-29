@@ -7,7 +7,7 @@ run_id: "2009-passage2-dna-testing"
 task: "整合 2009 Passage 2 DNA testing 精读笔记"
 created_from: ".codex/workflows/reading-note-generation/state-template.md"
 created_at: "2026-08-26"
-last_updated: "2026-08-26"
+last_updated: "2026-08-29"
 current_phase: done
 current_status: complete
 mode: guided
@@ -17,7 +17,7 @@ year: "2009"
 passage: "2"
 topic: "dna-testing"
 intermediate_dir: "intermediate/2009-passage2-dna-testing/"
-output_path: "/Users/zhqznc/Documents/英语阅读资料/2009阅读/2009-passage2-dna-testing-精读笔记.md"
+output_path: "2009阅读/2009-passage2-dna-testing-精读笔记.md"
 long_sentence_mode: "AI 候选 + 用户确认"
 ---
 

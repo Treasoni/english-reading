@@ -3,31 +3,31 @@ workflow_id: reading-note-generation
 workflow_name: Reading Note Generation
 workflow_version: 1
 state_file_type: workflow-run
-run_id: "2009-passage1-habits"
-task: "整合 2009 Passage 1 habits 精读笔记"
+run_id: "reading-note-2009-passage3-education-20260829"
+task: "2009 Passage 3 考研英语阅读精读笔记生成"
 created_from: ".codex/workflows/reading-note-generation/state-template.md"
-created_at: "2026-08-24"
+created_at: "2026-08-29"
 last_updated: "2026-08-29"
-current_phase: P2
+current_phase: P3
 current_status: in_progress
 mode: guided
 blocked_reason: ""
-article_source: "2009阅读/passage_1.md"
+article_source: "/Users/zhqznc/Documents/英语阅读资料/2009阅读/passgae_3.md"
 year: "2009"
-passage: "1"
-topic: "habits"
-intermediate_dir: "intermediate/2009-passage1-habits/"
-output_path: "2009阅读/2009-passage1-habits-精读笔记.md"
+passage: "3"
+topic: "education"
+intermediate_dir: "intermediate/2009-passage3/"
+output_path: "2009阅读/2009-passage3-精读笔记.md"
 long_sentence_mode: "AI 候选 + 用户确认"
 ---
 
 # Reading Note Generation - Workflow Run
 
 > 工作流：reading-note-generation
-> 任务：整合 2009 Passage 1 habits 精读笔记
-> 运行标识：2009-passage1-habits
-> 创建时间：2026-08-24
-> 当前阶段：阶段 2
+> 任务：2009 Passage 3 考研英语阅读精读笔记生成
+> 运行标识：reading-note-2009-passage3-education-20260829
+> 创建时间：2026-08-29
+> 当前阶段：阶段 3
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -52,7 +52,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已确认原文内容未删改
 - [ ] 已确认标题格式适合 Obsidian
 
-> [P1] ⏭️ 跳过 {skipped}
+> [P1] ✅ 已完成 {complete}
 
 ---
 
@@ -62,7 +62,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `translation.md`
 - [ ] 已保持原文段落结构
 
-> [P2] 🔲 进行中 {in_progress}
+> [P2] ✅ 已完成 {complete}
 
 ---
 
@@ -73,7 +73,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已核验语法笔记信息密度未丢失
 - [ ] 已加入必要的跨节联动复习
 
-> [P3] ⬜ 未开始 {not_started}
+> [P3] 🔲 进行中 {in_progress}
 
 ---
 
@@ -138,13 +138,12 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 | 时间 | 阶段 | 问题描述 | 处理方式 |
 |------|------|---------|---------|
-| 2026-08-24 15:26 | P1 | 跳过阶段：formatted-article.md 已存在，本次直接整合 | 继续推进到下一未完成阶段 |
 | | | | |
 
 ---
 
 ## 最终产出
 
-- **中间目录**：`intermediate/2009-passage1-habits/`
-- **最终笔记**：`2009阅读/2009-passage1-habits-精读笔记.md`
+- **中间目录**：`intermediate/2009-passage3-education/`
+- **最终笔记**：`2009阅读/2009-passage3-精读笔记.md`
 - **完成状态**：
