@@ -6,7 +6,7 @@ tags:
   - english-reading
   - formatted-article
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-08-29
 sources:
   - "2009阅读/passgae_3.md"
 ---
@@ -199,7 +199,44 @@ As education improved, humanity's productivity potential increased as well. When
 >
 > **考点提示**：necessary but not sufficient 是“必要但不充分”的固定逻辑表达；required by...是过去分词短语作后置定语，可还原为 which are required by...。
 
-Thus poor countries might not be able to escape their poverty traps without political changes that may be possible only with broader formal education. A lack of formal education, however, doesn't constrain the ability of the developing world's workforce to substantially improve productivity for the foreseeable future. On the contrary, constraints on improving productivity explain why education isn't developing more quickly there than it is.
+Thus poor countries might not be able to escape their poverty traps without political changes that may be possible only with broader formal education.
+
+> [!abstract]- 长难句分析
+> **原句**：Thus poor countries might not be able to escape their poverty traps without political changes that may be possible only with broader formal education.
+>
+> **主干提取**
+> - 状语 A: Thus
+> - 主语 S: poor countries
+> - 谓语 V: might not be able to escape（might + not + be able to + 动词原形）
+> - 宾语 O: their poverty traps
+> - 条件状语 A: without political changes（修饰“逃脱”这一谓语，表示在缺少该条件的情况下）
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 副词 | Thus | 修饰整个主句，表示前文推论结果“因此” |
+> | 介词短语（介短） | without political changes | 修饰“逃脱”这一谓语，表示“在没有政治变革的情况下” |
+> | 定语从句（定从） | that | 修饰 political changes；that 在从句中作主语 |
+> | 情态结构 | may be possible | 位于定语从句中，表示“可能是可行的” |
+> | 介词短语（介短） | only with broader formal education | 作 possible 的条件补足语；only 限定 with 短语，表示“只有在有/借助……的条件下才可能” |
+>
+> **结构图解**：
+> ```text
+> 主句: poor countries + might not be able to escape + their poverty traps
+>   ├── 结果状语: Thus
+>   └── 条件介短: (without political changes)
+>         └── 定语从句: (that may be possible only with broader formal education)
+>               ├── 主语: that → 指代 political changes
+>               ├── 系表结构: may be + possible
+>               └── 条件介短: (only with broader formal education) → 表示 possible 的必要条件
+> ```
+>
+> **参考译文**：因此，贫困国家若没有政治变革，可能就无法摆脱贫困陷阱；而这种政治变革也许只有通过更广泛的正规教育才有可能实现。
+>
+> **考点提示**：that 引导定语从句，先行词是 political changes，且 that 在从句中作主语，而不是名词性从句；without + 名词表示“没有/如果没有……”的条件；only with...表示“只有通过……才有可能”，注意 only 限定 with 短语以及 may be possible 的情态含义。
+
+A lack of formal education, however, doesn't constrain the ability of the developing world's workforce to substantially improve productivity for the foreseeable future. On the contrary, constraints on improving productivity explain why education isn't developing more quickly there than it is.
 
 ## 阅读理解题
 
