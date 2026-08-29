@@ -93,6 +93,41 @@ To take this approach to the New Englanders normally means to start with the Pur
 
 But in keeping with our examination of southern intellectual life, we may consider the original Puritans as carriers of European culture, adjusting to New World circumstances. The New England colonies were the scenes of important episodes in the pursuit of widely understood ideals of **civility** and **virtuosity**.
 
+> [!abstract]- 长难句分析
+> **原句**：The New England colonies were the scenes of important episodes in the pursuit of widely understood ideals of **civility** and **virtuosity**.
+>
+> **主干提取**
+> - 主语 S: The New England colonies
+> - 谓语 V: were
+> - 宾语 O: 无
+> - 补语 C: the scenes
+> - 状语 A: 无（后面的介词短语均修饰表语名词 scenes 或其内部名词）
+> - 简化句：The New England colonies were the scenes.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 介词短语 | of | scenes，说明这些场所中发生的内容 |
+> | 介词短语 | in | episodes，说明这些事件发生于何种活动中 |
+> | 非谓语（过去分词） | widely understood | ideals，表示“被广泛认可的” |
+> | 介词短语 | of | pursuit，说明所追求的具体理想 |
+>
+> **结构图解**：
+> ```text
+> 主句: [The New England colonies] + [were] + [the scenes]
+>   └── 表语名词的后置修饰: of important episodes
+>         └── 介词短语: in the pursuit
+>               └── 介词短语: of widely understood ideals
+>                     ├── 过去分词短语: widely understood → 修饰 ideals
+>                     └── 介词短语: of civility and virtuosity → 修饰 ideals
+> ```
+>
+> **参考译文**：新英格兰殖民地上演了追求广为人们认可的文明与精湛技艺理想的重要事件。
+>
+> **考点提示**：**be the scene(s) of...** 中 **of** 短语修饰表语名词 **scenes**，不能误判为谓语 **were** 的宾语；多个介词短语层层嵌套时，要沿着中心名词逐级确定修饰对象。**widely understood** 是过去分词短语作前置定语，可还原为 **ideals that are widely understood**。
+
+
 The early settlers of Massachusetts Bay included men of impressive education and influence in England. Besides the ninety or so learned ministers who came to Massachusetts churches in the decade after 1629, there were political leaders like John Winthrop, an educated gentleman, lawyer, and official of the Crown before he journeyed to Boston.
 
 > [!abstract]- 长难句分析
