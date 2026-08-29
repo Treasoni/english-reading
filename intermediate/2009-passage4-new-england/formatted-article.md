@@ -123,7 +123,7 @@ But in keeping with our examination of southern intellectual life, we may consid
 >                     └── 介词短语: of civility and virtuosity → 修饰 ideals
 > ```
 >
-> **参考译文**：新英格兰殖民地上演了追求广为人们认可的文明与精湛技艺理想的重要事件。
+> **参考译文**：新英格兰殖民地曾是许多重要事件的舞台；这些事件发生在追求普遍认同的文明与精湛技艺理想的过程中。
 >
 > **考点提示**：**be the scene(s) of...** 中 **of** 短语修饰表语名词 **scenes**，不能误判为谓语 **were** 的宾语；多个介词短语层层嵌套时，要沿着中心名词逐级确定修饰对象。**widely understood** 是过去分词短语作前置定语，可还原为 **ideals that are widely understood**。
 
