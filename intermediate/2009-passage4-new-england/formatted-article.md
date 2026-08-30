@@ -262,7 +262,7 @@ Meanwhile, many settlers had slighter religious commitments than Dane's, as one 
 > - 谓语 V: had
 > - 宾语 O: slighter religious commitments
 > - 补语 C: 无
-> - 状语 A: Meanwhile；as one clergyman learned in confronting folk...
+> - 状语 A: Meanwhile（语篇状语）；as one clergyman learned... 是对前述事实的补充说明从句，不计入主句主干
 > - 比较成分：than Dane's（省略了 religious commitments，补全为 than Dane's religious commitments）
 > - 简化句：Many settlers had slighter religious commitments than Dane's.
 >
@@ -272,7 +272,7 @@ Meanwhile, many settlers had slighter religious commitments than Dane's, as one 
 > |------|--------|----------|
 > | 副词（时间/语篇状语） | Meanwhile | 整个主句，表示“与此同时” |
 > | 比较结构 | than | slighter，比较定居者与 Dane 的宗教投入程度 |
-> | 状语从句（补充说明） | as | 整个主句，说明这一判断的来源或依据 |
+> | 非限制性 as 从句（补充说明） | as | 指代前面“许多定居者宗教投入较少”这一事实；as 在从句中作 learned 的宾语 |
 > | 介词短语（动名词结构） | in | learned，说明牧师了解到这一点的情境 |
 > | 介词短语 | along | folk，说明民众所在的位置 |
 > | 定语从句 | who | 修饰 folk；who 在从句中作主语 |
@@ -283,8 +283,8 @@ Meanwhile, many settlers had slighter religious commitments than Dane's, as one 
 > **结构图解**：
 > ```text
 > 主句: [Meanwhile] + [many settlers] + [had] + [slighter religious commitments] + [than Dane's]
->   └── 补充说明状语从句: as one clergyman learned in confronting folk ...
->         ├── 主干: one clergyman learned
+>   └── 非限制性 as 从句（补充说明）: as one clergyman learned ___ in confronting folk ...
+>         ├── 主干: one clergyman learned ___
 >         ├── 情境状语: in confronting folk along the coast
 >         │     ├── 地点修饰: along the coast → folk
 >         │     └── 定语从句: who mocked ... → folk
@@ -295,9 +295,9 @@ Meanwhile, many settlers had slighter religious commitments than Dane's, as one 
 >         │                 └── 目的状语: for religion
 > ```
 >
-> **参考译文**：与此同时，许多定居者的宗教信仰不如戴恩虔诚，正如一位牧师在与沿海民众打交道时所了解到的那样；那些人嘲笑说，他们来到新大陆并不是为了宗教。
+> **参考译文**：与此同时，许多定居者的宗教投入不如戴恩的坚定，正如一位牧师在与沿海民众打交道时所了解到的那样；那些人嘲笑说，他们来到新大陆并不是为了宗教。
 >
-> **考点提示**：**as** 引导的从句在此不是原因状语，而是补充说明牧师如何了解到前述事实，可译为“正如……所了解到的那样”。注意 **who mocked...** 修饰 **folk**，而 **that they had not come...** 是 **mocked** 的宾语从句；**than Dane's** 中省略了与前文相同的名词 **religious commitments**。
+> **考点提示**：**as** 在此引导非限制性补充说明从句，指代前面的整个事实，并可理解为 **learned** 的宾语，不是原因状语。注意 **who mocked...** 修饰 **folk**，而 **that they had not come...** 是 **mocked** 的宾语从句；**than Dane's** 中省略了与前文相同的名词 **religious commitments**，**in confronting** 中 **confronting** 是动名词。
 
 "Our main end was to catch fish."
 
