@@ -250,9 +250,56 @@ Their thinking often had a traditional **superstitious** quality. A tailor named
 >
 > **考点提示**：主句使用三个并列名词作主语，破折号后的 **all** 起回指强调作用；**when** 引导修饰 moment 的时间定语从句，内部又包含三个并列谓语；**that** 引导 told 的宾语从句，且其中 **he saw** 是修饰 **the first line** 的定语从句。
 
-One wonders what Dane thought of the careful **sermons** explaining the Bible that he heard in Puritan churches.
+One wonders what Dane thought of the careful sermons explaining the Bible that he heard in Puritan churches.
 
-Meanwhile, many settlers had slighter religious commitments than Dane's, as one clergyman learned in confronting folk along the coast who mocked that they had not come to the New World for religion. "Our main end was to catch fish."
+Meanwhile, many settlers had slighter religious commitments than Dane's, as one clergyman learned in confronting folk along the coast who mocked that they had not come to the New World for religion.
+
+> [!abstract]- 长难句分析
+> **原句**：Meanwhile, many settlers had slighter religious commitments than Dane's, as one clergyman learned in confronting folk along the coast who mocked that they had not come to the New World for religion.
+>
+> **主干提取**
+> - 主语 S: many settlers
+> - 谓语 V: had
+> - 宾语 O: slighter religious commitments
+> - 补语 C: 无
+> - 状语 A: Meanwhile；as one clergyman learned in confronting folk...
+> - 比较成分：than Dane's（省略了 religious commitments，补全为 than Dane's religious commitments）
+> - 简化句：Many settlers had slighter religious commitments than Dane's.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词 | 修饰对象 |
+> |------|--------|----------|
+> | 副词（时间/语篇状语） | Meanwhile | 整个主句，表示“与此同时” |
+> | 比较结构 | than | slighter，比较定居者与 Dane 的宗教投入程度 |
+> | 状语从句（补充说明） | as | 整个主句，说明这一判断的来源或依据 |
+> | 介词短语（动名词结构） | in | learned，说明牧师了解到这一点的情境 |
+> | 介词短语 | along | folk，说明民众所在的位置 |
+> | 定语从句 | who | 修饰 folk；who 在从句中作主语 |
+> | 名词性从句（宾语从句） | that | mocked 的宾语，说明民众嘲笑的内容 |
+> | 介词短语 | to | come，说明前往的目的地 |
+> | 介词短语 | for | come，说明来到新大陆的目的 |
+>
+> **结构图解**：
+> ```text
+> 主句: [Meanwhile] + [many settlers] + [had] + [slighter religious commitments] + [than Dane's]
+>   └── 补充说明状语从句: as one clergyman learned in confronting folk ...
+>         ├── 主干: one clergyman learned
+>         ├── 情境状语: in confronting folk along the coast
+>         │     ├── 地点修饰: along the coast → folk
+>         │     └── 定语从句: who mocked ... → folk
+>         │           └── 宾语从句: that they had not come to the New World for religion
+>         │                 ├── 主语: they
+>         │                 ├── 谓语: had not come
+>         │                 ├── 目的地: to the New World
+>         │                 └── 目的状语: for religion
+> ```
+>
+> **参考译文**：与此同时，许多定居者的宗教信仰不如戴恩虔诚，正如一位牧师在与沿海民众打交道时所了解到的那样；那些人嘲笑说，他们来到新大陆并不是为了宗教。
+>
+> **考点提示**：**as** 引导的从句在此不是原因状语，而是补充说明牧师如何了解到前述事实，可译为“正如……所了解到的那样”。注意 **who mocked...** 修饰 **folk**，而 **that they had not come...** 是 **mocked** 的宾语从句；**than Dane's** 中省略了与前文相同的名词 **religious commitments**。
+
+"Our main end was to catch fish."
 
 ## Questions
 
