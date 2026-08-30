@@ -8,8 +8,8 @@ task: "整合 2009 Passage 1 habits 精读笔记"
 created_from: ".codex/workflows/reading-note-generation/state-template.md"
 created_at: "2026-08-24"
 last_updated: "2026-08-30"
-current_phase: P6
-current_status: in_progress
+current_phase: P7
+current_status: ready
 mode: guided
 blocked_reason: ""
 article_source: "2009阅读/passage_1.md"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：整合 2009 Passage 1 habits 精读笔记
 > 运行标识：2009-passage1-habits
 > 创建时间：2026-08-24
-> 当前阶段：阶段 6
+> 当前阶段：阶段 7
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -107,7 +107,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已保留文章原文中的内联长难句分析
 - [ ] 已插入词汇占位符
 
-> [P6] 🔲 进行中 {in_progress}
+> [P6] ✅ 已完成 {complete}
 
 ---
 

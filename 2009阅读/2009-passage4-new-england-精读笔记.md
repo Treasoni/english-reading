@@ -627,7 +627,126 @@ Meanwhile, many settlers had slighter religious commitments than Dane's, as one 
 > [!tip] 本文核心联动
 > **否定地点状语倒装 ↔ 被动语态**；**形式主语 ↔ 名词性从句**；**定语从句 ↔ 介词短语后置修饰**；**比较结构 ↔ 名词省略**。
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **according to** | prep. | 根据；按照 | **According to** the standard history of American philosophy, nowhere else in colonial America was so much importance attached to intellectual pursuits. |
+| **attach** | v. | 重视；附加；贴上 | Nowhere else in colonial America was so much importance **attached** to intellectual pursuits. |
+| **attach importance to** | phr. | 重视…… | Nowhere else in colonial America was so much importance **attached to** intellectual pursuits. |
+| **civility** | n. | 文明；礼貌；教养 | The New England colonies were the scenes of important episodes in the pursuit of widely understood ideals of **civility** and virtuosity. |
+| **come together** | phr. | 汇聚；结合在一起 | Sexual confusion, economic frustrations, and religious hope all **came together** in a decisive moment. |
+| **come out from among** | phr. | 从……中出来；脱离…… | “**Come out from among** them, touch no unclean thing...” |
+| **confronting** | v-ing | 面对；与……对抗 | ...as one clergyman learned in **confronting** folk along the coast... |
+| **earnestness** | n. | 认真；严肃；诚挚 | These men ... gave New England an atmosphere of intellectual **earnestness**. |
+| **fate** | n. | 命运；结局 | The first line he saw would settle his **fate**. |
+| **folk** | n. | 人们；民众 | ...folk along the coast who mocked that they had not come to the New World for religion. |
+| **ideals** | n. | 理想；理想标准 | ...the pursuit of widely understood **ideals** of civility and virtuosity. |
+| **importance** | n. | 重要性；重视 | Nowhere else in colonial America was so much **importance** attached to intellectual pursuits. |
+| **innovations** | n. | 创新；革新 | The Puritans' theological **innovations** were important subjects. |
+| **intellectualized** | v-ed/adj. | 理性化的；知识化的 | It is obvious that their views were less fully **intellectualized**. |
+| **intellectuals** | n. | 知识分子 | The most thoroughly studied **intellectuals** in the history of the New World are the ministers and political leaders... |
+| **intellectual pursuits** | n. phr. | 知识追求；学术活动 | Nowhere else in colonial America was so much importance attached to **intellectual pursuits**. |
+| **in keeping with** | phr. | 与……一致；符合…… | But **in keeping with** our examination of southern intellectual life, we may consider... |
+| **in pursuit of** | phr. | 追求…… | The colonies were scenes of episodes **in the pursuit of** widely understood ideals. |
+| **leave sth. to be analyzed** | phr. | 留下某物供分析 | Few craftsmen or farmers left literary compositions **to be analyzed**. |
+| **let alone** | conj. phr. | 更不用说 | Few craftsmen or farmers, **let alone** dependents and servants, left literary compositions... |
+| **mock** | v. | 嘲笑；嘲弄 | The folk **mocked** that they had not come to the New World for religion. |
+| **nowhere else** | adv. phr. | 其他任何地方都没有 | **Nowhere else** in colonial America was so much importance attached to intellectual pursuits. |
+| **Puritan tradition** | n. phr. | 清教传统 | New England's leaders established the basic themes of a dominant **Puritan tradition**. |
+| **pursuit** | n. | 追求；从事 | The New England colonies were scenes of episodes in the **pursuit** of ideals. |
+| **religious commitments** | n. phr. | 宗教投入；宗教信仰程度 | Many settlers had slighter **religious commitments** than Dane's. |
+| **settle one's fate** | phr. | 决定某人的命运 | The first line he saw would **settle his fate**. |
+| **scenes** | n. | 场所；发生地；舞台 | The New England colonies were the **scenes** of important episodes. |
+| **slighter** | adj. | 较少的；较弱的；较轻的 | Many settlers had **slighter** religious commitments than Dane's. |
+| **superstitious** | adj. | 迷信的 | Their thinking often had a traditional **superstitious** quality. |
+| **theological** | adj. | 神学的 | The Puritans' **theological** innovations were important subjects. |
+| **think of** | phr. | 想到；认为；评价 | One wonders what Dane **thought of** the careful sermons... |
+| **virtuosity** | n. | 精湛技艺；高超技巧 | ...ideals of civility and **virtuosity**. |
+| **widely understood** | adj. phr. | 广为人们理解的；普遍认可的 | ...the pursuit of **widely understood** ideals... |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> intellectuals / theological / civility / virtuosity / earnestness / superstitious / confronting / fate / ideals / pursuit
+
+1. The ministers and political leaders were the most thoroughly studied ________ in the history of the New World.
+
+2. The article begins with the Puritans' ________ innovations.
+
+3. The colonies became important settings for the pursuit of ________ and social refinement.
+
+4. Years of practice enabled the artist to display remarkable ________.
+
+5. His careful research showed great intellectual ________.
+
+6. John Dane's account had a traditional ________ quality.
+
+7. The clergyman learned this while ________ folk along the coast.
+
+8. The first line he saw would settle his ________.
+
+9. The settlers pursued widely understood ________.
+
+10. The passage repeatedly discusses the ________ of intellectual and cultural ideals.
+
+> [!abstract]- 答案
+> 1. **intellectuals**（知识分子）
+> 2. **theological**（神学的）
+> 3. **civility**（文明；教养）
+> 4. **virtuosity**（精湛技艺）
+> 5. **earnestness**（认真；严肃）
+> 6. **superstitious**（迷信的）
+> 7. **confronting**（面对）
+> 8. **fate**（命运）
+> 9. **ideals**（理想）
+> 10. **pursuit**（追求）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. according to the standard history of American philosophy
+
+2. in keeping with our examination of southern intellectual life
+
+3. leave literary compositions to be analyzed
+
+> [!abstract]- 答案
+> 1. **according to the standard history of American philosophy** = 根据美国哲学的通行史
+> 2. **in keeping with our examination of southern intellectual life** = 与我们对南方知识生活的考察一致
+> 3. **leave literary compositions to be analyzed** = 留下文学作品供分析
+
+**三、语境理解**
+
+根据上下文，选择粗体词在原文中的准确含义：
+
+1. “Nowhere else in colonial America was so much importance attached to intellectual pursuits.” 中 **nowhere else** 的含义是：
+   - A. 在某个偏远地方
+   - B. 在其他任何地方都没有
+   - C. 在新大陆之外
+   - D. 在同一个地方反复发生
+
+2. “The New England colonies were the scenes of important episodes in the pursuit of widely understood ideals of civility and virtuosity.” 中 **virtuosity** 的含义是：
+   - A. 宗教虔诚
+   - B. 政治影响力
+   - C. 精湛技艺或高超技巧
+   - D. 家庭财富
+
+3. “Many settlers had slighter religious commitments than Dane's.” 中 **commitments** 的含义是：
+   - A. 宗教投入或信仰程度
+   - B. 文学作品
+   - C. 法律判决
+   - D. 经济收入
+
+> [!abstract]- 答案
+> 1. **B** — **nowhere else** 表示“其他任何地方都没有”，与句首倒装结构共同构成否定范围。
+> 2. **C** — **virtuosity** 指在某项技艺上的高超水平，本文与 **civility** 并列作理想的内容。
+> 3. **A** — **religious commitments** 指一个人对宗教的投入、虔诚程度或信仰承诺。
+
 
 ---
 
