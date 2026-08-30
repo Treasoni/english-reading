@@ -250,7 +250,7 @@ Their thinking often had a traditional **superstitious** quality. A tailor named
 >
 > **考点提示**：主句使用三个并列名词作主语，破折号后的 **all** 起回指强调作用；**when** 引导修饰 moment 的时间定语从句，内部又包含三个并列谓语；**that** 引导 told 的宾语从句，且其中 **he saw** 是修饰 **the first line** 的定语从句。
 
-One wonders what Dane thought of the careful sermons explaining the Bible that he heard in Puritan churches.
+One wonders what Dane thought of the careful **sermons** explaining the Bible that he heard in Puritan churches.
 
 Meanwhile, many settlers had slighter religious commitments than Dane's, as one clergyman learned in confronting folk along the coast who mocked that they had not come to the New World for religion. "Our main end was to catch fish."
 
