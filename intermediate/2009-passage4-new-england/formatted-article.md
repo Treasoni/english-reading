@@ -334,6 +334,6 @@ Meanwhile, many settlers had slighter religious commitments than Dane's, as one 
 40. The text suggests that early settlers in New England ____.
 
 - **[A]** were mostly engaged in political activities
-- **[B]** were motivated by an illusory prospect
+- **[B]** were motivated by an **illusory** prospect
 - **[C]** came from different intellectual backgrounds
 - **[D]** left few formal records for later reference
