@@ -30,26 +30,28 @@ The longest **bull** run in a century of art-market history ended on a dramatic 
 > | 介词短语 | in a century of art-market history | run |
 > | 介词短语 | with a sale of 56 works | ended |
 > | 介词短语 | by Damien Hirst | works |
-> | 同位语 | *Beautiful Inside My Head Forever* | Damien Hirst 的作品 |
+> | 同位语 | *Beautiful Inside My Head Forever* | a sale of 56 works by Damien Hirst（拍卖会名称） |
 > | 介词短语 | at Sotheby's in London | sale |
 > | 时间状语 | on September 15th 2008 | ended |
 >
 > **结构图解**：
+> ```text
 > 主句：The longest bull run ended
 > ├── 介短：in a century of art-market history → 修饰 run
-> ├── 介短：with a sale of 56 works → 说明结束方式
+> ├── 介短：with a sale of 56 works → 伴随的具体事件
 > │   ├── 介短：by Damien Hirst → 修饰 works
-> │   └── 同位语：*Beautiful Inside My Head Forever*
+> │   └── 同位语：*Beautiful Inside My Head Forever* → 拍卖会名称
 > ├── 介短：at Sotheby's in London → 修饰 sale
 > └── 时间状语：on September 15th 2008
+> ```
 >
-> **参考译文**：一个世纪以来艺术品市场历史上最长的牛市行情，在2008年9月15日于伦敦苏富比拍卖行举行的达明安·赫斯特作品《永远美丽地存在于我脑海中》拍卖会上，以一种戏剧性的方式落幕。
+> **参考译文**：一个世纪以来艺术品市场历史上持续时间最长的牛市行情，以一场于2008年9月15日在伦敦苏富比举行、名为《永远美丽地存在于我脑海中》的达明安·赫斯特56件作品拍卖会戏剧性地收场。
 >
 > **考点提示**：长句中多个介词短语连续后置修饰；`with + 名词` 表示伴随或方式。
 
 All but two pieces sold, fetching more than £70m, a record for a sale by a single artist. It was a last victory. As the auctioneer called out bids, in New York one of the oldest banks on Wall Street, Lehman Brothers, filed for bankruptcy.
 
-The world art market had already been losing momentum for a while after rising bewilderingly since 2003. At its peak in 2007 it was worth some $65 billion, reckons Clare McAndrew, founder of Arts Economics, a research firm—double the figure five years earlier.
+The world art market had already been losing **momentum** for a while after rising **bewilderingly** since 2003. At its peak in 2007 it was worth some $65 billion, reckons Clare McAndrew, founder of Arts Economics, a research firm—double the figure five years earlier.
 
 > [!abstract]- 长难句分析
 > **原句**：At its peak in 2007 it was worth some $65 billion, reckons Clare McAndrew, founder of Arts Economics, a research firm—double the figure five years earlier.
@@ -71,12 +73,14 @@ The world art market had already been losing momentum for a while after rising b
 > | 比较结构 | double the figure five years earlier | $65 billion |
 >
 > **结构图解**：
+> ```text
 > 状语：At its peak in 2007
 > 主句：it was worth some $65 billion
 > ├── 插入语：reckons Clare McAndrew
 > │   ├── 同位语：founder of Arts Economics
 > │   └── 同位语：a research firm
 > └── 比较补充：double the figure five years earlier
+> ```
 >
 > **参考译文**：艺术品市场在2007年达到顶峰时价值约650亿美元，据艺术经济学公司——一家研究公司——的创始人克莱尔·麦克安德鲁估计，这一数字是五年前的两倍。
 >
@@ -91,26 +95,29 @@ Since then it may have come down to $50 billion. But the market generates intere
 > - 主语 S: the market
 > - 谓语 V: generates
 > - 宾语 O: interest
-> - 状语 A: far beyond its size
+> - 状语 A1: far beyond its size
+> - 原因状语 A2: because it brings together great wealth, enormous egos, greed, passion and controversy in a way matched by few other industries
 >
 > **修饰成分**：
 >
 > | 类型 | 内容 | 修饰对象 |
 > |---|---|---|
 > | 原因状语从句 | because it brings together... | generates interest |
-> | 介词短语 | far beyond its size | interest |
+> | 介词短语 | far beyond its size | interest 的程度（修饰 generates interest） |
 > | 介词短语 | in a way | brings together |
 > | 非谓语/分词短语 | matched by few other industries | way |
 >
 > **结构图解**：
+> ```text
 > 主句：the market generates interest
-> ├── 状语：far beyond its size
+> ├── 程度状语：far beyond its size
 > └── 原因状语从句：because it brings together...
 >     ├── 宾语：great wealth, enormous egos, greed, passion and controversy
 >     └── 介短：in a way
 >         └── 过去分词短语：matched by few other industries
+> ```
 >
-> **参考译文**：但艺术品市场引发的关注远远超出其自身规模，因为它以其他少数行业难以匹敌的方式，将巨额财富、极度膨胀的自我、贪婪、激情和争议汇聚在一起。
+> **参考译文**：但艺术品市场引发的关注远远超出其自身规模，因为它以一种几乎没有其他行业能够匹敌的方式，将巨额财富、极度膨胀的自我、贪婪、激情和争议汇聚在一起。
 >
 > **考点提示**：`matched by few other industries` 是过去分词短语，完整形式为 `which is matched by few other industries`，修饰 `a way`。
 
@@ -125,7 +132,7 @@ In the weeks and months that followed Mr. Hirst's sale, spending of any sort bec
 > - 状语 A1: by two-thirds
 > - 主语 S2: they
 > - 谓语 V2: were down
-> - 状语 A2: by nearly 90%
+> - 状语 A2: in the most overheated sector; by nearly 90%; in the year to November 2008
 >
 > **修饰成分**：
 >
@@ -137,11 +144,13 @@ In the weeks and months that followed Mr. Hirst's sale, spending of any sort bec
 > | 时间状语 | in the year to November 2008 | were down |
 >
 > **结构图解**：
+> ```text
 > 并列句
 > ├── 分句1：Sales of contemporary art fell by two-thirds
 > └── 分句2：they were down by nearly 90%
 >     ├── 介短：in the most overheated sector
 >     └── 时间状语：in the year to November 2008
+> ```
 >
 > **参考译文**：当代艺术的销售额下降了三分之二；在最为过热的板块，截至2008年11月的一年里，销售额下降了近90%。
 >
@@ -172,12 +181,14 @@ What makes this slump different from the last, he says, is that there are still 
 > | 不定式短语 | to sell | good work |
 >
 > **结构图解**：
+> ```text
 > 主句：Almost everyone said...
 > ├── 定语从句：who was interviewed for this special report
 > └── 宾语从句：the biggest problem is not A but B
 >     ├── 状语：at the moment
 >     ├── 表语 A：a lack of demand
 >     └── 表语 B：a lack of good work to sell
+> ```
 >
 > **参考译文**：几乎所有接受这份特别报道采访的人都说，目前最大的问题不是需求不足，而是缺少适合出售的优秀作品。
 >
