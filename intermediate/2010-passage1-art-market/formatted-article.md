@@ -121,7 +121,44 @@ Since then it may have come down to $50 billion. But the market generates intere
 >
 > **考点提示**：`matched by few other industries` 是过去分词短语，完整形式为 `which is matched by few other industries`，修饰 `a way`。
 
-In the weeks and months that followed Mr. Hirst's sale, spending of any sort became deeply unfashionable. In the art world that meant collectors stayed away from galleries and salerooms. Sales of contemporary art fell by two-thirds, and in the most overheated sector, they were down by nearly 90% in the year to November 2008.
+In the weeks and months that followed Mr. Hirst's sale, spending of any sort became deeply unfashionable.
+
+> [!abstract]- 长难句分析
+> **原句**：In the weeks and months that followed Mr. Hirst's sale, spending of any sort became deeply unfashionable.
+>
+> **主干提取**：
+> - 状语 A: In the weeks and months that followed Mr. Hirst's sale
+> - 主语 S: spending of any sort
+> - 系动词 V: became
+> - 表语 C: deeply unfashionable
+>
+> **主干简化**：Spending became unfashionable.
+>
+> **修饰成分**：
+>
+> | 类型 | 内容 | 修饰对象 |
+> |---|---|---|
+> | 定语从句 | that followed Mr. Hirst's sale | the weeks and months |
+> | 介词短语 | of any sort | spending |
+> | 副词 | deeply | unfashionable |
+> | 时间状语 | In the weeks and months... | became |
+>
+> **结构图解**：
+> ```text
+> 主句：spending of any sort became deeply unfashionable
+> ├── 时间状语：In the weeks and months...
+> │   └── 定语从句：that followed Mr. Hirst's sale
+> ├── 主语：spending
+> │   └── 介短：of any sort
+> ├── 系动词：became
+> └── 表语：deeply unfashionable
+> ```
+>
+> **参考译文**：在赫斯特先生的拍卖之后的数周和数月里，任何形式的消费都变得极不时髦，也就是非常不受欢迎。
+>
+> **考点提示**：`spending` 是动名词，作主语；`that followed Mr. Hirst's sale` 是定语从句；`become + 形容词` 表示“变得……”；`of any sort` 表示“任何种类的”。
+
+In the art world that meant collectors stayed away from galleries and salerooms. Sales of contemporary art fell by two-thirds, and in the most **overheated** sector, they were down by nearly 90% in the year to November 2008.
 
 > [!abstract]- 长难句分析
 > **原句**：Sales of contemporary art fell by two-thirds, and in the most overheated sector, they were down by nearly 90% in the year to November 2008.
