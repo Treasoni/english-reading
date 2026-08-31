@@ -13,7 +13,7 @@ sources:
 
 # Art Market in Decline
 
-The longest bull run in a century of art-market history ended on a dramatic note with a sale of 56 works by Damien Hirst, *Beautiful Inside My Head Forever*, at Sotheby's in London on September 15th 2008. All but two pieces sold, fetching more than £70m, a record for a sale by a single artist. It was a last victory. As the auctioneer called out bids, in New York one of the oldest banks on Wall Street, Lehman Brothers, filed for bankruptcy.
+The longest **bull** run in a century of art-market history ended on a dramatic note with a sale of 56 works by Damien Hirst, *Beautiful Inside My Head Forever*, at Sotheby's in London on September 15th 2008. All but two pieces sold, fetching more than £70m, a record for a sale by a single artist. It was a last victory. As the auctioneer called out bids, in New York one of the oldest banks on Wall Street, Lehman Brothers, filed for bankruptcy.
 
 The world art market had already been losing momentum for a while after rising bewilderingly since 2003. At its peak in 2007 it was worth some $65 billion, reckons Clare McAndrew, founder of Arts Economics, a research firm—double the figure five years earlier. Since then it may have come down to $50 billion. But the market generates interest far beyond its size because it brings together great wealth, enormous egos, greed, passion and controversy in a way matched by few other industries.
 
