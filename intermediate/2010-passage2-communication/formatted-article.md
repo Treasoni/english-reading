@@ -35,7 +35,7 @@ I was addressing a small gathering in a suburban Virginia living room—a women�
 > | 介词短语 | in | 修饰 addressing，说明讲话地点 |
 > | 同位语 | 破折号 — | a women’s group 是 a small gathering 的同位语 |
 > | 定语从句 | that | 修饰 women’s group；that 在从句中作主语 |
-> | 非谓语短语 | to join them | 说明 invite men 的具体内容，构成 invite sb. to do sth. |
+> | 非谓语/宾语补足语 | to join them | 与 `invite men` 构成 `invite sb. to do sth.`，作 men 的宾语补足语 |
 >
 > **结构图解**
 > ```text
@@ -70,9 +70,9 @@ This episode crystallizes the irony that although American men tend to talk more
 > | --- | --- | --- |
 > | 同位语从句 | that | 解释说明 irony 的具体内容 |
 > | 状语从句 | although | 引导让步状语从句，说明“虽然在公共场合更健谈” |
-> | 介词短语 | in public situations | 修饰 talk more，说明谈话场合 |
+> | 介词短语 | in public situations | 作让步从句中的地点状语，说明谈话场合 |
 > | 介词短语 | at home | 修饰 talk less，说明谈话场合 |
-> | 比较结构 | more than women | `than` 后省略 `talk`，表示“比女性说得多” |
+> | 比较结构 | more than women | `than` 后省略 `do/talk`，表示“比女性说得多” |
 >
 > **结构图解**
 > ```text
@@ -81,8 +81,8 @@ This episode crystallizes the irony that although American men tend to talk more
 >         ├── 状从: although American men tend to talk more than women in public situations
 >         │     ├── 主语: American men
 >         │     ├── 谓语: tend to talk
->         │     └── 比较结构: more than women [talk]
->         └── 主句部分: they often talk less at home
+>         │     └── 比较结构: more than women [do/talk]
+>         └── 让步从句的主句: they often talk less at home
 > ```
 >
 > **参考译文**：这一幕清楚地揭示了一个讽刺现象：尽管美国男性在公共场合往往比女性更健谈，但他们在家里却常常说得更少。
@@ -111,7 +111,7 @@ The pattern was observed by political scientist Andrew Hacker in the late 1970s.
 > | 名词性从句 | that | 作 reports 的宾语 |
 > | 定语从句 | 省略关系代词 | `she interviewed` 修饰 women，省略的关系代词作 interviewed 的宾语 |
 > | 插入语/对比成分 | 破折号 —but only a few of the men— | 对比 women 与 men 的数量；后半部分省略了 `gave...as the reason` |
-> | 介词短语 | as the reason for their divorces | 说明把什么看作离婚原因 |
+> | as 短语/宾语补足语 | as the reason for their divorces | 作 `gave` 的补足语，说明把什么看作离婚原因 |
 > | 介词短语 | for their divorces | 修饰 reason |
 >
 > **结构图解**
@@ -124,6 +124,8 @@ The pattern was observed by political scientist Andrew Hacker in the late 1970s.
 >         ├── 插入对比: —but only a few of the men—
 >         │     └── 省略: [gave lack of communication as the reason]
 >         └── 谓语结构: gave lack of communication as the reason for their divorces
+>               ├── 宾语: lack of communication
+>               └── 宾补: as the reason for their divorces
 > ```
 >
 > **参考译文**：社会学家凯瑟琳·科勒·里斯曼在她的新书《离婚谈话》中报告说，她采访的大多数女性——但只有少数男性——都把缺乏沟通作为离婚的原因。
@@ -153,23 +155,26 @@ In my own research, complaints from women about their husbands most often focuse
 > | 名词性从句 | that | 作 found 的宾语 |
 > | 复合宾语结构 | want + 宾语 + to be | `their husbands` 是 want 的宾语，`to be...` 是宾语补足成分 |
 > | 插入成分 | first and foremost | 修饰 be，强调“首先也是最重要的” |
-> | 并列分句 | but | 与前面的宾语从句内容形成转折对比 |
+> | 并列连词 | but | 连接 `I found...` 与 `few husbands share...` 两个独立分句，形成转折对比 |
 > | 介词短语 | of their wives | 修饰 expectation，表示“对妻子的期待” |
 >
 > **结构图解**
 > ```text
 > 主句: I found
 >   ├── 插入状语从句: as Hacker observed years before → 补充依据
->   └── 宾语从句: that most wives want their husbands to be conversational partners
->         ├── 主语: most wives
->         └── 谓语: want
->               ├── 宾语: their husbands
->               └── 宾补: to be conversational partners
->                     └── 插入状语: first and foremost
-> 并列分句: but few husbands share this expectation of their wives
+>   ├── 宾语从句: that most wives want their husbands to be conversational partners
+>   │     ├── 主语: most wives
+>   │     └── 谓语: want
+>   │           ├── 宾语: their husbands
+>   │           └── 宾补: to be conversational partners
+>   │                 └── 插入状语: first and foremost
+>   └── 并列分句: but few husbands share this expectation of their wives
+>         ├── 主语: few husbands
+>         ├── 谓语: share
+>         └── 宾语: this expectation of their wives
 > ```
 >
-> **参考译文**：我发现，正如哈克多年前观察到的那样，大多数妻子首先也是最重要的，是希望丈夫成为自己的谈话伙伴；但很少有丈夫对妻子抱有同样的期待。
+> **参考译文**：我发现，正如哈克多年前观察到的那样，大多数妻子首先希望丈夫成为自己的谈话伙伴；但很少有丈夫对妻子抱有同样的期待。
 >
 > **考点提示**：`I found that...` 中的 `that` 引导宾语从句；`want their husbands to be...` 是高频的“动词 + 宾语 + 不定式”结构。`as Hacker observed years before` 是插入性的状语从句，阅读时可暂时跳过，先抓住 `I found that... but...` 的主干。
 
@@ -195,7 +200,7 @@ In short, the image that best represents the current crisis is the stereotypical
 > | with 复合结构 | with a newspaper held up... | 补充说明 man 所处的状态；`held up` 是过去分词补足语 |
 > | 介词短语 | in front of his face | 修饰 held up，说明报纸的位置 |
 > | 状语从句 | while | 引导与主句场景同时发生的动作 |
-> | 非谓语短语 | wanting to talk | 修饰 a woman，表示她想说话的状态 |
+> | 非谓语短语 | wanting to talk | 修饰 a woman，表示她想说话的状态；`to talk` 作 wanting 的宾语 |
 >
 > **结构图解**
 > ```text
@@ -204,11 +209,12 @@ In short, the image that best represents the current crisis is the stereotypical
 >   ├── 定从: that best represents the current crisis → 修饰 image
 >   └── 介短: of a man sitting at the breakfast table ... → 修饰 scene
 >         ├── 非谓语: sitting at the breakfast table → 修饰 a man
->         └── with 复合结构: with a newspaper held up in front of his face
->               ├── newspaper → with 的宾语
->               └── held up → newspaper 的状态补语
-> 并列状从: while a woman glares at the back of it
->   └── 非谓语: wanting to talk → 修饰 a woman
+>         ├── with 复合结构: with a newspaper held up in front of his face
+>         │     ├── newspaper → with 的宾语
+>         │     └── held up → newspaper 的状态补语
+>         └── while 状从: a woman glares at the back of it
+>               └── 非谓语: wanting to talk → 修饰 a woman
+>                     └── to talk → wanting 的宾语
 > ```
 >
 > **参考译文**：简而言之，最能代表当前危机的形象，就是漫画中那幅典型场景：一个男人坐在早餐桌旁，把报纸举在脸前；而一个想要和他说话的女人正瞪着报纸的背面。
