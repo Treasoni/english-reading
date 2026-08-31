@@ -195,7 +195,7 @@ In the art world that meant collectors stayed away from galleries and salerooms.
 
 Within weeks the world's two biggest auction houses, Sotheby's and Christie's, had to pay out nearly $200m in guarantees to clients who had placed works for sale with them.
 
-The current downturn in the art market is the worst since the Japanese stopped buying Impressionists at the end of 1989. This time experts reckon that prices are about 40% down on their peak on average, though some have been far more fluctuant. But Edward Dolman, Christie's chief executive, says: “I'm pretty confident we're at the bottom.”
+The current downturn in the art market is the worst since the Japanese stopped buying Impressionists at the end of 1989. This time experts reckon that prices are about 40% down on their peak on average, though some have been far more **fluctuant**. But Edward Dolman, Christie's chief executive, says: “I'm pretty confident we're at the bottom.”
 
 What makes this slump different from the last, he says, is that there are still buyers in the market. Almost everyone who was interviewed for this special report said that the biggest problem at the moment is not a lack of demand but a lack of good work to sell.
 
