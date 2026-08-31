@@ -15,15 +15,205 @@ sources:
 
 ## Article
 
-I was addressing a small gathering in a suburban Virginia living room—a women’s group that had invited men to join them. Throughout the evening, one man had been particularly **talkative**, frequently offering ideas and anecdotes, while his wife sat silently beside him on the couch. Toward the end of the evening, I commented that women frequently complain that their husbands don’t talk to them. This man quickly nodded in agreement. He gestured toward his wife and said, “She’s the talker in our family.” The room burst into laughter; the man looked puzzled and hurt. “It’s true,” he explained. “When I come home from work I have nothing to say. If she didn’t keep the conversation going, we’d spend the whole evening in silence.”
+I was addressing a small gathering in a suburban Virginia living room—a women’s group that had invited men to join them.
 
-This episode crystallizes the irony that although American men tend to talk more than women in public situations, they often talk less at home. And this pattern is **wreaking havoc** with marriage.
+> [!abstract]- 长难句分析
+> **原句**：I was addressing a small gathering in a suburban Virginia living room—a women’s group that had invited men to join them.
+>
+> **主干提取**
+> - 主语 S: I
+> - 谓语 V: was addressing
+> - 宾语 O: a small gathering
+> - 状语 A: in a suburban Virginia living room
+> - 同位语：a women’s group
+> - 简化主干：I was addressing a small gathering.
+>
+> **修饰成分**
+>
+> | 类型 | 引导词/标志 | 修饰对象/作用 |
+> | --- | --- | --- |
+> | 介词短语 | in | 修饰 addressing，说明讲话地点 |
+> | 同位语 | 破折号 — | a women’s group 是 a small gathering 的同位语 |
+> | 定语从句 | that | 修饰 women’s group；that 在从句中作主语 |
+> | 非谓语短语 | to join them | 说明 invite men 的具体内容，构成 invite sb. to do sth. |
+>
+> **结构图解**
+> ```text
+> 主句: I was addressing a small gathering
+>   ├── 介短: in a suburban Virginia living room → 地点状语
+>   └── 同位语: —a women’s group
+>         └── 定从: that had invited men to join them → 修饰 women’s group
+>               └── 非谓语: to join them → invite men 的补充说明
+> ```
+>
+> **参考译文**：我当时正在弗吉尼亚州郊区的一间客厅里向一小群人发表讲话——这是一个邀请男性参加的女性小组。
+>
+> **考点提示**：破折号后的名词短语是同位语，用来补充说明前面的 `a small gathering`，不是新的主句。`that had invited men to join them` 是修饰 `women’s group` 的定语从句；同时注意 `invite sb. to do sth.` 结构。
 
-The pattern was observed by political scientist Andrew Hacker in the late 1970s. Sociologist Catherine Kohler Riessman reports in her new book *Divorce Talk* that most of the women she interviewed—but only a few of the men—gave **lack of communication** as the reason for their divorces. Given the current divorce rate of nearly 50 percent, that amounts to millions of cases in the United States every year—a virtual epidemic of **failed conversation**.
+Throughout the evening, one man had been particularly **talkative**, frequently offering ideas and anecdotes, while his wife sat silently beside him on the couch. Toward the end of the evening, I commented that women frequently complain that their husbands don’t talk to them. This man quickly nodded in agreement. He gestured toward his wife and said, “She’s the talker in our family.” The room burst into laughter; the man looked puzzled and hurt. “It’s true,” he explained. “When I come home from work I have nothing to say. If she didn’t keep the conversation going, we’d spend the whole evening in silence.”
+
+This episode crystallizes the irony that although American men tend to talk more than women in public situations, they often talk less at home.
+
+> [!abstract]- 长难句分析
+> **原句**：This episode crystallizes the irony that although American men tend to talk more than women in public situations, they often talk less at home.
+>
+> **主干提取**
+> - 主语 S: This episode
+> - 谓语 V: crystallizes
+> - 宾语 O: the irony
+> - 同位语从句：that although American men tend to talk more than women in public situations, they often talk less at home
+> - 简化主干：This episode crystallizes the irony.
+>
+> **修饰成分**
+>
+> | 类型 | 引导词/标志 | 修饰对象/作用 |
+> | --- | --- | --- |
+> | 同位语从句 | that | 解释说明 irony 的具体内容 |
+> | 状语从句 | although | 引导让步状语从句，说明“虽然在公共场合更健谈” |
+> | 介词短语 | in public situations | 修饰 talk more，说明谈话场合 |
+> | 介词短语 | at home | 修饰 talk less，说明谈话场合 |
+> | 比较结构 | more than women | `than` 后省略 `talk`，表示“比女性说得多” |
+>
+> **结构图解**
+> ```text
+> 主句: This episode crystallizes the irony
+>   └── 同位语从句: that ... → 解释 irony
+>         ├── 状从: although American men tend to talk more than women in public situations
+>         │     ├── 主语: American men
+>         │     ├── 谓语: tend to talk
+>         │     └── 比较结构: more than women [talk]
+>         └── 主句部分: they often talk less at home
+> ```
+>
+> **参考译文**：这一幕清楚地揭示了一个讽刺现象：尽管美国男性在公共场合往往比女性更健谈，但他们在家里却常常说得更少。
+>
+> **考点提示**：`that` 引导的是同位语从句，说明抽象名词 `irony` 的内容，而不是修饰名词的定语从句。`although` 引导让步状语从句；`more than women` 中省略了与前文相同的动词 `talk`，阅读时应补出完整含义。
+
+And this pattern is **wreaking havoc** with marriage.
+
+The pattern was observed by political scientist Andrew Hacker in the late 1970s. Sociologist Catherine Kohler Riessman reports in her new book *Divorce Talk* that most of the women she interviewed—but only a few of the men—gave **lack of communication** as the reason for their divorces.
+
+> [!abstract]- 长难句分析
+> **原句**：Sociologist Catherine Kohler Riessman reports in her new book *Divorce Talk* that most of the women she interviewed—but only a few of the men—gave **lack of communication** as the reason for their divorces.
+>
+> **主干提取**
+> - 主语 S: Sociologist Catherine Kohler Riessman
+> - 谓语 V: reports
+> - 宾语 O: that most of the women she interviewed—but only a few of the men—gave lack of communication as the reason for their divorces
+> - 状语 A: in her new book *Divorce Talk*
+> - 简化主干：Riessman reports that most of the women gave lack of communication as the reason.
+>
+> **修饰成分**
+>
+> | 类型 | 引导词/标志 | 修饰对象/作用 |
+> | --- | --- | --- |
+> | 介词短语 | in | 修饰 reports，说明信息出现的载体 |
+> | 名词性从句 | that | 作 reports 的宾语 |
+> | 定语从句 | 省略关系代词 | `she interviewed` 修饰 women，省略的关系代词作 interviewed 的宾语 |
+> | 插入语/对比成分 | 破折号 —but only a few of the men— | 对比 women 与 men 的数量；后半部分省略了 `gave...as the reason` |
+> | 介词短语 | as the reason for their divorces | 说明把什么看作离婚原因 |
+> | 介词短语 | for their divorces | 修饰 reason |
+>
+> **结构图解**
+> ```text
+> 主句: Sociologist Catherine Kohler Riessman reports
+>   ├── 介短: in her new book Divorce Talk → 说明报告载体
+>   └── 宾语从句: that ...
+>         ├── 主语: most of the women [she interviewed]
+>         │     └── 定从: she interviewed → 修饰 women，关系代词省略
+>         ├── 插入对比: —but only a few of the men—
+>         │     └── 省略: [gave lack of communication as the reason]
+>         └── 谓语结构: gave lack of communication as the reason for their divorces
+> ```
+>
+> **参考译文**：社会学家凯瑟琳·科勒·里斯曼在她的新书《离婚谈话》中报告说，她采访的大多数女性——但只有少数男性——都把缺乏沟通作为离婚的原因。
+>
+> **考点提示**：先识别 `reports that...` 的宾语从句，再处理被插入的破折号内容。`the women she interviewed` 是定语从句的省略结构；`only a few of the men` 后省略了前面已经出现的谓语和补充成分，不能误读为新的完整主句。
+
+Given the current divorce rate of nearly 50 percent, that amounts to millions of cases in the United States every year—a virtual epidemic of **failed conversation**.
 
 In my own research, complaints from women about their husbands most often focused not on **tangible inequities** such as having given up the chance for a career to accompany a husband to his, or doing far more than their share of daily **life-support work** like cleaning, cooking and social arrangements. Instead, they focused on **communication**: “He doesn’t listen to me.” “He doesn’t talk to me.” I found, as Hacker observed years before, that most wives want their husbands to be, first and foremost, **conversational partners**, but few husbands share this expectation of their wives.
 
+> [!abstract]- 长难句分析
+> **原句**：I found, as Hacker observed years before, that most wives want their husbands to be, first and foremost, **conversational partners**, but few husbands share this expectation of their wives.
+>
+> **主干提取**
+> - 主语 S: I
+> - 谓语 V: found
+> - 宾语 O: that most wives want their husbands to be conversational partners
+> - 并列分句：but few husbands share this expectation of their wives
+> - 状语 A: as Hacker observed years before（插入的比较/依据说明）
+> - 简化主干：I found that most wives want their husbands to be conversational partners, but few husbands share this expectation.
+>
+> **修饰成分**
+>
+> | 类型 | 引导词/标志 | 修饰对象/作用 |
+> | --- | --- | --- |
+> | 插入状语从句 | as | 说明这一发现与 Hacker 早先的观察一致 |
+> | 名词性从句 | that | 作 found 的宾语 |
+> | 复合宾语结构 | want + 宾语 + to be | `their husbands` 是 want 的宾语，`to be...` 是宾语补足成分 |
+> | 插入成分 | first and foremost | 修饰 be，强调“首先也是最重要的” |
+> | 并列分句 | but | 与前面的宾语从句内容形成转折对比 |
+> | 介词短语 | of their wives | 修饰 expectation，表示“对妻子的期待” |
+>
+> **结构图解**
+> ```text
+> 主句: I found
+>   ├── 插入状语从句: as Hacker observed years before → 补充依据
+>   └── 宾语从句: that most wives want their husbands to be conversational partners
+>         ├── 主语: most wives
+>         └── 谓语: want
+>               ├── 宾语: their husbands
+>               └── 宾补: to be conversational partners
+>                     └── 插入状语: first and foremost
+> 并列分句: but few husbands share this expectation of their wives
+> ```
+>
+> **参考译文**：我发现，正如哈克多年前观察到的那样，大多数妻子首先也是最重要的，是希望丈夫成为自己的谈话伙伴；但很少有丈夫对妻子抱有同样的期待。
+>
+> **考点提示**：`I found that...` 中的 `that` 引导宾语从句；`want their husbands to be...` 是高频的“动词 + 宾语 + 不定式”结构。`as Hacker observed years before` 是插入性的状语从句，阅读时可暂时跳过，先抓住 `I found that... but...` 的主干。
+
 In short, the image that best represents the current crisis is the stereotypical cartoon scene of a man sitting at the breakfast table with a newspaper held up in front of his face, while a woman glares at the back of it, wanting to talk.
+
+> [!abstract]- 长难句分析
+> **原句**：In short, the image that best represents the current crisis is the stereotypical cartoon scene of a man sitting at the breakfast table with a newspaper held up in front of his face, while a woman glares at the back of it, wanting to talk.
+>
+> **主干提取**
+> - 主语 S: the image
+> - 谓语 V: is
+> - 补语 C: the stereotypical cartoon scene
+> - 状语 A: In short
+> - 简化主干：The image is the cartoon scene.
+>
+> **修饰成分**
+>
+> | 类型 | 引导词/标志 | 修饰对象/作用 |
+> | --- | --- | --- |
+> | 定语从句 | that | 修饰 image，说明是哪一个形象 |
+> | 介词短语 | of a man... | 修饰 scene，具体描述漫画场景 |
+> | 非谓语短语 | sitting at the breakfast table | 修饰 a man，表示伴随状态 |
+> | with 复合结构 | with a newspaper held up... | 补充说明 man 所处的状态；`held up` 是过去分词补足语 |
+> | 介词短语 | in front of his face | 修饰 held up，说明报纸的位置 |
+> | 状语从句 | while | 引导与主句场景同时发生的动作 |
+> | 非谓语短语 | wanting to talk | 修饰 a woman，表示她想说话的状态 |
+>
+> **结构图解**
+> ```text
+> 主句: the image is the stereotypical cartoon scene
+>   ├── 状语: In short → 总结语气
+>   ├── 定从: that best represents the current crisis → 修饰 image
+>   └── 介短: of a man sitting at the breakfast table ... → 修饰 scene
+>         ├── 非谓语: sitting at the breakfast table → 修饰 a man
+>         └── with 复合结构: with a newspaper held up in front of his face
+>               ├── newspaper → with 的宾语
+>               └── held up → newspaper 的状态补语
+> 并列状从: while a woman glares at the back of it
+>   └── 非谓语: wanting to talk → 修饰 a woman
+> ```
+>
+> **参考译文**：简而言之，最能代表当前危机的形象，就是漫画中那幅典型场景：一个男人坐在早餐桌旁，把报纸举在脸前；而一个想要和他说话的女人正瞪着报纸的背面。
+>
+> **考点提示**：主句是“主语 + 系动词 + 表语”结构，真正的谓语是 `is`，不要被中间的定语从句和分词短语干扰。`with + 名词 + 过去分词` 表示附带状态；`wanting to talk` 的逻辑主语是 `a woman`，不是前面的 `it`。
 
 ## Comprehension Questions
 
