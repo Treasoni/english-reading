@@ -275,7 +275,7 @@ The three Ds mentioned in the last paragraph are _.
 
 The most appropriate title for this text could be _.
 
-- [A] Fluctuation of Art Prices
+- [A] **Fluctuation** of Art Prices
 - [B] Up-to-date Art Auctions
 - [C] Art Market in Decline
 - [D] Shifted Interest in Arts
