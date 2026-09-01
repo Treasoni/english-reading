@@ -511,30 +511,32 @@ In short, the image that best represents the current crisis is the stereotypical
 | 词汇 | 词性 | 含义 | 原文例句 |
 |------|------|------|----------|
 | **addressing** | v. | 向（某人/某群体）讲话；处理 | I was **addressing** a small gathering in a suburban Virginia living room. |
-| **Throughout** | prep. | 贯穿；在整个……期间 | **Throughout** the evening, one man had been particularly **talkative**. |
-| **talkative** | adj. | 健谈的；爱说话的 | Throughout the evening, one man had been particularly **talkative**. |
-| **episode** | n. | 事件；片段 | This **episode** **crystallizes** the irony that although American men tend to talk more than women in public situations, they often talk less at home. |
-| **crystallizes** | v. | 使具体化；清楚揭示 | This episode **crystallizes** the irony that although American men tend to talk more than women in public situations, they often talk less at home. |
-| **wreaking havoc** | phr. | 造成严重破坏；带来巨大危害 | And this pattern is **wreaking havoc** with marriage. |
-| **wreaking** | v. | 造成；施加（破坏等） | And this pattern is **wreaking** havoc with marriage. |
-| **havoc** | n. | 大破坏；严重混乱 | And this pattern is wreaking **havoc** with marriage. |
-| **lack** | n. | 缺乏；不足 | Most of the women gave **lack** of communication as the reason for their divorces. |
 | **communication** | n. | 沟通；交流 | Most of the women she interviewed gave lack of **communication** as the reason for their divorces. |
-| **epidemic** | n. | 流行病；（问题的）大范围蔓延 | A virtual **epidemic** of failed conversation. |
-| **failed conversation** | phr. | 失败的沟通；沟通不畅 | A virtual epidemic of **failed conversation**. |
-| **failed** | adj. | 失败的；未能成功的 | A virtual epidemic of **failed** conversation. |
 | **conversation** | n. | 谈话；交谈 | A virtual epidemic of failed **conversation**. |
-| **tangible inequities** | phr. | 实实在在的不平等 | Complaints from women most often focused not on **tangible inequities**. |
-| **tangible** | adj. | 有形的；实际可感知的 | They did not focus on **tangible** inequities such as career sacrifice. |
-| **inequities** | n. | 不平等；不公正 | Complaints from women most often focused not on tangible **inequities**. |
-| **life-support work** | phr. | 日常生活维持工作 | They were doing far more than their share of daily **life-support work**. |
-| **life-support** | adj. | 维持生活所需的；维生的 | Cleaning, cooking and social arrangements were treated as **life-support** work. |
-| **conversational partners** | phr. | 谈话伙伴；交流对象 | Most wives want their husbands to be, first and foremost, **conversational partners**. |
 | **conversational** | adj. | 谈话的；适合交谈的 | Most wives want their husbands to be **conversational** partners. |
+| **conversational partners** | phr. | 谈话伙伴；交流对象 | Most wives want their husbands to be, first and foremost, **conversational partners**. |
+| **crystallizes** | v. | 使具体化；清楚揭示 | This episode **crystallizes** the irony that although American men tend to talk more than women in public situations, they often talk less at home. |
+| **epidemic** | n. | 流行病；（问题的）大范围蔓延 | A virtual **epidemic** of failed conversation. |
+| **episode** | n. | 事件；片段 | This **episode** crystallizes the irony that although American men tend to talk more than women in public situations, they often talk less at home. |
+| **expectation** | n. | 期待；预期 | Few husbands share this **expectation** of their wives. |
+| **failed** | adj. | 失败的；未能成功的 | A virtual epidemic of **failed** conversation. |
+| **failed conversation** | phr. | 失败的沟通；沟通不畅 | A virtual epidemic of **failed conversation**. |
+| **havoc** | n. | 大破坏；严重混乱 | And this pattern is wreaking **havoc** with marriage. |
+| **inequities** | n. | 不平等；不公正 | Complaints from women most often focused not on tangible **inequities**. |
+| **lack** | n. | 缺乏；不足 | Most of the women gave **lack** of communication as the reason for their divorces. |
+| **lack of communication** | phr. | 缺乏沟通 | Most of the women she interviewed gave **lack of communication** as the reason for their divorces. |
+| **life-support** | adj. | 维持生活所需的；维生的 | Cleaning, cooking and social arrangements were treated as **life-support** work. |
+| **life-support work** | phr. | 日常生活维持工作 | They were doing far more than their share of daily **life-support work**. |
 | **partners** | n. | 伙伴；搭档 | Most wives want their husbands to be conversational **partners**. |
 | **stereotypical** | adj. | 典型的；带有刻板印象的 | The image is the **stereotypical** cartoon scene of a man at the breakfast table. |
 | **talk** | v./n. | 交谈；谈话 | American men tend to **talk** more than women in public situations. |
-| **expectation** | n. | 期待；预期 | Few husbands share this **expectation** of their wives. |
+| **talkative** | adj. | 健谈的；爱说话的 | Throughout the evening, one man had been particularly **talkative**. |
+| **tangible** | adj. | 有形的；实际可感知的 | They did not focus on **tangible** inequities such as career sacrifice. |
+| **tangible inequities** | phr. | 实实在在的不平等 | Complaints from women most often focused not on **tangible inequities**. |
+| **Throughout** | prep. | 贯穿；在整个……期间 | **Throughout** the evening, one man had been particularly talkative. |
+| **wreaking** | v. | 造成；施加（破坏等） | And this pattern is **wreaking** havoc with marriage. |
+| **wreaking havoc** | phr. | 造成严重破坏；带来巨大危害 | And this pattern is **wreaking havoc** with marriage. |
+| **work** | n. | 工作；劳动 | They were doing far more than their share of daily life-support **work**. |
 
 ### 生词练习
 
