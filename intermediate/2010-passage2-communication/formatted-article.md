@@ -15,7 +15,7 @@ sources:
 
 ## Article
 
-I was addressing a small gathering in a suburban Virginia living room—a women’s group that had invited men to join them.
+I was **addressing** a small gathering in a suburban Virginia living room—a women’s group that had invited men to join them.
 
 > [!abstract]- 长难句分析
 > **原句**：I was addressing a small gathering in a suburban Virginia living room—a women’s group that had invited men to join them.
