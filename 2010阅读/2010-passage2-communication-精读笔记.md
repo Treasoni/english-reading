@@ -534,9 +534,9 @@ In short, the image that best represents the current crisis is the stereotypical
 | **tangible** | adj. | 有形的；实际可感知的 | They did not focus on **tangible** inequities such as career sacrifice. |
 | **tangible inequities** | phr. | 实实在在的不平等 | Complaints from women most often focused not on **tangible inequities**. |
 | **Throughout** | prep. | 贯穿；在整个……期间 | **Throughout** the evening, one man had been particularly talkative. |
+| **work** | n. | 工作；劳动 | They were doing far more than their share of daily life-support **work**. |
 | **wreaking** | v. | 造成；施加（破坏等） | And this pattern is **wreaking** havoc with marriage. |
 | **wreaking havoc** | phr. | 造成严重破坏；带来巨大危害 | And this pattern is **wreaking havoc** with marriage. |
-| **work** | n. | 工作；劳动 | They were doing far more than their share of daily life-support **work**. |
 
 ### 生词练习
 
