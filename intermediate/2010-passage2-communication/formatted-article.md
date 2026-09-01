@@ -52,7 +52,7 @@ I was **addressing** a small gathering in a suburban Virginia living room—a wo
 
 **Throughout** the evening, one man had been particularly **talkative**, frequently offering ideas and anecdotes, while his wife sat silently beside him on the couch. Toward the end of the evening, I commented that women frequently complain that their husbands don’t talk to them. This man quickly nodded in agreement. He gestured toward his wife and said, “She’s the talker in our family.” The room burst into laughter; the man looked puzzled and hurt. “It’s true,” he explained. “When I come home from work I have nothing to say. If she didn’t keep the conversation going, we’d spend the whole evening in silence.”
 
-This episode crystallizes the irony that although American men tend to talk more than women in public situations, they often talk less at home.
+This **episode** **crystallizes** the irony that although American men tend to talk more than women in public situations, they often talk less at home.
 
 > [!abstract]- 长难句分析
 > **原句**：This episode crystallizes the irony that although American men tend to talk more than women in public situations, they often talk less at home.
