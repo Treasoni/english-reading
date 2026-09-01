@@ -6,7 +6,7 @@ tags:
   - english-reading
   - formatted-article
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-09-01
 sources:
   - "2010 考研英语阅读 Passage 2"
 ---
@@ -132,7 +132,49 @@ The pattern was observed by political scientist Andrew Hacker in the late 1970s.
 >
 > **考点提示**：先识别 `reports that...` 的宾语从句，再处理被插入的破折号内容。`the women she interviewed` 是定语从句的省略结构；`only a few of the men` 后省略了前面已经出现的谓语和补充成分，不能误读为新的完整主句。
 
-Given the current divorce rate of nearly 50 percent, that amounts to millions of cases in the United States every year—a virtual epidemic of **failed conversation**.
+Given the current divorce rate of nearly 50 percent, that amounts to millions of cases in the United States every year—a virtual **epidemic** of **failed conversation**.
+
+> [!abstract]- 长难句分析
+> **原句**：Given the current divorce rate of nearly 50 percent, that amounts to millions of cases in the United States every year—a virtual epidemic of **failed conversation**.
+>
+> **主干提取**
+> - 主语 S: that，指代前文提到的“接近 50% 的离婚率”这一事实
+> - 谓语 V: amounts
+> - 宾语 O: 无，`amount to` 是不及物短语
+> - 补足成分 C: to millions of cases
+> - 状语 A: Given the current divorce rate...；in the United States；every year
+> - 简化主干：That amounts to millions of cases.
+>
+> **修饰成分**
+>
+> | 类型 | 引导词/标志 | 修饰对象/作用 |
+> | --- | --- | --- |
+> | 介词短语 | Given | 表示“鉴于”，作背景状语 |
+> | 介词短语 | of nearly 50 percent | 修饰 divorce rate |
+> | 介词短语 | to | 与 amount 构成固定搭配 `amount to` |
+> | 介词短语 | in the United States | 地点状语 |
+> | 时间状语 | every year | 修饰 amounts，说明发生频率 |
+> | 同位语 | 破折号 — | `a virtual epidemic...` 概括说明前面的 millions of cases |
+> | 介词短语 | of failed conversation | 修饰 epidemic，表示“什么样的流行病” |
+>
+> **结构图解**
+> ```text
+> 状语: Given the current divorce rate of nearly 50 percent
+>   └── 介短: of nearly 50 percent → 修饰 divorce rate
+>
+> 主句: that amounts to millions of cases
+>   ├── 主语: that → 指代前文事实
+>   ├── 谓语: amounts
+>   ├── 补足成分: to millions of cases
+>   └── 状语: in the United States every year
+>
+> 同位语: —a virtual epidemic of failed conversation
+>   └── 介短: of failed conversation → 修饰 epidemic
+> ```
+>
+> **参考译文**：鉴于目前的离婚率接近 50%，这就意味着美国每年会出现数百万起这样的案例——这几乎是一场“沟通失败”的流行病。
+>
+> **考点提示**：`Given...` 在此处相当于“鉴于……”，作背景状语；`amount to` 意为“总计、相当于”，不能按普通的 `amount` 处理。句首的 `that` 是指示代词，作主语，不是宾语从句引导词。破折号后的内容是对前面结果的概括说明；`virtual` 在这里表示“几乎是、近似于”，并非“虚拟的”。
 
 In my own research, complaints from women about their husbands most often focused not on **tangible inequities** such as having given up the chance for a career to accompany a husband to his, or doing far more than their share of daily **life-support work** like cleaning, cooking and social arrangements. Instead, they focused on **communication**: “He doesn’t listen to me.” “He doesn’t talk to me.” I found, as Hacker observed years before, that most wives want their husbands to be, first and foremost, **conversational partners**, but few husbands share this expectation of their wives.
 
