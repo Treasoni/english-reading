@@ -221,7 +221,7 @@ In my own research, complaints from women about their husbands most often focuse
 >
 > **考点提示**：`I found that...` 中的 `that` 引导宾语从句；`want their husbands to be...` 是高频的“动词 + 宾语 + 不定式”结构。`as Hacker observed years before` 是插入性的状语从句，阅读时可暂时跳过，先抓住 `I found that... but...` 的主干。
 
-In short, the image that best represents the current crisis is the stereotypical cartoon scene of a man sitting at the breakfast table with a newspaper held up in front of his face, while a woman glares at the back of it, wanting to talk.
+In short, the image that best represents the current crisis is the **stereotypical** cartoon scene of a man sitting at the breakfast table with a newspaper held up in front of his face, while a woman glares at the back of it, wanting to talk.
 
 > [!abstract]- 长难句分析
 > **原句**：In short, the image that best represents the current crisis is the stereotypical cartoon scene of a man sitting at the breakfast table with a newspaper held up in front of his face, while a woman glares at the back of it, wanting to talk.
