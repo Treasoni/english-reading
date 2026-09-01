@@ -8,8 +8,8 @@ task: "整合 2010 Passage 2 英语阅读精读笔记"
 created_from: ".codex/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-01T09:44:21+08:00"
 last_updated: "2026-09-01"
-current_phase: P7
-current_status: in_progress
+current_phase: done
+current_status: complete
 mode: guided
 blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2010阅读/passage_2.md"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：整合 2010 Passage 2 英语阅读精读笔记
 > 运行标识：reading-note-2010-passage2-communication-20260901
 > 创建时间：2026-09-01T09:44:21+08:00
-> 当前阶段：阶段 7
+> 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -118,7 +118,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `### 生词练习`
 - [ ] 已补充短语内重要独立词条
 
-> [P7] 🔲 进行中 {in_progress}
+> [P7] ✅ 已完成 {complete}
 
 ---
 
@@ -130,7 +130,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已检查 Markdown 标题、YAML 和表格格式
 - [ ] 已向用户报告输出路径
 
-> [P8] ⬜ 未开始 {not_started}
+> [P8] ✅ 已完成 {complete}
 
 ---
 

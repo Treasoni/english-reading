@@ -506,7 +506,106 @@ In short, the image that best represents the current crisis is the stereotypical
 > [!warning] 常见错误
 > 使用分词短语作状语时，要检查其逻辑主语是否与主句主语一致，避免出现悬垂分词。
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **addressing** | v. | 向（某人/某群体）讲话；处理 | I was **addressing** a small gathering in a suburban Virginia living room. |
+| **Throughout** | prep. | 贯穿；在整个……期间 | **Throughout** the evening, one man had been particularly **talkative**. |
+| **talkative** | adj. | 健谈的；爱说话的 | Throughout the evening, one man had been particularly **talkative**. |
+| **episode** | n. | 事件；片段 | This **episode** **crystallizes** the irony that although American men tend to talk more than women in public situations, they often talk less at home. |
+| **crystallizes** | v. | 使具体化；清楚揭示 | This episode **crystallizes** the irony that although American men tend to talk more than women in public situations, they often talk less at home. |
+| **wreaking havoc** | phr. | 造成严重破坏；带来巨大危害 | And this pattern is **wreaking havoc** with marriage. |
+| **wreaking** | v. | 造成；施加（破坏等） | And this pattern is **wreaking** havoc with marriage. |
+| **havoc** | n. | 大破坏；严重混乱 | And this pattern is wreaking **havoc** with marriage. |
+| **lack** | n. | 缺乏；不足 | Most of the women gave **lack** of communication as the reason for their divorces. |
+| **communication** | n. | 沟通；交流 | Most of the women she interviewed gave lack of **communication** as the reason for their divorces. |
+| **epidemic** | n. | 流行病；（问题的）大范围蔓延 | A virtual **epidemic** of failed conversation. |
+| **failed conversation** | phr. | 失败的沟通；沟通不畅 | A virtual epidemic of **failed conversation**. |
+| **failed** | adj. | 失败的；未能成功的 | A virtual epidemic of **failed** conversation. |
+| **conversation** | n. | 谈话；交谈 | A virtual epidemic of failed **conversation**. |
+| **tangible inequities** | phr. | 实实在在的不平等 | Complaints from women most often focused not on **tangible inequities**. |
+| **tangible** | adj. | 有形的；实际可感知的 | They did not focus on **tangible** inequities such as career sacrifice. |
+| **inequities** | n. | 不平等；不公正 | Complaints from women most often focused not on tangible **inequities**. |
+| **life-support work** | phr. | 日常生活维持工作 | They were doing far more than their share of daily **life-support work**. |
+| **life-support** | adj. | 维持生活所需的；维生的 | Cleaning, cooking and social arrangements were treated as **life-support** work. |
+| **conversational partners** | phr. | 谈话伙伴；交流对象 | Most wives want their husbands to be, first and foremost, **conversational partners**. |
+| **conversational** | adj. | 谈话的；适合交谈的 | Most wives want their husbands to be **conversational** partners. |
+| **partners** | n. | 伙伴；搭档 | Most wives want their husbands to be conversational **partners**. |
+| **stereotypical** | adj. | 典型的；带有刻板印象的 | The image is the **stereotypical** cartoon scene of a man at the breakfast table. |
+| **talk** | v./n. | 交谈；谈话 | American men tend to **talk** more than women in public situations. |
+| **expectation** | n. | 期待；预期 | Few husbands share this **expectation** of their wives. |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> addressing / talkative / crystallizes / wreaking havoc / epidemic / tangible / inequities / conversational / stereotypical / expectation
+
+1. The guest speaker was so ________ that the discussion continued for two hours.
+2. The opening example ________ the central problem of the article.
+3. The flood is ________ ________ on local businesses.
+4. The rapid spread of misinformation has become a social ________.
+5. The new policy offers ________ benefits to low-income families.
+6. The report exposes serious ________ in access to education.
+7. She is ________ a group of students about effective reading strategies.
+8. The cartoon presents a ________ image of family communication.
+9. Most readers have an ________ that the conclusion will return to the opening example.
+10. A good discussion requires both speakers to be active ________ partners.
+
+> [!abstract]- 答案
+> 1. **talkative**（健谈的）
+> 2. **crystallizes**（清楚揭示）
+> 3. **wreaking havoc**（造成严重破坏）
+> 4. **epidemic**（大范围蔓延的问题）
+> 5. **tangible**（实际可感知的）
+> 6. **inequities**（不平等）
+> 7. **addressing**（向……讲话）
+> 8. **stereotypical**（典型的；刻板的）
+> 9. **expectation**（期待）
+> 10. **conversational**（谈话的）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. wreaking havoc with marriage
+2. lack of communication
+3. first and foremost, conversational partners
+
+> [!abstract]- 答案
+> 1. **wreaking havoc with marriage** = 给婚姻造成严重破坏
+> 2. **lack of communication** = 缺乏沟通
+> 3. **first and foremost, conversational partners** = 首先也是最重要的谈话伙伴
+
+**三、语境理解**
+
+根据上下文，选择加粗词在文中的准确含义：
+
+1. “This episode **crystallizes** the irony...” 中的 **crystallizes** 最接近：
+   - A. 隐藏
+   - B. 清楚揭示
+   - C. 延迟
+   - D. 否定
+
+2. “not on **tangible inequities**” 中的 **tangible** 最接近：
+   - A. 实际可感知的
+   - B. 暂时性的
+   - C. 假设的
+   - D. 言语上的
+
+3. “a virtual **epidemic** of failed conversation” 中的 **epidemic** 在语境中指：
+   - A. 医疗机构
+   - B. 个人习惯
+   - C. 大范围蔓延的问题
+   - D. 解决方案
+
+> [!abstract]- 答案
+> 1. **B**。`crystallize` 在此处表示使某种现象变得清晰、具体可见。
+> 2. **A**。`tangible` 指看得见或实际存在的不平等，与抽象的沟通抱怨相对。
+> 3. **C**。这里是比喻用法，指沟通失败像流行病一样大范围出现。
 
 ## 心得
 
