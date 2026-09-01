@@ -138,43 +138,44 @@ Given the current divorce rate of nearly 50 percent, that amounts to millions of
 > **原句**：Given the current divorce rate of nearly 50 percent, that amounts to millions of cases in the United States every year—a virtual epidemic of **failed conversation**.
 >
 > **主干提取**
-> - 主语 S: that，指代前文提到的“接近 50% 的离婚率”这一事实
-> - 谓语 V: amounts
-> - 宾语 O: 无，`amount to` 是不及物短语
-> - 补足成分 C: to millions of cases
-> - 状语 A: Given the current divorce rate...；in the United States；every year
+> - 主语 S: that，指代上文“缺乏沟通导致离婚”这一情况（或由此产生的离婚案例）
+> - 谓语 V: `amounts to`，完整谓语为固定搭配 `amount to`
+> - 宾语 O: 无，`amount to` 在此是不及物动词短语
+> - 补语 C: 无；`to millions of cases` 是 `amount to` 的介词补足语，不是宾语
+> - 状语 A: `Given the current divorce rate of nearly 50 percent`；`every year`
 > - 简化主干：That amounts to millions of cases.
 >
 > **修饰成分**
 >
 > | 类型 | 引导词/标志 | 修饰对象/作用 |
 > | --- | --- | --- |
-> | 介词短语 | Given | 表示“鉴于”，作背景状语 |
+> | 介词结构 | `Given` + 名词短语 | `Given` 是介词，表示“鉴于”，作全句背景状语 |
 > | 介词短语 | of nearly 50 percent | 修饰 divorce rate |
-> | 介词短语 | to | 与 amount 构成固定搭配 `amount to` |
-> | 介词短语 | in the United States | 地点状语 |
-> | 时间状语 | every year | 修饰 amounts，说明发生频率 |
-> | 同位语 | 破折号 — | `a virtual epidemic...` 概括说明前面的 millions of cases |
-> | 介词短语 | of failed conversation | 修饰 epidemic，表示“什么样的流行病” |
+> | 介词补足语 | `to millions of cases` | 与 `amounts` 构成 `amounts to`，表示“相当于数百万起案例” |
+> | 介词短语 | in the United States | 后置修饰 cases，说明案例发生的地点 |
+> | 时间状语 | every year | 修饰 `amounts to`，说明频率 |
+> | 同位语/补充说明 | 破折号 — | `a virtual epidemic...` 对前面的 millions of cases 作概括和重新表述 |
+> | 介词短语 | of failed conversation | 修饰 epidemic，说明这场“流行病”的内容 |
 >
 > **结构图解**
 > ```text
-> 状语: Given the current divorce rate of nearly 50 percent
+> 介词结构作状语: Given the current divorce rate of nearly 50 percent
 >   └── 介短: of nearly 50 percent → 修饰 divorce rate
 >
-> 主句: that amounts to millions of cases
->   ├── 主语: that → 指代前文事实
->   ├── 谓语: amounts
->   ├── 补足成分: to millions of cases
->   └── 状语: in the United States every year
+> 主句: that amounts to millions of cases every year
+>   ├── 主语: that → 指代上文“缺乏沟通导致离婚”的情况
+>   ├── 谓语: amounts to
+>   │     └── 介词补足语: millions of cases
+>   │           └── 后置修饰: in the United States → 修饰 cases
+>   └── 状语: every year
 >
-> 同位语: —a virtual epidemic of failed conversation
+> 同位语/补充说明: —a virtual epidemic of failed conversation
 >   └── 介短: of failed conversation → 修饰 epidemic
 > ```
 >
-> **参考译文**：鉴于目前的离婚率接近 50%，这就意味着美国每年会出现数百万起这样的案例——这几乎是一场“沟通失败”的流行病。
+> **参考译文**：鉴于目前的离婚率接近 50%，这相当于美国每年出现数百万起这样的离婚案例——这几乎成了一场“沟通失败”的流行病。
 >
-> **考点提示**：`Given...` 在此处相当于“鉴于……”，作背景状语；`amount to` 意为“总计、相当于”，不能按普通的 `amount` 处理。句首的 `that` 是指示代词，作主语，不是宾语从句引导词。破折号后的内容是对前面结果的概括说明；`virtual` 在这里表示“几乎是、近似于”，并非“虚拟的”。
+> **考点提示**：① `Given` 在此处是介词，后接名词短语 `the current divorce rate...`，整体作全句背景状语，不是引导从句的连词；② `amount to` 是完整的不及物谓语，`to` 是介词，`millions of cases` 是介词补足语，不要把 `to` 误读为不定式符号或把 cases 当作直接宾语；③ 句首 `that` 是指示代词，作主语，回指上文所述情况，不是宾语从句引导词；④ 破折号后的名词短语是对前面结果的同位式补充/重新表述；`virtual` 表示“几乎、近似”，`failed conversation` 表示“沟通失败”。
 
 In my own research, complaints from women about their husbands most often focused not on **tangible inequities** such as having given up the chance for a career to accompany a husband to his, or doing far more than their share of daily **life-support work** like cleaning, cooking and social arrangements. Instead, they focused on **communication**: “He doesn’t listen to me.” “He doesn’t talk to me.” I found, as Hacker observed years before, that most wives want their husbands to be, first and foremost, **conversational partners**, but few husbands share this expectation of their wives.
 
