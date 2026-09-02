@@ -15,7 +15,7 @@ sources:
 
 ## Reading Passage
 
-Many Americans regard the **jury system** as a concrete expression of **crucial** **democratic values**, including the principles that all citizens who meet minimal qualifications of age and literacy are equally competent to serve on juries; that jurors should be selected randomly from a representative cross section of the community; that no citizen should be denied the right to serve on a jury on account of race, religion, sex, or national origin; that defendants are entitled to trial by their peers; and that verdicts should represent the conscience of the community and not just the letter of the law.
+Many Americans regard the **jury system** as a concrete expression of **crucial** **democratic values**, including the principles that all citizens who meet minimal qualifications of age and literacy are equally competent to serve on juries; that jurors should be selected randomly from a **representative** cross section of the community; that no citizen should be denied the right to serve on a jury on account of race, religion, sex, or national origin; that defendants are entitled to trial by their peers; and that verdicts should represent the conscience of the community and not just the letter of the law.
 
 > [!abstract]- 长难句分析
 > **原句**：Many Americans regard the **jury system** as a concrete expression of **crucial** **democratic values**, including the principles that all citizens who meet minimal qualifications of age and literacy are equally competent to serve on juries; that jurors should be selected randomly from a representative cross section of the community; that no citizen should be denied the right to serve on a jury on account of race, religion, sex, or national origin; that defendants are entitled to trial by their peers; and that verdicts should represent the conscience of the community and not just the letter of the law.
@@ -33,16 +33,16 @@ Many Americans regard the **jury system** as a concrete expression of **crucial*
 > | 类型 | 内容 | 修饰对象 |
 > |---|---|---|
 > | 介词短语 | of crucial democratic values | a concrete expression |
-> | 分词短语 | including the principles... | democratic values |
-> | 名词性从句 | that all citizens... | the principles（原则一） |
+> | 分词短语 | including the principles... | 补充说明 democratic values |
+> | 同位语从句 | that all citizens... | the principles（原则一） |
 > | 定语从句 | who meet minimal qualifications of age and literacy | all citizens |
 > | 介词短语 | from a representative cross section of the community | selected |
-> | 名词性从句 | that jurors should be selected randomly... | the principles（原则二） |
+> | 同位语从句 | that jurors should be selected randomly... | the principles（原则二） |
 > | 介词短语 | on account of race, religion, sex, or national origin | denied |
-> | 名词性从句 | that no citizen should be denied... | the principles（原则三） |
+> | 同位语从句 | that no citizen should be denied... | the principles（原则三） |
 > | 介词短语 | by their peers | trial |
-> | 名词性从句 | that defendants are entitled to trial by their peers | the principles（原则四） |
-> | 名词性从句 | that verdicts should represent... | the principles（原则五） |
+> | 同位语从句 | that defendants are entitled to trial by their peers | the principles（原则四） |
+> | 同位语从句 | that verdicts should represent... | the principles（原则五） |
 > | 对比结构 | not just the letter of the law | represent |
 >
 > **结构图解**：
@@ -123,7 +123,7 @@ Even then several states automatically exempted women from jury duty unless they
 > - 主语 S: several states
 > - 谓语 V: exempted
 > - 宾语 O: women
-> - 状语 A2: from jury duty
+> - 介词补语 C: from jury duty
 > - 条件状语 A3: unless they personally asked to have their names included on the jury list
 >
 > **主干简化**：Several states exempted women from jury duty unless they asked.
@@ -148,7 +148,7 @@ Even then several states automatically exempted women from jury duty unless they
 > ├── 主语：several states
 > ├── 谓语：exempted
 > ├── 宾语：women
-> └── 介短：from jury duty
+> └── 介词补语：from jury duty
 > 条件状语从句：unless they personally asked...
 > └── ask + 不定式：to have their names included on the jury list
 >     └── have + 宾语 + 过去分词：their names included
@@ -202,7 +202,7 @@ This law abolished special educational requirements for federal jurors and requi
 >         └── 来源范围：from a cross section of the entire community
 > ```
 >
-> **参考译文**：该法律取消了对联邦陪审员的特殊教育要求，并规定陪审员必须从整个社区各阶层中随机选出。
+> **参考译文**：该法律取消了对联邦陪审员的特殊教育要求，并规定联邦陪审员必须从整个社区中具有代表性的各个阶层随机选出。
 >
 > **考点提示**：`abolish` 与 `require` 由 `and` 连接，构成并列谓语；`require + 宾语 + to do` 表示“要求某人做某事”，此处用被动式 `to be selected`。
 
