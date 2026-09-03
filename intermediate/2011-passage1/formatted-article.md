@@ -147,7 +147,7 @@ If the sky, and the share price, is falling, **outside directors** should be abl
 > | 类型 | 引导词/形式 | 修饰对象/作用 |
 > | --- | --- | --- |
 > | 条件状语从句（状从） | If the sky, and the share price, is falling | 修饰主句，表示“如果大势和股价正在下跌” |
-> | 插入语 | and the share price | 插入条件从句，对 `the sky` 作补充说明；两侧逗号使其不改变主干结构 |
+> | 插入语 | and the share price | 与 `the sky` 构成插入性的语义并列，补充另一个下跌对象；两侧逗号使其不改变主谓一致 |
 > | 情态动词结构 | should be able to give | 表示外部董事“应当能够”提供建议 |
 > | 过去分词短语 | based on ... | 后置修饰 advice，说明建议的依据 |
 > | 完成式动名词 | having weathered their own crises | 作介词 on 的宾语，表示“已经渡过自身危机” |
