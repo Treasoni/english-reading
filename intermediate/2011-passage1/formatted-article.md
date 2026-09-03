@@ -166,7 +166,49 @@ If the sky, and the share price, is falling, **outside directors** should be abl
 >
 > **考点提示**：`the sky is falling` 是“局势正在恶化”的比喻表达；`and the share price` 被逗号隔开，属于插入性补充成分，不能简单按普通并列主语理解。`based on` 后接完成式动名词 `having weathered`，表示建议建立在董事过去渡过危机的经验之上。
 
-The researchers from Ohio University used a database that covered more than 10,000 firms and more than 64,000 different directors between 1989 and 2004. Then they simply checked which directors stayed from one proxy statement to the next. The most likely reason for departing a board was age, so the researchers concentrated on those “surprise” disappearances by directors under the age of 70. They found that after a **surprise departure**, the probability that the company will **subsequently** have to **restate** earnings increases by nearly 20%.
+The researchers from Ohio University used a database that covered more than 10,000 firms and more than 64,000 different directors between 1989 and 2004. Then they simply checked which directors stayed from one proxy statement to the next. The most likely reason for departing a board was age, so the researchers concentrated on those “surprise” disappearances by directors under the age of 70.
+
+They found that after a **surprise departure**, the probability that the company will **subsequently** have to **restate** earnings increases by nearly 20%.
+
+> [!abstract]- 长难句分析
+> **原句**：They found that after a surprise departure, the probability that the company will subsequently have to restate earnings increases by nearly 20%.
+>
+> **主干提取**：
+> - 主句主语 S: They
+> - 主句谓语 V: found
+> - 主句宾语 O: that 从句
+> - 宾语从句主语 S: the probability
+> - 宾语从句谓语 V: increases
+> - 宾语从句状语 A: after a surprise departure; subsequently; by nearly 20%
+> - 简化句：They found that the probability increases.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象/作用 |
+> | --- | --- | --- |
+> | 名词性从句（名从） | that after a surprise departure, ... increases | 作 found 的宾语，说明研究发现的内容 |
+> | 介词短语（介短） | after a surprise departure | 修饰 increases，表示时间背景 |
+> | 同位/内容从句 | that the company will subsequently have to restate earnings | 说明 probability 的具体内容，即“公司不得不重述收益的可能性” |
+> | 副词 | subsequently | 修饰 have to restate，表示“随后” |
+> | 情态结构 | will have to restate | 表示“将不得不重述” |
+> | 介词短语（介短） | by nearly 20% | 修饰 increases，表示增幅 |
+>
+> **结构图解**：
+> ```text
+> 主句: [They + found + that 从句]
+>   └── 宾语从句: [the probability + increases]
+>         ├── 介短: (after a surprise departure) → 时间状语
+>         ├── 内容从句: (that the company will subsequently have to restate earnings)
+>         │     ├── 主语: the company
+>         │     ├── 谓语: will have to restate
+>         │     └── 宾语: earnings
+>         ├── 副词: (subsequently) → 修饰 have to restate
+>         └── 介短: (by nearly 20%) → 增幅状语
+> ```
+>
+> **参考译文**：他们发现，在一次意外离任之后，公司随后不得不重述收益的可能性增加了近20%。
+>
+> **考点提示**：先识别 `found that` 的宾语从句，再在从句内部寻找真正的主语 `the probability` 和谓语 `increases`。第二个 `that` 从句解释 `probability` 的具体内容，并非与第一个 `that` 处于同一层级；`have to` 表示“不得不”，`restate earnings` 指重新陈述或重报此前公布的收益。
 
 The likelihood of being named in a **federal class-action lawsuit** also increases, and the stock is likely to perform worse.
 
