@@ -13,7 +13,7 @@ sources:
 
 # 2011 Passage 1
 
-Ruth Simmons joined Goldman Sachs's board as an **outside director** in January 2000; a year later she became president of Brown University. For the rest of the decade she apparently managed both roles without attracting much criticism. But by the end of 2009 Ms. Simmons was under fire for having sat on Goldman's compensation committee; how could she have let those enormous bonus payouts pass unremarked? By February the next year Ms. Simmons had left the board. The position was just taking up too much time, she said.
+Ruth Simmons joined Goldman Sachs's board as an **outside director** in January 2000; a year later she became president of Brown University. For the rest of the decade she **apparently** managed both roles without attracting much criticism. But by the end of 2009 Ms. Simmons was under fire for having sat on Goldman's compensation committee; how could she have let those enormous bonus payouts pass unremarked? By February the next year Ms. Simmons had left the board. The position was just taking up too much time, she said.
 
 Outside directors are supposed to serve as helpful, yet less biased, advisers on a firm's board. Having made their wealth and their reputations elsewhere, they presumably have enough independence to disagree with the chief executive's proposals. If the sky, and the share price, is falling, **outside directors** should be able to give advice based on having weathered their own crises.
 
