@@ -95,7 +95,7 @@ By February the next year Ms. Simmons had left the board. The position was just 
 
 Outside directors are supposed to serve as helpful, yet less biased, advisers on a firm's board.
 
-Having made their wealth and their reputations elsewhere, they presumably have enough independence to disagree with the chief executive's proposals.
+Having made their wealth and their reputations elsewhere, they **presumably** have enough independence to disagree with the chief executive's proposals.
 
 > [!abstract]- 长难句分析
 > **原句**：Having made their wealth and their reputations elsewhere, they presumably have enough independence to disagree with the chief executive's proposals.
