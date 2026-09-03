@@ -367,7 +367,7 @@ Firms who want to keep their **outside directors** through tough times may have 
    - [D] will decline incentives from the firm
 
 25. The author's attitude toward the role of outside directors is ____.
-   - [A] permissive
+   - [A] **permissive**
    - [B] positive
    - [C] scornful
    - [D] critical
