@@ -8,8 +8,8 @@ task: "执行 compile-note：整合 2010 Passage 4 jury system 精读笔记"
 created_from: ".codex/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-03T11:43:41+08:00"
 last_updated: "2026-09-03"
-current_phase: P8
-current_status: in_progress
+current_phase: done
+current_status: complete
 mode: guided
 blocked_reason: ""
 article_source: "2010阅读/passage_4.md"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：执行 compile-note：整合 2010 Passage 4 jury system 精读笔记
 > 运行标识：reading-note-2010-passage4-jury-system
 > 创建时间：2026-09-03T11:43:41+08:00
-> 当前阶段：阶段 8
+> 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -130,7 +130,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已检查 Markdown 标题、YAML 和表格格式
 - [ ] 已向用户报告输出路径
 
-> [P8] 🔲 进行中 {in_progress}
+> [P8] ✅ 已完成 {complete}
 
 ---
 
