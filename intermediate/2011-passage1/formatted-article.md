@@ -131,6 +131,41 @@ Having made their wealth and their reputations elsewhere, they **presumably** ha
 
 If the sky, and the share price, is falling, **outside directors** should be able to give advice based on having weathered their own crises.
 
+> [!abstract]- 长难句分析
+> **原句**：If the sky, and the share price, is falling, outside directors should be able to give advice based on having weathered their own crises.
+>
+> **主干提取**：
+> - 主语 S: outside directors
+> - 谓语 V: should be able to give
+> - 宾语 O: advice
+> - 状语 A: If the sky, and the share price, is falling
+> - 后置修饰：based on having weathered their own crises（修饰 advice）
+> - 简化句：Outside directors should be able to give advice.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象/作用 |
+> | --- | --- | --- |
+> | 条件状语从句（状从） | If the sky, and the share price, is falling | 修饰主句，表示“如果大势和股价正在下跌” |
+> | 插入语 | and the share price | 插入条件从句，对 `the sky` 作补充说明；两侧逗号使其不改变主干结构 |
+> | 情态动词结构 | should be able to give | 表示外部董事“应当能够”提供建议 |
+> | 过去分词短语 | based on ... | 后置修饰 advice，说明建议的依据 |
+> | 完成式动名词 | having weathered their own crises | 作介词 on 的宾语，表示“已经渡过自身危机” |
+>
+> **结构图解**：
+> ```text
+> 复合句
+> ├── 条件状从: If [the sky, and the share price, is falling]
+> │     └── 插入语: (and the share price) → 补充说明下跌对象
+> └── 主句: [outside directors + should be able to give + advice]
+>       └── 过去分词短语: (based on having weathered their own crises)
+>             └── 完成式动名词: (having weathered their own crises) → on 的宾语
+> ```
+>
+> **参考译文**：如果大势（以及股价）正在下跌，外部董事应当能够凭借自己渡过危机的经验提出建议。
+>
+> **考点提示**：`the sky is falling` 是“局势正在恶化”的比喻表达；`and the share price` 被逗号隔开，属于插入性补充成分，不能简单按普通并列主语理解。`based on` 后接完成式动名词 `having weathered`，表示建议建立在董事过去渡过危机的经验之上。
+
 The researchers from Ohio University used a database that covered more than 10,000 firms and more than 64,000 different directors between 1989 and 2004. Then they simply checked which directors stayed from one proxy statement to the next. The most likely reason for departing a board was age, so the researchers concentrated on those “surprise” disappearances by directors under the age of 70. They found that after a **surprise departure**, the probability that the company will subsequently have to restate earnings increases by nearly 20%. The likelihood of being named in a **federal class-action lawsuit** also increases, and the stock is likely to perform worse. The effect tended to be larger for larger firms.
 
 Although a correlation between them leaving and subsequent bad performance at the firm is suggestive, it does not mean that such directors are always jumping off a sinking ship.
