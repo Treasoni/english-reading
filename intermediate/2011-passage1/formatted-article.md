@@ -257,7 +257,7 @@ The likelihood of being named in a **federal class-action lawsuit** also increas
 
 The effect tended to be larger for larger firms.
 
-Although a correlation between them leaving and subsequent bad performance at the firm is suggestive, it does not mean that such directors are always jumping off a sinking ship.
+Although a correlation between them leaving and subsequent bad performance at the firm is **suggestive**, it does not mean that such directors are always jumping off a sinking ship.
 
 > [!abstract]- 长难句分析
 > **原句**：Although a correlation between them leaving and subsequent bad performance at the firm is suggestive, it does not mean that such directors are always jumping off a sinking ship.
