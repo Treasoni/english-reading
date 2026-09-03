@@ -582,7 +582,105 @@ In 1968, the Congress of the United States passed the **Jury Selection and Servi
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|---|---|---|---|
+| **abolish** | v. | 废除；取消 | This law **abolished** special educational requirements for federal jurors. |
+| **antidiscrimination** | adj. | 反歧视的 | The practice provided a convenient way around this and other **antidiscrimination laws**. |
+| **blue-ribbon** | adj. | 精英的；蓝带的 | The practice of selecting so-called **elite or blue-ribbon juries** provided a convenient way around the laws. |
+| **competent** | adj. | 有能力的；胜任的 | All citizens ... are equally **competent** to serve on juries. |
+| **conscience** | n. | 良知；良心 | Verdicts should represent the **conscience** of the community. |
+| **crucial** | adj. | 关键的；至关重要的 | Many Americans regard the jury system as a concrete expression of **crucial** democratic values. |
+| **defendant** | n. | 被告 | **Defendants** are entitled to trial by their peers. |
+| **democratic** | adj. | 民主的 | Jury selection procedures conflicted with these **democratic** ideals. |
+| **eligible** | adj. | 有资格的；符合条件的 | A majority of states made women **eligible** for jury duty. |
+| **elite** | adj./n. | 精英的；精英 | The practice of selecting so-called **elite** or blue-ribbon juries ... |
+| **exempt** | v. | 免除；豁免 | Several states automatically **exempted** women from jury duty. |
+| **Jury Selection and Service Act** | n. | 《陪审员选拔与服务法》 | In 1968, Congress passed the **Jury Selection and Service Act**. |
+| **representative** | adj./n. | 有代表性的；代表 | Jurors should be selected randomly from a **representative** cross section of the community. |
+| **unconstitutional** | adj. | 违宪的 | The Taylor decision declared sex discrimination ... to be **unconstitutional**. |
+| **verdict** | n. | 判决；裁决 | **Verdicts** should represent the conscience of the community and not just the letter of the law. |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> abolish / antidiscrimination / competent / conscience / crucial / eligible / exempt / representative / unconstitutional / verdict
+
+1. The reform aimed to ________ outdated educational restrictions on jury service.
+
+2. A person may be legally ________ for jury duty even if they have never served before.
+
+3. The committee must select a ________ sample of the local population.
+
+4. The court ruled that the discriminatory policy was ________.
+
+5. The final ________ should reflect the evidence rather than personal prejudice.
+
+6. Equal access to public institutions is a ________ democratic value.
+
+7. The new regulations were designed to strengthen ________ protections.
+
+8. The law allowed states to ________ certain citizens from service under limited circumstances.
+
+9. The judge questioned whether the proposed jurors were ________ to evaluate the evidence.
+
+10. A fair decision should respect the ________ of the community.
+
+> [!abstract]- 答案
+> 1. **abolish**（废除）
+> 2. **eligible**（有资格的）
+> 3. **representative**（有代表性的）
+> 4. **unconstitutional**（违宪的）
+> 5. **verdict**（判决；裁决）
+> 6. **crucial**（关键的）
+> 7. **antidiscrimination**（反歧视的）
+> 8. **exempt**（免除）
+> 9. **competent**（有能力的）
+> 10. **conscience**（良知）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. a concrete expression of crucial democratic values
+2. a representative cross section of the community
+3. be entitled to trial by one's peers
+
+> [!abstract]- 答案
+> 1. **a concrete expression of crucial democratic values** = 关键民主价值的具体体现
+> 2. **a representative cross section of the community** = 社区中具有代表性的各类群体
+> 3. **be entitled to trial by one's peers** = 有权接受同辈审判
+
+**三、语境理解**
+
+根据上下文，选择加粗词在原文中的准确含义：
+
+1. In “all citizens ... are equally **competent** to serve on juries”, **competent** means:
+   - A. legally punished
+   - B. capable and qualified
+   - C. randomly selected
+   - D. morally superior
+
+2. In “a **representative** cross section of the community”, **representative** means:
+   - A. made up of different parts in a way that reflects the whole
+   - B. appointed by a political party
+   - C. speaking for one defendant
+   - D. limited to highly educated people
+
+3. In “declared sex discrimination ... to be **unconstitutional**”, **unconstitutional** means:
+   - A. contrary to the Constitution
+   - B. difficult to understand
+   - C. unpopular with jurors
+   - D. unrelated to federal law
+
+> [!abstract]- 答案
+> 1. **B** — `competent` 表示“有能力胜任”，对应公民担任陪审员的能力。
+> 2. **A** — `representative` 强调样本能够反映社区整体，而非只代表某一小群体。
+> 3. **A** — `unconstitutional` 表示“违宪的”，即与宪法规定相冲突。
 
 ## 心得
 
