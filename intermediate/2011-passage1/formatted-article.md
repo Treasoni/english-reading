@@ -166,7 +166,54 @@ If the sky, and the share price, is falling, **outside directors** should be abl
 >
 > **考点提示**：`the sky is falling` 是“局势正在恶化”的比喻表达；`and the share price` 被逗号隔开，属于插入性补充成分，不能简单按普通并列主语理解。`based on` 后接完成式动名词 `having weathered`，表示建议建立在董事过去渡过危机的经验之上。
 
-The researchers from Ohio University used a database that covered more than 10,000 firms and more than 64,000 different directors between 1989 and 2004. Then they simply checked which directors stayed from one proxy statement to the next. The most likely reason for departing a board was age, so the researchers concentrated on those “surprise” disappearances by directors under the age of 70. They found that after a **surprise departure**, the probability that the company will subsequently have to restate earnings increases by nearly 20%. The likelihood of being named in a **federal class-action lawsuit** also increases, and the stock is likely to perform worse. The effect tended to be larger for larger firms.
+The researchers from Ohio University used a database that covered more than 10,000 firms and more than 64,000 different directors between 1989 and 2004. Then they simply checked which directors stayed from one proxy statement to the next. The most likely reason for departing a board was age, so the researchers concentrated on those “surprise” disappearances by directors under the age of 70. They found that after a **surprise departure**, the probability that the company will **subsequently** have to **restate** earnings increases by nearly 20%.
+
+The likelihood of being named in a **federal class-action lawsuit** also increases, and the stock is likely to perform worse.
+
+> [!abstract]- 长难句分析
+> **原句**：The likelihood of being named in a federal class-action lawsuit also increases, and the stock is likely to perform worse.
+>
+> **主干提取**：
+> - 并列分句一：
+>   - 主语 S: The likelihood
+>   - 谓语 V: increases
+>   - 状语 A: also
+> - 并列分句二：
+>   - 主语 S: the stock
+>   - 谓语 V: is
+>   - 补语 C: likely
+>   - 不定式补充：to perform worse
+> - 简化句：The likelihood increases, and the stock is likely to perform worse.
+>
+> **修饰成分**：
+>
+> | 类型 | 引导词/形式 | 修饰对象/作用 |
+> | --- | --- | --- |
+> | 介词短语（介短） | of being named in a federal class-action lawsuit | 修饰 likelihood，说明“可能性”的具体内容 |
+> | 被动式动名词 | being named | 作介词 of 的宾语，表示“被列名/被列入” |
+> | 介词短语（介短） | in a federal class-action lawsuit | 修饰 named，说明被列入的范围 |
+> | 副词 | also | 修饰 increases，表示“也” |
+> | 并列连词 | and | 连接两个独立分句 |
+> | 不定式短语 | to perform worse | 补充说明 likely 的具体内容，表示“表现得更差” |
+>
+> **结构图解**：
+> ```text
+> 并列句
+> ├── 分句一: [The likelihood + increases]
+> │     ├── 介短: (of being named in a federal class-action lawsuit) → 修饰 likelihood
+> │     │     ├── 被动式动名词: (being named) → of 的宾语
+> │     │     └── 介短: (in a federal class-action lawsuit) → 修饰 named
+> │     └── 副词: (also) → 修饰 increases
+> └── and
+>       └── 分句二: [the stock + is + likely]
+>             └── 不定式: (to perform worse) → 补充说明 likely
+> ```
+>
+> **参考译文**：被列入联邦集体诉讼的可能性也会增加，而股票表现很可能会更差。
+>
+> **考点提示**：`likelihood of + V-ing` 中的 `being named` 是被动式动名词，不能把它误判为主句谓语；`be likely to do` 表示“很可能做……”。注意整个句子由 `and` 连接两个完整分句。
+
+The effect tended to be larger for larger firms.
 
 Although a correlation between them leaving and subsequent bad performance at the firm is suggestive, it does not mean that such directors are always jumping off a sinking ship.
 
