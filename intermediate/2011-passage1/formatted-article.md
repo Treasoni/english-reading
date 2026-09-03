@@ -56,17 +56,24 @@ But by the end of 2009 Ms. Simmons was under fire for having sat on Goldman's co
 >
 > **主干提取**：
 > - 主语 S: Ms. Simmons
-> - 谓语 V: was under fire
+> - 谓语 V: was
+> - 补语 C: under fire
+> - 连接词: But（转折）
 > - 状语 A: by the end of 2009; for having sat on Goldman's compensation committee
-> - 分号后主干：she could have let those enormous bonus payouts pass unremarked
-> - 简化句：Ms. Simmons was under fire; how could she have let the payouts pass?
+> - 分号后反问分句：
+>   - 主语 S: she
+>   - 谓语 V: could have let
+>   - 宾语 O: those enormous bonus payouts
+>   - 补语 C: pass unremarked（let 的宾语补足语）
+> - 简化句：Ms. Simmons was under fire; how could she have let the payouts pass unremarked?
 >
 > **修饰成分**：
 >
 > | 类型 | 引导词/形式 | 修饰对象/作用 |
 > | --- | --- | --- |
 > | 介词短语（介短） | by the end of 2009 | 修饰 was under fire，表示时间界限 |
-> | 非谓语短语 | for having sat on Goldman's compensation committee | 介词 for 的宾语，说明受到抨击的原因；`having sat` 为完成式动名词 |
+> | 介词短语（介短） | for having sat on Goldman's compensation committee | 补充说明 under fire 的原因 |
+> | 完成式动名词 | having sat on Goldman's compensation committee | 作介词 for 的宾语，表示先于受到抨击发生 |
 > | 情态动词完成式 | could have let | 表示对过去行为的反问和责备 |
 > | 使役结构 | let + those enormous bonus payouts + pass | `let` 后接宾语和不带 to 的动词原形；`pass unremarked` 表示“未被评论/未受质疑地过去” |
 >
@@ -80,7 +87,7 @@ But by the end of 2009 Ms. Simmons was under fire for having sat on Goldman's co
 >       └── 使役结构: let + 宾语 + 动词原形
 > ```
 >
-> **参考译文**：但到2009年底，Simmons女士因曾任高盛薪酬委员会成员而受到抨击；那些数额巨大的奖金发放，她怎么能对此一言不发地放过呢？
+> **参考译文**：但到2009年底，Simmons女士因曾在高盛薪酬委员会任职而受到抨击；那些数额巨大的奖金发放，她怎么能任其不受质疑地通过呢？
 >
 > **考点提示**：`under fire for` 是“因……受到抨击”；`for having done` 表示先于主句发生的原因。`could have done` 在反问句中不是单纯表示可能性，而是带有“当时怎么能……”的责备语气。
 
@@ -97,7 +104,7 @@ Having made their wealth and their reputations elsewhere, they presumably have e
 > - 主语 S: they
 > - 谓语 V: have
 > - 宾语 O: enough independence
-> - 状语 A: presumably
+> - 状语 A: Having made their wealth and their reputations elsewhere; presumably
 > - 不定式补充：to disagree with the chief executive's proposals
 > - 简化句：They have enough independence.
 >
@@ -146,7 +153,7 @@ Although a correlation between them leaving and subsequent bad performance at th
 > | 介词短语（介短） | between them leaving and subsequent bad performance at the firm | 修饰 correlation，说明相关性的两端 |
 > | 动名词复合结构 | them leaving | 作介词 between 的宾语之一；`them` 是 leaving 的逻辑主语 |
 > | 名词性从句（名从） | that such directors are always jumping off a sinking ship | 作 mean 的宾语，说明“意味着”的具体内容 |
-> | 非谓语短语 | jumping off a sinking ship | 作 are 的表语部分；“跳离下沉的船”是比喻说法 |
+> | 现在进行时谓语结构 | are always jumping off a sinking ship | `are + V-ing` 构成宾语从句的谓语，表示“总是在……”；“跳离下沉的船”是比喻说法 |
 >
 > **结构图解**：
 > ```text
@@ -155,12 +162,12 @@ Although a correlation between them leaving and subsequent bad performance at th
 >   │     └── 介短: (between them leaving and subsequent bad performance ...)
 >   │           └── 动名词复合结构: (them leaving)
 >   └── 宾语从句: (that such directors are always jumping off a sinking ship)
->         └── 现在分词: (jumping off ...) → be 后的表语部分
+>         └── 现在进行时: (are always jumping off ...) → 宾语从句的谓语
 > ```
 >
 > **参考译文**：尽管董事离任与公司随后业绩不佳之间的相关性颇具暗示性，但这并不意味着这些董事总是在“跳离一艘正在下沉的船”。
 >
-> **考点提示**：`Although` 引导让步状语从句，主句的 `it` 是形式主语，真正需要识别的是 `that` 引导的宾语从句。`them leaving` 属于“宾格代词 + 动名词”的复合结构，不能把 `leaving` 误判为谓语。
+> **考点提示**：`Although` 引导让步状语从句；主句的 `it` 指代前文的相关性或研究结果，并非形式主语，`that` 从句才是 `mean` 的宾语。`them leaving` 属于“宾格代词 + 动名词”的复合结构，不能把 `leaving` 误判为主句谓语；`are jumping` 则是完整的现在进行时谓语结构。
 
 Often they “==trade up==,” leaving riskier, smaller firms for larger and more stable firms.
 
@@ -173,7 +180,7 @@ But the researchers believe that **outside directors** have an easier time of av
 > - 主语 S: the researchers
 > - 谓语 V: believe
 > - 宾语 O: that outside directors have an easier time of avoiding a blow to their reputations ...
-> - 状语 A: But
+> - 连接词: But（转折）
 > - 简化句：The researchers believe that outside directors have an easier time.
 >
 > **修饰成分**：
@@ -184,7 +191,7 @@ But the researchers believe that **outside directors** have an easier time of av
 > | 介词短语（介短） | of avoiding a blow to their reputations | 补充说明 an easier time 的具体内容 |
 > | 条件状语从句（状从） | if they leave a firm ... | 修饰 have an easier time，表示条件 |
 > | 时间状语从句（状从） | before bad news breaks | 修饰 leave，表示离开的时间先后 |
-> | 让步状语从句（状从） | even if a review of history shows ... | 修饰整个主句，表示让步条件 |
+> | 让步状语从句（状从） | even if a review of history shows ... | 对宾语从句中的条件关系作让步补充 |
 > | 宾语从句（省略 that） | they were on the board ... | 作 shows 的宾语；引导词 that 被省略 |
 > | 时间状语 | at the time any wrongdoing occurred | 修饰 were，说明任职与不当行为发生的时间关系 |
 >
@@ -195,7 +202,7 @@ But the researchers believe that **outside directors** have an easier time of av
 >         ├── 介短: (of avoiding a blow to their reputations)
 >         ├── 条件状从: (if they leave a firm ...)
 >         │     └── 时间状从: (before bad news breaks)
->         └── 让步状从: (even if a review of history shows ...)
+>         └── 让步状从: (even if a review of history shows ...) → 对 if 条件作让步补充
 >               └── 省略 that 的宾语从句: (they were on the board ...)
 >                     └── 时间状语: (at the time any wrongdoing occurred)
 > ```
