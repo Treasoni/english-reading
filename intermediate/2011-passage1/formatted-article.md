@@ -179,7 +179,11 @@ They found that after a **surprise departure**, the probability that the company
 > - 主句宾语 O: that 从句
 > - 宾语从句主语 S: the probability
 > - 宾语从句谓语 V: increases
-> - 宾语从句状语 A: after a surprise departure; subsequently; by nearly 20%
+> - 宾语从句状语 A: after a surprise departure; by nearly 20%
+> - 内层内容从句主语 S: the company
+> - 内层内容从句谓语 V: will have to restate
+> - 内层内容从句宾语 O: earnings
+> - 内层内容从句状语 A: subsequently
 > - 简化句：They found that the probability increases.
 >
 > **修饰成分**：
@@ -188,27 +192,28 @@ They found that after a **surprise departure**, the probability that the company
 > | --- | --- | --- |
 > | 名词性从句（名从） | that after a surprise departure, ... increases | 作 found 的宾语，说明研究发现的内容 |
 > | 介词短语（介短） | after a surprise departure | 修饰 increases，表示时间背景 |
-> | 同位/内容从句 | that the company will subsequently have to restate earnings | 说明 probability 的具体内容，即“公司不得不重述收益的可能性” |
-> | 副词 | subsequently | 修饰 have to restate，表示“随后” |
-> | 情态结构 | will have to restate | 表示“将不得不重述” |
+> | 同位语从句（内容从句） | that the company will subsequently have to restate earnings | 说明 probability 的具体内容，即“公司不得不重述收益的可能性” |
+> | 副词 | subsequently | 修饰内层从句中的 have to restate，表示“随后” |
+> | 情态/半情态结构 | will have to restate | 内层从句谓语，表示“将不得不重述” |
 > | 介词短语（介短） | by nearly 20% | 修饰 increases，表示增幅 |
 >
 > **结构图解**：
 > ```text
 > 主句: [They + found + that 从句]
->   └── 宾语从句: [the probability + increases]
+>   └── 宾语从句: [after a surprise departure + the probability + increases + by nearly 20%]
 >         ├── 介短: (after a surprise departure) → 时间状语
->         ├── 内容从句: (that the company will subsequently have to restate earnings)
->         │     ├── 主语: the company
->         │     ├── 谓语: will have to restate
->         │     └── 宾语: earnings
->         ├── 副词: (subsequently) → 修饰 have to restate
->         └── 介短: (by nearly 20%) → 增幅状语
+>         ├── 主语: the probability
+>         │     └── 同位语从句/内容从句: (that the company will subsequently have to restate earnings)
+>         │           ├── 主语: the company
+>         │           ├── 状语: subsequently → 修饰 have to restate
+>         │           ├── 谓语: will have to restate
+>         │           └── 宾语: earnings
+>         └── 介短: (by nearly 20%) → increases 的增幅状语
 > ```
 >
 > **参考译文**：他们发现，在一次意外离任之后，公司随后不得不重述收益的可能性增加了近20%。
 >
-> **考点提示**：先识别 `found that` 的宾语从句，再在从句内部寻找真正的主语 `the probability` 和谓语 `increases`。第二个 `that` 从句解释 `probability` 的具体内容，并非与第一个 `that` 处于同一层级；`have to` 表示“不得不”，`restate earnings` 指重新陈述或重报此前公布的收益。
+> **考点提示**：先识别 `found that` 的宾语从句，再在从句内部寻找主语 `the probability` 和谓语 `increases`。第二个 `that` 从句是置于 `probability` 后的同位语从句（内容从句），嵌套在第一个 `that` 从句内部；`subsequently` 只修饰内层的 `have to restate`。`will have to restate` 表示“将不得不重述”，`by nearly 20%` 表示 `increases` 的增幅。
 
 The likelihood of being named in a **federal class-action lawsuit** also increases, and the stock is likely to perform worse.
 
