@@ -13,7 +13,7 @@ sources:
 
 # Whatever happened to the death of newspaper?
 
-A year ago the end seemed near. The **recession** threatened to remove the **advertising** and **readers** that had not already fled to the internet. Newspapers like the San Francisco Chronicle were chronicling their own doom. America's Federal Trade Commission launched a round of talks about how to save newspapers. Should they become charitable corporations? Should the state subsidize them? It will hold another meeting soon. But the discussions now seem out of date.
+A year ago the end seemed near. The **recession** threatened to remove the **advertising** and **readers** that had not already fled to the internet. Newspapers like the San Francisco Chronicle were chronicling their own doom. America's Federal Trade Commission launched a round of talks about how to save newspapers. Should they become **charitable** corporations? Should the state subsidize them? It will hold another meeting soon. But the discussions now seem out of date.
 
 In much of the world there is little sign of crisis. German and Brazilian papers have shrugged off the **recession**. Even American newspapers, which inhabit the most troubled corner of the global industry, have ==not only survived but often returned to profit==. Not the 20% profit margins that were routine a few years ago, but **profit** all the same.
 
