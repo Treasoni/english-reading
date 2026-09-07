@@ -47,7 +47,7 @@ A year ago the end seemed near. The **recession** threatened to remove the **adv
 >
 > **考点提示**：`threaten to do` 表示“威胁要做某事”，其中不定式是 threaten 的补足成分；定语从句由 that 引导，that 同时承担从句主语，不能误判为宾语。
 
- Newspapers like the San Francisco Chronicle were chronicling their own doom. America's Federal Trade Commission launched a round of talks about how to save newspapers. Should they become **charitable** corporations? Should the state subsidize them? It will hold another meeting soon. But the discussions now seem out of date.
+Newspapers like the San Francisco Chronicle were chronicling their own doom. America's Federal Trade Commission launched a round of talks about how to save newspapers. Should they become **charitable** corporations? Should the state subsidize them? It will hold another meeting soon. But the discussions now seem out of date.
 
 In much of the world there is little sign of crisis. German and Brazilian papers have shrugged off the **recession**. Even American newspapers, which inhabit the most troubled corner of the global industry, have ==not only survived but often returned to profit==.
 
@@ -85,7 +85,7 @@ In much of the world there is little sign of crisis. German and Brazilian papers
 >
 > **考点提示**：which 引导的非限制性定语从句由逗号隔开，去掉后主句结构仍完整；not only...but...连接两个并列谓语，第二个分句省略了助动词 have。
 
- Not the 20% profit margins that were routine a few years ago, but **profit** all the same.
+Not the 20% profit margins that were routine a few years ago, but **profit** all the same.
 
 It has not been much fun. Many papers stayed afloat by ==pushing journalists overboard==. The American Society of News Editors reckons that 13,500 newsroom jobs have gone since 2007. Readers are paying more for slimmer products. Some papers even had the nerve to refuse delivery to distant suburbs. Yet these desperate measures have proved the right ones and, sadly for many journalists, they can be pushed further.
 
@@ -128,7 +128,7 @@ It has not been much fun. Many papers stayed afloat by ==pushing journalists ove
 >
 > **考点提示**：have proved 后接名词性补语 the right ones，构成“证明是……”；ones 是代词替代；can be pushed 是情态动词与被动语态叠加，不能译成“记者可以把它们推得更远”。
 
- Newspapers are becoming more balanced businesses, with a healthier mix of **revenues** from readers and advertisers.
+Newspapers are becoming more balanced businesses, with a healthier mix of **revenues** from readers and advertisers.
 
 > [!abstract]- 长难句分析
 > **原句**：Newspapers are becoming more balanced businesses, with a healthier mix of **revenues** from readers and advertisers.
@@ -164,7 +164,7 @@ It has not been much fun. Many papers stayed afloat by ==pushing journalists ove
 >
 > **考点提示**：become 是系动词，后接名词短语 more balanced businesses 作主语补语；句末 with 短语不是主干成分，而是补充说明“更加均衡”的具体表现。
 
- American papers have long been highly unusual in their reliance on ads. Fully 87% of their revenues came from advertising in 2008, according to the Organization for Economic Cooperation & Development (OECD). In Japan the proportion is 35%. Not surprisingly, Japanese newspapers are much more stable.
+American papers have long been highly unusual in their reliance on ads. Fully 87% of their revenues came from advertising in 2008, according to the Organization for Economic Cooperation & Development (OECD). In Japan the proportion is 35%. Not surprisingly, Japanese newspapers are much more stable.
 
 The whirlwind that swept through newsrooms harmed everybody, but much of the damage has been concentrated in areas where newspapers are least **distinctive**.
 
@@ -204,7 +204,7 @@ The whirlwind that swept through newsrooms harmed everybody, but much of the dam
 >
 > **考点提示**：句子由 but 连接两个并列分句；that 和 where 分别引导定语从句，后者不能误判为地点状语从句。第二分句的 has been concentrated 是现在完成时被动语态，强调损失已经形成并持续存在的结果。
 
- Car and film reviewers have gone. So have science and general business reporters. Foreign bureaus have been savagely cut off. Newspapers are less complete as a result. But ==completeness is no longer a virtue== in the newspaper business.
+Car and film reviewers have gone. So have science and general business reporters. Foreign bureaus have been savagely cut off. Newspapers are less complete as a result. But ==completeness is no longer a virtue== in the newspaper business.
 
 ## Questions
 
