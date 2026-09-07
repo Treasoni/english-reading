@@ -188,7 +188,9 @@ But they were popular because of their airy glass walls, the views they afforded
 > - 谓语 V: were
 > - 宾语 O: 无
 > - 补语 C: popular（系动词 were 后的表语）
-> - 状语 A: because of their airy glass walls, the views they afforded and the elegance...（because of 引导原因状语）
+> - 状语 A: because of their airy glass walls, the views they afforded and the elegance of the buildings' details and proportions（because of 引导原因状语）
+>
+> **简化句**：They were popular.
 >
 > **修饰成分**：
 >
@@ -196,25 +198,26 @@ But they were popular because of their airy glass walls, the views they afforded
 > | --- | --- | --- |
 > | 转折连词 | But | 与前句形成转折，说明公寓虽小但很受欢迎 |
 > | 介词短语 | because of... | 修饰 were popular，说明受欢迎的原因 |
-> | 并列名词短语 | their airy glass walls, the views... and the elegance... | 共同作 because of 的宾语 |
+> | 并列名词短语 | their airy glass walls, the views they afforded and the elegance of the buildings' details and proportions | 共同作 because of 的宾语 |
 > | 定语从句 | they afforded | 修饰 the views，关系代词作 afforded 的宾语并被省略 |
 > | 介词短语 | of the buildings' details and proportions | 修饰 the elegance |
-> | 同位语 | the architectural equivalent of the abstract art... | 对 the elegance 作补充说明 |
-> | 后置修饰 | so popular at the time | 修饰 the abstract art，表示“当时非常流行的” |
+> | 同位语 | the architectural equivalent of the abstract art so popular at the time | 对 the elegance 作补充说明，说明这种优雅是抽象艺术在建筑上的对应形式 |
+> | 后置定语（形容词短语） | so popular at the time | 修饰 the abstract art，表示“当时非常流行的” |
+> | 时间状语 | at the time | 修饰 popular，表示“在当时” |
 >
 > **结构图解**：
 > ```text
 > 主句: They + were + popular
->   └── 原因状语: (because of ...)
+>   └── 原因状语: (because of their airy glass walls, the views they afforded and the elegance of the buildings' details and proportions)
 >         ├── 并列成分1: their airy glass walls
 >         ├── 并列成分2: the views
 >         │     └── 定语从句: (they afforded) → 修饰 the views，关系代词省略
 >         └── 并列成分3: the elegance of the buildings' details and proportions
->               └── 同位语: (the architectural equivalent of the abstract art ...)
->                     └── 后置修饰: (so popular at the time) → 修饰 the abstract art
+>               └── 同位语: (the architectural equivalent of the abstract art so popular at the time)
+>                     └── 后置定语: (so popular at the time) → 修饰 the abstract art
 > ```
 >
-> **参考译文**：但是，由于它们通透的玻璃墙、开阔的视野，以及建筑细节和比例所呈现的优雅——这种优雅正是当时广受欢迎的抽象艺术在建筑上的对应物——它们很受欢迎。
+> **参考译文**：但是，由于它们通透的玻璃墙、所提供的视野，以及建筑细节和比例的优雅——这种优雅是当时非常流行的抽象艺术在建筑上的对应形式——它们很受欢迎。
 >
 > **考点提示**：`because of + 名词/名词短语` 表示原因；`the views they afforded` 中关系代词作动词 `afforded` 的宾语而被省略；逗号后的 `the architectural equivalent...` 是同位语，补充说明前面的 `the elegance`。
 
