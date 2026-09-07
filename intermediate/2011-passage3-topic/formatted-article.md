@@ -223,7 +223,7 @@ But they were popular because of their airy glass walls, the views they afforded
 
 The trend toward “less” was not entirely foreign. In the 1930s Frank Lloyd Wright started building more modest and efficient houses—usually around 1,200 square feet—than the spreading two-story ones he had designed in the 1890s and the early 20th century.
 
-The “Case Study Houses” commissioned from talented modern architects by California Arts & Architecture magazine between 1945 and 1962 were yet another homegrown influence on the ==“less is more” trend==.
+The “Case Study Houses” **commissioned** from talented modern architects by California Arts & Architecture magazine between 1945 and 1962 were yet another homegrown influence on the ==“less is more” trend==.
 
 Aesthetic effect came from the landscape, new materials and forthright detailing.
 
