@@ -8,8 +8,8 @@ task: "整合 2011 Passage 1 外部董事主题英语精读笔记"
 created_from: ".codex/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-07"
 last_updated: "2026-09-07"
-current_phase: P6
-current_status: ready
+current_phase: done
+current_status: complete
 mode: guided
 blocked_reason: ""
 article_source: "intermediate/2011-passage1/formatted-article.md"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：整合 2011 Passage 1 外部董事主题英语精读笔记
 > 运行标识：reading-note-2011-passage1-outside-directors
 > 创建时间：2026-09-07
-> 当前阶段：阶段 6
+> 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -107,7 +107,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已保留文章原文中的内联长难句分析
 - [ ] 已插入词汇占位符
 
-> [P6] ⬜ 未开始 {not_started}
+> [P6] ✅ 已完成 {complete}
 
 ---
 
@@ -118,7 +118,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `### 生词练习`
 - [ ] 已补充短语内重要独立词条
 
-> [P7] ⬜ 未开始 {not_started}
+> [P7] ✅ 已完成 {complete}
 
 ---
 
@@ -130,7 +130,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已检查 Markdown 标题、YAML 和表格格式
 - [ ] 已向用户报告输出路径
 
-> [P8] ⬜ 未开始 {not_started}
+> [P8] ✅ 已完成 {complete}
 
 ---
 
