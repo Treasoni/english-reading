@@ -54,7 +54,7 @@ We tend to think of the decades **immediately** following World War II as a time
 
 But when it came to their houses, it was a time of common sense and a belief that ==less could truly be more==.
 
-During the Depression and the war, Americans had learned to live with less, and that restraint, in combination with the postwar confidence in the future, made **small, efficient housing** positively stylish.
+During the Depression and the war, Americans had learned to live with less, and that restraint, in combination with the postwar confidence in the future, made **small, efficient housing** positively **stylish**.
 
 > [!abstract]- 长难句分析
 > **原句**：During the Depression and the war, Americans had learned to live with less, and that restraint, in combination with the postwar confidence in the future, made **small, efficient housing** positively stylish.
