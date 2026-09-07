@@ -47,10 +47,10 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 1：文章排版
 
-- [ ] 已调用 `format-article`
-- [ ] 已生成或更新 `formatted-article.md`
-- [ ] 已确认原文内容未删改
-- [ ] 已确认标题格式适合 Obsidian
+- [x] 已调用 `format-article`
+- [x] 已生成或更新 `formatted-article.md`
+- [x] 已确认原文内容未删改
+- [x] 已确认标题格式适合 Obsidian
 
 > [P1] ✅ 已完成 {complete}
 
@@ -58,9 +58,9 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 2：中英翻译
 
-- [ ] 已调用 `translate`
-- [ ] 已生成或更新 `translation.md`
-- [ ] 已保持原文段落结构
+- [x] 已调用 `translate`
+- [x] 已生成或更新 `translation.md`
+- [x] 已保持原文段落结构
 
 > [P2] ✅ 已完成 {complete}
 
@@ -68,10 +68,10 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 3：语法整理
 
-- [ ] 已调用 `organize-grammar`
-- [ ] 已生成或更新 `grammar-notes.md`
-- [ ] 已核验语法笔记信息密度未丢失
-- [ ] 已加入必要的跨节联动复习
+- [x] 已调用 `organize-grammar`
+- [x] 已生成或更新 `grammar-notes.md`
+- [x] 已核验语法笔记信息密度未丢失
+- [x] 已加入必要的跨节联动复习
 
 > [P3] ✅ 已完成 {complete}
 
@@ -89,12 +89,12 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 5：长难句分析与内联插入
 
-- [ ] 已调用 `analyze-sentence`
-- [ ] 已把分析块插入文章原文对应句子之后
-- [ ] 已确认多句同段时采用逐句交替结构
-- [ ] 已确认每个 callout 第一行包含完整原句
-- [ ] 已确认 callout 内表格前有空行
-- [ ] 已检查后续段落没有异常开头
+- [x] 已调用 `analyze-sentence`
+- [x] 已把分析块插入文章原文对应句子之后
+- [x] 已确认多句同段时采用逐句交替结构
+- [x] 已确认每个 callout 第一行包含完整原句
+- [x] 已确认 callout 内表格前有空行
+- [x] 已检查后续段落没有异常开头
 
 > [P5] ✅ 已完成 {complete}
 
@@ -102,10 +102,10 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 6：综合笔记整合
 
-- [ ] 已调用 `compile-note`
-- [ ] 已使用用户确认的最终输出路径
-- [ ] 已保留文章原文中的内联长难句分析
-- [ ] 已插入词汇占位符
+- [x] 已调用 `compile-note`
+- [x] 已使用用户确认的最终输出路径
+- [x] 已保留文章原文中的内联长难句分析
+- [x] 已插入词汇占位符
 
 > [P6] ✅ 已完成 {complete}
 
@@ -113,10 +113,10 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 7：生词表与练习
 
-- [ ] 已调用 `extract-vocabulary`
-- [ ] 已生成或更新 `## 生词表`
-- [ ] 已生成或更新 `### 生词练习`
-- [ ] 已补充短语内重要独立词条
+- [x] 已调用 `extract-vocabulary`
+- [x] 已生成或更新 `## 生词表`
+- [x] 已生成或更新 `### 生词练习`
+- [x] 已补充短语内重要独立词条
 
 > [P7] ✅ 已完成 {complete}
 
@@ -124,11 +124,11 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 8：最终验证与收尾
 
-- [ ] 已确认所有中间文件存在
-- [ ] 已确认最终精读笔记存在
-- [ ] 已确认最终笔记不含词汇占位符
-- [ ] 已检查 Markdown 标题、YAML 和表格格式
-- [ ] 已向用户报告输出路径
+- [x] 已确认所有中间文件存在
+- [x] 已确认最终精读笔记存在
+- [x] 已确认最终笔记不含词汇占位符
+- [x] 已检查 Markdown 标题、YAML 和表格格式
+- [x] 已向用户报告输出路径
 
 > [P8] ✅ 已完成 {complete}
 
@@ -147,4 +147,4 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 - **中间目录**：`intermediate/2011-passage3-topic/`
 - **最终笔记**：`2011阅读/2011-passage3-postwar-housing-精读笔记.md`
-- **完成状态**：
+- **完成状态**：已完成（P4 候选确认阶段跳过，原因见异常记录）
