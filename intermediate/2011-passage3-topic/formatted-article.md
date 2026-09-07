@@ -93,7 +93,7 @@ During the Depression and the war, Americans had learned to live with less, and 
 
 Economic condition was only a stimulus for the trend toward efficient living.
 
-The phrase “less is more” was actually first popularized by a German, the architect Ludwig Mies van der Rohe, who like other people associated with the Bauhaus, a school of design, emigrated to the United States before World War II and took up posts at American architecture schools.
+The phrase “less is more” was actually first popularized by a German, the architect Ludwig Mies van der Rohe, who like other people associated with the Bauhaus, a school of design, emigrated to the United States before World War II and **took up posts** at American architecture schools.
 
 > [!abstract]- 长难句分析
 > **原句**：The phrase “less is more” was actually first popularized by a German, the architect Ludwig Mies van der Rohe, who like other people associated with the Bauhaus, a school of design, emigrated to the United States before World War II and took up posts at American architecture schools.
