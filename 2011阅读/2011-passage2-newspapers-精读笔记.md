@@ -553,7 +553,113 @@ The whirlwind that swept through newsrooms harmed everybody, but much of the dam
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **afloat** | adj./adv. | 维持生存；不沉没 | Many papers stayed **afloat** by pushing journalists overboard. |
+| **advertising** | n. | 广告；广告业 | The recession threatened to remove the **advertising** and readers that had not already fled to the internet. |
+| **balanced** | adj. | 均衡的；平衡的 | Newspapers are becoming more **balanced** businesses. |
+| **charitable** | adj. | 慈善的 | Should they become **charitable** corporations? |
+| **counterparts** | n. | 对应的人或物；对手方 | Compared with their American **counterparts**, Japanese newspapers are much more stable because they ____. |
+| **desperate** | adj. | 绝望的；孤注一掷的 | Yet these **desperate** measures have proved the right ones. |
+| **distinctive** | adj. | 独特的；有特色的 | Newspapers are least **distinctive** in some of the areas where damage has been concentrated. |
+| **fled** | v. | flee 的过去式；逃离 | The advertising and readers had not already **fled** to the internet. |
+| **profit** | n./v. | 利润；获利 | American newspapers have often returned to **profit**. |
+| **proportion** | n. | 比例；部分 | In Japan the **proportion** is 35%. |
+| **recession** | n. | 经济衰退；不景气 | German and Brazilian papers have shrugged off the **recession**. |
+| **reliance** | n. | 依赖；依靠 | American papers have long been highly unusual in their **reliance** on ads. |
+| **revenues** | n. | 收入；收益 | Newspapers are becoming more balanced businesses, with a healthier mix of **revenues** from readers and advertisers. |
+| **slimmer** | adj. | 更精简的；更薄的 | Readers are paying more for **slimmer** products. |
+| **subsidize** | v. | 给……补贴；资助 | Should the state **subsidize** them? |
+| **suburbs** | n. | 郊区；城郊 | Some papers even had the nerve to refuse delivery to distant **suburbs**. |
+| **virtue** | n. | 优点；美德 | Completeness is no longer a **virtue** in the newspaper business. |
+| **whirlwind** | n. | 旋风；突如其来的风暴 | The **whirlwind** that swept through newsrooms harmed everybody. |
+| **bureaus** | n. | 分社；办事处 | Foreign **bureaus** have been savagely cut off. |
+| **reviewers** | n. | 评论员；评审员 | Car and film **reviewers** have gone. |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> afloat / recession / reliance / revenues / proportion / subsidize / distinctive / virtue / counterparts / desperate
+
+1. Many small newspapers struggled to stay ________ during the economic downturn.
+
+2. The government may ________ local cultural institutions.
+
+3. The economic ________ reduced advertising income.
+
+4. The paper’s ________ on advertising made its business vulnerable.
+
+5. Newspapers need a healthier mix of ________ from readers and advertisers.
+
+6. The Japanese figure is a much smaller ________ of total revenue.
+
+7. American newspapers are compared with their Japanese ________.
+
+8. The company adopted ________ measures to avoid bankruptcy.
+
+9. Newspapers should focus on content that is genuinely ________.
+
+10. In this new business model, completeness is no longer regarded as a ________.
+
+> [!abstract]- 答案
+> 1. **afloat**（维持生存）
+> 2. **subsidize**（补贴）
+> 3. **recession**（经济衰退）
+> 4. **reliance**（依赖）
+> 5. **revenues**（收入）
+> 6. **proportion**（比例）
+> 7. **counterparts**（对应者；相当物）
+> 8. **desperate**（孤注一掷的）
+> 9. **distinctive**（有特色的）
+> 10. **virtue**（优点）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. stay afloat
+
+2. shrug off the recession
+
+3. have the nerve to refuse delivery to distant suburbs
+
+> [!abstract]- 答案
+> 1. **stay afloat** = 维持生存；渡过难关
+> 2. **shrug off the recession** = 对经济衰退置之不理；轻松挺过经济衰退
+> 3. **have the nerve to refuse delivery to distant suburbs** = 竟敢拒绝向偏远郊区投递
+
+**三、语境理解**
+
+根据上下文，选择画线词在文中的准确含义：
+
+1. German and Brazilian papers have **shrugged off** the recession. 其中 shrug off 的含义是：
+   - A. 仔细研究
+   - B. 轻松摆脱；不受影响
+   - C. 加重影响
+   - D. 公开报道
+
+2. Completeness is no longer a **virtue** in the newspaper business. 其中 virtue 的含义是：
+   - A. 优点
+   - B. 罪过
+   - C. 规则
+   - D. 收入
+
+3. Compared with their American **counterparts**, Japanese newspapers are much more stable. 其中 counterparts 的含义是：
+   - A. 读者
+   - B. 广告商
+   - C. 对应的报纸
+   - D. 海外分社
+
+> [!abstract]- 答案
+> 1. **B** — shrug off 表示“摆脱、对……不受影响”，此处指德国和巴西报纸挺过了经济衰退。
+> 2. **A** — virtue 在此表示“优点”，作者认为报纸面面俱到不再是经营优势。
+> 3. **C** — counterparts 指与美国报纸相对应的日本报纸。
+
 
 ## 心得
 
