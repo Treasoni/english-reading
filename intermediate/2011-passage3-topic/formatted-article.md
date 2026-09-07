@@ -137,7 +137,7 @@ The phrase “less is more” was actually first popularized by a German, the ar
 
 These designers came to exert enormous influence on the course of American architecture, but none more so than Mies.
 
-Mies's signature phrase means that less decoration, properly organized, has more impact than a lot. Elegance, he believed, did not derive from abundance. Like other modern architects, he employed metal, glass and laminated wood—materials that we take for granted today but that in the 1940s symbolized the future. Mies's sophisticated presentation masked the fact that the spaces he designed were small and efficient, rather than big and often empty.
+Mies's signature phrase means that less decoration, properly organized, has more impact than a lot. Elegance, he believed, did not derive from abundance. Like other modern architects, he employed metal, glass and laminated wood—materials that we take for granted today but that in the 1940s **symbolized** the future. Mies's sophisticated presentation masked the fact that the spaces he designed were small and efficient, rather than big and often empty.
 
 The apartments in the elegant towers Mies built on Chicago's Lake Shore Drive, for example, were smaller—two-bedroom units under 1,000 square feet—than those in their older neighbors along the city's Gold Coast.
 
