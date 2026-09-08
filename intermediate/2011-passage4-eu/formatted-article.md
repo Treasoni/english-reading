@@ -13,11 +13,48 @@ sources:
 
 # Will the European Union make it?
 
-The question would have sounded strange not long ago. Now even the project's greatest cheerleaders talk of a continent facing a **“Bermuda triangle”** of debt, population decline and lower growth.
+The question would have sounded strange not long ago.
+
+Now even the project's greatest cheerleaders talk of a continent facing a **“Bermuda triangle”** of debt, population decline and lower growth.
+
+> [!abstract]- 长难句分析
+> **原句**：Now even the project's greatest cheerleaders talk of a continent facing a “Bermuda triangle” of debt, population decline and lower growth.
+>
+> **主干提取**
+> - 主语 S: even the project's greatest cheerleaders
+> - 谓语 V: talk
+> - 介词结构：talk of + 介词宾语，表示“谈论……”
+> - 介词宾语 O（of 的宾语）: a continent facing a “Bermuda triangle”
+> - 状语 A: Now
+>
+> **修饰成分**：
+>
+> | 成分 | 类型 | 引导词 | 修饰对象 |
+> |------|------|--------|----------|
+> | even | 强调副词 | even | the project's greatest cheerleaders，突出“连……都” |
+> | of a continent... | 介词短语 | of | talk，构成 talk of，表示“谈论……” |
+> | facing a “Bermuda triangle”... | 非谓语（现在分词短语） | facing | a continent，表示“欧洲大陆正面临” |
+> | of debt, population decline and lower growth | 介词短语 | of | a “Bermuda triangle”，具体说明“三角困境”由什么构成 |
+> | debt, population decline and lower growth | 并列名词短语 | and | of 的三个并列宾语 |
+>
+> **结构图解**：
+> ```
+> 状语: Now
+> 主句: even the project's greatest cheerleaders talk
+>   └── 介词结构: of a continent → 构成 talk of
+>         └── 介词宾语: a continent
+>               └── 非谓语: facing a “Bermuda triangle” → 修饰 a continent
+>                     └── 介短: of debt, population decline and lower growth
+>                           → 具体说明 “Bermuda triangle” 的三个组成部分
+> ```
+>
+> **参考译文**：如今，甚至连这个项目最热心的支持者也开始谈论：欧洲大陆正面临一个由债务、人口下降和经济增长放缓构成的“百慕大三角”。
+>
+> **考点提示**：`talk of` 是“谈论、提及”的固定搭配；`facing` 是现在分词短语作后置定语，逻辑主语是 `a continent`，不是主句主语 `cheerleaders`；`even` 常译为“甚至、连……都”，用于突出出乎意料的对象。
 
 As well as those **chronic problems**, the EU faces an **acute crisis** in its economic core, the 16 countries that use the single currency.
 
-Markets have lost faith that the euro zone's economies, weaker or stronger, will one day converge thanks to the discipline of sharing a single currency, which denies uncompetitive members the quick fix of **devaluation**.
+Markets have lost faith that the euro zone's economies, weaker or stronger, will one day **converge** thanks to the discipline of sharing a single currency, which denies uncompetitive members the quick fix of **devaluation**.
 
 > [!abstract]- 长难句分析
 > **原句**：Markets have lost faith that the euro zone's economies, weaker or stronger, will one day converge thanks to the discipline of sharing a single currency, which denies uncompetitive members the quick fix of devaluation.
