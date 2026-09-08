@@ -419,5 +419,5 @@ Regarding the future of the EU, the author seems to feel ____.
 
 - **A.** pessimistic
 - **B.** desperate
-- **C.** conceited
+- **C.** **conceited**
 - **D.** hopeful
