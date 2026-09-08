@@ -64,7 +64,7 @@ Yet the debate about how to save Europe's single currency from **disintegration*
 > - 主语 S: the debate
 > - 谓语 V: is
 > - 补语 C: stuck
-> - 定语 A: about how to save Europe's single currency from disintegration
+> - 定语：about how to save Europe's single currency from disintegration（修饰 the debate）
 >
 > **修饰成分**：
 >
@@ -174,14 +174,14 @@ It is an ambitious attempt to **blunt the sharpest edges of globalization**, and
 > - 主语 S: It（指代 the European project）
 > - 谓语 V: is
 > - 补语 C: an ambitious attempt
-> - 目的/内容 A: to blunt the sharpest edges of globalization and make capitalism benign
+> - 后置定语：to blunt the sharpest edges of globalization and make capitalism benign（修饰 attempt，说明尝试的内容）
 >
 > **修饰成分**：
 >
 > | 成分 | 类型 | 引导词 | 修饰对象 |
 > |------|------|--------|----------|
 > | to blunt...and make... | 非谓语（并列不定式） | to | attempt，说明尝试的目的或内容 |
-> | the sharpest edges of globalization | 介词短语 | of | edges，说明“棱角”属于全球化 |
+> | of globalization | 介词短语 | of | edges，说明“棱角”属于全球化 |
 > | capitalism benign | 省略 to 的不定式复合结构 | make + 宾语 + 补语 | make 的宾语和宾语补足语 |
 >
 > **结构图解**：
