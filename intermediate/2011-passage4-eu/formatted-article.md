@@ -172,46 +172,50 @@ It insists that economic co-ordination should involve all 27 members of the EU c
 > **原句**：It insists that economic co-ordination should involve all 27 members of the EU club, among whom there is a small majority for free-market liberalism and economic rigour; in the inner core alone, Germany fears, a small majority favour French interference.
 >
 > **主干提取**
-> - 主语 S: It（指 Germany）
+> - 主语 S: It（指上文的 Germany）
 > - 谓语 V: insists
-> - 宾语 O: that economic co-ordination should involve all 27 members of the EU club
-> - 分句一主语 S: economic co-ordination
-> - 分句一谓语 V: should involve
-> - 分句一宾语 O: all 27 members of the EU club
-> - 分句二状语 A: in the inner core alone
-> - 分句二插入语: Germany fears
-> - 分句二主语 S: a small majority
-> - 分句二谓语 V: favour
-> - 分句二宾语 O: French interference
+> - 宾语 O: that economic co-ordination should involve all 27 members of the EU club（that 引导的宾语从句）
+> - 宾语从句主语 S: economic co-ordination
+> - 宾语从句谓语 V: should involve
+> - 宾语从句宾语 O: all 27 members of the EU club
+> - 非限制性定语从句结构: among whom there is a small majority for free-market liberalism and economic rigour（其中 `there` 为引导存在句的形式主语，`a small majority` 为后置的实际主语）
+> - 分号后并列分句状语 A: in the inner core alone
+> - 分号后并列分句插入语: Germany fears
+> - 分号后并列分句主语 S: a small majority
+> - 分号后并列分句谓语 V: favour
+> - 分号后并列分句宾语 O: French interference
 >
 > **修饰成分**：
 >
 > | 成分 | 类型 | 引导词 | 修饰对象 |
 > |------|------|--------|----------|
-> | that economic co-ordination...EU club | 名词性从句（宾语从句） | that | insists 的宾语 |
-> | of the EU club | 介词短语 | of | members，说明成员属于哪个组织 |
-> | among whom there is...rigour | 非限制性定语从句 | among whom | all 27 members，说明成员中的立场分布 |
-> | for free-market liberalism and economic rigour | 介词短语 | for | a small majority，说明多数支持的方向 |
-> | in the inner core alone | 介词短语 | in | 分句二，限定比较范围 |
-> | Germany fears | 插入语 | — | 表示德国的担忧 |
+> | that economic co-ordination should involve... | 名词性从句（宾语从句） | that | insists 的宾语 |
+> | of the EU club | 介词短语 | of | members，说明这 27 名成员所属的组织 |
+> | among whom there is...rigour | 非限制性定语从句 | among whom | all 27 members，说明这些成员中的立场分布 |
+> | for free-market liberalism and economic rigour | 介词短语 | for | a small majority，说明该多数支持的立场 |
+> | in the inner core alone | 介词短语（状语） | in | 分号后的并列分句，限定范围 |
+> | Germany fears | 插入语 | — | 表示德国的担忧，不影响句子主干 |
 > | French interference | 名词短语 | — | favour 的宾语 |
 >
 > **结构图解**：
 > ```
 > 主句: It insists [宾语从句]
->   └── 宾语从句: economic co-ordination should involve all 27 members
+>   └── 宾语从句: economic co-ordination should involve all 27 members of the EU club
 >         ├── 介短: of the EU club → 修饰 members
->         └── 定语从句: among whom there is a small majority
->               └── 介短: for free-market liberalism and economic rigour
+>         └── 非限制性定语从句: among whom there is a small majority...
+>               ├── 介短: among whom → 表示“在这些成员中”
+>               ├── 存在句: there is a small majority
+>               │     └── 介短: for free-market liberalism and economic rigour → 修饰 majority
+>               └── 修饰对象: all 27 members
 > 分号后的并列分句: in the inner core alone, Germany fears, a small majority favour French interference
->   ├── 状语: in the inner core alone → 限定比较范围
+>   ├── 状语: in the inner core alone → 限定范围
 >   ├── 插入语: Germany fears
 >   └── 主干: a small majority favour French interference
 > ```
 >
-> **参考译文**：它坚持认为，经济协调应该涉及欧盟这个俱乐部的全部27个成员；在这些成员中，支持自由市场自由主义和经济严谨性的国家占有微弱多数。但德国担心，在内部核心中，支持法国式干预的国家反而占有微弱多数。
+> **参考译文**：它坚持认为，经济协调应当涉及欧盟这个“俱乐部”的全部27个成员；在这些成员中，支持自由市场自由主义和经济严谨政策的只占微弱多数。然而德国担心，仅在核心内部，赞成法国式干预的也占有微弱多数。
 >
-> **考点提示**：`among whom` 引导非限制性定语从句，介词 `among` 前置；分号连接两个并列分句，后半句中的 `Germany fears` 是插入语，去掉后可直接抓住主干 `a small majority favour French interference`。注意 `It` 指代上文的 Germany。
+> **考点提示**：`that` 引导宾语从句；`among whom` 是介词 `among` 前置的非限制性定语从句，内部使用 `there is` 存在句；分号连接两个并列分句。后半句的 `Germany fears` 是插入语，去掉后可直接识别主干 `a small majority favour French interference`。注意 `favour` 在此表示“支持”，`for` 表示“支持某种立场”。
 
 A **“southern” camp** headed by French wants something different: **“European economic government”** within an inner core of euro-zone members.
 
