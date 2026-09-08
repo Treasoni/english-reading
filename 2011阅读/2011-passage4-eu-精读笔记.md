@@ -679,7 +679,140 @@ Regarding the future of the EU, the author seems to feel ____.
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **acute** | adj. | 严重的；急性的 | As well as those chronic problems, the EU faces an **acute crisis** in its economic core. |
+| **backed** | adj./v-ed | 由……支持的；以……作后盾的 | Germany thinks the euro must be saved by stricter rules, **backed by** quasi-automatic sanctions. |
+| **Bermuda triangle** | n. phr. | 百慕大三角；比喻性的三重困境 | Now even the project's greatest cheerleaders talk of a continent facing a **“Bermuda triangle”** of debt, population decline and lower growth. |
+| **blunt** | v. | 削弱；使变得不尖锐 | It is an ambitious attempt to **blunt the sharpest edges of globalization**, and make capitalism benign. |
+| **capitalism** | n. | 资本主义 | It is an ambitious attempt to blunt the sharpest edges of globalization, and make **capitalism** benign. |
+| **chronic** | adj. | 长期存在的；慢性的 | As well as those **chronic problems**, the EU faces an acute crisis in its economic core. |
+| **converge** | v. | 趋于一致；趋同；汇聚 | Markets have lost faith that the euro zone's economies will one day **converge**. |
+
+### D-H
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **devaluation** | n. | 货币贬值 | A single currency denies uncompetitive members the quick fix of **devaluation**. |
+| **disintegration** | n. | 解体；瓦解 | The debate about how to save Europe's single currency from **disintegration** is stuck. |
+| **European economic government** | n. phr. | 欧洲经济政府 | A “southern” camp wants something different: **“European economic government”** within an inner core of euro-zone members. |
+| **harmonisation** | n. | 协调；统一；协调一致 | France and Germany agree on the need for greater **harmonisation** within the euro zone. |
+| **hopeful** | adj. | 抱有希望的；乐观的 | Regarding the future of the EU, the author seems to feel **hopeful**. |
+
+### M-R
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **monetary** | adj. | 货币的；金融的 | That means politicians intervening in **monetary** policy and a system of redistribution. |
+| **murmured** | v. | 低声说；含蓄地表示 | Finally, figures close to the French government have **murmured**, euro-zone members should agree to some fiscal and social harmonisation. |
+| **redistribution** | n. | 再分配 | That means politicians intervening in monetary policy and a system of **redistribution** from richer to poorer members. |
+
+### S-W
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **southern camp** | n. phr. | 南方阵营 | A **“southern” camp** headed by French wants something different. |
+| **stricter** | adj. | 更严格的 | Germany thinks the euro must be saved by **stricter rules** on borrowing, spending and competitiveness. |
+| **stuck** | adj. | 陷入僵局的；卡住的 | Yet the debate about how to save Europe's single currency from disintegration is **stuck**. |
+| **talk about** | v. phr. | 讨论；谈论具体内容 | We spent hours **talking about** the new project. |
+| **talk back (to sb)** | v. phr. | 顶嘴；顶撞 | Don't **talk back to** your teachers. |
+| **talk business** | v. phr. | 谈正事；谈生意 | **talk business** |
+| **talk down to sb** | v. phr. | 居高临下地对某人说话 | Speak naturally and don't **talk down to** your audience. |
+| **talk nonsense** | v. phr. | 胡说八道 | **talk nonsense** |
+| **talk of** | v. phr. | 谈及；提及；传言 | Now even the project's greatest cheerleaders **talk of** a continent facing a “Bermuda triangle”. |
+| **talk sb into doing sth** | v. phr. | 说服某人做某事 | She **talked him into** buying the expensive car. |
+| **talk sb out of doing sth** | v. phr. | 劝阻某人做某事 | I tried to **talk him out of** resigning. |
+| **talk sense** | v. phr. | 讲合乎情理的话；说正经话 | **talk sense** |
+| **talk to** | v. phr. | 对……讲话；与……谈话 | I need to **talk to** you about your performance. |
+| **talk with** | v. phr. | 与……交谈；协商 | The manager is **talking with** the client. |
+| **the talk of the town** | n. phr. | 街头巷尾的谈资；焦点话题 | Their engagement became **the talk of the town**. |
+| **write off** | v. phr. | 认为……无望；放弃对……的希望 | It is too soon to **write off** the EU. |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> acute / converge / devaluation / disintegration / harmonisation / monetary / murmured / redistribution / stricter / blunt
+
+1. The two sides hope their positions will gradually ________ after several rounds of negotiation.
+
+2. The country faced an ________ shortage of medical supplies after the disaster.
+
+3. The central bank used ________ policy to control inflation.
+
+4. The agreement aims at greater economic ________ among the member states.
+
+5. The government introduced ________ rules on public borrowing.
+
+6. Some economists warned that uncontrolled conflict could lead to the ________ of the alliance.
+
+7. The reform seeks to promote the fair ________ of wealth.
+
+8. A sudden ________ would make imported goods more expensive.
+
+9. The new policy may ________ the negative effects of globalization.
+
+10. Officials ________ that a compromise might still be possible.
+
+> [!abstract]- 答案
+> 1. **converge**（趋于一致）
+> 2. **acute**（严重的、急性的）
+> 3. **monetary**（货币的）
+> 4. **harmonisation**（协调统一）
+> 5. **stricter**（更严格的）
+> 6. **disintegration**（解体）
+> 7. **redistribution**（再分配）
+> 8. **devaluation**（货币贬值）
+> 9. **blunt**（削弱）
+> 10. **murmured**（低声说；含蓄地表示）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. **talk sb into doing sth**
+
+2. **write off the EU**
+
+3. **blunt the sharpest edges of globalization**
+
+> [!abstract]- 答案
+> 1. **talk sb into doing sth** = 说服某人做某事
+> 2. **write off the EU** = 认为欧盟无望；放弃对欧盟的希望
+> 3. **blunt the sharpest edges of globalization** = 削弱全球化最尖锐的负面影响
+
+**三、语境理解**
+
+根据上下文，选择粗体词语在句中的正确含义：
+
+1. “It is too soon to **write off** the EU.” 中 **write off** 的含义是：
+   - A. 把欧盟写下来
+   - B. 取消对欧盟的书面记录
+   - C. 认为欧盟无望
+   - D. 宣布欧盟成立
+
+2. “the euro zone's economies will one day **converge**” 中 **converge** 的含义是：
+   - A. 彼此趋于一致
+   - B. 迅速分裂
+   - C. 停止增长
+   - D. 放弃共同货币
+
+3. “figures close to the French government have **murmured**” 中 **murmured** 的含义是：
+   - A. 公开宣布
+   - B. 含蓄地低声表示
+   - C. 激烈反驳
+   - D. 正式投票
+
+> [!abstract]- 答案
+> 1. **C** — `write off` 表示认为某事无望或放弃希望。
+> 2. **A** — `converge` 在此表示不同经济体逐渐趋于一致。
+> 3. **B** — `murmur` 表示低声说，也可引申为不公开、含蓄地表达意见。
 
 ## 心得
 
