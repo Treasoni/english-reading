@@ -127,7 +127,7 @@ Yet the debate about how to save Europe's single currency from **disintegration*
 
 It is stuck because the euro zone's dominant powers, France and Germany, agree on the need for greater **harmonisation** within the euro zone, but disagree about what to harmonise.
 
-Germany thinks the euro must be saved by **stricter rules** on borrowing, spending and competitiveness, backed by quasi-automatic sanctions for governments that do not obey.
+Germany thinks the euro must be saved by **stricter rules** on borrowing, spending and competitiveness, **backed** by quasi-automatic sanctions for governments that do not obey.
 
 > [!abstract]- 长难句分析
 > **原句**：Germany thinks the euro must be saved by stricter rules on borrowing, spending and competitiveness, backed by quasi-automatic sanctions for governments that do not obey.
