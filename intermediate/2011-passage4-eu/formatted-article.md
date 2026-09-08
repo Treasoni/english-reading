@@ -341,7 +341,7 @@ Finally, figures close to the French government have **murmured**, euro-zone mem
 
 It is too soon to write off the EU. It remains the world's largest trading block. At its best, the European project is remarkably liberal: built around a single market of 27 rich and poor countries, its internal borders are far more open to goods, capital and labour than any comparable trading area.
 
-It is an ambitious attempt to **blunt the sharpest edges of globalization**, and make capitalism benign.
+It is an ambitious attempt to **blunt the sharpest edges of globalization**, and make **capitalism** benign.
 
 > [!abstract]- 长难句分析
 > **原句**：It is an ambitious attempt to blunt the sharpest edges of globalization, and make capitalism benign.
