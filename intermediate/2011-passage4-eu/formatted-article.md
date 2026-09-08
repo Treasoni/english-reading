@@ -249,7 +249,94 @@ A **“southern” camp** headed by French wants something different: **“Europ
 >
 > **考点提示**：`headed by French` 是过去分词短语作后置定语；冒号后并非新的完整句子，而是对 `something different` 的具体解释。原文中的 `French` 在语境中指法国方面或法国政府。
 
-Translated, that means politicians intervening in monetary policy and a system of **redistribution** from richer to poorer members, via cheaper borrowing for governments through common Eurobonds or complete fiscal transfers. Finally, figures close to the French government have murmured, euro-zone members should agree to some fiscal and social harmonisation: e.g., curbing competition in corporate-tax rates or labour costs.
+Translated, that means politicians intervening in **monetary** policy and a system of **redistribution** from richer to poorer members, via cheaper borrowing for governments through common Eurobonds or complete fiscal transfers.
+
+> [!abstract]- 长难句分析
+> **原句**：Translated, that means politicians intervening in monetary policy and a system of redistribution from richer to poorer members, via cheaper borrowing for governments through common Eurobonds or complete fiscal transfers.
+>
+> **主干提取**
+> - 状语 A: Translated（换言之）
+> - 主语 S: that（指代前文的 “European economic government”）
+> - 谓语 V: means
+> - 宾语 O: politicians intervening in monetary policy and a system of redistribution
+> - 第一并列成分: politicians intervening in monetary policy（名词短语，`intervening...` 后置修饰 `politicians`）
+> - 第二并列成分: a system of redistribution from richer to poorer members
+>
+> **修饰成分**：
+>
+> | 成分 | 类型 | 引导词 | 修饰对象 |
+> |------|------|--------|----------|
+> | Translated | 过去分词短语（句首评注状语） | — | means 所在的整个句子，表示“换言之” |
+> | politicians intervening in monetary policy | 名词短语 + 现在分词后置定语 | intervening | 与第二个并列成分共同作 means 的宾语；修饰 politicians |
+> | in monetary policy | 介词短语 | in | intervening，说明干预的领域 |
+> | a system of redistribution | 名词短语 | of | 与前一成分并列，共同作 means 的宾语 |
+> | from richer to poorer members | 介词短语 | from...to... | redistribution，说明重新分配的方向 |
+> | via cheaper borrowing for governments | 介词短语 | via | system of redistribution，说明再分配的一种实现方式 |
+> | for governments | 介词短语 | for | borrowing，说明借贷的对象 |
+> | through common Eurobonds | 介词短语 | through | cheaper borrowing for governments，说明获得低成本借贷的途径 |
+> | or complete fiscal transfers | 省略结构 | or | 与 `via cheaper borrowing...` 并列，说明再分配的另一种实现方式 |
+>
+> **结构图解**：
+> ```
+> 句首状语: Translated → “换言之”
+> 主句: that means [并列宾语]
+>   ├── 名词短语: politicians intervening in monetary policy
+>   │     └── 现在分词后置定语: intervening in monetary policy → 修饰 politicians
+>   └── 名词短语: a system of redistribution
+>         ├── 介短: from richer to poorer members → 修饰 redistribution
+>         └── 再分配方式（via... or...）
+>               ├── via cheaper borrowing for governments
+>               │     ├── 介短: for governments → 修饰 borrowing
+>               │     └── 介短: through common Eurobonds → 修饰 cheaper borrowing
+>               └── （via）complete fiscal transfers
+> ```
+>
+> **参考译文**：换句话说，这意味着政治家干预货币政策，并建立一种把资源从较富裕成员重新分配给较贫困成员的制度，具体方式包括：通过共同发行欧元债券为各国政府提供成本更低的借贷，或实施完整的财政转移。
+>
+> **考点提示**：`Translated` 是句首过去分词构成的评注状语，语义上相当于 “put differently”，应译为“换句话说”；`politicians intervening...` 与 `a system...` 是 `means` 后的两个并列宾语，其中 `intervening...` 后置修饰 `politicians`；`from richer to poorer` 中省略了 `members`。注意 `via ... or ...` 表示再分配的两种方式，`complete fiscal transfers` 不应误解为获得借贷的途径。
+
+Finally, figures close to the French government have **murmured**, euro-zone members should agree to some fiscal and social harmonisation: e.g., curbing competition in corporate-tax rates or labour costs.
+
+> [!abstract]- 长难句分析
+> **原句**：Finally, figures close to the French government have murmured, euro-zone members should agree to some fiscal and social harmonisation: e.g., curbing competition in corporate-tax rates or labour costs.
+>
+> **主干提取**
+> - 状语 A: Finally
+> - 主语 S: figures close to the French government
+> - 谓语 V: have murmured
+> - 宾语 O: （省略 that 的宾语从句）euro-zone members should agree to some fiscal and social harmonisation
+> - 宾语从句主语 S: euro-zone members
+> - 宾语从句谓语 V: should agree
+> - 宾语从句补足成分 C: to some fiscal and social harmonisation
+> - 举例说明: e.g., curbing competition in corporate-tax rates or labour costs
+>
+> **修饰成分**：
+>
+> | 成分 | 类型 | 引导词 | 修饰对象 |
+> |------|------|--------|----------|
+> | close to the French government | 介词短语 | close to | figures，说明这些人士与法国政府的关系 |
+> | euro-zone members should agree... | 名词性从句（宾语从句） | 省略 that | murmured 的宾语 |
+> | to some fiscal and social harmonisation | 介词短语 | to | agree，说明同意的内容 |
+> | e.g., curbing competition... | 非谓语（动名词短语） | curbing | harmonisation，具体举例说明协调统一的方式 |
+> | in corporate-tax rates or labour costs | 介词短语 | in | competition，说明竞争发生的领域 |
+> | corporate-tax rates or labour costs | 并列名词短语 | or | in 的两个并列宾语 |
+>
+> **结构图解**：
+> ```
+> 状语: Finally
+> 主句: figures close to the French government have murmured
+>   ├── 介短: close to the French government → 修饰 figures
+>   └── 宾语从句（省略 that）: euro-zone members should agree to harmonisation
+>         ├── 主语: euro-zone members
+>         ├── 谓语: should agree
+>         ├── 介短: to some fiscal and social harmonisation → agree 的补足成分
+>         └── 举例: e.g., curbing competition...
+>               └── 介短: in corporate-tax rates or labour costs → 修饰 competition
+> ```
+>
+> **参考译文**：最后，法国政府身边的人士还含蓄地表示，欧元区成员应该在财政和社会政策方面实现一定程度的协调统一，例如限制各国在企业税率或劳动力成本方面的竞争。
+>
+> **考点提示**：`murmured` 后接省略 `that` 的宾语从句；`figures` 在此不是“数字”，而是“人物、人士”；冒号后的 `e.g., curbing...` 是对 `harmonisation` 的举例说明，`curbing` 是动名词而非谓语。
 
 It is too soon to write off the EU. It remains the world's largest trading block. At its best, the European project is remarkably liberal: built around a single market of 27 rich and poor countries, its internal borders are far more open to goods, capital and labour than any comparable trading area.
 
