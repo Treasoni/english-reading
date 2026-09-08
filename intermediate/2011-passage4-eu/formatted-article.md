@@ -164,7 +164,54 @@ Germany thinks the euro must be saved by **stricter rules** on borrowing, spendi
 >
 > **考点提示**：`thinks` 后接省略 `that` 的宾语从句；`must be saved` 是情态动词与被动语态叠加；句末 `backed...` 为过去分词短语，逻辑上修饰 `stricter rules`，不要误判为修饰最近的 `competitiveness`。
 
-These might include threats to freeze EU funds for poorer regions and EU mega-projects, and even the suspension of a country's voting rights in EU ministerial councils. It insists that economic co-ordination should involve all 27 members of the EU club, among whom there is a small majority for free-market liberalism and economic rigour; in the inner core alone, Germany fears, a small majority favour French interference.
+These might include threats to freeze EU funds for poorer regions and EU mega-projects, and even the suspension of a country's voting rights in EU ministerial councils.
+
+It insists that economic co-ordination should involve all 27 members of the EU club, among whom there is a small majority for free-market liberalism and economic rigour; in the inner core alone, Germany fears, a small majority favour French interference.
+
+> [!abstract]- 长难句分析
+> **原句**：It insists that economic co-ordination should involve all 27 members of the EU club, among whom there is a small majority for free-market liberalism and economic rigour; in the inner core alone, Germany fears, a small majority favour French interference.
+>
+> **主干提取**
+> - 主语 S: It（指 Germany）
+> - 谓语 V: insists
+> - 宾语 O: that economic co-ordination should involve all 27 members of the EU club
+> - 分句一主语 S: economic co-ordination
+> - 分句一谓语 V: should involve
+> - 分句一宾语 O: all 27 members of the EU club
+> - 分句二状语 A: in the inner core alone
+> - 分句二插入语: Germany fears
+> - 分句二主语 S: a small majority
+> - 分句二谓语 V: favour
+> - 分句二宾语 O: French interference
+>
+> **修饰成分**：
+>
+> | 成分 | 类型 | 引导词 | 修饰对象 |
+> |------|------|--------|----------|
+> | that economic co-ordination...EU club | 名词性从句（宾语从句） | that | insists 的宾语 |
+> | of the EU club | 介词短语 | of | members，说明成员属于哪个组织 |
+> | among whom there is...rigour | 非限制性定语从句 | among whom | all 27 members，说明成员中的立场分布 |
+> | for free-market liberalism and economic rigour | 介词短语 | for | a small majority，说明多数支持的方向 |
+> | in the inner core alone | 介词短语 | in | 分句二，限定比较范围 |
+> | Germany fears | 插入语 | — | 表示德国的担忧 |
+> | French interference | 名词短语 | — | favour 的宾语 |
+>
+> **结构图解**：
+> ```
+> 主句: It insists [宾语从句]
+>   └── 宾语从句: economic co-ordination should involve all 27 members
+>         ├── 介短: of the EU club → 修饰 members
+>         └── 定语从句: among whom there is a small majority
+>               └── 介短: for free-market liberalism and economic rigour
+> 分号后的并列分句: in the inner core alone, Germany fears, a small majority favour French interference
+>   ├── 状语: in the inner core alone → 限定比较范围
+>   ├── 插入语: Germany fears
+>   └── 主干: a small majority favour French interference
+> ```
+>
+> **参考译文**：它坚持认为，经济协调应该涉及欧盟这个俱乐部的全部27个成员；在这些成员中，支持自由市场自由主义和经济严谨性的国家占有微弱多数。但德国担心，在内部核心中，支持法国式干预的国家反而占有微弱多数。
+>
+> **考点提示**：`among whom` 引导非限制性定语从句，介词 `among` 前置；分号连接两个并列分句，后半句中的 `Germany fears` 是插入语，去掉后可直接抓住主干 `a small majority favour French interference`。注意 `It` 指代上文的 Germany。
 
 A **“southern” camp** headed by French wants something different: **“European economic government”** within an inner core of euro-zone members.
 
