@@ -307,36 +307,37 @@ Finally, figures close to the French government have **murmured**, euro-zone mem
 > - 宾语 O: （省略 that 的宾语从句）euro-zone members should agree to some fiscal and social harmonisation
 > - 宾语从句主语 S: euro-zone members
 > - 宾语从句谓语 V: should agree
-> - 宾语从句补足成分 C: to some fiscal and social harmonisation
-> - 举例说明: e.g., curbing competition in corporate-tax rates or labour costs
+> - 宾语从句补足成分: to some fiscal and social harmonisation（agree to 的介词补足成分）
+> - 举例说明: e.g., curbing competition in corporate-tax rates or labour costs（对 harmonisation 的具体化说明）
 >
 > **修饰成分**：
 >
 > | 成分 | 类型 | 引导词 | 修饰对象 |
 > |------|------|--------|----------|
-> | close to the French government | 介词短语 | close to | figures，说明这些人士与法国政府的关系 |
+> | close to the French government | 形容词短语 | close to | figures，说明这些人士与法国政府关系密切 |
 > | euro-zone members should agree... | 名词性从句（宾语从句） | 省略 that | murmured 的宾语 |
-> | to some fiscal and social harmonisation | 介词短语 | to | agree，说明同意的内容 |
-> | e.g., curbing competition... | 非谓语（动名词短语） | curbing | harmonisation，具体举例说明协调统一的方式 |
-> | in corporate-tax rates or labour costs | 介词短语 | in | competition，说明竞争发生的领域 |
+> | to some fiscal and social harmonisation | 介词短语 | to | agree，说明赞成的内容 |
+> | e.g., curbing competition... | 动名词短语（举例） | curbing | 对 fiscal and social harmonisation 的具体说明 |
+> | in corporate-tax rates or labour costs | 介词短语 | in | competition，说明竞争所涉及的方面；in 的作用域覆盖 or 连接的两项 |
 > | corporate-tax rates or labour costs | 并列名词短语 | or | in 的两个并列宾语 |
 >
 > **结构图解**：
 > ```
 > 状语: Finally
 > 主句: figures close to the French government have murmured
->   ├── 介短: close to the French government → 修饰 figures
+>   ├── 形容词短语: close to the French government → 修饰 figures
 >   └── 宾语从句（省略 that）: euro-zone members should agree to harmonisation
 >         ├── 主语: euro-zone members
 >         ├── 谓语: should agree
->         ├── 介短: to some fiscal and social harmonisation → agree 的补足成分
->         └── 举例: e.g., curbing competition...
+>         ├── 介词补足成分: to some fiscal and social harmonisation → agree 的补足成分
+>         └── 举例说明: e.g., curbing competition in corporate-tax rates or labour costs
+>               ├── 动名词短语: curbing competition → 具体说明 harmonisation
 >               └── 介短: in corporate-tax rates or labour costs → 修饰 competition
 > ```
 >
-> **参考译文**：最后，法国政府身边的人士还含蓄地表示，欧元区成员应该在财政和社会政策方面实现一定程度的协调统一，例如限制各国在企业税率或劳动力成本方面的竞争。
+> **参考译文**：最后，接近法国政府的人士低声表示，欧元区成员应该在财政和社会政策方面实现一定程度的协调统一，例如限制各国在企业税率或劳动力成本方面的竞争。
 >
-> **考点提示**：`murmured` 后接省略 `that` 的宾语从句；`figures` 在此不是“数字”，而是“人物、人士”；冒号后的 `e.g., curbing...` 是对 `harmonisation` 的举例说明，`curbing` 是动名词而非谓语。
+> **考点提示**：`murmured` 后接省略 `that` 的宾语从句；`close to` 在此为形容词 `close` 后接介词 `to` 的形容词短语；冒号后的 `e.g., curbing...` 是对 `fiscal and social harmonisation` 的举例说明，`curbing` 为动名词而非主句谓语；`in` 的作用域覆盖 `corporate-tax rates` 和 `labour costs` 两项。
 
 It is too soon to write off the EU. It remains the world's largest trading block. At its best, the European project is remarkably liberal: built around a single market of 27 rich and poor countries, its internal borders are far more open to goods, capital and labour than any comparable trading area.
 
