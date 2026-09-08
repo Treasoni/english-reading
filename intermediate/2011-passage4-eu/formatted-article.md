@@ -92,7 +92,7 @@ Markets have lost faith that the euro zone's economies, weaker or stronger, will
 >
 > **考点提示**：`faith that...` 中的 that 从句是名词性同位语从句，具体说明 faith 的内容；`weaker or stronger` 是插入成分，阅读时可先跳过；末尾 `which` 引导非限制性定语从句，指向 `single currency`。
 
-Yet the debate about how to save Europe's single currency from **disintegration** is stuck.
+Yet the debate about how to save Europe's single currency from **disintegration** is **stuck**.
 
 > [!abstract]- 长难句分析
 > **原句**：Yet the debate about how to save Europe's single currency from disintegration is stuck.
