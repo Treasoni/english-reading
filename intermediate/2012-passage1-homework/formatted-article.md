@@ -210,7 +210,7 @@ Yet rather than **empowering** teachers to find what works best for their studen
 >
 > **考点提示**：rather than 后接动名词 empowering，表示“而不是……”，否定的是主句动作的对立面；what 引导宾语从句作 find 的宾语；across-the-board 是带连字符的合成形容词，意为“全面的、一刀切的”，与 flat 并列修饰 rule。
 
-At the same time, the policy addresses none of the truly **thorny** questions about homework. If the district finds homework to be unimportant to its students' academic achievement, it should move to reduce or **eliminate** the assignments, not make them count for almost nothing. **Conversely**, if homework matters, it should **account for** a significant portion of the grade.
+At the same time, the policy addresses none of the truly **thorny** questions about homework. If the district finds homework to be unimportant to its students' academic achievement, it should move to reduce or **eliminate** the assignments, not make them count for almost nothing. **Conversely**, if homework **matters**, it should **account for** a significant portion of the grade.
 
 Meanwhile, this policy does nothing to ensure that the homework students receive is **meaningful** or **appropriate** to their age and the subject, or that teachers are not assigning more than they are willing to review and correct.
 
