@@ -6,10 +6,6 @@
         "hooks": [
           {
             "type": "command",
-            "command": "bash .claude/hooks/read-learnings.sh"
-          },
-          {
-            "type": "command",
             "command": "python3 '.claude/hooks/read_learnings.py'"
           }
         ]
@@ -21,7 +17,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python3 .claude/scripts/extract-usage-events.py 2>/dev/null || true"
+            "command": "python3 .claude/scripts/extract-usage-events.py || true"
           }
         ]
       }
