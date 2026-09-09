@@ -84,7 +84,7 @@ Certainly, no homework should be assigned that students cannot complete on their
 >
 > **参考译文**：当然，任何学生无法独立完成、或没有昂贵设备就完不成的作业，本来就不应该布置。
 >
-> **考点提示**：that 引导的定语从句修饰主语 no homework，却被谓语 should be assigned 隔开，构成“分隔定语从句”，理解时应把从句还原到先行词 homework 之后；两个 that 定语从句由 or 并列；do without 意为“没有……也能应付”。
+> **考点提示**：that 引导的定语从句修饰主语 no homework，却被谓语 should be assigned 隔开，构成“分隔定语从句”，理解时应把从句还原到先行词 homework 之后；两个 that 定语从句由 or 并列；without expensive equipment 是介词短语作状语修饰 do，表示“没有昂贵设备（就完不成）”，do 的宾语是前面的 that（指 homework），不要把 do without 误当作固定短语。
 
 But if the district is essentially **giving a pass** to students who do not do their homework because of complicated family lives, it is going riskily close to the **implication** that standards need to be lowered for poor children.
 
@@ -188,7 +188,7 @@ Yet rather than **empowering** teachers to find what works best for their studen
 > | 修饰成分 | 类型 | 引导词 | 修饰对象 |
 > |------|------|--------|----------|
 > | Rather than empowering teachers ... | 介词短语（否定对比状语） | Rather than | 主句，意为“而不是……” |
-> | to find what works best for their students | 非谓语（不定式，目的状语） | to | empowering，说明赋权的目的 |
+> | to find what works best for their students | 非谓语（不定式，宾语补足语） | to | teachers，说明教师被赋权去做的事 |
 > | what works best for their students | 名词性从句（宾语从句） | what | find 的宾语 |
 > | for their students | 介词短语 | for | works best，说明受益对象 |
 > | flat, across-the-board | 形容词（并列定语） | — | rule，强调规则“一律、一刀切” |
@@ -197,7 +197,7 @@ Yet rather than **empowering** teachers to find what works best for their studen
 > ```
 > 状语（否定对比）: Rather than empowering teachers to find what works best for their students
 >   ├── 动名词: empowering teachers
->   └── 不定式目的: to find what works best for their students
+>   └── 不定式（宾补，修饰 teachers）: to find what works best for their students
 >         └── 宾语从句: what works best for their students
 >               └── 介短: for their students
 > 主句: the policy imposes a flat, across-the-board rule
@@ -291,7 +291,7 @@ The homework rules should be **put on hold** while the **school board**, which i
 >
 > **参考译文**：在负责制定教育政策的学校董事会调查此事并举行公开听证会期间，这些作业规定应当暂缓执行。
 >
-> **考点提示**：while 引导时间状语从句；which 引导的非限制性定语从句插在从句主语 the school board 与谓语之间，造成主谓分隔，阅读时先跳过破折号内容；put ... on hold 是固定搭配，意为“搁置、暂缓”；be responsible for 后接动名词 setting。
+> **考点提示**：while 引导时间状语从句；which 引导的非限制性定语从句插在从句主语 the school board 与谓语之间，造成主谓分隔，阅读时可先跳过这个插入的定语从句；put ... on hold 是固定搭配，意为“搁置、暂缓”；be responsible for 后接动名词 setting。
 
 ==It is not too late for L. A. Unified to do homework right.==
 
