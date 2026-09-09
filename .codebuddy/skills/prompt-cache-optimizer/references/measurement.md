@@ -11,17 +11,26 @@
 - `model`：实际模型标识。
 - `input_tokens`、`output_tokens`、`latency_ms`。
 - `cache_read_tokens`、`cache_write_tokens`：提供方返回时记录；不支持时可省略，不能编造为零。
+- `input_tokens` 语义因提供方而异：Anthropic 原生为本次请求的完整输入；部分网关/代理只记**未命中缓存的新增部分**，此时总输入需按 `input_tokens + cache_read_tokens` 折算（见 Cache Rate）。
 - `cost_usd`：提供方返回或按项目统一费率估算时记录，并注明估算方式。
 
 不要记录原始用户输入、完整提示词、模型输出、密钥或个人数据。使用安全的文件路径、fixture ID 或内容哈希填入 `input_reference`。
 
 ## Cache Rate
 
-当提供方返回 `cache_read_tokens` 时，可按同一 `request_type + template_id + template_version + model` 分组计算：
+先确认提供方返回的字段语义，再决定公式：
+
+- **Anthropic 原生语义**：`input_tokens` 是本次请求的完整输入，且 `cache_read_tokens ≤ input_tokens`。
+- **网关/代理语义**（如经 DeepSeek 等兼容接口中转时常见）：`input_tokens` 可能只记**未命中缓存的新增部分**，`cache_read_tokens` 记命中缓存的部分。此时本次请求总输入 = `input_tokens + cache_read_tokens`。
+
+按同一 `request_type + template_id + template_version + model` 分组计算命中率：
 
 ```text
-cache_read_rate = sum(cache_read_tokens) / sum(input_tokens)
+total_input = sum(input_tokens + cache_read_tokens)
+cache_rate  = sum(cache_read_tokens) / total_input
 ```
+
+若提供方返回的是单一完整输入口径（无拆分），可直接用 `cache_read_rate = sum(cache_read_tokens) / sum(input_tokens)`，结果必然 `≤ 1`。任何 `cache_rate > 1` 的结果都说明公式与字段语义不匹配——先核对字段来源，改用上面的拆分口径重算，不要直接把这个数值当命中率上报。
 
 这不是所有平台的官方“缓存命中率”定义，但适合作为同项目内的趋势指标。模型、工具定义或模板版本发生变化时，应分组比较，不能混在同一基线中。
 

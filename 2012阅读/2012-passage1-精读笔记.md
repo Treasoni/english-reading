@@ -655,7 +655,145 @@ put sth on hold 意为“把……暂时搁置”，其中 **on hold** 作宾语
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **academic grade** | n. | 学业成绩；课程分数 | "homework may no longer count for more than 10% of a student's **academic grade**." |
+| **account for** | v. | 占（比重）；是……的原因 | "if homework matters, it should **account for** a significant portion of the grade." |
+| **across-the-board** | adj. | 全面适用的；一刀切的 | "the policy imposes a flat, **across-the-board** rule." |
+| **administrators** | n. | 管理者；行政人员 | "District **administrators** say that homework will still be a part of schooling." |
+| **appropriate** | adj. | 合适的；相称的 | "the homework students receive is meaningful or **appropriate** to their age and the subject." |
+| **assign** | v. | 布置（作业）；分配 | "teachers are allowed to **assign** as much of it as they want." |
+| **chaotic** | adj. | 混乱的 | "students from impoverished or **chaotic** homes might have difficulty completing their homework." |
+| **contradictory** | adj. | 自相矛盾的 | "But the policy is unclear and **contradictory**." |
+| **conversely** | adv. | 相反地 | "**Conversely**, if homework matters, it should account for a significant portion of the grade." |
+| **count (for)** | v. | 占（比重）；要紧 | "homework may no longer **count for** more than 10% of a student's academic grade." |
+
+### D-F
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **districts** | n. | 学区 | "School **districts** across the country, most recently Los Angeles Unified, are revising their thinking." |
+| **eliminate** | v. | 取消；消除 | "it should move to reduce or **eliminate** the assignments, not make them count for almost nothing." |
+| **empower** | v. | 赋权给 | "Yet rather than **empowering** teachers to find what works best for their students." |
+
+### G-L
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **give sb. a pass** | v. phr. | 放行；不加追究 | "the district is essentially **giving a pass** to students who do not do their homework." |
+| **implication** | n. | 暗示；含意 | "close to the **implication** that standards need to be lowered for poor children." |
+| **impose** | v. | 强加 | "the policy **imposes** a flat, across-the-board rule." |
+| **inflexible** | adj. | 僵化的；缺乏灵活性的 | "L. A. Unified has produced an **inflexible** policy which mandates that ..." |
+| **impoverished** | adj. | 贫困的 | "students from **impoverished** or chaotic homes might have difficulty completing their homework." |
+
+### M-R
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **mandate** | v. | 规定；强制要求 | "an inflexible policy which **mandates** that homework may no longer count for more than 10%." |
+| **matter** | v. | 重要；要紧 | "if homework **matters**, it should account for a significant portion of the grade." |
+| **meaningful** | adj. | 有意义的 | "this policy does nothing to ensure that the homework students receive is **meaningful** or appropriate." |
+| **put ... on hold** | v. phr. | 暂缓；搁置 | "The homework rules should be **put on hold** while the school board looks into the matter." |
+| **public hearings** | n. phr. | 公开听证会 | "the school board ... looks into the matter and conducts **public hearings**." |
+| **report cards** | n. phr. | 成绩单 | "students can easily skip half their homework and see very little difference on their **report cards**." |
+| **revise** | v. | 反思后修订；改变（看法） | "School districts across the country ... are **revising** their thinking on this educational ritual." |
+| **ritual** | n. | 惯例；例行公事 | "are revising their thinking on this educational **ritual**." |
+
+### S-Z
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **school board** | n. phr. | 学校董事会 | "while the **school board**, which is responsible for setting educational policy, looks into the matter." |
+| **scorn** | v. | 鄙视；对……嗤之以鼻 | "in recent years it has been particularly **scorned**." |
+| **skip** | v. | 跳过；略过 | "students can easily **skip** half their homework." |
+| **thorny** | adj. | 棘手的 | "the policy addresses none of the truly **thorny** questions about homework." |
+| **unclear** | adj. | 含糊不清的 | "But the policy is **unclear** and contradictory." |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> across-the-board / contradictory / conversely / eliminate / empower / inflexible / impoverished / ritual / skip / thorny
+
+1. Children from ________ families may struggle to finish homework without extra help.
+
+2. The new policy is ________: it claims to help poor students but may actually set a lower bar for them.
+
+3. ________, if homework matters a lot, it should be graded more heavily.
+
+4. A smarter approach would ________ teachers to decide what works best for their students.
+
+5. Critics argue the ________ cut treats all courses alike and ignores real differences.
+
+6. The district does not need to ________ homework; it needs to make it count.
+
+7. For many families, supervising homework has become a nightly ________.
+
+8. When homework is worth almost nothing, students may ________ it without worry.
+
+9. Whether to weight homework at all is a ________ question the board has so far avoided.
+
+10. The rule is too ________ to allow teachers to adapt assignments to their students.
+
+> [!abstract]- 答案
+> 1. **impoverished**（贫困的）
+> 2. **contradictory**（自相矛盾的）
+> 3. **Conversely**（相反地）
+> 4. **empower**（赋权）
+> 5. **across-the-board**（一刀切的）
+> 6. **eliminate**（取消）
+> 7. **ritual**（惯例）
+> 8. **skip**（跳过）
+> 9. **thorny**（棘手的）
+> 10. **inflexible**（僵化的）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. The homework rules should be put on hold while the school board investigates.
+
+2. Giving a pass to students who never hand in homework lowers the bar for everyone.
+
+3. If homework really matters, it should account for a significant portion of the grade.
+
+> [!abstract]- 答案
+> 1. 在学校董事会调查期间，这些作业规定应当暂缓执行。
+> 2. 对从不交作业的学生"放行"，等于为所有人降低了标准。
+> 3. 如果作业真的重要，它就应该在成绩中占相当大的比重。
+
+**三、语境理解**
+
+根据上下文，选择加粗词在句中的准确含义：
+
+1. "in recent years it has been particularly **scorned**." 中 **scorned** 表示：
+   - A. 被忽视
+   - B. 被鄙视；遭诟病
+   - C. 被取消
+   - D. 被高估
+
+2. "close to the **implication** that standards need to be lowered" 中 **implication** 表示：
+   - A. 明确的声明
+   - B. 暗示；含意
+   - C. 否认
+   - D. 借口
+
+3. "rather than **empowering** teachers to find what works best" 中 **empowering** 表示：
+   - A. 授权；赋权
+   - B. 强迫
+   - C. 培训
+   - D. 监督
+
+> [!abstract]- 答案
+> 1. **B** — scorned 意为"被鄙视、遭诟病"，对应首句"家庭作业近年来尤其备受诟病"。
+> 2. **B** — implication 指"暗示、隐含之意"，后接 that 同位语从句说明暗示的内容，而非明说。
+> 3. **A** — empower = 赋予权力；政策"而非 empowering 教师，反而 imposed 一刀切规则"，两者语义对立。
 
 ## 心得
 

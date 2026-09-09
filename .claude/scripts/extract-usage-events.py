@@ -16,6 +16,7 @@ Never logs raw user input, model output, or secrets.
 """
 
 import json
+import os
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -68,6 +69,39 @@ def user_text_of(o: dict) -> str:
     return ""
 
 
+def first_user_cwd(path: Path, limit_lines: int = 200) -> str:
+    """Return the cwd recorded on the first user message that carries one.
+
+    Uses json.loads, which decodes both raw UTF-8 and \\uXXXX-escaped JSON, so
+    non-ASCII vault paths (Chinese folder names) match reliably. Directory names
+    under ~/.claude/projects collapse non-ASCII segments to '-', so several
+    Chinese-named folders share one encoded directory; the parsed cwd is the
+    only trustworthy signal.
+    """
+    try:
+        with path.open(encoding="utf-8", errors="ignore") as fh:
+            for i, line in enumerate(fh):
+                if i >= limit_lines:
+                    break
+                line = line.strip()
+                if not line:
+                    continue
+                # Cheap pre-filter: only user lines can carry a cwd.
+                if '"type": "user"' not in line and '"type":"user"' not in line:
+                    continue
+                try:
+                    o = json.loads(line)
+                except Exception:
+                    continue
+                if o.get("type") == "user":
+                    cwd = o.get("cwd") or ""
+                    if cwd:
+                        return cwd
+    except OSError:
+        return None
+    return None
+
+
 def locate_transcript(session_id: str):
     base = Path.home() / ".claude" / "projects"
     if session_id:
@@ -75,24 +109,21 @@ def locate_transcript(session_id: str):
             cand = d / f"{session_id}.jsonl"
             if cand.exists():
                 return cand
-    # Fallback: newest transcript whose content carries this cwd (robust to the
-    # platform's opaque directory-name encoding for non-ASCII paths).
-    cwd_marker = f'"{Path.cwd()}"'
+    # Fallback: scan every transcript (not just the newest per directory) and
+    # match by the cwd on its first user message. Prefer the newest match.
+    target = os.path.realpath(str(Path.cwd()))
     best, best_mtime = None, 0.0
     for d in base.glob("*/"):
-        files = sorted(d.glob("*.jsonl"), key=lambda p: p.stat().st_mtime, reverse=True)
-        if not files:
-            continue
-        f = files[0]
-        mtime = f.stat().st_mtime
-        if mtime <= best_mtime:
-            continue
-        try:
-            head = f.read_text(encoding="utf-8", errors="ignore")[:200000]
-        except Exception:
-            continue
-        if cwd_marker in head:
-            best, best_mtime = f, mtime
+        for f in d.glob("*.jsonl"):
+            try:
+                mtime = f.stat().st_mtime
+            except OSError:
+                continue
+            if mtime <= best_mtime:
+                continue
+            cwd = first_user_cwd(f)
+            if cwd and os.path.realpath(cwd) == target:
+                best, best_mtime = f, mtime
     return best
 
 
