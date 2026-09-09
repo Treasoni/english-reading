@@ -329,7 +329,7 @@ According to Paragraph 3, one problem with the policy is that it may ____.
 As mentioned in Paragraph 4, a key question unanswered about homework is whether ____.
 
 - **A.** it should be eliminated
-- **B.** it counts much in schooling
+- **B.** it **counts** much in schooling
 - **C.** it places extra burdens on teachers
 - **D.** it is important for grades
 
