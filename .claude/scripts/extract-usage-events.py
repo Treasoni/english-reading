@@ -69,10 +69,11 @@ def user_text_of(o: dict) -> str:
     return ""
 
 
-def first_user_cwd(path: Path, limit_lines: int = 200) -> str:
+def first_user_cwd(path: Path, max_bytes: int = 1 << 20) -> str:
     """Return the cwd recorded on the first user message that carries one.
 
-    Uses json.loads, which decodes both raw UTF-8 and \\uXXXX-escaped JSON, so
+    Reads only a bounded leading chunk: the cwd always sits on an early user
+    line. json.loads decodes both raw UTF-8 and \\uXXXX-escaped JSON, so
     non-ASCII vault paths (Chinese folder names) match reliably. Directory names
     under ~/.claude/projects collapse non-ASCII segments to '-', so several
     Chinese-named folders share one encoded directory; the parsed cwd is the
@@ -80,26 +81,37 @@ def first_user_cwd(path: Path, limit_lines: int = 200) -> str:
     """
     try:
         with path.open(encoding="utf-8", errors="ignore") as fh:
-            for i, line in enumerate(fh):
-                if i >= limit_lines:
-                    break
-                line = line.strip()
-                if not line:
-                    continue
-                # Cheap pre-filter: only user lines can carry a cwd.
-                if '"type": "user"' not in line and '"type":"user"' not in line:
-                    continue
-                try:
-                    o = json.loads(line)
-                except Exception:
-                    continue
-                if o.get("type") == "user":
-                    cwd = o.get("cwd") or ""
-                    if cwd:
-                        return cwd
+            chunk = fh.read(max_bytes)
     except OSError:
         return None
+    for line in chunk.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        # Cheap pre-filter: only user lines can carry a cwd.
+        if '"type": "user"' not in line and '"type":"user"' not in line:
+            continue
+        try:
+            o = json.loads(line)
+        except Exception:
+            continue
+        if o.get("type") == "user":
+            cwd = o.get("cwd") or ""
+            if cwd:
+                return cwd
     return None
+
+
+def project_dir_name(cwd: str) -> str:
+    """Reproduce Claude Code's encoded project-folder name.
+
+    Non-ASCII path segments collapse to '-', so '/Users/x/Documents/考研英语阅读'
+    becomes '-Users-x-Documents-------'. Without this, sibling Chinese-named
+    folders are indistinguishable by directory name alone.
+    """
+    return "".join(
+        ch if (ch.isascii() and (ch.isalnum() or ch in "._-")) else "-" for ch in cwd
+    )
 
 
 def locate_transcript(session_id: str):
@@ -109,21 +121,24 @@ def locate_transcript(session_id: str):
             cand = d / f"{session_id}.jsonl"
             if cand.exists():
                 return cand
-    # Fallback: scan every transcript (not just the newest per directory) and
-    # match by the cwd on its first user message. Prefer the newest match.
+    # Fallback: scan only the project directory that encodes this cwd, and match
+    # by the cwd on each transcript's first user message. Prefer the newest.
     target = os.path.realpath(str(Path.cwd()))
+    encoded = project_dir_name(target)
+    project_dir = base / encoded
+    if not project_dir.is_dir():
+        return None
     best, best_mtime = None, 0.0
-    for d in base.glob("*/"):
-        for f in d.glob("*.jsonl"):
-            try:
-                mtime = f.stat().st_mtime
-            except OSError:
-                continue
-            if mtime <= best_mtime:
-                continue
-            cwd = first_user_cwd(f)
-            if cwd and os.path.realpath(cwd) == target:
-                best, best_mtime = f, mtime
+    for f in project_dir.glob("*.jsonl"):
+        try:
+            mtime = f.stat().st_mtime
+        except OSError:
+            continue
+        if mtime <= best_mtime:
+            continue
+        cwd = first_user_cwd(f)
+        if cwd and os.path.realpath(cwd) == target:
+            best, best_mtime = f, mtime
     return best
 
 

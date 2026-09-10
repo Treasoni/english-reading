@@ -50,7 +50,7 @@ stat -f "%Sm" -t "%Y-%m-%d" "<file>"
 
 **若存在 → 增量更新模式**：
 
-1. 读取 `语法总结笔记.md` 的 YAML frontmatter，提取 `processed_sources` 列表
+1. 只读 `语法总结笔记.md` 的 YAML frontmatter 提取 `processed_sources` 列表：`Read 语法总结笔记.md offset=0 limit=60`（或 `sed -n '1,60p'`），不要整读文件
 2. 将步骤 1 的源文件清单与 `processed_sources` 比对，将文件分为四类：
    - **unchanged**：路径相同且 `last_modified` 日期匹配 → 跳过
    - **new**：路径不在 `processed_sources` 中 → 需解析
@@ -63,7 +63,7 @@ stat -f "%Sm" -t "%Y-%m-%d" "<file>"
 
 对每个需处理的 grammar-notes.md：
 
-- 用 Read 读取完整内容
+- 用 Read 读取完整内容（grammar-notes.md 通常为单篇规模，可直接整读；若个别文件超大，同样用 `grep -n '^## \|^### '` 锚点后分区间读取）
 - 解析 YAML frontmatter，提取 `topic` 和 `concepts`
 - 去除 frontmatter，保留正文
 - 按 `###` 或 `##` 标题切分为独立语法区块，记录每个区块的：
@@ -214,10 +214,11 @@ categories:
 
 9a. 对标记为 new 和 modified 的源文件，执行步骤 2 的解析逻辑。
 
-9b. 读取已有 `语法总结笔记.md` 完整内容，解析其结构：
-- 读取 frontmatter（保留 `created`）
-- 识别各 `##` 类别和 `###` 子主题
-- 识别每个子主题下的已有表格行（按"结构"列）、callout 块、段落
+9b. 定向读取已有 `语法总结笔记.md`（约 220KB，**禁止整读**），解析其结构：
+- 只读 frontmatter：`Read 语法总结笔记.md offset=0 limit=60`（保留 `created`，读取 `processed_sources`）
+- 建全文大纲：`grep -n '^## \|^### ' 语法总结笔记.md`（仅约 150 行锚点，代价极低），得到每个类别/子主题的行号区间
+- 只对本次要合并的目标子主题读取其正文：子主题起点 S（grep 到的 `### ` 行号）、下一标题行号 E → `Read 语法总结笔记.md offset=S-1 limit=E-S`
+- `## 快速索引` 表位于文件头部，同样按行号区间读取后再更新
 
 9c. 对新解析的语法区块执行合并：
 
@@ -236,9 +237,9 @@ categories:
 
 9g. 报告变更摘要：新增/修改/移除的文件数，新增/更新的语法条目数。
 
-### 步骤 10：自我学习（可选）
+### 步骤 10：记录候选学习条目（不落盘）
 
-检查 `.learnings/` 目录。若执行中出现值得记录的合并问题或格式改进，追加到 `LEARNINGS.md`。无有意义内容则跳过。
+若执行中出现值得记录的合并问题或格式改进，仅在会话内记下候选条目，**不要中途写入 `.learnings/`**。学习心得统一由 `digest` 技能在用户明确要求时整理落盘，避免中途修改每次会话强制加载的经验库文件而破坏提示缓存前缀。无有意义内容则跳过。
 
 ## 输出格式
 
