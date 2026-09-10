@@ -79,8 +79,8 @@ Then it presents that connection, even among two-year-olds, between girls as not
 > | 类型 | 引导词 | 修饰对象/功能 |
 > |------|------|----------------|
 > | 介词短语 | between | 修饰 connection，说明是"女孩之间"的联系（被插入语隔开） |
-> | 插入语 | even among two-year-olds | 强调即使在两岁孩子身上也如此 |
-> | 介词短语 | as...as... | 作宾语补足语，说明把这一联系呈现为什么 |
+> | 插入状语 | even among two-year-olds | 强调即使在两岁孩子身上也如此 |
+> | 介词短语 | as（两处，并列） | 作宾语补足语，说明把这一联系呈现为什么 |
 > | 并列连词 | not only...but... | 连接 innocent 与 evidence of innocence |
 >
 > **结构图解**
@@ -147,7 +147,7 @@ Children were not **colour-coded** at all until the early 20th century: in the e
 >
 > **参考译文**：直到20世纪初，孩子们才被按颜色区分开来：在家用洗衣机出现之前的年代，出于实际考虑，所有婴儿都穿白色，因为把衣服洗净的唯一办法就是把它们煮沸。
 >
-> **考点提示**：`not...until` 译作"直到……才"，是考研翻译高频句式，不可译成"没有……直到"。冒号后是解释而非并列，翻译时可加"即"或"因为"。`the way of doing sth` 中动名词短语作后置定语，不要误判为修饰 clean 的介词短语。
+> **考点提示**：`not...until` 译作"直到……才"，是考研翻译高频句式，不可译成"没有……直到"。冒号后是解释而非并列，翻译时可加"即"或"因为"。`the way of doing sth` 中 `of + 动名词短语` 作后置定语修饰 way；其中 clean 是动名词 getting 的宾语补足语（get sth clean），不要误判为修饰 clothes 的形容词。
 
 What's more, both boys and girls wore what were thought of as **gender-neutral** dresses. When nursery colours were introduced, pink was actually considered ==the more masculine colour==, a **pastel** version of red, which was associated with strength. Blue, with its **intimations** of the Virgin Mary, **constancy** and faithfulness, **symbolised** femininity.
 
