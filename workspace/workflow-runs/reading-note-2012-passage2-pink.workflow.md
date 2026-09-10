@@ -8,8 +8,8 @@ task: "整合 2012 Passage 2 Pretty in Pink 主题英语精读笔记"
 created_from: ".codex/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-10"
 last_updated: "2026-09-10"
-current_phase: P8
-current_status: in_progress
+current_phase: done
+current_status: complete
 mode: guided
 blocked_reason: ""
 article_source: "intermediate/2012-passage2-pink/formatted-article.md"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：整合 2012 Passage 2 Pretty in Pink 主题英语精读笔记
 > 运行标识：reading-note-2012-passage2-pink
 > 创建时间：2026-09-10
-> 当前阶段：阶段 8
+> 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -130,7 +130,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已检查 Markdown 标题、YAML 和表格格式
 - [ ] 已向用户报告输出路径
 
-> [P8] 🔲 进行中 {in_progress}
+> [P8] ✅ 已完成 {complete}
 
 ---
 
@@ -145,7 +145,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
 - [ ] 已向用户报告两个根文件的更新内容
 
-> [P9] ⬜ 未开始 {not_started}
+> [P9] ✅ 已完成 {complete}
 
 ---
 
