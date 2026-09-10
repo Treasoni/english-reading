@@ -134,6 +134,21 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ---
 
+## 阶段 9：全局汇总
+
+- [ ] 已调用 `summarize-grammar`
+- [ ] 源发现已同时覆盖 `intermediate/**/grammar-notes.md` 与 `intermediate/**/固定搭配与词组笔记.md`
+- [ ] 已合并进根目录 `语法总结笔记.md`
+- [ ] 已合并进根目录 `固定搭配与词组笔记.md`
+- [ ] 已更新两个根文件的 frontmatter（updated / total_sources / processed_sources / categories）
+- [ ] 已更新两个根文件的快速索引表
+- [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
+- [ ] 已向用户报告两个根文件的更新内容
+
+> [P9] ⬜ 未开始 {not_started}
+
+---
+
 ## 异常记录
 
 | 时间 | 阶段 | 问题描述 | 处理方式 |
@@ -146,4 +161,5 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 - **中间目录**：`intermediate/{year}-passage{passage}-{topic}/`
 - **最终笔记**：`{output_path}`
+- **全局汇总**：`语法总结笔记.md`、`固定搭配与词组笔记.md`
 - **完成状态**：

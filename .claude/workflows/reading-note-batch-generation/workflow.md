@@ -106,14 +106,17 @@ Use this workflow when a user wants complete 考研英语阅读精读笔记 for 
 ## P7 全局汇总更新
 
 1. Start P7 from the batch state file.
-2. Update global notes only if the user requested it.
-3. Global notes are main-agent-only writes:
-   - `语法总结笔记.md`
-   - `固定搭配与词组笔记.md`
+2. Use `summarize-grammar`.
+3. Discover sources with both patterns, not just the first: `intermediate/**/grammar-notes.md` and `intermediate/**/固定搭配与词组笔记.md`.
+4. Global notes are main-agent-only writes:
+   - `语法总结笔记.md` — pure grammar
+   - `固定搭配与词组笔记.md` — collocations and sense distinctions
    - `阅读心得.md`
    - `单词辨析.md`
-4. If global updates are not requested, skip P7 with a reason.
-5. Complete P7 or skip it.
+5. Merging the batch's grammar and collocation sources into `语法总结笔记.md` and `固定搭配与词组笔记.md` is the default and must not be skipped silently. Skip a specific global note only when the user explicitly declined it, and record the reason in the state file.
+6. Run the coverage diff. For `语法总结笔记.md` the diff between the discovered source list and `processed_sources` must be empty; a non-empty diff means P7 is not complete. For `固定搭配与词组笔记.md` a non-empty diff is allowed only for sources that carry no collocations, and each such source must be named and justified in the report.
+7. Update `updated`, `total_sources`, `processed_sources`, `categories`, and the 快速索引 table in each updated global note.
+8. Complete P7, or skip it with a recorded reason when the user declined.
 
 ## P8 最终收尾
 

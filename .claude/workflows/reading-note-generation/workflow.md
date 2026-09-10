@@ -9,6 +9,7 @@ Use this workflow when a user wants a complete 考研英语阅读精读笔记 fr
 - Resume the first phase whose status is not complete or skipped.
 - Change phase state only with `.claude/scripts/todo-state.sh`.
 - Run `.claude/scripts/todo-state.sh <state-file> validate` before reporting workflow completion.
+- Do not report the workflow complete until P9 has merged this passage into the root summary notes.
 - Ask path and filename questions as plain text questions.
 - Do not proceed from P4 to P5 until the user confirms the long-sentence list.
 
@@ -32,7 +33,8 @@ Use this workflow when a user wants a complete 考研英语阅读精读笔记 fr
 | P5 | 长难句分析与内联插入 | inline callouts | analyze-sentence |
 | P6 | 综合笔记整合 | final study note | compile-note |
 | P7 | 生词表与练习 | vocabulary section and exercises | extract-vocabulary |
-| P8 | 最终验证与收尾 | completed workflow state | generate-reading-note |
+| P8 | 最终验证与收尾 | verified study note | generate-reading-note |
+| P9 | 全局汇总 | updated root summary notes | summarize-grammar |
 
 ## P0 输入收集与状态初始化
 
@@ -118,8 +120,19 @@ Use this workflow when a user wants a complete 考研英语阅读精读笔记 fr
 3. Verify the final study note no longer contains `<!-- VOCABULARY_SLOT -->`.
 4. Check Markdown heading spacing, simple YAML frontmatter, and blank lines before tables.
 5. Complete P8.
-6. Run `.claude/scripts/todo-state.sh <state-file> validate`.
-7. Report the intermediate directory, final output path, and any skipped or blocked phases.
+
+## P9 全局汇总
+
+1. Start P9 from the state file.
+2. Use `summarize-grammar`.
+3. Discover sources with both patterns, not just the first: `intermediate/**/grammar-notes.md` and `intermediate/**/固定搭配与词组笔记.md`.
+4. Merge this passage's grammar points into the root `语法总结笔记.md` and its fixed collocations into the root `固定搭配与词组笔记.md`. Keep pure grammar out of the collocation file and collocations out of the grammar file; cross-link the two files with wikilinks.
+5. Update both root files' frontmatter: `updated`, `total_sources`, `processed_sources`, and `categories`. Update each file's 快速索引 table so the index still matches the actual content.
+6. Run the coverage diff. For `语法总结笔记.md` the diff between the discovered source list and `processed_sources` must be empty; a non-empty diff means P9 is not complete. For `固定搭配与词组笔记.md` a non-empty diff is allowed only for sources that carry no collocations, and each such source must be named and justified in the completion report.
+7. Verify with `grep` that this passage's new headings exist in the target root file and that no table is missing the blank line before it.
+8. Complete P9.
+9. Run `.claude/scripts/todo-state.sh <state-file> validate`.
+10. Report the intermediate directory, final output path, both updated root summary files, and any skipped or blocked phases.
 
 ## Blocking Rules
 
@@ -129,3 +142,5 @@ Use this workflow when a user wants a complete 考研英语阅读精读笔记 fr
 - Unconfirmed long-sentence candidates block P4.
 - A sentence that cannot be located in `formatted-article.md` blocks P5 until the user clarifies.
 - Zero extracted vocabulary in P7 must be reported honestly; do not invent words.
+- A non-empty coverage diff for `语法总结笔记.md` in P9 blocks P9 until the missing sources are merged.
+- An unmerged root summary blocks workflow completion even when P0-P8 are all complete.
