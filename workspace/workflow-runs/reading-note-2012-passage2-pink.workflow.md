@@ -8,7 +8,7 @@ task: "整合 2012 Passage 2 Pretty in Pink 主题英语精读笔记"
 created_from: ".codex/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-10"
 last_updated: "2026-09-10"
-current_phase: P3
+current_phase: P8
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：整合 2012 Passage 2 Pretty in Pink 主题英语精读笔记
 > 运行标识：reading-note-2012-passage2-pink
 > 创建时间：2026-09-10
-> 当前阶段：阶段 3
+> 当前阶段：阶段 8
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -73,7 +73,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已核验语法笔记信息密度未丢失
 - [ ] 已加入必要的跨节联动复习
 
-> [P3] 🔲 进行中 {in_progress}
+> [P3] ✅ 已完成 {complete}
 
 ---
 
@@ -83,7 +83,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已说明每个候选句的分析价值
 - [ ] 已获得用户确认、删改或补充
 
-> [P4] ⬜ 未开始 {not_started}
+> [P4] ⏭️ 跳过 {skipped}
 
 ---
 
@@ -96,7 +96,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已确认 callout 内表格前有空行
 - [ ] 已检查后续段落没有异常开头
 
-> [P5] ⬜ 未开始 {not_started}
+> [P5] ⏭️ 跳过 {skipped}
 
 ---
 
@@ -107,7 +107,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已保留文章原文中的内联长难句分析
 - [ ] 已插入词汇占位符
 
-> [P6] ⬜ 未开始 {not_started}
+> [P6] ✅ 已完成 {complete}
 
 ---
 
@@ -118,7 +118,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `### 生词练习`
 - [ ] 已补充短语内重要独立词条
 
-> [P7] ⬜ 未开始 {not_started}
+> [P7] ✅ 已完成 {complete}
 
 ---
 
@@ -130,7 +130,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已检查 Markdown 标题、YAML 和表格格式
 - [ ] 已向用户报告输出路径
 
-> [P8] ⬜ 未开始 {not_started}
+> [P8] 🔲 进行中 {in_progress}
 
 ---
 
@@ -153,6 +153,8 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 | 时间 | 阶段 | 问题描述 | 处理方式 |
 |------|------|---------|---------|
+| 2026-09-10 17:38 | P5 | 跳过阶段：原文已包含完整的逐句内联长难句分析，本次直接保留。 | 继续推进到下一未完成阶段 |
+| 2026-09-10 17:38 | P4 | 跳过阶段：原文已包含 7 个长难句分析 callout，本次不重新进行候选确认。 | 继续推进到下一未完成阶段 |
 | 2026-09-10 17:36 | P2 | 跳过阶段：前置翻译文件已存在，本次从 compile-note 继续。 | 继续推进到下一未完成阶段 |
 | 2026-09-10 17:36 | P1 | 跳过阶段：前置排版文件已存在，本次从 compile-note 继续。 | 继续推进到下一未完成阶段 |
 | | | | |
