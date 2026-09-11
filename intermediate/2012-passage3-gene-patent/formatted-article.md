@@ -161,7 +161,7 @@ Despite the appeals court's decision, big questions remain unanswered. For examp
 
 The case may yet reach the Supreme Court.
 
-As the industry advances, however, other suits may have an even greater impact. Companies are unlikely to file many more patents for human DNA molecules—most are already patented or in the **public domain**. Firms are now studying how genes **interact**, looking for **correlations** that might be used to determine the causes of disease or predict a drug's **efficacy**. Companies are eager to win patents for “==connecting the dots==,” explains Hans Sauer, a lawyer for the BIO.
+As the industry advances, however, other **suits** may have an even greater impact. Companies are unlikely to file many more patents for human DNA molecules—most are already patented or in the **public domain**. Firms are now studying how genes **interact**, looking for **correlations** that might be used to determine the causes of disease or predict a drug's **efficacy**. Companies are eager to win patents for “==connecting the dots==,” explains Hans Sauer, a lawyer for the BIO.
 
 Their success may be determined by a suit related to this issue, brought by the Mayo Clinic, which the Supreme Court will hear in its next term.
 
