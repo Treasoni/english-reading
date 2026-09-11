@@ -39,10 +39,10 @@ On July 29th they were relieved, at least temporarily. A federal appeals court *
 > **结构图解**：
 > ```
 > 主句: A federal appeals court + overturned + the prior decision
->   ├── 非谓语: (ruling ...) → 结果状语
->   │     └── 宾从: (that Myriad Genetics could indeed hold patents to two genes)
->   │           └── 定从: (that help forecast a woman's risk of breast cancer) → 修饰 two genes
->   └── 介短: (to two genes) → 修饰 patents
+>   └── 非谓语: (ruling ...) → 结果状语
+>         └── 宾从: (that Myriad Genetics could indeed hold patents to two genes)
+>               ├── 介短: (to two genes) → 修饰 patents
+>               └── 定从: (that help forecast a woman's risk of breast cancer) → 修饰 two genes
 > ```
 >
 > **参考译文**：一家联邦上诉法院推翻了先前的裁决，判定迈里亚德基因公司（Myriad Genetics）确实可以持有两项基因的专利，这两项基因有助于预测女性患乳腺癌的风险。
@@ -68,7 +68,7 @@ But as companies continue their attempts at **personalised medicine**, the court
 > |------|--------|----------|
 > | 介词短语 | against | three main arguments |
 > | 同位解释 | 冒号 | three main arguments 的具体内容 |
-> | 状语从句（结果） | so | 分句一 a gene is a product of nature |
+> | 并列连词（结果） | so | 连接 a gene is a product of nature 与 it may not be patented |
 > | 并列比较 | rather than | suppress innovation 与 reward it |
 > | 同位举例 | such as | genetic tests |
 >
@@ -78,7 +78,7 @@ But as companies continue their attempts at **personalised medicine**, the court
 >   ├── 介短: (against gene patents) → 修饰 arguments
 >   └── 冒号解释: arguments 的三项内容
 >         ├── 分句一: a gene is a product of nature
->         │     └── 状从(结果): (so it may not be patented)
+>         │     └── 并列(结果): (so it may not be patented)
 >         ├── 分句二: gene patents suppress innovation
 >         │     └── 比较并列: (rather than reward it)
 >         └── 分句三: patents' monopolies restrict access to genetic tests
