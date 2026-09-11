@@ -482,7 +482,7 @@ But the researchers believe that **outside directors** have an easier time of av
 > - Sth **takes** up too much time.
 > - Sb **spends** time doing sth.
 
-相关复习：[[#固定搭配：一、两词核心对比（take up vs spend）|take up vs spend]]、[[#非谓语动词：spend time (in) doing|spend time (in) doing]]。
+相关复习：[[2011-passage1-精读笔记#固定搭配：一、两词核心对比（take up vs spend）|take up vs spend]]、[[2011-passage1-精读笔记#非谓语动词：spend time (in) doing|spend time (in) doing]]。
 
 ---
 
@@ -505,7 +505,7 @@ But the researchers believe that **outside directors** have an easier time of av
 |------|------|------|
 | **Sb spends time (in) doing sth.** | 人主动投入时间做某事 | He **spent** two hours **playing** basketball.（他花了两个小时打篮球。） |
 
-相关复习：[[#固定搭配：一、两词核心对比（take up vs spend）|take up vs spend]]。
+相关复习：[[2011-passage1-精读笔记#固定搭配：一、两词核心对比（take up vs spend）|take up vs spend]]。
 
 ---
 
@@ -522,7 +522,7 @@ But the researchers believe that **outside directors** have an easier time of av
 | **take** | It（形式主语）/ 事物 | 时间 | **It takes** sb some time to do sth.<br>Sth **takes** (sb) time. |
 | **cost** | 事物 | 金钱 / 代价 | Sth **costs** sb some money / a fortune. |
 
-相关复习：[[#固定搭配：一、两词核心对比（take up vs spend）|take up vs spend]]、[[#语态：cost 的限制|cost 的语态限制]]。
+相关复习：[[2011-passage1-精读笔记#固定搭配：一、两词核心对比（take up vs spend）|take up vs spend]]、[[2011-passage1-精读笔记#语态：cost 的限制|cost 的语态限制]]。
 
 ---
 
@@ -539,7 +539,7 @@ But the researchers believe that **outside directors** have an easier time of av
 > [!warning] 💡 **避坑提示：**
 > cost 极少花时间，且**绝无被动语态**。
 
-相关复习：[[#固定搭配：二、英语四大“花费”全家桶对比表|四大“花费”句型]]。
+相关复习：[[2011-passage1-精读笔记#固定搭配：二、英语四大“花费”全家桶对比表|四大“花费”句型]]。
 
 ---
 
@@ -682,8 +682,8 @@ flowchart LR
 
 ### 推荐复习方向
 
-- 结合 [[语法总结笔记]] 复习非谓语动词、动名词复合结构和多层从句。
-- 结合 [[固定搭配与词组笔记]] 复习 `under fire for`、`take up`、`trade up`、`create incentives` 等表达。
+- 结合 [[../语法总结笔记]] 复习非谓语动词、动名词复合结构和多层从句。
+- 结合 [[../固定搭配与词组笔记]] 复习 `under fire for`、`take up`、`trade up`、`create incentives` 等表达。
 - 回看同类公司治理主题文章，训练“数据证据 + 作者限定”的阅读方法。
 
 
@@ -729,8 +729,8 @@ flowchart LR
 
 ## 相关笔记
 
-- [[语法总结笔记]]
-- [[固定搭配与词组笔记]]
-- [[阅读心得]]
+- [[../语法总结笔记]]
+- [[../固定搭配与词组笔记]]
+- [[../阅读心得]]
 - [[长难句分析方法]]
 

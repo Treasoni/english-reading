@@ -448,7 +448,12 @@ class WorkflowState:
                 "P5", formatted_article, "> [!abstract]- 长难句分析"
             )
         if self.phase_status_for("P6") == "complete":
-            self.require_file_contains("P6", final_note, "<!-- VOCABULARY_SLOT -->")
+            # P7 intentionally replaces the P6 vocabulary slot with the final
+            # vocabulary section. Do not re-validate the pre-P7 placeholder
+            # once vocabulary extraction has started.
+            p7_status = self.phase_status_for("P7")
+            if p7_status == "not_started":
+                self.require_file_contains("P6", final_note, "<!-- VOCABULARY_SLOT -->")
         if self.phase_status_for("P7") == "complete":
             self.require_file_not_contains("P7", final_note, "<!-- VOCABULARY_SLOT -->")
             self.require_file_contains("P7", final_note, "## 生词表")
