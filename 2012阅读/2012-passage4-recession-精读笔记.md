@@ -558,7 +558,9 @@ In the Internet age, it is particularly easy to see the **resentment** that has 
 
 | 词汇 | 词性 | 含义 | 原文例句 |
 |------|------|------|----------|
+| **anti-immigrant** | adj. | 反移民的 | **Anti-immigrant** sentiment typically increases. |
 | **anti-immigrant sentiment** | n. | 反移民情绪 | **Anti-immigrant sentiment** typically increases, as does conflict between races and classes. |
+| **chance** | n. | 机会；可能性 | Not all people graduating into a recession see their life **chances** dimmed. |
 | **character** | n. | 性格；特质 | It will likely change the life course and **character** of a generation of young adults. |
 | **class divide** | n. | 阶级鸿沟 | This period of economic weakness may reinforce **class divides**. |
 | **conflict** | n. | 冲突 | Anti-immigrant sentiment typically increases, as does **conflict** between races and classes. |
@@ -568,13 +570,18 @@ In the Internet age, it is particularly easy to see the **resentment** that has 
 | 词汇 | 词性 | 含义 | 原文例句 |
 |------|------|------|----------|
 | **discerning** | v./gerund | 辨别；识别 | More difficult, in the moment, is **discerning** precisely how these lean times are affecting society's character. |
+| **economic stagnation** | n. | 经济停滞 | Lengthy periods of **economic stagnation** or decline have almost always left society more mean-spirited. |
 | **elite university** | n. | 名牌大学；精英大学 | Those with degrees from **elite universities** catch up fairly quickly to where they otherwise would have been. |
+| **fabric** | n. | 结构；纽带 | We will have to wait and see exactly how these hard times will reshape our social **fabric**. |
 | **financially prudent** | adj. | 财务上审慎的 | They had become less materialistic and more **financially prudent**. |
+| **great recession** | n. | 大衰退；严重经济衰退 | The **great recession** may be over, but this era of high joblessness is probably beginning. |
+| **high joblessness** | n. | 高失业率 | This era of **high joblessness** is probably beginning. |
 | **inclusive** | adj. | 包容的 | Lengthy periods of economic stagnation or decline have almost always left society less **inclusive**. |
 | **income inequality** | n. | 收入不平等 | **Income inequality** usually falls during a recession, but it has not shrunk in this one. |
 | **joblessness** | n. | 失业；无工作状态 | This era of high **joblessness** is probably beginning. |
 | **lean times** | n. | 经济困难时期；艰难岁月 | More difficult, in the moment, is discerning precisely how these **lean times** are affecting society's character. |
 | **life chances** | n. | 人生机会；发展前景 | Not all people graduating into a recession see their **life chances** dimmed. |
+| **life course** | n. | 生命历程；人生轨迹 | It will likely change the **life course** and character of a generation of young adults. |
 
 ### M-R
 
@@ -584,12 +591,12 @@ In the Internet age, it is particularly easy to see the **resentment** that has 
 | **mean-spirited** | adj. | 刻薄的；心胸狭隘的 | Lengthy periods of economic stagnation or decline have almost always left society more **mean-spirited**. |
 | **prudent** | adj. | 审慎的；谨慎的 | They had become less materialistic and more financially **prudent**. |
 | **recession** | n. | 经济衰退 | The great **recession** may be over, but this era of high joblessness is probably beginning. |
+| **reckless** | adj. | 鲁莽的；不计后果的 | It has put a necessary end to an era of **reckless** personal spending. |
 | **reinforce** | v. | 加强；巩固 | This period of economic weakness may **reinforce** class divides. |
 | **resentment** | n. | 怨恨；愤懑 | In the Internet age, it is particularly easy to see the **resentment** that has always been hidden within American society. |
 | **reshape** | v. | 重塑；重新塑造 | It is likely to **reshape** our politics, our culture, and the character of our society for years. |
-| **reckless** | adj. | 鲁莽的；不计后果的 | It has put a necessary end to an era of **reckless** personal spending. |
 
-### S
+### S-W
 
 | 词汇 | 词性 | 含义 | 原文例句 |
 |------|------|------|----------|
@@ -598,6 +605,7 @@ In the Internet age, it is particularly easy to see the **resentment** that has 
 | **social fabric** | n. | 社会结构；社会纽带 | We will have to wait and see exactly how these hard times will reshape our **social fabric**. |
 | **socially tolerant** | adj. | 社会宽容的 | The U.S. was more **socially tolerant** entering this recession than at any time in its history. |
 | **stagnation** | n. | 停滞；萧条 | Lengthy periods of economic **stagnation** or decline have almost always left society more mean-spirited. |
+| **well-off** | adj. | 富裕的；境况良好的 | `better off` is the comparative form of **well-off**. |
 
 ### 生词练习
 
@@ -605,7 +613,7 @@ In the Internet age, it is particularly easy to see the **resentment** that has 
 
 从方框中选择合适的词汇填入空白处（每词限用一次）：
 
-> reshape / inclusive / joblessness / reinforce / resentment / prudent / stagnation / reckless / discerning / social fabric
+> stagnation / inclusive / joblessness / resentment / prudent / reinforce / discerning / reckless / reshape / social fabric
 
 1. A prolonged period of economic ________ can weaken public confidence and reduce social mobility.
 2. The new policy aims to make the workplace more ________ of people from different backgrounds.
@@ -635,12 +643,12 @@ In the Internet age, it is particularly easy to see the **resentment** that has 
 将下列短语翻译成中文：
 
 1. find silver linings in an economic disaster
-2. be better off
+2. be better off doing sth
 3. reinforce class divides
 
 > [!abstract]- 答案
 > 1. **find silver linings in an economic disaster** = 在经济灾难中寻找一线希望
-> 2. **be better off** = 境况更好；处境更优
+> 2. **be better off doing sth** = 做某事会更好、更明智
 > 3. **reinforce class divides** = 加剧／强化阶级鸿沟
 
 **三、语境理解**
@@ -659,17 +667,16 @@ In the Internet age, it is particularly easy to see the **resentment** that has 
    - C. 社会人口减少的时期
    - D. 人们饮食习惯改变的时期
 
-3. “it is **the masses beneath them** that are left behind” 中 **left behind** 最接近：
+3. “it is **the masses beneath them that are left behind**” 中 **left behind** 最接近：
    - A. 被留下、在发展中落后
    - B. 被邀请参与竞争
    - C. 被安排到更好的职位
    - D. 被提前送回学校
 
 > [!abstract]- 答案
-> 1. **B** — `silver linings` 来自 “Every cloud has a silver lining”，指困难中的光明面。
+> 1. **B** — `silver linings` 指困难中的光明面。
 > 2. **B** — `lean times` 指经济不景气、资源紧张的艰难时期。
-> 3. **A** — 结合上下文，普通大众无法像名校毕业生那样迅速恢复到原本应有的水平。
-
+> 3. **A** — 普通大众无法像名校毕业生那样迅速恢复到原本应有的水平。
 ## 心得
 
 > [!tip] 主旨把握
