@@ -31,7 +31,7 @@ No one tries harder than the jobless ==to find silver linings== in this national
 > | 类型 | 引导词 | 修饰对象 |
 > |------|--------|----------|
 > | 宾语从句 | that | said 的宾语 |
-> | 让步状语从句（省略 it was） | while | 宾语从句主语 unemployment |
+> | 让步状语从句（省略 it was） | while | 宾语从句谓语 had improved（省略主语 it，指 unemployment） |
 > | 介词短语 | in some ways | 宾语从句谓语 had improved，作方式状语 |
 > | 冒号解释分句 | : | 说明宾语从句"改善在哪些方面" |
 > | 并列分句 | ; | 与冒号后第一分句并列 |
@@ -41,7 +41,7 @@ No one tries harder than the jobless ==to find silver linings== in this national
 > ```
 > 主句: Many + said + [that 宾从]
 >   └── 宾从: unemployment (while 让步) + had improved + them + (in some ways)
->         ├── 让步状从(省略): (while extremely painful) → 修饰 unemployment
+>         ├── 让步状从(省略): (while extremely painful) → 修饰 had improved（省略主语 it = unemployment）
 >         ├── 介短: (in some ways) → 方式状语
 >         └── 冒号解释（两个并列分句，说明"改善在哪些方面"）
 >               ├── 分句1: they + had become + less materialistic and more financially prudent
@@ -232,7 +232,7 @@ But for the most part, these benefits seem thin, uncertain, and far off. In *The
 >
 > **参考译文**：那些拥有名校学位的人能相当快地追上他们在经济景气时毕业本应达到的位置。
 >
-> **考点提示**：介词 to 后接 where 引导的宾语从句（catch up to where ...），此处 where 不是定语从句的引导词——判断依据是从句中缺少的是"位置"这一名词性成分，而非先行词；if they had graduated in better times 为与过去事实相反的虚拟条件句，主句用 would have been；otherwise 在此替代了整个条件句（otherwise = if they had not graduated in a recession），考研常考"otherwise 隐含虚拟"。
+> **考点提示**：介词 to 后接 where 引导的宾语从句（catch up to where ...），此处 where 不是定语从句的引导词——判断依据是句中没有可被 where 修饰的先行词名词，where 在此相当于 the place in which，整个从句作介词 to 的宾语；if they had graduated in better times 为与过去事实相反的虚拟条件句，主句用 would have been；otherwise 在此替代了整个条件句（otherwise = if they had not graduated in a recession），考研常考"otherwise 隐含虚拟"。
 
 In the Internet age, it is particularly easy to see the **resentment** that has always been hidden within American society. More difficult, in the moment, is **discerning** precisely how these **lean times** are affecting society's character. In many respects, the U.S. was more **socially tolerant** entering this recession than at any time in its history, and a variety of national polls on social conflict since then have shown mixed results. We will have to wait and see exactly how these hard times will reshape our **social fabric**. But they certainly will reshape it, and ==all the more so the longer they extend==.
 
