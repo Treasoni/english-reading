@@ -89,7 +89,7 @@ No one tries harder than the jobless ==to find silver linings== in this national
 >
 > **考点提示**：并列谓语的识别——and 后的 put 之前省略了 has，判断依据是 and 前后属于同一时态结构（现在完成时）；两个固定搭配 awake sb from sth（把某人从……中唤醒）与 put an end to sth（终结……）是本题的词汇考点。
 
-But for the most part, these benefits seem thin, uncertain, and far off. In *The Moral Consequences of Economic Growth*, the economic historian Benjamin Friedman argues that both inside and outside the U.S., lengthy periods of economic **stagnation** or decline have almost always left society more **mean-spirited** and less **inclusive**, and have usually stopped or reversed the advance of rights and freedoms. **Anti-immigrant sentiment** typically increases, as does conflict between races and classes.
+But for the most part, these benefits seem thin, uncertain, and far off. In *The Moral Consequences of Economic Growth*, the economic historian Benjamin Friedman argues that both inside and outside the U.S., **lengthy** periods of economic **stagnation** or decline have almost always left society more **mean-spirited** and less **inclusive**, and have usually stopped or reversed the advance of rights and freedoms. **Anti-immigrant sentiment** typically increases, as does conflict between races and classes.
 
 > [!abstract]- 长难句分析
 > **原句**：In The Moral Consequences of Economic Growth, the economic historian Benjamin Friedman argues that both inside and outside the U.S., lengthy periods of economic stagnation or decline have almost always left society more mean-spirited and less inclusive, and have usually stopped or reversed the advance of rights and freedoms.
