@@ -13,7 +13,7 @@ sources:
 
 # Average Is Over
 
-In an essay entitled "Making It in America," the author Adam Davidson relates a joke from **cotton** country about just how much a modern textile mill has been automated: The average mill has only two employees today, "a man and a dog. The man is there to feed the dog, and the dog is there to keep the man away from the machines."
+In an essay entitled "Making It in America," the author Adam Davidson relates a joke from **cotton** country about just how much a modern textile **mill** has been automated: The average mill has only two employees today, "a man and a dog. The man is there to feed the dog, and the dog is there to keep the man away from the machines."
 
 > [!abstract]- 长难句分析
 > **原句**：In an essay entitled "Making It in America," the author Adam Davidson relates a joke from cotton country about just how much a modern textile mill has been automated: The average mill has only two employees today, "a man and a dog. The man is there to feed the dog, and the dog is there to keep the man away from the machines."
@@ -33,7 +33,7 @@ In an essay entitled "Making It in America," the author Adam Davidson relates a 
 > | 介短 | from | joke（笑话的来源） |
 > | 介短 | about | joke（笑话的内容） |
 > | 名从（宾语从句） | how much | 作 about 的宾语（自动化程度） |
-> | 同位语从句 | 冒号 + that 省略 | a joke（冒号后整句即笑话内容） |
+> | 同位语从句 | 冒号 | a joke（冒号后整句即笑话内容） |
 > | 并列句 | and | 两个 is there to... 结构 |
 >
 > **结构图解**：
@@ -172,7 +172,7 @@ As Davidson notes, "In the 10 years ending in 2009, [U.S.] factories shed worker
 >
 > **主干提取**：
 >
-> - 引导语: As Davidson notes（正如戴维森所指出的）— 定语从句作状语
+> - 引导语: As Davidson notes（正如戴维森所指出的）— as 引导非限制性定语从句（as 为关系代词，指代整个引语），整个从句作状语
 > - 主干（引语内）: [U.S.] factories（主语）+ shed（谓语）+ workers（宾语）
 > - 结果状语: so fast that...（如此之快，以至于……）
 > - 并列句 2: roughly one out of every three manufacturing jobs ... disappeared
@@ -181,17 +181,16 @@ As Davidson notes, "In the 10 years ending in 2009, [U.S.] factories shed worker
 >
 > | 类型 | 引导词 | 修饰对象 |
 > |------|--------|----------|
-> | 定从（as） | as | 整个主句（作状语，表"正如……"） |
+> | 定从（非限制性） | as（关系代词） | 整个主句（作状语，表"正如……"） |
 > | 非谓语（现在分词） | ending | the 10 years（截至 2009 年的十年） |
 > | 结果状从 | so...that | workers shed 的速度（so fast 的程度） |
 > | 同位语 | 破折号 about 6 million in total | one out of every three manufacturing jobs |
-> | 介短 | of | all the gains |
-> | 定从（省略 that） | the previous 70 years | the gains（前 70 年的增长） |
+> | 介短 | of | all the gains（前 70 年的全部增长） |
 >
 > **结构图解**：
 >
 > ```
-> 引导: As Davidson notes （相当于 as 引导的方式状语从句）
+> 引导: As Davidson notes （as 为关系代词，引导非限制性定语从句，指代整个引语，整个从句作状语）
 >   └── 引语主干: [U.S.] factories + shed + workers + so fast
 >         ├── 非谓语: (ending in 2009) → 修饰 the 10 years
 >         └── 结果状从: (that they erased almost all the gains ...)
@@ -237,7 +236,7 @@ There will always be changed—new jobs, new products, new services. But the one
 >
 > **参考译文**：但有一点我们可以确定：随着全球化和信息技术革命的每一次推进，最好的工作都将要求劳动者接受更多、更好的教育，从而让自己高于平均水平。
 >
-> **考点提示**：`the one thing we know for sure` 中省略了关系代词 that（先行词被 the one 限定时常见省略），此为"定语从句的省略"考点。with each advance... 是"随着……"的伴随状语，与主干构成条件—结果关系。末句 to make themselves above average 的逻辑主语是 workers（使工人自己高于平均水平），不是修饰 jobs。
+> **考点提示**：`the one thing we know for sure` 中省略了关系代词 that（that 在从句中作 know 的宾语，故可省略），此为"定语从句的省略"考点。with each advance... 是"随着……"的伴随状语，与主干构成条件—结果关系。末句 to make themselves above average 的逻辑主语是 workers（使工人自己高于平均水平），不是修饰 jobs。
 
 In a world where average is officially over, there are many things we need to do to support employment, but nothing would be more important than passing some kind of G. I. Bill for the 21st century that ensures that every American has access to **post-high school education**.
 
