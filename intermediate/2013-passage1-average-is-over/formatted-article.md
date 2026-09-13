@@ -53,7 +53,7 @@ In an essay entitled "Making It in America," the author Adam Davidson relates a 
 >
 > **考点提示**：冒号在此起解释说明作用，冒号之后的内容就是前面 the joke 的同位语从句。第 1 段首句常用于"例证/引言题"，问"这个笑话说明了什么"时，答案往往指向冒号后那句话的核心——自动化程度之高，而非笑话本身。
 
-Davidson's article is one of a number of pieces that have recently appeared making the point that the reason we have such **stubbornly high unemployment** and **declining middle-class incomes** today is largely because of the big drop in demand because of the Great Recession, but it is also because of the advances in both **globalization** and the **information technology revolution**, which are more rapidly than ever replacing labor with machines or foreign workers.
+Davidson's article is one of a number of **pieces** that have recently appeared making the point that the reason we have such **stubbornly high unemployment** and **declining middle-class incomes** today is largely because of the big drop in demand because of the Great Recession, but it is also because of the advances in both **globalization** and the **information technology revolution**, which are more rapidly than ever replacing labor with machines or foreign workers.
 
 > [!abstract]- 长难句分析
 > **原句**：Davidson's article is one of a number of pieces that have recently appeared making the point that the reason we have such stubbornly high unemployment and declining middle-class incomes today is largely because of the big drop in demand because of the Great Recession, but it is also because of the advances in both globalization and the information technology revolution, which are more rapidly than ever replacing labor with machines or foreign workers.
