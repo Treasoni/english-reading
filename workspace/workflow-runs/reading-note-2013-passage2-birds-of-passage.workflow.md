@@ -8,8 +8,8 @@ task: "生成 2013-passage2-birds-of-passage 综合精读笔记并放入 2013阅
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-15"
 last_updated: "2026-09-15"
-current_phase: P6
-current_status: ready
+current_phase: P9
+current_status: in_progress
 mode: guided
 blocked_reason: ""
 article_source: "intermediate/2013-passage2-birds-of-passage/formatted-article.md"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2013-passage2-birds-of-passage 综合精读笔记并放入 2013阅读
 > 运行标识：reading-note-2013-passage2-birds-of-passage
 > 创建时间：2026-09-15
-> 当前阶段：阶段 6
+> 当前阶段：阶段 9
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -68,12 +68,12 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 3：语法整理
 
-- [ ] 已调用 `organize-grammar`
-- [ ] 已生成或更新 `grammar-notes.md`
-- [ ] 已核验语法笔记信息密度未丢失
-- [ ] 已加入必要的跨节联动复习
+- [x] 已调用 `organize-grammar`
+- [x] 已生成或更新 `grammar-notes.md`
+- [x] 已核验语法笔记信息密度未丢失
+- [x] 已加入必要的跨节联动复习
 
-> [P3] ⏭️ 跳过 {skipped}
+> [P3] ✅ 已完成 {complete}
 
 ---
 
@@ -102,35 +102,35 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 6：综合笔记整合
 
-- [ ] 已调用 `compile-note`
-- [ ] 已使用用户确认的最终输出路径
-- [ ] 已保留文章原文中的内联长难句分析
-- [ ] 已插入词汇占位符
+- [x] 已调用 `compile-note`
+- [x] 已使用用户确认的最终输出路径
+- [x] 已保留文章原文中的内联长难句分析
+- [x] 已插入词汇占位符
 
-> [P6] ⬜ 未开始 {not_started}
+> [P6] ✅ 已完成 {complete}
 
 ---
 
 ## 阶段 7：生词表与练习
 
-- [ ] 已调用 `extract-vocabulary`
-- [ ] 已生成或更新 `## 生词表`
-- [ ] 已生成或更新 `### 生词练习`
-- [ ] 已补充短语内重要独立词条
+- [x] 已调用 `extract-vocabulary`
+- [x] 已生成或更新 `## 生词表`
+- [x] 已生成或更新 `### 生词练习`
+- [x] 已补充短语内重要独立词条
 
-> [P7] ⬜ 未开始 {not_started}
+> [P7] ✅ 已完成 {complete}
 
 ---
 
 ## 阶段 8：最终验证与收尾
 
-- [ ] 已确认所有中间文件存在
-- [ ] 已确认最终精读笔记存在
-- [ ] 已确认最终笔记不含词汇占位符
-- [ ] 已检查 Markdown 标题、YAML 和表格格式
-- [ ] 已向用户报告输出路径
+- [x] 已确认所有中间文件存在
+- [x] 已确认最终精读笔记存在
+- [x] 已确认最终笔记不含词汇占位符
+- [x] 已检查 Markdown 标题、YAML 和表格格式
+- [x] 已向用户报告输出路径
 
-> [P8] ⬜ 未开始 {not_started}
+> [P8] ✅ 已完成 {complete}
 
 ---
 
@@ -145,7 +145,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
 - [ ] 已向用户报告两个根文件的更新内容
 
-> [P9] ⬜ 未开始 {not_started}
+> [P9] 🔲 进行中 {in_progress}
 
 ---
 
@@ -153,7 +153,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 | 时间 | 阶段 | 问题描述 | 处理方式 |
 |------|------|---------|---------|
-| 2026-09-15 12:12 | P3 | 跳过阶段：用户指令为 analyze-sentence，本轮跳过语法整理，可后续回补 | 继续推进到下一未完成阶段 |
+| 2026-09-15 | P3 | 曾按用户指令跳过语法整理，用户随后要求回补。 | 用户提供 passage_2_语法.md，已产出 grammar-notes.md 与 固定搭配与词组笔记.md，P3 恢复为已完成 |
 | 2026-09-15 | P1 | P1 排版在状态文件创建前已完成（本会话先调用 `/format-article`）。 | 补建状态文件后回溯标记 P1 完成 |
 
 ---
