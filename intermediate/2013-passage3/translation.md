@@ -17,14 +17,14 @@ sources:
 
 ## 文章原文
 
-Scientists have found that although we are **prone** to **snap** overreactions, if we take a moment and think about how we are likely to react, we can reduce or even eliminate the negative effects of our quick, hard-wired responses.
+Scientists have found that although we are **prone** to **snap** overreactions, if we take a moment and think about how we are likely to react, we can reduce or even eliminate the negative effects of our quick, **hard-wired** responses.
 
 科学家们发现，尽管我们容易作出瞬间的过度反应，但如果我们稍作停顿，想一想自己可能会如何反应，就能减轻甚至消除这种快速、本能的反应所带来的负面影响。
 
 > [!note] 翻译说明
 > **be prone to** 意为“易于……的、有……倾向的”，后接名词或动名词，不可译成“倾向于做某事”之外的引申义；**snap** 本义“咔嚓一声、猝然的”，此处修饰 overreactions 表“瞬间的、不假思索的”；**hard-wired** 原指硬件“硬接线的”，引申为“天生的、本能的、刻在骨子里的”，是本文核心比喻，与后文 mute（抑制）形成对照。
 
-Snap decisions can be important defense mechanisms; if we are judging whether someone is dangerous, our brains and bodies are hard-wired to react very quickly, within milliseconds. But we need more time to assess other factors. To accurately tell whether someone is sociable, studies show, we need at least a minute, preferably five. It takes a while to judge complex aspects of personality, like neuroticism or open-mindedness.
+Snap decisions can be important defense **mechanisms**; if we are judging whether someone is dangerous, our brains and bodies are hard-wired to react very quickly, within milliseconds. But we need more time to assess other factors. To accurately tell whether someone is sociable, studies show, we need at least a minute, preferably five. It takes a while to judge complex aspects of personality, like neuroticism or open-mindedness.
 
 瞬间决策可以是重要的防御机制；如果我们在判断某人是否有危险，我们的大脑和身体会本能地在几毫秒之内迅速作出反应。但要评估其他因素，我们则需要更多时间。研究表明，要准确判断一个人是否善于社交，我们至少需要一分钟，最好是五分钟。判断性格中复杂的方面——比如神经质或思想开明程度——是需要花些时间的。
 

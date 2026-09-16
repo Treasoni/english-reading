@@ -13,7 +13,7 @@ sources:
 
 # 2013 Passage 3
 
-Scientists have found that although we are **prone** to **snap** overreactions, if we take a moment and think about how we are likely to react, we can reduce or even eliminate the negative effects of our quick, hard-wired responses.
+Scientists have found that although we are **prone** to **snap** overreactions, if we take a moment and think about how we are likely to react, we can reduce or even eliminate the negative effects of our quick, **hard-wired** responses.
 
 > [!abstract]- 长难句分析
 > **原句**：Scientists have found that although we are prone to snap overreactions, if we take a moment and think about how we are likely to react, we can reduce or even eliminate the negative effects of our quick, hard-wired responses.
@@ -52,7 +52,7 @@ Scientists have found that although we are **prone** to **snap** overreactions, 
 >
 > **考点提示**：宾语从句内部"先让步、再条件、主句最后出现"，是考研长难句最典型的"主句后置"结构——阅读时应先跳过 although / if 两个从句，直接锁定从句主干 we can reduce or even eliminate the negative effects；另需注意 be prone to 中的 to 是介词（后接名词），不可误判为不定式符号。
 
-Snap decisions can be important defense mechanisms; if we are judging whether someone is dangerous, our brains and bodies are hard-wired to react very quickly, within milliseconds. But we need more time to assess other factors. To accurately tell whether someone is sociable, studies show, we need at least a minute, preferably five. It takes a while to judge complex aspects of personality, like neuroticism or open-mindedness.
+Snap decisions can be important defense **mechanisms**; if we are judging whether someone is dangerous, our brains and bodies are hard-wired to react very quickly, within milliseconds. But we need more time to assess other factors. To accurately tell whether someone is sociable, studies show, we need at least a minute, **preferably** five. It takes a while to judge complex aspects of personality, like neuroticism or open-mindedness.
 
 But snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm. Psychologists at the University of Toronto found that viewing a fast-food logo for just a few milliseconds primes us to read 20 percent faster, even though reading has little to do with eating. We unconsciously associate fast food with speed and impatience and carry those impulses into whatever else we're doing. Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long.
 
@@ -113,9 +113,9 @@ Yet we can reverse such influences. If we know we will overreact to consumer pro
 > | 状从（条件） | if | 主句 we can take a moment |
 > | 名从（宾语从句，省略 that） | — | 作 know 的宾语 |
 > | 状从（时间） | when | 宾语从句谓语 will overreact |
-> | 插入语（同位语） | 括号 | 说明"看见笑脸就反应过度"这一现象的原因 |
+> | 插入语（同位语） | 括号 | 说明优秀销售代表和房地产经纪人总是面带微笑的原因（即顾客看到笑脸容易反应过度） |
 > | 定从（省略 that） | — | one reason |
-> | 非谓语（动名词） | before + buying | 逻辑主语与主句主语 we 一致 |
+> | 介词 + 动名词 | before + buying | 逻辑主语与主句主语 we 一致 |
 > | 介短 | to（overreact to） | 与 overreact 搭配，引出反应对象 |
 >
 > **结构图解**：
@@ -126,19 +126,19 @@ Yet we can reverse such influences. If we know we will overreact to consumer pro
 >   │     └── 宾语从句: (that) we will overreact to consumer products or housing options  ← that 省略
 >   │           ├── 介短: (to consumer products or housing options) → 与 overreact 搭配
 >   │           └── 时间状语从句: (when we see a happy face)
->   │                 └── 插入语: (one reason ...) → 解释该现象的原因
+>   │                 └── 插入语: (one reason ...) → 说明销售代表和经纪人总是面带微笑的原因
 >   │                       └── 定语从句: (that) good sales representatives ... are always smiling  ← that 省略
 >   └── 时间状语: (before buying) → 修饰 take a moment
 > ```
 >
 > **参考译文**：如果我们知道自己看到笑脸时会对消费品或住房选择反应过度（这正是优秀销售代表和房地产经纪人总是面带微笑的原因之一），我们就可以在购买之前稍作停顿。
 >
-> **考点提示**：本句在条件状语从句内连续省略两处 that（know 后的宾语从句、one reason 后的定语从句），是考研高频的"省略 that 的识别"考点；括号内容为插入语，阅读时应先跳过、锁定主干 If we know ..., we can take a moment；before buying 是"连词 + 动名词"，其逻辑主语与主句主语 we 一致。
+> **考点提示**：本句在条件状语从句内连续省略两处 that（know 后的宾语从句、one reason 后的定语从句），是考研高频的"省略 that 的识别"考点；括号内容为插入语，阅读时应先跳过、锁定主干 If we know ..., we can take a moment；before buying 是"介词 + 动名词"，其逻辑主语与主句主语 we 一致（若按连词分析，buying 则视为现在分词，考研资料两说并存，本笔记统一按介词处理）。
 
 John Gottman, the marriage expert, explains that we quickly “thin slice” information reliably only after we ground such snap reactions in “thick sliced” long-term study. When Dr. Gottman really wants to assess whether a couple will stay together, he invites them to his island retreat for a much longer evaluation: two days, not two seconds.
 
 > [!abstract]- 长难句分析
-> **原句**：John Gottman, the marriage expert, explains that we quickly "thin slice" information reliably only after we ground such snap reactions in "thick sliced" long-term study.
+> **原句**：John Gottman, the marriage expert, explains that we quickly “thin slice” information reliably only after we ground such snap reactions in “thick sliced” long-term study.
 >
 > **主干提取**：
 >
@@ -172,7 +172,7 @@ John Gottman, the marriage expert, explains that we quickly “thin slice” inf
 >
 > **参考译文**：婚姻专家约翰·戈特曼解释说，只有当我们把这种瞬间反应建立在"厚切片"式的长期研究之上，我们才能可靠地快速"薄切片"信息。
 >
-> **考点提示**：only after 引导时间状语从句，若置于句首，主句须部分倒装；本句将其后置，故主句用正常语序——"倒装与不倒装"的辨析是同一考点上的常见陷阱。ground A in B 意为"把 A 建立在 B 的基础之上"，in 与 ground 是固定搭配而非地点状语；thin slice 此处名词动用（thin-slicing 指凭极少信息快速判断）。
+> **考点提示**：only 修饰状语且位于句首时，其后主句须部分倒装（only + 状语 + 助动词 + 主语）；本句中 only after 从句出现在宾语从句谓语之后、并未置于句首，故不倒装——"倒装与不倒装"的辨析是同一考点上的常见陷阱。ground A in B 意为"把 A 建立在 B 的基础之上"，in 与 ground 是固定搭配而非地点状语；thin slice 此处名词动用（thin-slicing 指凭极少信息快速判断）。
 
 Our ability to mute our hard-wired reactions by pausing is what differentiates us from animals: dogs can think about the future only intermittently or for a few minutes. But historically we have spent about 12 percent of our days contemplating the longer term. Although technology might change the way we react, it hasn't changed our nature. We still have the imaginative capacity to rise above temptation and reverse the high-speed trend.
 
