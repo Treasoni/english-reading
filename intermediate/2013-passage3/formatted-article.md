@@ -220,7 +220,7 @@ Our ability to mute our hard-wired reactions by pausing is what differentiates u
 - [A] vary according to the urgency of the situation
 - [B] prove the complexity of our brain reaction
 - [C] depend on the importance of the assessment
-- [D] predetermine the accuracy of our judgment
+- [D] **predetermine** the accuracy of our judgment
 
 ### 32. Our reaction to a fast-food logo shows that snap decisions ____.
 
