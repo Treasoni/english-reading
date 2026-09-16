@@ -54,7 +54,7 @@ Scientists have found that although we are **prone** to **snap** overreactions, 
 
 Snap decisions can be important defense **mechanisms**; if we are judging whether someone is dangerous, our brains and bodies are hard-wired to react very quickly, within milliseconds. But we need more time to assess other factors. To accurately tell whether someone is sociable, studies show, we need at least a minute, **preferably** five. It takes a while to judge complex aspects of personality, like neuroticism or open-mindedness.
 
-But snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm. Psychologists at the University of Toronto found that viewing a fast-food logo for just a few milliseconds primes us to read 20 percent faster, even though reading has little to do with eating. We unconsciously associate fast food with speed and impatience and carry those impulses into whatever else we're doing. Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long.
+But snap decisions in reaction to rapid stimuli aren't **exclusive** to the interpersonal realm. Psychologists at the University of Toronto found that viewing a fast-food logo for just a few milliseconds primes us to read 20 percent faster, even though reading has little to do with eating. We unconsciously associate fast food with speed and impatience and carry those impulses into whatever else we're doing. Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long.
 
 > [!abstract]- 长难句分析
 > **原句**：Psychologists at the University of Toronto found that viewing a fast-food logo for just a few milliseconds primes us to read 20 percent faster, even though reading has little to do with eating.
