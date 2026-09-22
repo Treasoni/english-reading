@@ -8,7 +8,7 @@ task: "生成 2015-passage3-office-speak 综合精读笔记并放入 2015阅读"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-22"
 last_updated: "2026-09-22"
-current_phase: P6
+current_phase: P7
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2015-passage3-office-speak 综合精读笔记并放入 2015阅读
 > 运行标识：reading-note-2015-passage3-office-speak
 > 创建时间：2026-09-22
-> 当前阶段：阶段 6
+> 当前阶段：阶段 7
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -38,7 +38,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [x] 已确认英文文章文本或源文件路径
 - [x] 已确认 year、passage、topic
 - [x] 已确认 intermediate 目录
-- [ ] 已确认最终输出路径
+- [x] 已确认最终输出路径（用户确认 `2015阅读/2015-passage3-office-speak-精读笔记.md`）
 - [x] 已记录长难句模式：AI 候选 + 用户确认
 
 > [P0] ✅ 已完成 {complete}
@@ -102,12 +102,12 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 6：综合笔记整合
 
-- [ ] 已调用 `compile-note`
-- [ ] 已使用用户确认的最终输出路径
-- [ ] 已保留文章原文中的内联长难句分析
-- [ ] 已插入词汇占位符
+- [x] 已调用 `compile-note`
+- [x] 已使用用户确认的最终输出路径
+- [x] 已保留文章原文中的内联长难句分析（9/9 逐字一致，全部留在「文章原文」章节）
+- [x] 已插入词汇占位符（1 处，位于「固定搭配与词组」与「心得」之间）
 
-> [P6] 🔲 进行中 {in_progress}
+> [P6] ✅ 已完成 {complete}
 
 ---
 
@@ -118,7 +118,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `### 生词练习`
 - [ ] 已补充短语内重要独立词条
 
-> [P7] ⬜ 未开始 {not_started}
+> [P7] 🔲 进行中 {in_progress}
 
 ---
 
@@ -153,7 +153,8 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 | 时间 | 阶段 | 问题描述 | 处理方式 |
 |------|------|---------|---------|
-| | | | |
+| 2026-09-22 | P6 | 首次 `Write` 生成长笔记（约 14 万字符）时返回 `[Tool result missing due to internal error]`，且渲染出的入参在中途被截断；核查后确认文件**完全未创建**（`ls` 报 No such file，非部分写入） | 改为"分段生成 + 脚本拼装"：生成的背景/心得/延伸/思考题/相关笔记写入临时文件，再用 Python 按固定章节顺序拼装四个中间源文件（`formatted-article.md` 14–380、385–417 行；`translation.md` 16 行起；`grammar-notes.md` 37 行起；`固定搭配与词组笔记.md` 38 行起），拼装后删除临时文件 |
+| 2026-09-22 | P6 | 拼装脚本自检中"表格前空行"与"callout 是否闭合"两项检查器逻辑有误（把表格续行、callout 内的 `>` 空行误判为缺空行） | 修正检查器：仅校验每张表的**首行**前一行；callout 闭合改为校验最后一个 `>` 行之后是否为未引用文本。复核后 0 问题 |
 
 ---
 
