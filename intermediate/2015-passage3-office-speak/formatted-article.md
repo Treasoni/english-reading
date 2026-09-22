@@ -183,7 +183,7 @@ These terms are also intended to **infuse** work with meaning—and, as Rakesh K
 >
 > | 类型 | 引导词 | 修饰对象 |
 > |------|--------|----------|
-> | 被动语态 + 被动不定式 | be intended to do | 全句（"意在……"） |
+> | 被动语态 + 不定式（主动，表目的） | be intended to do | 全句（"意在……"） |
 > | 动词 + 介词搭配（方向） | infuse A with B | work（把意义注入工作） |
 > | 非限制性定语从句（插入语） | as | 全句（"正如……所指出的"），位置在并列不定式之间 |
 > | 并列不定式（承前省 to） | and | 与 to infuse 并列 |
@@ -243,7 +243,7 @@ These terms are also intended to **infuse** work with meaning—and, as Rakesh K
 >
 > **参考译文**：库拉纳说："你把那些历史上曾与非营利组织和宗教组织相关联的术语引入进来：像愿景、价值观、激情和宗旨这样的词。"
 >
-> **考点提示**：① **定语从句的远距离挂靠**：that 从句修饰的对象是 **terminology**（不是 importation）——判别法：**从句谓语 `used to be associated with` 的逻辑主语是"术语"**，只有术语才能"与非营利组织相关联"，"引入"不能。**遇 that 从句先回看最近的名词，再用语义验证**。② **used to do 的识别**：`used to be associated with` 中 used to 表"曾经、过去常常"，**与 be used to doing（习惯于）形近易混**——判别关键：**used 前有 be → 系表结构（be used to doing）；used 后接动词原形 → 表"曾经"**。③ **冒号后必是解释或列举**：`terms like vision, values, passion, and purpose` 具体说明 terminology 指哪些词。**冒号是命题高发区**（第 35 题 D 项即来自 P5 冒号后的定义）。④ **引述倒装 + 引语归属**：末尾 `said Khurana` 再次倒装；**本句与上一句（C5）主语同为 Khurana，第 33 题问的正是他的观点**。
+> **考点提示**：① **定语从句的远距离挂靠**：that 从句修饰的对象是 **terminology**（不是 importation）——判别法：**从句谓语 `used to be associated with` 的逻辑主语是"术语"**，只有术语才能"与非营利组织相关联"，"引入"不能。**遇 that 从句先回看最近的名词，再用语义验证**。② **used to do 的识别**：`used to be associated with` 中 used to 表"曾经、过去常常"，**与 be used to doing（习惯于）形近易混**——判别关键：**看 used 后面接什么**——used to do（其前无 be）表"曾经"；be used to doing / n. 表"习惯于"；be used to do 表"被用来做"。③ **冒号后必是解释或列举**：`terms like vision, values, passion, and purpose` 具体说明 terminology 指哪些词。**冒号是命题高发区**（第 35 题 D 项即来自 P5 冒号后的定义）。④ **引述倒装 + 引语归属**：末尾 `said Khurana` 再次倒装；**本句与上一句（C5）主语同为 Khurana，第 33 题问的正是他的观点**。
 
 This new focus on **personal fulfillment** can help keep employees **motivated** amid increasingly loud debates over **work-life balance**.
 
@@ -378,7 +378,7 @@ In a workplace that's **fundamentally indifferent** to your life and its meaning
 >
 > **参考译文**：在一个对你的生活及其意义根本上漠不关心的职场里，办公室用语能帮你弄清自己与工作的关系——以及你的工作如何定义你是谁。
 >
-> **考点提示**：① **help sb. (to) do 中的 to 省略**：`help you figure out` 中 help 后的不定式**省去 to**。**判别口诀：help 可省、get 必留、make 必省**。② **两个并列的 how 从句作 figure out 的宾语**：破折号是"并列 + 强调"的标记（比 and 更醒目），译为"——以及……"；**宾语从句一律用陈述语序**（❌ how do you relate to your work）。③ **从句中套从句**：第二个 how 从句内又嵌 `who you are` 作 defines 的宾语，**这是本篇嵌套最深的一处**，须逐层剥离。④ **定语从句作地点状语**：`In a workplace that's …` 整块是句首状语，**不要把 that 从句误读为主句谓语的一部分**。⑤ **本文主旨句 + 第 35 题依据**：`office speak can help you figure out how you relate to your work` 是作者对办公室用语的**最终定性**（有用、工具性），与前半句 `fundamentally indifferent` 形成张力——**这正是"反讽"的落点：职场冷漠，而话语有用**。⑥ **indifferent 后接 to**：形容词 + 介词固定搭配，同族有 immune to / opposed to / sensitive to。
+> **考点提示**：① **help sb. (to) do 中的 to 省略**：`help you figure out` 中 help 后的不定式**省去 to**。**判别口诀：help 可省、get 必留、make 必省**。② **两个并列的 how 从句作 figure out 的宾语**：破折号是"并列 + 强调"的标记（比 and 更醒目），译为"——以及……"；**宾语从句一律用陈述语序**（❌ how do you relate to your work）。③ **从句中套从句**：第二个 how 从句内又嵌 `who you are` 作 defines 的宾语，**这是本篇嵌套最深的一处**，须逐层剥离。④ **定语从句作地点状语**：`In a workplace that's …` 整块是句首状语，**不要把 that 从句误读为主句谓语的一部分**。⑤ **本文主旨句（篇章结论句）**：`office speak can help you figure out how you relate to your work` 是作者对办公室用语的**最终定性**（有用、工具性），与前半句 `fundamentally indifferent` 形成张力——**这正是"反讽"的落点：职场冷漠，而话语有用**。⑥ **indifferent 后接 to**：形容词 + 介词固定搭配，同族有 immune to / opposed to / sensitive to。
 
 ## Reading Comprehension Questions
 
