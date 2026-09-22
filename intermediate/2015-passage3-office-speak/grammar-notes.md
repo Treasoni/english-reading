@@ -418,11 +418,11 @@ concepts:
 | **as 引导的非限制性定语从句** | [[语法总结笔记]]「介词与连词：As 的核心用法」；[[固定搭配与词组笔记]] | as 常置**句首**、含"正如"；which 只能**后置**、含"这一点"；as 从句谓语用主动 |
 | **现在分词作结果状语**（prompting） | [[语法总结笔记]]「非谓语：分词作定语」「非谓语：不定式作目的状语与宾语补足语」 | 分词逻辑主语须与主句一致，否则为**悬垂分词**；结果状语表因果，伴随状语表同时 |
 | **动名词作介词宾语**（be about doing / mean doing） | [[语法总结笔记]]「非谓语 / 易错结构：介词 to 还是不定式 to」 | 介词后一律接 **-ing**；唯 to 作**不定式符号**时例外；mean doing（意味着）vs mean to do（打算） |
-| **并列不定式省 to**（be intended to infuse … and increase …） | [[语法总结笔记]]「非谓语：不定式的三大句法功能」 | 同功能不定式并列，第二个可省 to；**插入语不破坏并列**；先删插入语再读 |
-| **keep + 宾语 + 过去分词**（keep employees motivated） | [[语法总结笔记]]「复杂宾语结构」（[[固定搭配与词组笔记]]）「补充要点：help sb. (to) do 与 tend to do」 | keep 宾补表"保持某状态"；help 后 to **可省**、get 后 to **必留**；motivated 是宾补不是谓语 |
+| **并列不定式省 to**（be intended to infuse … and increase …） | [[语法总结笔记]]「非谓语动词：不定式的三大句法功能（来源：2013-passage3）」 | 同功能不定式并列，第二个可省 to；**插入语不破坏并列**；先删插入语再读 |
+| **keep + 宾语 + 过去分词**（keep employees motivated） | [[固定搭配与词组笔记]]「复杂宾语结构」；[[语法总结笔记]]「补充要点：help sb. (to) do 与 tend to do」 | keep 宾补表"保持某状态"；help 后 to **可省**、get 后 to **必留**；motivated 是宾补不是谓语 |
 | **much + 比较级 + than 从句** | [[语法总结笔记]]「比较结构：倍数与程度修饰比较级」「比较结构：比较级、much 修饰比较级与 more so（来源：2015-passage1）」；**2015 Passage 1 的 much 修饰比较级** | much / far / even / still 只修饰**比较级**；very / quite / rather 只修饰**原级** |
 | **even if 让步状语从句** | [[语法总结笔记]]「介词与连词：让步结构 (Although / Though / While vs. Despite / In spite of)」 | even if 表**假设性**让步；even though 表**事实性**让步 |
-| **be intended to do**（目的信号结构） | [[语法总结笔记]]「语态：被动语态与被动不定式（来源：2010-passage3-habits）」；[[固定搭配与词组笔记]]「See / Regard / Think of A as B」 | be intended / designed / meant to do 是"**目的题**"定位结构；seem to be 是**系表**非被动 |
+| **be intended to do**（目的信号结构） | [[语法总结笔记]]「语态：被动语态与被动不定式（来源：2009-passage4-new-england）」；[[固定搭配与词组笔记]]「See / Regard / Think of A as B」 | be intended / designed / meant to do 是"**目的题**"定位结构；seem to be 是**系表**非被动 |
 | **引述倒装**（引语 + said + 长主语） | [[语法总结笔记]]「倒装与强调：直接引语倒装」 | **尾重原则**驱动倒装；**代词主语不倒装**；引语归属决定题干取材范围 |
 | **used to do vs be used to doing** | [[语法总结笔记]]「语态：被动语态与 be used to do（来源：2010-passage3-habits）」 | 三类结构靠 **used 前有无 be**、**后接原形还是 -ing** 区分 |
 | **There be 排比** | [[语法总结笔记]]「存在句与主谓一致（来源：2010-passage3-habits）」「倒装与强调：Only when 与 there be」；[[固定搭配与词组笔记]]「There Be 句型」 | there 为引导词，真正主语在 be 之后；主谓一致看**后置主语** |
