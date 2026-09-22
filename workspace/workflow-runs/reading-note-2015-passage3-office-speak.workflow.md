@@ -8,7 +8,7 @@ task: "生成 2015-passage3-office-speak 综合精读笔记并放入 2015阅读"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-22"
 last_updated: "2026-09-22"
-current_phase: P5
+current_phase: P6
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2015-passage3-office-speak 综合精读笔记并放入 2015阅读
 > 运行标识：reading-note-2015-passage3-office-speak
 > 创建时间：2026-09-22
-> 当前阶段：阶段 5
+> 当前阶段：阶段 6
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -89,14 +89,14 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 5：长难句分析与内联插入
 
-- [ ] 已调用 `analyze-sentence`
-- [ ] 已把分析块插入文章原文对应句子之后
-- [ ] 已确认多句同段时采用逐句交替结构
-- [ ] 已确认每个 callout 第一行包含完整原句
-- [ ] 已确认 callout 内表格前有空行
-- [ ] 已检查后续段落没有异常开头
+- [x] 已调用 `analyze-sentence`（9 句，经子代理语法审查，修正 3 处准确性缺陷）
+- [x] 已把分析块插入文章原文对应句子之后
+- [x] 已确认多句同段时采用逐句交替结构（P1/P2/P3/P4 各 2 处，P5 1 处）
+- [x] 已确认每个 callout 第一行包含完整原句（9/9 与源文逐字一致）
+- [x] 已确认 callout 内表格前有空行（0 问题）
+- [x] 已检查后续段落没有异常开头（英文内容缺失 token = 0）
 
-> [P5] 🔲 进行中 {in_progress}
+> [P5] ✅ 已完成 {complete}
 
 ---
 
@@ -107,7 +107,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已保留文章原文中的内联长难句分析
 - [ ] 已插入词汇占位符
 
-> [P6] ⬜ 未开始 {not_started}
+> [P6] 🔲 进行中 {in_progress}
 
 ---
 

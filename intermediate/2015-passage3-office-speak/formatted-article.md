@@ -49,7 +49,7 @@ Even in traditional offices, "the **lingua franca** of corporate America has got
 >
 > **参考译文**：哈佛商学院教授南希·科恩说，即便在传统办公室里，"美国企业界的通用语也已经比 20 年前感性得多、右脑化得多了"。
 >
-> **考点提示**：① **引述倒装**：`"×××," said + 长头衔主语`——主语过长而后置，是英语"尾重原则"的体现；**代词主语不倒装**（若主语是 he，只能说 he said）。② **much 只修饰比较级**：`much more emotional`、`much more right-brained`，much 不可修饰原级（❌ much emotional）；`much less frequent`（C2）与 `much less frequent use` 同理——**本篇连用多处 much + 比较级，是命题人偏爱的程度修饰考点**。③ **第 31 题定位句**：`more emotional` 即摘自此处的 `much more emotional`；选项 [B] more objective 用"今昔反转"设陷（原文说如今更感性 = 更不务实，而非"更客观"）。④ 比较基准 `than it was 20 years ago` 中的 it 指代 the lingua franca，**比较从句中的时间状语须还原到比较对象上理解**。
+> **考点提示**：① **引述倒装**：`"×××," said + 长头衔主语`——主语过长而后置，是英语"尾重原则"的体现；**代词主语不倒装**（若主语是 he，只能说 he said）。② **much 只修饰比较级**：`much more emotional`、`much more right-brained`，much 不可修饰原级（❌ much emotional）；`much less frequent`（见下一句分析）同理——**本篇连用多处 much + 比较级，是命题人偏爱的程度修饰考点**。③ **第 31 题定位句**：`more emotional` 即摘自此处的 `much more emotional`；选项 [B] more objective 用"今昔反转"设陷（原文说如今更感性 = 更不务实，而非"更客观"）。④ 比较基准 `than it was 20 years ago` 中的 it 指代 the lingua franca，**比较从句中的时间状语须还原到比较对象上理解**。
 
 She started **spinning off** examples. "If you and I **parachuted** back to **Fortune 500** companies in 1990, we would see much less frequent use of terms like journey, mission, passion.
 
@@ -85,7 +85,7 @@ She started **spinning off** examples. "If you and I **parachuted** back to **Fo
 >
 > **参考译文**：假如你我穿越回 1990 年的《财富》500 强公司，就会发现 journey、mission、passion 这类词的使用要少得多。
 >
-> **考点提示**：① **与现在事实相反的虚拟条件句**：`If + 主语 + 动词过去式（parachuted），主语 + would/could/might + 动词原形（would see）`。判别关键：**看 if 从句的时态——过去式表"与现在事实相反"，现在时表"真实条件"**。② **同篇对照**：P4 的 `If your work is your "passion," you'll be more likely to …` 是**真实条件句**（if 从句用现在时），两句并置正是考研爱设的"虚拟 vs 真实"辨别点。③ **parachute 的熟词生义**：名词"降落伞"→ 动词"空降、突然置身"，此处译"穿越回"；parachuted 在此是**虚拟语气标记**，不是过去时叙事。④ `much less frequent` 中 **much 修饰比较级 less**，与 C1 的 `much more` 同一规律，可成组记忆。
+> **考点提示**：① **与现在事实相反的虚拟条件句**：`If + 主语 + 动词过去式（parachuted），主语 + would/could/might + 动词原形（would see）`。判别关键：**看 if 从句的时态——过去式表"与现在事实相反"，现在时表"真实条件"**。② **同篇对照**：第四段的 `If your work is your "passion," you'll be more likely to …` 是**真实条件句**（if 从句用现在时），两句并置正是考研爱设的"虚拟 vs 真实"辨别点。③ **parachute 的熟词生义**：名词"降落伞"→ 动词"空降、突然置身"，此处译"穿越回"；parachuted 在此是**虚拟语气标记**，不是过去时叙事。④ `much less frequent` 中 **much 修饰比较级 less**，与上句的 `much more` 同一规律，可成组记忆。
 
 There were goals, there were strategies, there were **objectives**, but we didn't talk about **energy**; we didn't talk about passion."
 
@@ -163,7 +163,7 @@ Koehn pointed out that this new era of corporate vocabulary is very "**team**"-o
 >
 > **参考译文**：形形色色的公司里有许许多多 CEO，但大多数人把自己看作教练，这支队伍是他们的，他们想赢。
 >
-> **考点提示**：① **多重并列的切分**：本句是 `分句1, but 分句2 and 分句3 and 分句4` 的**四分句结构**。**but 是第一层**（前后对立：存在大量 CEO ↔ 但想法一致）；**后面两个 and 是第二层**（并列三种"教练心态"）。切分口诀：**先找转折连词划大层，再找 and 划小层**。② **think of A as B 的 B 是宾补**：`think of themselves as coaches` 中 as coaches 是**宾语补足语**（补充说明 themselves 的身份），**不是状语**；判别法——A 与 B 之间有逻辑主谓关系（they are coaches 成立）。③ **同篇对照 There be**：本句 `There are lots and lots of CEOs` 与 P1 的 `There were goals, there were strategies, there were objectives` 同属存在句；**前者是单句 + 转折，后者是三连排比 + 分号**——同一结构的不同修辞用途值得成组记忆。
+> **考点提示**：① **多重并列的切分**：本句是 `分句1, but 分句2 and 分句3 and 分句4` 的**四分句结构**。**but 是第一层**（前后对立：存在大量 CEO ↔ 但想法一致）；**后面两个 and 是第二层**（并列三种"教练心态"）。切分口诀：**先找转折连词划大层，再找 and 划小层**。② **think of A as B 的 B 是宾补**：`think of themselves as coaches` 中 as coaches 是**宾语补足语**（补充说明 themselves 的身份），**不是状语**；判别法——A 与 B 之间有逻辑主谓关系（they are coaches 成立）。③ **同篇对照 There be**：本句 `There are lots and lots of CEOs` 与第一段的 `There were goals, there were strategies, there were objectives` 同属存在句；**前者是单句 + 转折，后者是三连排比 + 分号**——同一结构的不同修辞用途值得成组记忆。
 
 These terms are also intended to **infuse** work with meaning—and, as Rakesh Khurana, another professor, points out, increase **allegiance** to the firm.
 
@@ -243,7 +243,7 @@ These terms are also intended to **infuse** work with meaning—and, as Rakesh K
 >
 > **参考译文**：库拉纳说："你把那些历史上曾与非营利组织和宗教组织相关联的术语引入进来：像愿景、价值观、激情和宗旨这样的词。"
 >
-> **考点提示**：① **定语从句的远距离挂靠**：that 从句修饰的对象是 **terminology**（不是 importation）——判别法：**从句谓语 `used to be associated with` 的逻辑主语是"术语"**，只有术语才能"与非营利组织相关联"，"引入"不能。**遇 that 从句先回看最近的名词，再用语义验证**。② **used to do 的识别**：`used to be associated with` 中 used to 表"曾经、过去常常"，**与 be used to doing（习惯于）形近易混**——判别关键：**看 used 后面接什么**——used to do（其前无 be）表"曾经"；be used to doing / n. 表"习惯于"；be used to do 表"被用来做"。③ **冒号后必是解释或列举**：`terms like vision, values, passion, and purpose` 具体说明 terminology 指哪些词。**冒号是命题高发区**（第 35 题 D 项即来自 P5 冒号后的定义）。④ **引述倒装 + 引语归属**：末尾 `said Khurana` 再次倒装；**本句与上一句（C5）主语同为 Khurana，第 33 题问的正是他的观点**。
+> **考点提示**：① **定语从句的远距离挂靠**：that 从句修饰的对象是 **terminology**（不是 importation）——判别法：**从句谓语 `used to be associated with` 的逻辑主语是"术语"**，只有术语才能"与非营利组织相关联"，"引入"不能。**遇 that 从句先回看最近的名词，再用语义验证**。② **used to do 的识别**：`used to be associated with` 中 used to 表"曾经、过去常常"，**与 be used to doing（习惯于）形近易混**——判别关键：**看 used 后面接什么**——used to do（其前无 be）表"曾经"；be used to doing / n. 表"习惯于"；be used to do 表"被用来做"。③ **冒号后必是解释或列举**：`terms like vision, values, passion, and purpose` 具体说明 terminology 指哪些词。**冒号是命题高发区**（第 35 题 D 项即来自末段冒号后的定义）。④ **引述倒装 + 引语归属**：末尾 `said Khurana` 再次倒装；**本句与上一句（`These terms are also intended to …`）主语同为 Khurana，第 33 题问的正是他的观点**。
 
 This new focus on **personal fulfillment** can help keep employees **motivated** amid increasingly loud debates over **work-life balance**.
 
@@ -333,7 +333,7 @@ But if your work is your "passion," you'll be more likely to **devote** yourself
 >
 > **参考译文**：但如果你的工作就是你的"激情"，你就更有可能全身心投入其中——即便那意味着回家吃顿晚饭、然后在孩子睡下后继续工作到很晚。
 >
-> **考点提示**：① **三层状语从句套叠**：条件（if）→ 主句 → 让步（even if）→ 时间（long after）。**切分口诀：先摘主句，再按 if / even if / long after 逐个挂靠**。② **真实条件 vs 虚拟条件的同篇对照**：本句 if 从句用**现在时**（is）→ 真实条件，主句用 `'ll be`；C2 的 `If you and I parachuted … we would see` 用**过去式 + would** → 与现在事实相反的虚拟。**同篇并置两句，是考研最爱设的辨别点**。③ **even if 与 even though 的分野**：even if 表**假设性让步**（"即便真的……"，情境尚未发生）；even though 表**事实性让步**（"尽管事实上……"）。此处用 even if，因为"回家吃饭"是假设的情境。④ **means + doing**：`means going home … and working …` 中 mean 后接**动名词**表"意味着"（mean to do 则表"打算做"）——**mean doing vs mean to do 是常考辨析**。⑤ **devote oneself to**：to 是**介词**，故其后若接动词须用 -ing（此处接代词 it 看不出，写作时须注意）。
+> **考点提示**：① **三层状语从句套叠**：条件（if）→ 主句 → 让步（even if）→ 时间（long after）。**切分口诀：先摘主句，再按 if / even if / long after 逐个挂靠**。② **真实条件 vs 虚拟条件的同篇对照**：本句 if 从句用**现在时**（is）→ 真实条件，主句用 `'ll be`；首段虚拟条件句 `If you and I parachuted … we would see` 用**过去式 + would** → 与现在事实相反的虚拟。**同篇并置两句，是考研最爱设的辨别点**。③ **even if 与 even though 的分野**：even if 表**假设性让步**（"即便真的……"，情境尚未发生）；even though 表**事实性让步**（"尽管事实上……"）。此处用 even if，因为"回家吃饭"是假设的情境。④ **means + doing**：`means going home … and working …` 中 mean 后接**动名词**表"意味着"（mean to do 则表"打算做"）——**mean doing vs mean to do 是常考辨析**。⑤ **devote oneself to**：to 是**介词**，故其后若接动词须用 -ing（此处接代词 it 看不出，写作时须注意）。
 
 But this seems to be the **irony** of **office speak**: Everyone **makes fun of** it, but managers love it, companies depend on it, and regular people **willingly absorb** it. As a **linguist** once said, "You can get people to think it's **nonsense** at the same time that you **buy into** it."
 
