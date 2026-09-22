@@ -1346,7 +1346,176 @@ But this seems to be the **irony** of **office speak**: Everyone **makes fun of*
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **allegiance** | n. | 忠诚、效忠（**对组织 / 国家**的忠诚，比 loyalty 更正式；真题第 33 题由此设题） | "These terms are also intended to infuse work with meaning—and, as Rakesh Khurana, another professor, points out, increase **allegiance** to the firm." |
+| **athletic** | adj. | 运动的、体育的（**第 32 题 [D] 项 athletic executives** 属无中生有：原文 `think of themselves as coaches` 是**比喻**，不是"运动型高管"） | "[D] **athletic** executives（第 32 题）" |
+| **bandwidth** | n. | （本义）带宽 →（引申）**可支配的精力、承受力** | "Terms like unplug, offline, life-hack, **bandwidth**, and capacity are all about setting boundaries between the office and the home." |
+| **buy into** | phr. | **接受、相信**（某种观念）（**不是**"买进股份 / 房产"） | "You can get people to think it's nonsense at the same time that you **buy into** it." |
+| **buzzword** | n. | 流行语、时髦用语（**常含贬义**：听起来响亮却空洞） | "books like Sheryl Sandberg's *Lean In*, whose title has become a **buzzword** in its own right" |
+| **by coincidence** | phr. | 出于巧合（**not by coincidence** 则表"**绝非偶然**"，暗示背后有结构性原因——第 32 题的提问依据） | "this new era of corporate vocabulary is very 'team'-oriented—and not **by coincidence**" |
+| **capacity** | n. | （本义）容量、容积 →（引申）**可承受的工作量、能力上限** | "Terms like unplug, offline, life-hack, bandwidth, and **capacity** are all about setting boundaries between the office and the home." |
+
+### D-L
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **define** | v. | 界定、定义；**决定……的性质**（本文指"你的工作决定了你是谁"） | "office speak can help you figure out how you relate to your work—and how your work **defines** who you are." |
+| **devote** | v. | 投入、献身；**devote oneself to sth.** 全身心投入于（to 是**介词**，后接名词或 -ing） | "But if your work is your 'passion,' you'll be more likely to **devote** yourself to it, even if that means going home for dinner and then working long after the kids are in bed." |
+| **energy** | n. | **干劲、活力、热情**（熟词生义，**不是**"能量 / 能源"） | "There were goals, there were strategies, there were objectives, but we didn't talk about **energy**; we didn't talk about passion." |
+| **explicitly conscious** | adj. phr. | 明确意识到的（`It's not **explicitly conscious**` 意为"这并不是有意为之的"——作者以此强调"团队"话语是**不自觉的集体无意识**） | "It's not **explicitly conscious**; it's the idea that I'm a coach, and you're my team, and we're in this together." |
+| **figure out** | phr. | 弄清、搞明白（口语高频；后常接 how / why 从句） | "office speak can help you **figure out** how you relate to your work—and how your work defines who you are." |
+| **Fortune 500** | n. | 《财富》500 强（美国《财富》杂志按营收排出的 500 家最大公司） | "If you and I parachuted back to **Fortune 500** companies in 1990, we would see much less frequent use of terms like journey, mission, passion." |
+| **foster** | v. | 促进、培养（**第 33 题 [C] 项 foster corporate cooperation**：把第 3 段 Koehn 的"团队"话题安到 Khurana 头上，属观点归属错位） | "[C] **foster** corporate cooperation（第 33 题）" |
+| **fundamentally indifferent** | adj. phr. | 根本上漠不关心的（`be indifferent **to** sth.` 为固定搭配；本篇以"职场冷漠"反衬"话语有用"） | "In a workplace that's **fundamentally indifferent** to your life and its meaning, office speak can help you figure out how you relate to your work—and how your work defines who you are." |
+| **have it all** | phr. | **兼顾一切、全都要**（习语，多指女性兼得事业与家庭） | "The 'mommy wars' of the 1990s are still going on today, prompting arguments about why women still can't **have it all**" |
+| **importation** | n. | 进口、引进（本义指货物进口，此处指**术语的"进口"**） | "You have the **importation** of terminology that historically used to be associated with non-profit organizations and religious organizations" |
+| **infuse** | v. | 注入、灌输；**infuse A with B** 把 B 注入 A（介词用 **with**，**不是** into） | "These terms are also intended to **infuse** work with meaning—and, as Rakesh Khurana, another professor, points out, increase allegiance to the firm." |
+| **in its own right** | phr. | **本身、凭自身资格**（**不是**"凭自己的权利"） | "books like Sheryl Sandberg's *Lean In*, whose title has become a buzzword **in its own right**" |
+| **irony** | n. | 讽刺、反讽（本篇主旨词：**人人打趣，人人接受**） | "But this seems to be the **irony** of office speak: Everyone makes fun of it, but managers love it, companies depend on it, and regular people willingly absorb it." |
+| **life-hack** | n. | 生活小技巧、效率窍门（现代职场新词） | "Terms like unplug, offline, **life-hack**, bandwidth, and capacity are all about setting boundaries between the office and the home." |
+| **lingua franca** | n. | **通用语、共同交际语**（不同母语者之间通行的共同语言；本篇即指"美国企业界的通用语"） | "Even in traditional offices, 'the **lingua franca** of corporate America has gotten much more emotional and much more right-brained than it was 20 years ago,' said Harvard Business School professor Nancy Koehn." |
+| **linguist** | n. | 语言学家（**≠ polyglot** 通晓多语者；第 35 题 [B] 项即借"语言学家"设**引语归属陷阱**） | "As a **linguist** once said, 'You can get people to think it's nonsense at the same time that you buy into it.'" |
+| **loyalty** | n. | 忠诚（**最通用**）；第 33 题 [D] 项 **strengthen employee loyalty** = 原文 `increase allegiance to the firm` | "[D] strengthen employee **loyalty**（第 33 题）" |
+
+### M-R
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **male-dominated** | adj. | 男性主导的（复合形容词，"名词 + 过去分词"表**被动**含义） | "'Let's not forget sports—in **male-dominated** corporate America, it's still a big deal.'" |
+| **make fun of** | phr. | 拿……打趣、取笑（第 35 题 [D] 项 **mock** 即其同义替换） | "Everyone **makes fun of** it, but managers love it, companies depend on it, and regular people willingly absorb it." |
+| **mock** | v. | 嘲笑、嘲弄（第 35 题 [D] 项；= 原文 `makes fun of`） | "[D] Regular people **mock** it but accept it.（第 35 题）" |
+| **mommy wars** | n. phr. | "妈咪大战"（1990 年代起美国职场母亲与全职母亲之间关于育儿与事业取舍的公开论战） | "The '**mommy wars**' of the 1990s are still going on today, prompting arguments about why women still can't have it all" |
+| **motivated** | adj. | 有干劲的、有积极性的；**keep sb. motivated** 使某人保持干劲（动词 motivate） | "This new focus on personal fulfillment can help keep employees **motivated** amid increasingly loud debates over work-life balance." |
+| **non-profit** | adj. | 非营利的（否定前缀 **non-** + 名词；= not-for-profit，美式常写 nonprofit） | "'You have the importation of terminology that historically used to be associated with **non-profit** organizations and religious organizations'" |
+| **nonsense** | n. | 胡说、无意义的话（第 35 题 [B] 项的关键词） | "'You can get people to think it's **nonsense** at the same time that you buy into it.'" |
+| **objective** | n. | **指标、目标**（可量化）（熟词生义，**不是**形容词"客观的"） | "There were goals, there were strategies, there were **objectives**, but we didn't talk about energy; we didn't talk about passion." |
+| **office speak** | n. phr. | **办公室用语、职场话术**（speak 此处为**名词**，表"行话、话语方式"） | "But this seems to be the irony of **office speak**: Everyone makes fun of it, but managers love it, companies depend on it, and regular people willingly absorb it." |
+| **parachute** | v. | **空降、突然置身于**（熟词生义，**不是**名词"降落伞"；本文指"穿越回 1990 年"） | "'If you and I **parachuted** back to Fortune 500 companies in 1990, we would see much less frequent use of terms like journey, mission, passion.'" |
+| **personal fulfillment** | n. phr. | 个人成就感、自我实现（fulfillment 满足感；动词 fulfill） | "This new focus on **personal fulfillment** can help keep employees motivated amid increasingly loud debates over work-life balance." |
+| **prompt** | v. | **促使、引发**（熟词生义，**不是**形容词"迅速的"；`prompting` 为现在分词作结果状语） | "The 'mommy wars' of the 1990s are still going on today, **prompting** arguments about why women still can't have it all" |
+| **relate to** | phr. | 与……产生关联、看待（`how you relate to your work` 即"你如何看待自己的工作"） | "office speak can help you figure out how you **relate to** your work—and how your work defines who you are." |
+| **revive** | v. | 复兴、使复活（**第 33 题 [A] 项 revive historical terms** 偷换时间维度：原文说这些词"历史上属于"非营利 / 宗教领域（故称"进口"），**不是**要"复兴"它们） | "[A] **revive** historical terms（第 33 题）" |
+| **right-brained** | adj. | **右脑化的、偏感性直觉的**（复合形容词，"方位词 + 过去分词"；与 goals / strategies / objectives 代表的"左脑"相对） | "the lingua franca of corporate America has gotten much more emotional and much more **right-brained** than it was 20 years ago" |
+
+### S-W
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **set boundaries** | phr. | 划清界限（`boundaries between A and B` A 与 B 之间的界限） | "Terms like unplug, offline, life-hack, bandwidth, and capacity are all about **setting boundaries** between the office and the home." |
+| **spin off** | phr. | **接连衍生、一个个引申出来**（熟词生义，**不是**"剥离 / 分拆公司"；本文指"她接连举出例子"） | "She started **spinning off** examples." |
+| **strategic** | adj. | 战略的、策略性的（**第 31 题 [D] 项 less strategic** 属过度推断：原文把 goals / strategies / objectives 三者**并列**作为 1990 的代表词，并未把 strategic 单独设为与 emotional 对立的一轴） | "[D] less **strategic**（第 31 题）" |
+| **"team"-oriented** | adj. | 以"团队"为导向的（复合形容词，"名词 + -oriented"；引号表示这是**被引用的时髦说法**） | "Koehn pointed out that this new era of corporate vocabulary is very '**team**'-oriented—and not by coincidence." |
+| **terminology** | n. | **术语体系**（某一领域的整套术语；区别于一个个具体的 term） | "'You have the importation of **terminology** that historically used to be associated with non-profit organizations and religious organizations'" |
+| **trigger** | v. | 触发、引起（**强调"一触即发"的连锁反应**；**第 34 题 [C] 项 triggers debates among mommies** 属因果倒置：原文 `prompting` 的主语是 mommy wars，是争论**催生**了 *Lean In*，不是书引发争论） | "[C] **triggers** debates among mommies（第 34 题）" |
+| **unplug / offline** | v. / adj. | （本义）拔掉插头 / 离线 →（引申）**彻底断开工作** / **不在工作状态** | "Terms like **unplug**, **offline**, life-hack, bandwidth, and capacity are all about setting boundaries between the office and the home." |
+| **willingly absorb** | phr. | 心甘情愿地接受（absorb 本义"吸收"，此处指**接受并内化某种观念**；第 35 题 [D] 项 **accept** 即其同义替换） | "Everyone makes fun of it, but managers love it, companies depend on it, and regular people **willingly absorb** it." |
+| **work-life balance** | n. phr. | 工作与生活的平衡（常缩略为 WLB） | "This new focus on personal fulfillment can help keep employees motivated amid increasingly loud debates over **work-life balance**." |
+
+> [!note] 短语中的独立词条
+> 下列单词虽已随短语收录，但**单独出现时仍是考点**，建议单独记忆词义与词性：
+>
+> | 单词 | 词性 | 含义 | 关联短语 |
+> |------|------|------|----------|
+> | **lingua franca** | n. | 通用语、共同交际语 | the lingua franca of corporate America |
+> | **terminology** | n. | 术语体系 | the importation of terminology |
+> | **allegiance** | n. | 忠诚、效忠 | increase allegiance to the firm |
+> | **importation** | n. | 引进、进口 | the importation of terminology |
+> | **infuse** | v. | 注入、灌输 | infuse work with meaning |
+> | **parachute** | v. | 空降、突然置身 | parachute back to 1990 |
+> | **prompt** | v. | 促使、引发 | prompting arguments |
+> | **absorb** | v. | 接受并内化 | willingly absorb it |
+> | **objective** | n. | 指标、目标 | goals / strategies / objectives |
+> | **capacity** | n. | 可承受的工作量 | bandwidth and capacity |
+> | **bandwidth** | n. | 可支配的精力 | bandwidth and capacity |
+> | **devote** | v. | 投入、献身 | devote yourself to it |
+> | **define** | v. | 界定、决定……的性质 | defines who you are |
+> | **linguist** | n. | 语言学家 | As a linguist once said |
+> | **irony** | n. | 讽刺、反讽 | the irony of office speak |
+> | **buzzword** | n. | 流行语、时髦用语 | become a buzzword |
+> | **mock** | v. | 嘲笑、嘲弄 | mock it but accept it |
+> | **loyalty** | n. | 忠诚 | strengthen employee loyalty |
+> | **foster** | v. | 促进、培养 | foster corporate cooperation |
+> | **trigger** | v. | 触发、引起 | trigger debates |
+> | **revive** | v. | 复兴、使复活 | revive historical terms |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> allegiance / by coincidence / capacity / devote / figure out / infuse / lingua franca / make fun of / prompting / terminology
+
+1. Even in traditional offices, the ________ of corporate America has gotten much more emotional and much more right-brained than it was 20 years ago.
+2. These terms are also intended to ________ work with meaning—and, as Rakesh Khurana, another professor, points out, increase ________ to the firm.
+3. Koehn pointed out that this new era of corporate vocabulary is very "team"-oriented—and not ________ ________.
+4. The "mommy wars" of the 1990s are still going on today, ________ arguments about why women still can't have it all.
+5. You have the importation of ________ that historically used to be associated with non-profit organizations and religious organizations.
+6. Everyone ________ ________ ________ it, but managers love it, companies depend on it, and regular people willingly absorb it.
+7. Terms like unplug, offline, life-hack, bandwidth, and ________ are all about setting boundaries between the office and the home.
+8. But if your work is your "passion," you'll be more likely to ________ yourself to it, even if that means going home for dinner and then working long after the kids are in bed.
+9. In a workplace that's fundamentally indifferent to your life and its meaning, office speak can help you ________ ________ how you relate to your work—and how your work defines who you are.
+
+> [!abstract]- 答案
+> 1. **lingua franca**（通用语、共同交际语）
+> 2. **infuse**（注入——infuse A with B 把 B 注入 A）；**allegiance**（忠诚——increase allegiance to the firm 增进对公司的忠诚）
+> 3. **by coincidence**（出于巧合；`not by coincidence` = 绝非偶然，暗示背后有结构性原因）
+> 4. **prompting**（促使、引发——现在分词作结果状语；注意 prompt 在此是**动词**，不是形容词"迅速的"）
+> 5. **terminology**（术语体系——注意与一个个具体的 term 相对）
+> 6. **makes fun of**（拿……打趣；与后文 managers love it 构成"打趣却喜爱"的反讽）
+> 7. **capacity**（可承受的工作量——本义"容量"的引申义）
+> 8. **devote**（投入——devote oneself to sth.，to 是介词）
+> 9. **figure out**（弄清、搞明白——后接 how 从句）
+
+**二、短语翻译**
+
+将下列词组翻译成中文：
+
+1. be intended to do sth.
+
+2. infuse work with meaning
+
+3. increase allegiance to the firm
+
+4. have it all
+
+> [!abstract]- 答案
+> 1. **be intended to do sth.** = 意在、旨在做某事（被动 + 不定式，表目的；本篇 `These terms are also intended to infuse work with meaning`）
+> 2. **infuse work with meaning** = 为工作注入意义（**infuse A with B** = 把 B 注入 A，介词用 **with**，不是 into）
+> 3. **increase allegiance to the firm** = 增进对公司的忠诚（**allegiance to sth.**；第 33 题 [D] 项 strengthen employee loyalty 即此句的同义转述）
+> 4. **have it all** = 兼顾一切、全都要（习语，多指女性兼得事业与家庭；本篇 `why women still can't have it all`）
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "There were goals, there were strategies, there were **objectives**, but we didn't talk about **energy**; we didn't talk about passion." 中 **energy** 的含义是：
+   - A. 能量、能源（物理义）
+   - B. 干劲、活力、热情（工作热情）
+   - C. 精力（指身体体力）
+   - D. 电力供应
+
+2. "But this seems to be the **irony** of **office speak**: Everyone makes fun of it, but managers love it ..." 中 **office speak** 的意思是：
+   - A. 在办公室说话（动作）
+   - B. 办公室用语、职场话术（名词）
+   - C. 办公室演讲
+   - D. 办公室的发言权
+
+3. "The 'mommy wars' of the 1990s are still going on today, **prompting** arguments about why women still can't have it all" 中 **prompting** 的含义是：
+   - A. 迅速的、及时的
+   - B. 促使、引发
+   - C. 提示、提醒
+   - D. 提高、提升
+
+> [!abstract]- 答案
+> 1. **B** — 本句是 1990 年与今日的对照：那时谈的是可量化的 goals / strategies / **objectives**，却不谈 **energy** 和 **passion**；而今日企业的通用语变得"感性得多、右脑化得多"（`much more emotional and much more right-brained`）。可见 energy 与 passion 同类，指**工作热情、干劲**，是**熟词生义**。D 项"电力"与 A 项"能量、能源"固守物理义，与人事语境不符。
+> 2. **B** — 全篇讨论的是美国企业界的**说话方式 / 话语**（`corporate vocabulary`、`the lingua franca of corporate America`、`terminology`），speak 在此是**名词**，表"行话、话语方式"，`office speak` 即"办公室用语、职场话术"。A 项把名词读成动作，C 项"演讲"与"人人打趣却人人接受"的语境不符，D 项"发言权"无中生有。
+> 3. **B** — 本句主干为 `The "mommy wars" ... are still going on today, prompting arguments ...`，`prompting` 是**现在分词作结果状语**，逻辑主语即前面的 mommy wars。争论是"妈咪大战"**引发**的结果，故 prompt 在此为**及物动词**"促使、引发"——这也正是第 34 题 [C] 项因果倒置陷阱的所在。A 项是 prompt 的形容词义（"迅速的"），无法在此作状语；C、D 项的"提示""提高"均与语境不符。
 
 ---
 

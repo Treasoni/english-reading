@@ -8,7 +8,7 @@ task: "生成 2015-passage3-office-speak 综合精读笔记并放入 2015阅读"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-22"
 last_updated: "2026-09-22"
-current_phase: P7
+current_phase: P8
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2015-passage3-office-speak 综合精读笔记并放入 2015阅读
 > 运行标识：reading-note-2015-passage3-office-speak
 > 创建时间：2026-09-22
-> 当前阶段：阶段 7
+> 当前阶段：阶段 8
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -113,24 +113,24 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 7：生词表与练习
 
-- [ ] 已调用 `extract-vocabulary`
-- [ ] 已生成或更新 `## 生词表`
-- [ ] 已生成或更新 `### 生词练习`
-- [ ] 已补充短语内重要独立词条
+- [x] 已调用 `extract-vocabulary`（扫描文章原文 42 处粗体 + 题干高频干扰词）
+- [x] 已生成或更新 `## 生词表`（48 词条，按 A-C / D-L / M-R / S-W 四组）
+- [x] 已生成或更新 `### 生词练习`（选词填空 9 题 + 短语翻译 4 题 + 语境理解 3 题）
+- [x] 已补充短语内重要独立词条（`> [!note] 短语中的独立词条` 21 词）
 
-> [P7] 🔲 进行中 {in_progress}
+> [P7] ✅ 已完成 {complete}
 
 ---
 
 ## 阶段 8：最终验证与收尾
 
-- [ ] 已确认所有中间文件存在
-- [ ] 已确认最终精读笔记存在
-- [ ] 已确认最终笔记不含词汇占位符
-- [ ] 已检查 Markdown 标题、YAML 和表格格式
-- [ ] 已向用户报告输出路径
+- [x] 已确认所有中间文件存在（4 个源文件，无残留临时文件）
+- [x] 已确认最终精读笔记存在（`2015阅读/2015-passage3-office-speak-精读笔记.md`，1591 行 / 174,950 字节）
+- [x] 已确认最终笔记不含词汇占位符（`<!-- VOCABULARY_SLOT -->` 计数 = 0）
+- [x] 已检查 Markdown 标题、YAML 和表格格式（标题空格 0 问题；YAML 无嵌套对象、列表 2 空格缩进；表格首行前均有空行——callout 内为 `>` 空行；105 个 callout 全部显式闭合、无嵌套）
+- [x] 已向用户报告输出路径
 
-> [P8] ⬜ 未开始 {not_started}
+> [P8] 🔲 进行中 {in_progress}
 
 ---
 
