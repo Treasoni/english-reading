@@ -8,7 +8,7 @@ task: "生成 2015-passage3-office-speak 综合精读笔记并放入 2015阅读"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-22"
 last_updated: "2026-09-22"
-current_phase: P8
+current_phase: P9
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2015-passage3-office-speak 综合精读笔记并放入 2015阅读
 > 运行标识：reading-note-2015-passage3-office-speak
 > 创建时间：2026-09-22
-> 当前阶段：阶段 8
+> 当前阶段：阶段 9
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -130,7 +130,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [x] 已检查 Markdown 标题、YAML 和表格格式（标题空格 0 问题；YAML 无嵌套对象、列表 2 空格缩进；表格首行前均有空行——callout 内为 `>` 空行；105 个 callout 全部显式闭合、无嵌套）
 - [x] 已向用户报告输出路径
 
-> [P8] 🔲 进行中 {in_progress}
+> [P8] ✅ 已完成 {complete}
 
 ---
 
@@ -145,7 +145,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
 - [ ] 已向用户报告两个根文件的更新内容
 
-> [P9] ⬜ 未开始 {not_started}
+> [P9] 🔲 进行中 {in_progress}
 
 ---
 
