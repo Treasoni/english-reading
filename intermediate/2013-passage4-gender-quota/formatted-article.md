@@ -60,9 +60,9 @@ The European Union is now considering **legislation** to **compel** corporate bo
 > **主干提取**：
 >
 > - 主语 S: The European Union（欧盟）
-> - 谓语 V: is now considering（目前正在考虑）
+> - 谓语 V: is considering（目前正在考虑，now 为时间状语）
 > - 宾语 O: legislation（立法）
-> - 状语 A: now（时间状语，插在助动词与实义动词之间）
+> - 状语 A: now（时间状语，置于助动词与实义动词之间）
 >
 > **修饰成分**：
 >
@@ -79,9 +79,9 @@ The European Union is now considering **legislation** to **compel** corporate bo
 > 主句: The European Union + is (now) considering + legislation
 >   └── 后置定语/内容: (to compel corporate boards to maintain a certain proportion of women)
 >         ├── 宾语: (corporate boards)
->         ├── 宾语补足语: (to maintain a certain proportion of women) → compel sb. to do sth.
->         │     └── 介短: (of women) → 修饰 proportion
->         └── 破折号补充: (up to 60 percent) → 明确 proportion 的上限
+>         └── 宾语补足语: (to maintain a certain proportion of women) → compel sb. to do sth.
+>               ├── 介短: (of women) → 修饰 proportion
+>               └── 破折号补充: (up to 60 percent) → 明确 proportion 的上限
 > ```
 >
 > **参考译文**：欧盟目前正在考虑通过立法，强制公司董事会维持一定比例的女性成员——最高可达 60%。
@@ -161,11 +161,11 @@ Do we need **quotas** to ensure that women can continue to climb the corporate l
 >   └── 冒号补充: (they "open the way to equality and they break through the glass ceiling")
 >         ├── 引语来源: (according to Reding) → 标明引语归属
 >         └── 同位语: (a result) → 指代冒号后整句所述的结果
->               ├── 后置定语: (seen in France and other countries) → 修饰 a result
->               │     └── 后置定语: (with legally binding provisions) → 修饰 countries
->               │           └── 介短: (on placing women in top business positions) → 修饰 provisions
->               │                 └── 动名词: (placing women in top business positions) → 作 on 的宾语
->               └── 例证: (France and other countries) → 已见成效的国家
+>               └── 后置定语: (seen in France and other countries) → 修饰 a result
+>                     ├── 例证: (France and other countries) → 作介词 in 的宾语，已见成效的国家
+>                     └── 后置定语: (with legally binding provisions) → 修饰 countries
+>                           └── 介短: (on placing women in top business positions) → 修饰 provisions
+>                                 └── 动名词: (placing women in top business positions) → 作 on 的宾语
 > ```
 >
 > **参考译文**：配额制能促成行动：据雷丁所说，它们"为平等开辟道路，并打破玻璃天花板"——这一结果已在法国以及其他一些国家显现，这些国家就"让女性进入企业高层职位"制定了具有法律约束力的条款。
@@ -210,7 +210,6 @@ I understand Reding's **reluctance**—and her frustration. I don't like quotas 
 > **参考译文**：但是，当人们考虑到实现精英治理理想所面临的种种障碍时，一个更公平的世界确实显得必须暂时通过强制规定来实现。
 >
 > **考点提示**：本句叠加三处高频考点：(1) obstacles to doing 中的 to 是介词，后接动名词 achieving，误判为不定式是典型陷阱，同类还有 the way to doing、the key to doing；(2) it does look as if ... 中 does 为强调助动词，as if 引导表语从句，it 指代"情况"，并非形式主语；(3) must be ordered 是被动语态，order 在此为动词"规定、命令、安排"，与上文 mandate 呼应，不可理解为名词"命令"或"订购"。阅读时先锁定主干 it does look as if a fairer world must be ... ordered，把 when 从句当背景跳过。
-
 
 After all, four decades of evidence has now shown that corporations in Europe as well as the US are **evading** the meritocratic hiring and promotion of women to top positions—no matter how much “**soft pressure**” is put upon them.
 

@@ -3,30 +3,30 @@ workflow_id: reading-note-generation
 workflow_name: Reading Note Generation
 workflow_version: 1
 state_file_type: workflow-run
-run_id: "reading-note-2013-passage4-gender-quota"
-task: "生成 2013-passage4-gender-quota 综合精读笔记并放入 2013阅读"
+run_id: "reading-note-2015-passage1-stress-at-home"
+task: "生成 2015-passage1-stress-at-home 综合精读笔记并放入 2015阅读"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
-created_at: "2026-09-17"
-last_updated: "2026-09-17"
+created_at: "2026-09-19"
+last_updated: "2026-09-19"
 current_phase: done
 current_status: complete
 mode: guided
 blocked_reason: ""
-article_source: "intermediate/2013-passage4-gender-quota/formatted-article.md"
-year: "2013"
-passage: "4"
-topic: "2013-passage4-gender-quota"
-intermediate_dir: "intermediate/2013-passage4-gender-quota/"
-output_path: "2013阅读/2013-passage4-gender-quota-精读笔记.md"
+article_source: "/Users/zhqznc/Documents/英语阅读资料/2015阅读/passage_1.md"
+year: "2015"
+passage: "1"
+topic: "stress-at-home"
+intermediate_dir: "intermediate/2015-passage1-stress-at-home/"
+output_path: "2015阅读/2015-passage1-stress-at-home-精读笔记.md"
 long_sentence_mode: "AI 候选 + 用户确认"
 ---
 
 # Reading Note Generation - Workflow Run
 
 > 工作流：reading-note-generation
-> 任务：生成 2013-passage4-gender-quota 综合精读笔记并放入 2013阅读
-> 运行标识：reading-note-2013-passage4-gender-quota
-> 创建时间：2026-09-17
+> 任务：生成 2015-passage1-stress-at-home 综合精读笔记并放入 2015阅读
+> 运行标识：reading-note-2015-passage1-stress-at-home
+> 创建时间：2026-09-19
 > 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
@@ -34,12 +34,12 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 0：输入收集与状态初始化
 
-- [ ] 已读取 `.learnings/` 经验库和 `.claude/rules/workflow-routing.md`
-- [ ] 已确认英文文章文本或源文件路径
-- [ ] 已确认 year、passage、topic
-- [ ] 已确认 intermediate 目录
-- [ ] 已确认最终输出路径
-- [ ] 已记录长难句模式：AI 候选 + 用户确认
+- [x] 已读取 `.learnings/` 经验库和 `.claude/rules/workflow-routing.md`
+- [x] 已确认英文文章文本或源文件路径
+- [x] 已确认 year、passage、topic
+- [x] 已确认 intermediate 目录
+- [x] 已确认最终输出路径
+- [x] 已记录长难句模式：AI 候选 + 用户确认
 
 > [P0] ✅ 已完成 {complete}
 
@@ -153,13 +153,14 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 | 时间 | 阶段 | 问题描述 | 处理方式 |
 |------|------|---------|---------|
-| 2026-09-17 | P1/P2 | 本会话先以 `/format-article`、`/translate` 单独调用完成 P1、P2，随后才补建状态文件 | 补建状态文件后回溯标记 P1、P2 为已完成；P3 起按序推进 |
+| 2026-09-19 14:17 | P4 | 阻塞：等待用户确认长难句候选清单 | 停在当前阶段，等待用户确认或补充资料 |
+| 2026-09-19 | P0 | `passage_1_语法.md` 为空文件，无现成语法的输入 | 按 P3 规则从文章推断考研相关语法考点，并在产出中说明为推断 |
 
 ---
 
 ## 最终产出
 
-- **中间目录**：`intermediate/2013-passage4-gender-quota/`
-- **最终笔记**：`2013阅读/2013-passage4-gender-quota-精读笔记.md`
+- **中间目录**：`intermediate/2015-passage1-stress-at-home/`
+- **最终笔记**：`2015阅读/2015-passage1-stress-at-home-精读笔记.md`
 - **全局汇总**：`语法总结笔记.md`、`固定搭配与词组笔记.md`
-- **完成状态**：已完成（P0–P9 全部完成，`validate` 通过）
+- **完成状态**：
