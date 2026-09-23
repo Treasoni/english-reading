@@ -8,8 +8,8 @@ task: "生成 2015-passage4-voluntary-part-time 综合精读笔记并放入 2015
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-23"
 last_updated: "2026-09-23"
-current_phase: P9
-current_status: in_progress
+current_phase: done
+current_status: complete
 mode: guided
 blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2015阅读/passage_4.md"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2015-passage4-voluntary-part-time 综合精读笔记并放入 2015阅读
 > 运行标识：reading-note-2015-passage4-voluntary-part-time
 > 创建时间：2026-09-23
-> 当前阶段：阶段 9
+> 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -141,16 +141,16 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 9：全局汇总
 
-- [ ] 已调用 `summarize-grammar`
-- [ ] 源发现已同时覆盖 `intermediate/**/grammar-notes.md` 与 `intermediate/**/固定搭配与词组笔记.md`
-- [ ] 已合并进根目录 `语法总结笔记.md`
-- [ ] 已合并进根目录 `固定搭配与词组笔记.md`
-- [ ] 已更新两个根文件的 frontmatter（updated / total_sources / processed_sources / categories）
-- [ ] 已更新两个根文件的快速索引表
-- [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
-- [ ] 已向用户报告两个根文件的更新内容
+- [x] 已调用 `summarize-grammar`（增量更新模式：两个根文件均存在，按 SKILL 步骤 1b 走增量路径）
+- [x] 源发现已同时覆盖 `intermediate/**/grammar-notes.md`（60 个）与 `intermediate/**/固定搭配与词组笔记.md`（12 个），两类文件全量 `find` 扫描
+- [x] 已合并进根目录 `语法总结笔记.md`（追加 22 个正文小节 + 1 个「联动复习：2015 Passage 4 与既有语法点的交叉」，6380 → 6872 行；与 P3 先例逐项对齐：标题后缀 `（来源：2015-passage4-voluntary-part-time）`、正文逐字、末尾裸来源行、无 `---` 分隔、不复制前言 callout）
+- [x] 已合并进根目录 `固定搭配与词组笔记.md`（追加 `## 一`–`## 七` 七节，改写为 `### 2015 Passage 4：…（来源：…）`，`## 六、易混辨析` 内 `### n.` 降级为 `#### n.`，4309 → 4662 行）
+- [x] 已更新两个根文件的 frontmatter（两文件 `updated: 2026-09-22 → 2026-09-23`、`total_sources: 59 → 60`、各新增 1 条 P4 `processed_sources` 扁平字符串条目、无嵌套对象；`categories` 已核验：P4 内容全部落入既有类别（从句 / 非谓语动词 / 介词与连词 / 倒装与强调 / 补充要点；搭配侧 `2015新增专题`），无需新增类别项）
+- [x] 已更新两个根文件的快速索引表（语法：从句 31→32、非谓语动词 27→28、介词与连词 32→33、倒装与强调 20→21、补充要点 44→45，并补 P4 子主题；搭配：`2015 新增专题` 涉及篇章 3→4，并补 Passage 4 枚举）
+- [x] 已通过差集核验（`语法总结笔记.md`：60 源 − 60 已处理 = **差集为空**；`固定搭配与词组笔记.md`：差集为空——本篇产出搭配内容，无「纯语法」豁免项）
+- [x] 已向用户报告两个根文件的更新内容（见本轮回复）
 
-> [P9] 🔲 进行中 {in_progress}
+> [P9] ✅ 已完成 {complete}
 
 ---
 
@@ -168,4 +168,4 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - **中间目录**：`intermediate/2015-passage4-voluntary-part-time/`
 - **最终笔记**：`2015阅读/2015-passage4-voluntary-part-time-精读笔记.md`
 - **全局汇总**：`语法总结笔记.md`、`固定搭配与词组笔记.md`
-- **完成状态**：
+- **完成状态**：✅ P0–P9 全部完成（2026-09-23）
