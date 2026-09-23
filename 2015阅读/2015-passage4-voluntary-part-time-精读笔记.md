@@ -1600,7 +1600,181 @@ However, Obamacare has allowed more than 12 million people to either get insuran
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+> [!note] 说明
+> 下表收录本篇**加粗标记的生词与考点词**，按首字母分组（A-C / D-L / M-R / S-W）；**选项词**（第 36—40 题各选项中的关键词）一并收录，并在"含义"列注明出处题号。**熟词生义**（picture / decent / pace / jump / figure / condition / cover / weakness / exchanges / direction / level / take）是本篇的考查重点，已在词条中逐条标注。
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **above** | prep. | 高于（**同比用法**：above its year ago level = 高于去年同期水平） | "This figure is now 830,000 (4.4 percent) **above** its year ago level." |
+| **acceleration** | n. | 加速（第 36 题 [D] 项；原文说的是 `moving forward at a faster pace`，**并非"被忽视的部分"**） | "[D] The **acceleration** of job creation.（第 36 题）" |
+| **acquire** | v. | 获得、取得（第 38 题 [A] 项 is harder to **acquire**；非自愿兼职是**负面指标**，人们并不"争取"它） | "[A] is harder to **acquire** than one year ago（第 38 题）" |
+| **allow** | v. | 允许、使能够（**allow sb. to do sth.**，宾语后接不定式） | "Obamacare has **allowed** more than 12 million people to either get insurance through Medicaid or the exchanges." |
+| **amount** | n. | 数量（**接不可数名词**，与 number 相对；见 `## 六、易混辨析` 第 6 条） | "辨析词：the **amount of** …（+ 不可数）vs. the number of …（+ 可数复数）" |
+| **assure** | v. | 向……保证、使确信（**assure sb. of sth.**；与 insure / ensure 形近，见搭配笔记第 5 条） | "辨析词：**assure** sb. of sth.（见搭配笔记 5. cover / insure / ensure / assure）" |
+| **because of** | phr. | 因为（**接名词 / 名词短语**；because 后须接**从句**） | 对照本篇 "**because** people tell us"（从句）与 "**because of** weakness in the labor market"（短语） |
+| **challenging** | adj. | 有挑战性的（第 39 题 [C] 项；把"医改**前**很难"读成了现状） | "[C] it is still **challenging** to get insurance for family members（第 39 题）" |
+| **choice** | n. | 选择（**have no choice** = 别无选择） | "…or because they had **no choice**." |
+| **classification** | n. | 分类、归类（第 40 题 [B] 项；只是第 5 段的**局部细节**） | "[B] part-timer **classification**（第 40 题）" |
+| **classified** | v.（过去分词） | 被归类（**be classified as** + 名词 / 动名词） | "If the answer is “yes”, they are **classified as** working part-time." |
+| **condition** | n. | **疾病、身体状况**（**熟词生义**，不是"条件"） | "…especially those with serious health **conditions** or family members with serious health **conditions**" |
+| **cover** | v. | **为……投保、承保**（**熟词生义**，不是"覆盖"；判断依据是宾语为"人"且上文语境为 get insurance） | "These are people who may previously have felt the need to get a full-time job that provided insurance in order to **cover** themselves and their families." |
+
+### D-L
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **decline** | n./v. | 下降、衰退（第 38 题 [B] 项 general tendency of **decline** 即原文 general direction has been down 的同义替换） | "[B] shows a general tendency of **decline**（第 38 题）" |
+| **decent** | adj. | **尚可的、不错的**（**熟词生义**，不是"体面的"；= satisfactory） | "For now it appears the economy is creating jobs at a **decent** pace." |
+| **direction** | n. | **趋势、方向**（the general **direction** has been down = 总体趋势向下） | "There was an increase in involuntary part-time in June, but the general **direction** has been down." |
+| **distinction** | n. | 区别、区分（**make a distinction** = 做出区分；另有"杰出、荣誉"义） | "Before explaining the connection to the Obamacare, it is worth making an important **distinction**." |
+| **down by** | phr. | **下降了**（+ 幅度）；对照 **down to** = **降到**（+ 数值） | "it is **down by** 640,000 (7.9 percent) from its year ago level" |
+| **enough** | adj./adv. | 足够的（**enough + 名词** / **形容词 + enough**）；第 37 题 [B] 项 feel that is **enough** to make ends meet 意为"够用"，而原文说的是许多人"**很难**维持生计"，**不足 ≠ 够用** | "[B] feel that is **enough** to make ends meet（第 37 题）" |
+| **ensure** | v. | 确保、保证（ensure + that 从句 / ensure sth.；见搭配笔记第 5 条） | "辨析词：**ensure** that …（见搭配笔记 5. cover / insure / ensure / assure）" |
+| **essential** | adj. | 必不可少的（第 39 题 [D] 项；与原文结论**直接相反**） | "[D] full-time employment is still **essential** for insurance（第 39 题）" |
+| **evidence** | n. | 证据（**evidence of** sth. = ……的证据；**不可数**） | "An increase in involuntary part-time work is **evidence** of weakness in the labor market." |
+| **exchanges** | n. | **保险交易所**（**熟词生义**，不是"交换"；= health insurance marketplaces） | "Obamacare has allowed more than 12 million people to either get insurance through Medicaid or the **exchanges**." |
+| **explaining** | v.-ing | 解释（**介词 + 动名词**：Before **explaining** …，介词后一律接 -ing） | "Before **explaining** the connection to the Obamacare, it is worth making an important distinction." |
+| **far** | adv. | 远、大大地（**far + 比较级** = 远为……，加强程度） | "Involuntary part-time employment is still **far** higher than before the recession." |
+| **figure** | n. | **数字**（**熟词生义**；figure 另表"人物、图形、身材、认为"） | "This **figure** is now 830,000 (4.4 percent) above its year ago level." |
+| **full employment** | n. | 充分就业（经济学术语，**不是**"人人有工作"） | "We still have a long way to go to get back to **full employment**." |
+| **insurance** | n. | 保险（本篇后半篇的核心概念） | "…the only way to get **insurance** was through a job that provided health **insurance**." |
+| **involuntary** | adj. | **非自愿的**（in- + volunt + -ary；与 voluntary 是**一对反义词**，翻译时须成对出现） | "An increase in **involuntary** part-time work is evidence of weakness in the labor market." |
+| **jump** | n. | **跃升、激增**（**熟词生义**，名词） | "There was a big **jump** in the number of people who report voluntarily working part-time." |
+| **largely** | adv. | **在很大程度上、主要地**（**熟词生义**，不是"大大地"） | "there is another important part of the jobs picture that was **largely** overlooked." |
+| **less / fewer / lesser** | adj. | less 接**不可数**；fewer 接**可数复数**；lesser 表"次要的"（见搭配笔记第 3 条） | "The survey … asks people if they worked **less** than 35 hours in the reference week." |
+| **level** | n. | **水平、基准值**（**熟词生义**；year ago **level** = 去年同期水平） | "This figure is now 830,000 (4.4 percent) above its year ago **level**." |
+| **link** | n. | 联系、纽带（**a link between A and B**） | "With Obamacare there is no longer a **link** between employment and insurance." |
+| **lower** | adj. | 更低的（第 38 题 [D] 项；原文是 `far **higher** than before the recession`，**正相反**） | "[D] is **lower** than before the recession（第 38 题）" |
+
+### M-R
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **make ends meet** | phr. | **收支相抵、维持生计**（习语，**不能直译**"让两端相遇"；第 37 题 [B] 项干扰源） | "…many people will be having a very hard time **making ends meet**." |
+| **Medicaid** | n. | 医疗补助计划（面向**低收入人群**的公共医保；与 Medicare **仅差一个字母**） | "Obamacare has allowed more than 12 million people to either get insurance through **Medicaid** or the exchanges." |
+| **Medicare** | n. | 联邦医疗保险（面向**老年人、残障人士**；见搭配笔记第 2 条） | "辨析词：**Medicare** vs. Medicaid（见搭配笔记 2. Medicaid / Medicare / Obamacare）" |
+| **more than** | phr. | 超过（**more than + 数词** = 超过……） | "Obamacare has allowed **more than** 12 million people to either get insurance through Medicaid or the exchanges." |
+| **number** | n. | 数量（**the number of** + 可数复数，谓语用**单数**；与 amount 相对） | "There was a big jump in the **number** of people who report voluntarily working part-time." |
+| **Obamacare** | n. | 奥巴马医改（= the Affordable Care Act, ACA） | "The issue of voluntary part-time relates to **Obamacare** because one of the main purposes was to allow people to get insurance outside of employment." |
+| **overlook** | v. | **忽视、漏看**（= fail to notice；与 **look over**"检查"**方向相反**，勿混） | "there is another important part of the jobs picture that was largely **overlooked**." |
+| **pace** | n. | **速度、步伐**（**熟词生义**；本篇 pace 连用两次，是作者的**评价性措辞**） | "creating jobs at a decent **pace** … moving forward at a faster **pace**" |
+| **picture** | n. | **图景、形势**（**熟词生义**，the jobs **picture** = 就业形势的全貌，不是"工作照片"） | "However, there is another important part of the jobs **picture** that was largely overlooked." |
+| **precondition** | n. | **前提条件**（第 39 题 [B] 项；即原文 no longer a link 的**同义改写**） | "[B] employment is no longer a **precondition** to get insurance（第 39 题）" |
+| **prospect** | n. | 前景、可能性（第 36 题 [A] 项；属第 1 段**已提及的好消息**） | "[A] The **prospect** of a thriving job market（第 36 题）" |
+| **provided** | v.（过去式） | 提供（**主动语态**：a job that **provided** health insurance，不是被动 be provided） | "…the only way to get insurance was through a job that **provided** health insurance." |
+| **quantity** | n. | 数量（接不可数名词；见搭配笔记第 6 条） | "辨析词：**quantity** / amount / number / figure（见搭配笔记 6）" |
+| **recession** | n. | **经济衰退**（the recession 指 2007–2009 年**大衰退**，是本文的时间参照点） | "Involuntary part-time employment is still far higher than before the **recession**." |
+| **reference week** | n. | **调查参照周**（调查术语，**不能**译"参考星期"） | "The survey used by the Labor Department asks people if they worked less than 35 hours in the **reference week**." |
+| **relate to** | phr. | **与……相关、有关联**（**不是**"讲述"；本篇的**题眼句**所用搭配） | "The issue of voluntary part-time **relates to** Obamacare because one of the main purposes was to allow people to get insurance outside of employment." |
+| **report** | v. | **报告、自述**（**report + 动名词**：report doing sth. = 报告自己做某事，**不是**宾语从句） | "There was a big jump in the number of people who **report** voluntarily working part-time." |
+
+### S-W
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **satisfy** | v. | 满足（第 38 题 [C] 项；原文把非自愿兼职定为 `evidence of weakness`，**不是"满足需要"**） | "[C] **satisfies** the real need of the jobless（第 38 题）" |
+| **spontaneous** | adj. | **自发的、不由自主的**（与 voluntary"自愿的"语义不同；见搭配笔记第 1 条） | "辨析词：**spontaneous** vs. voluntary / willing（见搭配笔记 1）" |
+| **still** | adv. | 仍然（`still far higher` 提示"**尚未恢复**"，是排除第 38 题 [D] 项的语法依据） | "Involuntary part-time employment is **still** far higher than before the recession." |
+| **survey** | n. | 调查（本篇"数据从何而来"的关键词） | "The **survey** used by the Labor Department asks people if they worked less than 35 hours in the reference week." |
+| **survey taker** | n. | **调查员**（taker 在此指执行/接受调查的一方） | "They are only classified as voluntary part-time workers if they tell the **survey taker** they chose to work less than 35 hours a week." |
+| **take** | v. | **从事、承担**（**熟词生义**：take part-time work = 做兼职） | "They **take** part-time work because this is all they can get." |
+| **tendency** | n. | 趋势、倾向（第 38 题 [B] 项；**同义替换**原文 general direction has been down） | "[B] shows a general **tendency** of decline（第 38 题）" |
+| **thriving** | adj. | 繁荣的、兴旺的（第 36 题 [A] 项；属第 1 段**已提及的好消息**） | "[A] The prospect of a **thriving** job market（第 36 题）" |
+| **trouble** | n. | 麻烦（第 40 题 [D] 项；全文对医改**只作事实陈述、无负面评价**） | "[D] Obamacare's **trouble**（第 40 题）" |
+| **unemployment rate** | n. | **失业率**（= the jobless rate） | "…along with the drop in the **unemployment rate** to 6.1 percent" |
+| **voluntarily** | adv. | 自愿地（与 voluntary 同源；**voluntarily working part-time** = 自愿从事兼职） | "There was a big jump in the number of people who report **voluntarily** working part-time." |
+| **voluntary** | adj. | **自愿的**（与 involuntary 相对；本篇核心词，第 36、37、38 题的定位词） | "They are only classified as **voluntary** part-time workers if they tell the survey taker they chose to work less than 35 hours a week." |
+| **weakness** | n. | **疲软、薄弱**（**熟词生义**，不是"缺点"） | "An increase in involuntary part-time work is evidence of **weakness** in the labor market." |
+| **willing** | adj. | 愿意的（**be willing to do**；与 voluntary 的"自愿"细微不同，见搭配笔记第 1 条） | "辨析词：**willing** vs. voluntary / spontaneous（见搭配笔记 1）" |
+| **worth** | adj. | 值得（**be worth doing**，后接动名词**主动形式**；❌ be worth to do / be worth being done） | "Before explaining the connection to the Obamacare, it is **worth** making an important distinction." |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> above / cover / decent / distinction / evidence / figure / involuntary / make ends meet / overlook / precondition
+
+1. However, there is another important part of the jobs picture that was largely ________.
+2. For now it appears the economy is creating jobs at a ________ pace.
+3. This ________ is now 830,000 (4.4 percent) ________ its year ago level.
+4. Before explaining the connection to the Obamacare, it is worth making an important ________.
+5. An increase in ________ part-time work is ________ of weakness in the labor market, and it means that many people will be having a very hard time ________ ________ ________.
+6. These are people who may previously have felt the need to get a full-time job that provided insurance in order to ________ themselves and their families.
+7. With Obamacare there is no longer a link between employment and insurance — employment is no longer a ________ to get insurance.
+
+> [!abstract]- 答案
+> 1. **overlooked**（忽视、漏看——largely overlooked 在很大程度上被忽视；与 look over"检查"**方向相反**）
+> 2. **decent**（尚可的、不错的——**熟词生义**，不是"体面的"）
+> 3. **figure**（数字——**熟词生义**）；**above**（高于——**同比用法**，above its year ago level = 高于去年同期水平）
+> 4. **distinction**（区别、区分——**make a distinction** 做出区分）
+> 5. **involuntary**（非自愿的——与 voluntary 相对）；**evidence**（证据——evidence of sth. = ……的证据，不可数）；**making ends meet**（收支相抵、维持生计——习语；`have a hard time **doing** sth.` 后接**动名词**，不能用 to do）
+> 6. **cover**（为……投保——**熟词生义**；判断依据是宾语是"人"且上文语境为 get insurance）
+> 7. **precondition**（前提条件——第 39 题 [B] 项 `no longer a precondition` 即原文 `no longer a link` 的**同义改写**）
+
+**二、短语翻译**
+
+将下列词组翻译成中文：
+
+1. talk of A as B
+
+2. above its year ago level
+
+3. be down by / be down to
+
+4. be classified as
+
+> [!abstract]- 答案
+> 1. **talk of A as B** = **把 A 视为 / 说成 B**（as 引出**宾语补足语**；本篇 `talked of the 288,000 new jobs … as good news`，**不能**译成"谈论好消息"）
+> 2. **above its year ago level** = **高于去年同期水平**（经济类文章的**同比写法**；介词用 **above** 表"高于"，与 year-on-year 同义）
+> 3. **be down by + 幅度** = **下降了……**；**be down to + 数值** = **降到……**（**介词不同、含义不同**：`down by 640,000` = 降了 64 万，`down to 640,000` = 降到 64 万）
+> 4. **be classified as** = **被归类为**（as 为**介词**，后接名词或动名词：`are classified as working part-time`）
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "However, there is another important part of the jobs **picture** that was largely overlooked." 中 **picture** 的含义是：
+   - A. 照片、相片
+   - B. 图景、形势（全貌）
+   - C. 电影
+   - D. 描绘、描写
+
+2. "An increase in **involuntary** part-time work is evidence of weakness in the labor market." 中 **involuntary** 的含义是：
+   - A. 不由自主的、无意识的（本能的）
+   - B. 非自愿的、迫不得已的
+   - C. 不重要的、次要的
+   - D. 无偿的、没有报酬的
+
+3. "Before explaining the connection to the Obamacare, it is worth making an important **distinction**." 中 **distinction** 的含义是：
+   - A. 区别、差异
+   - B. 杰出、卓越
+   - C. 荣誉、勋章
+   - D. 特征、特点
+
+4. "For many people, especially those with serious health **conditions** …" 中 **condition** 的含义是：
+   - A. 条件、前提
+   - B. 疾病、（身体的）健康状况
+   - C. 环境、境况
+   - D. 条款、规定
+
+5. "…in order to **cover** themselves and their families." 中 **cover** 的含义是：
+   - A. 覆盖、遮盖
+   - B. 为……投保、承保
+   - C. 报道、采访
+   - D. 行走（一段路程）
+
+> [!abstract]- 答案
+> 1. **B** — `the jobs picture` 是新闻英语中的**固定表达**，指"**就业图景 / 就业形势的全貌**"；本篇讨论的是**就业数据**（新增岗位、失业率、兼职人数），全无"照片"之意。A 项固守字面义，C、D 项与语境不符。
+> 2. **B** — 本句说的是"**非自愿兼职**的增加是劳动力市场**疲软**的证据"，前文更明确其定义：`Many people who work part-time jobs actually want full-time jobs. They take part-time work because this is all they can get.`——想做全职而只能兼职，即"**非自愿、迫不得已**"。A 项"不由自主"对应的是 **spontaneous / involuntary** 在生理义上的用法（如 involuntary muscle movement），**不能用于此处表示"选择的被迫性"**；C、D 两项均与语境无关。
+> 3. **A** — 本句是全文的**方法论交代句**：下文马上区分 `voluntary` 与 `involuntary` part-time，`make a **distinction**` 是固定搭配"**做出区分**"；B、C 两项是 distinction 的**熟词生义**（"杰出 / 荣誉"，如 win a distinction），与本句语境不符；D 项"特征"无据。
+> 4. **B** — **熟词生义**：`serious health **conditions**` 与 `those with …` 搭配，指"那些患有**严重疾病**的人"，下文 `the only way to get insurance` 正说明这与**医疗、保险**相关。A 项"条件"、D 项"条款"固守常用义；C 项"环境"不适用于 `health conditions` 这一搭配。
+> 5. **B** — **熟词生义**：本句谈的是**保险**（`get a full-time job that provided insurance`），宾语又是"**人**"（themselves and their families），故 `cover` 在此为"**为……投保、承保**"（= insure）。A 项"覆盖"是本义，与"人 + 保险"的语境不符；C 项"报道"、D 项"行走"均无据。
 
 ---
 

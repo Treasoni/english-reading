@@ -8,7 +8,7 @@ task: "生成 2015-passage4-voluntary-part-time 综合精读笔记并放入 2015
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-23"
 last_updated: "2026-09-23"
-current_phase: P7
+current_phase: P9
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2015-passage4-voluntary-part-time 综合精读笔记并放入 2015阅读
 > 运行标识：reading-note-2015-passage4-voluntary-part-time
 > 创建时间：2026-09-23
-> 当前阶段：阶段 7
+> 当前阶段：阶段 9
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -117,24 +117,25 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 7：生词表与练习
 
-- [ ] 已调用 `extract-vocabulary`
-- [ ] 已生成或更新 `## 生词表`
-- [ ] 已生成或更新 `### 生词练习`
-- [ ] 已补充短语内重要独立词条
+- [x] 已调用 `extract-vocabulary`（替换笔记中的 `<!-- VOCABULARY_SLOT -->`，替换后占位符残留 0）
+- [x] 已生成或更新 `## 生词表`（67 个词条，按 `### A-C / ### D-L / ### M-R / ### S-W` 四组；含义列标注**熟词生义**与**选项词出处题号**）
+- [x] 已生成或更新 `### 生词练习`（三种题型齐全：一、选词填空 7 题；二、短语翻译 4 题；三、语境理解 5 题；三处 `> [!abstract]- 答案` 折叠解析）
+- [x] 已补充短语内重要独立词条（taker / level / employment / ends / reference / choice / link / precondition / classification 等，以及 `make ends meet`、`reference week`、`survey taker`、`year ago level`、`be classified as`、`be down by vs be down to`、`talk of A as B`、`above its year ago level` 等短语）
+- [x] 覆盖核验：文章与翻译区间的加粗词汇 86 项逐项比对，除虚词外**仅 `enough` 一处未收录，已补入 D-L 组**；结构校验 标题缺空格 0 / 表格前缺空行 0 / callout 嵌套 0 / callout 未闭合 0
 
-> [P7] 🔲 进行中 {in_progress}
+> [P7] ✅ 已完成 {complete}
 
 ---
 
 ## 阶段 8：最终验证与收尾
 
-- [ ] 已确认所有中间文件存在
-- [ ] 已确认最终精读笔记存在
-- [ ] 已确认最终笔记不含词汇占位符
-- [ ] 已检查 Markdown 标题、YAML 和表格格式
-- [ ] 已向用户报告输出路径
+- [x] 已确认所有中间文件存在（`formatted-article.md` 522 行 / `translation.md` 66 行 / `grammar-notes.md` 564 行 / `固定搭配与词组笔记.md` 399 行，目录内无临时文件残留）
+- [x] 已确认最终精读笔记存在（`2015阅读/2015-passage4-voluntary-part-time-精读笔记.md`，1861 行 / 135,863 字符）
+- [x] 已确认最终笔记不含词汇占位符（`VOCABULARY_SLOT` 出现 0 次）
+- [x] 已检查 Markdown 标题、YAML 和表格格式（标题缺空格 0 / 表格前缺空行 0 / 嵌套 callout 0 / 未闭合 callout 0 / 代码围栏 26 且为偶数；YAML 键 8 项、无嵌套对象、列表统一 2 空格缩进）
+- [x] 已向用户报告输出路径（见本轮回复）
 
-> [P8] ⬜ 未开始 {not_started}
+> [P8] ✅ 已完成 {complete}
 
 ---
 
@@ -149,7 +150,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
 - [ ] 已向用户报告两个根文件的更新内容
 
-> [P9] ⬜ 未开始 {not_started}
+> [P9] 🔲 进行中 {in_progress}
 
 ---
 
