@@ -8,7 +8,7 @@ task: "生成 2015-passage4-voluntary-part-time 综合精读笔记并放入 2015
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-23"
 last_updated: "2026-09-23"
-current_phase: P6
+current_phase: P7
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2015-passage4-voluntary-part-time 综合精读笔记并放入 2015阅读
 > 运行标识：reading-note-2015-passage4-voluntary-part-time
 > 创建时间：2026-09-23
-> 当前阶段：阶段 6
+> 当前阶段：阶段 7
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -106,12 +106,12 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 6：综合笔记整合
 
-- [ ] 已调用 `compile-note`
-- [ ] 已使用用户确认的最终输出路径
-- [ ] 已保留文章原文中的内联长难句分析
-- [ ] 已插入词汇占位符
+- [x] 已调用 `compile-note`（产出 `2015阅读/2015-passage4-voluntary-part-time-精读笔记.md`，1686 行）
+- [x] 已使用用户确认的最终输出路径（`2015阅读/2015-passage4-voluntary-part-time-精读笔记.md`）
+- [x] 已保留文章原文中的内联长难句分析（12/12 个 `> [!abstract]- 长难句分析` 块逐句内联在"文章原文"章节；可见英文内容归一化比对与 `formatted-article.md` **完全一致**（2194 == 2194），翻译对照段同样一致（3058 == 3058），语法要点与固定搭配两节为源文件**连续片段逐字嵌入**）
+- [x] 已插入词汇占位符（全文恰好 1 处 `<!-- VOCABULARY_SLOT -->`，位于"固定搭配与词组"之后、"心得"之前）
 
-> [P6] 🔲 进行中 {in_progress}
+> [P6] ✅ 已完成 {complete}
 
 ---
 
@@ -122,7 +122,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `### 生词练习`
 - [ ] 已补充短语内重要独立词条
 
-> [P7] ⬜ 未开始 {not_started}
+> [P7] 🔲 进行中 {in_progress}
 
 ---
 
