@@ -8,7 +8,7 @@ task: "生成 2015-passage4-voluntary-part-time 综合精读笔记并放入 2015
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-23"
 last_updated: "2026-09-23"
-current_phase: P0
+current_phase: P3
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2015-passage4-voluntary-part-time 综合精读笔记并放入 2015阅读
 > 运行标识：reading-note-2015-passage4-voluntary-part-time
 > 创建时间：2026-09-23
-> 当前阶段：阶段 0
+> 当前阶段：阶段 3
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -37,11 +37,12 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [x] 已读取 `.learnings/` 经验库和 `.claude/rules/workflow-routing.md`
 - [x] 已确认英文文章文本或源文件路径
 - [x] 已确认 year、passage、topic
-- [ ] 已确认 intermediate 目录
-- [ ] 已确认最终输出路径
+- [x] 已确认 intermediate 目录（`intermediate/2015-passage4-voluntary-part-time/`）
+- [x] 已确认最终输出路径（用户确认 `2015阅读/2015-passage4-voluntary-part-time-精读笔记.md`）
 - [x] 已记录长难句模式：AI 候选 + 用户确认
+- [x] 已确认语法笔记来源：无现成语法笔记（`passage_1_语法.md` 为 0 字节空文件），采用**推断模式**（从文章推断考研相关语法点）
 
-> [P0] 🔲 进行中 {in_progress}
+> [P0] ✅ 已完成 {complete}
 
 ---
 
@@ -52,7 +53,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已确认原文内容未删改
 - [ ] 已确认标题格式适合 Obsidian
 
-> [P1] ⬜ 未开始 {not_started}
+> [P1] ✅ 已完成 {complete}
 
 ---
 
@@ -62,7 +63,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `translation.md`
 - [ ] 已保持原文段落结构
 
-> [P2] ⬜ 未开始 {not_started}
+> [P2] ✅ 已完成 {complete}
 
 ---
 
@@ -73,7 +74,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已核验语法笔记信息密度未丢失
 - [ ] 已加入必要的跨节联动复习
 
-> [P3] ⬜ 未开始 {not_started}
+> [P3] 🔲 进行中 {in_progress}
 
 ---
 
