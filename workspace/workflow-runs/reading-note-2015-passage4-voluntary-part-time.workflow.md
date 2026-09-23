@@ -8,7 +8,7 @@ task: "生成 2015-passage4-voluntary-part-time 综合精读笔记并放入 2015
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-23"
 last_updated: "2026-09-23"
-current_phase: P3
+current_phase: P6
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2015-passage4-voluntary-part-time 综合精读笔记并放入 2015阅读
 > 运行标识：reading-note-2015-passage4-voluntary-part-time
 > 创建时间：2026-09-23
-> 当前阶段：阶段 3
+> 当前阶段：阶段 6
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -69,35 +69,38 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 3：语法整理
 
-- [ ] 已调用 `organize-grammar`
-- [ ] 已生成或更新 `grammar-notes.md`
-- [ ] 已核验语法笔记信息密度未丢失
-- [ ] 已加入必要的跨节联动复习
+- [x] 已调用 `organize-grammar`
+- [x] 已生成或更新 `grammar-notes.md`（`intermediate/2015-passage4-voluntary-part-time/grammar-notes.md`，565 行，23 个 `###` 扁平小节 + `### 跨节联动复习`）
+- [x] 已生成 `固定搭配与词组笔记.md`（`intermediate/2015-passage4-voluntary-part-time/固定搭配与词组笔记.md`，400 行，`## 一`–`## 七` 七节，`## 六、易混辨析` 下 `### 1.`–`### 8.` 编号子项，符合"固定搭配与词组独立成笔记"铁律）
+- [x] 已核验语法笔记信息密度未丢失（逐段核对源文章，含词源拆解、术语、熟词生义、命题定位等教学细节）
+- [x] 已加入必要的跨节联动复习（`### 跨节联动复习` 19 行对照表 + 与 2015 Passage 1/2/3 的横向对照 callout；两文件以 `[[语法总结笔记]]` / `[[固定搭配与词组笔记]]` 双向引用）
+- [x] 已通过结构校验：标题缺空格 0 / 表格前缺空行 0 / callout 嵌套 0 / callout 未闭合 0（两文件均通过）
 
-> [P3] 🔲 进行中 {in_progress}
+> [P3] ✅ 已完成 {complete}
 
 ---
 
 ## 阶段 4：长难句候选确认
 
-- [ ] 已从 `formatted-article.md` 选出候选长难句
-- [ ] 已说明每个候选句的分析价值
-- [ ] 已获得用户确认、删改或补充
+- [x] 已从 `formatted-article.md` 选出候选长难句（10 句正选 + 1 句备选，覆盖第 1–6 段；候选清单与推荐理由已输出给用户）
+- [x] 已说明每个候选句的分析价值（逐句给出结构难点 + 命题关联）
+- [x] 已获得用户确认、删改或补充（用户回复「全部」→ 10 正选 + 1 备选全部保留；另将第 7 段结论句一并纳入，共 12 句进入 P5）
 
-> [P4] ⬜ 未开始 {not_started}
+> [P4] ✅ 已完成 {complete}
 
 ---
 
 ## 阶段 5：长难句分析与内联插入
 
-- [ ] 已调用 `analyze-sentence`
-- [ ] 已把分析块插入文章原文对应句子之后
-- [ ] 已确认多句同段时采用逐句交替结构
-- [ ] 已确认每个 callout 第一行包含完整原句
-- [ ] 已确认 callout 内表格前有空行
-- [ ] 已检查后续段落没有异常开头
+- [x] 已调用 `analyze-sentence`
+- [x] 已把分析块插入文章原文对应句子之后（`formatted-article.md` 共插入 12 个 `> [!abstract]- 长难句分析` 块，覆盖 7 个段落）
+- [x] 已确认多句同段时采用逐句交替结构（12/12 校验：每个分析块的 `原句` 均为其前置原文行的**末句**，逐句交替成立）
+- [x] 已确认每个 callout 第一行包含完整原句（12/12 含 `> **原句**：`，且与前置原句逐字一致）
+- [x] 已确认 callout 内表格前有空行（表格首行前缺空行 0）
+- [x] 已检查后续段落没有异常开头（正文 13 行段落均完整；`formatted-article.md` 与原文的可见英文内容归一化比对**完全一致**，3204 == 3204 字符，无截断）
+- [x] 结构校验：标题缺空格 0 / 嵌套 callout 0 / 未闭合 callout 0 / 代码围栏 24（12 对）且每块均含 主干提取·修饰成分·结构图解·参考译文·考点提示
 
-> [P5] ⬜ 未开始 {not_started}
+> [P5] ✅ 已完成 {complete}
 
 ---
 
@@ -108,7 +111,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已保留文章原文中的内联长难句分析
 - [ ] 已插入词汇占位符
 
-> [P6] ⬜ 未开始 {not_started}
+> [P6] 🔲 进行中 {in_progress}
 
 ---
 
@@ -154,6 +157,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 | 时间 | 阶段 | 问题描述 | 处理方式 |
 |------|------|---------|---------|
+| 2026-09-23 12:26 | P4 | 阻塞：等待用户确认长难句候选清单（10 正选 + 1 备选） | 停在当前阶段，等待用户确认或补充资料 |
 | | | | |
 
 ---
