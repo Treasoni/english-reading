@@ -8,7 +8,7 @@ task: "生成 2016-passage1-coding-classes 综合精读笔记并放入 2016阅�
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-24"
 last_updated: "2026-09-24"
-current_phase: P7
+current_phase: P9
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2016-passage1-coding-classes 综合精读笔记并放入 2016阅读
 > 运行标识：reading-note-2016-passage1-coding-classes
 > 创建时间：2026-09-24
-> 当前阶段：阶段 7
+> 当前阶段：阶段 9
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -118,24 +118,25 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 7：生词表与练习
 
-- [ ] 已调用 `extract-vocabulary`
-- [ ] 已生成或更新 `## 生词表`
-- [ ] 已生成或更新 `### 生词练习`
-- [ ] 已补充短语内重要独立词条
+- [x] 已调用 `extract-vocabulary`
+- [x] 已生成或更新 `## 生词表`（4 个字母分组表 + 「选项词速查」表，共 51 条词条，含熟词生义 5 条）
+- [x] 已生成或更新 `### 生词练习`（选词填空 10 题 + 短语翻译 4 题 + 语境理解 4 题，答案均为 `> [!abstract]- 答案` 折叠 callout）
+- [x] 已补充短语内重要独立词条（brim / chunk / coder / packed / gear / turnover / sole 等独立列条）
+- [x] 已确认占位符完全移除（`<!-- VOCABULARY_SLOT -->` 计数 0；笔记由 1437 行增至 1608 行）
 
-> [P7] 🔲 进行中 {in_progress}
+> [P7] ✅ 已完成 {complete}
 
 ---
 
 ## 阶段 8：最终验证与收尾
 
-- [ ] 已确认所有中间文件存在
-- [ ] 已确认最终精读笔记存在
-- [ ] 已确认最终笔记不含词汇占位符
-- [ ] 已检查 Markdown 标题、YAML 和表格格式
-- [ ] 已向用户报告输出路径
+- [x] 已确认所有中间文件存在（formatted-article.md 37 KB / translation.md 15 KB / grammar-notes.md 39 KB / 固定搭配与词组笔记.md 32 KB）
+- [x] 已确认最终精读笔记存在（`2016阅读/2016-passage1-coding-classes-精读笔记.md`，1608 行 / 164 KB）
+- [x] 已确认最终笔记不含词汇占位符（全库 grep `VOCABULARY_SLOT` 命中 0）
+- [x] 已检查 Markdown 标题、YAML 和表格格式（标题缺空格 0 / 表格前缺空行 0 / frontmatter 无嵌套对象 / 15 个 `> [!abstract]-` 折叠块闭合正常）
+- [x] 已向用户报告输出路径
 
-> [P8] ⬜ 未开始 {not_started}
+> [P8] ✅ 已完成 {complete}
 
 ---
 
@@ -150,7 +151,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
 - [ ] 已向用户报告两个根文件的更新内容
 
-> [P9] ⬜ 未开始 {not_started}
+> [P9] 🔲 进行中 {in_progress}
 
 ---
 

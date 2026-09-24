@@ -1358,7 +1358,178 @@ Indeed, the Flatiron students might not go into **IT** at all. But creating a fu
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+> [!note] 说明
+> 下表收录本篇**加粗标记的生词与考点词**，按首字母分组（A-C / D-L / M-R / S-W）；**短语中可能不认识的独立单词**（brim / chunk / coder / gear / turnover / sole 等）一并列出，便于单独记忆。**熟词生义**（exposure / relevant / turnover / interest / sole）与**选项词**（标注出处题号）是本篇考查重点，已在词条中逐条说明。
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **apply to** | phr. | **适用于**（不及物搭配，宾语不可省；第 23 题 [A] 项的同义改写对象） | "But the skills they learn … **apply to** any coding language…" |
+| **army** | n. | **大批、一大群**（**量词比喻**，不是"军队"；第 24 题 [A] 项把"很多"读成了"竞争"） | "But creating a future **army** of coders is not the sole purpose of the classes." |
+| **beneficial** | adj. | 有益的、有好处的（= helpful） | "However, Cortina said, early exposure is **beneficial**." |
+| **benefit from** | phr. | 从……中受益（**from 后接动名词**，❌ benefit from to do） | "Students also **benefit from** learning something about coding…" |
+| **bite-sized** | adj. | 一口大小的（**复合形容词**，名词 + -ed） | "Breaking down problems into **bite-sized** chunks…" |
+| **bootcamp** | n. | （短期密集的）训练营、集训班 | "…started as one of the many coding **bootcamps**…" |
+| **brim** | n. | 容器的边缘（`to the brim` = 满到边沿） | "…introductory computer-science classes are packed to the **brim**…" |
+| **career change** | n. | 转行、职业转换（本篇指**成人学员**，第 22 题 [C] 项把它安到高中生身上） | "…popular for adults looking for a **career change**." |
+| **catch up** | phr. | 赶上、跟上（**此处不接宾语**；catch up with sb. = 追上某人） | "Students without experience can **catch up** after a few introductory courses…" |
+| **chunk** | n. | 大块、厚块（bite-sized chunks = 一口大小的块，喻"把难题拆小"） | "Breaking down problems into bite-sized **chunks**…" |
+| **coax** | v. | **哄劝、诱导**（coax sb. into doing sth.；第 25 题词义题，答案 persuade） | "…how to **coax** the machine into producing what they want…" |
+| **coder** | n. | 程序员（= programmer） | "…creating a future army of **coders**…" |
+| **coding** | n. | 编程、写代码 | "It's true that high-school **coding** classes aren't essential…" |
+| **consultant** | n. | 顾问（an education consultant = 教育顾问） | "…said Deborah Seehorn, an education **consultant** for the state of North Carolina." |
+| **curriculum** | n. | 课程（体系）；**复数 curricula 或 curriculums** | "The high-schoolers get the same **curriculum**…" |
+
+### D-L
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **drive … away** | phr. | 把……赶走、使不愿再来 | "…which can **drive** the less-experienced or -determined students **away**." |
+| **drop out of** | phr. | 退学、退出（**out of 不可省略**） | "…probably won't **drop out of** high school and build the next Facebook." |
+| **essential** | adj. | 必不可少的、绝对必要的（**绝对化形容词**，第 1 段让步句的核心词） | "…high-school coding classes aren't **essential** for learning computer science in college." |
+| **exposure** | n. | **接触、涉猎**（**熟词生义**，不是"曝光"；= the act of experiencing sth.；第 21 题题干用词） | "…early **exposure** is beneficial." |
+| **gear … toward** | phr. | 使……针对、向……靠拢（**不是"齿轮"**；第 22 题 [D] 项的定位点） | "…we try to **gear** lessons **toward** things they're interested in…" |
+| **high-schooler** | n. | 高中生（本篇指 Flatiron 招收的高中生） | "**The high-schoolers** get the same curriculum…" |
+| **hypothesis** | n. | 假设；**复数 hypotheses**（-is → -es） | "…or test **hypotheses**." |
+| **information technology (IT)** | n. | 信息技术（`go into IT` = 进入 IT 行业；第 24 题 [B] 项的定位词） | "Indeed, the Flatiron students might not go into **IT** at all." |
+| **introductory** | adj. | 入门的、导论性的（introduce + -ory；本篇两次出现） | "…after a few **introductory** courses…" |
+| **jobs gap** | n. | **岗位缺口**（岗位需求与合格人才之差，**不是"失业"**） | "…and help fill the **jobs gap**, Cortina said." |
+| **logically** | adv. | 有条理地、合乎逻辑地（修饰 think） | "…how to think **logically** through a problem…" |
+
+### M-R
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **mood** | n. | 心情、情绪（based on your mood = 根据你的心情） | "…one of the apps the students are developing suggests movies based on your **mood**." |
+| **packed** | adj. | 挤满的、塞满的（are packed to the brim = 被挤得满满当当） | "…introductory computer-science classes are **packed** to the brim…" |
+| **persuade** | v. | 说服、劝说（第 25 题答案；与 coax 句法平行，都接 `into doing`） | "（第 25 题）[B] **persuade**" |
+| **programming** | n. | 编程、程序设计（programming language = 编程语言） | "The Flatiron School, where people pay to learn **programming**…" |
+| **relevant** | adj. | **有用的、派得上用场的**（**熟词生义**，不是"相关的"；be relevant to 才是"与……相关"） | "…may not even be **relevant** by the time they enter the job market." |
+| **remodel** | v. | 重塑、改造（第 21 题 [B] 项，**transform 的同义替换**） | "（第 21 题）[B] **remodel** the way of thinking" |
+| **Ruby on Rails** | n. | Ruby on Rails（2000 年代中期流行的 Web 开发框架；作者用它作"会过时的语言"的例子） | "…the “**Ruby on Rails**” language they learned may not even be relevant…" |
+
+### S-W
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **sole** | adj. | **唯一的、仅有的**（= only；**"不是唯一目的"≠"不是目的"**，第 24 题陷阱所在） | "…is not the **sole** purpose of the classes." |
+| **string** | n. | 一串、一连串（a string of = 一连串的） | "…not just a confusing, endless **string** of letters and numbers…" |
+| **surrounded** | v.-ed | 被包围（be surrounded by = 被……包围） | "These kids are going to be **surrounded** by computers…" |
+| **the less-experienced or -determined** | phr. | 经验较少或**决心不足**的（**后缀共享压缩**，= the less experienced or **less** determined；词首连字符是标志） | "…which can drive **the less-experienced or -determined** students away." |
+| **the younger … the better** | phr. | 越……越……（`the + 比较级` 比例句式；末尾省略 it is） | "**The younger** they learn how computers think … **the better**." |
+| **transform** | v. | 转变、转换（transform A into B；第 21 题 [B] 项 remodel 的同义原词） | "It's not as hard for them to **transform** their thought processes…" |
+| **turnover** | n. | **更替、换代（速度）**（**熟词生义**，不是"营业额、人员流动率"） | "Programming languages have a quick **turnover**…" |
+
+### 选项词速查（第 21—25 题）
+
+| 选项词 | 词性 | 含义 | 出处与判定 |
+|--------|------|------|-----------|
+| **formulate** | v. | 提出、构想（**提出**假设；原文是 `test` **检验**假设） | 第 21 题 [C]，**动词被偷换** |
+| **perfect** | v. | 使完善、使完美（原文是 `create artwork` **创作**艺术作品） | 第 21 题 [D]，**动词被偷换** |
+| **academic backgrounds** | n. | 学业背景（全文未提） | 第 22 题 [B]，**无据** |
+| **career prospects** | n. | 职业前景（借用了成人学员的 `career change`） | 第 22 题 [C]，**主体错位** |
+| **upgrade** | v. | 升级、提升（原文只有 `may not even be relevant` "**可能**无用"） | 第 23 题 [B]，**语气被拔高 + 主体混淆** |
+| **compete** | v. | 竞争（把量词比喻 `army of coders` 读成"竞争对手"） | 第 24 题 [A]，**比喻误读** |
+| **digitalized** | adj. | 数字化的（the digitalized world ↔ surrounded by computers） | 第 24 题 [C]，**正确答案** |
+| **innovative** | adj. | 创新的（全文未提"创新"） | 第 24 题 [D]，**无据** |
+| **challenge / frighten / misguide** | v. | 挑战 / 吓唬 / 误导（与 coax 的"**柔性地诱导**"方向或目的相悖） | 第 25 题 [A][C][D]，**干扰项** |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> essential / exposure / hypotheses / transform / gear / relevant / turnover / sole / coax / beneficial
+
+1. Early ________ to a second language helps children pick up the accent far more easily than adults.
+
+2. It is not ________ to own a car in this city — the subway runs all night.
+
+3. The researchers set out to test three ________ about why consumers switch brands.
+
+4. A good teacher knows how to ________ difficult ideas into a form that beginners can grasp.
+
+5. Schools should ________ lessons toward what students are genuinely curious about.
+
+6. Much of what you learn today may not be ________ ten years from now.
+
+7. The company's rapid staff ________ means new employees rarely stay more than a year.
+
+8. Making money is not the ________ purpose of education.
+
+9. Parents often ________ children into eating vegetables by turning the meal into a game.
+
+10. Regular exercise is ________ to both body and mind.
+
+> [!abstract]- 答案
+> 1. **exposure** — "早期**接触**"（熟词生义，**不是"曝光"**）；搭配 `early exposure to`。
+> 2. **essential** — "必不可少的"；`It is not essential to do sth.` 是**评价句式**。
+> 3. **hypotheses** — "假设"的**复数**（单数 hypothesis）；搭配 `test hypotheses`（**检验**假设）。
+> 4. **transform** — "把……转变为……"；`transform A into B`，第 21 题 [B] 项 remodel 的同义原词。
+> 5. **gear** — "使（课程）针对……"；`gear sth. toward sth.`，**不是"齿轮"**。
+> 6. **relevant** — "有用、派得上用场"（熟词生义）；与第 23 题 [B] 项"必须升级"的判断直接对照。
+> 7. **turnover** — "更替、换代速度"（熟词生义）；`have a quick turnover`。
+> 8. **sole** — "唯一的"；与 `is not the sole purpose`（**不是唯一目的**）同构。
+> 9. **coax** — "哄劝、诱导"；`coax sb. into doing sth.`，与 `persuade sb. into doing sth.` 句法平行。
+> 10. **beneficial** — "有益的"；`be beneficial to`。
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. gear lessons toward things they're interested in
+
+2. apply to any coding language
+
+3. be packed to the brim
+
+4. drive the less-experienced or -determined students away
+
+> [!abstract]- 答案
+> 1. **使课程贴近/针对他们感兴趣的东西** — `gear sth. toward sth.` 是固定搭配，译"**使……针对、向……靠拢**"；此处正是第 22 题 [D] 项 interest 的原文依据。
+> 2. **适用于任何编程语言** — `apply to` 为**不及物搭配**（"适用于"），宾语不可省略；`any coding language` 与第 23 题 [A] 项 `other computer languages` 构成同义改写。
+> 3. **被挤得满满当当** — `packed to the brim`，brim 是"容器的边缘"，`to the brim` 即"满到边沿"；形容入门课报名爆满。
+> 4. **把经验较少或决心不足的学生赶走** — `drive sb. away`（把某人赶走）；`the less-experienced or -determined` 是**后缀共享压缩**，完整形式为 `the less experienced or **less** determined`。
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "we try to **gear** lessons toward things they're interested in" 中 **gear** 的含义是：
+   - A. 齿轮、传动装置
+   - B. 使适合、使针对（向……靠拢）
+   - C. 调整车速、换挡
+   - D. 给……装备
+
+2. "the “Ruby on Rails” language they learned may not even be **relevant** by the time they enter the job market" 中 **relevant** 的含义是：
+   - A. 相关的、有关联的
+   - B. 恰当的、得体的
+   - C. 有用的、派得上用场的
+   - D. 重要的、显著的
+
+3. "how to **coax** the machine into producing what they want" 中 **coax** 的含义是：
+   - A. 强迫、逼迫
+   - B. 哄劝、诱导
+   - C. 欺骗、蒙蔽
+   - D. 命令、指挥
+
+4. "…which can drive **the less-experienced or -determined** students away." 中 **-determined** 的含义是：
+   - A. 被决定的、由……决定的
+   - B. 决心（坚定）的（借用了前面的 less，即 "less determined"）
+   - C. 已确定的、确定的
+   - D. 有限定的、有条件的
+
+> [!abstract]- 答案
+> 1. **B** — 本句说的是"努力让**课程贴近**他们感兴趣的东西"，`gear` 在此为动词，义为"**使适合、使针对**"（= gear sth. to/toward sth.）。A、C、D 三项都是 gear 的**本义或常见义**（名词"齿轮"、换挡、装备），与"课程 + 学生兴趣"的语境不符——**第 22 题 [B][C] 两项正是利用这种"熟悉义惯性"设置干扰**。
+> 2. **C** — 前半句说"**编程语言更新换代很快**"，故后半句的意思是"等他们进入就业市场时，这门语言**可能已经派不上用场**"；若取 A 项"相关的"，则"与什么相关"**语义悬空**。**熟词生义题的通则：先看主句在讲什么，再选能补足语义的那个义项。**
+> 3. **B** — `coax sb. into doing sth.` 与 `persuade sb. into doing sth.` **句法完全平行**，都是"**柔性地引导对方做某事**"；宾语是 `the machine`、目的是 `producing what they want`，B 项是唯一与**对象—目的—力度**三要素全部相容的选项。A、C、D 均在"力度方向"（强迫/欺骗）或"目的方向"（命令）上偏离。
+> 4. **B** — 这是**后缀共享压缩**：`the less-experienced or -determined` 的完整形式是 `the less experienced or **less** determined students`，第二个形容词**借用了前面的 less**，并用连字符与词干绑定（**词首带连字符是这个写法的标志**）。A 项按字面读成"被决定的"，C、D 两项都是 determined 的常见义，**但都丢掉了被共享的 less**——**看到 `-determined` `-based` `-oriented` 这类写法，第一步就是回头找被共享的修饰语。**
+
+---
 
 ## 心得
 
