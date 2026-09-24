@@ -8,7 +8,7 @@ task: "生成 2016-passage1-coding-classes 综合精读笔记并放入 2016阅�
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-24"
 last_updated: "2026-09-24"
-current_phase: P3
+current_phase: P4
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2016-passage1-coding-classes 综合精读笔记并放入 2016阅读
 > 运行标识：reading-note-2016-passage1-coding-classes
 > 创建时间：2026-09-24
-> 当前阶段：阶段 3
+> 当前阶段：阶段 4
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -37,9 +37,10 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [x] 已读取 `.learnings/` 经验库和 `.claude/rules/workflow-routing.md`
 - [x] 已确认英文文章文本或源文件路径（`/Users/zhqznc/Documents/英语阅读资料/2016阅读/passage_1.md`）
 - [x] 已确认 year、passage、topic（2016 / 1 / coding-classes）
-- [ ] 已确认 intermediate 目录
-- [ ] 已确认最终输出路径
+- [x] 已确认 intermediate 目录（`intermediate/2016-passage1-coding-classes/`）
+- [x] 已确认最终输出路径（用户确认 `2016阅读/2016-passage1-coding-classes-精读笔记.md`，`2016阅读/` 目录已新建）
 - [x] 已记录长难句模式：AI 候选 + 用户确认
+- [x] 已确认语法笔记来源：源目录仅有 `passage_1.md`，无现成语法笔记 → 采用**推断模式**
 
 > [P0] ✅ 已完成 {complete}
 
@@ -47,10 +48,10 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 1：文章排版
 
-- [ ] 已调用 `format-article`
-- [ ] 已生成或更新 `formatted-article.md`
-- [ ] 已确认原文内容未删改
-- [ ] 已确认标题格式适合 Obsidian
+- [x] 已调用 `format-article`（新建模式）
+- [x] 已生成或更新 `formatted-article.md`（62 行；`# 2016 Passage 1` + 6 段原文 + `## Reading Comprehension Questions` 21–25 题）
+- [x] 已确认原文内容未删改（归一化比对：正文英文逐字一致；仅新增两个标题；源文件第 22 题 `considered their experience [A] experience` 系重复泄漏的破损行，已还原为 `considered their ____.` + `[A] experience`）
+- [x] 已确认标题格式适合 Obsidian（标题缺空格 0）
 
 > [P1] ✅ 已完成 {complete}
 
@@ -58,9 +59,9 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 2：中英翻译
 
-- [ ] 已调用 `translate`
-- [ ] 已生成或更新 `translation.md`
-- [ ] 已保持原文段落结构
+- [x] 已调用 `translate`（新建模式）
+- [x] 已生成或更新 `translation.md`（59 行；6 段中英对照，每段附 `> [!note] 翻译说明`）
+- [x] 已保持原文段落结构（6 段英文块与源文件 6 段一一对应，无合并、无删减）
 
 > [P2] ✅ 已完成 {complete}
 
@@ -68,12 +69,14 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 3：语法整理
 
-- [ ] 已调用 `organize-grammar`
-- [ ] 已生成或更新 `grammar-notes.md`
-- [ ] 已核验语法笔记信息密度未丢失
-- [ ] 已加入必要的跨节联动复习
+- [x] 已调用 `organize-grammar`（新建模式，推断语法点）
+- [x] 已生成或更新 `grammar-notes.md`（434 行，21 个 `###` 扁平小节 + `### 跨节联动复习`）
+- [x] 已生成 `固定搭配与词组笔记.md`（325 行，`## 一`–`## 七` 七节，`## 六、易混辨析` 下 `### 1.`–`### 9.` 编号子项；符合"固定搭配与词组独立成笔记"铁律，两文件以 `[[语法总结笔记]]` / `[[固定搭配与词组笔记]]` 双向引用）
+- [x] 已核验语法笔记信息密度未丢失（逐段核对原文 6 段，含词源拆解、术语、熟词生义、命题定位、感情色彩等教学细节）
+- [x] 已加入必要的跨节联动复习（`### 跨节联动复习` 10 行对照表 + 两处横向对比警告 callout）
+- [x] 已通过结构校验：标题缺空格 0 / 表格前缺空行 0 / 嵌套 callout 0（两文件均通过）
 
-> [P3] 🔲 进行中 {in_progress}
+> [P3] ✅ 已完成 {complete}
 
 ---
 
@@ -83,7 +86,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已说明每个候选句的分析价值
 - [ ] 已获得用户确认、删改或补充
 
-> [P4] ⬜ 未开始 {not_started}
+> [P4] 🔲 进行中 {in_progress}
 
 ---
 
