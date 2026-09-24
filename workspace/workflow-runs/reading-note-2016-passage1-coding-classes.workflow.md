@@ -8,7 +8,7 @@ task: "生成 2016-passage1-coding-classes 综合精读笔记并放入 2016阅�
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-24"
 last_updated: "2026-09-24"
-current_phase: P2
+current_phase: P3
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2016-passage1-coding-classes 综合精读笔记并放入 2016阅读
 > 运行标识：reading-note-2016-passage1-coding-classes
 > 创建时间：2026-09-24
-> 当前阶段：阶段 2
+> 当前阶段：阶段 3
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -62,7 +62,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `translation.md`
 - [ ] 已保持原文段落结构
 
-> [P2] 🔲 进行中 {in_progress}
+> [P2] ✅ 已完成 {complete}
 
 ---
 
@@ -73,7 +73,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已核验语法笔记信息密度未丢失
 - [ ] 已加入必要的跨节联动复习
 
-> [P3] ⬜ 未开始 {not_started}
+> [P3] 🔲 进行中 {in_progress}
 
 ---
 
