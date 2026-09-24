@@ -301,6 +301,8 @@ The high-schoolers get the same **curriculum**, but “we try to **gear** lesson
 >
 > **考点提示**：① **but 是并列连词，只能连接分句**（与副词 however 不同，however 可插在主语之后）；此处 but 连接的是"课程相同"与"教学方式不同"两个分句。② **gear sth. toward sth. 是固定搭配**（"使……针对 / 向……靠拢"），**不是"齿轮"**；`gear lessons **toward** things they're interested in` 是本句的语义重心。③ **省略关系代词的定语从句**：`things **they're interested in**` —— 补出后为 `things (that) they're interested in`，**介词 in 的宾语正是 things**，故关系代词可省；**若介词留在关系代词之前（in which）则不省**。④ **本句是第 22 题的答案点**：题干 `Flatiron has considered their ____` 对应 `gear lessons toward things **they're interested in**`，答案 **D 项 interest**；而 B 项 academic backgrounds、C 项 career prospects **文中根本未提**，属"**领域词干扰**"（与教育话题同领域却无原文依据）。
 
+For instance, one of the apps the students are developing suggests movies based on your **mood**.
+
 The students in the Flatiron class probably won't **drop out** of high school and build the next Facebook. Programming languages have a quick **turnover**, so the “Ruby on Rails” language they learned may not even be **relevant** by the time they enter the job market.
 
 > [!abstract]- 长难句分析
