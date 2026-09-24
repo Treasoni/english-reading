@@ -8,7 +8,7 @@ task: "生成 2016-passage1-coding-classes 综合精读笔记并放入 2016阅�
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-24"
 last_updated: "2026-09-24"
-current_phase: P6
+current_phase: P7
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2016-passage1-coding-classes 综合精读笔记并放入 2016阅读
 > 运行标识：reading-note-2016-passage1-coding-classes
 > 创建时间：2026-09-24
-> 当前阶段：阶段 6
+> 当前阶段：阶段 7
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -105,12 +105,14 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 6：综合笔记整合
 
-- [ ] 已调用 `compile-note`
-- [ ] 已使用用户确认的最终输出路径
-- [ ] 已保留文章原文中的内联长难句分析
-- [ ] 已插入词汇占位符
+- [x] 已调用 `compile-note`
+- [x] 已使用用户确认的最终输出路径（`2016阅读/2016-passage1-coding-classes-精读笔记.md`，1437 行）
+- [x] 已保留文章原文中的内联长难句分析（`## 文章原文` 章节内 12 个 `> [!abstract]- 长难句分析` 原位保留，未汇总到独立章节）
+- [x] 已插入词汇占位符（`## 固定搭配与词组` 之后、`## 心得` 之前，恰好 1 处 `<!-- VOCABULARY_SLOT -->`）
+- [x] 已核验四个中间文件正文逐字嵌入（抽样比对：formatted-article / translation / grammar-notes / 固定搭配与词组笔记 均 0 处缺失；源文章句仅差 P1 已记录的第 22 题破损行）
+- [x] 已通过结构校验：标题缺空格 0 / 表格前缺空行 0 / 嵌套 abstract callout 0
 
-> [P6] 🔲 进行中 {in_progress}
+> [P6] ✅ 已完成 {complete}
 
 ---
 
@@ -121,7 +123,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `### 生词练习`
 - [ ] 已补充短语内重要独立词条
 
-> [P7] ⬜ 未开始 {not_started}
+> [P7] 🔲 进行中 {in_progress}
 
 ---
 
