@@ -8,8 +8,8 @@ task: "生成 2016-passage2-prairie-chicken 综合精读笔记并放入 2016阅�
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-25"
 last_updated: "2026-09-25"
-current_phase: P9
-current_status: in_progress
+current_phase: done
+current_status: complete
 mode: guided
 blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2016阅读/passage_2.md"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2016-passage2-prairie-chicken 综合精读笔记并放入 2016阅读
 > 运行标识：reading-note-2016-passage2-prairie-chicken
 > 创建时间：2026-09-25
-> 当前阶段：阶段 9
+> 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 > [!warning] 重开会话的原因
@@ -139,16 +139,16 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 9：全局汇总
 
-- [ ] 已调用 `summarize-grammar`
-- [ ] 源发现已同时覆盖 `intermediate/**/grammar-notes.md` 与 `intermediate/**/固定搭配与词组笔记.md`
-- [ ] 已合并进根目录 `语法总结笔记.md`
-- [ ] 已合并进根目录 `固定搭配与词组笔记.md`
-- [ ] 已更新两个根文件的 frontmatter（updated / total_sources / processed_sources / categories）
-- [ ] 已更新两个根文件的快速索引表
-- [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
-- [ ] 已向用户报告两个根文件的更新内容
+- [x] 已调用 `summarize-grammar`
+- [x] 源发现已同时覆盖 `intermediate/**/grammar-notes.md` 与 `intermediate/**/固定搭配与词组笔记.md`
+- [x] 已合并进根目录 `语法总结笔记.md`
+- [x] 已合并进根目录 `固定搭配与词组笔记.md`
+- [x] 已更新两个根文件的 frontmatter（updated / total_sources / processed_sources / categories）
+- [x] 已更新两个根文件的快速索引表
+- [x] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
+- [x] 已向用户报告两个根文件的更新内容
 
-> [P9] 🔲 进行中 {in_progress}
+> [P9] ✅ 已完成 {complete}
 
 ---
 
