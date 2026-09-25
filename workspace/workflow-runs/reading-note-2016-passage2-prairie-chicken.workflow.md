@@ -3,8 +3,8 @@ workflow_id: reading-note-generation
 workflow_name: Reading Note Generation
 workflow_version: 1
 state_file_type: workflow-run
-run_id: "reading-note-2016-passage2-deep-reading"
-task: "生成 2016-passage2-deep-reading 综合精读笔记并放入 2016阅读"
+run_id: "reading-note-2016-passage2-prairie-chicken"
+task: "生成 2016-passage2-prairie-chicken 综合精读笔记并放入 2016阅读"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-25"
 last_updated: "2026-09-25"
@@ -15,31 +15,34 @@ blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2016阅读/passage_2.md"
 year: "2016"
 passage: "2"
-topic: "deep-reading"
-intermediate_dir: "intermediate/2016-passage2-deep-reading/"
-output_path: "2016阅读/2016-passage2-deep-reading-精读笔记.md"
+topic: "prairie-chicken"
+intermediate_dir: "intermediate/2016-passage2-prairie-chicken/"
+output_path: "2016阅读/2016-passage2-prairie-chicken-精读笔记.md"
 long_sentence_mode: "AI 候选 + 用户确认"
 ---
 
 # Reading Note Generation - Workflow Run
 
 > 工作流：reading-note-generation
-> 任务：生成 2016-passage2-deep-reading 综合精读笔记并放入 2016阅读
-> 运行标识：reading-note-2016-passage2-deep-reading
+> 任务：生成 2016-passage2-prairie-chicken 综合精读笔记并放入 2016阅读
+> 运行标识：reading-note-2016-passage2-prairie-chicken
 > 创建时间：2026-09-25
 > 当前阶段：阶段 3
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
+
+> [!warning] 重开会话的原因
+> 原 run `reading-note-2016-passage2-deep-reading` 基于 2026-09-25 15:35 之前的 `passage_2.md` 内容（"深度阅读与时间"文章）建立。用户指出源文件已更新为**小草原松鸡保护**一文（26–30 题），属于不同文章、不同 topic，故废弃旧 run，按新 topic 重建。
 
 ---
 
 ## 阶段 0：输入收集与状态初始化
 
-- [ ] 已读取 `.learnings/` 经验库和 `.claude/rules/workflow-routing.md`
-- [ ] 已确认英文文章文本或源文件路径
-- [ ] 已确认 year、passage、topic
-- [ ] 已确认 intermediate 目录
+- [x] 已读取 `.learnings/` 经验库和 `.claude/rules/workflow-routing.md`
+- [x] 已确认英文文章文本或源文件路径
+- [x] 已确认 year、passage、topic
+- [x] 已确认 intermediate 目录
 - [ ] 已确认最终输出路径
-- [ ] 已记录长难句模式：AI 候选 + 用户确认
+- [x] 已记录长难句模式：AI 候选 + 用户确认
 
 > [P0] ✅ 已完成 {complete}
 
@@ -159,7 +162,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 最终产出
 
-- **中间目录**：`intermediate/2016-passage2-deep-reading/`
-- **最终笔记**：`2016阅读/2016-passage2-deep-reading-精读笔记.md`
+- **中间目录**：`intermediate/2016-passage2-prairie-chicken/`
+- **最终笔记**：`2016阅读/2016-passage2-prairie-chicken-精读笔记.md`
 - **全局汇总**：`语法总结笔记.md`、`固定搭配与词组笔记.md`
 - **完成状态**：
