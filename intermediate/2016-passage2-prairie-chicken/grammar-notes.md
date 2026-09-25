@@ -116,7 +116,7 @@ concepts:
 
 > [!tip] as long as 的考试重心在"时态呼应"
 > 本篇从句用 **`had signed`（过去完成时）**，主句用 **`would not prosecute`（过去将来）**：**签署在前、免诉在后**，时态把"条件先行"这层逻辑钉死了。
-> **时态是第 28 题的定位钥匙**：题干问 `unintentional harm-doers will not be prosecuted if they ____`，四个选项中只有 **B 项 `volunteer to set up an equally big habitat`** 与原文"**签署范围管理计划以恢复栖息地**"同向；A/C/D 分别对应"缴款补偿（原文是 **fund**，不是给受害者的 compensation）""支持 WAFWA 监测（原文是 **赋予** WAFWA 职权，不是企业去支持）""为 USFWS 筹集资金（原文是企业**缴入**基金）"——**都是"换主体 / 换方向"的干扰**。
+> **时态是第 28 题的定位钥匙**：题干问 `unintentional harm-doers will not be prosecuted if they ____`。本段的机制由两半构成——**签署覆盖全范围的管理计划**（免诉门槛）+ **就破坏的栖息地缴款补偿**（`pay into a fund to replace every acre destroyed with 2 new acres`），故 **A 项 `agree to pay a sum for compensation`** 正是对"缴款补偿"这一半的概括。**B 项** `volunteer to set up an equally big habitat` 把"**每破坏 1 英亩补 2 英亩**"偷换成"**同等大小**"，还用 `set up` 换掉了原文的 `set aside`；**C 项**把"**USFWS 赋予** WAFWA 监测职责"说成"**企业支持** WAFWA 监测"；**D 项**把"**向基金缴款**"说成"为 USFWS 筹钱"——**B/C/D 都是"换主体 / 换方向"的干扰**。
 
 ---
 
