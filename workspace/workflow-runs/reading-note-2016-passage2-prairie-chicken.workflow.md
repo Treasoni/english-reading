@@ -9,7 +9,7 @@ created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-25"
 last_updated: "2026-09-25"
 current_phase: P6
-current_status: ready
+current_status: in_progress
 mode: guided
 blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2016阅读/passage_2.md"
@@ -110,7 +110,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已保留文章原文中的内联长难句分析
 - [ ] 已插入词汇占位符
 
-> [P6] ⬜ 未开始 {not_started}
+> [P6] 🔲 进行中 {in_progress}
 
 ---
 
