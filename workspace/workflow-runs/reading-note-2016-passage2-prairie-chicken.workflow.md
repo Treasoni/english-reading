@@ -8,7 +8,7 @@ task: "生成 2016-passage2-prairie-chicken 综合精读笔记并放入 2016阅�
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-25"
 last_updated: "2026-09-25"
-current_phase: P6
+current_phase: P7
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2016-passage2-prairie-chicken 综合精读笔记并放入 2016阅读
 > 运行标识：reading-note-2016-passage2-prairie-chicken
 > 创建时间：2026-09-25
-> 当前阶段：阶段 6
+> 当前阶段：阶段 7
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 > [!warning] 重开会话的原因
@@ -105,12 +105,12 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 6：综合笔记整合
 
-- [ ] 已调用 `compile-note`
-- [ ] 已使用用户确认的最终输出路径
-- [ ] 已保留文章原文中的内联长难句分析
-- [ ] 已插入词汇占位符
+- [x] 已调用 `compile-note`
+- [x] 已使用用户确认的最终输出路径
+- [x] 已保留文章原文中的内联长难句分析
+- [x] 已插入词汇占位符
 
-> [P6] 🔲 进行中 {in_progress}
+> [P6] ✅ 已完成 {complete}
 
 ---
 
@@ -121,7 +121,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `### 生词练习`
 - [ ] 已补充短语内重要独立词条
 
-> [P7] ⬜ 未开始 {not_started}
+> [P7] 🔲 进行中 {in_progress}
 
 ---
 
@@ -156,7 +156,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 | 时间 | 阶段 | 问题描述 | 处理方式 |
 |------|------|---------|---------|
-| | | | |
+| 2026-09-25 | P6 | `grammar-notes.md` 曾断言第 28 题答案为 B，与第 3 段机制及 `固定搭配与词组笔记.md` 的分析冲突（两文件对同题给出不一致结论） | 依据原文（`as long as` 免诉门槛 + `pay into a fund to replace every acre destroyed with 2 new acres`）统一判定为 **A**，修订单篇两个中间文件中相关表述，并在最终报告中向用户披露 |
 
 ---
 
