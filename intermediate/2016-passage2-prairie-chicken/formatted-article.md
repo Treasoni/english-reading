@@ -23,7 +23,7 @@ Biologists **estimate** that as many as 2 million lesser prairie chickens—a ki
 > - 主语 S: Biologists（生物学家）
 > - 谓语 V: estimate（估计）
 > - 宾语从句 O: that as many as 2 million lesser prairie chickens once lent red to the often grey landscape（多达 200 万只小草原松鸡曾为常常灰暗的景色添上一抹红色）
-> - 状语 A: of the midwestern and southwestern United States（美国中西部和西南部的，修饰 landscape）
+> - 后置定语 Attrib.: of the midwestern and southwestern United States（美国中西部和西南部的，修饰 landscape）
 >
 > **修饰成分**：
 >
@@ -129,7 +129,7 @@ They had pushed the agency to **designate** the bird as "**endangered**," a **st
 >
 > **参考译文**：他们曾力推该机构将该鸟认定为"濒危"——这一地位赋予联邦官员更大的监管权力以打击各种威胁。
 >
-> **考点提示**：① **过去完成时的"锚点"就在下一句**：`They **had pushed** the agency ... were disappointed` —— 锚点是 `were disappointed`，"失望"之前早已推过，**且未成功**。**过去完成时出现处几乎必是因果句**；第 27 题问"环保人士为何失望"，答案正藏在这一时间落差里。② **同位语 + 定语从句的连环结构**：`a status` 是 "endangered" 的**同位语**，其后 `that` 从句修饰 **a status**（判据：从句主语 `gives` 与"地位"搭配，而非与"濒危"搭配）。③ **`greater regulatory power` 是第 27 题的命题源**：原句说 "endangered" 给的是 **greater**（更大）权力，**反向推理**即 "threatened" 给的是 **less**——C 项 `granted less federal regulatory power` 正是这一反向改写的**正确答案**。④ **`crack down on` 为固定短语，on 不可省**；不定式 `to crack down on threats` 作 **power 的后置定语**（"用来……的权力"），**不是目的状语**。⑤ 与 P4 的 `doesn't go far enough` 构成**程度对照**：本篇凡遇 more / less / greater / too / enough 都应立即标注——**第 27、28 题都靠程度比较定位**。
+> **考点提示**：① **过去完成时的"锚点"就在上一句**：`They **had pushed** the agency ... were disappointed` —— 锚点是 `were disappointed`，"失望"之前早已推过，**且未成功**。**过去完成时出现处几乎必是因果句**；第 27 题问"环保人士为何失望"，答案正藏在这一时间落差里。② **同位语 + 定语从句的连环结构**：`a status` 是 "endangered" 的**同位语**，其后 `that` 从句修饰 **a status**（判据：从句主语 `gives` 与"地位"搭配，而非与"濒危"搭配）。③ **`greater regulatory power` 是第 27 题的命题源**：原句说 "endangered" 给的是 **greater**（更大）权力，**反向推理**即 "threatened" 给的是 **less**——C 项 `granted less federal regulatory power` 正是这一反向改写的**正确答案**。④ **`crack down on` 为固定短语，on 不可省**；不定式 `to crack down on threats` 作 **power 的后置定语**（"用来……的权力"），**不是目的状语**。⑤ 与 P4 的 `doesn't go far enough` 构成**程度对照**：本篇凡遇 more / less / greater / too / enough 都应立即标注——**第 27、28 题都靠程度比较定位**。
 
 But Ashe and others argued that the "threatened" tag gave the federal government **flexibility** to try out new, potentially less **confrontational** **conservation** approaches.
 
@@ -214,7 +214,7 @@ Under the plan, for example, the agency said it would not **prosecute** landowne
 >               └── 后置定语: (to restore prairie chicken habitat) → 修饰 a management plan
 > ```
 >
-> **参考译文**：例如，按照该计划，该机构表示，只要土地所有者或企业签署了一份覆盖全范围的管理计划以恢复松鸡栖息地，它就不会起诉那些非故意杀害、伤害或干扰这种鸟的人。
+> **参考译文**：例如，按照该计划，该机构表示，只要土地所有者或企业签署了一份覆盖全范围的管理计划以恢复松鸡栖息地，它就不会起诉那些非故意杀害、伤害或干扰这种鸟的土地所有者或企业。
 >
 > **考点提示**：① **宾语从句省略 that**：`the agency said **it** would not prosecute ...` 中 said 后的 that 被省略——**及物动词后的宾语从句 that 常可省，但并列的第二个 that 不可省**。② **`as long as` 引导条件状语从句**，意为"只要"，在法律法规、政策文本中远多于 if，**语气更强、更强调"唯一前提"**。③ **时态呼应即逻辑顺序**：从句 `had signed`（过去完成）→ 主句 `would not prosecute`（过去将来）——**签署在前、免诉在后**，"条件先行"这层逻辑由时态钉死。**这是第 28 题的定位钥匙。** ④ **三动词并列 `kill, harm, or disturb` 必须同为动词原形**（形式一致原则），不可改成 killing / to disturb。⑤ **第 28 题四个选项全是"换主体 / 换方向"的干扰**：A 项把"缴款补栖息地"说成"支付补偿金"；B 项把"2 英亩补偿"说成"设立同等大小的栖息地"；C 项把"赋予 WAFWA 监测职责"说成"企业支持 WAFWA 监测"；D 项把"向基金缴款"说成"为 USFWS 筹钱"。**对策：把机制写成"主体 + 动作 + 对象"三列，再与选项逐一对照。** ⑥ **`range-wide` 是"名词 + wide"构成的复合形容词**（"覆盖全范围的"），与 `nationwide`、`worldwide` 同构。
 
@@ -346,7 +346,7 @@ Not surprisingly, industry groups and states generally argue it ==goes too far==
 >
 > **参考译文**："联邦政府把管理这种鸟的责任交给了那些正在把它推向灭绝的行业，"生物学家杰伊·利宁格说。
 >
-> **考点提示**：① **引述句完全倒装**：`says biologist Jay Lininger` 把**谓语提到主语之前**，是新闻文体的固定套路；翻译时**必须把主语提到动词前**（"利宁格说"）。**代词作主语时不倒装**（✅ He said；❌ said he）——这是引述倒装唯一的禁区。② **头衔式同位语** `biologist Jay Lininger`：**职位直接贴在姓名前，不加冠词**，与 P2 的 `USFWS Director Daniel Ashe` 同型——**本篇共三处引述倒装，是最典型也最可迁移的句法套路**。③ **`the same ... that` 含反讽**：字面是"正是那些行业"，语境中是"**同一批**既被托付管理、又在推动灭绝的行业"——**the same 是作者的评价性武器**，点明"责任错置"的荒谬。④ **名词化 + 后置定语**：`responsibility for managing the bird` 用**名词化隐去施动者**，是政策文本压缩信息的常用手段，与 P3 的 `the job of monitoring progress` 同类。⑤ **人物立场 = 命题坐标**：本句对应**第 30 题**（`Jay Lininger would most likely support ____`）——他批评计划偏袒行业，**立场与环保组织同向，故 C 项 environmental groups 正确**；A 项 the plan under challenge 与 B 项 the win-win rhetoric 都是他批评的对象，D 项 industry groups 是他指责的一方。**读到人名先圈出，再回题干对准名字。** ⑥ **`push sth. to extinction`** = "把某物种推向灭绝"；与 P2 的 `list ... as threatened`、`designate ... as endangered` 同属"物种等级"语义场，而 **extinction 是这条链的终点**：vulnerable < threatened < endangered < extinct。
+> **考点提示**：① **引述句完全倒装**：`says biologist Jay Lininger` 把**谓语提到主语之前**，是新闻文体的固定套路；翻译时**必须把主语提到动词前**（"利宁格说"）。**代词作主语时不倒装**（✅ He said；❌ said he）——这是引述倒装唯一的禁区。② **头衔式同位语** `biologist Jay Lininger`：**职位直接贴在姓名前，不加冠词**，与 P2 的 `USFWS Director Daniel Ashe` 同型——**本篇共两处引述倒装（第三处 `Ashe said` 语序正常）**。③ **`the same ... that` 含反讽**：字面是"正是那些行业"，语境中是"**同一批**既被托付管理、又在推动灭绝的行业"——**the same 是作者的评价性武器**，点明"责任错置"的荒谬。④ **名词化 + 后置定语**：`responsibility for managing the bird` 用**名词化隐去施动者**，是政策文本压缩信息的常用手段，与 P3 的 `the job of monitoring progress` 同类。⑤ **人物立场 = 命题坐标**：本句对应**第 30 题**（`Jay Lininger would most likely support ____`）——他批评计划偏袒行业，**立场与环保组织同向，故 C 项 environmental groups 正确**；A 项 the plan under challenge 与 B 项 the win-win rhetoric 都是他批评的对象，D 项 industry groups 是他指责的一方。**读到人名先圈出，再回题干对准名字。** ⑥ **`push sth. to extinction`** = "把某物种推向灭绝"；与 P2 的 `list ... as threatened`、`designate ... as endangered` 同属"物种等级"语义场，而 **extinction 是这条链的终点**：vulnerable < threatened < endangered < extinct。
 
 ## Reading Comprehension Questions
 

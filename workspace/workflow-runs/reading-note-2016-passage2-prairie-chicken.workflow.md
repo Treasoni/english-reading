@@ -8,8 +8,8 @@ task: "生成 2016-passage2-prairie-chicken 综合精读笔记并放入 2016阅�
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-25"
 last_updated: "2026-09-25"
-current_phase: P4
-current_status: in_progress
+current_phase: P6
+current_status: ready
 mode: guided
 blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2016阅读/passage_2.md"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2016-passage2-prairie-chicken 综合精读笔记并放入 2016阅读
 > 运行标识：reading-note-2016-passage2-prairie-chicken
 > 创建时间：2026-09-25
-> 当前阶段：阶段 4
+> 当前阶段：阶段 6
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 > [!warning] 重开会话的原因
@@ -86,7 +86,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已说明每个候选句的分析价值
 - [ ] 已获得用户确认、删改或补充
 
-> [P4] 🔲 进行中 {in_progress}
+> [P4] ✅ 已完成 {complete}
 
 ---
 
@@ -99,7 +99,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已确认 callout 内表格前有空行
 - [ ] 已检查后续段落没有异常开头
 
-> [P5] ⬜ 未开始 {not_started}
+> [P5] ✅ 已完成 {complete}
 
 ---
 
