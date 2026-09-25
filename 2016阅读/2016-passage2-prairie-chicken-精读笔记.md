@@ -1321,7 +1321,201 @@ Not everyone buys the win-win rhetoric. Some Congress members are trying to bloc
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+本篇生词集中在四个语义场：**物种与栖息地**（prairie / lesser / habitat / historic range / acre）、**法定等级与监管**（threatened / endangered / status / regulatory / flexibility / conservation）、**政策机制**（fund / prosecute / compensate / restore / monitor / interim / range-wide）、**冲突与立场**（block / challenge / uneasy / confrontational / rhetoric / coalition）。另有若干**熟词生义**（crash / some / list / tag / buy / forge / operations / aside）是本篇干扰项的直接来源，务必单独记牢。
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **acre** | n. | 英亩（面积单位，约 4047 m²） | "to replace every **acre** destroyed with 2 new acres of **suitable** habitat" |
+| **aside** | adv. | （`set aside`）留出、拨出（专用） | "The fund will also be used to compensate landowners who ==set aside== habitat." |
+| **block** | v. | 阻挠、阻止（使无法通过） | "Some Congress members are trying to **block** the plan" |
+| **buy** | v. | 相信、接受（某种说法）——**熟词生义**（原文作 buys） | "Not everyone **buys** the ==win-win rhetoric==." |
+| **challenge** | v. | 对……提出质疑；诉诸法律（原文作 challenging） | "at least a dozen industry groups, four states, and three environmental groups are **challenging** it in **federal court**" |
+| **coalition** | n. | 联盟（为共同目的结成的联合体） | "the Western Association of Fish and Wildlife Agencies (WAFWA), a **coalition** of state agencies" |
+| **collaboration** | n. | 合作（原文作 collaborations） | "they called for **forging** closer **collaborations** with western state governments" |
+| **compensate** | v. | 补偿、赔偿 | "The fund will also be used to **compensate** landowners who set aside habitat." |
+| **confrontational** | adj. | 对抗性的 | "flexibility to try out new, potentially less **confrontational** **conservation** approaches" |
+| **conservation** | n. | （资源的）保护、保育（允许合理利用） | "potentially less confrontational **conservation** approaches" |
+| **crack down on** | phr. | 打击、镇压（on 不可省） | "greater **regulatory** power to ==crack down on== threats" |
+| **crash** | n. | （数量）锐减、暴跌——**熟词生义**（非"撞车"） | "The **crash** was a major reason the U. S. Fish and Wildlife Service (USFWS) decided to formally **list** the bird as **threatened**." |
+
+### D-F
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **designate** | v. | 把……认定为 / 指定为 | "They had pushed the agency to **designate** the bird as "**endangered**"" |
+| **disturb** | v. | 干扰、惊扰 | "landowners or businesses that **unintentionally** kill, harm, or **disturb** the bird" |
+| **endangered** | adj. | 濒危的（**法定等级，高于 threatened**） | "pushed the agency to **designate** the bird as "**endangered**"" |
+| **environmentalist** | n. | 环保人士（原文作 environmentalists） | "Some **environmentalists**, however, were disappointed." |
+| **estimate** | v. | 估计 | "Biologists **estimate** that as many as 2 million lesser prairie chickens …" |
+| **federal court** | n. | 联邦法院 | "are **challenging** it in **federal court**" |
+| **flexibility** | n. | 灵活性 | "the "threatened" **tag** gave the federal government **flexibility** to try out new … approaches" |
+| **forge** | v. | 建立（关系）、缔结——**熟词生义**（非"锻造"；原文作 forging） | "they called for **forging** closer **collaborations** with western state governments" |
+| **fund** | n. | 基金、专项资金 | "to **pay into a fund** to replace every acre destroyed" |
+
+### G-L
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **give-in** | n. | 让步、妥协（第 27 题 [A] 项） | "was a **give-in** to governmental pressure" |
+| **grant** | v. | 授予、给予（第 27 题 [C] 项） | "granted less federal regulatory power" |
+| **habitat** | n. | 栖息地 | "who control an estimated 95% of the prairie chicken's **habitat**" |
+| **harm-doer** | n. | 造成损害的人（第 28 题题干） | "unintentional harm-doers will not be prosecuted if they ____" |
+| **historic range** | n. | 历史分布范围（该物种曾有分布的区域） | "**occupying** about 16% of the species' **historic range**" |
+| **insistence** | n. | 坚持（要求）（第 26 题 [A] 项） | "the **insistence** of private landowners" |
+| **interim** | adj. | 中期的、过渡期的（强调"两阶段之间"） | "USFWS also set an **interim** goal of restoring prairie chicken populations to an annual average of 67,000 birds" |
+| **landowner** | n. | 土地所有者（原文作 landowners） | "with the private **landowners** who control an estimated 95% of the prairie chicken's habitat" |
+| **lesser** | adj. | 较小的（物种名中与 greater 相对） | "as many as 2 million **lesser** prairie chickens" |
+| **list** | v. | 把……列入名录——**熟词生义**（非"清单"） | "decided to formally **list** the bird as **threatened**" |
+
+### M-P
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **monitor** | v. | 监测（原文作 monitoring） | "the job of **monitoring** progress" |
+| **negotiate** | v. | 协商、谈判（原文作 Negotiated） | "**Negotiated** by USFWS and the states, the plan requires individuals and businesses …" |
+| **occupy** | v. | 占据（原文作 occupying） | "But just some 22,000 birds remain today, **occupying** about 16% of the species' historic range." |
+| **operations** | n. | （企业的）经营活动、业务——**熟词生义**（非"手术"） | "individuals and businesses that damage habitat as part of their **operations**" |
+| **prairie** | n. | 大草原（北美用语） | "who control an estimated 95% of the prairie chicken's **habitat**" |
+| **prosecute** | v. | （检方）起诉、公诉 | "the agency said it would not **prosecute** landowners or businesses" |
+
+### R-S
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **raise** | v. | 筹集（`raise funds` 筹集资金） | "promise to **raise funds** for USFWS operations" |
+| **range-wide** | adj. | 覆盖全范围的（名词 + wide 构成的复合形容词） | "as long as they had signed a **range-wide** management plan to **restore** prairie chicken habitat" |
+| **regulatory** | adj. | 监管的 | "greater **regulatory** power to ==crack down on== threats" |
+| **restore** | v. | 恢复、修复 | "a range-wide management plan to **restore** prairie chicken habitat" |
+| **rhetoric** | n. | （华而不实的）说辞（常含贬义） | "Not everyone buys the ==win-win rhetoric==." |
+| **status** | n. | 地位、身份（法律意义上的等级） | "a **status** that gives federal officials greater **regulatory** power" |
+| **stretching** | adj. | 连绵的、延展的 | "a kind of bird living on **stretching** grasslands" |
+| **suitable** | adj. | 适宜的 | "2 new acres of **suitable** habitat" |
+
+### T-Z
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **tag** | n. | （称谓上的）标签、名号——**熟词生义**（非"价签"） | "the "threatened" **tag** gave the federal government flexibility" |
+| **threatened** | adj. | 受威胁的（**法定等级，低于 endangered**） | "decided to formally **list** the bird as **threatened**" |
+| **uneasy** | adj. | 不安的、不自在的（`be uneasy with / about`） | "western state governments, which are often **uneasy** with federal action" |
+| **unintentional** | adj. | 非故意的（原文作 unintentionally，adv.） | "businesses that **unintentionally** kill, harm, or **disturb** the bird" |
+| **volunteer** | v. | 自愿（做）（第 28 题 [B] 项） | "volunteer to set up an equally big habitat" |
+| **wildlife** | n. | 野生动物 | "the U. S. Fish and **Wildlife** Service (USFWS)" |
+| **win-win** | adj. | 双赢的 | "Not everyone buys the **win-win** rhetoric." |
+
+### 选项词速查（第 26—30 题）
+
+| 词 / 短语 | 词性 | 释义 | 出处 |
+|-----------|------|------|------|
+| **insistence** | n. | 坚持（要求） | 26 [A] |
+| **underestimate** | n./v. | 低估（under- 表"不足"） | 26 [B] |
+| **acreage** | n. | 英亩数、土地面积（acre + -age） | 26 [B] |
+| **drastically** | adv. | 急剧地、大幅度地 | 26 [D] |
+| **appeal** | n. | 呼吁、恳求 | 26 [C] |
+| **give-in** | n. | 让步、妥协 | 27 [A] |
+| **involve** | v. | 使参与、牵涉 | 27 [B] |
+| **grant** | v. | 授予、给予 | 27 [C] |
+| **go against** | phr. | 违背、与……相抵触 | 27 [D] |
+| **harm-doer** | n. | 造成损害的人 | 28 题干 |
+| **compensation** | n. | 补偿（金） | 28 [A] |
+| **volunteer** | v. | 自愿（做） | 28 [B] |
+| **equally** | adv. | 同等地、同样地 | 28 [B] |
+| **set up** | phr. | 设立、建立（≠ set aside 留出） | 28 [B] |
+| **offer** | v. | 提出、主动给予 | 28 [C] |
+| **raise funds** | phr. | 筹集资金 | 28 [D] |
+| **promise** | v. | 承诺 | 28 [D] |
+| **leading role** | n. | 主导作用、主要角色 | 29 题干 |
+| **wildlife** | n. | 野生动物 | 29 [B] |
+| **under challenge** | phr. | 正受到质疑的（介词短语作后置定语） | 30 [A] |
+| **win-win** | adj. | 双赢的 | 30 [B] |
+| **rhetoric** | n. | （华而不实的）说辞 | 30 [B] |
+| **extinction** | n. | 灭绝（`push sth. to extinction` 把……推向灭绝） | 30 [D] |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> compensate / disturb / interim / rhetoric / threatened / flexibility / acre / prosecute / coalition / conservation
+
+1. The company agreed to ________ nearby residents for the noise and dust caused by the construction.
+
+2. Please do not ________ the birds while they are nesting in the reeds.
+
+3. The government has set an ________ target of cutting emissions by 30% within the next five years.
+
+4. Calling the deal a "win-win" is just ________ if both sides end up worse off.
+
+5. The species was classified as ________ rather than endangered, so federal oversight remained limited.
+
+6. Small firms need more ________ in how they meet the standards, not less.
+
+7. Every ________ of wetland destroyed must be replaced with two acres of new habitat.
+
+8. Local authorities decided not to ________ the farmers who had accidentally damaged the reserve.
+
+9. A ________ of state agencies will coordinate the monitoring work across the region.
+
+10. ________ is not the same as preservation: it allows resources to be used, provided they are sustained.
+
+> [!abstract]- 答案
+> 1. **compensate** — "补偿"；`compensate sb. for sth.` 就某事补偿某人（for 引出补偿的原因）。
+> 2. **disturb** — "干扰、惊扰"；与 `kill, harm, or disturb` 三动词并列同源。
+> 3. **interim** — "中期的"（**不是"临时的"**）；`set an interim goal of doing sth.` 是政策文本的高频搭配。
+> 4. **rhetoric** — "（华而不实的）说辞"，常含贬义；`the win-win rhetoric` 即本篇用法。
+> 5. **threatened** — "受威胁的"；**法定等级低于 endangered**，监管强度也更弱。
+> 6. **flexibility** — "灵活性"；`flexibility to do sth.`。
+> 7. **acre** — "英亩"；本篇的补偿比例是"**每破坏 1 英亩补 2 英亩**"。
+> 8. **prosecute** — "（检方）起诉"；主体是**执法机关**，与当事人 `sue`（起诉）不同。
+> 9. **coalition** — "联盟"；`a coalition of state agencies` 是 WAFWA 的同位语。
+> 10. **conservation** — "（资源的）保护、保育"（允许合理利用）；与 `preservation`（原样保存）相对。
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. as long as they had signed a range-wide management plan to restore prairie chicken habitat
+
+2. to pay into a fund to replace every acre destroyed with 2 new acres of suitable habitat
+
+3. let "states remain in the driver's seat for managing the species"
+
+> [!abstract]- 答案
+> 1. **只要他们签署了一份覆盖全范围的管理计划以恢复松鸡栖息地** — `as long as` 引导条件状语从句，"只要"（比 if 更强调"唯一前提"）；`range-wide` = "覆盖全范围的"；时态 `had signed → would not prosecute` 表示"**签署在前、免诉在后**"，是第 28 题的门槛条件。
+> 2. **向一项基金缴款，以每破坏 1 英亩就用 2 英亩新的适宜栖息地来补偿** — `pay into a fund` 中 `into` 表"资金流入某处"（≠ pay for 为某物付款）；`replace A with B` = "用 B 替换 A"，**顺序不可颠倒**。
+> 3. **让"各州继续在管理该物种上处于主导地位"** — `in the driver's seat` 是习语，字面"在驾驶座上"，即"**处于主导地位**"；`for managing` 为动名词作介词宾语。这一句是第 29 题的答案出处，且是**引述句**（`Ashe said`）。
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "The **crash** was a major reason the U. S. Fish and Wildlife Service (USFWS) decided to formally list the bird as threatened." 中 **crash** 的含义是：
+   - A. 碰撞、坠毁
+   - B. （数量）锐减、暴跌
+   - C. 崩溃、精神失常
+   - D. （机器的）故障
+
+2. "Not everyone **buys** the win-win rhetoric." 中 **buys** 的含义是：
+   - A. 购买
+   - B. 相信、接受（某种说法）
+   - C. 收买、贿赂
+   - D. 换取、交换
+
+3. "individuals and businesses that damage habitat as part of their **operations**" 中 **operations** 的含义是：
+   - A. 手术
+   - B. 操作步骤
+   - C. （企业的）经营活动、业务
+   - D. 运算、计算
+
+> [!abstract]- 答案
+> 1. **B** — 后文说的是"**物种数量下降**促使 USFWS 把它列入名录"，若取 A 项"撞车"则逻辑**无从衔接**；`the crash` 在此指**种群数量的暴跌**，正是第 26 题 [D] 项 `drastically decreased population` 的原词依据。**熟词生义题的通则：先看后文在讲什么，再选能补足语义的义项。**
+> 2. **B** — 若取 A 项"购买"，则 `buy` 的宾语 `the win-win rhetoric`（"双赢的说辞"）**在语义上无法搭配**——"说辞"只能被**相信或接受**。此外本句还是**部分否定**：`Not everyone …` = "**并非所有人都……**"，**不能**译成"所有人都不同意"。**A、C、D 三项都是 buy 的常见义**，正是利用"熟悉义惯性"设陷。
+> 3. **C** — 本句说的是"**作为经营活动的一部分**破坏栖息地"，主语是 `individuals and businesses`（个人和企业），故 `operations` 取"**经营活动、业务**"；A、B、D 三项都需要"医院 / 数学 / 工序"之类的语境，**在本句中均无支撑**。
 
 ## 心得
 
