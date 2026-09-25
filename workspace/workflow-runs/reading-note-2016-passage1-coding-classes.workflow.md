@@ -7,9 +7,9 @@ run_id: "reading-note-2016-passage1-coding-classes"
 task: "生成 2016-passage1-coding-classes 综合精读笔记并放入 2016阅读"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-24"
-last_updated: "2026-09-24"
-current_phase: P9
-current_status: in_progress
+last_updated: "2026-09-25"
+current_phase: done
+current_status: complete
 mode: guided
 blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2016阅读/passage_1.md"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2016-passage1-coding-classes 综合精读笔记并放入 2016阅读
 > 运行标识：reading-note-2016-passage1-coding-classes
 > 创建时间：2026-09-24
-> 当前阶段：阶段 9
+> 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -142,16 +142,18 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 9：全局汇总
 
-- [ ] 已调用 `summarize-grammar`
-- [ ] 源发现已同时覆盖 `intermediate/**/grammar-notes.md` 与 `intermediate/**/固定搭配与词组笔记.md`
-- [ ] 已合并进根目录 `语法总结笔记.md`
-- [ ] 已合并进根目录 `固定搭配与词组笔记.md`
-- [ ] 已更新两个根文件的 frontmatter（updated / total_sources / processed_sources / categories）
-- [ ] 已更新两个根文件的快速索引表
-- [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
-- [ ] 已向用户报告两个根文件的更新内容
+- [x] 已调用 `summarize-grammar`
+- [x] 源发现已同时覆盖 `intermediate/**/grammar-notes.md` 与 `intermediate/**/固定搭配与词组笔记.md`
+- [x] 已合并进根目录 `语法总结笔记.md`（新增 22 个带来源标注的小节，行 6874–7262）
+- [x] 已合并进根目录 `固定搭配与词组笔记.md`（新增 `## 2016 新增固定搭配与词汇` 七个小节，行 4665–4948）
+- [x] 已更新两个根文件的 frontmatter（均 `updated: 2026-09-24`、`total_sources: 61`、新增 `processed_sources` 条目、`categories` 新增 `2016新增专题`）
+- [x] 已更新两个根文件的快速索引表（语法：从句 / 非谓语 / 介词与连词 / 倒装与强调 / 补充要点 五行追加 2016 P1 内容；搭配：新增 `| 2016 新增专题 | … | 1 | ★★★★ |` 行）
+- [x] 已通过差集核验（语法差集为空 61/61；固定搭配源差集为空 13/13）
+- [x] 已逐条核验 22 个语法小节 + 9 个搭配小节正文逐字并入根文件
+- [x] 已通过结构校验（两文件：标题缺空格 0 / 表格前缺空行 0 / 嵌套 callout 0）
+- [x] 已向用户报告两个根文件的更新内容
 
-> [P9] 🔲 进行中 {in_progress}
+> [P9] ✅ 已完成 {complete}
 
 ---
 
@@ -160,6 +162,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 | 时间 | 阶段 | 问题描述 | 处理方式 |
 |------|------|---------|---------|
 | 2026-09-24 11:09 | P0 | 等待用户确认最终输出路径与 topic slug | 停在当前阶段，等待用户回复 |
+| 2026-09-25 | P9 | 汇总过程中会话中断，`固定搭配与词组笔记.md` 快速索引表的 `2016 新增专题` 行未写入 | 恢复后比对两文件实际状态，补写该索引行；随后重跑差集核验与结构校验 |
 | | | | |
 
 ---
@@ -169,4 +172,4 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - **中间目录**：`intermediate/2016-passage1-coding-classes/`
 - **最终笔记**：`2016阅读/2016-passage1-coding-classes-精读笔记.md`
 - **全局汇总**：`语法总结笔记.md`、`固定搭配与词组笔记.md`
-- **完成状态**：
+- **完成状态**：✅ 全部完成（P0–P9），`todo-state validate` 通过
