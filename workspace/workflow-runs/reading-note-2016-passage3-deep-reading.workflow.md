@@ -8,7 +8,7 @@ task: "生成 2016-passage3-deep-reading 综合精读笔记并放入 2016阅读"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-26"
 last_updated: "2026-09-26"
-current_phase: P7
+current_phase: P9
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -28,7 +28,7 @@ grammar_source: "从本文提取考研相关语法点（用户未提供现成语
 > 任务：生成 2016-passage3-deep-reading 综合精读笔记并放入 2016阅读
 > 运行标识：reading-note-2016-passage3-deep-reading
 > 创建时间：2026-09-26
-> 当前阶段：阶段 7
+> 当前阶段：阶段 9
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -114,24 +114,24 @@ grammar_source: "从本文提取考研相关语法点（用户未提供现成语
 
 ## 阶段 7：生词表与练习
 
-- [ ] 已调用 `extract-vocabulary`
-- [ ] 已生成或更新 `## 生词表`
-- [ ] 已生成或更新 `### 生词练习`
-- [ ] 已补充短语内重要独立词条
+- [x] 已调用 `extract-vocabulary`
+- [x] 已生成或更新 `## 生词表`
+- [x] 已生成或更新 `### 生词练习`
+- [x] 已补充短语内重要独立词条
 
-> [P7] 🔲 进行中 {in_progress}
+> [P7] ✅ 已完成 {complete}
 
 ---
 
 ## 阶段 8：最终验证与收尾
 
-- [ ] 已确认所有中间文件存在
-- [ ] 已确认最终精读笔记存在
-- [ ] 已确认最终笔记不含词汇占位符
-- [ ] 已检查 Markdown 标题、YAML 和表格格式
-- [ ] 已向用户报告输出路径
+- [x] 已确认所有中间文件存在
+- [x] 已确认最终精读笔记存在
+- [x] 已确认最终笔记不含词汇占位符
+- [x] 已检查 Markdown 标题、YAML 和表格格式
+- [x] 已向用户报告输出路径
 
-> [P8] ⬜ 未开始 {not_started}
+> [P8] ✅ 已完成 {complete}
 
 ---
 
@@ -146,7 +146,7 @@ grammar_source: "从本文提取考研相关语法点（用户未提供现成语
 - [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
 - [ ] 已向用户报告两个根文件的更新内容
 
-> [P9] ⬜ 未开始 {not_started}
+> [P9] 🔲 进行中 {in_progress}
 
 ---
 
