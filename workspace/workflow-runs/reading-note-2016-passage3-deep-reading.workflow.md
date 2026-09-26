@@ -8,7 +8,7 @@ task: "生成 2016-passage3-deep-reading 综合精读笔记并放入 2016阅读"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-26"
 last_updated: "2026-09-26"
-current_phase: P4
+current_phase: P5
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -28,7 +28,7 @@ grammar_source: "从本文提取考研相关语法点（用户未提供现成语
 > 任务：生成 2016-passage3-deep-reading 综合精读笔记并放入 2016阅读
 > 运行标识：reading-note-2016-passage3-deep-reading
 > 创建时间：2026-09-26
-> 当前阶段：阶段 4
+> 当前阶段：阶段 5
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -84,7 +84,7 @@ grammar_source: "从本文提取考研相关语法点（用户未提供现成语
 - [ ] 已说明每个候选句的分析价值
 - [ ] 已获得用户确认、删改或补充
 
-> [P4] 🔲 进行中 {in_progress}
+> [P4] ✅ 已完成 {complete}
 
 ---
 
@@ -97,7 +97,7 @@ grammar_source: "从本文提取考研相关语法点（用户未提供现成语
 - [ ] 已确认 callout 内表格前有空行
 - [ ] 已检查后续段落没有异常开头
 
-> [P5] ⬜ 未开始 {not_started}
+> [P5] 🔲 进行中 {in_progress}
 
 ---
 
