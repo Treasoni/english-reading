@@ -8,8 +8,8 @@ task: "生成 2016-passage4-young-americans-success 综合精读笔记并放入 
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-28"
 last_updated: "2026-09-28"
-current_phase: P9
-current_status: in_progress
+current_phase: done
+current_status: complete
 mode: guided
 blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2016阅读/passage_4.md"
@@ -28,7 +28,7 @@ grammar_source: "从本文提取考研相关语法点（用户未提供现成语
 > 任务：生成 2016-passage4-young-americans-success 综合精读笔记并放入 2016阅读
 > 运行标识：reading-note-2016-passage4-young-americans-success
 > 创建时间：2026-09-28
-> 当前阶段：阶段 9
+> 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -146,7 +146,7 @@ grammar_source: "从本文提取考研相关语法点（用户未提供现成语
 - [x] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
 - [x] 已向用户报告两个根文件的更新内容
 
-> [P9] 🔲 进行中 {in_progress}
+> [P9] ✅ 已完成 {complete}
 
 ---
 
@@ -164,4 +164,4 @@ grammar_source: "从本文提取考研相关语法点（用户未提供现成语
 - **中间目录**：`intermediate/2016-passage4-young-americans-success/`
 - **最终笔记**：`2016阅读/2016-passage4-young-americans-success-精读笔记.md`
 - **全局汇总**：`语法总结笔记.md`、`固定搭配与词组笔记.md`
-- **完成状态**：
+- **完成状态**：✅ 全流程完成（P0–P9，2026-09-28）。长难句 9 句经用户确认后内联；`语法总结笔记.md` 与 `固定搭配与词组笔记.md` 已完成增量汇总（`total_sources` 63 → 64），差集核验为空。
