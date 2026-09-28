@@ -42,21 +42,22 @@ def head_tag(block, prefix=None):
     return "\n".join(lines)
 
 
-def blocks_of(src_path, start_pred, stop_line_pred=None):
+def blocks_of(src_path, start_pred, drop_h2=False):
     raw = read(src_path).split("\n")
     start = next(i for i, l in enumerate(raw) if start_pred(l))
     body = raw[start:]
     while body and (body[-1].strip() == "" or body[-1].strip() == "---"
                     or body[-1].startswith("_本文件为")):
         body.pop()
-    body = [l for l in body if not l.startswith("## ")]
+    if drop_h2:
+        body = [l for l in body if not l.startswith("## ")]
     text = "\n".join(body).strip("\n")
     blocks = [b.strip("\n") for b in re.split(r"\n---\n", text)]
     return [b for b in blocks if b.strip()]
 
 
 # ---------------- 语法总结笔记.md ----------------
-gb = blocks_of(SRC_G, lambda l: l.startswith("### "))
+gb = blocks_of(SRC_G, lambda l: l.startswith("### "), drop_h2=True)
 clauses, nonfinite, prep, tail = [], [], [], []
 for b in gb:
     h = b.split("\n")[0]
@@ -66,6 +67,8 @@ for b in gb:
         nonfinite.append(b)
     elif h.startswith("### 介词与连词："):
         prep.append(b)
+    elif h.startswith("### 跨节联动复习"):
+        continue  # 由手写的 `### 联动复习：2016 Passage 4 …` 取代
     else:
         tail.append(b)
 
@@ -74,8 +77,7 @@ print("grammar blocks:", len(gb), "=> 从句", len(clauses), "非谓语", len(no
 for b in clauses + nonfinite + prep + tail:
     print("   -", b.split("\n")[0][:80])
 
-assert len(clauses) == 10 and len(nonfinite) == 5 and len(prep) == 2 and len(tail) == 13
-assert not any("跨节联动复习" in b.split("\n")[0] for b in gb)
+assert len(clauses) == 10 and len(nonfinite) == 5 and len(prep) == 2 and len(tail) == 14
 
 g = read(G)
 if not DRY:
