@@ -8,10 +8,10 @@ task: "生成 2016-passage4-young-americans-success 综合精读笔记并放入 
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-28"
 last_updated: "2026-09-28"
-current_phase: P3
-current_status: in_progress
+current_phase: P4
+current_status: blocked
 mode: guided
-blocked_reason: ""
+blocked_reason: "等待用户确认长难句候选清单"
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2016阅读/passage_4.md"
 year: "2016"
 passage: "4"
@@ -28,7 +28,7 @@ grammar_source: "从本文提取考研相关语法点（用户未提供现成语
 > 任务：生成 2016-passage4-young-americans-success 综合精读笔记并放入 2016阅读
 > 运行标识：reading-note-2016-passage4-young-americans-success
 > 创建时间：2026-09-28
-> 当前阶段：阶段 3
+> 当前阶段：阶段 4
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -74,7 +74,7 @@ grammar_source: "从本文提取考研相关语法点（用户未提供现成语
 - [ ] 已核验语法笔记信息密度未丢失
 - [ ] 已加入必要的跨节联动复习
 
-> [P3] 🔲 进行中 {in_progress}
+> [P3] ✅ 已完成 {complete}
 
 ---
 
@@ -84,7 +84,7 @@ grammar_source: "从本文提取考研相关语法点（用户未提供现成语
 - [ ] 已说明每个候选句的分析价值
 - [ ] 已获得用户确认、删改或补充
 
-> [P4] ⬜ 未开始 {not_started}
+> [P4] 🔲 进行中 {blocked}
 
 ---
 
@@ -154,6 +154,7 @@ grammar_source: "从本文提取考研相关语法点（用户未提供现成语
 
 | 时间 | 阶段 | 问题描述 | 处理方式 |
 |------|------|---------|---------|
+| 2026-09-28 11:36 | P4 | 阻塞：等待用户确认长难句候选清单 | 停在当前阶段，等待用户确认或补充资料 |
 | | | | |
 
 ---
