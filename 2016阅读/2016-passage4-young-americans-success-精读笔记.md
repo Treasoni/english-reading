@@ -1926,7 +1926,184 @@ Pete Schneider considers the climb tougher today. Schneider, a 27-year-old auto 
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+本篇生词集中在五个语义场：**代际与人生规划**（generational lines / milestone / road map to success / finish line / signpost / get started）、**经济与就业**（drastic / population structure / the Great Recession / aftermath / mortgage / debt / affordable / good-paying / technician）、**年龄与阶层**（upper middle-class / suburbs / retire / financially secure / capable）、**共识与差异的表达**（converge on / contrasts / strikingly / overwhelming / virtually）、以及**调查与表态的动词**（survey / poll / prioritize / favor / maintain / constitute / secure）。另有若干**熟词生义**（prize / constitute / favor / maintain / serve / secure / struck / advance）与**否定前移**（I don't think ...）是本篇题目与干扰项的直接来源，务必单独记牢。
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **advance** | v. | 推动、促进——**熟词生义**（非形容词"提前的"） | "believe they will **advance** their careers most by regularly changing jobs" |
+| **affordable** | adj. | 负担得起的（`afford` v. 负担得起） | "finding **affordable** housing" |
+| **aftermath** | n. | （灾难、战争等的）余波、后果 | "in the **aftermath** of the searing Great Recession" |
+| **backdrop** | n. | 背景（本义"舞台背景幕布"，`against a backdrop of` 为固定搭配） | "Against a **backdrop** of drastic changes in economy and population structure" |
+| **capable** | adj. | 有能力的（`be capable of + n. / doing`，**不接不定式**） | "I don't think people are **capable** of that anymore." |
+| **constitute** | v. | 构成、算作——**熟词生义**（非"制定"） | "what **constitutes** the finish line of a fulfilling life" |
+| **contrasts** | n. | 差异、对照（`contrast` 作名词重音在前，作动词重音在后） | "From career to community and family, these **contrasts** suggest that …" |
+| **converge** | v. | 趋同、汇聚（`converge on` ＝ 在……上达成一致） | "Young and old **converge on** one key point" |
+
+### D-F
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **debt** | n. | 债务、欠款（`manage debt` 管理债务） | "starting a family, managing **debt**, and finding affordable housing" |
+| **define** | v. | 界定、定义（此处指"确立"优先事项） | "those just starting out in life are **defining** priorities and expectations" |
+| **drastic** | adj. | 剧烈的、激烈的（常与 changes / measures 搭配，比 severe 更强调幅度） | "a backdrop of **drastic** changes in economy and population structure" |
+| **favor** | v. | 偏爱、支持——**熟词生义**（非名词"恩惠"） | "to **favor** communities with more public services" |
+| **financially secure** | phr. | 财务上有保障的 | "couples should be **financially secure** before getting married" |
+| **finish line** | n. | 终点线（**赛跑隐喻**，喻"人生的目标"） | "what constitutes the **finish line** of a fulfilling life" |
+| **fulfilling** | adj. | 令人（内心）满足的（`-ing` 修饰物；`personal fulfillment` n. 个人成就感） | "the finish line of a **fulfilling** life" |
+| **fulfillment** | n. | 成就感、满足感（`fulfill` v. 实现、履行） | "to prioritize personal **fulfillment** in their work" |
+
+### G-L
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **generational** | adj. | 代际的（`generation` 一代 + `-al`） | "Across **generational** lines, Americans continue to prize …" |
+| **generational lines** | phr. | 代际界限（`Across generational lines` ＝ 跨越代际） | "Across **generational lines**, Americans continue to prize many of the same traditional milestones" |
+| **get started in life** | phr. | 人生起步、安身立命（第 39 题 [D] 的同义改写对象） | "it is harder for young people today to **get started in life**" |
+| **good-paying** | adj. | 高薪的（复合形容词，`well-paying` 同义） | "such signpost achievements as securing a **good-paying** job" |
+| **housing patterns** | n. | 居住模式（P4 并列末三项之一） | "from consumer preferences to **housing patterns** to politics" |
+| **loan** | n. | 贷款（第 39 题 [C] 干扰项用词；原文相关表达是可负担住房） | "housing **loans** today are easy to obtain" |
+
+### M-P
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **maintain** | v. | 坚持认为、主张——**熟词生义**（非"维持"），后接 that 宾语从句 | "and to **maintain** that children are best served by two parents working outside the home" |
+| **milestone** | n. | 里程碑、人生重要节点（与 `signpost`、`finish line` 同属行进隐喻） | "the same traditional **milestones** of a successful life" |
+| **mortgage** | n. | 抵押贷款、房贷 | "I can't afford to pay my monthly **mortgage** payments on my own" |
+| **overwhelming** | adj. | 压倒性的（`overwhelming majorities` ＝ 压倒性多数） | "**Overwhelming** majorities of both groups said they believe …" |
+| **personal fulfillment** | n. | 个人成就感（`prioritize personal fulfillment in their work`） | "to **prioritize personal fulfillment** in their work" |
+| **poll** | n. | 民意调查（`a latest poll has found` 交代信息来源） | "a new 21st-century road map to success, a latest **poll** has found" |
+| **population structure** | n. | 人口结构 | "drastic changes in economy and **population structure**" |
+| **prioritize** | v. | 优先考虑、把……放在首位（`priority` n. 优先事项） | "to **prioritize** personal fulfillment in their work" |
+| **prospects** | n. | 前景、前景展望（常用复数） | "younger people are somewhat more optimistic … about the **prospects** for those starting out today" |
+
+### R-S
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **recession** | n. | 经济衰退（`the Great Recession` 特指 2007—2009 年大衰退，**定冠词 + 大写**） | "in the aftermath of the searing Great **Recession**" |
+| **retire** | v. | 退休（`retiring in their sixties` 六十多岁退休，第 36 题 [C] 的反义对象） | "owning a home, and **retiring** in their sixties" |
+| **road map to success** | phr. | 通往成功的路线图（**隐喻**：把人生规划比作地图，`to` 表方向） | "younger Americans are drawing a new 21st-century **road map to success**" |
+| **searing** | adj. | 灼热的、刻骨的（此处修饰衰退，强调创痛之深） | "in the aftermath of the **searing** Great Recession" |
+| **secure** | v. | 获得、争取到——**熟词生义**（非形容词"安全的"） | "**securing** a good-paying job" |
+| **signpost** | n. | 路标（`signpost achievements` ＝ 标志性成就） | "in reaching such **signpost** achievements as …" |
+| **steadily** | adv. | 稳定地（`working steadily` 工作稳定） | "Even now that he is working **steadily**" |
+| **strikingly** | adv. | 显著地、惊人地 | "they offer **strikingly** different paths for reaching it" |
+| **suburbs** | n. | 郊区（**恒用复数**） | "a 27-year-old auto technician from the Chicago **suburbs**" |
+| **survey** | n. | 调查（`the survey found` 交代信息来源） | "two parents working outside the home, the **survey** found" |
+
+### T-Z
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **technician** | n. | 技师、技术员（`auto technician` 汽车技师） | "Schneider, a 27-year-old auto **technician** from the Chicago suburbs" |
+| **tougher climb** | phr. | 更艰难的攀登（`climb` 与 `road map`、`get started` 同属登山隐喻） | "face a **tougher climb** than earlier generations" |
+| **upper middle-class** | adj. | 中上阶层的（复合形容词作定语） | "I still grew up in an **upper middle-class** home" |
+| **virtually** | adv. | 几乎、实际上——**高频副词**，**不是"虚拟地"**（第 38 题 [B] 的 `almost` 即其同义替换） | "will increasingly spread through **virtually** all aspects of American life" |
+
+### 选项词速查（第 36—40 题）
+
+| 词汇 | 词性 | 含义 | 出现处 |
+|------|------|------|--------|
+| **available** | adj. | 可获得的、可得到的（第 39 题 [A] 干扰项，把"更难取得"偷换成"职位更少"） | "good-paying jobs are less **available**" |
+| **beyond** | prep. | 超出、晚于（第 36 题 [C] 干扰项，与 `retiring in their sixties` **方向相反**） | "working **beyond** retirement age" |
+| **childcare** | n. | 儿童照护（第 37 题 [D] 干扰项，原文落点是"双亲都外出工作"） | "give priority to **childcare** outside the home" |
+| **cross-generation** | adj. | 跨代的（第 36 题题干用词，＝ 原文 `Across generational lines`） | "One **cross-generation** mark of a successful life" |
+| **dream job** | phr. | 理想工作（第 40 题 [D] 干扰项，与 `struggled to find a job` **正相反**） | "He found a **dream job** after graduating from college." |
+| **established** | adj. | 已立足的（第 39 题 [D] **正确项**，`get established` ＝ `get started in life`） | "getting **established** is harder for the young" |
+| **lifestyle** | n. | 生活方式（第 36 题 [B] 干扰项，原文无据） | "trying out different **lifestyles**" |
+| **materialistic** | adj. | 物质主义的（第 38 题 [C] 干扰项，**无中生有**） | "focus on **materialistic** issues" |
+| **occupation** | n. | 职业（第 37 题 [B] 干扰项，与 `regularly changing jobs` **正相反**） | "hold an **occupation** longer" |
+| **political preferences** | n. | 政治偏好（第 38 题 [A] 干扰项，把并列末项 `politics` **以偏概全**） | "depend largely on **political preferences**" |
+| **pre-marital** | adj. | 婚前的（第 37 题 [C] **正确项**，＝ `before getting married`） | "attach importance to **pre-marital** finance" |
+| **profitable** | adj. | 有盈利的（第 36 题 [D] 干扰项，原文无据） | "setting up a **profitable** business" |
+
+### 生词练习
+
+#### 一、选词填空（从下方词库中选词，必要时改变形式）
+
+**词库**：`backdrop` / `converge on` / `aftermath` / `constitute` / `maintain` / `strikingly` / `virtually` / `mortgage` / `capable` / `signpost` / `affordable` / `struck`
+
+1. Against a ____ of drastic changes in economy and population structure, younger Americans are drawing a new 21st-century road map to success.
+2. Across generational lines, Americans still prize the same traditional milestones of a successful life, but they offer ____ different paths for reaching them.
+3. While young and old mostly agree on what ____ the finish line of a fulfilling life, they disagree on how to get there.
+4. Young people are more likely than older adults to ____ personal fulfillment in their work and to ____ that children are best served by two parents working outside the home.
+5. In the ____ of the searing Great Recession, those just starting out in life are defining priorities and expectations that will spread through ____ all aspects of American life.
+6. Two groups that disagree on almost everything can still ____ one key point: it is harder for young people today to get started in life.
+7. Even now that he is working steadily, Schneider says he cannot pay his monthly ____ payments on his own and has to rent rooms out.
+8. He is ____ that his parents could provide a comfortable life even though neither had completed college.
+9. Finding ____ housing and securing a good-paying job are among the ____ achievements his generation finds hardest to reach.
+10. "I don't think people are ____ of that anymore," Schneider says—a judgement about an entire generation's chances.
+
+> [!abstract]- 答案
+> 1. **backdrop** — `against a backdrop of` 是固定搭配，"在……的背景下"；介词只能用 `against`。
+> 2. **strikingly** — 副词修饰 `different`，"惊人地不同"；`while` 从句放"共识"、主句放"差异"。
+> 3. **constitutes** — "构成、算作"（**熟词生义**）；`what` 引导介词 `on` 的宾语从句。
+> 4. **prioritize** / **maintain** — `maintain` 在此＝"**坚持认为**"（熟词生义，非"维持"），后接 that 宾语从句；两句同属 P3 的五重并列不定式。
+> 5. **aftermath** / **virtually** — `aftermath`"余波"；`virtually` ＝ almost（**不是"虚拟地"**），与第 38 题 [B] 的 `almost all` 是同义替换。
+> 6. **converge on** — "在……上达成一致"；与上文的 `contrasts`（差异）构成一对统帅全文的枢纽词。
+> 7. **mortgage** — "房贷、抵押贷款"；`on my own` 意为"独自、靠自己"。
+> 8. **struck** — `be struck that` ＝"被……触动"（`strike` 的过去分词）；`neither had completed college` 中 `neither` 表"两者都不"，用过去完成时。
+> 9. **affordable** / **signpost** — `affordable housing` 可负担住房；`signpost achievements` 标志性成就（`signpost` 本义"路标"）。
+> 10. **capable** — `be capable of + n. / doing`，"有能力做到"，**不接不定式**；注意全句是**否定前移**，语义重心在从句。
+
+#### 二、短语翻译（译成中文）
+
+1. against a backdrop of drastic changes in economy and population structure
+2. draw a new 21st-century road map to success
+3. prize the same traditional milestones of a successful life
+4. agree on what constitutes the finish line of a fulfilling life
+5. offer strikingly different paths for reaching it
+6. prioritize personal fulfillment in their work
+7. advance their careers most by regularly changing jobs
+8. be financially secure before getting married or having children
+9. children are best served by two parents working outside the home
+10. in the aftermath of the searing Great Recession
+11. spread through virtually all aspects of American life
+12. Young and old converge on one key point
+13. it is harder for young people today to get started in life than it was for earlier generations
+14. face a tougher climb than earlier generations in reaching such signpost achievements as securing a good-paying job
+15. I still grew up in an upper middle-class home with parents who didn't have college degrees.
+
+> [!abstract]- 答案
+> 1. **在经济与人口结构剧变的背景下**——`against a backdrop of` 固定搭配，介词只能用 `against`；`drastic` 强调幅度之大。
+> 2. **绘制一幅全新的 21 世纪成功路线图**——`road map to success` 是隐喻，`to` 表**方向**而非所属；`21st-century` 为前置定语。
+> 3. **看重同样的传统人生里程碑**——`prize` 此处是**动词**"珍视"（**熟词生义**，非"奖品"）；`milestones` 与下文 `finish line`、`signpost` 同属行进隐喻。
+> 4. **在"什么才算圆满人生的终点线"上达成一致**——`agree on` 指双方**共同商定**某事；`constitute` ＝"构成"；`fulfilling` ＝"令人满足的"。
+> 5. **给出截然不同的抵达路径**——`strikingly` 副词修饰 `different`；`for reaching it` 是不定式作后置定语，`it` 回指 the finish line。
+> 6. **优先考虑工作中的个人成就感**——`prioritize`"把……放在首位"；`personal fulfillment` 个人成就感。
+> 7. **相信靠定期更换工作最能推动职业发展**——`advance one's career` 推动职业发展；`most` 是**副词**修饰 `advance`（"最能够"）；`by + 动名词` 表方式。
+> 8. **在结婚生子之前实现财务稳定**——`financially secure` 财务上有保障的；`before` 后接两个并列动名词，形式需一致。
+> 9. **双亲都外出工作对孩子的成长最为有利**——`be best served by` ＝"对……最有利"（此处 `serve` 不是"服务"）；`working outside the home` 是现在分词作后置定语修饰 two parents。
+> 10. **在灼人的大衰退余波之下**——`aftermath` ＝"余波、后果"；`searing` ＝"灼热的、刻骨的"，强调创痛之深；`the Great Recession` 定冠词 + 大写，特指 2007—2009 年大衰退。
+> 11. **渗透到美国生活的几乎方方面面**——`virtually` ＝ almost（**不是"虚拟地"**）；`increasingly` 越来越。
+> 12. **年轻人和年长者在一点上不谋而合**——`converge on`"在……上达成一致"；与上文 `contrasts`（差异）构成"先分后合"的结构。
+> 13. **如今的年轻人比早先几代人更难以起步**——`it` 是**形式主语**（真主语是 `to get started in life`）；`than it was for earlier generations` 中的 `it` **回指同一件事**，不是指人。
+> 14. **在获得一份高薪工作这类标志性成就上，要面对比早先几代人更艰难的攀登**——`such A as B` 为举例结构；`tougher climb` 与 `road map`、`get started` 同属登山隐喻。
+> 15. **我仍然是在一个中上阶层的家庭里长大的，而我的父母并没有大学学历**——`upper middle-class` 是复合形容词；`with parents who didn't have college degrees` 中 `who` 引导定语从句修饰 parents；本句是第 40 题 [B] 的定位依据。
+
+#### 三、语境理解（判断下列句中加粗部分的语义，并说明判断依据）
+
+1. "Across generational lines, Americans continue to **prize** many of the same traditional milestones of a successful life."
+2. "But while young and old mostly agree on what **constitutes** the finish line of a fulfilling life, they offer strikingly different paths for reaching it."
+3. "to **favor** communities with more public services and a faster pace of life"
+4. "and to **maintain** that children are best **served** by two parents working outside the home"
+5. "From career to community and family, these **contrasts** suggest that … those just starting out in life are defining priorities and expectations that will increasingly spread through **virtually** all aspects of American life."
+6. "Looking back, he **is struck** that his parents could provide a comfortable life for their children even though neither had completed college."
+7. "**I don't think** people are **capable** of that anymore."
+
+> [!abstract]- 答案
+> 1. **珍视、高度重视**（**动词**，不是名词"奖品"）——**依据**：`prize` 后直接接宾语 `many of the same traditional milestones`，处于谓语位置；且与 `continue to` 连用构成不定式，只能是动词。
+> 2. **构成、算作**（**不是"制定、建立"**）——**依据**：主语是 `what`（即"什么样的条件"），宾语是 `the finish line`；"构成终点线"讲得通，"制定终点线"则主宾错位。**同族词**：`constitution`（宪法 / 构成）。
+> 3. **偏爱、支持**（**动词**，不是名词"恩惠"）——**依据**：它是五个并列不定式之一（`to favor …`），`to` 后必为动词原形；后接宾语 communities，语义为"偏爱某类社区"。
+> 4. **maintain ＝ 坚持认为**（**不是"维持"**）；**served ＝ 对……最有利**（**不是"服务"**）——**依据**：`maintain` 后接 `that` 引导的**完整从句**，是典型的"主张、认为"义；`be served by` 的主语是做法（双亲外出工作），做法不能"服务"人，只能"对人有利"。
+> 5. **contrasts ＝ 差异、对照**；**virtually ＝ 几乎、实际上**（**不是"虚拟地"**）——**依据**：`these contrasts` 回指上文五组"年轻人更倾向于……"的分歧；`virtually` 修饰 `all aspects`，只有"几乎全部"才与 `increasingly spread`（越来越扩散）相配——**第 38 题 [B] 的 `almost all aspects` 正是此处 virtually 的同义替换**，而 [D] 把它换成 `become increasingly clear`（变得清晰）就偏了方向。
+> 6. **is struck ＝ 被触动、深感震动**（`strike` 的过去分词，**不是"被打"**）——**依据**：后接 `that` 从句说明"触动于何事"；主语是人，`be struck that …` 是固定表达，语义指向"内心受到触动"。
+> 7. **否定前移**：形式上否定 `think`、语义上否定从句——实义是"**我认为人们再也做不到这一点了**"；**capable ＝ 有能力做到**（`be capable of + n./doing`，**不接不定式**）——**依据**：把 `not` 挪进从句读一遍即可确认（"我不认为人们能做到"→ 语义重心其实落在"做不到"）；`of` 后接代词 `that`（回指"父母没有大学学历却仍让子女过上舒适生活"这件事），若是 `be able` 则必须用 `be able to do`。
 
 ## 心得
 
