@@ -126,21 +126,6 @@ if not DRY:
         "g.row_more",
     )
 
-    g = rep1(
-        g,
-        "）已拆分到独立笔记 [[固定搭配与词组笔记]]。",
-        "；**2016 P4**：a road map to success、across generational lines、a faster pace of life、the searing Great Recession、"
-        "overwhelming majorities、signpost achievements、a good-paying job、affordable housing、on one's own、be capable of、"
-        "be best served by、such … as …；熟词生义 prize / constitute / favor / maintain / serve / secure / struck / climb / signpost；"
-        "易混辨析 prize / appreciate / value / cherish、milestone / landmark / breakthrough / watershed、"
-        "constitute / compose / comprise / consist of、maintain / claim / assert / contend、secure / obtain / acquire / attain、"
-        "aftermath / consequence / fallout / result、virtually / almost / practically / literally、converge / coincide / agree、"
-        "prospect / perspective / outlook / expectation、affordable / reasonable / economical / cheap、mortgage / loan / credit / debt、"
-        "suburb / outskirts / countryside / downtown、capable / able / competent / qualified、optimistic / hopeful / positive / sanguine"
-        "）已拆分到独立笔记 [[固定搭配与词组笔记]]。",
-        "g.tip_line",
-    )
-
     for anchor, bs in (
         ("## 非谓语动词 (Non-finite Verbs)", clauses),
         ("## 介词与连词 (Prepositions & Conjunctions)", nonfinite),
@@ -176,7 +161,7 @@ if not DRY:
     )
     c = rep1(
         c,
-        "）每条例句均标注来源篇章",
+        "）。每条例句均标注来源篇章",
         "；**2016 P4**：a road map to success、a backdrop of drastic changes、population structure、generational lines、"
         "the traditional milestones of a successful life、the finish line of a fulfilling life、personal fulfillment、"
         "a faster pace of life、financial security、the searing Great Recession、consumer preferences、housing patterns、"
@@ -188,7 +173,7 @@ if not DRY:
         "virtually / almost / practically / literally、converge / coincide / agree、prospect / perspective / outlook / expectation、"
         "affordable / reasonable / economical / cheap、mortgage / loan / credit / debt、suburb / outskirts / countryside / downtown、"
         "capable / able / competent / qualified、optimistic / hopeful / positive / sanguine"
-        "）每条例句均标注来源篇章",
+        "）。每条例句均标注来源篇章",
         "c.abstract",
     )
     c = rep1(
@@ -215,12 +200,13 @@ if not DRY:
         return "\n".join(lines)
 
     def c_sub(b):
-        return "\n".join(("###" + l) if l.startswith("### ") else l for l in b.split("\n"))
+        # 内层 `### N.` 降一级为 `#### N.`
+        return "\n".join(("#" + l) if l.startswith("### ") else l for l in b.split("\n"))
 
     parts = []
     for b in cb:
-        b = c_head(b)
-        b = c_sub(b)
+        b = c_sub(b)  # 先把内层 `### N.` 降为 `#### N.`
+        b = c_head(b)  # 再把类别标题改写为 `### 2016 Passage 4：…`
         parts.append(b)
     c = c.rstrip("\n") + "\n\n---\n\n" + "\n\n---\n\n".join(parts) + "\n\n" + TAG + "\n"
     write(C, c)
