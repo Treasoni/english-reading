@@ -50,7 +50,7 @@ Parkrun is **succeeding** where London's Olympic "**legacy**" is failing.
 >
 > **参考译文**：Parkrun 正在伦敦奥运会"遗产"失灵的地方取得成功。
 >
-> **考点提示**：① **`where` 的三义判断法**：前面是**完整主句** → 状语从句（本句 `Parkrun is succeeding` 已完整）；前面是**表地点的名词** → 定语从句；前面是 `know / see` 等动词 → 名词性从句。② **`is succeeding` 与 `is failing` 是作者设置的一对反义词**，统帅全文的对比结构；第 22 题问的正是这份"遗产"何以 failing。③ 引号表**反讽**，读引号时先问"作者是引述还是讽刺"。④ 若把 `where` 译成"在哪里"，中文立刻不通——**译不通即为理解错误的信号**。
+> **考点提示**：① **`where` 的三义判断法**：前面是**完整主句** → 状语从句（本句 `Parkrun is succeeding` 已完整）；前面是**表地点的名词** → 定语从句；前面是 `know / see` 等动词 → 名词性从句。② **`is succeeding` 与 `is failing` 是作者设置的一对反义词**，统帅全文的对比结构；这句为第 22 题提供了**反衬背景**——题干问的是 `has failed to ____`（未能做成什么），答案在第 2 段的证据句中，本句只负责把"Parkrun 成功 / 奥运遗产失败"的对照立起来。③ 引号表**反讽**，读引号时先问"作者是引述还是讽刺"。④ 若把 `where` 译成"在哪里"，中文立刻不通——**译不通即为理解错误的信号**。
 
 Ten years ago on Monday, it was announced that the Games of the 30th Olympiad would be in London.
 
@@ -91,7 +91,7 @@ Planning documents **pledged** that the great legacy of the Games would be to **
 >
 > **参考译文**：规划文件承诺，这届奥运会留下的伟大遗产将是把全国的体育爱好者从沙发上撬起来。
 >
-> **考点提示**：① `pledged` 后的 `that` 从句**整体作宾语**；从句谓语用 `would be`，是**站在当年视角看未来**（过去将来），紧随其后的 `It has not happened.` 用**现在完成时**把它当面推翻——**时态的落差就是批评本身**。② `to lever …` 位于 `be` 之后作**表语**（be to do 结构），不是目的状语。③ `lever` 是**名词动用**"撬动、用力挪开"；`couches`（沙发）是"久坐不动的生活方式"的**转喻**。④ 第 22 题把这一**被动引述的承诺**改写为**主动叙述**（`The author believes that … has failed to …`），是典型的同义转换考法。
+> **考点提示**：① `pledged` 后的 `that` 从句**整体作宾语**；从句谓语用 `would be`，是**站在当年视角看未来**（过去将来），而隔一句之后的 `It has not happened.` 用**现在完成时**把它当面推翻——**时态的落差就是批评本身**。② `to lever …` 位于 `be` 之后作**表语**（be to do 结构），不是目的状语。③ `lever` 是**名词动用**"撬动、用力挪开"；`couches`（沙发）是"久坐不动的生活方式"的**转喻**。④ 第 22 题把这一**被动引述的承诺**改写为**主动叙述**（`The author believes that … has failed to …`），是典型的同义转换考法。
 
 The population would be fitter, healthier and produce more winners.
 
@@ -106,7 +106,7 @@ The number of adults doing weekly sport did rise, by nearly 2 million in the ==r
 >
 > - 主语 S: The number of adults doing weekly sport（每周参加运动的成年人数量）
 > - 谓语 V: did rise（**确实**上升了）— `do` 的强调用法
-> - 插入语 A: by nearly 2 million in the run-up to 2012（增加了近 200 万／在 2012 年前的筹备期）
+> - 状语 A（插入成分）: by nearly 2 million in the run-up to 2012（增加了近 200 万／在 2012 年前的筹备期）
 > - 并列分句（转折）: the general population was growing faster（但总人口增长得更快）
 >
 > **修饰成分**：
@@ -131,7 +131,7 @@ The number of adults doing weekly sport did rise, by nearly 2 million in the ==r
 >
 > **参考译文**：每周参加运动的成年人数量确实上升了——在 2012 年之前的筹备期里增加了近 200 万——但总人口增长得更快。
 >
-> **考点提示**：① **`did rise` 是 do 的强调用法**，表"确实如此"，与后面的 `but` 构成"**先承认、后否定**"的让步式批评。② 破折号内 `by nearly 2 million in the run-up to 2012` 是**插入成分**，整段拿掉主干不失；阅读时**先跳过破折号**抓主干。③ `the general population was growing faster` 才是作者落点：**绝对数上升、占比反而下降**——这是第 22 题的答题依据。④ 本句与 `Worse, the numbers are now falling …` 连用，构成"承认 → 转折 → 递进"三段式，也是第 25 题态度为 critical 而**非** tolerant 的原因：作者不是不讲理，而是讲完理之后仍然批评。
+> **考点提示**：① **`did rise` 是 do 的强调用法**，表"确实如此"，与后面的 `but` 构成"**先承认、后否定**"的让步式批评。② 破折号内 `by nearly 2 million in the run-up to 2012` 是**插入成分**，整段拿掉主干不失；阅读时**先跳过破折号**抓主干。③ `the general population was growing faster` 才是作者落点：**绝对数上升、占比反而下降**——这是第 22 题的答题依据。④ 本句与 `Worse, the numbers are now falling …` 连用，构成"承认 → 转折 → 递进"三段式，为第 22 题（奥运遗产未能促进体育参与）提供**数据证据**；至于第 25 题的政府态度，证据在第 4 段，不要安到本句上。
 
 Worse, the numbers are now falling at an **accelerating** rate.
 
@@ -168,7 +168,7 @@ Official **retrospections** continue as to why London 2012 failed to "inspire a 
 >
 > **参考译文**：官方仍在反思伦敦 2012 为何未能"激励一代人"。
 >
-> **考点提示**：① `as to` 是**复合介词**"关于"，后接**疑问词引导的从句**作其宾语（`as to why …`），属**介词宾语从句**——判定关键是：`as to` 后不是名词，而是一个"疑问词 + 主语 + 谓语"的完整从句。② 近义替换：`as for`（语体更口语）、`regarding / concerning`（更书面）；考研常以**换用介词**设干扰项。③ 引号引**官方口号**，作用是**先立目标、再反衬**——紧接着的 `The success of Parkrun offers answers.` 才是作者的答案。④ `fail to do` 意为"未能做某事"，与 `fail doing`（不去做）语义不同。
+> **考点提示**：① `as to` 是**复合介词**"关于"，后接**疑问词引导的从句**作其宾语（`as to why …`），属**介词宾语从句**——判定关键是：`as to` 后不是名词，而是一个"疑问词 + 主语 + 谓语"的完整从句。② 近义替换：`as for`（语体更口语）、`regarding / concerning`（更书面）；考研常以**换用介词**设干扰项。③ 引号引**官方口号**，作用是**先立目标、再反衬**——紧接着的 `The success of Parkrun offers answers.` 才是作者的答案。④ `fail to do` 意为"未能做成某事"（结果未达成），对举记忆用 `succeed in doing`（成功地做成某事，介词 in 后接动名词）；`fail` **不接动名词**，故 `fail doing` 是错的写法。
 
 The success of Parkrun offers answers.
 
@@ -184,7 +184,7 @@ There is as much joy over a **puffed-out** first-timer being **clapped** over th
 > **主干提取**：
 >
 > - 存在句: There is … joy（有……喜悦）
-> - 主语 S: as much joy（与……同样多的喜悦）
+> - 主语 S: joy（喜悦）— 由同级比较结构 `as much … as …` 框定比较的双方
 > - 比较项 1: over a puffed-out first-timer being clapped over the line（新人被鼓掌迎过终点线）
 > - 比较项 2: as there is about top talent shining（与顶尖高手大放异彩）
 >
@@ -205,7 +205,7 @@ There is as much joy over a **puffed-out** first-timer being **clapped** over th
 >   ├── 比较项 1: over a puffed-out first-timer being clapped over the line
 >   │      └── 动名词复合结构（被动）: first-timer（逻辑主语）+ being clapped
 >   └── 比较项 2: as there is about top talent shining
->          └── 动名词复合结构: top talent（逻辑主语）+ shining
+>      └── 动名词复合结构: top talent（逻辑主语）+ shining
 > ```
 >
 > **参考译文**：一个大口喘气的初次跑者被众人鼓掌迎过终点线，与顶尖高手大放异彩，所获得的喜悦是同等的。
@@ -224,6 +224,7 @@ The **dual** aim was mixed up: The stress on success over taking part was **inti
 > - 分句 1 主语 S: The dual aim（这双重的目标）
 > - 分句 1 谓语 V: was mixed up（被搞混了）— 被动语态
 > - 分句 2 主语 S: The stress on success over taking part（对成功而非参与的强调）
+> - 分句 2 谓语 V: was（是）— 系动词，连接主语与表语
 > - 分句 2 表语 C: intimidating for newcomers（令新人望而生畏）
 >
 > **修饰成分**：
@@ -258,7 +259,7 @@ Indeed, there is something a little **absurd** in the state getting involved in 
 >
 > - 存在句骨架: there is something（有某种东西）
 > - 定语 / 补足: a little absurd（有点荒谬）— 修饰 something
-> - 状语 A: Indeed（的确）— 句首加强语气
+> - 句首评注状语（**非主干**）: Indeed（的确）— 加强语气
 > - 介词宾语（动名词复合结构）: in the state getting involved in the planning of …（在于国家插手……的规划）
 >
 > **修饰成分**：
@@ -285,7 +286,7 @@ Indeed, there is something a little **absurd** in the state getting involved in 
 >
 > **参考译文**：的确，国家插手社区体育协会这样一种本质上"草根"的概念的规划，本身就有点荒谬。
 >
-> **考点提示**：① **"主干短、修饰长"的典型考研句**：全句最长的部分全在介词 `in` 之后，**主句骨架只有 `there is something a little absurd`**；读句时先抓骨架，再挂修饰。② 动名词复合结构中 `the state` 是 `getting` 的**逻辑主语**（"国家插手"），**不是** `in` 的宾语；`state` 在此作"**国家、政府**"解，判据是后面**没有** `of`（`the state of …` 才是"……的状态"）。③ `such … as` 表**举例**（后接名词短语）；若后接**从句**则为 `such … that`（表结果），二者一念之差。④ `Indeed` 居首加强语气，把第 3 段的暗示**挑明为"荒谬"**，是第 24、25 题的定调句。
+> **考点提示**：① **"主干短、修饰长"的典型考研句**：全句最长的部分全在介词 `in` 之后，**主句骨架只有 `there is something a little absurd`**；读句时先抓骨架，再挂修饰。② 动名词复合结构中 `the state` 是 `getting` 的**逻辑主语**（"国家插手"），**不是** `in` 的宾语；`state` 在此作"**国家、政府**"解，判据是后面**没有** `of`（`the state of …` 才是"……的状态"）。③ `such … as` 表**举例**（后接名词短语）；若后接**从句**则为 `such … that`（表结果），二者一念之差。④ `Indeed` 居首加强语气，把第 3 段的暗示**挑明为"荒谬"**，为第 4 段的政府主张**定调**；但第 24 题的具体依据在**下一句**（公共产品：场地 + 资金），本句只是铺垫。
 
 If there is a role for government, it should really be getting involved in providing **common goods**—making sure there is space for playing fields and the money to **pave** tennis and netball courts, and encouraging the **provision** of all these activities in schools.
 
@@ -296,8 +297,8 @@ If there is a role for government, it should really be getting involved in provi
 >
 > - 条件状语从句: If there is a role for government（如果政府还有角色可扮演）
 > - 主句主语 S: it（指 government）
-> - 主句谓语 V: should really be getting involved in（应该确实参与）— 进行时，强调持续投入
-> - 主句宾语 O: providing common goods（提供公共产品）
+> - 主句谓语 V: should really be getting involved in（应该确实参与）— 进行时，强调持续投入；`in` 为介词
+> - 主句介词宾语 O: providing common goods（提供公共产品）— 作 `getting involved in` 中 `in` 的宾语
 > - 补充说明: making sure … and encouraging …（两个现在分词短语并列）
 >
 > **修饰成分**：
@@ -309,7 +310,7 @@ If there is a role for government, it should really be getting involved in provi
 > | 动名词作介词宾语 | providing common goods | getting involved in |
 > | 破折号 | — | 引出对"提供公共产品"的具体说明 |
 > | 现在分词短语并列 | making sure … and encouraging … | 补充说明主句 |
-> | 宾语从句（省略 that） | make sure (that) … | sure |
+> | 宾语从句（省略 that） | make sure (that) … | make sure 的宾语 |
 > | 不定式作后置定语 | to pave | the money |
 >
 > **结构图解**：
@@ -365,7 +366,7 @@ But **successive** governments have **presided over** selling green spaces, **sq
 >
 > **参考译文**：但历届政府却眼看着绿地被出售、地方政府的经费被挤压、教育中对体育的重视不断下降。
 >
-> **考点提示**：① **三项动名词形式一致**（`selling / squeezing / declining`），这是判断并列结构的判据；`declining` 在此是**动名词**（"（重视程度的）下降"），**不是**修饰 `attention` 的现在分词——否则 `presided over` 只剩两个宾语，与 `and` 的**三项并列**逻辑不符。② `preside over` 本义"主持"，此处**带贬义**，意为"**任期内放任某事发生**"；它与 `squeeze … from …`（盘剥）、`get involved in`（插手）连用，构成一条"**政府失职清单**"。③ `successive` 意为"**接连的、历届的**"；若误读为 `successful`（成功的），**第 25 题的态度会完全反向**（误选 tolerant）——记忆法：`-ive` 表顺序（连续），`-ful` 表性质（成功）。④ 本句与后面的 `future governments need to do more … Or at least not make them worse.` 共同锁定**第 25 题**（critical）。
+> **考点提示**：① **三项动名词形式一致**（`selling / squeezing / declining`），这是判断并列结构的判据；`declining` 在此是**动名词**（"（重视程度的）下降"），**不是**修饰 `attention` 的现在分词——否则 `presided over` 只剩两个宾语，与 `and` 的**三项并列**逻辑不符。② `preside over` 本义"主持"，此处**带贬义**，意为"**任期内放任某事发生**"；它与 `squeeze … from …`（盘剥）、`get involved in`（插手）连用，构成一条"**政府失职清单**"。③ `successive` 意为"**接连的、历届的**"；若误读为 `successful`（成功的），**第 25 题的态度会完全反向**（误选 tolerant）——辨析记忆：`successive` 同族词有 `succession`（连续、继任）、`in succession`（接连地），词根义是"接着来"；`successful` 同族词是 `success`（成功）。**看后缀不如看同族词**——`-ion` 一头是"顺序"，`success` 一头是"成功"。④ 本句与后面的 `future governments need to do more … Or at least not make them worse.` 共同锁定**第 25 题**（critical）。
 
 Instead of wordy, worthy strategies, future governments need to do more to provide the conditions for sport to **thrive**.
 
