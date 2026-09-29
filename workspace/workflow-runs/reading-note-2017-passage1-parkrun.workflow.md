@@ -8,7 +8,7 @@ task: "生成 2017 passage 1（Parkrun 与伦敦奥运遗产）精读笔记"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-29"
 last_updated: "2026-09-29"
-current_phase: P0
+current_phase: P3
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2017 passage 1（Parkrun 与伦敦奥运遗产）精读笔记
 > 运行标识：reading-note-2017-passage1-parkrun
 > 创建时间：2026-09-29
-> 当前阶段：阶段 0
+> 当前阶段：阶段 3
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -41,7 +41,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已确认最终输出路径
 - [x] 已记录长难句模式：AI 候选 + 用户确认
 
-> [P0] 🔲 进行中 in_progress
+> [P0] ✅ 已完成 {complete}
 
 ---
 
@@ -52,7 +52,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已确认原文内容未删改
 - [ ] 已确认标题格式适合 Obsidian
 
-> [P1] ⬜ 未开始 not_started
+> [P1] ✅ 已完成 {complete}
 
 ---
 
@@ -62,7 +62,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `translation.md`
 - [ ] 已保持原文段落结构
 
-> [P2] ⬜ 未开始 not_started
+> [P2] ✅ 已完成 {complete}
 
 ---
 
@@ -73,7 +73,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已核验语法笔记信息密度未丢失
 - [ ] 已加入必要的跨节联动复习
 
-> [P3] ⬜ 未开始 not_started
+> [P3] 🔲 进行中 {in_progress}
 
 ---
 
@@ -83,7 +83,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已说明每个候选句的分析价值
 - [ ] 已获得用户确认、删改或补充
 
-> [P4] ⬜ 未开始 not_started
+> [P4] ⬜ 未开始 {not_started}
 
 ---
 
@@ -96,7 +96,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已确认 callout 内表格前有空行
 - [ ] 已检查后续段落没有异常开头
 
-> [P5] ⬜ 未开始 not_started
+> [P5] ⬜ 未开始 {not_started}
 
 ---
 
@@ -107,7 +107,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已保留文章原文中的内联长难句分析
 - [ ] 已插入词汇占位符
 
-> [P6] ⬜ 未开始 not_started
+> [P6] ⬜ 未开始 {not_started}
 
 ---
 
@@ -118,7 +118,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `### 生词练习`
 - [ ] 已补充短语内重要独立词条
 
-> [P7] ⬜ 未开始 not_started
+> [P7] ⬜ 未开始 {not_started}
 
 ---
 
@@ -130,7 +130,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已检查 Markdown 标题、YAML 和表格格式
 - [ ] 已向用户报告输出路径
 
-> [P8] ⬜ 未开始 not_started
+> [P8] ⬜ 未开始 {not_started}
 
 ---
 
@@ -145,7 +145,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
 - [ ] 已向用户报告两个根文件的更新内容
 
-> [P9] ⬜ 未开始 not_started
+> [P9] ⬜ 未开始 {not_started}
 
 ---
 
