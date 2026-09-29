@@ -8,7 +8,7 @@ task: "生成 2017 passage 1（Parkrun 与伦敦奥运遗产）精读笔记"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-29"
 last_updated: "2026-09-29"
-current_phase: P7
+current_phase: P9
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2017 passage 1（Parkrun 与伦敦奥运遗产）精读笔记
 > 运行标识：reading-note-2017-passage1-parkrun
 > 创建时间：2026-09-29
-> 当前阶段：阶段 7
+> 当前阶段：阶段 9
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -38,7 +38,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [x] 已确认英文文章文本或源文件路径
 - [x] 已确认 year、passage、topic
 - [x] 已确认 intermediate 目录
-- [ ] 已确认最终输出路径
+- [x] 已确认最终输出路径
 - [x] 已记录长难句模式：AI 候选 + 用户确认
 
 > [P0] ✅ 已完成 {complete}
@@ -47,10 +47,10 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 1：文章排版
 
-- [ ] 已调用 `format-article`
-- [ ] 已生成或更新 `formatted-article.md`
-- [ ] 已确认原文内容未删改
-- [ ] 已确认标题格式适合 Obsidian
+- [x] 已调用 `format-article`
+- [x] 已生成或更新 `formatted-article.md`
+- [x] 已确认原文内容未删改
+- [x] 已确认标题格式适合 Obsidian
 
 > [P1] ✅ 已完成 {complete}
 
@@ -58,9 +58,9 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 2：中英翻译
 
-- [ ] 已调用 `translate`
-- [ ] 已生成或更新 `translation.md`
-- [ ] 已保持原文段落结构
+- [x] 已调用 `translate`
+- [x] 已生成或更新 `translation.md`
+- [x] 已保持原文段落结构
 
 > [P2] ✅ 已完成 {complete}
 
@@ -68,10 +68,10 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 3：语法整理
 
-- [ ] 已调用 `organize-grammar`
-- [ ] 已生成或更新 `grammar-notes.md`
-- [ ] 已核验语法笔记信息密度未丢失
-- [ ] 已加入必要的跨节联动复习
+- [x] 已调用 `organize-grammar`
+- [x] 已生成或更新 `grammar-notes.md`
+- [x] 已核验语法笔记信息密度未丢失
+- [x] 已加入必要的跨节联动复习
 
 > [P3] ✅ 已完成 {complete}
 
@@ -79,9 +79,9 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 4：长难句候选确认
 
-- [ ] 已从 `formatted-article.md` 选出候选长难句
-- [ ] 已说明每个候选句的分析价值
-- [ ] 已获得用户确认、删改或补充
+- [x] 已从 `formatted-article.md` 选出候选长难句
+- [x] 已说明每个候选句的分析价值
+- [x] 已获得用户确认、删改或补充
 
 > [P4] ✅ 已完成 {complete}
 
@@ -89,12 +89,12 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 5：长难句分析与内联插入
 
-- [ ] 已调用 `analyze-sentence`
-- [ ] 已把分析块插入文章原文对应句子之后
-- [ ] 已确认多句同段时采用逐句交替结构
-- [ ] 已确认每个 callout 第一行包含完整原句
-- [ ] 已确认 callout 内表格前有空行
-- [ ] 已检查后续段落没有异常开头
+- [x] 已调用 `analyze-sentence`
+- [x] 已把分析块插入文章原文对应句子之后
+- [x] 已确认多句同段时采用逐句交替结构
+- [x] 已确认每个 callout 第一行包含完整原句
+- [x] 已确认 callout 内表格前有空行
+- [x] 已检查后续段落没有异常开头
 
 > [P5] ✅ 已完成 {complete}
 
@@ -102,10 +102,10 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 6：综合笔记整合
 
-- [ ] 已调用 `compile-note`
-- [ ] 已使用用户确认的最终输出路径
-- [ ] 已保留文章原文中的内联长难句分析
-- [ ] 已插入词汇占位符
+- [x] 已调用 `compile-note`
+- [x] 已使用用户确认的最终输出路径
+- [x] 已保留文章原文中的内联长难句分析
+- [x] 已插入词汇占位符
 
 > [P6] ✅ 已完成 {complete}
 
@@ -113,24 +113,24 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 7：生词表与练习
 
-- [ ] 已调用 `extract-vocabulary`
-- [ ] 已生成或更新 `## 生词表`
-- [ ] 已生成或更新 `### 生词练习`
-- [ ] 已补充短语内重要独立词条
+- [x] 已调用 `extract-vocabulary`
+- [x] 已生成或更新 `## 生词表`
+- [x] 已生成或更新 `### 生词练习`
+- [x] 已补充短语内重要独立词条
 
-> [P7] 🔲 进行中 {in_progress}
+> [P7] ✅ 已完成 {complete}
 
 ---
 
 ## 阶段 8：最终验证与收尾
 
-- [ ] 已确认所有中间文件存在
-- [ ] 已确认最终精读笔记存在
-- [ ] 已确认最终笔记不含词汇占位符
-- [ ] 已检查 Markdown 标题、YAML 和表格格式
-- [ ] 已向用户报告输出路径
+- [x] 已确认所有中间文件存在
+- [x] 已确认最终精读笔记存在
+- [x] 已确认最终笔记不含词汇占位符
+- [x] 已检查 Markdown 标题、YAML 和表格格式
+- [x] 已向用户报告输出路径
 
-> [P8] ⬜ 未开始 {not_started}
+> [P8] ✅ 已完成 {complete}
 
 ---
 
@@ -145,7 +145,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
 - [ ] 已向用户报告两个根文件的更新内容
 
-> [P9] ⬜ 未开始 {not_started}
+> [P9] 🔲 进行中 {in_progress}
 
 ---
 
@@ -153,7 +153,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 | 时间 | 阶段 | 问题描述 | 处理方式 |
 |------|------|---------|---------|
-| | | | |
+| 2026-09-29 | P5 | 本运行时无 `subagent_type="fork"`，无法按批量模式的 fork 子代理方式派发语法审查 | 改用只读 `Explore` 后台代理做语法审查，由主代理应用全部修正；9 个 callout 均已复核 |
 
 ---
 

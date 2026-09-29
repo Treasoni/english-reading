@@ -368,7 +368,7 @@ But **successive** governments have **presided over** selling green spaces, **sq
 >
 > **考点提示**：① **三项动名词形式一致**（`selling / squeezing / declining`），这是判断并列结构的判据；`declining` 在此是**动名词**（"（重视程度的）下降"），**不是**修饰 `attention` 的现在分词——否则 `presided over` 只剩两个宾语，与 `and` 的**三项并列**逻辑不符。② `preside over` 本义"主持"，此处**带贬义**，意为"**任期内放任某事发生**"；它与 `squeeze … from …`（盘剥）、`get involved in`（插手）连用，构成一条"**政府失职清单**"。③ `successive` 意为"**接连的、历届的**"；若误读为 `successful`（成功的），**第 25 题的态度会完全反向**（误选 tolerant）——辨析记忆：`successive` 同族词有 `succession`（连续、继任）、`in succession`（接连地），词根义是"接着来"；`successful` 同族词是 `success`（成功）。**看后缀不如看同族词**——`-ion` 一头是"顺序"，`success` 一头是"成功"。④ 本句与后面的 `future governments need to do more … Or at least not make them worse.` 共同锁定**第 25 题**（critical）。
 
-Instead of wordy, worthy strategies, future governments need to do more to provide the conditions for sport to **thrive**.
+Instead of **wordy**, worthy strategies, future governments need to do more to provide the conditions for sport to **thrive**.
 
 Or at least not make them worse.
 

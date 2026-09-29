@@ -1528,7 +1528,182 @@ Indeed, there is something a little absurd in the state getting involved in the 
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+本篇生词集中在五个语义场：**体育与公共政策**（Parkrun / time trial / ethos / elite / grassroots / common goods / playing fields / netball / green spaces / local authorities / provision）、**活动与参与的表达**（set off / range from … to … / staffed by / volunteers / first-timer / clapped / puffed-out / top talent / take part）、**承诺与失职的动词**（pledge / lever / preside over / squeeze / halve / thrive / pave / preside）、**评价与态度的形容词**（absurd / dual / intimidating / wordy / worthy / accelerating / successive / fitter）、以及**回顾与申办的术语**（retrospections / opposition / bidders / Olympiad / obesity）。另有若干**熟词生义**（lever / staff / preside over / halve / state / opposition / stress / bidder / authority / court / trial / goods / pupil）与**"看错就全句错"的 `successive`** 是本篇题目与干扰项的直接来源，务必单独记牢。
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **absurd** | adj. | 荒谬的（不合逻辑，多用于评价制度、做法） | "there is something a little **absurd** in the state getting involved in the planning of …" |
+| **accelerating** | adj. | 不断加快的（`accelerate` v. 加速） | "the numbers are now falling at an **accelerating** rate" |
+| **authority** | n. | **当局、管理机构**——**熟词生义**（非"权威"） | "squeezing money from local **authorities**"（`local authorities` ＝ 地方政府） |
+| **bidders** | n. | 申办方（`bid` v. 申办、投标；**熟词生义**，非"出价人"） | "The Olympic **bidders**, by contrast, wanted to get more people doing sport" |
+| **clapped** | v. | 鼓掌（`clap` 的过去分词） | "a puffed-out first-timer being **clapped** over the line" |
+| **common goods** | phr. | 公共产品（经济学概念，非排他、非竞争，与私人物品相对） | "it should really be getting involved in providing **common goods**" |
+| **couches** | n. | 沙发——**转喻**"久坐不动的生活方式" | "to lever a nation of sport lovers away from their **couches**" |
+| **court** | n. | **球场**——**熟词生义**（非"法庭"） | "the money to pave tennis and netball **courts**" |
+
+### D-F
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **dual** | adj. | 双重的（`dual aim` 双重目标） | "The **dual** aim was mixed up" |
+| **elite** | adj. / n. | 精英的；精英（`elitism` n. 精英主义，第 23 题 [C] 用词） | "to produce more **elite** athletes" |
+| **ethos** | n. | （群体／文化的）精神气质、共同信条（比 `spirit` 更强调价值观） | "The **ethos** welcomes anybody" |
+| **first-timer** | n. | 初次参与者（`-er` 表人；同类 `old-timer` 老手） | "as much joy over a puffed-out **first-timer** being clapped over the line" |
+| **fitter** | adj. | 更健美的（`fit` 的比较级） | "The population would be **fitter**, healthier and produce more winners." |
+
+### G-L
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **goods** | n. | **商品、财物**——**恒用复数**，**熟词生义**（非形容词"好的"） | "getting involved in providing common **goods**"（`common goods` ＝ 公共产品） |
+| **grassroots** | adj. | 草根的、基层自发的（合成词，喻"扎根泥土的"；引号表"所谓"） | "such a fundamentally \"**grassroots**\" concept as community sports associations" |
+| **halve** | v. | **下降一半**（**熟词生义**，非数学名词；`have nearly halved` 中为过去分词） | "primary school pupils doing at least two hours of sport a week have nearly **halved**" |
+| **inspired** | v. | 催生、激发（`inspire` 的过去分词；`has inspired` 现在完成时表成果延续） | "has **inspired** 400 events in the UK and more abroad" |
+| **intimidating** | adj. | 令人生畏的、令人却步的（`intimidate` v. 吓唬） | "The stress on success over taking part was **intimidating** for newcomers" |
+| **legacy** | n. | 遗产（引号表**反讽**：这份"遗产"名不副实） | "London's Olympic \"**legacy**\" is failing" |
+| **lever** | v. | **撬动、用力挪开**（名词动用；**熟词生义**，非名词"杠杆"） | "would be to **lever** a nation of sport lovers away from their couches" |
+| **local authorities** | phr. | 地方政府（`authority` 此处指"当局、管理机构"） | "squeezing money from **local authorities**" |
+
+### M-P
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **mixed up** | phr. | 被搞混、被混淆（`mix up`） | "The **dual** aim was **mixed up**" |
+| **netball** | n. | 无板篮球、篮网球（英联邦国家流行，与 basketball 相区别） | "the money to pave tennis and **netball** courts" |
+| **newcomers** | n. | 新手、新来的人（此处指初次参加运动的人） | "was intimidating for **newcomers**" |
+| **obesity** | n. | 肥胖（症）（`obese` adj. 肥胖的） | "**Obesity** has risen among adults and children" |
+| **opposition** | n. | 反对；（**加 the 特指**）（英国）**反对党** | "The **opposition** claims primary school pupils … have nearly halved" |
+| **pave** | v. | 铺设（路面、场地） | "the money to **pave** tennis and netball courts" |
+| **playing field** | n. | 运动场、球场（**场地层面的公共体育设施**，第 24 题 [D] 的对应表达之一） | "making sure there is space for **playing fields**" |
+| **pledged** | v. | 承诺（`pledge` v./n.；后接 that 从句） | "Planning documents **pledged** that the great legacy of the Games would be …" |
+| **preside** | v. | 主持（`preside over sth.` 主持某事；**贬义**时指"任期内放任某事发生"） | 见下条 `presided over` |
+| **presided over** | phr. | 主持；**任期内放任……发生**（**贬义**，是第 25 题的证据点） | "successive governments have **presided over** selling green spaces" |
+| **provision** | n. | 提供、供给（`provide` v.） | "encouraging the **provision** of all these activities in schools" |
+| **pupil** | n. | **小学生、学生**——**熟词生义**（非"瞳孔"） | "primary school **pupils** doing at least two hours of sport a week have nearly halved" |
+| **puffed-out** | adj. | 气喘吁吁的（合成过去分词，`puff out` "把气喷出来"） | "as much joy over a **puffed-out** first-timer being clapped over the line" |
+
+### R-S
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **range** | v. | （在一定范围内）变动、分布（`range from A to B`） | "Runners **range** from four years old to grandparents" |
+| **retrospections** | n. | 回顾、反思（`retrospect` v./n.，`retro-` 表"向后"） | "Official **retrospections** continue as to why London 2012 failed to \"inspire a generation.\"" |
+| **set off** | phr. | 出发、动身（`set off to do sth.` 动身去做某事） | "more than 50,000 runners **set off** to run 5km around their local park" |
+| **squeeze** | v. | 挤压；**榨取、盘剥**（`squeeze A from B`） | "**squeezing** money from local authorities" |
+| **staffed** | v. | 为……配备人员、维持运转（名词动用；**熟词生义**，非名词"员工"） | "Events are free, **staffed** by thousands of volunteers" |
+| **state** | n. | **国家、政府**——**熟词生义**（非"状态、州"）；此处 `the state` 特指"公权力" | "there is something a little absurd in the **state** getting involved in the planning of …" |
+| **stress** | v. / n. | **强调、重视**——**熟词生义**（非"压力"）；`stress A over B` ＝ 重 A 轻 B | "The **stress** on success over taking part was intimidating for newcomers" |
+| **succeed** | v. | **成功**；亦表"继任、接替"（`succeeding` 为现在分词，与 `failing` 构成全篇第一组反义对照） | "Parkrun is **succeeding** where London's Olympic \"legacy\" is failing" |
+| **successive** | adj. | **接连的、历届的**（**不是"成功的"**；同族 `succession` 连续、继任） | "But **successive** governments have presided over selling green spaces" |
+
+### T-Z
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **thrive** | v. | 茁壮成长、蓬勃发展 | "the conditions for sport to **thrive**" |
+| **time trial** | n. | 计时赛（自行车／跑步术语，只与时钟竞速，不与他人对抗） | "Parkun is not a race but a **time trial**: Your only competitor is the clock." |
+| **trial** | n. | **试验；审判；比赛**——**熟词生义**（`time trial` 中取"比赛、测定"义） | 见上条 `time trial`；同类 `the Olympic trials` 奥运选拔赛 |
+| **volunteers** | n. | 志愿者（**不是雇员**，第 21 题 [B] 的辨析点） | "Events are free, staffed by thousands of **volunteers**" |
+| **wordy** | adj. | 啰嗦的、冗长的（**贬义**） | "Instead of **wordy**, worthy strategies, future governments need to do more" |
+| **worthy** | adj. | （看似）可敬的、高尚的（此处与 `wordy` 并置，含轻微讽刺） | 同上，"Instead of wordy, **worthy** strategies" |
+
+### 选项词速查（第 21—25 题）
+
+| 选项词 | 词性 | 含义 | 备注 |
+|------|------|------|------|
+| **popularity** | n. | 受欢迎、普及（第 21 题 [A]） | `gained great popularity` 是 `has inspired 400 events` 的同义改写 |
+| **community ties** | phr. | 社区纽带（第 21 题 [C]） | 原文未提，属**无中生有** |
+| **festival** | n. | 节日（第 21 题 [D]） | 与 `Every Saturday morning`（每周例会）、`free`（非官方）不符 |
+| **boost** | v. | 推动、促进（第 22 题 [A]） | `boost population growth` 把原文 `the general population was growing faster` 反向设置 |
+| **participation** | n. | 参与（第 22 题 [B]） | `promote sport participation` 是正确项的概括表述 |
+| **image** | n. | 形象（第 22 题 [C]） | 原文未提，属**无中生有** |
+| **elitism** | n. | 精英主义（第 23 题 [C]，由 `elite` + `-ism` 派生） | 原文未出现原词，属**同义转换** |
+| **supervise** | v. | 监管（第 24 题 [B]） | 原文只有 `preside over`（放任），**褒贬错位** |
+| **funds** | n. | 资金（第 24 题 [C]） | 与原文 `the money to pave …` 近义，但**投向对象**不同（俱乐部 ≠ 公共场地） |
+| **facilities** | n. | 设施（第 24 题 [D]） | `public sports facilities` 对应 `space for playing fields` + `the money to pave …` |
+| **tolerant** | adj. | 宽容的（第 25 题 [A]） | 若把 `successive` 误读为 `successful`，极易误选此项 |
+| **sympathetic** | adj. | 同情的（第 25 题 [D]） | 与 `absurd`、`wordy`、`worse` 的贬义链不符 |
+| **uncertain** | adj. | 不确定的（第 25 题 [C]） | 作者立场明确（"该做得更多""至少别更糟"），并非含糊 |
+
+### 生词练习
+
+#### 一、选词填空（从下方词库中选词，必要时改变形式）
+
+**词库**：`absurd` / `ethos` / `lever` / `preside over` / `successive` / `halve` / `thrive` / `retrospections` / `time trial` / `puffed-out` / `intimidating` / `squeeze`
+
+1. Every Saturday morning, at 9 am, more than 50,000 runners set off to run 5km around their local park—and the ____ welcomes anybody, from four-year-olds to grandparents.
+2. Parkrun is not a race but a ____: your only competitor is the clock, not the runner beside you.
+3. There is as much joy over a ____ first-timer being clapped over the line as there is about top talent shining.
+4. Planning documents pledged that the great legacy of the Games would be to ____ a nation of sport lovers away from their couches.
+5. It has not happened: the number of adults doing weekly sport did rise, but the general population was growing faster—and the numbers are now falling at an accelerating rate.
+6. The opposition claims primary school pupils doing at least two hours of sport a week have nearly ____.
+7. Official ____ continue as to why London 2012 failed to "inspire a generation."
+8. The dual aim was mixed up: the stress on success over taking part was ____ for newcomers.
+9. Indeed, there is something a little ____ in the state getting involved in the planning of such a fundamentally "grassroots" concept as community sports associations.
+10. But ____ governments have presided over selling green spaces, ____ money from local authorities and declining attention on sport in education—instead of creating the conditions for sport to ____.
+
+> [!abstract]- 答案
+> 1. **ethos** — "（群体的）精神气质、共同信条"；原句 `The ethos welcomes anybody` 与 `Runners range from four years old to grandparents` 共同支撑第 21 题。
+> 2. **time trial** — "计时赛"，只与时钟竞速；`not a race but a time trial` 是**第 23 题的题眼**，`not … but …` 的重心在 `but` 之后。
+> 3. **puffed-out** — "气喘吁吁的"，合成过去分词（含被动意味）；本句是 `as much … as …` **同级比较**，说的是"**同等**"喜悦，不是"更多"。
+> 4. **lever** — **名词动用**"撬动"；`lever A away from B` 把 A 从 B 处撬开。此处若读成名词"杠杆"，句子就没有谓语了。
+> 5. **（本句为原文陈述，无需填空）** — 请重点记住 `did rise` 的**强调用法**与"**绝对数升、占比降**"的区分，破折号内 `by nearly 2 million in the run-up to 2012` 是插入成分。
+> 6. **halved** — "下降一半"（**熟词生义**，不是形容词）；`have nearly halved` 中 `halved` 是**过去分词**，判据是前面有 `have`。
+> 7. **retrospections** — "回顾、反思"；`as to why …` 是**介词宾语从句**，`as to` 为复合介词"关于"。
+> 8. **intimidating** — "令人生畏的"；`stress A over B` ＝ "重 A 轻 B"，此处 A = success、B = taking part。
+> 9. **absurd** — "荒谬的"；`there is something a little absurd in …` 的骨架只有五个词，其余全是介词 `in` 之后的动名词复合结构。
+> 10. **successive** / **squeezing** / **thrive** — `successive` ＝ "**历届的**"（**不是"成功的"**，看错就会把第 25 题误选成 tolerant）；`squeeze A from B` 表"从 B 处榨取 A"；`thrive` ＝ "蓬勃发展"，`the conditions for sport to thrive` 中 `for sport to thrive` 是不定式复合结构作定语。
+
+#### 二、短语翻译（译成中文）
+
+1. set off to run 5km around their local park
+2. staffed by thousands of volunteers
+3. Runners range from four years old to grandparents
+4. Parkrun is succeeding where London's Olympic "legacy" is failing
+5. lever a nation of sport lovers away from their couches
+6. by nearly 2 million in the run-up to 2012
+7. The number of adults doing weekly sport did rise—but the general population was growing faster
+8. Official retrospections continue as to why London 2012 failed to "inspire a generation."
+9. Parkun is not a race but a time trial: Your only competitor is the clock.
+10. There is as much joy over a puffed-out first-timer being clapped over the line as there is about top talent shining.
+11. The dual aim was mixed up: The stress on success over taking part was intimidating for newcomers.
+12. there is something a little absurd in the state getting involved in the planning of such a fundamentally "grassroots" concept as community sports associations
+13. providing common goods—making sure there is space for playing fields and the money to pave tennis and netball courts
+14. have presided over selling green spaces, squeezing money from local authorities and declining attention on sport in education
+15. Instead of wordy, worthy strategies, future governments need to do more to provide the conditions for sport to thrive. Or at least not make them worse.
+
+> [!abstract]- 答案
+> 1. **出发，绕着自家附近的公园跑 5 公里**——`set off to do sth.` 为"动身去做某事"，`to run …` 表目的；`local park` 是"社区公园"。
+> 2. **由成千上万名志愿者来维持运转**——`staffed by` 是**被动意义的过去分词短语作后置定语**，"by + 人"是识别标志；`staff` 此处是**动词**"为……配备人员"。
+> 3. **跑者从四岁孩童到祖父母辈都有**——`range from A to B` 表"在 A 与 B 之间分布"，两端含端点。
+> 4. **Parkrun 正在伦敦奥运会"遗产"失灵的地方取得成功**——`where` 引导**状语从句**（表"在……的地方／方面"）；`is succeeding` 与 `is failing` 是作者设置的**一对反义词**；引号表**反讽**。
+> 5. **把全国的体育爱好者从沙发上撬起来**——`lever` 为**名词动用**"撬动"；`couches`（沙发）是"久坐不动的生活方式"的**转喻**。
+> 6. **在 2012 年之前的筹备期里增加了近 200 万**——`in the run-up to + 时间`＝"在……的筹备期"；`by + 数量`表增加的幅度。
+> 7. **每周参加运动的成年人数量确实上升了——但总人口增长得更快**——`did rise` 是 `do` 的**强调用法**（"确实"），与 `but` 构成"先承认、后否定"；`the general population was growing faster` 才是作者落点（**占比下降**），是第 22 题的答题依据。
+> 8. **官方仍在反思伦敦 2012 为何未能"激励一代人"**——`as to` 是**复合介词**"关于"，后接 `why` 引导的**宾语从句**；`fail to do` ＝"未能做成某事"（`fail` **不接动名词**）；引号引**官方口号**，逆接一句 `The success of Parkrun offers answers.`
+> 9. **Parkrun 不是比赛，而是计时挑战：你唯一的对手是时钟**——`not … but …` 的重心在 `but` 之后；`time trial` 是"只与时钟竞速"的赛制，这正是第 23 题 [C] 的依据。
+> 10. **一个大口喘气的初次跑者被众人鼓掌迎过终点线，与顶尖高手大放异彩，所获得的喜悦是同等的**——`as much A as B` 是**同级比较**，说的是"**同等**"；A 项 `a first-timer being clapped` 是**动名词的被动式复合结构**，`first-timer` 是 `being clapped` 的**逻辑主语**。
+> 11. **这双重目标被混淆了：对成绩（而非参与）的强调，让新人望而生畏**——冒号引出**解释**；`stress A over B` ＝"重 A 轻 B"；`dual`、`mixed up`、`intimidating` 三个负面评价词连成一条态度链。
+> 12. **国家插手社区体育协会这样一种本质上"草根"的概念的规划，本身就有点荒谬**——主干只有 `there is something a little absurd in …`（**主干短、修饰长**）；`in` 后的 `the state getting involved in …` 是**动名词复合结构**，`the state` 是 `getting` 的**逻辑主语**（此处 `state` ＝ 国家、政府）；`such … as …` 表**举例**。
+> 13. **提供公共产品——确保有场地可以建运动场，有钱铺设网球和篮网球场地**——破折号后是两个**现在分词短语并列**，对"提供公共产品"作具体化说明；句中的三个 `and` 分属**名词短语并列 / 名词并列 / 分词短语并列**三层；`the money to pave …` 是**后置定语**（"用来铺设……的钱"），而"场地 + 资金"正是第 24 题 [D] 的同义改写来源。
+> 14. **在其任期内放任绿地被出售、地方政府的经费被挤压、教育中对体育的重视不断下降**——三项**动名词并列**（`selling / squeezing / declining`）地位相同，`declining` 是**动名词**（"（重视的）下降"）而非修饰 `attention` 的现在分词；`preside over` 在此**带贬义**，是第 25 题（critical）的核心证据。
+> 15. **未来的政府需要做的，不是空话连篇、看似高尚的战略，而是更多地创造条件，让体育蓬勃发展。或者至少，别把情况弄得更糟。**——`wordy`（啰嗦）与 `worthy`（看似高尚）并置含**讽刺**；末句是**省略句**（省略主语 `future governments`），`them` 指 `the conditions for sport`；`at least` 暗示现状已经很糟，**底线式的要求本身就是批判**。
+
+#### 三、语境理解（结合语境写出下列句中划线词的确切含义，并说明判据）
+
+1. `Events are free, **staffed** by thousands of volunteers.` 中 `staffed` 的词性与含义是什么？为什么不能理解成"员工"？
+2. `primary school pupils … have nearly **halved**.` 中 `halved` 是形容词还是动词？判断依据是什么？
+3. `But **successive** governments have presided over selling green spaces …` 中 `successive` 的含义是什么？如果误读为 `successful`，第 25 题的答案会如何变化？
+
+> [!abstract]- 答案
+> 1. **`staffed` 是动词（`staff` 的过去分词），意为"为……配备人员、使……由……运转"。** 判据有两条：一是句子结构上 `Events are free, staffed by …` 需要一个说明"由谁来维持运转"的谓语成分，读成名词"员工"则全句**没有谓语**；二是 `staffed by + 人`（**by 引施动者**）正是识别"被动意义的过去分词短语"的标志。相关辨析：第 21 题 [B] `created many jobs` 把 `volunteers`（志愿者）偷换成"就业岗位"，属**偷换概念**。
+> 2. **`halved` 是动词（`halve` 的过去分词），意为"下降一半"。** 判据：前面有 `have`（`have nearly halved` 构成**现在完成时**），且 `nearly` 作为副词修饰的是动作完成的程度（"几乎减半"）。若读成形容词"半的"，句法上无处安放。同类：`halve` 比 `decline`（泛指下降）更精确，比 `plunge`（骤降）更克制。
+> 3. **`successive` 意为"接连的、历届的"**（同族 `succession` 连续、继任；`in succession` 接连地），**与"成功的（successful）"无关**。此处指"历届政府接连如此"，正是"**积习**"而非"**功绩**"的表述。若误读为 `successful governments`，读者会把后文的 `selling green spaces, squeezing money from local authorities and declining attention on sport in education` 理解为"成功的政绩"，从而把作者态度误判为**宽容**，**第 25 题就会由 critical（[B]）误选为 tolerant（[A]）**——这是本篇最致命的一处词形混淆。
+
 
 ## 心得
 
