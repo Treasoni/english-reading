@@ -8,8 +8,8 @@ task: "生成 2017 passage 1（Parkrun 与伦敦奥运遗产）精读笔记"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-09-29"
 last_updated: "2026-09-29"
-current_phase: P9
-current_status: in_progress
+current_phase: done
+current_status: complete
 mode: guided
 blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2017阅读/passage_1.md"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2017 passage 1（Parkrun 与伦敦奥运遗产）精读笔记
 > 运行标识：reading-note-2017-passage1-parkrun
 > 创建时间：2026-09-29
-> 当前阶段：阶段 9
+> 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -136,16 +136,16 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 9：全局汇总
 
-- [ ] 已调用 `summarize-grammar`
-- [ ] 源发现已同时覆盖 `intermediate/**/grammar-notes.md` 与 `intermediate/**/固定搭配与词组笔记.md`
-- [ ] 已合并进根目录 `语法总结笔记.md`
-- [ ] 已合并进根目录 `固定搭配与词组笔记.md`
-- [ ] 已更新两个根文件的 frontmatter（updated / total_sources / processed_sources / categories）
-- [ ] 已更新两个根文件的快速索引表
-- [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
-- [ ] 已向用户报告两个根文件的更新内容
+- [x] 已调用 `summarize-grammar`
+- [x] 源发现已同时覆盖 `intermediate/**/grammar-notes.md` 与 `intermediate/**/固定搭配与词组笔记.md`
+- [x] 已合并进根目录 `语法总结笔记.md`
+- [x] 已合并进根目录 `固定搭配与词组笔记.md`
+- [x] 已更新两个根文件的 frontmatter（updated / total_sources / processed_sources / categories）
+- [x] 已更新两个根文件的快速索引表
+- [x] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
+- [x] 已向用户报告两个根文件的更新内容
 
-> [P9] 🔲 进行中 {in_progress}
+> [P9] ✅ 已完成 {complete}
 
 ---
 
@@ -162,4 +162,9 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - **中间目录**：`intermediate/2017-passage1-parkrun/`
 - **最终笔记**：`2017阅读/2017-passage1-parkrun-精读笔记.md`
 - **全局汇总**：`语法总结笔记.md`、`固定搭配与词组笔记.md`
-- **完成状态**：
+- **完成状态**：全部完成（P0–P9，无跳过、无阻塞）
+- **P9 汇总明细**：
+  - `语法总结笔记.md`：`total_sources` 64 → 65，新增 2017 源条目，`## 2017 新增语法要点（2017 Passage 1）` 追加 24 个 `###` 小节（含"联动复习：2017 Passage 1 与既有语法点的交叉"）；5 行快速索引追加 `**2017 P1**：…` 并更新计数（36→37 / 32→33 / 37→38 / 24→25 / 49→50）；关联笔记 tip 追加 2017 表达。
+  - `固定搭配与词组笔记.md`：`total_sources` 64 → 65，新增 2017 源条目与 `2017新增专题` 类别；文件末尾追加 `## 2017 新增固定搭配与词汇`（7 个 `### 2017 Passage 1：…（来源：2017-passage1-parkrun）` 小节）；快速索引新增 `2017 新增专题` 行；使用说明 abstract 追加 2017 内容概述。
+  - 差集核验：`语法总结笔记.md` 源差集 = 空；`固定搭配与词组笔记.md` 源差集 = 空。
+  - 格式核验：两文件均无"标题缺空格"、无"表格缺空行"；源笔记末尾的交叉引用斜体行未带入汇总。
