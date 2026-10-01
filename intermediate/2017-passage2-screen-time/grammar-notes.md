@@ -16,7 +16,7 @@ concepts:
   - "从句：that 引导的定语从句（an ideology that demands … / an ideology that says …）"
   - "从句：who 引导的定语从句（mothers who used devices during the exercise）"
   - "从句：if 引导的条件状语从句（if those faces are blank and unresponsive / if you're failing to expose your child to 30,000 words）"
-  - "从句：as 引导的时间 / 比较状语从句（The child becomes increasingly distressed as she tries to … / as they often are）"
+  - "从句：as 引导的时间 / 方式状语从句（The child becomes increasingly distressed as she tries to … / as they often are）"
   - "从句：when 引导的时间状语从句的省略（when absorbed in a device）"
   - "从句：非限定性定语从句 which 指代整句（which lets them be more available to their child）"
   - "从句：demand that … (should) do 的虚拟语气宾语从句"
@@ -113,22 +113,22 @@ concepts:
 | if + 现在进行时，主句 + 现在进行时 | 条件句内也可用进行时 | … **if you're failing to expose your child to 30,000 words** you are neglecting them. |
 
 > [!warning] 易混淆点
-> 第一处 `if` 从句嵌在 `and if … , it can be …` 中，主句是 `it can be extremely disconcerting for the children`，**`it` 是形式主语**，真正主语是前面的整个情形。
+> 第一处 `if` 从句嵌在 `and if … , it can be …` 中，主句是 `it can be extremely disconcerting for the children`，**`it` 是指代性代词**，指代 if 从句所述"父母脸色呆滞"这一情形（**本句没有后置的真主语，故不是形式主语**）。
 > 第二处 `if` 从句**并不在句首**，而是藏在 `ideology that says …` 之后——**阅读时"条件句不一定在句首"**，要按 `if` 找配对的主句。
 
 ---
 
-### 从句：as 引导的时间 / 比较状语从句（as she tries to … / as they often are）
+### 从句：as 引导的时间 / 方式状语从句（as she tries to … / as they often are）
 
-**概述**：`as` 是多义连词：可引导**时间**状语从句（"当……时"）、**原因**状语从句（"因为"）、或**比较 / 方式**状语从句（"正如……"）。本篇两处 `as` 用法不同，极易混淆。
+**概述**：`as` 是多义连词：可引导**时间**状语从句（"当……时"）、**原因**状语从句（"因为"）、或**方式**状语从句（"正如……"）。本篇两处 `as` 用法不同，极易混淆。
 
 | 结构 | 用法 | 例句 |
 |------|------|------|
 | as + 从句 | 表时间或原因，可译为"当……／因为……" | The child becomes increasingly distressed **as she tries to capture her mother's attention**. |
-| as + 省略句 | 表方式 / 比较，"正如（……那样）" | … if those faces are blank and unresponsive—**as they often are** when absorbed in a device—… |
+| as + 省略句 | 表方式，"正如（……那样）" | … if those faces are blank and unresponsive—**as they often are** when absorbed in a device—… |
 
 > [!tip] 解题技巧
-> **`as` 三个意思的判别法**：① 主句与从句动作**同时发生** → 时间/原因（本句"孩子越努力争取，就越痛苦"，两动作同步）；② 结构为 `as + 主谓（常省略）` 且**回指前面的形容词／短语** → 方式/比较（`as they often are` 回指 `blank and unresponsive`）。
+> **`as` 三个意思的判别法**：① 主句与从句动作**同时发生** → 时间/原因（本句"孩子越努力争取，就越痛苦"，两动作同步）；② 结构为 `as + 主谓（常省略）` 且**回指前面的形容词／短语** → 方式（`as they often are` 回指 `blank and unresponsive`）。
 > 译不通就换意思试：本句 `as` 若译"因为"亦通（因为想争取注意），若译"正如"则语义错位——**上下文决定词义**。
 
 ---
