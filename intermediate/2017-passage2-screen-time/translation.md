@@ -48,7 +48,7 @@ Infants are wired to look at parents' faces to try to understand their world, an
 
 > [!note] 翻译说明
 > `be wired to do sth` 中 `wired` 原义"接线的"，引申为"（天生）被设定为、本能地会"，此处译"天生就会"。这是**生物学／心理学类文章的高频表达**。
-> `if those faces are blank and unresponsive—as they often are when absorbed in a device—it can be …` 是一个**插入语 + 形式主语**的复杂句：`as they often are …` 是插入的**方式／比较状语**，`when absorbed in a device` 是**时间状语从句的省略**（= when they are absorbed …），`it` 为形式主语指代前面的情形。
+> `if those faces are blank and unresponsive—as they often are when absorbed in a device—it can be …` 是一个**插入语 + 指代代词**的复杂句：`as they often are …` 是插入的**方式状语**，`when absorbed in a device` 是**时间状语从句的省略**（= when they are absorbed …），`it` 为**人称代词**，指代 if 从句所述"脸色呆滞"这一情形（**不是**形式主语，本句没有后置真主语）。
 > `put on a blank expression` 中 `put on` 意为"装出、摆出（表情）"，与 `wear an expression` 同义。
 > `The child becomes increasingly distressed as she tries to capture her mother's attention`：`as` 引导**时间／原因状语从句**，`increasingly` 是程度副词修饰 `distressed`。这一句是"静止脸实验"结论的核心，为第 28 题提供依据。
 > `exquisitely present` 中 `present` 作形容词意为"在场的、陪伴的"，`exquisitely` 意为"精致入微地、无微不至地"。

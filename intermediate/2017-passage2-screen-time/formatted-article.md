@@ -30,7 +30,7 @@ With so much **focus** on children's use of **screens**, it's easy for parents t
 >
 > | 类型 | 引导词 / 形式 | 修饰对象 |
 > |------|--------------|----------|
-> | 状语（with 复合结构／独立主格） | With | 整个主句，表原因或伴随 |
+> | 状语（with 复合结构，介词短语作状语） | With | 整个主句，表原因或伴随 |
 > | 形式主语 | it | 真主语（不定式短语） |
 > | 不定式的逻辑主语 | for parents | to forget |
 > | 介词短语作后置定语 | on … | focus |
@@ -49,7 +49,7 @@ With so much **focus** on children's use of **screens**, it's easy for parents t
 >
 > **参考译文**：由于人们对儿童使用屏幕如此关注，父母很容易忽略自己的屏幕使用。
 >
-> **考点提示**：① `it` 是**形式主语**，真主语是后面的不定式短语，翻译时 `it` 不译；② `with + 名词 + 介词短语` 是**独立主格（with 复合结构）**，其逻辑主语与主句主语不同，多表原因或伴随，常译"由于／随着"；③ **不要把 `focus` 当成主句主语**——主句真正的主谓是 `it is easy`，`With so much focus on …` 只是状语。
+> **考点提示**：① `it` 是**形式主语**，真主语是后面的不定式短语，翻译时 `it` 不译；② `with + 名词 + 介词短语` 是**with 复合结构（介词短语作状语）**，其逻辑主语与主句主语不同，多表原因或伴随，常译"由于／随着"；③ **不要把 `focus` 当成主句主语**——主句真正的主谓是 `it is easy`，`With so much focus on …` 只是状语。
 
 "Tech is designed to really **suck you in**," says Jenny Radesky in her study of **digital play**, "and digital products are there to promote **maximal engagement**. It makes it hard to **disengage**, and leads to a lot of **bleed-over** into the family **routine**."
 
@@ -69,7 +69,6 @@ With so much **focus** on children's use of **screens**, it's easy for parents t
 >
 > | 类型 | 引导词 / 形式 | 修饰对象 |
 > |------|--------------|----------|
-> | 主语（指代上文） | It | 前句所述情形 |
 > | 形式宾语 | it | 真宾语 to disengage |
 > | 不定式作真宾语 | to disengage | 形式宾语 it |
 > | 介词短语作后置定语 | into … | bleed-over |
@@ -100,7 +99,7 @@ Radesky has studied the use of mobile phones and tablets at **mealtimes** by giv
 > - 主语 S（从句）: mothers（被 who 定语从句分隔）
 > - 谓语 V（从句）: started
 > - 宾语 O（从句）: 20 percent fewer verbal and 39 percent fewer nonverbal interactions
-> - 状语 A（从句）: with their children
+> - 后置定语（修饰 interactions）: with their children
 >
 > **修饰成分**：
 >
@@ -110,6 +109,7 @@ Radesky has studied the use of mobile phones and tablets at **mealtimes** by giv
 > | 定语从句（限定主语） | who | mothers |
 > | 介词短语作状语 | during … | used |
 > | 比较级 + 数字差幅 | 20 percent fewer / 39 percent fewer | interactions |
+> | 介词短语作后置定语 | with … | interactions |
 >
 > **结构图解**：
 >
@@ -138,7 +138,7 @@ During a separate observation, she saw that phones became a source of **tension*
 > - 谓语 V: are wired to look at parents' faces
 > - 目的状语 A: to try to understand their world
 > - 分句 2 状语从句: if those faces are blank and unresponsive
-> - 分句 2 形式主语 it: it（指代前面整个情形）
+> - 分句 2 主语 S: it（人称代词，指代 if 从句所述"脸色呆滞"这一情形，**非形式主语**）
 > - 谓语 V: can be
 > - 表语 C: extremely disconcerting
 > - 状语 A: for the children
@@ -150,9 +150,9 @@ During a separate observation, she saw that phones became a source of **tension*
 > | 被动语态 + 不定式 | be wired to | Infants |
 > | 不定式作目的状语 | to try to … | look at parents' faces |
 > | 状语从句（条件） | if | 分句 2 |
-> | 插入语（成对破折号，方式／比较） | as | blank and unresponsive |
+> | 插入语（成对破折号，方式状语） | as | blank and unresponsive |
 > | 状语从句省略（时间） | when (they are) | as 从句 |
-> | 形式主语 | it | 前面整个情形 |
+> | 代词（指代前文情形） | it | if 从句所述情形 |
 >
 > **结构图解**：
 >
@@ -162,15 +162,15 @@ During a separate observation, she saw that phones became a source of **tension*
 >   │     └── 不定式（目的状语）: to try to understand their world
 >   └── 分句 2: (and) if those faces are blank and unresponsive, it can be extremely disconcerting for the children
 >         ├── 状从（if 条件）: if those faces are blank and unresponsive
->         │     └── 插入语（as，成对破折号）: as they often are
+>         │     └── 插入语（as，成对破折号，方式状语）: as they often are
 >         │           └── 状从省略（when）: when absorbed in a device（= when they are absorbed …）
->         └── 主句: it (形式主语) + can be + extremely disconcerting
+>         └── 主句: it (指代前文情形) + can be + extremely disconcerting
 >               └── 介短（对象）: for the children
 > ```
 >
 > **参考译文**：婴儿天生就会注视父母的脸，以试图理解自己的世界；而如果这些脸呆滞、毫无反应——当父母沉迷于电子设备时常常如此——这会让孩子极度不安。
 >
-> **考点提示**：① **成对破折号 = 可删除的插入语**，删掉 `—as they often are when absorbed in a device—` 后主干立刻显形；② `when absorbed in a device` 是**时间状语从句的省略**（= when they are absorbed in a device），**"连词 + 分词"要自动还原主语**；③ 第 2 分句中 `it` 是**形式主语**，指代"父母的脸色呆滞"这一情形，**不指代 `those faces`**；④ `be wired to` 中 `wired` 取"天生就会"的引申义（**熟词生义**）；⑤ `for the children` 是 `disconcerting` 的**对象状语**，不是主句状语。
+> **考点提示**：① **成对破折号 = 可删除的插入语**，删掉 `—as they often are when absorbed in a device—` 后主干立刻显形；② `when absorbed in a device` 是**时间状语从句的省略**（= when they are absorbed in a device），**"连词 + 分词"要自动还原主语**；③ 第 2 分句中 `it` 是**指代性代词**（本句没有后置的真主语，故不是形式主语），指代"父母的脸色呆滞"这一情形，**不指代 `those faces`**；④ `be wired to` 中 `wired` 取"天生就会"的引申义（**熟词生义**）；⑤ `for the children` 是 `disconcerting` 的**对象状语**，不是分句 1（Infants are wired …）的状语。
 
 Radesky cites the "**still face experiment**" **devised** by **developmental psychologist** Ed Tronick in the 1970s. In it, a mother is asked to interact with her child in a normal way before putting on a blank **expression** and not giving them any **visual social feedback**: The child becomes increasingly **distressed** as she tries to **capture** her mother's attention.
 
@@ -202,7 +202,7 @@ Radesky cites the "**still face experiment**" **devised** by **developmental psy
 >
 > **参考译文**：孩子越是努力去捕捉母亲的注意，就越是痛苦。
 >
-> **考点提示**：① `as` 多义——此处表**时间／原因**（"当……／因为……"），须与表"正如"的**比较用法**区分（本段前句 `as they often are` 即比较用法）；② `become + adj` 表**状态转变**，`increasingly` 是程度副词修饰形容词，构成"越来越……"；③ 本句是"静止脸实验"的**结论句**，为第 28 题提供直接依据；④ `capture` 取"（努力地）争取到、吸引到"的**熟词生义**，非"捕获"。
+> **考点提示**：① `as` 多义——此处表**时间／原因**（"当……／因为……"），须与表"正如"的**方式状语**区分（本段前句 `as they often are` 即方式状语）；② `become + adj` 表**状态转变**，`increasingly` 是程度副词修饰形容词，构成"越来越……"；③ 本句是"静止脸实验"的**结论句**，为第 28 题提供直接依据；④ `capture` 取"（努力地）争取到、吸引到"的**熟词生义**，非"捕获"。
 
 "Parents don't have to be **exquisitely present** at all times, but there needs to be a **balance** and parents need to be **responsive** and **sensitive** to a child's verbal or nonverbal expressions of an emotional need," says Radesky.
 
@@ -226,7 +226,6 @@ On the other hand, Tronick himself is concerned that the worries about kids' use
 > |------|--------------|----------|
 > | 名词性从句（宾语从句） | that | is concerned |
 > | 介词短语作后置定语 | about … | the worries |
-> | 被动式惯用表达 | be born out of | the worries |
 > | 定语从句 | that | ideology（that 作 demands 的主语） |
 > | 名词性从句（虚拟语气宾语从句） | that | demands |
 > | 反身代词（强调） | himself | Tronick |
@@ -244,7 +243,7 @@ On the other hand, Tronick himself is concerned that the worries about kids' use
 >
 > **参考译文**：另一方面，Tronick 本人担心，对儿童使用屏幕的忧虑源自一种"要求父母应当始终与孩子互动的压迫性观念"：
 >
-> **考点提示**：① **三重 `that` 逐层剥离**——第 1 层 `is concerned that …`（宾语从句）→ 第 2 层 `ideology that demands …`（**定语从句**，`that` 作 `demands` 的主语，故不是宾从）→ 第 3 层 `demands that parents should …`（**虚拟语气**宾语从句）；② `demand / require / insist / suggest` 等**"要求、建议"类动词**后的 that 从句用 **should + do**（should 常可省略）；③ 第 29 题问的是**最内层**"要求父母做什么"，答案即 `ensure constant interaction`。
+> **考点提示**：① **三重 `that` 逐层剥离**——第 1 层 `is concerned that …`（宾语从句）→ 第 2 层 `ideology that demands …`（**定语从句**，`that` 作 `demands` 的主语，故不是宾从）→ 第 3 层 `demands that parents should …`（**虚拟语气**宾语从句）；② `demand / require / insist / suggest` 等**"要求、建议"类动词**后的 that 从句用 **should + do**（should 常可省略）；③ 第 29 题问的是**最内层**"要求父母做什么"，答案即 `ensure constant interaction`；④ `be born out of`（源于）是被动式惯用表达，与下句 `be based on`（基于）同属一类。
 
 "It's based on a somewhat **fantasized**, very white, very **upper-middle-class** ideology that says if you're failing to **expose** your child to 30,000 words you are **neglecting** them."
 
@@ -261,7 +260,6 @@ On the other hand, Tronick himself is concerned that the worries about kids' use
 >
 > | 类型 | 引导词 / 形式 | 修饰对象 |
 > |------|--------------|----------|
-> | 固定搭配（被动式） | be based on | It |
 > | 三个并列形容词（前置定语） | somewhat fantasized / very white / very upper-middle-class | ideology |
 > | 定语从句 | that | ideology |
 > | 状语从句（条件） | if | 定语从句内部 |
@@ -303,7 +301,7 @@ Tronick believes that just because a child isn't learning from the screen doesn'
 > | 主语从句（just because 从句整体作主语） | just because | doesn't mean |
 > | 宾语从句（省略 that） | (that) | doesn't mean |
 > | there be 结构 | there's | — |
-> | 单用破折号（补充强调） | — | 整个主句 |
+> | 单用破折号（补充强调） | — | 宾语从句所述内容 |
 > | 状语从句（条件） | particularly if | 破折号后补充 |
 > | 不定式并列（后置定语） | to have … , do … or simply have … | time |
 >
@@ -340,7 +338,6 @@ Parents, he says, can get a lot out of using their devices to speak to a friend 
 >
 > | 类型 | 引导词 / 形式 | 修饰对象 |
 > |------|--------------|----------|
-> | 使役结构 | make sb do | This |
 > | 非限定性定语从句（指代整句） | , which | 前面整个主句 |
 > | 使役结构（从句内） | let sb do | which |
 > | 介词短语（对象） | to their child | available |
