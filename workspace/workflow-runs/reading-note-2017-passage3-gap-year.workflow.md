@@ -4,11 +4,11 @@ workflow_name: Reading Note Generation
 workflow_version: 1
 state_file_type: workflow-run
 run_id: "2017-passage3-gap-year"
-task: "生成 2017 英语一 Passage 3（间隔年 / gap year）精读笔记"
+task: "生成 2017 Passage 3（间隔年 / gap year）精读笔记"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-10-02"
 last_updated: "2026-10-02"
-current_phase: P2
+current_phase: P3
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -24,10 +24,10 @@ long_sentence_mode: "AI 候选 + 用户确认"
 # Reading Note Generation - Workflow Run
 
 > 工作流：reading-note-generation
-> 任务：生成 2017 英语一 Passage 3（间隔年 / gap year）精读笔记
+> 任务：生成 2017 Passage 3（间隔年 / gap year）精读笔记
 > 运行标识：2017-passage3-gap-year
 > 创建时间：2026-10-02
-> 当前阶段：阶段 2
+> 当前阶段：阶段 3
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -62,7 +62,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `translation.md`
 - [ ] 已保持原文段落结构
 
-> [P2] 🔲 进行中 {in_progress}
+> [P2] ✅ 已完成 {complete}
 
 ---
 
@@ -73,7 +73,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已核验语法笔记信息密度未丢失
 - [ ] 已加入必要的跨节联动复习
 
-> [P3] ⬜ 未开始 {not_started}
+> [P3] 🔲 进行中 {in_progress}
 
 ---
 
