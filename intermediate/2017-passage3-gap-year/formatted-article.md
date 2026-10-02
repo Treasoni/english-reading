@@ -33,7 +33,7 @@ Today, widespread social **pressure** to immediately go to college in **conjunct
 > |------|--------------|----------|
 > | 不定式作后置定语 | to immediately go to college | pressure |
 > | 并列连接（介词短语） | in conjunction with | 连接 pressure 与 expectations |
-> | 状语（表并列范围的定语） | increasingly high | expectations |
+> | 形容词短语作前置定语 | increasingly high | expectations |
 > | 介词短语作后置定语 | in a fast-moving world | expectations |
 > | 不定式作宾语补足语 | to completely overlook … | students（causes 的宾补） |
 > | 动名词短语作介词宾语 | of taking a gap year | the possibility |
@@ -75,7 +75,7 @@ After all, if everyone you know is going to college in the fall, it seems silly 
 > | 动名词作介词宾语 | after going to school | （时间状语） |
 > | 形式主语 | it | 真主语（不定式短语） |
 > | 不定式作真主语 | to spend a year doing … | 形式主语 it |
-> | 现在分词（伴随/方式） | doing something that … | a year（spend … doing …） |
+> | 动名词（spend time doing 固定结构） | doing something that … | spend（a year 为时间状语） |
 > | 定语从句 | that | something（that 作主语） |
 >
 > **结构图解**：
@@ -85,7 +85,7 @@ After all, if everyone you know is going to college in the fall, it seems silly 
 >   ├── 状语（时间）: after going to school for 12 years
 >   │     └── 动名词（介词宾语）: going to school
 >   └── 真主语（不定式）: to spend a year doing something that isn't academic
->         ├── 现在分词（伴随/方式）: doing something → spend a year doing …
+>         ├── 动名词（spend time doing 固定结构）: doing something → 承接 spend
 >         └── 定从（that）: that isn't academic → 修饰 something
 > ```
 >
@@ -104,7 +104,7 @@ But while this may be true, it's not a good enough reason to **condemn** gap yea
 > - 谓语 V: 's（There is 的缩合，系动词）
 > - 真正主语 S: a constant fear
 > - 后置定语（修饰 fear）: of falling behind everyone else on the socially perpetuated "race to the finish line"
-> - 让步状语: whether that be toward graduate school, medical school or a lucrative career
+> - 状语 A（让步，be 式虚拟）: whether that be toward graduate school, medical school or a lucrative career
 >
 > **修饰成分**：
 >
@@ -141,7 +141,7 @@ But despite common **misconceptions**, a gap year does not **hinder** the succes
 > **主干提取**：
 >
 > - 主语 S: a gap year
-> - 谓语 V: does not hinder（助动词 does + not + 动词原形，强调否定）
+> - 谓语 V: does not hinder（助动词 does + not + 动词原形，构成否定）
 > - 宾语 O: the success of academic pursuits
 > - 状语 A（让步）: despite common misconceptions
 > - 补充强调（破折号后）: in fact, it probably enhances it
@@ -151,7 +151,7 @@ But despite common **misconceptions**, a gap year does not **hinder** the succes
 > | 类型 | 引导词 / 形式 | 修饰对象 |
 > |------|--------------|----------|
 > | 介词短语作让步状语 | despite | 全句 |
-> | 助动词强调否定 | does not + 动词原形 | hinder |
+> | 助动词构成否定 | does not + 动词原形 | hinder |
 > | 介词短语作后置定语 | of academic pursuits | the success |
 > | 破折号后补充句（强调） | —in fact, it probably enhances it | 全句（作者立场） |
 >
@@ -160,7 +160,7 @@ But despite common **misconceptions**, a gap year does not **hinder** the succes
 > ```
 > 主句（让步 + 转折）: [despite common misconceptions], a gap year + does not hinder + the success of academic pursuits
 >   ├── 状语（让步）: despite common misconceptions
->   ├── 谓语（否定强调）: does not hinder
+>   ├── 谓语（助动词构成否定）: does not hinder
 >   │     └── 宾语: the success of academic pursuits
 >   │           └── 介短（后置定语）: of academic pursuits
 >   └── 破折号后补充（作者立场）: in fact, it probably enhances it
@@ -169,7 +169,7 @@ But despite common **misconceptions**, a gap year does not **hinder** the succes
 >
 > **参考译文**：尽管存在普遍的误解，间隔年并不会妨碍学业上的成功——事实上，它很可能还对此有所助益。
 >
-> **考点提示**：① `does not hinder` 中 `does` 是**助动词**，与 `not` 合用表**强调否定**（"确实并不妨碍"），其后动词用**原形**；② `despite + 名词短语`（`despite common misconceptions`）是**让步状语**，后**不接从句**（区别于 `although`）；③ 破折号后的 `—in fact, it probably enhances it` 是**作者的核心立场**，也是标题题（第 35 题）的依据；④ `it` 回指 `a gap year`（代词回指，非形式主语）。
+> **考点提示**：① `does not hinder` 中 `does` 是**助动词**，与 `not` 合用**构成否定**（真正表强调应为 `does hinder`），其后动词用**原形**；② `despite + 名词短语`（`despite common misconceptions`）是**让步状语**，后**不接从句**（区别于 `although`）；③ 破折号后的 `—in fact, it probably enhances it` 是**作者的核心立场**，也是标题题（第 35 题）的依据；④ `it` 回指 `a gap year`（代词回指，非形式主语）。
 
 Studies from the United States and Australia show that students who take a gap year are generally better prepared for and perform better in college than those who do not.
 
@@ -211,7 +211,7 @@ Studies from the United States and Australia show that students who take a gap y
 >
 > **参考译文**：来自美国和澳大利亚的多项研究表明，选择间隔年的学生，通常比未选择的学生准备得更充分、在大学的学业表现也更好。
 >
-> **考点提示**：① 主句谓语 `show` 后整个 `that` 从句作宾语，从句主语 `students` 被 `who` 定语从句**分隔**——先拎出 `students … are/perform` 的主谓；② `are better prepared for and perform better …` 是**两个谓语并列**（`are` 与 `perform`），共享比较结构；③ `than those who do not` 中**省略了 `take a gap year`**，翻译须补全；④ 本句是**第 32 题的命题句**，选项 A/B/C 分别把后文（第 4 段）的经济/职业话题搬来，属张冠李戴。
+> **考点提示**：① 主句谓语 `show` 后整个 `that` 从句作宾语，从句主语 `students` 被 `who` 定语从句**分隔**——先拎出 `students … are/perform` 的主谓；② `are better prepared for and perform better …` 是**两个谓语并列**（`are` 与 `perform`），共享比较结构；③ `than those who do not` 中**省略了 `take a gap year`**，翻译须补全；④ 本句是**第 32 题的命题句**；干扰项 [A] "being unrealistic"、[B] "choosing careers"、[C] "financial burdens" 均**脱离本句"准备更充分、表现更好"的信息**，其中 [B]/[C] 更是把后文（第 4 段）的职业/经济话题搬来，属张冠李戴。
 
 Rather than pulling students back, a gap year pushes them ahead by preparing them for **independence**, new **responsibilities** and environmental changes—all things that first-year students often **struggle with** the most.
 
@@ -302,20 +302,21 @@ If you're not **convinced** of the **inherent value** in taking a year off to ex
 >
 > **主干提取**：
 >
-> - 主语 S（分句 1，形式主语）: It
+> - 主语 S（分句 1，代词回指）: It（指代前文"换专业"）
 > - 谓语 V（分句 1）: is
 > - 表语 C（分句 1）: not necessarily a bad thing
 > - 状语 A（分句 2）: depending on the school
 > - 主语 S（分句 2，形式主语）: it
 > - 谓语 V（分句 2）: can be
 > - 表语 C（分句 2）: costly
-> - 真主语（分句 2）: to make up credits after switching too late in the game
+> - 真主语（分句 2，形式主语 it 之真主语）: to make up credits after switching too late in the game
 >
 > **修饰成分**：
 >
 > | 类型 | 引导词 / 形式 | 修饰对象 |
 > |------|--------------|----------|
-> | 形式主语 | It / it | 分句 2 的真主语（不定式） |
+> | 代词回指 | It（分句 1） | 前文"换专业（switching majors）" |
+> | 形式主语 | it（分句 2） | 真主语（不定式） |
 > | 现在分词作条件状语 | depending on | 分句 2 |
 > | 不定式作真主语 | to make up credits | 形式主语 it |
 > | 动名词作介词宾语 | after switching | 时间状语 |
@@ -326,7 +327,7 @@ If you're not **convinced** of the **inherent value** in taking a year off to ex
 >
 > ```
 > 并列句:
->   ├── 分句 1: It (形式主语) + is + not necessarily a bad thing
+>   ├── 分句 1: It (代词回指) + is + not necessarily a bad thing
 >   └── 分句 2: but [depending on the school], it (形式主语) + can be + costly + [真主语]
 >         ├── 状语（条件，现在分词）: depending on the school
 >         └── 真主语（不定式）: to make up credits after switching too late in the game
@@ -335,7 +336,7 @@ If you're not **convinced** of the **inherent value** in taking a year off to ex
 >
 > **参考译文**：这未必是坏事，但视学校而定，若是转专业转得太晚，补修学分可能会代价高昂。
 >
-> **考点提示**：① 分句 1、2 的 `It / it` **都是形式主语**，真主语分别是"这（学生换专业）"与后面的 `to make up credits …`；② `depending on` 是**现在分词短语作条件状语**（"视……而定"），属已"介词化"的分词；③ `after switching` 是**介词 `after` + 动名词**；④ `too late in the game` 是**固定短语**（"为时已晚"），`game` 取"局面、这盘棋"的**熟词生义**，不可直译为"游戏里"。
+> **考点提示**：① 分句 1 的 `It` 是**代词回指**（指代上文"转专业"），**不是**形式主语；分句 2 的 `it` 才是**形式主语**（真主语为 `to make up credits …`）——**"后面有无真主语"是区分二者的唯一标准**；② `depending on` 是**现在分词短语作条件状语**（"视……而定"），属已"介词化"的分词；③ `after switching` 是**介词 `after` + 动名词**；④ `too late in the game` 是**固定短语**（"为时已晚"），`game` 取"局面、这盘棋"的**熟词生义**，不可直译为"游戏里"。
 
 At Boston College, for example, you would have to complete an extra year were you to switch to the nursing school from another department.
 
