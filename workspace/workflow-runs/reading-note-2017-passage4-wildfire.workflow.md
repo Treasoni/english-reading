@@ -8,7 +8,7 @@ task: "生成 2017 Passage 4（野火管理 / wildfire）精读笔记"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-10-04"
 last_updated: "2026-10-04"
-current_phase: P6
+current_phase: P9
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2017 Passage 4（野火管理 / wildfire）精读笔记
 > 运行标识：2017-passage4-wildfire
 > 创建时间：2026-10-04
-> 当前阶段：阶段 6
+> 当前阶段：阶段 9
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -107,7 +107,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已保留文章原文中的内联长难句分析
 - [ ] 已插入词汇占位符
 
-> [P6] 🔲 进行中 {in_progress}
+> [P6] ✅ 已完成 {complete}
 
 ---
 
@@ -118,7 +118,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `### 生词练习`
 - [ ] 已补充短语内重要独立词条
 
-> [P7] ⬜ 未开始 {not_started}
+> [P7] ✅ 已完成 {complete}
 
 ---
 
@@ -130,7 +130,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已检查 Markdown 标题、YAML 和表格格式
 - [ ] 已向用户报告输出路径
 
-> [P8] ⬜ 未开始 {not_started}
+> [P8] ✅ 已完成 {complete}
 
 ---
 
@@ -145,7 +145,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
 - [ ] 已向用户报告两个根文件的更新内容
 
-> [P9] ⬜ 未开始 {not_started}
+> [P9] 🔲 进行中 {in_progress}
 
 ---
 
