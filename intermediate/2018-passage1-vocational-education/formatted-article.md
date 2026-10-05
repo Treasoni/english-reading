@@ -135,7 +135,7 @@ When did it become **accepted wisdom** that students should be able to name the 
 >
 > **考点提示**：① **疑问句中的形式主语 `it`**：`When did it become … that …` 还原为陈述句即 `It became accepted wisdom that …`。② **`but` 后并列谓语共用情态动词**：`should be able to name … but (should) be overwhelmed …`，`but` 后省略了 `should`。③ `accepted wisdom` 带**反讽**——作者质疑这种"共识"凭什么成立。④ **第 21 题题眼**：`broken bike chain`（断掉的自行车链条）↔ [B] `practical ability`（动手能力），"能背总统却修不好车链"正是"**动手能力缺失**"的具象化。
 
-As Koziatek knows, there is learning in just about everything. Nothing is necessarily gained by forcing students to learn geometry at a **graffitied** desk stuck with generations of discarded chewing gum.
+As Koziatek knows, there is learning in just about everything. Nothing is necessarily gained by forcing students to learn geometry at a **graffitied** desk **stuck** with generations of discarded chewing gum.
 
 > [!abstract]- 长难句分析
 > **原句**：Nothing is necessarily gained by forcing students to learn geometry at a **graffitied** desk stuck with generations of discarded chewing gum.
