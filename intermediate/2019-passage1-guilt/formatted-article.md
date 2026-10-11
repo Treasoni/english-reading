@@ -333,7 +333,7 @@ The **guilt-prone** ones shared more, even though they hadn't magically become m
 ### 22. According to Paragraph 2, many people still consider guilt to be ____.
 
 - [A] inexcusable
-- [B] deceptive
+- [B] **deceptive**
 - [C] addictive
 - [D] burdensome
 
