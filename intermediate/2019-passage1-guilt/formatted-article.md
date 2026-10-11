@@ -175,7 +175,7 @@ And guilt, by **prompting** us to think more deeply about our goodness, can enco
 
 In a number of studies, Malti and others have shown that guilt and sympathy may represent different **pathways** to cooperation and sharing.
 
-Some kids who are low in sympathy may make up for that **shortfall** by experiencing more guilt, which can **rein in** their nastier **impulses**.
+Some kids who are low in sympathy may make up for that **shortfall** by experiencing more guilt, which can **rein in** their **nastier** **impulses**.
 
 > [!abstract]- 长难句分析
 > **原句**：Some kids who are low in sympathy may make up for that **shortfall** by experiencing more guilt, which can **rein in** their nastier **impulses**.
