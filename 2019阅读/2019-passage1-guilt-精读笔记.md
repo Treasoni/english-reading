@@ -927,7 +927,147 @@ Malti 说："这是好消息。我们可以因为自己造成了伤害、并且�
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+> [!note] 收录说明
+> 以下词汇取自本文**文章原文**中用 `**粗体**` 标记的考研重点词，按字母顺序分组排列；短语中的关键单词（如 `rap`、`rein`）也单独列出。
+> 词义以**考研常考义项**优先，例句一律取自本篇原文，便于回原文核对。
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **advantageous** | adj. | 有利的、有益的 | "… feelings that may be **advantageous** in one context may be harmful in another." |
+| **anonymous** | adj. | 匿名的 | "… and given a chance to share them with an **anonymous** child." |
+| **appease** | v. | 安抚、平息 | "… they learn over time that such statements **appease** parents and friends…" |
+| **assessments** | n. | 评估（assessment 的复数） | "Using caregiver **assessments** and the children's self-observations…" |
+| **binary** | adj. | 二元的、非此即彼的 | "… a larger recognition that emotions aren't **binary**…" |
+| **compensate for** | phr. | 弥补、补偿 | "… suggests that guilt may **compensate for** an emotional deficiency." |
+| **cooperative** | adj. | 合作的 | "Guilt, in other words, can help hold a **cooperative** species together." |
+| **consciences** | n. | 良心、良知（conscience 的复数） | "… such statements appease parents and friends—and their own **consciences**." |
+
+### D-F
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **deficiency** | n. | 缺失、不足 | "… suggests that guilt may compensate for an emotional **deficiency**." |
+| **deprivation** | n. | 匮乏、剥夺 | "… they hadn't magically become more sympathetic to the other child's **deprivation**." |
+| **destructive** | adj. | 破坏性的 | "Too much happiness can be **destructive**." |
+| **emerges** | v. | 出现、显现（emerge 的第三人称单数） | "… guilt **emerges** a little later, in conjunction with a child's growing grasp of social and moral norms." |
+| **equivalent** | n./adj. | 等价物；相当于 | "It's the emotional **equivalent** of wearing a jacket weighted with stones." |
+
+### G-L
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **gets a bad rap** | phr. | 名声不佳、遭到恶评 | "In the popular imagination, of course, guilt still **gets a bad rap**." |
+| **grasp** | n./v. | 理解、领会 | "… in conjunction with a child's growing **grasp** of social and moral norms." |
+| **guilt** | n. | 内疚感、负罪感 | "Unlike so-called basic emotions such as sadness, fear, and anger, **guilt** emerges a little later…" |
+| **guilt-prone** | adj. | 易于内疚的 | "The **guilt-prone** ones shared more…" |
+| **impulses** | n. | 冲动（impulse 的复数） | "… which can rein in their nastier **impulses**." |
+| **in conjunction with** | phr. | 与……同时、伴随着 | "… guilt emerges a little later, **in conjunction with** a child's growing grasp of social and moral norms." |
+| **inclined** | adj. | 倾向于……的 | "… how **inclined** they were to feel guilty." |
+| **inequalities** | n. | 不平等（inequality 的复数） | "Jealousy and anger, for example, may have evolved to alert us to important **inequalities**." |
+
+### M-R
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **make up for** | phr. | 弥补、补偿 | "… can encourage humans to **make up for** errors and fix relationships." |
+| **norms** | n. | 规范、准则（norm 的复数） | "… a child's growing grasp of social and moral **norms**." |
+| **outdated** | adj. | 过时的 | "Yet this understanding is **outdated**." |
+| **pathways** | n. | 路径、途径（pathway 的复数） | "… guilt and sympathy may represent different **pathways** to cooperation and sharing." |
+| **prompting** | v. | 促使、提示（prompt 的现在分词） | "And guilt, by **prompting** us to think more deeply about our goodness…" |
+| **prosocial** | adj. | 亲社会的、利他的 | "We can be **prosocial** because we caused harm and we feel regret." |
+| **rap** | n. | 指责、恶评（见 `get a bad rap`） | "… guilt still gets a bad **rap**." |
+| **rated** | v. | 评定、打分（rate 的过去式/过去分词） | "… she **rated** each child's overall sympathy level…" |
+| **regard** | v. | 认为、看待（`regard A (to be) B`） | "This is why researchers generally **regard** so-called moral guilt, in the right amount, to be a good thing." |
+| **regret** | n./v. | 懊悔、遗憾 | "… and we feel **regret**." |
+| **rein** | v./n. | 勒住（马）；约束（见 `rein in`） | "… which can **rein** in their nastier impulses." |
+| **rein in** | phr. | 约束、勒住 | "… which can **rein in** their nastier impulses." |
+| **rethinking** | n. | 重新思考 | "There has been a kind of revival or a **rethinking** about what guilt is…" |
+| **revival** | n. | 复兴、重新兴起 | "There has been a kind of **revival** or a rethinking about what guilt is…" |
+
+### S-Z
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **self-observations** | n. | 自我观察 | "Using caregiver assessments and the children's **self-observations**…" |
+| **shortfall** | n. | 不足、缺口 | "Some kids who are low in sympathy may make up for that **shortfall** by experiencing more guilt…" |
+| **social glue** | phr. | 社会黏合剂 | "It is a kind of **social glue**." |
+| **substitute for** | phr. | 替代 | "And vice versa: High sympathy can **substitute for** low guilt." |
+| **transgressions** | n. | 越界行为、过错（transgression 的复数） | "… his or her tendency to feel negative emotions after moral **transgressions**." |
+| **vice versa** | phr. | 反之亦然 | "And **vice versa**: High sympathy can substitute for low guilt." |
+| **Viewed in this light** | phr. | 从这个角度看 | "**Viewed in this light**, guilt is an opportunity." |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> appease / equivalent / outdated / shortfall / inclined / deprivation / prosocial / destructive / anonymous / cooperative
+
+1. A sincere apology can often ________ an angry customer and calm the situation down.
+2. Ten kilometres is roughly ________ to six miles.
+3. The company's approach to customer service is now badly ________ and needs a full upgrade.
+4. When donations fell short last year, the charity faced a serious ________ in its budget.
+5. She is always ________ to help a friend who is in trouble.
+6. Long-term sleep ________ can seriously damage a person's health.
+7. Donating blood is a simple ________ act that can save lives.
+8. Spreading rumours can be deeply ________ to a person's reputation.
+9. The donor wished to remain ________, so no name was ever published.
+10. Only a ________ effort by the whole team made the project possible.
+
+> [!abstract]- 答案
+> 1. **appease**（安抚、平息）
+> 2. **equivalent**（相当于：`be equivalent to`）
+> 3. **outdated**（过时的）
+> 4. **shortfall**（不足、缺口）
+> 5. **inclined**（倾向于：`be inclined to do`）
+> 6. **deprivation**（匮乏、剥夺）
+> 7. **prosocial**（亲社会的）
+> 8. **destructive**（破坏性的：`be destructive to`）
+> 9. **anonymous**（匿名的）
+> 10. **cooperative**（合作的）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. get a bad rap
+2. make up for
+3. vice versa
+
+> [!abstract]- 答案
+> 1. **get a bad rap** = 名声不佳、遭到恶评（`guilt still gets a bad rap` 内疚感至今仍名声不佳）
+> 2. **make up for** = 弥补、补偿（`make up for errors and fix relationships` 弥补过错、修复关系）
+> 3. **vice versa** = 反之亦然（`High sympathy can substitute for low guilt, and vice versa` 高的同情心可以替代低的内疚感，反之亦然）
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "In the popular imagination, of course, guilt still **gets a bad rap**." 中 **gets a bad rap** 的含义是：
+   - A. 被严厉惩罚
+   - B. 名声不佳、遭到恶评
+   - C. 迅速传播开来
+   - D. 广受好评
+2. "… how much they shared appeared to **turn on** how inclined they were to feel guilty." 中 **turn on** 的含义是：
+   - A. 打开（电器）
+   - B. 转身面向
+   - C. 取决于
+   - D. 变得敌对
+3. "… which can **rein in** their nastier impulses." 中 **rein in** 的含义是：
+   - A. 加强、增强
+   - B. 约束、克制
+   - C. 释放、发泄
+   - D. 忽视、不理会
+
+> [!abstract]- 答案
+> 1. **B** — `get a bad rap` 是习语，意为"（被）名声不好、遭到恶评"，与 `get a good rap`（受好评）相对；文中指内疚感长期以来口碑不佳，A、C、D 均属字面或反向臆测。
+> 2. **C** — `turn on` 在此为熟词生义，等于 `depend on`（取决于），句意为"他们分享多少取决于他们有多容易感到内疚"；A 是"打开"这一最熟悉的陷阱义。
+> 3. **B** — `rein in` 本义为"勒住（缰绳）"，引申为"约束、克制"；`rein in their nastier impulses` 即"约束他们更恶劣的冲动"。A、C 与语义相反，D 曲解。
 
 ---
 

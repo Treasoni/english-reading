@@ -8,7 +8,7 @@ task: "生成 2019 passage 1（guilt / 内疚感）精读笔记"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-10-11"
 last_updated: "2026-10-11"
-current_phase: P7
+current_phase: P8
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2019 passage 1（guilt / 内疚感）精读笔记
 > 运行标识：reading-note-2019-passage1-guilt
 > 创建时间：2026-10-11
-> 当前阶段：阶段 7
+> 当前阶段：阶段 8
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -118,7 +118,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `### 生词练习`
 - [ ] 已补充短语内重要独立词条
 
-> [P7] 🔲 进行中 {in_progress}
+> [P7] ✅ 已完成 {complete}
 
 ---
 
@@ -130,7 +130,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已检查 Markdown 标题、YAML 和表格格式
 - [ ] 已向用户报告输出路径
 
-> [P8] ⬜ 未开始 {not_started}
+> [P8] 🔲 进行中 {in_progress}
 
 ---
 
