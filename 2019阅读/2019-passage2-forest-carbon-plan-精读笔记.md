@@ -1026,7 +1026,144 @@ State governments are well accustomed to managing forests, but traditionally the
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+> [!note] 收录说明
+> 以下词汇取自本文**文章原文**中用 `**粗体**` 标记的考研重点词，按字母顺序分组排列；短语中的关键单词（如 `sink`、`brush`、`fend`）也单独列出。
+> 词义以**考研常考义项**优先，例句一律取自本篇原文，便于回原文核对。
+
+### A-C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **absorb** | v. | 吸收；吸纳 | "… forests that emit more carbon than they **absorb**." |
+| **accustomed to** | phr. | 习惯于（`be accustomed to doing`） | "State governments are well **accustomed to** managing forests…" |
+| **acreage** | n. | （以英亩计的）面积 | "That's only a small share of the total **acreage** that could benefit…" |
+| **acres** | n. | 英亩（acre 的复数） | "… wildfires have burned hundreds of thousands of **acres**." |
+| **biofuel** | n. | 生物燃料 | "… or burned as **biofuel** in vehicles…" |
+| **brush** | n. | 灌木丛、矮树丛（见 `clear brush`） | "… double efforts to thin out young trees and clear **brush**…" |
+| **burnable** | adj. | 可燃的、易燃的 | "The landscape is rendered less easily **burnable**." |
+| **capacity** | n. | 能力；容量 | "… may require reducing their **capacity** to absorb carbon now." |
+| **carbon dioxide** | n. | 二氧化碳 | "… to soak up a good share of the **carbon dioxide** we produce…" |
+| **carbon sinks** | n. | 碳汇（吸收并储存碳的库） | "Helping forests flourish as valuable \"**carbon sinks**\"…" |
+| **clear brush** | phr. | 清理灌木 | "… to thin out young trees and **clear brush** in parts of the forest." |
+| **climate change** | n. | 气候变化 | "Forests give us shade, quiet and one of the harder challenges… against **climate change**." |
+| **consumed** | v. | 被消耗、被烧毁（consume 的过去分词） | "Even in the event of a fire, fewer trees are **consumed**." |
+| **count on** | phr. | 指望、依靠 | "Even as we humans **count on** forests to soak up…" |
+
+### D-F
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **draw** | v. | 汲取、获取 | "But the remaining trees **draw** a greater share of the available moisture…" |
+| **drought** | n. | 干旱 | "Already, since 2010, **drought** and insects have killed over 100 million trees…" |
+| **emissions-permit auctions** | n. | 碳排放许可（配额）拍卖 | "… financed from the proceeds of the state's **emissions-permit auctions**." |
+| **emit** | v. | 排放、散发 | "… forests that **emit** more carbon than they absorb." |
+| **fend** | v. | 抵御、挡开（见 `fend off`） | "Healthy trees are also better able to **fend** off insects." |
+| **fend off** | phr. | 抵御、挡开 | "Healthy trees are also better able to **fend off** insects." |
+| **financed** | v. | 为……提供资金（finance 的过去分词） | "… 60,000 by 2030—**financed** from the proceeds of the state's emissions-permit auctions." |
+| **finalized** | v. | 使定稿、最终确定（finalize 的过去分词） | "… which is expected to be **finalized** by the governor next year…" |
+| **flourish** | v. | 茂盛生长；繁荣 | "Helping forests **flourish** as valuable \"carbon sinks\" long into the future…" |
+| **fossil fuels** | n. | 化石燃料 | "… vehicles that would otherwise run on **fossil fuels**." |
+
+### G-L
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **lumber** | n. | 木材、木料 | "… is locked away in the form of solid **lumber**…" |
+
+### M-R
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **model** | n. | 典范、范例；模型 | "… should serve as a **model**." |
+| **moisture** | n. | 水分、潮气 | "… the remaining trees draw a greater share of the available **moisture**…" |
+| **prioritize** | v. | 优先处理、按优先顺序安排 | "… it will be vital to **prioritize** areas at greatest risk of fire or drought." |
+| **proceeds** | n. | 收益、收入（特指拍卖、销售的进款） | "… financed from the **proceeds** of the state's emissions-permit auctions." |
+| **recreation** | n. | 休闲娱乐 | "… focused on wildlife, watersheds and opportunities for **recreation**." |
+| **rendered** | v. | 使变得、使成为（render 的过去分词） | "The landscape is **rendered** less easily burnable." |
+
+### S-Z
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **shade** | n. | 阴凉、树荫 | "Forests give us **shade**, quiet and one of the harder challenges…" |
+| **sink** | n. | 汇、吸收库（见 `carbon sink`） | "… as valuable \"carbon **sinks**\" long into the future…" |
+| **soak up** | phr. | 吸收、吸纳 | "… forests to **soak up** a good share of the carbon dioxide we produce…" |
+| **subtle** | adj. | 微妙的、不易察觉的 | "… but it involves striking a **subtle** balance." |
+| **thin out** | phr. | 疏伐、间苗、使稀疏 | "… aims to double efforts to **thin out** young trees and clear brush…" |
+| **thrive** | v. | 茁壮成长、兴旺 | "… so they grow and **thrive**, restoring the forest's capacity to pull carbon from the air." |
+| **trap** | n. | 困境、圈套 | "Thankfully, there is a way out of this **trap**…" |
+| **under way** | phr. | 在进行中 | "New research on transportation biofuels is already **under way**." |
+| **watersheds** | n. | 流域（watershed 的复数） | "… focused on wildlife, **watersheds** and opportunities for recreation." |
+| **wildfires** | n. | 野火、山火（wildfire 的复数） | "… and **wildfires** have burned hundreds of thousands of acres." |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（每词限用一次）：
+
+> absorb / flourish / thrive / subtle / prioritize / emit / drought / capacity / moisture / burnable
+
+1. Trees ________ carbon dioxide from the air and give off oxygen in return.
+2. With enough water and sunlight, the young plants will ________.
+3. The difference between the two plans is ________ but far from unimportant.
+4. Factories that ________ too much carbon are being told to clean up their act.
+5. A long ________ has left the region's reservoirs dangerously low.
+6. The soil holds enough ________ for the crops to survive the dry season.
+7. We must ________ the most urgent tasks and deal with them first.
+8. Dry grass is far more ________ than green wood.
+
+> [!abstract]- 答案
+> 1. **absorb**（吸收）
+> 2. **thrive**（茁壮成长）
+> 3. **subtle**（微妙的）
+> 4. **emit**（排放）
+> 5. **drought**（干旱）
+> 6. **moisture**（水分）
+> 7. **prioritize**（优先处理）
+> 8. **burnable**（可燃的）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. count on
+2. soak up
+3. thin out
+
+> [!abstract]- 答案
+> 1. **count on** = 指望、依靠（= rely on）
+> 2. **soak up** = 吸收、吸纳（= absorb）
+> 3. **thin out** = 疏伐、使稀疏（即降低森林密度）
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. "… financed from the **proceeds** of the state's emissions-permit auctions." 中 **proceeds** 的含义是：
+   - A. 继续进行
+   - B. 收益、收入
+   - C. 向前移动
+   - D. 处理、加工
+
+2. "But the remaining trees **draw** a greater share of the available moisture…" 中 **draw** 的含义是：
+   - A. 绘画
+   - B. 汲取、获取
+   - C. 抽签
+   - D. 拉、拖
+
+3. "California's plan … should serve as a **model**." 中 **model** 的含义是：
+   - A. 模特
+   - B. 型号
+   - C. 典范、范例
+   - D. 模型玩具
+
+> [!abstract]- 答案
+> 1. **B** — `proceeds` 是名词，特指拍卖、销售等的"收益、进款"，与动词 `proceed`（继续进行）是**同形异义**，勿混淆。
+> 2. **B** — 此处 `draw` 与 `pull`/`absorb` 近义，指树木"汲取"更大份额的水分，不是"绘画"。
+> 3. **C** — `serve as a model` = "成为典范"，`should` 表作者主张/建议，是第 30 题判断作者态度（supportive）的关键。
 
 ---
 
