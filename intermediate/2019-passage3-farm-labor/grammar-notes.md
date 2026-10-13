@@ -451,7 +451,6 @@ concepts:
 | `this` | 前面所述"国会阻挠签证改革"一事 | If **this** doesn't change, … will be the losers. |
 | `they` | the workers | … they aren't given all the workers they need. |
 | `they` | this century's farm laborers | **They**'re also aging. |
-| `them` | trees | … most of **them** in 2016 alone … |
 | `it` | food | … import the workers who pick **it**. |
 
 > [!tip] 解题技巧
