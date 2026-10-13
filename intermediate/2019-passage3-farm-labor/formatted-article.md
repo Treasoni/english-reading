@@ -221,7 +221,7 @@ The H-2A visa has no numerical **cap**, unlike the H-2B visa for nonagricultural
 > | 类型 | 引导词 / 形式 | 修饰对象 |
 > |------|--------------|----------|
 > | 对比介词短语 | unlike the H-2B visa for nonagricultural work | 与主语 H-2A visa 对比 |
-> | 介词短语 | for nonagricultural work | visa |
+> | 介词短语 | for nonagricultural work | the H-2B visa |
 > | which 引导的非限制性定语从句 | which is limited to 66,000 a year | the H-2B visa |
 > | 被动语态 | is limited to | which（= H-2B visa） |
 >
@@ -293,7 +293,7 @@ The shortage is **compounded** by federal immigration **raids**, which remove so
 > | 被动语态 + by 施事 | is compounded by federal immigration raids | the shortage |
 > | which 引导的非限制性定语从句 | which remove some workers and drive others underground | federal immigration raids |
 > | 并列谓语 | remove … and drive … | which |
-> | 介词短语（宾补/结果） | underground | drive others |
+> | 副词作宾补（结果） | underground | drive others |
 >
 > **结构图解**：
 >
@@ -306,7 +306,7 @@ The shortage is **compounded** by federal immigration **raids**, which remove so
 >
 > **参考译文**：联邦移民突击检查更是加剧了短缺——它们遣走了一些工人，也迫使另一些工人转入地下。
 >
-> **考点提示**：① `is compounded by` 是**被动语态 + by 引出施事**，`compound` = "使恶化、加重"（勿误译为"组成"）。② `which` 引导**非限制性定语从句**，先行词是 `federal immigration raids`。③ 从句内 `remove … and drive …` 是**并列谓语**，`drive others underground` 中 `underground` 作**宾补**。④ 与上句共同支撑第 34 题（流程缓慢 + 突击检查，进一步加重短缺）。
+> **考点提示**：① `is compounded by` 是**被动语态 + by 引出施事**，`compound` = "使恶化、加重"（勿误译为"组成"）。② `which` 引导**非限制性定语从句**，先行词是 `federal immigration raids`。③ 从句内 `remove … and drive …` 是**并列谓语**，`drive others underground` 中 `underground` 是**副词作宾补**（表结果"转入地下"）。④ 本句进一步说明劳动力短缺的成因（突击检查驱逐并驱赶工人），与上段"外籍劳工填补缺口"呼应。
 
 In a 2012 survey, 71 percent of tree-fruit growers and almost 80 percent of raisin and berry growers said they were short of labor. Some western farmers have responded by moving operations to Mexico. From 1998 to 2000, 14.5 percent of the fruit Americans consumed was imported. Little more than a decade later, the share of imports was 25.8 percent.
 

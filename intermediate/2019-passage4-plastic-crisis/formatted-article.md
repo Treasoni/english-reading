@@ -131,11 +131,11 @@ They could even be harmful, satisfying a need to have “done our bit” without
 > ```
 > 主句: They + could even be + harmful
 >   ├── 现在分词状语: satisfying a need (to have “done our bit”) 〔without ever progressing onto bigger, bolder, more effective actions〕
+>   │      └── 比较级递进: bigger, bolder, more effective（修饰 actions）
 >   └── 破折号同位命名: —a kind of “moral licensing” 〔that eases our concerns and stops us doing more and asking more of those in charge〕
->         ├── that 定语从句: that eases … and stops …
->         │      ├── 并列谓语1: eases our concerns
->         │      └── 并列谓语2: stops us doing more and asking more of those in charge
->         └── 比较级递进: bigger, bolder, more effective（修饰 actions）
+>         └── that 定语从句: that eases … and stops …
+>               ├── 并列谓语1: eases our concerns
+>               └── 并列谓语2: stops us doing more and asking more of those in charge
 > ```
 >
 > **参考译文**：这类做法甚至可能有害：它们满足了我们"已经尽了一份力"的心理需求，却让我们止步不前，不去采取更大、更果断、更有效的行动——这是一种"道德许可"，它抚平了我们的担忧，使我们不再多做事，也不再对当权者提出更多要求。
