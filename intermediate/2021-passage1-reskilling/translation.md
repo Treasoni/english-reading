@@ -67,3 +67,50 @@ Of course, it is not like you can take an unemployed waiter and train him to be 
 > - `furlough` = "让……暂时停职（无薪休假）"；`cabin staff` = "客舱乘务人员"。
 > - `start up` = "启动、开办"；`that reskilled the laid-off workers` 是**定语从句**修饰 `a short retraining program`；`laid-off workers` = "被裁员工"。
 > - `collective` = "集体的、共同的"；`as well as` = "以及、和……一样"。
+
+## 题目翻译
+
+### 21. Research by the World Economic Forum suggests ____.
+
+21. 世界经济论坛的研究表明 ____。
+
+- [A] 全职就业的增长
+- [B] 对新工作技能的迫切需求
+- [C] 就业机会的稳步增长
+- [D] 关于"核心技能"的争议
+
+### 22. AT&T is cited to show ____.
+
+22. 引用 AT&T 是为了说明 ____。
+
+- [A] "裁员再招"策略的一种替代方案
+- [B] 对政府支持的迫切需求
+- [C] 员工考核标准的重要性
+- [D] 再培训计划的特点
+
+### 23. Efforts to resolve the skills mismatch in Canada ____.
+
+23. 加拿大为解决技能错配所做的努力 ____。
+
+- [A] 推高了劳动力成本
+- [B] 被证明前后不一致
+- [C] 遭遇了激烈反对
+- [D] 显得不够充分
+
+### 24. We can learn from Paragraph 3 that there was ____.
+
+24. 从第 3 段我们可以得知，当时 ____。
+
+- [A] 有政策调整的呼声
+- [B] 招聘方式发生了变化
+- [C] 医务人员短缺
+- [D] 有经济复苏的迹象
+
+### 25. Scandinavian Airlines decided to ____.
+
+25. 北欧航空决定 ____。
+
+- [A] 为失业者创造岗位空缺
+- [B] 让被裁员工为其他岗位做准备
+- [C] 再培训客舱员工以提供更好的服务
+- [D] 资助员工接受大学教育
