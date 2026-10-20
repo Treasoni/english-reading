@@ -561,6 +561,55 @@ The industry is betting that the same consumers paying more for premium attribut
 
 ---
 
+## 题目翻译
+
+### 21. The climate-friendly eggs are produced ____.
+
+21. 气候友好型鸡蛋是在 ____ 生产的。
+
+- [A] 以相当低的成本
+- [B] 应普通购物者的需求
+- [C] 作为有机鸡蛋的替代品
+- [D] 在专门设计的农场上
+
+### 22. Larry Brown is excited about his progress in ____.
+
+22. Larry Brown 对其在 ____ 方面的进展感到兴奋。
+
+- [A] 减少蚯蚓的危害
+- [B] 加快废弃物的处理
+- [C] 建立一个可持续的系统
+- [D] 吸引顾客购买他的产品
+
+### 23. The example of organic eggs is used in Paragraph 4 to suggest ____.
+
+23. 第 4 段引用有机鸡蛋的例子是为了说明 ____。
+
+- [A] 对天然饲料的质疑
+- [B] 鸡蛋产业遭遇的挫折
+- [C] 再生农产品的潜力
+- [D] 超市促销的成功
+
+### 24. It can be learned from the last paragraph that young people ____.
+
+24. 从最后一段可以了解到，年轻人 ____。
+
+- [A] 不愿改变饮食习惯
+- [B] 可能购买气候友好型鸡蛋
+- [C] 对新食物感到好奇
+- [D] 对农业进步感到惊叹
+
+### 25. John Brunnquell would disagree with Julie Stanton over regenerative products' ____.
+
+25. John Brunnquell 会在再生农产品的 ____ 上与 Julie Stanton 意见相左。
+
+- [A] 市场前景
+- [B] 营养价值
+- [C] 标准定义
+- [D] 道德含义
+
+---
+
 ## 语法要点
 
 # 2022 Passage 1 语法整理
