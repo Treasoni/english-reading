@@ -15,7 +15,7 @@ sources:
 
 On a recent sunny day, 13,000 chickens **roam** over Larry Brown's 40 **windswept** acres in Shiner, Texas. Some rest in the shade of a parked car. Others drink water with the cows.
 
-This all seems random, but it's **by design**, part of what the $6.1 billion U.S. egg industry bets will be its next big thing: **climate-friendly eggs**.
+This all seems random, but it's **by design**, part of what the $6.1 billion U.S. egg industry **bets** will be its next big thing: **climate-friendly eggs**.
 
 > [!abstract]- 长难句分析
 > **原句**：This all seems random, but it's by design, part of what the $6.1 billion U.S. egg industry bets will be its next big thing: climate-friendly eggs.
