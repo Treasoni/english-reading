@@ -74,7 +74,7 @@ Where is the line between ethical, persuasive design and dark patterns? Business
 
 Lawmakers and regulators are slowly starting to address the ambiguity around dark patterns, most recently at the state level. In March, the California Attorney General announced the approval of additional regulations under the California Consumer Privacy Act (CCPA) that "ensure that consumers will not be confused or misled when seeking to exercise their data privacy rights." The regulations aim to ban dark patterns—this means prohibiting companies from using "confusing language or unnecessary steps such as forcing them to click through multiple screens or listen to reasons why they shouldn't opt out."
 
-立法者与监管机构正缓慢着手处理暗黑模式所带来的模糊性问题，最近的一次发生在州一级。今年 3 月，加州总检察长宣布批准《加州消费者隐私法》（CCPA）框架下的附加条例，这些条例"确保消费者在寻求行使其数据隐私权时不会感到困惑或被误导"。这些条例旨在禁止暗黑模式——这意味着禁止企业使用"令人困惑的措辞或不必要的步骤，例如迫使用户点击浏览多个界面，或听取它们为何不应退出的理由"。
+立法者与监管机构正缓慢着手处理暗黑模式所带来的模糊性问题，最近的一次发生在州一级。今年 3 月，加州总检察长宣布批准《加州消费者隐私法》（CCPA）框架下的附加条例，这些条例"确保消费者在寻求行使其数据隐私权时不会感到困惑或被误导"。这些条例旨在禁止暗黑模式——这意味着禁止企业使用"令人困惑的措辞或不必要的步骤，例如迫使用户点击浏览多个界面，或迫使用户听取为何自己不应退出的理由"。
 
 > [!note] 翻译说明
 > - `address` = "处理、应对（问题）"，此处不是"地址"或"演讲"。
