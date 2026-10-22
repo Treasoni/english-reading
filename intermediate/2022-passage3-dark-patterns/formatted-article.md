@@ -53,7 +53,7 @@ We have all **encountered** them, in both our personal and professional lives. T
 >
 > **考点提示**：① `the times you felt …` 是**省略关系词（when / that）的定语从句**，`times` 后直接跟"主语 + 谓语"，不是同位语从句。② `that had … but was …` 是**同一关系词带两个并列谓语**（`had` 一般过去时 / `was` 过去状态），不要拆成两个定语从句。③ `difficult to cancel` 中不定式**主动形式表被动意义**（= difficult to be cancelled），是"形容词 + to do"的固定用法。
 
-Something that should be simple and transparent can be complicated, intentionally or unintentionally, in ways that impair consumer choice.
+Something that should be simple and transparent can be complicated, intentionally or unintentionally, in ways that **impair** consumer choice.
 
 > [!abstract]- 长难句分析
 > **原句**：Something that should be simple and transparent can be complicated, intentionally or unintentionally, in ways that impair consumer choice.
