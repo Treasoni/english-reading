@@ -1,7 +1,7 @@
 # 技能调用指南
 
 ## 技能列表
-<!-- skill-registry:managed ["add-reading-tip","analyze-sentence","compile-note","defuddle","digest","extract-vocabulary","format-article","generate-reading-note","json-canvas","maintain-learnings","manifest-platform","obsidian-bases","obsidian-cli","obsidian-markdown","organize-grammar","prompt-cache-optimizer","security-secret-audit","summarize-grammar","sync-skill-registry","translate","vocab-diff","workflow-todo-state"] -->
+<!-- skill-registry:managed ["add-reading-tip","analyze-sentence","compile-note","defuddle","digest","extract-vocabulary","format-article","generate-cloze-note","generate-reading-note","json-canvas","maintain-learnings","manifest-platform","obsidian-bases","obsidian-cli","obsidian-markdown","organize-grammar","prompt-cache-optimizer","security-secret-audit","summarize-grammar","sync-skill-registry","translate","vocab-diff","workflow-todo-state"] -->
 
 #### 语法与词汇
 
@@ -19,6 +19,7 @@
 | `compile-note` | 将翻译、排版文章、语法笔记和长难句分析整合为一份全面的综合学习笔记，遵循AI实战参考模板格式 | 将翻译、排版文章、语法笔记和长难句分析整合为一份全面的综合学习笔记，遵循AI实战… |
 | `extract-vocabulary` | 扫描整合笔记中加粗的生词，提取去重后生成词汇表，替换笔记中的<!-- VOCABULARY_SLOT -->占位符。原地修改笔记文件，不改变其他内容。 | 扫描整合笔记中加粗的生词，提取去重后生成词汇表，替换笔记中的<!-- VOCAB… |
 | `format-article` | 对英文文章进行美化排版，清理原始格式，添加正确的标题层级、段落分隔和列表结构，输出为规范的Obsidian Markdown格式 | 对英文文章进行美化排版，清理原始格式，添加正确的标题层级、段落分隔和列表结构，输… |
+| `generate-cloze-note` | 对一篇考研英语完形填空执行完整精读工作流：原文与选项固化、翻译、语法、固定搭配、逐空分析与五类错因归类、整合笔记、生词表、更新完形错因清单、全局汇总。 | 完形填空精读、完形笔记、逐空分析、完形错因 |
 | `organize-grammar` | 整理零散的英语语法笔记，按类别（时态、语态、从句等）组织为结构化参考。 | 整理零散的英语语法笔记，按类别（时态、语态、从句等）组织为结构化参考 |
 | `translate` | 将考研英语阅读文章翻译为中文，按段落生成中英对照格式，保存到 intermediate 目录。用户粘贴英文文本或提供文件路径，并指定主题名(topic)时触发。 | 将考研英语阅读文章翻译为中文，按段落生成中英对照格式，保存到 intermedi… |
 

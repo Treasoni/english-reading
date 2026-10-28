@@ -40,10 +40,33 @@
 - `digest` — 学习回顾，记录心得与错误到 `.learnings/`（用户明确要求时触发）
 - `maintain-learnings` — 经验库维护。当 `.learnings/` 过长、同类错误反复出现、或铁律写入后仍复发时，先修对应 skill / 模板 / hook / 项目规则并验证，再归档或移除已解决记录。
 
+## 完形填空精读工作流（`cloze-note-generation`）
+
+完形填空走独立工作流，不与阅读 Passage 混用。入口技能 `generate-cloze-note`，阶段 P0–P9：
+
+| 阶段 | 产出 |
+|------|------|
+| P0 | 输入收集：原文、20 组选项、官方答案、用户逐空作答（含漏答） |
+| P1 | `intermediate/<year>-cloze-<topic>/formatted-article.md` + 素材原文 |
+| P2 | `translation.md`（英文行内标 `【n 答案】`） |
+| P3 | `grammar-notes.md`（只收与空格或陷阱相关的结构） |
+| P4 | `固定搭配与词组笔记.md`（📌 标注本篇考点） |
+| P5 | `逐空分析.md`（20 行判定依据 + 五类错因标签 + 重点错题深挖） |
+| P6 | 综合笔记（固定十章，占位 `<!-- VOCABULARY_SLOT -->`） |
+| P7 | 生词表 + `### 生词练习` |
+| P8 | 更新根目录 `完形错因清单.md` |
+| P9 | 合并进 `语法总结笔记.md` 与 `固定搭配与词组笔记.md` |
+
+产物路径：`完形填空/<year>-cloze-<topic>-精读笔记.md`，素材在 `完形填空/素材/`。五类错因标签固定为 词义辨析 / 逻辑关系 / 固定搭配 / 语法 / 粗心超纲，每空只归一类，计数必须等于失分空数。漏答不等于错，必须单独确认。
+
 ## 目录结构
 
 ```
 ├── <year>-<passage>-<topic>-精读笔记.md   # 最终综合笔记
+├── 完形填空/
+│   ├── <year>-cloze-<topic>-精读笔记.md   # 完形精读笔记
+│   └── 素材/<year>-cloze-<topic>-原文.md  # 完形原始素材（文章 + 选项 + 答案）
+├── 完形错因清单.md                        # 完形跨篇错因登记（五类标签）
 ├── intermediate/
 │   └── <topic>/
 │       ├── formatted-article.md           # 格式化原文
@@ -61,7 +84,8 @@
 ## 文件命名约定
 
 - 最终笔记：`<year>-<passage>-<topic>-精读笔记.md`（如 `2000-passage1-america-精读笔记.md`）
-- 中间文件目录：`intermediate/<year>-<passage>-<topic>/`
+- 完形笔记：`完形填空/<year>-cloze-<topic>-精读笔记.md`（如 `完形填空/2010-cloze-swine-flu-精读笔记.md`），素材在 `完形填空/素材/`
+- 中间文件目录：`intermediate/<year>-<passage>-<topic>/`，完形为 `intermediate/<year>-cloze-<topic>/`
 - 词汇占位符：笔记中的 `<!-- VOCABULARY_SLOT -->` 由 `extract-vocabulary` 替换
 
 ## Obsidian Markdown 规范

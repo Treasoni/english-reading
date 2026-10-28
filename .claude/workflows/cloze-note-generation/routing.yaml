@@ -1,0 +1,6 @@
+workflow_id: cloze-note-generation
+required: true
+when_to_use: "Generating a complete 考研英语完形填空精读笔记 from a cloze passage, including per-blank error classification and the cross-article error list"
+triggers: "完形填空精读; 完形笔记; 生成完形精读笔记; 完形错因; 完形逐空分析; cloze note generation; cloze 精读; 完形填空 20 空"
+excludes: "single-step translation only; single sentence analysis only; vocabulary distinction only; add reading tip only; read-only inspection; 阅读 Passage 精读笔记 (use reading-note-generation); multiple passages or a directory in one run (ask the user before batching)"
+state_file_pattern: "workspace/workflow-runs/cloze-note-{year}-{cloze_slug}.workflow.md"

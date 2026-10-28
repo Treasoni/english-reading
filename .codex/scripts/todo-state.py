@@ -468,12 +468,122 @@ class WorkflowState:
             self.require_file_contains("P8", final_note, "## 生词表")
             self.require_file_contains("P8", final_note, "### 生词练习")
 
+    def cloze_note_paths(self) -> tuple[Path | None, ...]:
+        intermediate_dir = self.frontmatter_value("intermediate_dir").rstrip("/\\")
+        return (
+            self.workflow_path(f"{intermediate_dir}/formatted-article.md"),
+            self.workflow_path(f"{intermediate_dir}/translation.md"),
+            self.workflow_path(f"{intermediate_dir}/grammar-notes.md"),
+            self.workflow_path(f"{intermediate_dir}/固定搭配与词组笔记.md"),
+            self.workflow_path(f"{intermediate_dir}/逐空分析.md"),
+            self.workflow_path(self.frontmatter_value("output_path")),
+            self.workflow_path(self.frontmatter_value("material_path")),
+            self.workflow_path(self.frontmatter_value("error_list_path")),
+        )
+
+    def validate_cloze_note_artifacts(self) -> None:
+        (
+            formatted_article,
+            translation,
+            grammar_notes,
+            collocations,
+            blank_analysis,
+            final_note,
+            material_note,
+            error_list,
+        ) = self.cloze_note_paths()
+
+        if self.phase_status_for("P1") == "complete":
+            self.require_file("P1", formatted_article)
+            self.require_file("P1", material_note)
+        if self.phase_status_for("P2") == "complete":
+            self.require_file("P2", translation)
+        if self.phase_status_for("P3") == "complete":
+            self.require_file("P3", grammar_notes)
+        if self.phase_status_for("P4") == "complete":
+            self.require_file("P4", collocations)
+        if self.phase_status_for("P5") == "complete":
+            self.require_file("P5", blank_analysis)
+            self.require_file_contains("P5", blank_analysis, "错因标签")
+        if self.phase_status_for("P6") == "complete":
+            p7_status = self.phase_status_for("P7")
+            if p7_status == "not_started":
+                self.require_file_contains("P6", final_note, "<!-- VOCABULARY_SLOT -->")
+        if self.phase_status_for("P7") == "complete":
+            self.require_file_not_contains("P7", final_note, "<!-- VOCABULARY_SLOT -->")
+            self.require_file_contains("P7", final_note, "生词表")
+            self.require_file_contains("P7", final_note, "生词练习")
+        if self.phase_status_for("P8") == "complete":
+            self.require_file("P8", error_list)
+        if self.phase_status_for("P9") == "complete" or self.frontmatter_value(
+            "current_phase"
+        ) == "done":
+            self.require_file("P9", formatted_article)
+            self.require_file("P9", translation)
+            self.require_file("P9", grammar_notes)
+            self.require_file("P9", collocations)
+            self.require_file("P9", blank_analysis)
+            self.require_file("P9", error_list)
+            self.require_file_not_contains("P9", final_note, "<!-- VOCABULARY_SLOT -->")
+            self.require_file_contains("P9", final_note, "生词表")
+            self.require_file_contains("P9", final_note, "生词练习")
+
     def validate_workflow_artifacts(self) -> None:
-        if self.frontmatter_value("workflow_id") == "reading-note-generation":
+        workflow_id = self.frontmatter_value("workflow_id")
+        if workflow_id == "reading-note-generation":
             self.validate_reading_note_artifacts()
+        elif workflow_id == "cloze-note-generation":
+            self.validate_cloze_note_artifacts()
+
+    def validate_cloze_phase_requirements(self, phase: str) -> None:
+        (
+            formatted_article,
+            translation,
+            grammar_notes,
+            collocations,
+            blank_analysis,
+            final_note,
+            material_note,
+            error_list,
+        ) = self.cloze_note_paths()
+
+        if phase == "P1":
+            self.require_file("P1", formatted_article)
+            self.require_file("P1", material_note)
+        elif phase == "P2":
+            self.require_file("P2", translation)
+        elif phase == "P3":
+            self.require_file("P3", grammar_notes)
+        elif phase == "P4":
+            self.require_file("P4", collocations)
+        elif phase == "P5":
+            self.require_file("P5", blank_analysis)
+            self.require_file_contains("P5", blank_analysis, "错因标签")
+        elif phase == "P6":
+            self.require_file_contains("P6", final_note, "<!-- VOCABULARY_SLOT -->")
+        elif phase == "P7":
+            self.require_file_not_contains("P7", final_note, "<!-- VOCABULARY_SLOT -->")
+            self.require_file_contains("P7", final_note, "生词表")
+            self.require_file_contains("P7", final_note, "生词练习")
+        elif phase == "P8":
+            self.require_file("P8", error_list)
+        elif phase == "P9":
+            self.require_file("P9", formatted_article)
+            self.require_file("P9", translation)
+            self.require_file("P9", grammar_notes)
+            self.require_file("P9", collocations)
+            self.require_file("P9", blank_analysis)
+            self.require_file("P9", error_list)
+            self.require_file_not_contains("P9", final_note, "<!-- VOCABULARY_SLOT -->")
+            self.require_file_contains("P9", final_note, "生词表")
+            self.require_file_contains("P9", final_note, "生词练习")
 
     def validate_phase_completion_requirements(self, phase: str) -> None:
-        if self.frontmatter_value("workflow_id") != "reading-note-generation":
+        workflow_id = self.frontmatter_value("workflow_id")
+        if workflow_id == "cloze-note-generation":
+            self.validate_cloze_phase_requirements(phase)
+            return
+        if workflow_id != "reading-note-generation":
             return
 
         formatted_article, translation, grammar_notes, final_note = self.reading_note_paths()
@@ -489,8 +599,8 @@ class WorkflowState:
             self.require_file_contains("P6", final_note, "<!-- VOCABULARY_SLOT -->")
         elif phase == "P7":
             self.require_file_not_contains("P7", final_note, "<!-- VOCABULARY_SLOT -->")
-            self.require_file_contains("P7", final_note, "## 生词表")
-            self.require_file_contains("P7", final_note, "### 生词练习")
+            self.require_file_contains("P7", final_note, "生词表")
+            self.require_file_contains("P7", final_note, "生词练习")
         elif phase == "P8":
             self.require_file("P8", formatted_article)
             self.require_file("P8", translation)
