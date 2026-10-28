@@ -8,8 +8,8 @@ task: "2011 完形（网络匿名与可信身份）精读笔记"
 created_from: ".claude/workflows/cloze-note-generation/state-template.md"
 created_at: "2026-10-28"
 last_updated: "2026-10-28"
-current_phase: P9
-current_status: in_progress
+current_phase: done
+current_status: complete
 mode: guided
 blocked_reason: ""
 year: "2011"
@@ -31,7 +31,7 @@ error_list_path: "完形错因清单.md"
 > 任务：2011 完形（网络匿名与可信身份）精读笔记
 > 运行标识：cloze-2011-anonymity-20261028
 > 创建时间：2026-10-28
-> 当前阶段：阶段 9
+> 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -171,7 +171,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
 - [ ] 已向用户报告两个根文件的更新内容
 
-> [P9] 🔲 进行中 {in_progress}
+> [P9] ✅ 已完成 {complete}
 
 ---
 
@@ -189,4 +189,7 @@ error_list_path: "完形错因清单.md"
 - **最终笔记**：`完形填空/2011-cloze-anonymity-精读笔记.md`
 - **错因清单**：`完形错因清单.md`
 - **全局汇总**：`语法总结笔记.md`、`固定搭配与词组笔记.md`
-- **完成状态**：
+- **完成状态**：P0–P9 全部完成，validate 通过（exit=0）。
+- **成绩**：15 对 / 5 错 / 0 漏答（失分点 2、5、10、17、19）。
+- **错因分布**：词义辨析 2、逻辑关系 2、固定搭配 1、语法 0、粗心超纲 0（合计 5 = 失分空数）。
+- **源缺陷披露**：素材原文件第 4—10 空缺选项、第 11—15 空写作裸数字，已在素材笔记 `sources` 与 `formatted-article.md` 排版说明中标注，选项据套卷照片补全并与官方答案交叉验证。
