@@ -8,7 +8,7 @@ task: "2011 完形（网络匿名与可信身份）精读笔记"
 created_from: ".claude/workflows/cloze-note-generation/state-template.md"
 created_at: "2026-10-28"
 last_updated: "2026-10-28"
-current_phase: P3
+current_phase: P5
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -31,7 +31,7 @@ error_list_path: "完形错因清单.md"
 > 任务：2011 完形（网络匿名与可信身份）精读笔记
 > 运行标识：cloze-2011-anonymity-20261028
 > 创建时间：2026-10-28
-> 当前阶段：阶段 3
+> 当前阶段：阶段 5
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -86,7 +86,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 每个 `###` 标题已标注对应空号
 - [ ] 未做全文句法标注
 
-> [P3] 🔲 进行中 {in_progress}
+> [P3] ✅ 已完成 {complete}
 
 ---
 
@@ -99,7 +99,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 纯语法未混入本文件，已用 wikilink 指向 `语法总结笔记`
 - [ ] 每个以固定搭配为答案的空已列出并说明干扰项
 
-> [P4] ⬜ 未开始 {not_started}
+> [P4] ✅ 已完成 {complete}
 
 ---
 
@@ -113,7 +113,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 已写出 5-8 个重点错题深挖
 - [ ] 结构性失败的空已用 `analyze-sentence` 分析并留存
 
-> [P5] ⬜ 未开始 {not_started}
+> [P5] 🔲 进行中 {in_progress}
 
 ---
 
