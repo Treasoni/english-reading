@@ -1111,7 +1111,151 @@ While productive tree planting can deliver real financial benefits to rural econ
 
 ---
 
-<!-- VOCABULARY_SLOT -->
+## 生词表
+
+共 46 条：20 条为原文加粗的考研重点词/短语，26 条为短语中的单独词汇与高频搭配（如 `fluctuate`、`decimate`、`encompass`）。
+
+### A–C
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **ambition** | n. | 雄心、抱负；（事业的）目标 | While the UK government has stated its **ambition** for more tree planting, there has been little action on the ground. |
+| **ambition for** | phr. | 对……的雄心／目标 | the UK government has stated its **ambition for** more tree planting |
+| **aspirations** | n. | 愿景、抱负（常用复数） | Confor is now calling for much greater impetus behind those **aspirations**. |
+| **be of critical importance** | phr. | 至关重要（= be critically important） | While food production and biodiversity health are clearly **of critical importance** ... |
+| **biodiversity** | n. | 生物多样性 | the rewilding and planting of native woodland solely for **biodiversity** |
+| **call for** | phr. | 呼吁、要求 | The forestry and wood trade body has **called for** urgent action to reduce the country's reliance on timber imports. |
+| **carbon crisis** | n. phr. | 碳危机 | "Not only are we facing a **carbon crisis** now, but we will also be facing a future construction crisis." |
+| **certify** | v. | 认证、出具证明（本文 certifying） | the UK ... is a global leader in **certifying** that its forests are sustainably managed |
+| **construction crisis** | n. phr. | 建筑危机 | "The UK is facing a future **construction crisis**" |
+| **contribute to** | phr. | 有助于、为……作贡献 | While productive tree planting can ... **contribute to** the UK's net-zero strategy ... |
+
+### D–H
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **decimate** | v. | 大面积毁坏、使大批丧生（本文名词 decimation） | the **decimation** of trees by grey squirrels |
+| **demand** | n. | 需求 | ... to ensure we have enough wood to meet increasing **demand**. |
+| **encompass** | v. | 包含、涵盖 | It also **encompasses** significant hesitation on behalf of farmers. |
+| **exposed to** | phr. | 暴露于、易受……影响 | For decades we have not taken responsibility for investing in our domestic wood supply, leaving us **exposed to** fluctuating prices. |
+| **exposure to** | phr. | 暴露于……（名词形式，第 28 题题干用词） | The UK's **exposure to** fluctuating wood prices is a result of ... |
+| **fail to** | phr. | 未能做到 | the trade body says these don't go far enough and **fail to** promote the benefits of planting them |
+| **fluctuate** | v. | 波动、涨落（本文形容词 fluctuating） | leaving us exposed to **fluctuating** prices |
+| **forestry** | n. | 林业 | The **forestry** and wood trade body has called for urgent action. |
+| **go far enough** | phr. | （措施）力度足够、能解决问题 | these don't **go far enough** and fail to promote the benefits |
+| **hesitation** | n. | 犹豫、迟疑 | It also encompasses significant **hesitation** on behalf of farmers and other landowners. |
+| **home-grown** | adj. | 本国种植的、国产的 | Currently only 20 per cent of the UK's wood requirement is **home-grown**. |
+
+### I–M
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **impetus** | n. | 推动力、促进因素 | Confor is now calling for much greater **impetus** behind those aspirations. |
+| **incentive** | n. | 激励措施、诱因（本文复数，第 27 题题干用词） | Coming at a time of fresh **incentives** from the UK government for landowners to grow more trees ... |
+| **landowner** | n. | 土地所有者 | fresh incentives from the UK government for **landowners** to grow more trees |
+| **low-carbon** | adj. | 低碳的 | The UK has ideal conditions for growing wood to build **low-carbon** homes. |
+| **manufacturing** | n. | 制造业 | we need our land to also provide secure supplies of wood for construction, **manufacturing** and to contribute to net zero |
+| **meet demand** | phr. | 满足需求 | enough wood to **meet** increasing **demand** |
+
+### N–R
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **net importer** | n. phr. | 净进口国 | it remains the second-largest **net importer** of timber in the world |
+| **net-zero** | n./adj. | 净零排放（的） | contribute to the UK's **net-zero** strategy |
+| **on behalf of** | phr. | 代表；在……一方（本文表归属） | significant hesitation **on behalf of** farmers and other landowners |
+| **on the ground** | phr. | 在实地、在实际层面 | there has been little action **on the ground** |
+| **outdated perceptions** | n. phr. | 过时的观念／认知 | The causes ... range from **outdated perceptions** of productive forestry ... |
+| **productive forestry** | n. phr. | 生产性林业（以产出木材为目的） | outdated perceptions of **productive forestry** |
+| **range from A to B** | phr. | 从 A 到 B 不等、不一而足 | The causes of the UK's current position are complex and **range from** outdated perceptions ... **to** the decimation of trees. |
+| **reliance** | n. | 依赖、依靠 | reduce the country's **reliance** on timber imports |
+| **rewilding** | n. | 再野化（恢复自然生态） | the **rewilding** and planting of native woodland solely for biodiversity |
+| **rural economies** | n. phr. | 农村经济 | While productive tree planting can deliver real financial benefits to **rural economies** ... |
+
+### S–Z
+
+| 词汇 | 词性 | 含义 | 原文例句 |
+|------|------|------|----------|
+| **second-largest** | adj. | 第二大的 | it remains the **second-largest** net importer of timber in the world |
+| **solely** | adv. | 仅仅、唯一地 | the rewilding and planting of native woodland **solely** for biodiversity |
+| **sustainable** | adj. | 可持续的（本文副词 sustainably） | its forests are **sustainably** managed |
+| **take responsibility for** | phr. | 为……承担责任 | For decades we have not **taken responsibility for** investing in our domestic wood supply. |
+| **timber** | n. | 木材、木料（英式；美式 lumber） | around three quarters of Scottish homes are built from Scottish **timber** |
+| **timber imports** | n. phr. | 进口木材 | reduce the country's reliance on **timber imports** |
+| **trade body** | n. phr. | 行业机构、行业协会 | The forestry and wood **trade body** has called for urgent action. |
+| **wood requirement** | n. phr. | 木材需求量 | only 20 per cent of the UK's **wood requirement** is home-grown |
+| **woodland** | n. | 林地 | the rewilding and planting of native **woodland** solely for biodiversity |
+
+### 生词练习
+
+**一、选词填空**
+
+从方框中选择合适的词汇填入空白处（必要时改变词形；每词限用一次）：
+
+> reliance / home-grown / incentive / hesitation / impetus / biodiversity / fluctuate / encompass / solely / timber
+
+1. The country's ________ on imported energy makes it vulnerable to price shocks.
+2. Only a small share of the fruit sold in these shops is ________; most of it is flown in.
+3. The government offered tax ________ to farmers who agreed to plant trees.
+4. After long ________, the committee finally approved the planting plan.
+5. The new campaign gave fresh ________ to the stalled reform.
+6. The reserve was created to protect local ________.
+7. Housing costs have been ________ sharply from month to month.
+8. The report ________ a wide range of causes, from poor planning to bad weather.
+9. The scheme was designed ________ to help small businesses.
+10. The bridge was built entirely of ________ from local forests.
+
+> [!abstract]- 答案
+> 1. **reliance**（依赖）——`reliance on ...` 固定搭配
+> 2. **home-grown**（本国种植的）
+> 3. **incentives**（激励措施，注意用复数）
+> 4. **hesitation**（犹豫）
+> 5. **impetus**（推动力）
+> 6. **biodiversity**（生物多样性）
+> 7. **fluctuating**（波动，用现在分词形式）
+> 8. **encompasses**（包含，主语为单数第三人称）
+> 9. **solely**（仅仅）
+> 10. **timber**（木材）
+
+**二、短语翻译**
+
+将下列短语翻译成中文：
+
+1. these don't go far enough
+2. significant hesitation on behalf of farmers and other landowners
+3. we have not taken responsibility for investing in our domestic wood supply
+
+> [!abstract]- 答案
+> 1. **these don't go far enough** = 这些（措施）力度不够／不能解决问题（`go far enough` 指"足够、做得够"）
+> 2. **significant hesitation on behalf of farmers and other landowners** = 农民及其他土地所有者一方存在明显的犹豫（`on behalf of` 在此不是"代表某人发言"，而是"在……一方"）
+> 3. **we have not taken responsibility for investing in our domestic wood supply** = 我们一直没有承担起投资国内木材供应的责任（`take responsibility for doing` = 为做某事负责）
+
+**三、语境理解**
+
+根据上下文，选择正确的词义：
+
+1. 第 2 段 `these don't go far enough` 中 **go far enough** 的含义是：
+   - A. 走得足够远
+   - B. （措施）力度足够、能解决问题
+   - C. 传播范围足够广
+   - D. 花费的时间足够长
+
+2. 第 3 段 `It also encompasses significant hesitation on behalf of farmers` 中 **on behalf of** 的含义是：
+   - A. 代表农民发言
+   - B. 为了农民的利益
+   - C. 存在于农民一方（即农民身上）
+   - D. 与农民无关
+
+3. 第 4 段 `the rewilding and planting of native woodland solely for biodiversity` 中 **solely** 的含义是：
+   - A. 主要地
+   - B. 仅仅、唯一地
+   - C. 共同地
+   - D. 迅速地
+
+> [!abstract]- 答案
+> 1. **B** —— `go far enough` 是"做得够、力度足够"，否定形式即"力度不够"，与后文 `fail to promote` 构成双重否定评价。
+> 2. **C** —— 主语是 `hesitation`（犹豫），犹豫不会"代表"谁，只能"出现在某一方身上"；若理解为 A 或 B，句子逻辑不通。
+> 3. **B** —— `solely for biodiversity` 强调"只为生物多样性"，正是作者批评的"用途单一"，与 `While` 让步句的转折方向一致。
 
 ---
 
