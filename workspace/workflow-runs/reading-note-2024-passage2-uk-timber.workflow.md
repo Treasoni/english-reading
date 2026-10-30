@@ -8,7 +8,7 @@ task: "生成 2024 passage2（英国木材供应危机 / Confor）考研英语�
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-10-30"
 last_updated: "2026-10-30"
-current_phase: P0
+current_phase: P3
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：生成 2024 passage2（英国木材供应危机 / Confor）考研英语阅读精读笔记
 > 运行标识：reading-note-2024-passage2-uk-timber
 > 创建时间：2026-10-30
-> 当前阶段：阶段 0
+> 当前阶段：阶段 3
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -41,7 +41,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已确认最终输出路径
 - [x] 已记录长难句模式：AI 候选 + 用户确认
 
-> [P0] 🔲 进行中 {in_progress}
+> [P0] ✅ 已完成 {complete}
 
 ---
 
@@ -52,7 +52,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已确认原文内容未删改
 - [ ] 已确认标题格式适合 Obsidian
 
-> [P1] ⬜ 未开始 {not_started}
+> [P1] ✅ 已完成 {complete}
 
 ---
 
@@ -62,7 +62,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已生成或更新 `translation.md`
 - [ ] 已保持原文段落结构
 
-> [P2] ⬜ 未开始 {not_started}
+> [P2] ✅ 已完成 {complete}
 
 ---
 
@@ -73,7 +73,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已核验语法笔记信息密度未丢失
 - [ ] 已加入必要的跨节联动复习
 
-> [P3] ⬜ 未开始 {not_started}
+> [P3] 🔲 进行中 {in_progress}
 
 ---
 
