@@ -551,6 +551,7 @@ As to the prospects for federal legislation, commentators suggest that **compreh
 - [B] 公众对健康的担忧
 - [C] 智能手机的流行
 - [D] 技术的进步
+- **答案：A**。定位第 1 段 `350,000 health apps were available on the market, 90,000 of which launched in 2020 alone`：两组数据共同说明健康应用数量大、增长快，即 `prevalence`（普及）。[B] 原文只提"利用技术追踪健康"，未提公众担忧；[C] 智能手机只是应用载体，不是研究结论；[D] "技术进步"过于笼统，数据指向的是应用本身的普及。
 
 ### 37. 关于现有的健康隐私法，作者暗示了什么？
 
@@ -558,6 +559,7 @@ As to the prospects for federal legislation, commentators suggest that **compreh
 - [B] 其执法力度需要加强。
 - [C] 它遏制了医疗不当行为。
 - [D] 它让保险公司失望了。
+- **答案：A**。定位第 2 段：现行法律 `is primarily focused on the way hospitals, doctors' offices, clinics and insurance companies store health records`，而 `health apps and health data tracking wearables ... do not receive the same legal protections`——覆盖范围存在缺口，故需扩大。[B] 把第 4 段的"执法滞后"错接到第 2 段，属跨段嫁接；[C] 与"保护不足"相反；[D] 原文未提保险公司失望。
 
 ### 38. 在共享用户健康信息之前，Flo Health 被要求 ____。
 
@@ -565,6 +567,7 @@ As to the prospects for federal legislation, commentators suggest that **compreh
 - [B] 寻找合格的第三方
 - [C] 删除无关的个人数据
 - [D] 获得用户的明确许可
+- **答案：D**。定位第 3 段 Consent Order：`requiring the company to get app users' express affirmative consent before sharing their health information`，`express affirmative consent` = `explicit permission`。[A] 把 FTC 从监管者写成审批者；[B] `instruct the third parties to delete` 是要求第三方删数据，不是"寻找合格第三方"；[C] 原文未要求删除用户数据。
 
 ### 39. FTC 目前面临什么挑战？
 
@@ -572,6 +575,7 @@ As to the prospects for federal legislation, commentators suggest that **compreh
 - [B] 新健康应用的快速增长。
 - [C] 健康应用难以察觉的欺骗性。
 - [D] 评估消费者损害的困难。
+- **答案：B**。定位第 4 段末句：`the rate at which these health apps are hitting the market demonstrates just how immense of a challenge this is`——挑战来自应用进入市场的**速度**。[A]、[C] 原文未把"信息复杂性"或"欺骗性难以察觉"列为挑战；[D] 混淆了 `unjustified consumer harm`（执法门槛）与"评估损害的困难"。
 
 ### 40. 从最后一段可以得知，健康数据保护 ____。
 
@@ -579,6 +583,7 @@ As to the prospects for federal legislation, commentators suggest that **compreh
 - [B] 一直是联邦政策制定的焦点
 - [C] 在加州遭到了反对
 - [D] 已在一些州获得立法支持
+- **答案：D**。定位第 5 段：`States have begun implementing their own solutions`，且 `Virginia, Colorado and Utah have also recently passed state consumer data privacy legislation`，即部分州已通过立法。[A] 原文未提开发者"接受"；[B] 与 `seems unlikely in the short term` 正相反；[C] 加州是 `at the forefront`（领跑），不是遭到反对。
 
 ---
 
@@ -1339,7 +1344,7 @@ As to the prospects for federal legislation, commentators suggest that **compreh
 > [!abstract]- 答案
 > 1. **B** — `express` 修饰名词 `claims`，是形容词"明确的"，不是动词"表达"；与下文"公司仍然共享数据"构成让步转折。
 > 2. **B** — `protections in place` = "已落实的保护措施"；`in place` 是习语，不能按字面译"在地方"。
-> 3. **B** — `after the fact` = "事后"，与 `only` 连用强调 FTC 只能**事后追责**，无法事前阻止，是第 39 题 [B] 的依据。
+> 3. **B** — `after the fact` = "事后"，与 `only` 连用强调 FTC 只能**事后追责**，无法事前阻止；它与后文"应用涌入市场的速度"共同构成第 39 题的挑战背景，但 [B] 的直接依据是 `the rate at which ... are hitting the market`。
 
 ---
 
