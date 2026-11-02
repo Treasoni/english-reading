@@ -431,7 +431,7 @@ concepts:
 | `typically` | 通常（留例外） | **typically** do not receive the same legal protections |
 
 > [!warning] 易错点
-> `seems unlikely` 不等于 `impossible`：作者说的是"**短期内**似乎不太可能"，不是"永远不可能"。第 40 题 [B] `has been a focus of federal policy-making` 属**张冠李戴**——联邦层面恰恰"不太可能"，焦点在州层面。
+> `seems unlikely` 不等于 `impossible`：作者说的是"**短期内**似乎不太可能"，不是"永远不可能"。第 40 题 [B] `has been a focus of federal policy-making` 属**正反混淆**——联邦层面恰恰"不太可能"，焦点在州层面。
 
 ### 复合形容词与名词化定语
 
