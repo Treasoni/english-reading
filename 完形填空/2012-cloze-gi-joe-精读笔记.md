@@ -86,6 +86,34 @@ sources:
 >
 > G. I. Joe had a 【11】 career fighting German, Japanese, and Korean troops. He appears as a character, or a 【12】 of American personalities, in the 1945 movie The Story of G. I. Joe, based on the last days of war correspondent Ernie Pyle. Some of the soldiers Pyle 【13】 portrayed themselves in the film. Pyle was famous for covering the 【14】 side of the war, writing about the dirt-snow-and-mud soldiers, not how many miles were 【15】 or what towns were captured or liberated. His reports 【16】 the “Willie” cartoons of famed Stars and Stripes artist Bill Maulden. Both men 【17】 the dirt and exhaustion of war, the 【18】 of civilization that the soldiers shared with each other and the civilians: coffee, tobacco, whiskey, shelter, sleep. 【19】 Egypt, France, and a dozen more countries, G. I. Joe was any American soldier, 【20】 the most important person in their lives.
 
+### 段落中英对照
+
+> 译文按**填入正确答案后的完整文本**翻译，便于对照理解；英文中的 `【n 答案】` 同时标出空号与答案。
+
+**第 1 段**
+
+Millions of Americans and foreigners see G. I. Joe as a mindless war toy, the symbol of American military adventurism, but that's not how it used to be. To the men and women who **【1 served】** in World War II and the people they liberated, the G. I. was the **【2 common】** man grown into hero, the poor farm kid torn away from his home, the guy who **【3 bore】** all the burdens of battle, who slept in cold foxholes, who went without the **【4 necessities】** of food and shelter, who stuck it out and drove back the Nazi reign of murder. This was not a volunteer soldier, not someone well paid, **【5 but】** an average guy, up **【6 against】** the best trained, best equipped, fiercest, most brutal enemies seen in centuries.
+
+**译文**
+
+数以百万计的美国人和外国人都把 G.I. Joe 看作一件没有头脑的战争玩具，看作美国军事冒险主义的象征，但过去并非如此。对于在二战中**服役**的男男女女，以及被他们解放的人们来说，G.I. 就是那个由**普通人**成长起来的英雄，是那个被从家乡拽走的贫苦农家孩子，是那个**承担**了战争全部重负的人，那个睡在冰冷散兵坑里的人，那个连食物和住所这些**必需品**都得不到的人，那个坚持到底、击退了纳粹杀人政权的人。他不是志愿兵，也不是报酬优厚的人，**而是**一个普通人，**面对**的是几个世纪以来训练最有素、装备最精良、最凶悍、最残暴的敌人。
+
+**第 2 段**
+
+His name is not much. G. I. is just a military abbreviation **【7 meaning】** Government Issue, and it was on all of the articles **【8 handed out】** to soldiers. And Joe? A common name for a guy who never **【9 made】** it to the top. Joe Blow, Joe Palooka, Joe Magrac ... a working class name. The United States has **【10 never】** had a president or vice-president or secretary of state Joe.
+
+**译文**
+
+他的名字算不了什么。G.I. 只是一个军用语缩写，**意思是**"政府配发"，它出现在**发放**给士兵的所有物品上。那 Joe 呢？那是给从未**爬到**顶层的人用的一个普通名字。Joe Blow、Joe Palooka、Joe Magrac……一个工人阶级的名字。美国**从来**没有过一位叫 Joe 的总统、副总统或国务卿。
+
+**第 3 段**
+
+G. I. Joe had a **【11 distinguished】** career fighting German, Japanese, and Korean troops. He appears as a character, or a **【12 collection】** of American personalities, in the 1945 movie The Story of G. I. Joe, based on the last days of war correspondent Ernie Pyle. Some of the soldiers Pyle **【13 interviewed】** portrayed themselves in the film. Pyle was famous for covering the **【14 human】** side of the war, writing about the dirt-snow-and-mud soldiers, not how many miles were **【15 gained】** or what towns were captured or liberated. His reports **【16 paralleled】** the “Willie” cartoons of famed Stars and Stripes artist Bill Maulden. Both men **【17 emphasized】** the dirt and exhaustion of war, the **【18 fragments】** of civilization that the soldiers shared with each other and the civilians: coffee, tobacco, whiskey, shelter, sleep. **【19 To】** Egypt, France, and a dozen more countries, G. I. Joe was any American soldier, **【20 at that point】** the most important person in their lives.
+
+**译文**
+
+G.I. Joe 有过一段与德国、日本和朝鲜军队作战的**显赫**经历。在 1945 年的电影《G.I. Joe 的故事》中，他作为一个角色、或者说美国人性格的**集合体**出现，影片取材于战地记者厄尼·派尔生命最后的日子。派尔**采访**过的一些士兵在片中出演了他们自己。派尔以报道战争中**"人"的**一面而闻名，他写的是那些满身泥雪、灰头土脸的士兵，而不是**推进**了多少英里，或攻占、解放了哪些城镇。他的报道与《星条旗报》著名画家比尔·莫尔登的"威利"漫画**相仿**。两个人都**强调**了战争的肮脏与疲惫，以及士兵们彼此之间、士兵与平民之间共享的那些文明**碎片**：咖啡、烟草、威士忌、住所、睡眠。**对**埃及、法国以及另外十几个国家的人来说，G.I. Joe 就是任何一个美国士兵，**而在那一刻**，他就是他们生命中最重要的人。
+
 ## 三、逐空分析
 
 | 空 | 你的答案 | 正确 | 判断依据 / 线索词 | 干扰项为何错 | 错因标签 |

@@ -114,7 +114,7 @@ The output template is **ten sections, fixed order**: 一、作答记录 二、�
 2. Use `compile-note`.
 3. Use the final output path confirmed in P0.
 4. Assemble the ten sections in fixed order, drawing from `formatted-article.md`, `translation.md`, `grammar-notes.md`, `固定搭配与词组笔记.md`, and `逐空分析.md`.
-5. Section 一 作答记录 must be a complete 20-row table with 你的答案 / 正确答案 / 判定 / 订正 plus a statistics block. Section 二 must carry a collapsed `> [!quote]- 文章原文（点击展开，空格标为【n】）`.
+5. Section 一 作答记录 must be a complete 20-row table with 你的答案 / 正确答案 / 判定 / 订正 plus a statistics block. Section 二 must carry a collapsed `> [!quote]- 文章原文（点击展开，空格标为【n】）`, followed by a `### 段落中英对照` subsection that reproduces every paragraph pair from `translation.md` verbatim: English with `【n 答案】` bolded, then 中文.
 6. Section 三 carries the 20-row six-column table plus `### 重点错题深挖`. Section 四 carries the signal-word table, the 全篇逻辑链, and a `> [!tip] 完形读法`. Section 七 keeps only the structures selected in P5.
 7. Include exactly one `<!-- VOCABULARY_SLOT -->` where section 八 belongs.
 8. Obsidian rules that are mandatory here: blank line before every table, blank line before every `---`, space after `#`, no nested `[!tip]` inside `[!abstract]-`.
