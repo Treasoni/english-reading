@@ -186,7 +186,7 @@ error_list_path: "完形错因清单.md"
 
 - **素材原文**：`完形填空/素材/2011-cloze-anonymity-原文.md`
 - **中间目录**：`intermediate/2011-cloze-anonymity/`
-- **最终笔记**：`完形填空/2011-cloze-anonymity-精读笔记.md`
+- **最终笔记**：`完形填空/2011-cloze-anonymity-精读笔记.md`（2026-11-02 回填章节二「段落中英对照」，9 段与 `translation.md` 逐字一致）
 - **错因清单**：`完形错因清单.md`
 - **全局汇总**：`语法总结笔记.md`、`固定搭配与词组笔记.md`
 - **完成状态**：P0–P9 全部完成，validate 通过（exit=0）。

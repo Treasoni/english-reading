@@ -104,6 +104,82 @@ sources:
 >
 > The plan has also been greeted with 【18】 by some computer security experts, who worry that the "voluntary ecosystem" envisioned by Mr. Schmidt would still leave much of the Internet 【19】. They argue that all Internet users should be 【20】 to register and identify themselves, in the same way that drivers must be licensed to drive on public roads.
 
+### 段落中英对照
+
+> 译文按**填入正确答案后的完整文本**翻译，便于对照理解；英文中的 `【n 答案】` 同时标出空号与答案。
+
+**第 1 段**
+
+The Internet affords anonymity to its users, a blessing to privacy and freedom of speech. But that very anonymity is also behind the explosion of cyber-crime that has **【1 swept】** across the Web.
+
+**译文**
+
+互联网为其用户提供了匿名性，这对隐私和言论自由而言是一件幸事。但正是这种匿名性，也是席卷整个网络空间的网络犯罪激增的背后推手。
+
+**第 2 段**
+
+Can privacy be preserved **【2 while】** bringing safety and security to a world that seems increasingly **【3 lawless】**?
+
+**译文**
+
+在为这个似乎日益无法无天的世界带来安全与保障的同时，隐私还能否被保全？
+
+**第 3 段**
+
+Last month, Howard Schmidt, the nation's cyber-czar, offered the federal government a **【4 proposal】** to make the Web a safer place—a "voluntary trusted identity" system that would be the high-tech **【5 equivalent】** of a physical key, a fingerprint and a photo ID card, all rolled **【6 into】** one. The system might use a smart identity card, or a digital credential **【7 linked】** to a specific computer, and would authenticate users at a range of online services.
+
+**译文**
+
+上个月，美国网络总管霍华德·施密特向联邦政府提出了一项让网络更安全的**提案**——一套"自愿可信身份"系统，它将成为实体钥匙、指纹与带照片身份证的**高科技等价物**，三者**融为**一体。该系统可能使用智能身份证，或者使用与某台特定计算机相**绑定的**数字凭证，并在各类在线服务中对用户进行身份验证。
+
+**第 4 段**
+
+The idea is to **【8 create】** a federation of private online identity systems. User could **【9 select】** which system to join, and only registered users whose identities have been authenticated could navigate those systems. The approach contrasts with one that would require an Internet driver's license **【10 issued】** by the government.
+
+**译文**
+
+其构想是**建立**一个由私营在线身份系统组成的联盟。用户可以**选择**加入哪一个系统，只有身份已获验证的注册用户才能在这些系统中通行。这一做法与另一种方案形成对照：后者要求持有由政府**签发**的互联网"驾照"。
+
+**第 5 段**
+
+Google and Microsoft are among companies that already have these "single sign-on" systems that make it possible for users to **【11 log in】** just once but use many different services.
+
+**译文**
+
+谷歌和微软等公司已经拥有这类"单点登录"系统，它使用户只需**登录**一次，就能使用多种不同的服务。
+
+**第 6 段**
+
+**【12 In effect】**, the approach would create a "walled garden" in cyberspace, with safe "neighborhoods" and bright "streetlights" to establish a sense of a **【13 trusted】** community.
+
+**译文**
+
+**实际上**，这一做法会在网络空间中造出一个"围墙花园"，其中有安全的"街区"和明亮的"路灯"，以营造出一种**可信赖的**社区感。
+
+**第 7 段**
+
+Mr. Schmidt described it as a "voluntary ecosystem" in which "individuals and organizations can complete online transactions with **【14 confidence】**, trusting the identities of each other and the identities of the infrastructure **【15 on】** which the transaction runs."
+
+**译文**
+
+施密特先生将其描述为一个"自愿生态"，在其中"个人与组织可以满怀**信心地**完成在线交易，因为他们信任彼此的身份，也信任交易所**依托的**基础设施的身份"。
+
+**第 8 段**
+
+Still, the administration's plan has **【16 divided】** privacy rights activists. Some applaud the approach; others are concerned. It seems clear that such a scheme is an initiative push toward what would **【17 eventually】** be a compulsory Internet "driver's license" mentality.
+
+**译文**
+
+尽管如此，政府的这一计划让隐私权活动人士**产生了分歧**。一些人赞赏这一做法，另一些人则表示担忧。显然，这样的方案是朝着一种**终将**成为强制性的互联网"驾照"思维迈出的主动一步。
+
+**第 9 段**
+
+The plan has also been greeted with **【18 skepticism】** by some computer security experts, who worry that the "voluntary ecosystem" envisioned by Mr. Schmidt would still leave much of the Internet **【19 vulnerable】**. They argue that all Internet users should be **【20 forced】** to register and identify themselves, in the same way that drivers must be licensed to drive on public roads.
+
+**译文**
+
+该计划也遭到一些计算机安全专家的**质疑**，他们担心施密特先生设想的"自愿生态"仍会让互联网的很大一部分处于**易受攻击的**状态。他们认为，所有互联网用户都应当**被强制**注册并表明身份，就如同司机必须取得驾照才能驾车上公路一样。
+
 ## 三、逐空分析
 
 | 空 | 你的答案 | 正确 | 判断依据 / 线索词 | 干扰项为何错 | 错因标签 |
