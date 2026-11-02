@@ -8,8 +8,8 @@ task: "2012 完形（G.I. Joe 与美国士兵形象）精读笔记"
 created_from: ".claude/workflows/cloze-note-generation/state-template.md"
 created_at: "2026-11-02"
 last_updated: "2026-11-02"
-current_phase: P9
-current_status: in_progress
+current_phase: done
+current_status: complete
 mode: guided
 blocked_reason: ""
 year: "2012"
@@ -31,7 +31,7 @@ error_list_path: "完形错因清单.md"
 > 任务：2012 完形（G.I. Joe 与美国士兵形象）精读笔记
 > 运行标识：cloze-2012-gi-joe-20261102
 > 创建时间：2026-11-02
-> 当前阶段：阶段 9
+> 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -171,7 +171,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
 - [ ] 已向用户报告两个根文件的更新内容
 
-> [P9] 🔲 进行中 {in_progress}
+> [P9] ✅ 已完成 {complete}
 
 ---
 
@@ -190,4 +190,5 @@ error_list_path: "完形错因清单.md"
 - **最终笔记**：`完形填空/2012-cloze-gi-joe-精读笔记.md`
 - **错因清单**：`完形错因清单.md`
 - **全局汇总**：`语法总结笔记.md`、`固定搭配与词组笔记.md`
+- **全局汇总结果**：`语法总结笔记.md` 新增「2012 新增语法要点（2012 完形）」6 个语法点（total_sources 95）；`固定搭配与词组笔记.md` 新增「2012 新增固定搭配与词汇（2012 完形）」4 个专题表（total_sources 110）；两类源文件差集核验均为空。
 - **完成状态**：
