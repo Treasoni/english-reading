@@ -1,7 +1,7 @@
 # Skill Invocation
 
 ## 技能列表
-<!-- skill-registry:managed ["add-reading-tip","analyze-sentence","compile-note","defuddle","digest","extract-vocabulary","format-article","generate-cloze-note","generate-reading-note","json-canvas","maintain-learnings","manifest-platform","obsidian-bases","obsidian-cli","obsidian-markdown","organize-grammar","prompt-cache-optimizer","security-secret-audit","summarize-grammar","sync-skill-registry","translate","vocab-diff","workflow-todo-state"] -->
+<!-- skill-registry:managed ["add-reading-tip","analyze-sentence","compile-note","defuddle","digest","extract-vocabulary","format-article","generate-cloze-note","generate-reading-note","grade-essay","json-canvas","maintain-learnings","manifest-platform","obsidian-bases","obsidian-cli","obsidian-markdown","organize-grammar","prompt-cache-optimizer","security-secret-audit","summarize-grammar","sync-skill-registry","translate","vocab-diff","workflow-todo-state"] -->
 
 #### 未分类
 
@@ -35,6 +35,12 @@
 | 技能 | 触发场景 | 关键触发词 |
 |------|----------|-----------|
 | `sync-skill-registry` | 技能注册表同步工具。扫描任意 agent skill 目录中的 */SKILL.md 并自动更新对应 skill-invocation.md 中的技能列表… | 同步注册表、更新技能列表、sync skill registry、update skill registration、刷新技能列表、同步技能表格 |
+
+#### 写作与批改
+
+| 技能 | 触发场景 | 关键触发词 |
+|------|----------|-----------|
+| `grade-essay` | 批改考研英语二作文：手写图片或文本转写确认、任务点核对、结构分析、按官方评分标准定档打分、双版本改稿、提分路径与跨篇错因累积。 | 作文批改、批改作文、作文打分、作文评分、英语二作文、大作文、小作文、图表作文、作文提分、二稿对比 |
 
 ### 1. 分析意图
 

@@ -1,7 +1,7 @@
 # 技能调用指南
 
 ## 技能列表
-<!-- skill-registry:managed ["add-reading-tip","analyze-sentence","compile-note","defuddle","digest","extract-vocabulary","format-article","generate-cloze-note","generate-reading-note","json-canvas","maintain-learnings","manifest-platform","obsidian-bases","obsidian-cli","obsidian-markdown","organize-grammar","prompt-cache-optimizer","security-secret-audit","summarize-grammar","sync-skill-registry","translate","vocab-diff","workflow-todo-state"] -->
+<!-- skill-registry:managed ["add-reading-tip","analyze-sentence","compile-note","defuddle","digest","extract-vocabulary","format-article","generate-cloze-note","generate-reading-note","grade-essay","json-canvas","maintain-learnings","manifest-platform","obsidian-bases","obsidian-cli","obsidian-markdown","organize-grammar","prompt-cache-optimizer","security-secret-audit","summarize-grammar","sync-skill-registry","translate","vocab-diff","workflow-todo-state"] -->
 
 #### 语法与词汇
 
@@ -10,6 +10,12 @@
 | `add-reading-tip` | 向阅读心得.md添加新的阅读技巧。当用户提到"添加阅读技巧"、"新增心得"、"记录技巧"、"阅读技巧"时触发。 | 添加阅读技巧、新增心得、记录技巧、阅读技巧 |
 | `summarize-grammar` | 读取 intermediate 下所有 grammar-notes.md，按语法类别（从句、非谓语动词等）去重合并，生成跨篇章的综合语法总结笔记。 | 语法总结、汇总语法、语法笔记汇总 |
 | `vocab-diff` | 管理考研英语易混淆单词辨析笔记。当用户提到"记混了"、"易混淆词"、"单词辨析"、"添加单词"、"这几个词分不清"、"statue还是statute"、"… | 记混了、易混淆词、单词辨析、添加单词、这几个词分不清、statue还是statute、affect还是effect |
+
+#### 写作与批改
+
+| 技能 | 触发场景 | 关键触发词 |
+|------|----------|-----------|
+| `grade-essay` | 批改考研英语二作文：手写图片或文本转写确认、任务点核对、结构分析、按官方评分标准定档打分、双版本改稿、提分路径与跨篇错因累积。 | 作文批改、批改作文、作文打分、作文评分、英语二作文、大作文、小作文、图表作文、作文提分、二稿对比 |
 
 #### 学习工作流
 
