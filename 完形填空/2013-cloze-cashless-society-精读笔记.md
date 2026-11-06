@@ -301,7 +301,7 @@ Fourth, electronic means of payment may **【14 raise】** security and privacy 
 
 ## 七、语法与长难句
 
-> 本篇语法类失分 0 个，但与空格直接相关的结构有 6 处，全部保留在此。完整整理见 [[intermediate/2013-cloze-cashless-society/grammar-notes]]。
+> 本篇语法类失分 0 个，但与空格直接相关的结构有 6 处，全部保留在此。完整整理见 [[intermediate/2013-cloze-cashless-society/grammar-notes]]，已并入根目录 [[语法总结笔记]]「2013 新增语法要点（2013 完形）」。
 
 ### 第 1 空：连接副词 However 的位置
 
