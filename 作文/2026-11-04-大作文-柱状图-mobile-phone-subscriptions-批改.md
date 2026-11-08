@@ -32,6 +32,8 @@ sources: "素材/2026-11-04-大作文-柱状图-mobile-phone-subscriptions-手�
 
 图表：Mobile-phone subscriptions (2000—2008)，横轴为年份 2000–2008，纵轴为订阅数（0–4 billion），白色柱=发展中国家，黑色柱=发达国家。
 
+
+
 任务点：
 
 - [x] 点明图表主题与时间跨度（手机订阅数，2000–2008）
