@@ -8,7 +8,7 @@ task: "2014 完形（肥胖与 BMI 定义之争）精读笔记"
 created_from: ".claude/workflows/cloze-note-generation/state-template.md"
 created_at: "2026-11-10"
 last_updated: "2026-11-10"
-current_phase: P0
+current_phase: P6
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -32,7 +32,7 @@ error_list_path: "完形错因清单.md"
 > 任务：2014 完形（肥胖与 BMI 定义之争）精读笔记
 > 运行标识：cloze-2014-obesity-20261110
 > 创建时间：2026-11-10
-> 当前阶段：阶段 0
+> 当前阶段：阶段 6
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -50,7 +50,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 已确认最终输出路径
 - [x] 已确认 `完形错因清单.md` 路径
 
-> [P0] 🔲 进行中 {in_progress}
+> [P0] ✅ 已完成 {complete}
 
 ---
 
@@ -63,7 +63,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 已确认英文正文未删改
 - [ ] 已确认标题格式适合 Obsidian
 
-> [P1] ⬜ 未开始 {not_started}
+> [P1] ✅ 已完成 {complete}
 
 ---
 
@@ -75,7 +75,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 段落与 `formatted-article.md` 一一对应
 - [ ] 已补充 `## 全篇译文要点`
 
-> [P2] ⬜ 未开始 {not_started}
+> [P2] ✅ 已完成 {complete}
 
 ---
 
@@ -87,7 +87,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 每个 `###` 标题已标注对应空号
 - [ ] 未做全文句法标注
 
-> [P3] ⬜ 未开始 {not_started}
+> [P3] ✅ 已完成 {complete}
 
 ---
 
@@ -100,7 +100,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 纯语法未混入本文件，已用 wikilink 指向 `语法总结笔记`
 - [ ] 每个以固定搭配为答案的空已列出并说明干扰项
 
-> [P4] ⬜ 未开始 {not_started}
+> [P4] ✅ 已完成 {complete}
 
 ---
 
@@ -114,7 +114,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 已写出 5-8 个重点错题深挖
 - [ ] 结构性失败的空已用 `analyze-sentence` 分析并留存
 
-> [P5] ⬜ 未开始 {not_started}
+> [P5] ✅ 已完成 {complete}
 
 ---
 
@@ -132,7 +132,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 表格前、`---` 前均有空行
 - [ ] 已做可见文本差集，无英文整段或整句丢失
 
-> [P6] ⬜ 未开始 {not_started}
+> [P6] 🔲 进行中 {in_progress}
 
 ---
 
