@@ -8,7 +8,7 @@ task: "2014 完形（肥胖与 BMI 定义之争）精读笔记"
 created_from: ".claude/workflows/cloze-note-generation/state-template.md"
 created_at: "2026-11-10"
 last_updated: "2026-11-10"
-current_phase: P6
+current_phase: P9
 current_status: in_progress
 mode: guided
 blocked_reason: ""
@@ -32,7 +32,7 @@ error_list_path: "完形错因清单.md"
 > 任务：2014 完形（肥胖与 BMI 定义之争）精读笔记
 > 运行标识：cloze-2014-obesity-20261110
 > 创建时间：2026-11-10
-> 当前阶段：阶段 6
+> 当前阶段：阶段 9
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -132,7 +132,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 表格前、`---` 前均有空行
 - [ ] 已做可见文本差集，无英文整段或整句丢失
 
-> [P6] 🔲 进行中 {in_progress}
+> [P6] ✅ 已完成 {complete}
 
 ---
 
@@ -144,7 +144,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 已补充短语内重要独立词条
 - [ ] 词汇占位符已消失
 
-> [P7] ⬜ 未开始 {not_started}
+> [P7] ✅ 已完成 {complete}
 
 ---
 
@@ -156,7 +156,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 已更新「按标签汇总」计数表
 - [ ] 未把逐空详解重复抄进清单
 
-> [P8] ⬜ 未开始 {not_started}
+> [P8] ✅ 已完成 {complete}
 
 ---
 
@@ -173,7 +173,7 @@ error_list_path: "完形错因清单.md"
 - [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
 - [ ] 已向用户报告两个根文件的更新内容
 
-> [P9] ⬜ 未开始 {not_started}
+> [P9] 🔲 进行中 {in_progress}
 
 ---
 

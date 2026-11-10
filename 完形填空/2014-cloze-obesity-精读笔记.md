@@ -365,7 +365,148 @@ Negative attitudes toward obesity, **【18 grounded】** in health concerns, hav
 
 ## 八、生词表
 
-<!-- VOCABULARY_SLOT -->
+### 主题词（肥胖与健康）
+
+| 词 / 词组 | 词性 | 中文 | 原文用法 |
+|---|---|---|---|
+| obesity | n. | 肥胖 | obesity turns out to be very difficult to define |
+| obese | adj. | 肥胖的 | is considered obese；qualify as obese |
+| overweight | adj. / n. | 超重的；超重者 | those who are overweight；the overweight |
+| normal-weight | adj. | 正常体重的 | normal-weight people are at higher risk |
+| body mass index (BMI) | n. | 体重指数 | defined in terms of body mass index |
+| body mass | n. | 体重（身体质量） | body mass divided by the square of height |
+| body fat | n. | 体脂 | less a matter of weight than body fat |
+| percentage body fat | n. | 体脂率 | their percentage body fat is low |
+| frame | n. | 骨架、体型 | someone with a small frame |
+| calcium deficiency | n. | 缺钙 | less likely to develop calcium deficiency |
+| sugary drinks | n. | 含糖饮料 | banned sugary drinks from its facilities |
+| disgrace | n. | 耻辱 | label obesity as a disgrace |
+| stereotype | n. | 刻板印象 | stereotypes associated with obesity |
+| bias | n. | 偏见 | harbor biases against the obese |
+| will power | n. | 意志力 | lack of will power |
+
+### 动词
+
+| 词 | 中文 | 原文用法 | 注意 |
+|---|---|---|---|
+| conclude | 得出结论 | studies have concluded that … | 后接 that 从句，主语常为研究、报告 |
+| define | 界定、定义 | difficult to define | define A in terms of B |
+| divide | 除以；划分 | divided by the square of height | divide A by B；divide into |
+| qualify | 符合标准、算得上 | qualify as obese | qualify as / for；qualified to do |
+| picture | 拍摄、描绘 | are pictured in the media | 及物动词，媒体语境 |
+| associate | 使关联 | stereotypes associated with obesity | be associated with |
+| harbor | 心怀（想法、偏见） | harbor biases against the obese | 本义"藏匿"，后接抽象名词 |
+| institute | 设立、推行 | have instituted weight loss initiatives | 动词义"开始实施" |
+| launch | 发起、推出 | launched a campaign | launch a campaign / product |
+| ban | 禁止 | banned sugary drinks | ban sth from a place |
+| label | 把……称为、贴标签 | label obesity as a disgrace | label sb/sth as sth |
+| tease | 取笑 | teasing about body build | tease sb about sth |
+| claim | 声称 | even claiming that it represents … | 后接 that 从句 |
+| represent | 代表、构成 | represents our greatest threat | 此处 = 构成 |
+| stimulate | 激发、催生 | have stimulated a number of policies | 可接抽象结果 |
+| ground | 使有根据 | grounded in health concerns | be grounded in |
+| consider | 认为 | is often considered to be normal weight | consider A (to be) B |
+| develop | 患上（疾病） | develop calcium deficiency | develop a disease |
+
+### 名词与形容词
+
+| 词 | 词性 | 中文 | 原文用法 |
+|---|---|---|---|
+| protective | adj. | 有保护作用的 | being overweight is actually protective |
+| indicator | n. | 指标 | an indicator of good health |
+| concern | n. | 担忧、关切 | Of even greater concern is the fact that … |
+| straightforward | adj. | 简单明了的 | such numerical standards seem straightforward |
+| numerical | adj. | 数字的 | numerical standards |
+| fit | adj. | 健壮的 | extremely fit |
+| collegiate | adj. | 大学的 | collegiate and professional football players |
+| conversely | adv. | 反过来 | Conversely, someone with a small frame … |
+| moderately | adv. | 中度地 | moderately obese |
+| severely | adv. | 严重地 | severely obese |
+| prospect | n. | 前景 | lower prospects for success |
+| initiative | n. | 倡议、计划 | weight loss and fitness initiatives |
+| high-visibility | adj. | 高关注度的 | a high-visibility campaign |
+| threat | n. | 威胁 | our greatest national security threat |
+| tendency | n. | 倾向 | have a tendency to label obesity … |
+| condition | n. | 病症、状况 | health conditions for which … |
+
+### 短语
+
+| 短语 | 中文 | 原文 |
+|---|---|---|
+| at higher risk of | 有更高的……风险 | at higher risk of some diseases |
+| compared to | 与……相比 | compared to those who are overweight |
+| be less likely to do | 更不可能做 | less likely to develop calcium deficiency |
+| be defined in terms of | 用……来界定 | defined in terms of body mass index |
+| in turn | 进而、依次 | Obesity, in turn, can be divided into … |
+| less a matter of A than B | 与其说是 A，不如说是 B | less a matter of weight than body fat |
+| be in poor shape | 身体状态差 | may be in poor shape |
+| qualify as | 符合……标准 | qualify as obese |
+| be pictured in the media | 被媒体拍到 | are sometimes pictured in the media |
+| with one's face covered | 脸被遮住 | with their faces covered |
+| be associated with | 与……相关 | Stereotypes associated with obesity |
+| harbor biases against | 对……怀有偏见 | harbor biases against the obese |
+| look down on | 看不起 | look down on the overweight |
+| be grounded in | 根植于、以……为基础 | grounded in health concerns |
+| campaign against | 反对……的运动 | a campaign against childhood obesity |
+| ban sth from | 禁止某物进入 | banned sugary drinks from its facilities |
+
+### 生词练习
+
+#### 一、选词填空
+
+词库：concluded / protective / indicator / concern / straightforward / qualify / tendency / pictured / grounded / against
+
+1. Studies have ______ that people who sleep less than six hours are at higher risk of heart disease.
+2. Moderate exercise is ______ against osteoporosis in older women.
+3. Rising blood pressure is often an ______ of stress rather than illness itself.
+4. Of even greater ______ is the fact that the disease has no cure.
+5. The rule looks ______, but applying it is another matter.
+6. Players with low body fat may still ______ as obese under the BMI standard.
+7. We have a ______ to judge others by their appearance.
+8. Overweight models are rarely ______ in fashion magazines.
+9. Her optimism is ______ in years of experience.
+10. The campaign ______ smoking has run for a decade.
+
+#### 二、短语翻译
+
+1. 用体重指数来界定肥胖
+2. 有更高的患病风险
+3. 依次分为三类
+4. 身体状态很差
+5. 符合肥胖的标准
+6. 与肥胖相关的刻板印象
+7. 对肥胖者怀有偏见
+8. 根植于健康担忧
+
+#### 三、语境理解
+
+1. `Thinner isn't always better.` 中的 better 具体指什么？作者为什么先说这一句？
+2. `Obesity is probably less a matter of weight than body fat.` 这句话在反驳什么？
+3. 作者为什么说 `numerical standards … are not` straightforward？用本篇两个例子说明。
+4. `with their faces covered` 这一细节说明了什么？
+5. 第 5 段的 policies 与第 4 段的 tendency 是什么关系？
+
+> [!success]- 参考答案
+> **一、选词填空**
+> 1. concluded　2. protective　3. indicator　4. concern　5. straightforward
+> 6. qualify　7. tendency　8. pictured　9. grounded　10. against
+>
+> **二、短语翻译**
+> 1. define obesity in terms of body mass index
+> 2. be at higher risk of some diseases
+> 3. be divided into three types in turn
+> 4. be in poor shape
+> 5. qualify as obese
+> 6. stereotypes associated with obesity
+> 7. harbor biases against the obese
+> 8. be grounded in health concerns
+>
+> **三、语境理解**
+> 1. better 指"更健康、更有利"。作者先立常识、再反转，为下文"超重反而有保护作用"腾出论证空间。
+> 2. 反驳用体重（以及 BMI 这套数字标准）判断肥胖；作者主张关键在体脂，体重只是表象。
+> 3. 因为 BMI 会把体脂率很低的大学与职业橄榄球运动员算成肥胖，又会给骨架小、体脂高的人贴上"正常"标签。
+> 4. 说明媒体把肥胖当作耻辱来呈现：即使报道也要遮住脸，是污名化的直接证据。
+> 5. 因果（并带递进）：社会性的污名态度催生了禁糖饮、健身计划、反肥胖运动等具体政策。
 
 ## 九、错因复盘
 
