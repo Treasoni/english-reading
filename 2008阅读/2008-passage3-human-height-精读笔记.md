@@ -986,7 +986,7 @@ Genetic maximums can change, but don't expect this to happen soon. Claire C. Gor
 
 - 复习人口统计与公共健康类文章中的因果表达：`as`、`because`、`result from`、`lead to`。
 - 对比阅读有关遗传、营养与环境影响的科普文章，关注作者如何区分**相关性**与**因果性**。
-- 可结合库内的 [[2008-passage3-human-height]]、[[语法总结笔记]] 和 [[固定搭配与词组笔记]] 进行复习；若对应笔记不存在，可在后续整理时建立。
+- 可结合库内的 [[2008-passage3-human-height]]、[[../语法总结笔记]] 和 [[../固定搭配与词组笔记]] 进行复习；若对应笔记不存在，可在后续整理时建立。
 
 ---
 
@@ -1004,5 +1004,5 @@ Genetic maximums can change, but don't expect this to happen soon. Claire C. Gor
 
 - [[2008-passage3-human-height]]
 - [[英语阅读精读方法]]
-- [[语法总结笔记]]
-- [[固定搭配与词组笔记]]
+- [[../语法总结笔记]]
+- [[../固定搭配与词组笔记]]

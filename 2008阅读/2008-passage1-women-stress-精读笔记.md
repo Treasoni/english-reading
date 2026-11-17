@@ -13,9 +13,9 @@ updated: 2026-08-13
 sources:
   - 2008年考研英语阅读 Passage 1
 related:
-  - "[[intermediate/2008-passage1-women-stress/formatted-article]]"
-  - "[[intermediate/2008-passage1-women-stress/translation]]"
-  - "[[intermediate/2008-passage1-women-stress/grammar-notes]]"
+  - "[[../intermediate/2008-passage1-women-stress/formatted-article]]"
+  - "[[../intermediate/2008-passage1-women-stress/translation]]"
+  - "[[../intermediate/2008-passage1-women-stress/grammar-notes]]"
 ---
 
 # Women under Stress: Gender Differences in Stress Response 精读笔记
@@ -654,7 +654,7 @@ Not everyone experiences the kinds of severe chronic stresses Alvarez describes.
 > 剪发修车找人做（**代劳**），手机被偷遭了秧（**遭遇**），任务搞定结果好（**完成**）！
 
 > [!note] 联动复习
-> 本文第 2 段即出现使役结构：*when stressed-out female rats had their **ovaries** removed* —— "切除卵巢"的动作由科学家执行，rats 是"遭受/被做"的一方。可与 [[#语态：使役结构 have/get sth done|语态：使役结构]] 对照复习。
+> 本文第 2 段即出现使役结构：*when stressed-out female rats had their **ovaries** removed* —— "切除卵巢"的动作由科学家执行，rats 是"遭受/被做"的一方。可与 [[2008-passage1-women-stress-精读笔记#语态：使役结构 have/get sth done|语态：使役结构]] 对照复习。
 
 ---
 
@@ -690,7 +690,7 @@ Not everyone experiences the kinds of severe chronic stresses Alvarez describes.
 > - **such a nice day** — a 放在 **such 后、形容词前**
 
 > [!note] 联动复习
-> 本文第 3 段即出现该结构：*it's just that they're dealing with so many more things **that** they become **worn out**...* —— so...that 结果状语从句与 [[#固定搭配：wear out|wear out]] 出现在同一句中，可联动复习。
+> 本文第 3 段即出现该结构：*it's just that they're dealing with so many more things **that** they become **worn out**...* —— so...that 结果状语从句与 [[2008-passage1-women-stress-精读笔记#固定搭配：wear out|wear out]] 出现在同一句中，可联动复习。
 
 ---
 
@@ -722,7 +722,7 @@ Not everyone experiences the kinds of severe chronic stresses Alvarez describes.
 | 不及物用法（物自然磨损） | **Sth wears out**（物作主语，自带被动含义） | Cheap shoes **wear out** quickly. → 便宜的鞋子磨损得快。 |
 
 > [!note] 联动复习
-> 本文第 4 段出现同根词 **wear-and-tear**（磨损、消耗）：*The **wear-and-tear** that comes from these longer relationships can be quite devastating.* 与 [[#语态：使役结构 have/get sth done|使役结构]]、[[#从句：结果状语从句 so/such...that|so...that 结果状语]] 同篇出现，可串联复习。
+> 本文第 4 段出现同根词 **wear-and-tear**（磨损、消耗）：*The **wear-and-tear** that comes from these longer relationships can be quite devastating.* 与 [[2008-passage1-women-stress-精读笔记#语态：使役结构 have/get sth done|使役结构]]、[[2008-passage1-women-stress-精读笔记#从句：结果状语从句 so/such...that|so...that 结果状语]] 同篇出现，可串联复习。
 
 ---
 
@@ -890,8 +890,8 @@ Not everyone experiences the kinds of severe chronic stresses Alvarez describes.
 
 ### 推荐后续阅读
 
-- [[2007阅读/2007-passage3-middle-class-family-risk-精读笔记|2007 Passage 3 中产阶级家庭风险]]（同为"压力 / 风险"主题）
-- [[2007阅读/2007-passage2-intelligence-精读笔记|2007 Passage 2 智力]]（同为解释型议论文）
+- [[../2007阅读/2007-passage3-middle-class-family-risk-精读笔记|2007 Passage 3 中产阶级家庭风险]]（同为"压力 / 风险"主题）
+- [[../2007阅读/2007-passage2-intelligence-精读笔记|2007 Passage 2 智力]]（同为解释型议论文）
 
 ### 补充资源
 
@@ -936,8 +936,8 @@ Not everyone experiences the kinds of severe chronic stresses Alvarez describes.
 
 ## 相关笔记
 
-- [[2007阅读/2007-passage3-middle-class-family-risk-精读笔记|2007 Passage 3 中产阶级家庭风险]]
-- [[2007阅读/2007-passage2-intelligence-精读笔记|2007 Passage 2 智力]]
-- [[语法总结笔记]]
-- [[固定搭配与词组笔记]]
-- [[阅读心得]]
+- [[../2007阅读/2007-passage3-middle-class-family-risk-精读笔记|2007 Passage 3 中产阶级家庭风险]]
+- [[../2007阅读/2007-passage2-intelligence-精读笔记|2007 Passage 2 智力]]
+- [[../语法总结笔记]]
+- [[../固定搭配与词组笔记]]
+- [[../阅读心得]]

@@ -1,7 +1,7 @@
 # 技能调用指南
 
 ## 技能列表
-<!-- skill-registry:managed ["add-reading-tip","analyze-sentence","compile-note","defuddle","digest","extract-vocabulary","format-article","generate-cloze-note","generate-reading-note","grade-essay","json-canvas","maintain-learnings","manifest-platform","obsidian-bases","obsidian-cli","obsidian-markdown","organize-grammar","prompt-cache-optimizer","security-secret-audit","summarize-grammar","sync-skill-registry","translate","vocab-diff","workflow-todo-state"] -->
+<!-- skill-registry:managed ["add-reading-tip","analyze-sentence","compile-note","defuddle","digest","extract-vocabulary","format-article","generate-cloze-note","generate-reading-note","grade-essay","grade-translation","json-canvas","maintain-learnings","manifest-platform","obsidian-bases","obsidian-cli","obsidian-markdown","organize-grammar","prompt-cache-optimizer","security-secret-audit","summarize-grammar","sync-skill-registry","translate","vocab-diff","workflow-todo-state"] -->
 
 #### 语法与词汇
 
@@ -16,6 +16,7 @@
 | 技能 | 触发场景 | 关键触发词 |
 |------|----------|-----------|
 | `grade-essay` | 批改考研英语二作文：手写图片或文本转写确认、任务点核对、结构分析、按官方评分标准定档打分、双版本改稿、提分路径与跨篇错因累积。 | 作文批改、批改作文、作文打分、作文评分、英语二作文、大作文、小作文、图表作文、作文提分、二稿对比 |
+| `grade-translation` | 批改考研英语（二）英译汉：图片转写确认、练习性估分、逐句诊断、改译与跨篇错因追踪。 | 翻译批改、批改英语二翻译、英语二翻译打分、翻译估分、二稿复批 |
 
 #### 学习工作流
 

@@ -624,8 +624,8 @@ This is now changing. According to the OECD report, some $75\%$ of scholarly jou
 
 ## 延伸
 
-- [[阅读心得]]：记录科技类文章中的主旨判断和转折识别技巧。
-- [[语法总结笔记]]：复习时间状语从句、非谓语结构和定语从句。
+- [[../阅读心得]]：记录科技类文章中的主旨判断和转折识别技巧。
+- [[../语法总结笔记]]：复习时间状语从句、非谓语结构和定语从句。
 - 相关主题：开放获取（open access）、学术期刊商业模式、科研成果传播、同行评审制度。
 
 建议继续整理同类科技类阅读文章，重点比较其常见论证结构：**传统模式 → 新变化 → 具体分类 → 潜在影响**。
@@ -653,5 +653,5 @@ This is now changing. According to the OECD report, some $75\%$ of scholarly jou
 ## 相关笔记
 
 - [[2008-passage2-scientific-publishing-精读笔记]]
-- [[语法总结笔记]]
-- [[固定搭配与词组笔记]]
+- [[../语法总结笔记]]
+- [[../固定搭配与词组笔记]]

@@ -1,7 +1,7 @@
 ---
-title: "George Washington, Slavery, and the Founding Fathers 英语精读笔记"
+title: George Washington, Slavery, and the Founding Fathers 英语精读笔记
 type: study-note
-topic: "2008-passage4-topic"
+topic: 2008-passage4-topic
 tags:
   - english-reading
   - intensive-reading
@@ -11,10 +11,10 @@ difficulty: intermediate
 created: 2026-08-22
 updated: 2026-08-22
 sources:
-  - "/Users/zhqznc/Documents/英语阅读资料/2008阅读/passage_4.md"
-  - "[[intermediate/2008-passage4-topic/formatted-article.md]]"
-  - "[[intermediate/2008-passage4-topic/translation.md]]"
-  - "[[intermediate/2008-passage4-topic/grammar-notes.md]]"
+  - /Users/zhqznc/Documents/英语阅读资料/2008阅读/passage_4.md
+  - "[[../intermediate/2008-passage4-topic/formatted-article]]"
+  - "[[../intermediate/2008-passage4-topic/translation]]"
+  - "[[../intermediate/2008-passage4-topic/grammar-notes]]"
 ---
 
 # George Washington, Slavery, and the Founding Fathers 精读笔记
@@ -659,7 +659,7 @@ Only when you finish your homework | can you go out to play.
 ```
 
 > [!note] **与本文例句联动**
-> `And only over the past 30 years have scholars examined history from the bottom up.` 使用的是 `Only + 时间状语` 置于句首，主句部分倒装；可结合 [[intermediate/2008-passage4-topic/formatted-article.md]] 中的长难句分析复习。
+> `And only over the past 30 years have scholars examined history from the bottom up.` 使用的是 `Only + 时间状语` 置于句首，主句部分倒装；可结合 [[../intermediate/2008-passage4-topic/formatted-article]] 中的长难句分析复习。
 
 ### 避坑：Only + 主语不倒装
 
@@ -862,7 +862,7 @@ flowchart TD
 
 ## 延伸
 
-- 复习 [[intermediate/2008-passage4-topic/grammar-notes.md]] 中的部分倒装、`Hardly...when...` 和 `No sooner...than...`。
+- 复习 [[../intermediate/2008-passage4-topic/grammar-notes]] 中的部分倒装、`Hardly...when...` 和 `No sooner...than...`。
 - 对比学习美国早期政治中的**奴隶制、宪法妥协与联邦制度**。
 - 继续积累历史议论文中的评价词：`moral compromise`、`political bedrock`、`fragile nature`、`privately express distaste`。
 - 可进一步阅读关于美国建国先贤、奴隶制和废奴运动的英文历史短文，训练复杂背景下的作者态度判断。
@@ -881,6 +881,6 @@ flowchart TD
 
 ## 相关笔记
 
-- [[intermediate/2008-passage4-topic/formatted-article.md]]
-- [[intermediate/2008-passage4-topic/translation.md]]
-- [[intermediate/2008-passage4-topic/grammar-notes.md]]
+- [[../intermediate/2008-passage4-topic/formatted-article]]
+- [[../intermediate/2008-passage4-topic/translation]]
+- [[../intermediate/2008-passage4-topic/grammar-notes]]

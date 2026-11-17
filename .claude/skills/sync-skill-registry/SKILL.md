@@ -63,3 +63,4 @@ python3 skills/sync-skill-registry/scripts/sync_skill_registry.py --root /path/t
 - 不创建或删除任何 SKILL.md 文件
 - 支持 `--profile codex|claude|generic`，也支持 `--skills-dir` 与 `--registry-file` 完全自定义路径
 - 同步 `--dry-run` 预览变更，确认后再应用
+- **新增数量硬停**：注册表已有条目时，一次新增超过 `--max-additions`（默认 3）即退出码 2，不写入。dry-run 同样硬停。先核对增删清单；「新增数量 ≫ 本次改动数量」说明扫进了宿主机无关技能，改手工编辑 `skill-registry:managed` 与对应表格行，不要加 `--allow-bulk-add` 强行写入。

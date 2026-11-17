@@ -382,6 +382,17 @@ def parse_args(argv=None):
         help="仅预览变更，不写入文件",
     )
     parser.add_argument(
+        "--max-additions",
+        type=int,
+        default=3,
+        help="允许一次写入的新增技能上限。新增数超过该值时拒绝写入，需先核对扫描目录。",
+    )
+    parser.add_argument(
+        "--allow-bulk-add",
+        action="store_true",
+        help="确认本次大量新增是预期操作后，跳过新增数量硬停。",
+    )
+    parser.add_argument(
         "--verbose",
         action="store_true",
         help="输出详细调试信息",
@@ -503,6 +514,17 @@ def main():
     added_names = set(managed_skills.keys()) - existing_names
     if added_names:
         print(f"  新增 {len(added_names)} 个条目: {', '.join(sorted(added_names))}")
+    if (
+        existing_rows
+        and not args.allow_bulk_add
+        and len(added_names) > args.max_additions
+    ):
+        print(
+            f"\nError: 新增 {len(added_names)} 个技能，超过 --max-additions {args.max_additions}。"
+            "扫描目录可能包含本仓库不管理的技能，已拒绝写入。"
+        )
+        print("先核对增删清单。若本次大量新增是预期操作，显式加上 --allow-bulk-add 后再写入。")
+        return 2
 
     # Step 7: Build category order from existing tables
     seen_categories = []
