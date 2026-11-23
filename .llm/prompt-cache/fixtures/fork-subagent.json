@@ -1,0 +1,24 @@
+[
+  {
+    "role": "read-only inventory reviewer",
+    "task": "Check the P1 draft for source completeness.",
+    "scope": "One formatted passage; read-only.",
+    "write_scope": "none",
+    "article_topic": "teacher-shortage",
+    "input_reference": "intermediate/regression-sample/formatted-article.md",
+    "current_phase": "P1",
+    "quality_requirements": "Identify missing English text without returning the full article.",
+    "concurrency_note": "none"
+  },
+  {
+    "role": "translation drafter",
+    "task": "Draft the bilingual translation for this passage only.",
+    "scope": "One article; P2 translation only.",
+    "write_scope": "intermediate/phonetics-sample/translation.md",
+    "article_topic": "phonetics-sample",
+    "input_reference": "intermediate/phonetics-sample/formatted-article.md",
+    "current_phase": "P2",
+    "quality_requirements": "Preserve paragraph boundaries and every English paragraph.",
+    "concurrency_note": "lane 2"
+  }
+]

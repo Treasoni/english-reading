@@ -1,38 +1,26 @@
 # Prompt Cache Measurement
 
-将本目录的 `llm-usage-event.schema.json` 复制到目标项目的 `.llm/prompt-cache/`，并让每次 LLM 调用产生一条符合该 schema 的事件。推荐将事件写入项目已有的结构化日志系统；没有日志系统时，可以写入已被 `.gitignore` 排除的本地 JSONL 文件。
+使用技能的 `assets/llm-usage-event.schema.json` 作为 `.llm/prompt-cache/` 的事件合同，优先复用项目已有的结构化日志；否则写入被 `.gitignore` 排除的本地 JSONL。
 
-## Required Fields
+## Usage Events
 
-每条调用至少记录：
+- 记录调用时间、真实的 `request_type`、`template_id`、`template_version`、实际模型、输入/输出 token 和每次请求的实测延迟。只有转写时间戳时，不能用距最近用户消息的时间冒充请求延迟；关键词推断出的标签也不是模板基线。
+- 缓存字段仅在提供方返回时记录；缺字段不是零。费用只用提供方返回值或有文档依据的统一费率估算。
+- 不记录原始用户输入、完整提示词、模型输出、密钥或个人数据。`input_reference` 只使用脱敏路径、fixture ID 或内容哈希。
 
-- `request_type`：业务调用类型，例如 `answer_question`、`summarize_document`。
-- `template_id` 与 `template_version`：稳定模板的身份与版本。
-- `model`：实际模型标识。
-- `input_tokens`、`output_tokens`、`latency_ms`。
-- `cache_read_tokens`、`cache_write_tokens`：提供方返回时记录；不支持时可省略，不能编造为零。
-- `input_tokens` 语义因提供方而异：Anthropic 原生为本次请求的完整输入；部分网关/代理只记**未命中缓存的新增部分**，此时总输入需按 `input_tokens + cache_read_tokens` 折算（见 Cache Rate）。
-- `cost_usd`：提供方返回或按项目统一费率估算时记录，并注明估算方式。
+## Cache Read Share
 
-不要记录原始用户输入、完整提示词、模型输出、密钥或个人数据。使用安全的文件路径、fixture ID 或内容哈希填入 `input_reference`。
+先按实际提供方或网关的文档确认字段语义，再对每条记录换算总输入：
 
-## Cache Rate
+| `input_tokens` 口径 | 单次总输入 |
+| --- | --- |
+| 未缓存余量，不含读取和写入（Anthropic 原生；两种缓存字段互斥于余量） | `input_tokens + cache_read_tokens + cache_write_tokens` |
+| 未命中读取的总数，已含写入（由提供方确认） | `input_tokens + cache_read_tokens` |
+| 完整输入，已含缓存读取与写入（由提供方确认） | `input_tokens` |
 
-先确认提供方返回的字段语义，再决定公式：
+例如 Anthropic 原生的余量 200、读取 700、写入 100，对应总输入 1,000，缓存读取占比 70%。不要因为 `cache_read_tokens > input_tokens` 就反推网关口径；它只说明该记录不能按完整输入口径解释。
 
-- **Anthropic 原生语义**：`input_tokens` 是本次请求的完整输入，且 `cache_read_tokens ≤ input_tokens`。
-- **网关/代理语义**（如经 DeepSeek 等兼容接口中转时常见）：`input_tokens` 可能只记**未命中缓存的新增部分**，`cache_read_tokens` 记命中缓存的部分。此时本次请求总输入 = `input_tokens + cache_read_tokens`。
-
-按同一 `request_type + template_id + template_version + model` 分组计算命中率：
-
-```text
-total_input = sum(input_tokens + cache_read_tokens)
-cache_rate  = sum(cache_read_tokens) / total_input
-```
-
-若提供方返回的是单一完整输入口径（无拆分），可直接用 `cache_read_rate = sum(cache_read_tokens) / sum(input_tokens)`，结果必然 `≤ 1`。任何 `cache_rate > 1` 的结果都说明公式与字段语义不匹配——先核对字段来源，改用上面的拆分口径重算，不要直接把这个数值当命中率上报。
-
-这不是所有平台的官方“缓存命中率”定义，但适合作为同项目内的趋势指标。模型、工具定义或模板版本发生变化时，应分组比较，不能混在同一基线中。
+按同一提供方/网关、字段口径、`request_type`、`template_id`、`template_version` 和模型分组，计算 `sum(cache_read_tokens) / sum(总输入 token)`。这是 token 加权读取占比，不是有缓存命中的请求占比。缺少换算所需字段、口径未确认、总输入为零或结果超出 `[0, 1]` 的记录不纳入占比，并报告覆盖率。不要用只有关键词标签的历史日志做模板级前后对照。
 
 ## Regression Cases
 
