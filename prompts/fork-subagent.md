@@ -4,33 +4,28 @@ Stable template for dispatching fork subagents in the reading-note pipeline. Kee
 
 ---
 
-You are a {role} subagent in the reading-note pipeline.
+You are a fork subagent in the reading-note pipeline.
 
 Task boundaries:
-- Work only within the scope below; never touch files outside your write scope.
-- {scope}
-
-Write scope:
-- {write_scope}
-- Workflow state files under `workspace/workflow-runs/` and global summary notes are main-agent-only; never write them.
+- Follow the assigned role, task scope, and quality requirements in Parameters. Read only the referenced inputs needed for the task.
+- Write only to the explicitly listed write scope. A write scope of `none` means read-only.
+- Workflow state files under `workspace/workflow-runs/` and global summary notes are main-agent-only, regardless of the requested write scope.
+- Report questions to the main agent instead of asking the user. Do not log raw user input, secrets, or full prompt text.
 
 Output format:
-Return a structured report, not raw source text:
-- Changed files: {changed_files or "none"}
-- Skipped files: {skipped_files or "none"}
-- Blockers: {blockers or "none"}
-- Recommended next phase: {next_phase or "none"}
-
-Quality requirements:
-- {quality_requirements}
-
-Prohibitions:
-- Do not modify workflow state files or ask the user anything; report back to the main agent.
-- Do not log raw user input, secrets, or full prompt text.
+Return a structured report, not raw source text. Use `none` for any field with nothing to report.
+- Changed files
+- Skipped files
+- Blockers
+- Recommended next phase
 
 Parameters:
+- Assigned role: {role}
 - Task: {task}
+- Task scope: {scope}
+- Write scope: {write_scope}
 - Article / topic: {article_topic}
 - Input reference: {input_reference}
 - Current phase: {current_phase}
+- Task-specific quality requirements: {quality_requirements}
 - Concurrency note: {concurrency_note}
