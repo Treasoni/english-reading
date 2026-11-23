@@ -1,6 +1,7 @@
 {
   "version": "1",
-  "description": "Representative, stable, sanitized regression cases for the vault's high-frequency reading-note pipeline skills. Fixtures live under .llm/prompt-cache/fixtures/. Baselines are null until first measured run.",
+  "description": "Sanitized regression cases for the reading-note pipeline. Resolve fixture paths relative to this file. Cases with no mode are model replays: run in a fresh scratch workspace outside the Vault, not against learning notes. Save any prerequisite outputs and reuse identical copies on both sides of a comparison. Baselines remain null until measured.",
+  "offline_check": "python3 -I .llm/prompt-cache/check-regression.py",
   "cases": [
     {
       "id": "skill-format-article-v1",
@@ -11,7 +12,8 @@
       "input_fixture": "fixtures/reading-passage.md",
       "parameters": {
         "topic": "regression-sample",
-        "source": "fixtures/reading-passage.md"
+        "source": "fixtures/reading-passage.md",
+        "output_dir": "intermediate/regression-sample"
       },
       "quality_checks": [
         "Every sentence of the source passage is preserved verbatim; nothing removed or added.",
@@ -29,11 +31,11 @@
       }
     },
     {
-      "id": "skill-translate-v1",
+      "id": "skill-translate-new",
       "enabled": true,
       "request_type": "translate",
       "template_id": "skill:translate",
-      "template_version": "v1",
+      "template_version": "v2",
       "input_fixture": "fixtures/reading-passage.md",
       "parameters": {
         "topic": "regression-sample",
@@ -56,15 +58,49 @@
       }
     },
     {
+      "id": "skill-translate-update",
+      "enabled": true,
+      "request_type": "translate",
+      "template_id": "skill:translate",
+      "template_version": "v2",
+      "input_fixture": "fixtures/reading-passage.md",
+      "setup": {
+        "copy_fixtures": {
+          "intermediate/regression-sample/translation.md": "fixtures/translation-seed.md"
+        }
+      },
+      "parameters": {
+        "topic": "regression-sample",
+        "source": "fixtures/reading-passage.md",
+        "output_dir": "intermediate/regression-sample",
+        "source_already_loaded": true
+      },
+      "quality_checks": [
+        "Supply the complete, current source once before invoking the skill. Do not reread the source or ask for the confirmed output directory.",
+        "Preserve the first Chinese paragraph verbatim; retranslate paragraph two with one in five, not one in four; translate new paragraph three.",
+        "Preserve all three current English paragraphs in order and keep the seed's created date.",
+        "Report one unchanged, one retranslated, and one new paragraph."
+      ],
+      "baseline": {
+        "input_tokens": null,
+        "cache_read_tokens": null,
+        "output_tokens": null,
+        "latency_ms": null,
+        "cost_usd": null,
+        "quality_score": null
+      }
+    },
+    {
       "id": "skill-organize-grammar-v1",
       "enabled": true,
       "request_type": "organize_grammar",
       "template_id": "skill:organize-grammar",
       "template_version": "v1",
-      "input_fixture": "fixtures/reading-passage.md",
+      "input_fixture": "fixtures/grammar-input.md",
       "parameters": {
         "topic": "regression-sample",
-        "source": "fixtures/reading-passage.md"
+        "source": "fixtures/grammar-input.md",
+        "output_dir": "intermediate/regression-sample"
       },
       "quality_checks": [
         "Grammar points are grouped into flat '### 从句：定语从句' style headings, not nested '####' sub-entries.",
@@ -88,7 +124,13 @@
       "template_id": "skill:analyze-sentence",
       "template_version": "v1",
       "input_fixture": "fixtures/reading-passage.md",
+      "setup": {
+        "copy_fixtures": {
+          "intermediate/regression-sample/formatted-article.md": "fixtures/reading-passage.md"
+        }
+      },
       "parameters": {
+        "source_path": "intermediate/regression-sample/formatted-article.md",
         "sentences": [
           "The problem of teacher shortage has become more acute as school districts across the country struggle to fill classrooms with qualified instructors.",
           "Teachers, who once enjoyed considerable autonomy in the classroom, now find themselves accountable to standardized tests, parental demands, and administrative oversight."
@@ -116,6 +158,13 @@
       "template_id": "skill:compile-note",
       "template_version": "v1",
       "input_fixture": "fixtures/reading-passage.md",
+      "setup": {
+        "prerequisite_cases": {
+          "intermediate/regression-sample/formatted-article.md": "skill-analyze-sentence-v1",
+          "intermediate/regression-sample/translation.md": "skill-translate-new",
+          "intermediate/regression-sample/grammar-notes.md": "skill-organize-grammar-v1"
+        }
+      },
       "parameters": {
         "topic": "regression-sample",
         "intermediate_dir": "intermediate/regression-sample",
@@ -142,7 +191,12 @@
       "request_type": "extract_vocabulary",
       "template_id": "skill:extract-vocabulary",
       "template_version": "v1",
-      "input_fixture": "fixtures/reading-passage.md",
+      "input_fixture": "fixtures/marked-note.md",
+      "setup": {
+        "copy_fixtures": {
+          "regression-sample-精读笔记.md": "fixtures/marked-note.md"
+        }
+      },
       "parameters": {
         "note_path": "regression-sample-精读笔记.md"
       },
@@ -160,6 +214,24 @@
         "cost_usd": null,
         "quality_score": null
       }
+    },
+    {
+      "id": "fork-subagent-prefix",
+      "enabled": true,
+      "mode": "offline",
+      "request_type": "fork_subagent",
+      "template_id": "prompt:fork-subagent",
+      "template_version": "v2",
+      "input_fixture": "fixtures/fork-subagent.json",
+      "parameters": {
+        "template_path": "prompts/fork-subagent.md"
+      },
+      "quality_checks": [
+        "The fixed prefix contains no substitution fields.",
+        "Both dispatches provide exactly the required fields, with no unreplaced placeholders.",
+        "Rendered bytes through the Parameters heading are identical, and rendered suffixes differ."
+      ],
+      "baseline": null
     }
   ]
 }
