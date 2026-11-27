@@ -8,10 +8,10 @@ task: "2014 年 Passage 2 精读"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-11-27"
 last_updated: "2026-11-27"
-current_phase: P4
-current_status: blocked
+current_phase: P5
+current_status: in_progress
 mode: guided
-blocked_reason: "等待用户确认长难句候选（Passage 1：A1–A6；Passage 2：B1–B7）"
+blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_2.md"
 year: "2014"
 passage: "2"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：2014 年 Passage 2 精读
 > 运行标识：reading-note-2014-passage2-self-enhancement
 > 创建时间：2026-11-27
-> 当前阶段：阶段 4
+> 当前阶段：阶段 5
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -83,9 +83,12 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 - [x] 已从 `formatted-article.md` 选出候选长难句
 - [x] 已说明每个候选句的分析价值
-- [ ] 已获得用户确认、删改或补充
+- [x] 已获得用户确认、删改或补充
+- 用户确认：全部分析。
 
 ### 候选句（待用户确认）
+
+下列原句已全部确认。
 
 - **B1**（第 1 段）Social psychologists have amassed oceans of research into what they call the “above average effect”, or “illusory superiority”, and shown that, for example, 70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others—all obviously statistical impossibilities.
   - 分析价值：并列谓语、what 结构与百分比并列省略。
@@ -108,7 +111,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - **B7**（第 5 段）It's not that people's profiles are dishonest, says Catalina Toma of Wisconsin-Madison University, "but they portray an idealised version of themselves."
   - 分析价值：引语归属打断 not that … but … 的语义对照。
 
-> [P4] 🔲 进行中 {blocked}
+> [P4] ✅ 已完成 {complete}
 
 ---
 
@@ -121,7 +124,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已确认 callout 内表格前有空行
 - [ ] 已检查后续段落没有异常开头
 
-> [P5] ⬜ 未开始 {not_started}
+> [P5] 🔲 进行中 {in_progress}
 
 ---
 

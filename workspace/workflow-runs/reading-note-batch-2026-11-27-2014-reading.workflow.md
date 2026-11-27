@@ -8,10 +8,10 @@ task: "2014 年 Passage 1 与 Passage 2 精读"
 created_from: ".claude/workflows/reading-note-batch-generation/state-template.md"
 created_at: "2026-11-27"
 last_updated: "2026-11-27"
-current_phase: P4
-current_status: blocked
+current_phase: P5
+current_status: in_progress
 mode: batch
-blocked_reason: "等待用户确认长难句候选（Passage 1：A1–A6；Passage 2：B1–B7）"
+blocked_reason: ""
 batch_id: "2026-11-27-2014-reading"
 source_set:
   - "/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_1.md"
@@ -30,7 +30,7 @@ global_updates: "更新语法与固定搭配汇总"
 > 任务：2014 年 Passage 1 与 Passage 2 精读
 > 批次：2026-11-27-2014-reading
 > 创建时间：2026-11-27
-> 当前阶段：阶段 4
+> 当前阶段：阶段 5
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -68,13 +68,15 @@ global_updates: "更新语法与固定搭配汇总"
 
 ## 阶段 4：人工确认关口
 
-> [P4] 🔲 进行中 {blocked}
+- 用户确认全部分析：Passage 1 A1–A6；Passage 2 B1–B7。
+
+> [P4] ✅ 已完成 {complete}
 
 ---
 
 ## 阶段 5：串行写入与整合
 
-> [P5] ⬜ 未开始 {not_started}
+> [P5] 🔲 进行中 {in_progress}
 
 ---
 
@@ -100,8 +102,8 @@ global_updates: "更新语法与固定搭配汇总"
 
 | 状态 | Source | Year | Passage | Topic | Single Run | Final Note | Notes |
 |------|--------|------|---------|-------|------------|------------|-------|
-| needs_confirmation | `/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_1.md` | 2014 | 1 | happy-money | `workspace/workflow-runs/reading-note-2014-passage1-happy-money.workflow.md` | `2014-passage1-happy-money-精读笔记.md` | 中间目录 `intermediate/2014-passage1-happy-money/`；含 21–25 题，无答案键 |
-| needs_confirmation | `/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_2.md` | 2014 | 2 | self-enhancement | `workspace/workflow-runs/reading-note-2014-passage2-self-enhancement.workflow.md` | `2014-passage2-self-enhancement-精读笔记.md` | 中间目录 `intermediate/2014-passage2-self-enhancement/`；含 26–30 题，无答案键 |
+| confirmed | `/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_1.md` | 2014 | 1 | happy-money | `workspace/workflow-runs/reading-note-2014-passage1-happy-money.workflow.md` | `2014-passage1-happy-money-精读笔记.md` | 中间目录 `intermediate/2014-passage1-happy-money/`；含 21–25 题，无答案键 |
+| confirmed | `/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_2.md` | 2014 | 2 | self-enhancement | `workspace/workflow-runs/reading-note-2014-passage2-self-enhancement.workflow.md` | `2014-passage2-self-enhancement-精读笔记.md` | 中间目录 `intermediate/2014-passage2-self-enhancement/`；含 26–30 题，无答案键 |
 
 ---
 

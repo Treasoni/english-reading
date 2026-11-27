@@ -8,10 +8,10 @@ task: "2014 年 Passage 1 精读"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-11-27"
 last_updated: "2026-11-27"
-current_phase: P4
-current_status: blocked
+current_phase: P5
+current_status: in_progress
 mode: guided
-blocked_reason: "等待用户确认长难句候选（Passage 1：A1–A6；Passage 2：B1–B7）"
+blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_1.md"
 year: "2014"
 passage: "1"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：2014 年 Passage 1 精读
 > 运行标识：reading-note-2014-passage1-happy-money
 > 创建时间：2026-11-27
-> 当前阶段：阶段 4
+> 当前阶段：阶段 5
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -83,9 +83,12 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 - [x] 已从 `formatted-article.md` 选出候选长难句
 - [x] 已说明每个候选句的分析价值
-- [ ] 已获得用户确认、删改或补充
+- [x] 已获得用户确认、删改或补充
+- 用户确认：全部分析。
 
 ### 候选句（待用户确认）
+
+下列原句已全部确认。
 
 - **A1**（第 1 段）This is now a question for Gloria MacKenzie, an 84-year-old widow who recently emerged from her small, tin-roofed house in Florida to collect the biggest undivided lottery jackpot in history.
   - 分析价值：同位语、定语从句与目的不定式。
@@ -105,7 +108,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - **A6**（第 4 段）Not everyone will agree with the authors' policy ideas, which range from mandating more holiday time to reducing tax incentives for American homebuyers.
   - 分析价值：部分否定、非限制性定语从句与 from … to …。
 
-> [P4] 🔲 进行中 {blocked}
+> [P4] ✅ 已完成 {complete}
 
 ---
 
@@ -118,7 +121,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已确认 callout 内表格前有空行
 - [ ] 已检查后续段落没有异常开头
 
-> [P5] ⬜ 未开始 {not_started}
+> [P5] 🔲 进行中 {in_progress}
 
 ---
 
