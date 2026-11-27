@@ -443,7 +443,7 @@ Readers of Happy Money are clearly a privileged lot, anxious about fulfilment, n
 
 | 词汇 | 词性 | 含义 | 原文例句 |
 | --- | --- | --- | --- |
-| **a whopping** | det. phr. | 多达；竟有（强调数字很大） | This slim volume is packed with tips to help wage slaves as well as lottery winners get the most “happiness bang for your buck.” It seems most people would be better off if they could shorten their commutes to work, spend more time with friends and family and less of it watching television (something the average American spends **a whopping** two months a year doing, and is hardly jollier for it). |
+| **a whopping** | 数量表达：`a whopping + 数量` | 多达；竟有（强调数字很大） | This slim volume is packed with tips to help wage slaves as well as lottery winners get the most “happiness bang for your buck.” It seems most people would be better off if they could shorten their commutes to work, spend more time with friends and family and less of it watching television (something the average American spends **a whopping** two months a year doing, and is hardly jollier for it). |
 | **bang for your buck** | idiom | 花这笔钱所得到的回报 | This slim volume is packed with tips to help wage slaves as well as lottery winners get the most “happiness **bang for your buck**.” It seems most people would be better off if they could shorten their commutes to work, spend more time with friends and family and less of it watching television (something the average American spends a whopping two months a year doing, and is hardly jollier for it). |
 | **better off** | adj. phr. | 处境更好；过得更好 | This slim volume is packed with tips to help wage slaves as well as lottery winners get the most “happiness bang for your buck.” It seems most people would be **better off** if they could shorten their commutes to work, spend more time with friends and family and less of it watching television (something the average American spends a whopping two months a year doing, and is hardly jollier for it). |
 | **come away** | phr. v. | 离开；本文指读完后带着某种感受或看法 | But most people will **come away** from this book believing it was money well spent. |
@@ -517,7 +517,7 @@ Readers of Happy Money are clearly a privileged lot, anxious about fulfilment, n
 ## 心得
 
 > [!tip] 阅读策略
-> 遇到产品或人物举例，先向前找它解释的观点。作者不完全认同政策，并不妨碍他推荐这本书；做态度题要分清评价对象。
+> 遇到产品或人物举例，先向前找它解释的观点。书评指出并非人人都会赞同两位著者的政策建议，但对全书的评价仍是正面的；做态度题要分清谁在评价、评价的是什么。
 
 ## 延伸
 

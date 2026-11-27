@@ -8,7 +8,7 @@ task: "2014 年 Passage 1 与 Passage 2 精读"
 created_from: ".claude/workflows/reading-note-batch-generation/state-template.md"
 created_at: "2026-11-27"
 last_updated: "2026-11-27"
-current_phase: P6
+current_phase: P7
 current_status: in_progress
 mode: batch
 blocked_reason: ""
@@ -30,7 +30,7 @@ global_updates: "更新语法与固定搭配汇总"
 > 任务：2014 年 Passage 1 与 Passage 2 精读
 > 批次：2026-11-27-2014-reading
 > 创建时间：2026-11-27
-> 当前阶段：阶段 6
+> 当前阶段：阶段 7
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -82,13 +82,16 @@ global_updates: "更新语法与固定搭配汇总"
 
 ## 阶段 6：批量 QA
 
-> [P6] 🔲 进行中 {in_progress}
+- 两篇已通过原文与题目比对、逐段译文比对、生词覆盖和内联 callout 定位；独立审查核对了词汇练习与参考答案。
+- Passage 1 已修正 `a whopping` 的标签和书评态度表述；Passage 2 无待修项。
+
+> [P6] ✅ 已完成 {complete}
 
 ---
 
 ## 阶段 7：全局汇总更新
 
-> [P7] ⬜ 未开始 {not_started}
+> [P7] 🔲 进行中 {in_progress}
 
 ---
 
