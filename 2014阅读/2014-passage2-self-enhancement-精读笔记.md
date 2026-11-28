@@ -1,5 +1,5 @@
 ---
-title: "2014 Passage 2：自我美化与外貌吸引力 · 精读笔记"
+title: 2014 Passage 2：自我美化与外貌吸引力 · 精读笔记
 type: study-note
 topic: self-enhancement
 tags:
@@ -11,10 +11,10 @@ difficulty: intermediate
 created: 2026-11-27
 updated: 2026-11-27
 sources:
-  - "[[intermediate/2014-passage2-self-enhancement/formatted-article.md]]"
-  - "[[intermediate/2014-passage2-self-enhancement/translation.md]]"
-  - "[[intermediate/2014-passage2-self-enhancement/grammar-notes.md]]"
-  - "[[intermediate/2014-passage2-self-enhancement/固定搭配与词组笔记.md]]"
+  - "[[../intermediate/2014-passage2-self-enhancement/formatted-article]]"
+  - "[[../intermediate/2014-passage2-self-enhancement/translation]]"
+  - "[[../intermediate/2014-passage2-self-enhancement/grammar-notes]]"
+  - "[[../intermediate/2014-passage2-self-enhancement/固定搭配与词组笔记]]"
 ---
 
 # 2014 Passage 2：自我美化与外貌吸引力 · 精读笔记
@@ -382,7 +382,7 @@ Knowing the results of Epley's study, it makes sense that many people hate photo
 
 ## 语法要点
 
-根据文章原文提取考点；词义与用法另见 [[intermediate/2014-passage2-self-enhancement/固定搭配与词组笔记.md|本篇固定搭配与词组笔记]]。例句栏为连续原文片段。
+根据文章原文提取考点；词义与用法另见 [[../intermediate/2014-passage2-self-enhancement/固定搭配与词组笔记|本篇固定搭配与词组笔记]]。例句栏为连续原文片段。
 
 ### 从句：名词性从句
 
@@ -397,7 +397,7 @@ Knowing the results of Epley's study, it makes sense that many people hate photo
 | `it makes sense that …` | P5. `it` 是形式主语，`that` 从句是后置的实际主语（“……是可以理解的”）。句首 `Knowing …` 的理解者是读者，并不是形式主语 `it`。 | `Knowing the results of Epley's study, it makes sense that many people hate photographs of themselves viscerally` |
 
 > [!tip] 区分两个 `that`
-> 本节的 `evidence that …` 可问“是什么命题”；[[#从句：定语从句]] 的 `findings that we have` 可问“我们有什么”，关系词在 `have` 后填补宾语空位。
+> 本节的 `evidence that …` 可问“是什么命题”；[[2014-passage2-self-enhancement-精读笔记#从句：定语从句]] 的 `findings that we have` 可问“我们有什么”，关系词在 `have` 后填补宾语空位。
 
 ---
 
@@ -437,7 +437,7 @@ Knowing the results of Epley's study, it makes sense that many people hate photo
 | `to + 动词原形` 作目的状语 | P2. 目的成分回答“为何那样评价他人”：借贬低别人来提升自我评价。P4 的 `to make up for …` 同样表目的，但该目的处于“无证据表明”的范围内。 | `apply negative stereotypes to others to boost our own esteem` |
 
 > [!warning] 不要逢 `to` 就当不定式
-> `to boost` 前的 `to` 标记不定式，`to others` 则是介词短语；同句中先看 `to` 后接动词还是名词性成分。搭配见 [[intermediate/2014-passage2-self-enhancement/固定搭配与词组笔记.md#认知与评价|认知与评价]]。
+> `to boost` 前的 `to` 标记不定式，`to others` 则是介词短语；同句中先看 `to` 后接动词还是名词性成分。搭配见 [[../intermediate/2014-passage2-self-enhancement/固定搭配与词组笔记#认知与评价|认知与评价]]。
 
 ---
 
@@ -481,7 +481,7 @@ Knowing the results of Epley's study, it makes sense that many people hate photo
 
 ## 固定搭配与词组
 
-按语境收录原文搭配与术语。句法见 [[intermediate/2014-passage2-self-enhancement/grammar-notes.md|本篇语法要点]]。例句栏为连续原文片段；📌 标记直接帮助定位题目线索的表达。
+按语境收录原文搭配与术语。句法见 [[../intermediate/2014-passage2-self-enhancement/grammar-notes|本篇语法要点]]。例句栏为连续原文片段；📌 标记直接帮助定位题目线索的表达。
 
 ### 认知与评价
 
@@ -617,7 +617,7 @@ Knowing the results of Epley's study, it makes sense that many people hate photo
 
 ## 延伸
 
-对照复习另一篇 2014 阅读：[[2014-passage1-happy-money-精读笔记.md]]。找出各篇中支撑主张的例子，再用一句话说清它能证明什么、不能证明什么。
+对照复习另一篇 2014 阅读：[[2014-passage1-happy-money-精读笔记]]。找出各篇中支撑主张的例子，再用一句话说清它能证明什么、不能证明什么。
 
 ## 思考题
 
@@ -628,6 +628,6 @@ Knowing the results of Epley's study, it makes sense that many people hate photo
 
 ## 相关笔记
 
-- [[语法总结笔记.md]]
-- [[固定搭配与词组笔记.md]]
-- [[阅读心得.md]]
+- [[../语法总结笔记]]
+- [[../固定搭配与词组笔记]]
+- [[../阅读心得]]

@@ -1,5 +1,5 @@
 ---
-title: "2014 Passage 1：怎样花钱更快乐 · 精读笔记"
+title: 2014 Passage 1：怎样花钱更快乐 · 精读笔记
 type: study-note
 topic: happy-money
 tags:
@@ -11,10 +11,10 @@ difficulty: intermediate
 created: 2026-11-27
 updated: 2026-11-27
 sources:
-  - "[[intermediate/2014-passage1-happy-money/formatted-article.md]]"
-  - "[[intermediate/2014-passage1-happy-money/translation.md]]"
-  - "[[intermediate/2014-passage1-happy-money/grammar-notes.md]]"
-  - "[[intermediate/2014-passage1-happy-money/固定搭配与词组笔记.md]]"
+  - "[[../intermediate/2014-passage1-happy-money/formatted-article]]"
+  - "[[../intermediate/2014-passage1-happy-money/translation]]"
+  - "[[../intermediate/2014-passage1-happy-money/grammar-notes]]"
+  - "[[../intermediate/2014-passage1-happy-money/固定搭配与词组笔记]]"
 ---
 
 # 2014 Passage 1：怎样花钱更快乐 · 精读笔记
@@ -325,7 +325,7 @@ Readers of Happy Money are clearly a privileged lot, anxious about fulfilment, n
 ## 语法要点
 
 > [!note] 来源说明
-> 考点从本文原文提炼。例项引用原文片段；习惯表达另见 [[intermediate/2014-passage1-happy-money/固定搭配与词组笔记.md|本篇固定搭配]]。
+> 考点从本文原文提炼。例项引用原文片段；习惯表达另见 [[../intermediate/2014-passage1-happy-money/固定搭配与词组笔记|本篇固定搭配]]。
 
 ### 从句：名词性从句
 
@@ -334,16 +334,16 @@ Readers of Happy Money are clearly a privileged lot, anxious about fulfilment, n
 | `what` 融合关系结构 | `What was once exciting and new` 整体充当 `becomes` 的主语；`what` 在内部也作主语，相当于“原本令人兴奋又新鲜的东西”，不是问句。（第 2 段） | `What was once exciting and new becomes old-hat` |
 | 动词 + `that` 内容从句 | `that` 只标记从句边界，不充当内部成分。`to show` 表研究的用途，`that` 后才是研究结论。（第 2 段） | `to show that the most rewarding ways to spend money can be counterintuitive` |
 | 内容从句的 `that` 省略 | `hopes` 后接完整命题；`believing` 后同样如此。不能把 `her new-found fortune` 单独当成 `hopes` 的宾语，也别把 `it` 单独当成 `believing` 的宾语。（第 1、4 段） | `she hopes her new-found fortune will yield lasting feelings of fulfilment`；`believing it was money well spent` |
-| `It seems (that) ...` | `it` 不回指前面的书，`seems` 给后面的整个判断加上“似乎”的语气；从句内部另有 `if` 条件。与 [[#非谓语动词：不定式]] 中 `It is far better to ...` 的形式主语结构区分。（第 3 段） | `It seems most people would be better off if they could shorten their commutes to work` |
+| `It seems (that) ...` | `it` 不回指前面的书，`seems` 给后面的整个判断加上“似乎”的语气；从句内部另有 `if` 条件。与 [[2014-passage1-happy-money-精读笔记#非谓语动词：不定式]] 中 `It is far better to ...` 的形式主语结构区分。（第 3 段） | `It seems most people would be better off if they could shorten their commutes to work` |
 
 ### 从句：定语从句
 
 | 结构 | 用法 | 原文例项 |
 | --- | --- | --- |
-| 名词 + `who` 从句 | `who` 作从句主语，直接修饰 `widow`；整个 `an 84-year-old widow ...` 是人名后的同位语。见 [[#补充要点：同位语与插入语]]。（第 1 段） | `an 84-year-old widow who recently emerged from her small, tin-roofed house in Florida` |
+| 名词 + `who` 从句 | `who` 作从句主语，直接修饰 `widow`；整个 `an 84-year-old widow ...` 是人名后的同位语。见 [[2014-passage1-happy-money-精读笔记#补充要点：同位语与插入语]]。（第 1 段） | `an 84-year-old widow who recently emerged from her small, tin-roofed house in Florida` |
 | `something` + 零关系词从句 | `something` 承接“看电视”这件事；在其后的关系结构中，对应 `doing` 后的宾语空位。`and is hardly jollier for it` 补说同一群体并没有因此更开心；不是 `something` 感到开心。（第 3 段） | `something the average American spends a whopping two months a year doing, and is hardly jollier for it` |
 | `the reason` + 零关系词从句 | `reason` 后直接跟句子，可显化为 `the reason why ...`；`McDonald’s` 是从句主语，不是 `reason` 的同位语。（第 3 段） | `the reason McDonald’s restricts the availability of its popular McRib` |
-| `that` 限制性 / `, which` 非限制性 | `that` 指回 `trick`，并作 `has turned` 的主语；逗号后的 `which` 指回 `policy ideas`，补充政策范围。与 [[#从句：名词性从句]] 中不充当成分的 `that` 对比。（第 3、4 段） | `a marketing trick that has turned the pork sandwich into an object of obsession`；`the authors' policy ideas, which range from mandating more holiday time to reducing tax incentives for American homebuyers` |
+| `that` 限制性 / `, which` 非限制性 | `that` 指回 `trick`，并作 `has turned` 的主语；逗号后的 `which` 指回 `policy ideas`，补充政策范围。与 [[2014-passage1-happy-money-精读笔记#从句：名词性从句]] 中不充当成分的 `that` 对比。（第 3、4 段） | `a marketing trick that has turned the pork sandwich into an object of obsession`；`the authors' policy ideas, which range from mandating more holiday time to reducing tax incentives for American homebuyers` |
 
 ### 从句：条件与时间状语从句
 
@@ -367,7 +367,7 @@ Readers of Happy Money are clearly a privileged lot, anxious about fulfilment, n
 | --- | --- | --- |
 | `-ing` 作主语或比较对象 | `Buying gifts` 和 `giving to charity` 由 `or` 连接，共用谓语 `is`；比较的是为人赠礼／捐款与为自己购物这两类行为，不是礼物和人相比。（第 3 段） | `Buying gifts or giving to charity is often more pleasurable than purchasing things for oneself` |
 | 介词 + `-ing` | `between` 后并列两项；`range from A to B` 中 `from`、`to` 都是介词，所以用 `mandating`、`reducing`，不能把 `to reducing` 读作不定式。（第 4 段） | `between feeling good and spending money on others`；`from mandating more holiday time to reducing tax incentives for American homebuyers` |
-| 现在分词短语作补充说明 | `believing ...` 的逻辑主语是 `most people`，说明读者读完后的看法；内容从句见 [[#从句：名词性从句]]。（第 4 段） | `most people will come away from this book believing it was money well spent` |
+| 现在分词短语作补充说明 | `believing ...` 的逻辑主语是 `most people`，说明读者读完后的看法；内容从句见 [[2014-passage1-happy-money-精读笔记#从句：名词性从句]]。（第 4 段） | `most people will come away from this book believing it was money well spent` |
 | 过去分词短语作后置定语 | `well spent` 修饰 `money`，可理解为 `money that was well spent`；句中的 `was` 本来连接 `it` 和名词短语 `money well spent`，不能直接把整个从句读成单一的被动谓语。（第 4 段） | `it was money well spent` |
 
 ### 语态：被动结构
@@ -381,7 +381,7 @@ Readers of Happy Money are clearly a privileged lot, anxious about fulfilment, n
 | 结构 | 用法 | 原文例项 |
 | --- | --- | --- |
 | `happier than those in poor ones` | `those` 替代 `people`，`ones` 替代 `countries`；比较的是富裕国家与贫穷国家的**人**，不是人和国家相比。（第 4 段） | `people in wealthier countries are generally happier than those in poor ones` |
-| `more ... and less of it ...` | 第二个 `spend` 省略；`it` 指 `time`，`less` 对应时间长短；`watching television` 说明时间花在做什么。联读 [[#从句：条件与时间状语从句]]。（第 3 段） | `spend more time with friends and family and less of it watching television` |
+| `more ... and less of it ...` | 第二个 `spend` 省略；`it` 指 `time`，`less` 对应时间长短；`watching television` 说明时间花在做什么。联读 [[2014-passage1-happy-money-精读笔记#从句：条件与时间状语从句]]。（第 3 段） | `spend more time with friends and family and less of it watching television` |
 
 ### 否定：范围与程度
 
@@ -395,14 +395,14 @@ Readers of Happy Money are clearly a privileged lot, anxious about fulfilment, n
 | 结构 | 用法 | 原文例项 |
 | --- | --- | --- |
 | 插入报道语 | 用逗号隔开的 `say Ms. Dunn and Mr. Norton` 说明判断出自谁；略去后可直接把 `like` 后的三项接回 `experiences`，不要误将它们看成 `say` 的宾语。（第 2 段） | `on experiences, say Ms. Dunn and Mr. Norton, like interesting trips, unique meals or even going to the cinema` |
-| 破折号 + 同位说明 | `a marketing trick` 概括前面“限制供应”的做法，而不是给产品 McRib 改名；其后的 `that` 再说明做法的效果。联读 [[#从句：定语从句]]。（第 3 段） | `its popular McRib—a marketing trick that has turned the pork sandwich into an object of obsession` |
+| 破折号 + 同位说明 | `a marketing trick` 概括前面“限制供应”的做法，而不是给产品 McRib 改名；其后的 `that` 再说明做法的效果。联读 [[2014-passage1-happy-money-精读笔记#从句：定语从句]]。（第 3 段） | `its popular McRib—a marketing trick that has turned the pork sandwich into an object of obsession` |
 
 ---
 
 ## 固定搭配与词组
 
 > [!note] 用法
-> 下表为原文常用搭配与地道表达，按语义聚合；更多结构见 [[intermediate/2014-passage1-happy-money/grammar-notes.md|本篇语法整理]]。
+> 下表为原文常用搭配与地道表达，按语义聚合；更多结构见 [[../intermediate/2014-passage1-happy-money/grammar-notes|本篇语法整理]]。
 
 ### 固定搭配：财富、消费与回报
 
@@ -435,7 +435,7 @@ Readers of Happy Money are clearly a privileged lot, anxious about fulfilment, n
 | `tax incentives for sb` | 通过税收优惠鼓励某类人或行为。文中谈减少购房者享受的优惠，而非减少购房者需要缴纳的税额。 | `reducing tax incentives for American homebuyers` |
 
 > [!tip] 对照复习
-> 把 `could do worse than ...`（开头委婉推荐）与 `money well spent`（结尾评价这本书）连起来看，可识别评论者的态度；句法结构回看 [[intermediate/2014-passage1-happy-money/grammar-notes.md#否定：范围与程度|否定与语气]]。
+> 把 `could do worse than ...`（开头委婉推荐）与 `money well spent`（结尾评价这本书）连起来看，可识别评论者的态度；句法结构回看 [[../intermediate/2014-passage1-happy-money/grammar-notes#否定：范围与程度|否定与语气]]。
 
 ---
 
@@ -521,7 +521,7 @@ Readers of Happy Money are clearly a privileged lot, anxious about fulfilment, n
 
 ## 延伸
 
-对照复习另一篇 2014 阅读：[[2014-passage2-self-enhancement-精读笔记.md]]。找出各篇中支撑主张的例子，再用一句话说清它能证明什么、不能证明什么。
+对照复习另一篇 2014 阅读：[[2014-passage2-self-enhancement-精读笔记]]。找出各篇中支撑主张的例子，再用一句话说清它能证明什么、不能证明什么。
 
 ## 思考题
 
@@ -532,6 +532,6 @@ Readers of Happy Money are clearly a privileged lot, anxious about fulfilment, n
 
 ## 相关笔记
 
-- [[语法总结笔记.md]]
-- [[固定搭配与词组笔记.md]]
-- [[阅读心得.md]]
+- [[../语法总结笔记]]
+- [[../固定搭配与词组笔记]]
+- [[../阅读心得]]
