@@ -8,10 +8,10 @@ task: "2014 年 Passage 3 与 Passage 4 精读"
 created_from: ".claude/workflows/reading-note-batch-generation/state-template.md"
 created_at: "2026-11-28"
 last_updated: "2026-11-28"
-current_phase: P4
-current_status: blocked
+current_phase: P5
+current_status: in_progress
 mode: batch
-blocked_reason: "等待用户确认长难句候选（Passage 3 A1–A7、Passage 4 B1–B7；可删改、补充或暂缓）"
+blocked_reason: ""
 batch_id: "2026-11-28-2014-reading"
 source_set:
   - "/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_3.md"
@@ -30,7 +30,7 @@ global_updates: "更新语法与固定搭配汇总"
 > 任务：2014 年 Passage 3 与 Passage 4 精读
 > 批次：2026-11-28-2014-reading
 > 创建时间：2026-11-28
-> 当前阶段：阶段 4
+> 当前阶段：阶段 5
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -84,10 +84,12 @@ global_updates: "更新语法与固定搭配汇总"
 ## 阶段 4：人工确认关口
 
 - [x] 已按篇汇总长难句候选：Passage 3 A1–A7；Passage 4 B1–B7。完整原句和分析理由见各单篇 run 的「候选句」。
-- [ ] 已获得用户确认、删改、补充或暂跳过决定
+- [x] 已获得用户确认、删改、补充或暂跳过决定
 - [x] 未确认文章已标记为 needs_confirmation
 
-> [P4] 🔲 进行中 {blocked}
+- 用户确认全部分析：A1–A7、B1–B7。
+
+> [P4] ✅ 已完成 {complete}
 
 ---
 
@@ -98,7 +100,7 @@ global_updates: "更新语法与固定搭配汇总"
 - [ ] 已逐篇生成生词表与练习
 - [ ] 已确保同一最终文件没有并发写入
 
-> [P5] ⬜ 未开始 {not_started}
+> [P5] 🔲 进行中 {in_progress}
 
 ---
 
@@ -136,8 +138,8 @@ global_updates: "更新语法与固定搭配汇总"
 
 | 状态 | Source | Year | Passage | Topic | Single Run | Final Note | Notes |
 |------|--------|------|---------|-------|------------|------------|-------|
-| needs_confirmation | `/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_3.md` | 2014 | 3 | automation-and-jobs | `workspace/workflow-runs/reading-note-2014-passage3-automation-and-jobs.workflow.md` | `2014阅读/2014-passage3-automation-and-jobs-精读笔记.md` | 6 段，31–35 题；无答案键 |
-| needs_confirmation | `/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_4.md` | 2014 | 4 | affordable-housing | `workspace/workflow-runs/reading-note-2014-passage4-affordable-housing.workflow.md` | `2014阅读/2014-passage4-affordable-housing-精读笔记.md` | 8 段，36–40 题；无答案键 |
+| confirmed | `/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_3.md` | 2014 | 3 | automation-and-jobs | `workspace/workflow-runs/reading-note-2014-passage3-automation-and-jobs.workflow.md` | `2014阅读/2014-passage3-automation-and-jobs-精读笔记.md` | 6 段，31–35 题；无答案键 |
+| confirmed | `/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_4.md` | 2014 | 4 | affordable-housing | `workspace/workflow-runs/reading-note-2014-passage4-affordable-housing.workflow.md` | `2014阅读/2014-passage4-affordable-housing-精读笔记.md` | 8 段，36–40 题；无答案键 |
 
 - 复核时磁盘上的文件名与初读所得映射相反；按正文及题号逐段比对（正文、题干和选项完全一致），更新源路径对应关系，已确认的笔记编号和输出路径不变。
 

@@ -8,10 +8,10 @@ task: "2014 年 Passage 3 精读"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-11-28"
 last_updated: "2026-11-28"
-current_phase: P4
-current_status: blocked
+current_phase: P5
+current_status: in_progress
 mode: guided
-blocked_reason: "等待用户确认长难句候选（Passage 3 A1–A7、Passage 4 B1–B7；可删改、补充或暂缓）"
+blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_3.md"
 year: "2014"
 passage: "3"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：2014 年 Passage 3 精读
 > 运行标识：reading-note-2014-passage3-automation-and-jobs
 > 创建时间：2026-11-28
-> 当前阶段：阶段 4
+> 当前阶段：阶段 5
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -83,9 +83,9 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 - [x] 已从 `formatted-article.md` 选出候选长难句
 - [x] 已说明每个候选句的分析价值
-- [ ] 已获得用户确认、删改或补充
+- [x] 已获得用户确认、删改或补充
 
-### 候选句（待用户确认）
+### 候选句（已确认）
 
 - **A1**（第 1 段）And yet, it would be a mistake to think we are right now simply experiencing the painful side of a boom and bust cycle.
   - 分析价值：形式主语、零 `that` 宾语从句，以及 `simply` 所限定的错误判断。
@@ -102,7 +102,9 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - **A7**（第 6 段）In other words, we need to look at the ways in which machines can augment human labor rather than replace it.
   - 分析价值：`in which` 作方式状语，与 A2 对照；`rather than` 明确“协作而非取代”。
 
-> [P4] 🔲 进行中 {blocked}
+- 用户确认全部分析：A1–A7。
+
+> [P4] ✅ 已完成 {complete}
 
 ---
 
@@ -115,7 +117,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已确认 callout 内表格前有空行
 - [ ] 已检查后续段落没有异常开头
 
-> [P5] ⬜ 未开始 {not_started}
+> [P5] 🔲 进行中 {in_progress}
 
 ---
 

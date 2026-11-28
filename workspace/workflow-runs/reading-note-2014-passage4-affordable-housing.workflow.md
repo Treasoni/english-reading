@@ -8,10 +8,10 @@ task: "2014 年 Passage 4 精读"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-11-28"
 last_updated: "2026-11-28"
-current_phase: P4
-current_status: blocked
+current_phase: P5
+current_status: ready
 mode: guided
-blocked_reason: "等待用户确认长难句候选（Passage 3 A1–A7、Passage 4 B1–B7；可删改、补充或暂缓）"
+blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_4.md"
 year: "2014"
 passage: "4"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：2014 年 Passage 4 精读
 > 运行标识：reading-note-2014-passage4-affordable-housing
 > 创建时间：2026-11-28
-> 当前阶段：阶段 4
+> 当前阶段：阶段 5
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -83,9 +83,9 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 - [x] 已从 `formatted-article.md` 选出候选长难句
 - [x] 已说明每个候选句的分析价值
-- [ ] 已获得用户确认、删改或补充
+- [x] 已获得用户确认、删改或补充
 
-### 候选句（待用户确认）
+### 候选句（已确认）
 
 - **B1**（第 1 段）When the government talks about infrastructure contributing to the economy the focus is usually on roads, railways, broadband and energy.
   - 分析价值：原文在引导从句后没有逗号；用主谓和 `contributing` 的逻辑主语定位边界。
@@ -102,7 +102,9 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - **B7**（第 8 段）While the government's commitment to long-term funding may have changed, the very pressing need for more affordable housing is real and is not going away.
   - 分析价值：让步与情态完成式对照，区分政府承诺「可能有变」和住房需求「确实存在且持续」。
 
-> [P4] 🔲 进行中 {blocked}
+- 用户确认全部分析：B1–B7。
+
+> [P4] ✅ 已完成 {complete}
 
 ---
 
