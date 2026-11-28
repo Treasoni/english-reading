@@ -8,8 +8,8 @@ task: "2014 年 Passage 4 精读"
 created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-11-28"
 last_updated: "2026-11-28"
-current_phase: P9
-current_status: in_progress
+current_phase: done
+current_status: complete
 mode: guided
 blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_4.md"
@@ -27,7 +27,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 > 任务：2014 年 Passage 4 精读
 > 运行标识：reading-note-2014-passage4-affordable-housing
 > 创建时间：2026-11-28
-> 当前阶段：阶段 9
+> 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -157,16 +157,17 @@ long_sentence_mode: "AI 候选 + 用户确认"
 
 ## 阶段 9：全局汇总
 
-- [ ] 已调用 `summarize-grammar`
-- [ ] 源发现已同时覆盖 `intermediate/**/grammar-notes.md` 与 `intermediate/**/固定搭配与词组笔记.md`
-- [ ] 已合并进根目录 `语法总结笔记.md`
-- [ ] 已合并进根目录 `固定搭配与词组笔记.md`
-- [ ] 已更新两个根文件的 frontmatter（updated / total_sources / processed_sources / categories）
-- [ ] 已更新两个根文件的快速索引表
-- [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
-- [ ] 已向用户报告两个根文件的更新内容
+- [x] 已调用 `summarize-grammar`
+- [x] 源发现已同时覆盖 `intermediate/**/grammar-notes.md` 与 `intermediate/**/固定搭配与词组笔记.md`
+- [x] 已合并进根目录 `语法总结笔记.md`
+- [x] 已合并进根目录 `固定搭配与词组笔记.md`
+- [x] 已更新两个根文件的 frontmatter（updated / total_sources / processed_sources / categories）
+- [x] 已更新两个根文件的快速索引表
+- [x] 已通过差集核验：102/102 语法源、54/54 单列搭配源；搭配汇总另登记 79 份提供词汇内容的语法源
 
-> [P9] 🔲 进行中 {in_progress}
+本篇 25 条语法、19 条搭配已归入对应主题。[[语法总结笔记.md#2014 Passage 4 语法导航|语法导航]] · [[固定搭配与词组笔记.md#2014 Passage 4 搭配导航|搭配导航]]。差集原因见 [[workspace/workflow-runs/reading-note-batch-2026-11-28-2014-reading.workflow.md#阶段 7：全局汇总更新|批次汇总记录]]。
+
+> [P9] ✅ 已完成 {complete}
 
 ---
 
@@ -184,4 +185,4 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - **中间目录**：`intermediate/2014-passage4-affordable-housing/`
 - **最终笔记**：`2014阅读/2014-passage4-affordable-housing-精读笔记.md`
 - **全局汇总**：`语法总结笔记.md`、`固定搭配与词组笔记.md`
-- **完成状态**：
+- **完成状态**：原文与题目已核对；7 句逐句解析、31 条生词及三类练习已落盘；两份全局汇总已更新并通过差集核验。

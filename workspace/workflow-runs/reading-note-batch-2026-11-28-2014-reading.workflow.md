@@ -8,8 +8,8 @@ task: "2014 年 Passage 3 与 Passage 4 精读"
 created_from: ".claude/workflows/reading-note-batch-generation/state-template.md"
 created_at: "2026-11-28"
 last_updated: "2026-11-28"
-current_phase: P7
-current_status: in_progress
+current_phase: done
+current_status: complete
 mode: batch
 blocked_reason: ""
 batch_id: "2026-11-28-2014-reading"
@@ -30,7 +30,7 @@ global_updates: "更新语法与固定搭配汇总"
 > 任务：2014 年 Passage 3 与 Passage 4 精读
 > 批次：2026-11-28-2014-reading
 > 创建时间：2026-11-28
-> 当前阶段：阶段 7
+> 当前阶段：完成
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -95,10 +95,10 @@ global_updates: "更新语法与固定搭配汇总"
 
 ## 阶段 5：串行写入与整合
 
-- [ ] 已逐篇执行长难句分析与插入
-- [ ] 已逐篇整合最终精读笔记
-- [ ] 已逐篇生成生词表与练习
-- [ ] 已确保同一最终文件没有并发写入
+- [x] 已逐篇执行长难句分析与插入
+- [x] 已逐篇整合最终精读笔记
+- [x] 已逐篇生成生词表与练习
+- [x] 已确保同一最终文件没有并发写入
 
 > [P5] ✅ 已完成 {complete}
 
@@ -106,9 +106,9 @@ global_updates: "更新语法与固定搭配汇总"
 
 ## 阶段 6：批量 QA
 
-- [ ] 已派发或执行每篇最终笔记 QA
-- [ ] 已检查 YAML、标题、表格空行、词汇占位符、长难句位置
-- [ ] 已串行修复 QA 发现的问题
+- [x] 已派发或执行每篇最终笔记 QA
+- [x] 已检查 YAML、标题、表格空行、词汇占位符、长难句位置
+- [x] 已串行修复 QA 发现的问题
 
 > [P6] ✅ 已完成 {complete}
 
@@ -116,21 +116,32 @@ global_updates: "更新语法与固定搭配汇总"
 
 ## 阶段 7：全局汇总更新
 
-- [ ] 已根据用户要求更新或跳过全局汇总笔记
-- [ ] 已串行处理共享文件
-- [ ] 已记录未更新原因
+- [x] 已根据用户要求更新两份全局汇总笔记
+- [x] 已串行处理共享文件
+- [x] 已记录差集及未单独收录的原因
 
-> [P7] 🔲 进行中 {in_progress}
+已更新 [[语法总结笔记.md]] 和 [[固定搭配与词组笔记.md]]。2014 阅读 Passage 1–4 补入 96 条语法例项、72 条搭配例项，新增逐篇导航，保留 2014 完形的独立入口。语法源覆盖 102/102；单列搭配源覆盖 54/54；搭配汇总另追踪 79 份曾补充词义、构词或语体的语法源。本次补入 13 份这类源的词汇教学细节，另为原已引用的 2008 Passage 4 补登来源。两份汇总均已核验 YAML、表格、索引及本次新增链接。
+
+搭配汇总不单独登记以下 23 份 `grammar-notes.md`（均已纳入语法汇总）：
+
+| 原因 | `intermediate/` 下的来源目录 |
+| --- | --- |
+| 仅讲类比、时间等句法，不另产出搭配 | `2007-passage4-data-security`、`2008-passage2-scientific-publishing` |
+| 同篇单列搭配文件已收录，不为同一材料重复登记 | `2012-passage2-pink`、`2014-passage1-happy-money`、`2014-passage2-self-enhancement`、`2014-passage3-automation-and-jobs`、`2014-passage4-affordable-housing`、`2015-cloze-talking-to-strangers` |
+| 同上 | `2018-passage1-vocational-education`、`2018-passage2-renewable-energy`、`2018-passage3-digital-giants`、`2019-passage1-guilt`、`2019-passage2-forest-carbon-plan`、`2019-passage3-farm-labor`、`2019-passage4-plastic-crisis` |
+| 同上 | `2021-passage1-reskilling`、`2021-passage2-food-self-sufficiency`、`2021-passage3-big-tech-acquisitions`、`2021-passage4-intuition`、`2022-passage2-unretirement`、`2022-passage3-dark-patterns`、`2024-passage3-aging-drivers`、`2024-passage4-health-apps` |
+
+> [P7] ✅ 已完成 {complete}
 
 ---
 
 ## 阶段 8：最终收尾
 
-- [ ] 已汇总完成、阻塞、暂缓和跳过文章
-- [ ] 已列出最终输出路径
-- [ ] 已确认批量状态文件更新
+- [x] 已汇总完成、阻塞、暂缓和跳过文章
+- [x] 已列出最终输出路径
+- [x] 已确认批量状态文件更新
 
-> [P8] ⬜ 未开始 {not_started}
+> [P8] ✅ 已完成 {complete}
 
 ---
 
@@ -138,8 +149,8 @@ global_updates: "更新语法与固定搭配汇总"
 
 | 状态 | Source | Year | Passage | Topic | Single Run | Final Note | Notes |
 |------|--------|------|---------|-------|------------|------------|-------|
-| confirmed | `/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_3.md` | 2014 | 3 | automation-and-jobs | `workspace/workflow-runs/reading-note-2014-passage3-automation-and-jobs.workflow.md` | `2014阅读/2014-passage3-automation-and-jobs-精读笔记.md` | 6 段，31–35 题；无答案键 |
-| confirmed | `/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_4.md` | 2014 | 4 | affordable-housing | `workspace/workflow-runs/reading-note-2014-passage4-affordable-housing.workflow.md` | `2014阅读/2014-passage4-affordable-housing-精读笔记.md` | 8 段，36–40 题；无答案键 |
+| completed | `/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_3.md` | 2014 | 3 | automation-and-jobs | [[workspace/workflow-runs/reading-note-2014-passage3-automation-and-jobs.workflow.md]] | [[2014阅读/2014-passage3-automation-and-jobs-精读笔记.md]] | 6 段，31–35 题；7 句解析，30 条生词；无官方答案键 |
+| completed | `/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_4.md` | 2014 | 4 | affordable-housing | [[workspace/workflow-runs/reading-note-2014-passage4-affordable-housing.workflow.md]] | [[2014阅读/2014-passage4-affordable-housing-精读笔记.md]] | 8 段，36–40 题；7 句解析，31 条生词；无官方答案键 |
 
 - 复核时磁盘上的文件名与初读所得映射相反；按正文及题号逐段比对（正文、题干和选项完全一致），更新源路径对应关系，已确认的笔记编号和输出路径不变。
 
@@ -169,6 +180,8 @@ global_updates: "更新语法与固定搭配汇总"
 
 - **批次**：`2026-11-28-2014-reading`
 - **输出根目录**：`2014阅读/`
-- **完成文章数**：
-- **阻塞文章数**：
-- **暂缓文章数**：
+- **完成文章数**：2
+- **阻塞文章数**：0（长难句候选已确认）
+- **暂缓文章数**：0
+- **跳过文章数**：0
+- **全局汇总**：[[语法总结笔记.md#2014 阅读导航|2014 阅读语法导航]]、[[固定搭配与词组笔记.md#2014 阅读导航|2014 阅读搭配导航]]
