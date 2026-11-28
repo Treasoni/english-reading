@@ -9,7 +9,7 @@ created_from: ".claude/workflows/reading-note-batch-generation/state-template.md
 created_at: "2026-11-28"
 last_updated: "2026-11-28"
 current_phase: P7
-current_status: ready
+current_status: in_progress
 mode: batch
 blocked_reason: ""
 batch_id: "2026-11-28-2014-reading"
@@ -120,7 +120,7 @@ global_updates: "更新语法与固定搭配汇总"
 - [ ] 已串行处理共享文件
 - [ ] 已记录未更新原因
 
-> [P7] ⬜ 未开始 {not_started}
+> [P7] 🔲 进行中 {in_progress}
 
 ---
 

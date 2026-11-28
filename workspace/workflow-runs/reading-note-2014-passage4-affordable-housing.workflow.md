@@ -9,7 +9,7 @@ created_from: ".claude/workflows/reading-note-generation/state-template.md"
 created_at: "2026-11-28"
 last_updated: "2026-11-28"
 current_phase: P9
-current_status: ready
+current_status: in_progress
 mode: guided
 blocked_reason: ""
 article_source: "/Users/zhqznc/Documents/英语阅读资料/2014阅读/passage_4.md"
@@ -166,7 +166,7 @@ long_sentence_mode: "AI 候选 + 用户确认"
 - [ ] 已通过差集核验（`语法总结笔记.md` 差集必须为空）
 - [ ] 已向用户报告两个根文件的更新内容
 
-> [P9] ⬜ 未开始 {not_started}
+> [P9] 🔲 进行中 {in_progress}
 
 ---
 
