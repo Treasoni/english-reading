@@ -8,7 +8,7 @@ task: "2014 年 Passage 3 与 Passage 4 精读"
 created_from: ".claude/workflows/reading-note-batch-generation/state-template.md"
 created_at: "2026-11-28"
 last_updated: "2026-11-28"
-current_phase: P5
+current_phase: P6
 current_status: in_progress
 mode: batch
 blocked_reason: ""
@@ -30,7 +30,7 @@ global_updates: "更新语法与固定搭配汇总"
 > 任务：2014 年 Passage 3 与 Passage 4 精读
 > 批次：2026-11-28-2014-reading
 > 创建时间：2026-11-28
-> 当前阶段：阶段 5
+> 当前阶段：阶段 6
 > 状态图例：⬜ 未开始 | 🔲 进行中 | ✅ 已完成 | ⏭️ 跳过
 
 ---
@@ -100,7 +100,7 @@ global_updates: "更新语法与固定搭配汇总"
 - [ ] 已逐篇生成生词表与练习
 - [ ] 已确保同一最终文件没有并发写入
 
-> [P5] 🔲 进行中 {in_progress}
+> [P5] ✅ 已完成 {complete}
 
 ---
 
@@ -110,7 +110,7 @@ global_updates: "更新语法与固定搭配汇总"
 - [ ] 已检查 YAML、标题、表格空行、词汇占位符、长难句位置
 - [ ] 已串行修复 QA 发现的问题
 
-> [P6] ⬜ 未开始 {not_started}
+> [P6] 🔲 进行中 {in_progress}
 
 ---
 
